@@ -702,9 +702,6 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
             {sectionSub && <p style={styles.sectionSubtitle}>{sectionSub}</p>}
           </div>
         </div>
-        <button style={styles.newEntryBtn} onClick={onNew}>
-          {T.grid.newPost}
-        </button>
       </div>
 
       {/* Entries Grid */}
@@ -712,7 +709,6 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
         <div style={styles.emptyState}>
           <div style={styles.emptyIcon}>{section.icon}</div>
           <p style={styles.emptyText}>{T.grid.empty}</p>
-          <button style={styles.emptyBtn} onClick={onNew}>{T.grid.createFirst}</button>
         </div>
       ) : (
         <div style={styles.grid}>
@@ -804,10 +800,6 @@ function EntryCard({ entry, comments, onEdit, onDelete, onAddComment, onDeleteCo
           <button style={styles.commentBtn} onClick={() => setShowComments(!showComments)}>
             💬 {comments.length}
           </button>
-          <div style={styles.cardActions}>
-            <button style={styles.editBtn} onClick={() => onEdit(entry)}>Edit</button>
-            <button style={styles.deleteBtn} onClick={() => onDelete(entry.id)}>Delete</button>
-          </div>
         </div>
 
         {/* Comments Section */}
@@ -919,7 +911,6 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
           {insightEntries.length === 0 ? (
             <div style={styles.emptyState}>
               <p style={styles.emptyText}>{T.tech.empty}</p>
-              <button style={styles.emptyBtn} onClick={() => onNew("tech")}>{T.tech.createFirst}</button>
             </div>
           ) : (
             <div style={styles.grid}>
@@ -947,7 +938,6 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
           {obsEntries.length === 0 ? (
             <div style={styles.emptyState}>
               <p style={styles.emptyText}>{T.tech.empty}</p>
-              <button style={styles.emptyBtn} onClick={() => onNew("tech-obs")}>{T.tech.createFirst}</button>
             </div>
           ) : (
             <div style={styles.grid}>
