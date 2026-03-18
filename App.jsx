@@ -20,11 +20,11 @@ const TRANSLATIONS = {
     },
     about: {
       bg: "Background",
-      bg1: "Fukun is a J.D. student at Osgoode Hall Law School in Class of 2027. She is interested in the intersection of law and tech, especially in the edgy development of legal technology. She is keen on investing and general tech topics.",
-      bg2: "She graduated from Tsinghua University with a Bachelor in Science degree of Psychology and Juris Master degree. She also worked in a private equity firm on the legal side.",
+      bg1: "Fukun is a J.D. student at Osgoode Hall Law School, Class of 2027. She is interested in the intersection of law and technology, especially the rapid development of legal tech. She is also keen on investing and broader technology topics.",
+      bg2: "She graduated from Tsinghua University with a Bachelor of Science in Psychology and a Juris Master degree. She has also worked on legal matters at a private equity firm.",
       interests: "Interests",
-      int1: "In her spare time, she loves tennis, listening to all types of music with a special love of jazz, photography, reading and pottery.",
-      int2: "She is more than happy to chat with people from different backgrounds, feel free to",
+      int1: "In her spare time, she enjoys tennis, listening to all kinds of music (especially jazz), photography, reading, and pottery.",
+      int2: "She is always happy to connect with people from different backgrounds, so feel free to",
       connect: "connect",
     },
     tech: {
@@ -67,8 +67,9 @@ const TRANSLATIONS = {
       dateLabel: "Date", contentLabel: "Content", contentPh: "Write your thoughts...",
       importBtn: "📄 Import from PDF/DOCX", importing: "⟳ Importing...",
       addImages: "🖼️ Add Images", addFiles: "📎 Add Files",
-      words: "words", save: "Save",
+      words: "words", save: "Save", publish: "Publish Post", update: "Update Post",
     },
+    common: { readMore: "Read more", showLess: "Show less" },
     grid: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post" },
     footer: "© 2026 Fukun · All Rights Reserved",
     ambient: "Ambient",
@@ -134,8 +135,9 @@ const TRANSLATIONS = {
       dateLabel: "日期", contentLabel: "内容", contentPh: "写下你的想法...",
       importBtn: "📄 从PDF/DOCX导入", importing: "⟳ 导入中...",
       addImages: "🖼️ 添加图片", addFiles: "📎 添加文件",
-      words: "字", save: "保存",
+      words: "字", save: "保存", publish: "发布文章", update: "更新文章",
     },
+    common: { readMore: "阅读更多", showLess: "收起" },
     grid: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇" },
     footer: "© 2026 Fukun · 版权所有",
     ambient: "环境音乐",
@@ -650,7 +652,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
               <a 
                 href="mailto:frikasong@gmail.com" 
                 style={styles.contactIconLink}
-                title={"Email: frikasong@gmail.com"}
+                title={`${T.contact.email}: frikasong@gmail.com`}
               >
                 <div style={styles.contactIconCircle}>
                   <span style={styles.contactIcon}>✉️</span>
@@ -662,7 +664,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
                 target="_blank" 
                 rel="noopener noreferrer" 
                 style={styles.contactIconLink}
-                title="LinkedIn"
+                title={T.contact.linkedin}
               >
                 <div style={styles.contactIconCircle}>
                   <span style={styles.contactIcon}>💼</span>
@@ -674,7 +676,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
                 target="_blank" 
                 rel="noopener noreferrer" 
                 style={styles.contactIconLink}
-                title="Instagram: @frika_song"
+                title={`${T.contact.instagram}: @frika_song`}
               >
                 <div style={styles.contactIconCircle}>
                   <span style={styles.contactIcon}>📷</span>
@@ -723,6 +725,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
               onDelete={onDelete}
               onAddComment={onAddComment}
               onDeleteComment={onDeleteComment}
+              T={T}
             />
           ))}
         </div>
@@ -734,7 +737,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
 // ═══════════════════════════════════════════════════════════════════════════
 // ENTRY CARD
 // ═══════════════════════════════════════════════════════════════════════════
-function EntryCard({ entry, comments, onEdit, onDelete, onAddComment, onDeleteComment }) {
+function EntryCard({ entry, comments, onEdit, onDelete, onAddComment, onDeleteComment, T }) {
   const [expanded, setExpanded] = useState(false);
   const [showComments, setShowComments] = useState(false);
   const [commentName, setCommentName] = useState("");
@@ -772,7 +775,7 @@ function EntryCard({ entry, comments, onEdit, onDelete, onAddComment, onDeleteCo
         <p style={styles.cardBody}>{expanded ? entry.body : preview}</p>
         {entry.body.length > 180 && (
           <button style={styles.toggleBtn} onClick={() => setExpanded(!expanded)}>
-            {expanded ? "Show less" : "Read more"}
+            {expanded ? T.common.showLess : T.common.readMore}
           </button>
         )}
 
@@ -922,7 +925,7 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
             <div style={styles.grid}>
               {insightEntries.map((entry) => (
                 <EntryCard key={entry.id} entry={entry} comments={comments[entry.id] || []}
-                  onEdit={onEdit} onDelete={onDelete} onAddComment={onAddComment} onDeleteComment={onDeleteComment} />
+                  onEdit={onEdit} onDelete={onDelete} onAddComment={onAddComment} onDeleteComment={onDeleteComment} T={T} />
               ))}
             </div>
           )}
@@ -950,7 +953,7 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
             <div style={styles.grid}>
               {obsEntries.map((entry) => (
                 <EntryCard key={entry.id} entry={entry} comments={comments[entry.id] || []}
-                  onEdit={onEdit} onDelete={onDelete} onAddComment={onAddComment} onDeleteComment={onDeleteComment} />
+                  onEdit={onEdit} onDelete={onDelete} onAddComment={onAddComment} onDeleteComment={onDeleteComment} T={T} />
               ))}
             </div>
           )}
@@ -1074,7 +1077,7 @@ function EditorView({
         {/* Save */}
         <div style={styles.editorFooter}>
           <button style={styles.saveBtn} onClick={onSave} disabled={!form.body.trim() || !form.title.trim()}>
-            {isEditing ? "Update Post" : "Publish Post"}
+            {isEditing ? T.editor.update : T.editor.publish}
           </button>
         </div>
       </div>
@@ -1157,7 +1160,7 @@ const styles = {
     background: "none",
     border: "none",
     fontSize: 20,
-    color: "#a0b8cc",
+    color: "#7B8F92",
     cursor: "pointer",
     padding: 0,
     lineHeight: 1,
@@ -1876,7 +1879,7 @@ const styles = {
   removeAttachmentBtn: {
     background: "none",
     border: "none",
-    color: "#c8d4dc",
+    color: "#A3B5B8",
     fontSize: 18,
     cursor: "pointer",
     padding: 0,
@@ -2037,7 +2040,7 @@ const styles = {
     fontSize: 44,
     fontWeight: 600,
     fontStyle: "italic",
-    color: "#3a3a3a",
+    color: "#2F3F42",
     margin: "0 0 26px",
     lineHeight: 1.25,
     letterSpacing: "-0.5px",
@@ -2062,7 +2065,7 @@ const styles = {
     fontFamily: "'Lora', serif",
     fontSize: 17,
     lineHeight: 1.9,
-    color: "#5a5a5a",
+    color: "#4B5E61",
     margin: 0,
     textAlign: "center",
   },
@@ -2104,7 +2107,7 @@ const styles = {
     fontSize: 20,
     fontWeight: 600,
     fontStyle: "italic",
-    color: "#3a3a3a",
+    color: "#2F3F42",
     margin: "0 0 10px",
   },
   laiPillarText: {
@@ -2155,7 +2158,7 @@ const styles = {
     fontFamily: "'Lora', serif",
     fontSize: 18,
     lineHeight: 1.8,
-    color: "#5a5a5a",
+    color: "#4B5E61",
     fontStyle: "italic",
     margin: 0,
   },
@@ -2233,7 +2236,7 @@ const styles = {
     fontFamily: "'DM Sans', sans-serif",
     fontSize: 15,
     lineHeight: 1.7,
-    color: "#5a5a5a",
+    color: "#4B5E61",
     margin: 0,
   },
   toolCardBtn: {
