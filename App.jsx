@@ -577,7 +577,7 @@ function App() {
       <footer style={styles.footer}>
         <div style={styles.footerContent}>
           <span>{T.footer}</span>
-          <a href="mailto:frikasong@gamil.com" style={styles.footerLink}>
+          <a href="mailto:frikasong@gmail.com" style={styles.footerLink}>
             frikasong@gamil.com
           </a>
         </div>
