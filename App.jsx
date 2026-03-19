@@ -456,9 +456,7 @@ function App() {
         <div style={styles.headerMessage}>✨Welcome to Fukun Domain✨</div>
         <div style={styles.headerContent}>
           <div style={styles.headerLeft} onClick={() => { setView("grid"); setActiveSection("about"); }}>
-            {logoFailed ? (
-              <h1 style={styles.siteName}>{T.site.name}</h1>
-            ) : (
+            {!logoFailed && (
               <img
                 src="logo.png"
                 alt={T.site.name}
@@ -466,6 +464,7 @@ function App() {
                 onError={() => setLogoFailed(true)}
               />
             )}
+            <h1 style={styles.siteName}>{T.site.name}</h1>
             <p style={styles.tagline}>{T.site.tagline}</p>
           </div>
           <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
