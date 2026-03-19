@@ -260,6 +260,7 @@ function App() {
   const [form, setForm] = useState({ title: "", date: "", body: "", images: [], attachments: [], section: "tech" });
   const [menuOpen, setMenuOpen] = useState(false);
   const [lang, setLang] = useState("en");
+  const [logoFailed, setLogoFailed] = useState(false);
   const T = TRANSLATIONS[lang];
 
   // Music player
@@ -455,7 +456,16 @@ function App() {
         <div style={styles.headerMessage}>✨Welcome to Fukun Domain✨</div>
         <div style={styles.headerContent}>
           <div style={styles.headerLeft} onClick={() => { setView("grid"); setActiveSection("about"); }}>
-            <h1 style={styles.siteName}>{T.site.name}</h1>
+            {logoFailed ? (
+              <h1 style={styles.siteName}>{T.site.name}</h1>
+            ) : (
+              <img
+                src="logo.png"
+                alt={T.site.name}
+                style={styles.siteLogo}
+                onError={() => setLogoFailed(true)}
+              />
+            )}
             <p style={styles.tagline}>{T.site.tagline}</p>
           </div>
           <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
@@ -1230,6 +1240,11 @@ const styles = {
   },
   headerLeft: {
     cursor: "pointer",
+  },
+  siteLogo: {
+    height: 78,
+    width: "auto",
+    display: "block",
   },
   siteName: {
     fontSize: 28,
