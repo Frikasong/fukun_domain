@@ -448,7 +448,7 @@ function App() {
       {/* Header */}
       <header style={{ ...styles.header, padding: isMobile ? "10px 12px 12px" : (isTablet ? "12px 18px 14px" : styles.header.padding) }}>
         <div style={{ ...styles.headerContent, maxWidth: isWideDesktop ? 1280 : 1100, flexDirection: isMobile ? "column" : "row", gap: isMobile ? 10 : 0 }}>
-          <div style={{ ...styles.headerLeft, alignItems: isMobile ? "flex-start" : styles.headerLeft.alignItems, textAlign: isMobile ? "left" : styles.headerLeft.textAlign }} onClick={() => { setView("grid"); setActiveSection("about"); }}>
+          <div style={{ ...styles.headerLeft, width: isMobile ? "100%" : "auto", alignItems: "center", textAlign: "center" }} onClick={() => { setView("grid"); setActiveSection("about"); }}>
             {!logoFailed && (
               <img
                 src="logo.png"
