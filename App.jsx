@@ -86,7 +86,7 @@ const TRANSLATIONS = {
     law: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post" },
     investment: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post" },
     essays: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post" },
-    contact: { intro: "Let's connect!", email: "Email", linkedin: "LinkedIn", instagram: "Instagram" },
+    contact: { intro: "Let's connect!", email: "Email", linkedin: "LinkedIn", github: "GitHub", instagram: "Instagram" },
     editor: {
       new: "New Post", edit: "Edit Post", back: "← Back",
       titleLabel: "Title", titlePh: "Post title...",
@@ -180,7 +180,7 @@ const TRANSLATIONS = {
     law: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇" },
     investment: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇" },
     essays: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇" },
-    contact: { intro: "来联系我吧！", email: "邮箱", linkedin: "领英", instagram: "Instagram" },
+    contact: { intro: "来联系我吧！", email: "邮箱", linkedin: "领英", github: "GitHub", instagram: "Instagram" },
     editor: {
       new: "新建文章", edit: "编辑文章", back: "← 返回",
       titleLabel: "标题", titlePh: "文章标题...",
@@ -673,6 +673,18 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
                   <span style={styles.contactIcon}>📷</span>
                 </div>
                 <span style={styles.contactIconLabel}>{T.contact.instagram}</span>
+              </a>
+              <a 
+                href="https://github.com/Frikasong" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                style={styles.contactIconLink}
+                title={T.contact.github}
+              >
+                <div style={styles.contactIconCircle}>
+                  <span style={styles.contactIcon}>🐙</span>
+                </div>
+                <span style={styles.contactIconLabel}>{T.contact.github}</span>
               </a>
             </div>
           </div>
