@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Auto News Radar | Fukun</title>
+  <style>
+    :root {
+      --brand: #2B5054;
+      --brand-soft: #5A8A8E;
+      --text: #2F3F42;
+      --muted: #7B8F92;
+      --bg: #f8fafb;
+      --card: #ffffff;
+      --line: rgba(43, 80, 84, 0.18);
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    .wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 28px 20px 50px;
+    }
+
+    .head {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .title {
+      margin: 0;
+      color: var(--brand);
+      font-size: 28px;
+      line-height: 1.2;
+      font-weight: 700;
+    }
+
+    .sub {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .back {
+      text-decoration: none;
+      color: var(--brand);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 8px 10px;
+      font-size: 12px;
+      white-space: nowrap;
+      background: #fff;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
+      margin-bottom: 14px;
+    }
+
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .chip {
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--brand);
+      border-radius: 999px;
+      padding: 6px 10px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+
+    .chip.active {
+      background: var(--brand);
+      color: #fff;
+    }
+
+    .search {
+      width: 100%;
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 8px;
+      padding: 10px 12px;
+      color: var(--text);
+      font-size: 14px;
+      outline: none;
+    }
+
+    .meta {
+      color: var(--muted);
+      font-size: 12px;
+      margin: 6px 0 0;
+    }
+
+    .list {
+      display: grid;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .item {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--card);
+      padding: 12px;
+    }
+
+    .item-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 6px;
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .source { color: var(--brand); font-weight: 600; }
+
+    .item-title {
+      margin: 0;
+      font-size: 16px;
+      line-height: 1.4;
+      color: var(--text);
+    }
+
+    .item-title a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .sum {
+      margin: 8px 0;
+      color: #4B5E61;
+      font-size: 13px;
+      line-height: 1.6;
+    }
+
+    .item-bottom {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .badge {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 2px 8px;
+      font-size: 10px;
+      color: var(--brand);
+      background: rgba(43, 80, 84, 0.08);
+    }
+
+    .links {
+      display: flex;
+      gap: 6px;
+    }
+
+    .btn {
+      text-decoration: none;
+      color: var(--brand);
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      padding: 4px 8px;
+      font-size: 11px;
+      background: #fff;
+    }
+
+    .empty {
+      border: 1px dashed var(--line);
+      border-radius: 10px;
+      padding: 16px;
+      color: var(--muted);
+      font-size: 13px;
+      background: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="head">
+      <div>
+        <h1 class="title">Auto News Radar</h1>
+        <p class="sub">Independent legal tech intelligence tool · North America + China focus</p>
+      </div>
+      <a class="back" href="index.html">Back to site</a>
+    </div>
+
+    <div class="controls">
+      <div class="row" id="regionRow"></div>
+      <div class="row" id="categoryRow"></div>
+      <input class="search" id="q" placeholder="Search by title, source, or summary..." />
+      <p class="meta" id="meta">Loading...</p>
+    </div>
+
+    <div class="list" id="list"></div>
+  </div>
+
+  <script>
+    const regions = [
+      { id: 'na', label: 'North America' },
+      { id: 'cn', label: 'China Focus' }
+    ];
+    const categories = [
+      { id: 'all', label: 'All' },
+      { id: 'tools', label: 'Tools' },
+      { id: 'skills', label: 'Skills' },
+      { id: 'articles', label: 'Influential Articles' },
+      { id: 'updates', label: 'Updates' }
+    ];
+
+    let state = {
+      region: 'na',
+      category: 'all',
+      q: '',
+      feed: { generatedAt: null, panels: { na: [], cn: [] }, highlights: { na: [], cn: [] } }
+    };
+
+    function h(tag, attrs = {}, children = []) {
+      const el = document.createElement(tag);
+      Object.entries(attrs).forEach(([k, v]) => {
+        if (k === 'class') el.className = v;
+        else if (k === 'onclick') el.onclick = v;
+        else el.setAttribute(k, v);
+      });
+      (Array.isArray(children) ? children : [children]).forEach((c) => {
+        if (c == null) return;
+        if (typeof c === 'string') el.appendChild(document.createTextNode(c));
+        else el.appendChild(c);
+      });
+      return el;
+    }
+
+    function formatDate(value) {
+      if (!value) return '';
+      const d = new Date(value);
+      if (Number.isNaN(d.getTime())) return '';
+      return d.toLocaleDateString('en-CA', { year: 'numeric', month: 'short', day: 'numeric' });
+    }
+
+    function translateUrl(url, region) {
+      const target = region === 'cn' ? 'en' : 'zh-CN';
+      return `https://translate.google.com/translate?sl=auto&tl=${encodeURIComponent(target)}&u=${encodeURIComponent(url)}`;
+    }
+
+    function currentItems() {
+      const region = state.region;
+      const merged = [
+        ...(state.feed.highlights?.[region] || []),
+        ...(state.feed.panels?.[region] || [])
+      ];
+
+      return merged
+        .filter((x) => state.category === 'all' ? true : x.category === state.category)
+        .filter((x) => {
+          const text = `${x.title || ''} ${x.summary || ''} ${x.source || ''}`.toLowerCase();
+          return text.includes(state.q.toLowerCase());
+        })
+        .slice(0, 60);
+    }
+
+    function renderChips() {
+      const regionRow = document.getElementById('regionRow');
+      const categoryRow = document.getElementById('categoryRow');
+      regionRow.innerHTML = '';
+      categoryRow.innerHTML = '';
+
+      regions.forEach((r) => {
+        regionRow.appendChild(h('button', {
+          class: `chip ${state.region === r.id ? 'active' : ''}`,
+          onclick: () => { state.region = r.id; render(); }
+        }, r.label));
+      });
+
+      categories.forEach((c) => {
+        categoryRow.appendChild(h('button', {
+          class: `chip ${state.category === c.id ? 'active' : ''}`,
+          onclick: () => { state.category = c.id; render(); }
+        }, c.label));
+      });
+    }
+
+    function renderList() {
+      const list = document.getElementById('list');
+      const meta = document.getElementById('meta');
+      const items = currentItems();
+      list.innerHTML = '';
+
+      const generated = state.feed.generatedAt ? ` · updated ${formatDate(state.feed.generatedAt)}` : '';
+      meta.textContent = `${items.length} results${generated}`;
+
+      if (items.length === 0) {
+        list.appendChild(h('div', { class: 'empty' }, 'No matching results. Try a different filter or search.'));
+        return;
+      }
+
+      items.forEach((item) => {
+        const card = h('article', { class: 'item' }, [
+          h('div', { class: 'item-top' }, [
+            h('span', { class: 'source' }, item.source || 'Source'),
+            h('span', {}, formatDate(item.publishedAt))
+          ]),
+          h('h3', { class: 'item-title' }, h('a', { href: item.url, target: '_blank', rel: 'noopener noreferrer' }, item.title || 'Untitled')),
+          item.summary ? h('p', { class: 'sum' }, item.summary) : null,
+          h('div', { class: 'item-bottom' }, [
+            h('span', { class: 'badge' }, item.category || 'updates'),
+            h('div', { class: 'links' }, [
+              h('a', { class: 'btn', href: item.url, target: '_blank', rel: 'noopener noreferrer' }, 'Read'),
+              h('a', { class: 'btn', href: translateUrl(item.url, state.region), target: '_blank', rel: 'noopener noreferrer' }, 'Translate')
+            ])
+          ])
+        ]);
+        list.appendChild(card);
+      });
+    }
+
+    function render() {
+      renderChips();
+      renderList();
+    }
+
+    async function init() {
+      document.getElementById('q').addEventListener('input', (e) => {
+        state.q = e.target.value || '';
+        renderList();
+      });
+
+      try {
+        const res = await fetch(`news-feed.json?t=${Date.now()}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        state.feed = await res.json();
+      } catch (err) {
+        document.getElementById('meta').textContent = 'Could not load news-feed.json';
+      }
+
+      render();
+    }
+
+    init();
+  </script>
+</body>
+</html>

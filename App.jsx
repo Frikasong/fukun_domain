@@ -47,6 +47,13 @@ const TRANSLATIONS = {
         status: "Live",
         btn: "Open Tool →",
       },
+      radarTool: {
+        name: "Auto News Radar",
+        tagline: "Legal tech intelligence tracker",
+        desc: "A standalone scanner for legal tech and AI developments. Browse North America and China focus streams, filter by category, and open instant translations.",
+        status: "Live",
+        btn: "Open Tool →",
+      },
       insightsTitle: "Legal Tech & Insights",
       insightsSub: "News · Updates · Analysis",
       obsTitle: "Tech Observations",
@@ -131,6 +138,13 @@ const TRANSLATIONS = {
       housekeeper: {
         tagline: "证据摘要生成器",
         desc: "自动将上传的证据图片整理为格式化PDF摘要——含分栏标签、缩略图与页码。专为安大略省LTB庭审设计。",
+        status: "上线中",
+        btn: "打开工具 →",
+      },
+      radarTool: {
+        name: "自动新闻雷达",
+        tagline: "法律科技情报追踪器",
+        desc: "独立使用的法律科技与AI动态扫描工具。可查看北美与中国焦点，按类别筛选，并一键打开翻译。",
         status: "上线中",
         btn: "打开工具 →",
       },
@@ -1030,6 +1044,20 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
             <p style={styles.toolCardDesc}>{T.tech.housekeeper.desc}</p>
             <a href="https://housekeeper-2kp7.onrender.com/" target="_blank" rel="noopener noreferrer" style={styles.toolCardBtn}>
               {T.tech.housekeeper.btn}
+            </a>
+          </div>
+
+          <div style={{ ...styles.toolCard, marginTop: 14 }}>
+            <div style={styles.toolCardHeader}>
+              <div>
+                <h3 style={styles.toolCardName}>{T.tech.radarTool.name}</h3>
+                <span style={styles.toolCardTagline}>{T.tech.radarTool.tagline}</span>
+              </div>
+              <span style={styles.toolCardBadge}>{T.tech.radarTool.status}</span>
+            </div>
+            <p style={styles.toolCardDesc}>{T.tech.radarTool.desc}</p>
+            <a href="news-radar.html" target="_blank" rel="noopener noreferrer" style={styles.toolCardBtn}>
+              {T.tech.radarTool.btn}
             </a>
           </div>
         </div>
