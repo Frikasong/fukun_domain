@@ -478,7 +478,6 @@ function App() {
             </button>
           </div>
         </div>
-        <div style={styles.headerMessage}>✨Welcome to Fukun Domain✨</div>
       </header>
 
       {/* Nav backdrop */}
@@ -1221,14 +1220,6 @@ const styles = {
     zIndex: 100,
     padding: "16px 40px 24px",
     borderBottom: "1px solid rgba(43, 80, 84, 0.15)",
-  },
-  headerMessage: {
-    textAlign: "center",
-    fontFamily: "'DM Sans', sans-serif",
-    fontSize: 14,
-    color: "#2B5054",
-    marginBottom: 8,
-    letterSpacing: "1px",
   },
   headerContent: {
     maxWidth: 1400,
