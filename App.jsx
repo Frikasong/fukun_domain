@@ -453,7 +453,6 @@ function App() {
 
       {/* Header */}
       <header style={styles.header}>
-        <div style={styles.headerMessage}>✨Welcome to Fukun Domain✨</div>
         <div style={styles.headerContent}>
           <div style={styles.headerLeft} onClick={() => { setView("grid"); setActiveSection("about"); }}>
             {!logoFailed && (
@@ -479,6 +478,7 @@ function App() {
             </button>
           </div>
         </div>
+        <div style={styles.headerMessage}>✨Welcome to Fukun Domain✨</div>
       </header>
 
       {/* Nav backdrop */}
