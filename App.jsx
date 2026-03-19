@@ -218,15 +218,6 @@ const SECTION_MAP = {
   "comparative": "law",
 };
 
-// ─── Ambient Music Tracks ───────────────────────────────────────────────────
-const AMBIENT_TRACKS = [
-  { name: "Peaceful Piano", url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
-  { name: "Calm Ambient", url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
-  { name: "Focus Mode", url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
-  { name: "Deep Concentration", url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
-  { name: "Mindful Beats", url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" },
-];
-
 // ─── Utility Functions ──────────────────────────────────────────────────────
 async function extractDocx(file) {
   const mammoth = await import("mammoth");
@@ -315,12 +306,6 @@ function App() {
   const [logoFailed, setLogoFailed] = useState(false);
   const T = TRANSLATIONS[lang];
 
-  // Music player
-  const [isPlaying, setIsPlaying] = useState(false);
-  const [currentTrack, setCurrentTrack] = useState(0);
-  const [showMusicPlayer, setShowMusicPlayer] = useState(false);
-  const audioRef = useRef(null);
-
   // File handling
   const [fileStatus, setFileStatus] = useState("");
   const [uploading, setUploading] = useState(false);
@@ -332,33 +317,6 @@ function App() {
     loadEntries().then(setEntries);
     loadComments().then(setComments);
   }, []);
-
-  // Music controls
-  const togglePlay = () => {
-    if (!audioRef.current) return;
-    if (isPlaying) {
-      audioRef.current.pause();
-    } else {
-      audioRef.current.play();
-    }
-    setIsPlaying(!isPlaying);
-  };
-
-  const nextTrack = () => {
-    setCurrentTrack((prev) => (prev + 1) % AMBIENT_TRACKS.length);
-    setIsPlaying(true);
-  };
-
-  const prevTrack = () => {
-    setCurrentTrack((prev) => (prev - 1 + AMBIENT_TRACKS.length) % AMBIENT_TRACKS.length);
-    setIsPlaying(true);
-  };
-
-  useEffect(() => {
-    if (audioRef.current && isPlaying) {
-      audioRef.current.play();
-    }
-  }, [currentTrack]);
 
   // Entry management
   const openNew = (sectionOverride) => {
@@ -475,33 +433,6 @@ function App() {
     <div style={styles.root}>
       {/* Background */}
       <div style={styles.bgPattern} />
-
-      {/* Audio */}
-      <audio ref={audioRef} src={AMBIENT_TRACKS[currentTrack].url} loop />
-
-      {/* Music Player Toggle */}
-      <button style={styles.musicToggle} onClick={() => setShowMusicPlayer(!showMusicPlayer)}>
-        🎵
-      </button>
-
-      {/* Music Player Panel */}
-      {showMusicPlayer && (
-        <div style={styles.musicPlayer}>
-          <div style={styles.musicPlayerHeader}>
-            <span style={styles.musicPlayerTitle}>{T.ambient}</span>
-            <button style={styles.musicClose} onClick={() => setShowMusicPlayer(false)}>×</button>
-          </div>
-          <div style={styles.trackInfo}>
-            <span style={styles.trackName}>{AMBIENT_TRACKS[currentTrack].name}</span>
-            <span style={styles.trackNumber}>{currentTrack + 1}/{AMBIENT_TRACKS.length}</span>
-          </div>
-          <div style={styles.musicControls}>
-            <button style={styles.musicBtn} onClick={prevTrack}>⏮</button>
-            <button style={styles.musicBtnPlay} onClick={togglePlay}>{isPlaying ? "⏸" : "▶"}</button>
-            <button style={styles.musicBtn} onClick={nextTrack}>⏭</button>
-          </div>
-        </div>
-      )}
 
       {/* Header */}
       <header style={styles.header}>
@@ -638,7 +569,7 @@ function App() {
         <div style={styles.footerContent}>
           <span>{T.footer}</span>
           <a href="mailto:frikasong@gmail.com" style={styles.footerLink}>
-            frikasong@gamil.com
+            frikasong@gmail.com
           </a>
         </div>
       </footer>
