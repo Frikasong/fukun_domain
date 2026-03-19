@@ -28,8 +28,8 @@ const TRANSLATIONS = {
       connect: "connect",
     },
     tech: {
-      tab1: "Legal Tech & AI Lab",
-      tab2: "Tech Observations",
+      tab1: "Legal Tech Lab",
+      tab2: "Tech Observations & Insights",
       labHero: "What does AI reveal about how lawyers think?",
       labHeroSub: "This lab tracks the collision between artificial intelligence and legal practice — not as hype, but as a structural shift.",
       labLensesLabel: "THREE LENSES",
@@ -115,8 +115,8 @@ const TRANSLATIONS = {
       connect: "联系她",
     },
     tech: {
-      tab1: "法律科技与AI实验室",
-      tab2: "科技观察",
+      tab1: "法律科技实验室",
+      tab2: "科技观察与洞见",
       labHero: "AI究竟揭示了律师怎样的思维方式？",
       labHeroSub: "本实验室追踪人工智能与法律实践的碰撞——不是炒作，而是一场结构性变革。",
       labLensesLabel: "三个视角",
@@ -950,7 +950,7 @@ function NewsRadarPanel({ title, subtitle, items, region, loading, error, T, lan
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
-// TECH VIEW (2 sub-tabs: Legal Tech & AI Lab | Tech Observations)
+// TECH VIEW (2 sub-tabs: Legal Tech Lab | Observations & Insights)
 // ═══════════════════════════════════════════════════════════════════════════
 function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, onDeleteComment, setActiveSection, T, lang }) {
   const [activeTab, setActiveTab] = useState("lab");
@@ -995,7 +995,7 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
       <div style={styles.techSubNav}>
         {[
           { id: "lab", label: T.tech.tab1, icon: "⚖️" },
-          { id: "obs", label: T.tech.tab2, icon: "💡" },
+          { id: "insights", label: T.tech.tab2, icon: "💡" },
         ].map((tab) => (
           <button
             key={tab.id}
@@ -1007,7 +1007,7 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
         ))}
       </div>
 
-      {/* ── Tab 1: Legal Tech & AI Lab (includes Tools) ── */}
+      {/* ── Tab 1: Legal Tech Lab (Tools only) ── */}
       {activeTab === "lab" && (
         <div style={styles.gridContainer}>
           {/* Tools Section */}
@@ -1032,13 +1032,17 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
               {T.tech.housekeeper.btn}
             </a>
           </div>
+        </div>
+      )}
 
-          {/* Insights Section */}
-          <div style={{ ...styles.sectionHeader, marginTop: 40 }}>
+      {/* ── Tab 2: Observations & Insights ── */}
+      {activeTab === "insights" && (
+        <div style={styles.gridContainer}>
+          <div style={styles.sectionHeader}>
             <div style={styles.sectionTitleRow}>
-              <span style={styles.sectionIcon}>📰</span>
+              <span style={styles.sectionIcon}>💡</span>
               <div>
-                <h2 style={styles.sectionTitle}>{T.tech.insightsTitle}</h2>
+                <h2 style={styles.sectionTitle}>{T.tech.tab2}</h2>
                 <p style={styles.sectionSubtitle}>{T.tech.insightsSub}</p>
               </div>
             </div>
@@ -1074,6 +1078,15 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
             </div>
           </section>
 
+          <div style={{ ...styles.sectionHeader, marginTop: 24 }}>
+            <div style={styles.sectionTitleRow}>
+              <span style={styles.sectionIcon}>📰</span>
+              <div>
+                <h2 style={styles.sectionTitle}>{T.tech.insightsTitle}</h2>
+                <p style={styles.sectionSubtitle}>{T.tech.insightsSub}</p>
+              </div>
+            </div>
+          </div>
           {insightEntries.length === 0 ? (
             <div style={styles.emptyState}>
               <p style={styles.emptyText}>{T.tech.empty}</p>
@@ -1086,15 +1099,10 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
               ))}
             </div>
           )}
-        </div>
-      )}
 
-      {/* ── Tab 3: Observations ── */}
-      {activeTab === "obs" && (
-        <div style={styles.gridContainer}>
-          <div style={styles.sectionHeader}>
+          <div style={{ ...styles.sectionHeader, marginTop: 24 }}>
             <div style={styles.sectionTitleRow}>
-              <span style={styles.sectionIcon}>💡</span>
+              <span style={styles.sectionIcon}>🧭</span>
               <div>
                 <h2 style={styles.sectionTitle}>{T.tech.obsTitle}</h2>
                 <p style={styles.sectionSubtitle}>{T.tech.obsSub}</p>
