@@ -467,7 +467,7 @@ function App() {
             <h1 style={styles.siteName}>{T.site.name}</h1>
             <p style={styles.tagline}>{T.site.tagline}</p>
           </div>
-          <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+          <div style={styles.headerControls}>
             <button
               style={styles.langToggle}
               onClick={() => setLang(lang === "en" ? "zh" : "en")}
@@ -1234,11 +1234,25 @@ const styles = {
     maxWidth: 1400,
     margin: "0 auto",
     display: "flex",
-    justifyContent: "space-between",
+    justifyContent: "center",
     alignItems: "center",
+    position: "relative",
   },
   headerLeft: {
     cursor: "pointer",
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    textAlign: "center",
+  },
+  headerControls: {
+    position: "absolute",
+    right: 0,
+    top: "50%",
+    transform: "translateY(-50%)",
+    display: "flex",
+    alignItems: "center",
+    gap: 10,
   },
   siteLogo: {
     height: 78,
