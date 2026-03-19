@@ -463,7 +463,6 @@ function App() {
                 onError={() => setLogoFailed(true)}
               />
             )}
-            <h1 style={styles.siteName}>{T.site.name}</h1>
             <p style={styles.tagline}>{T.site.tagline}</p>
           </div>
           <div style={styles.headerControls}>
