@@ -98,7 +98,6 @@ const TRANSLATIONS = {
     common: { readMore: "Read more", showLess: "Show less" },
     grid: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post" },
     footer: "© 2026 Fukun · All Rights Reserved",
-    ambient: "Ambient",
   },
   zh: {
     site: { name: "Fukun", tagline: "法律 · 科技 · 思想" },
@@ -192,7 +191,6 @@ const TRANSLATIONS = {
     common: { readMore: "阅读更多", showLess: "收起" },
     grid: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇" },
     footer: "© 2026 Fukun · 版权所有",
-    ambient: "环境音乐",
   },
 };
 
@@ -304,7 +302,14 @@ function App() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [lang, setLang] = useState("en");
   const [logoFailed, setLogoFailed] = useState(false);
+  const [viewportWidth, setViewportWidth] = useState(
+    typeof window !== "undefined" ? window.innerWidth : 1280
+  );
   const T = TRANSLATIONS[lang];
+
+  const isMobile = viewportWidth <= 768;
+  const isTablet = viewportWidth > 768 && viewportWidth < 1100;
+  const isWideDesktop = viewportWidth >= 1400;
 
   // File handling
   const [fileStatus, setFileStatus] = useState("");
@@ -316,6 +321,12 @@ function App() {
   useEffect(() => {
     loadEntries().then(setEntries);
     loadComments().then(setComments);
+  }, []);
+
+  useEffect(() => {
+    const onResize = () => setViewportWidth(window.innerWidth);
+    window.addEventListener("resize", onResize);
+    return () => window.removeEventListener("resize", onResize);
   }, []);
 
   // Entry management
@@ -435,20 +446,28 @@ function App() {
       <div style={styles.bgPattern} />
 
       {/* Header */}
-      <header style={styles.header}>
-        <div style={styles.headerContent}>
-          <div style={styles.headerLeft} onClick={() => { setView("grid"); setActiveSection("about"); }}>
+      <header style={{ ...styles.header, padding: isMobile ? "10px 12px 12px" : (isTablet ? "12px 18px 14px" : styles.header.padding) }}>
+        <div style={{ ...styles.headerContent, maxWidth: isWideDesktop ? 1280 : 1100, flexDirection: isMobile ? "column" : "row", gap: isMobile ? 10 : 0 }}>
+          <div style={{ ...styles.headerLeft, alignItems: isMobile ? "flex-start" : styles.headerLeft.alignItems, textAlign: isMobile ? "left" : styles.headerLeft.textAlign }} onClick={() => { setView("grid"); setActiveSection("about"); }}>
             {!logoFailed && (
               <img
                 src="logo.png"
                 alt={T.site.name}
-                style={styles.siteLogo}
+                style={{ ...styles.siteLogo, height: isMobile ? 48 : styles.siteLogo.height }}
                 onError={() => setLogoFailed(true)}
               />
             )}
             <p style={styles.tagline}>{T.site.tagline}</p>
           </div>
-          <div style={styles.headerControls}>
+          <div style={{
+            ...styles.headerControls,
+            position: isMobile ? "static" : styles.headerControls.position,
+            right: isMobile ? "auto" : styles.headerControls.right,
+            top: isMobile ? "auto" : styles.headerControls.top,
+            transform: isMobile ? "none" : styles.headerControls.transform,
+            width: isMobile ? "100%" : "auto",
+            justifyContent: isMobile ? "flex-end" : "flex-start",
+          }}>
             <button
               style={styles.langToggle}
               onClick={() => setLang(lang === "en" ? "zh" : "en")}
@@ -468,7 +487,7 @@ function App() {
       )}
 
       {/* Floating side navigation panel */}
-      <nav style={{ ...styles.nav, transform: menuOpen ? "translateX(0)" : "translateX(100%)" }}>
+      <nav style={{ ...styles.nav, width: isMobile ? "88vw" : 320, transform: menuOpen ? "translateX(0)" : "translateX(100%)" }}>
         <button style={styles.navClose} onClick={() => setMenuOpen(false)}>✕</button>
         <div style={styles.navInner}>
           <div style={styles.navGroup}>
@@ -527,7 +546,11 @@ function App() {
       </nav>
 
       {/* Main Content */}
-      <main style={styles.main}>
+      <main style={{
+        ...styles.main,
+        maxWidth: isMobile ? "100%" : (isWideDesktop ? 1280 : 1100),
+        padding: isMobile ? "28px 14px 44px" : (isTablet ? "40px 18px 56px" : "56px 24px 68px")
+      }}>
         {view === "grid" ? (
           <GridView
             section={currentSection}
@@ -566,7 +589,7 @@ function App() {
 
       {/* Footer */}
       <footer style={styles.footer}>
-        <div style={styles.footerContent}>
+        <div style={{ ...styles.footerContent, flexDirection: isMobile ? "column" : "row", alignItems: isMobile ? "flex-start" : "center", gap: isMobile ? 10 : 0 }}>
           <span>{T.footer}</span>
           <a href="mailto:frikasong@gmail.com" style={styles.footerLink}>
             frikasong@gmail.com
@@ -591,7 +614,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
         <div style={styles.sectionHeader}>
           <div style={styles.sectionTitleRow}>
             <span style={styles.sectionIcon}>{section.icon}</span>
-            <h2 style={styles.sectionTitle}>{sectionLabel}</h2>
+            <h2 style={{ ...styles.sectionTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{sectionLabel}</h2>
           </div>
         </div>
         <div style={styles.aboutContent}>
@@ -633,7 +656,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
         <div style={styles.sectionHeader}>
           <div style={styles.sectionTitleRow}>
             <span style={styles.sectionIcon}>{section.icon}</span>
-            <h2 style={styles.sectionTitle}>{sectionLabel}</h2>
+            <h2 style={{ ...styles.sectionTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{sectionLabel}</h2>
           </div>
         </div>
         <div style={styles.contactContent}>
@@ -701,7 +724,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
         <div style={styles.sectionTitleRow}>
           <span style={styles.sectionIcon}>{section.icon}</span>
           <div>
-            <h2 style={styles.sectionTitle}>{sectionLabel}</h2>
+            <h2 style={{ ...styles.sectionTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{sectionLabel}</h2>
             {sectionSub && <p style={styles.sectionSubtitle}>{sectionSub}</p>}
           </div>
         </div>
@@ -725,6 +748,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
               onAddComment={onAddComment}
               onDeleteComment={onDeleteComment}
               T={T}
+              lang={lang}
             />
           ))}
         </div>
@@ -736,7 +760,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
 // ═══════════════════════════════════════════════════════════════════════════
 // ENTRY CARD
 // ═══════════════════════════════════════════════════════════════════════════
-function EntryCard({ entry, comments, onEdit, onDelete, onAddComment, onDeleteComment, T }) {
+function EntryCard({ entry, comments, onEdit, onDelete, onAddComment, onDeleteComment, T, lang }) {
   const [expanded, setExpanded] = useState(false);
   const [showComments, setShowComments] = useState(false);
   const [commentName, setCommentName] = useState("");
@@ -766,7 +790,7 @@ function EntryCard({ entry, comments, onEdit, onDelete, onAddComment, onDeleteCo
       <div style={styles.cardContent}>
         {/* Header */}
         <div style={styles.cardHeader}>
-          <h3 style={styles.cardTitle}>{entry.title}</h3>
+            <h3 style={{ ...styles.cardTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{entry.title}</h3>
           <span style={styles.cardDate}>{formattedDate}</span>
         </div>
 
@@ -972,7 +996,7 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
             <div style={styles.sectionTitleRow}>
               <span style={styles.sectionIcon}>🔧</span>
               <div>
-                <h2 style={styles.sectionTitle}>{T.tech.toolsBuiltLabel}</h2>
+                <h2 style={{ ...styles.sectionTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{T.tech.toolsBuiltLabel}</h2>
               </div>
             </div>
           </div>
@@ -1013,7 +1037,7 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
             <div style={styles.sectionTitleRow}>
               <span style={styles.sectionIcon}>💡</span>
               <div>
-                <h2 style={styles.sectionTitle}>{T.tech.tab2}</h2>
+                <h2 style={{ ...styles.sectionTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{T.tech.tab2}</h2>
                 <p style={styles.sectionSubtitle}>{T.tech.insightsSub}</p>
               </div>
             </div>
@@ -1053,7 +1077,7 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
             <div style={styles.sectionTitleRow}>
               <span style={styles.sectionIcon}>📰</span>
               <div>
-                <h2 style={styles.sectionTitle}>{T.tech.insightsTitle}</h2>
+                <h2 style={{ ...styles.sectionTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{T.tech.insightsTitle}</h2>
                 <p style={styles.sectionSubtitle}>{T.tech.insightsSub}</p>
               </div>
             </div>
@@ -1066,7 +1090,7 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
             <div style={styles.grid}>
               {insightEntries.map((entry) => (
                 <EntryCard key={entry.id} entry={entry} comments={comments[entry.id] || []}
-                  onEdit={onEdit} onDelete={onDelete} onAddComment={onAddComment} onDeleteComment={onDeleteComment} T={T} />
+                  onEdit={onEdit} onDelete={onDelete} onAddComment={onAddComment} onDeleteComment={onDeleteComment} T={T} lang={lang} />
               ))}
             </div>
           )}
@@ -1075,7 +1099,7 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
             <div style={styles.sectionTitleRow}>
               <span style={styles.sectionIcon}>🧭</span>
               <div>
-                <h2 style={styles.sectionTitle}>{T.tech.obsTitle}</h2>
+                <h2 style={{ ...styles.sectionTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{T.tech.obsTitle}</h2>
                 <p style={styles.sectionSubtitle}>{T.tech.obsSub}</p>
               </div>
             </div>
@@ -1088,7 +1112,7 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
             <div style={styles.grid}>
               {obsEntries.map((entry) => (
                 <EntryCard key={entry.id} entry={entry} comments={comments[entry.id] || []}
-                  onEdit={onEdit} onDelete={onDelete} onAddComment={onAddComment} onDeleteComment={onDeleteComment} T={T} />
+                  onEdit={onEdit} onDelete={onDelete} onAddComment={onAddComment} onDeleteComment={onDeleteComment} T={T} lang={lang} />
               ))}
             </div>
           )}
@@ -1226,10 +1250,10 @@ function EditorView({
 // Start of styles
 const styles = {
   root: {
-    fontFamily: "'Lora', 'Georgia', serif",
+    fontFamily: "'Public Sans', sans-serif",
     minHeight: "100vh",
-    background: "#fafafa",
-    color: "#333",
+    background: "#f9f9f9",
+    color: "#1f2325",
     position: "relative",
   },
   bgPattern: {
@@ -1239,127 +1263,24 @@ const styles = {
     width: "100%",
     height: "100%",
     background: `
-      radial-gradient(circle at 20% 30%, rgba(43, 80, 84, 0.06) 0%, transparent 50%),
-      radial-gradient(circle at 80% 70%, rgba(140, 190, 210, 0.05) 0%, transparent 50%)
+      radial-gradient(circle at 22% 24%, rgba(255,255,255,0.55) 0%, transparent 58%),
+      radial-gradient(circle at 82% 74%, rgba(20,35,38,0.04) 0%, transparent 56%)
     `,
     pointerEvents: "none",
     zIndex: 0,
   },
-  // Music Player
-  musicToggle: {
-    position: "fixed",
-    bottom: 24,
-    right: 24,
-    width: 44,
-    height: 44,
-    borderRadius: "50%",
-    background: "linear-gradient(135deg, #D6E4E6 0%, #B8CDD0 100%)",
-    border: "1px solid rgba(43, 80, 84, 0.25)",
-    color: "#2B5054",
-    fontSize: 16,
-    cursor: "pointer",
-    zIndex: 1000,
-    boxShadow: "0 2px 8px rgba(43, 80, 84, 0.15)",
-    transition: "all 0.2s",
-  },
-  musicPlayer: {
-    position: "fixed",
-    bottom: 80,
-    right: 24,
-    width: 260,
-    background: "rgba(255, 255, 255, 0.98)",
-    backdropFilter: "blur(20px)",
-    borderRadius: 12,
-    padding: 20,
-    border: "1px solid rgba(43, 80, 84, 0.2)",
-    boxShadow: "0 4px 20px rgba(43, 80, 84, 0.12)",
-    zIndex: 1000,
-  },
-  musicPlayerHeader: {
-    display: "flex",
-    justifyContent: "space-between",
-    alignItems: "center",
-    marginBottom: 14,
-    paddingBottom: 12,
-    borderBottom: "1px solid rgba(43, 80, 84, 0.15)",
-  },
-  musicPlayerTitle: {
-    fontFamily: "'DM Sans', sans-serif",
-    fontSize: 10,
-    fontWeight: 600,
-    color: "#5A8A8E",
-    letterSpacing: "2px",
-    textTransform: "uppercase",
-  },
-  musicClose: {
-    background: "none",
-    border: "none",
-    fontSize: 20,
-    color: "#7B8F92",
-    cursor: "pointer",
-    padding: 0,
-    lineHeight: 1,
-  },
-  trackInfo: {
-    marginBottom: 16,
-    display: "flex",
-    flexDirection: "column",
-    gap: 5,
-  },
-  trackName: {
-    fontFamily: "'DM Sans', sans-serif",
-    fontSize: 13,
-    color: "#2B5054",
-    fontWeight: 500,
-  },
-  trackNumber: {
-    fontFamily: "'DM Sans', sans-serif",
-    fontSize: 10,
-    color: "#7FA3A7",
-    fontWeight: 500,
-  },
-  musicControls: {
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
-    gap: 12,
-  },
-  musicBtn: {
-    background: "transparent",
-    border: "none",
-    fontSize: 14,
-    color: "#5A8A8E",
-    cursor: "pointer",
-    padding: 8,
-    transition: "color 0.2s",
-  },
-  musicBtnPlay: {
-    background: "linear-gradient(135deg, #5A8A8E 0%, #2B5054 100%)",
-    border: "none",
-    fontSize: 12,
-    color: "#fff",
-    cursor: "pointer",
-    width: 36,
-    height: 36,
-    borderRadius: "50%",
-    display: "flex",
-    alignItems: "center",
-    justifyContent: "center",
-    boxShadow: "0 2px 8px rgba(42, 123, 189, 0.25)",
-    transition: "all 0.2s",
-  },
   // Header
   header: {
-    background: "rgba(255, 255, 255, 0.98)",
-    backdropFilter: "blur(12px)",
+    background: "rgba(43, 80, 84, 0.8)",
+    backdropFilter: "blur(20px)",
     position: "sticky",
     top: 0,
     zIndex: 100,
-    padding: "16px 40px 24px",
-    borderBottom: "1px solid rgba(43, 80, 84, 0.15)",
+    padding: "14px 24px 16px",
+    borderBottom: "none",
   },
   headerContent: {
-    maxWidth: 1400,
+    maxWidth: 820,
     margin: "0 auto",
     display: "flex",
     justifyContent: "center",
@@ -1383,7 +1304,7 @@ const styles = {
     gap: 10,
   },
   siteLogo: {
-    height: 78,
+    height: 58,
     width: "auto",
     display: "block",
   },
@@ -1395,35 +1316,35 @@ const styles = {
     color: "#2B5054",
   },
   tagline: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 11,
-    color: "#5A8A8E",
-    margin: "4px 0 0 0",
-    letterSpacing: "2px",
+    color: "rgba(255,255,255,0.78)",
+    margin: "2px 0 0 0",
+    letterSpacing: "1.6px",
     textTransform: "uppercase",
     fontWeight: 500,
   },
   menuToggle: {
-    background: "rgba(43, 80, 84, 0.1)",
-    border: "1px solid rgba(43, 80, 84, 0.2)",
-    color: "#2B5054",
+    background: "rgba(255,255,255,0.08)",
+    border: "1px solid rgba(192, 200, 201, 0.2)",
+    color: "#f6f8f8",
     fontSize: 18,
     padding: "10px 16px",
     borderRadius: 8,
     cursor: "pointer",
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontWeight: 600,
     transition: "all 0.2s",
   },
   langToggle: {
     background: "transparent",
-    border: "1px solid rgba(43, 80, 84, 0.3)",
-    color: "#2B5054",
+    border: "1px solid rgba(192, 200, 201, 0.2)",
+    color: "#f6f8f8",
     fontSize: 12,
     padding: "8px 14px",
     borderRadius: 20,
     cursor: "pointer",
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontWeight: 600,
     letterSpacing: "0.5px",
     transition: "all 0.2s",
@@ -1442,8 +1363,9 @@ const styles = {
     right: 0,
     width: 280,
     height: "100vh",
-    background: "#fff",
-    boxShadow: "-4px 0 20px rgba(0,0,0,0.1)",
+    background: "rgba(43, 80, 84, 0.8)",
+    backdropFilter: "blur(20px)",
+    boxShadow: "0 20px 40px -10px rgba(26,28,28,0.04)",
     zIndex: 201,
     overflowY: "auto",
     transition: "transform 0.3s cubic-bezier(0.4,0,0.2,1)",
@@ -1473,9 +1395,9 @@ const styles = {
     gap: 10,
   },
   navGroupTitle: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 10,
-    color: "#bbb",
+    color: "rgba(255,255,255,0.66)",
     letterSpacing: "2px",
     textTransform: "uppercase",
     marginBottom: 12,
@@ -1484,7 +1406,7 @@ const styles = {
   navBtn: {
     background: "transparent",
     border: "none",
-    color: "#555",
+    color: "#f5f7f7",
     padding: "12px 16px",
     textAlign: "left",
     cursor: "pointer",
@@ -1493,13 +1415,13 @@ const styles = {
     alignItems: "center",
     gap: 12,
     transition: "all 0.2s",
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 14,
     fontWeight: 500,
   },
   navBtnActive: {
-    background: "rgba(43, 80, 84, 0.12)",
-    color: "#2B5054",
+    background: "rgba(255,255,255,0.14)",
+    color: "#ffffff",
   },
   navIcon: {
     fontSize: 18,
@@ -1510,9 +1432,9 @@ const styles = {
     gap: 2,
   },
   navSubtitle: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 10,
-    color: "#999",
+    color: "rgba(255,255,255,0.72)",
     letterSpacing: "0.5px",
     fontWeight: 400,
   },
@@ -1526,7 +1448,7 @@ const styles = {
     alignItems: "center",
     gap: 6,
     padding: "8px 16px",
-    border: "1px solid rgba(0, 0, 0, 0.08)",
+    border: "1px solid rgba(192, 200, 201, 0.2)",
     borderRadius: 6,
     background: "#fff",
     color: "#666",
@@ -1536,8 +1458,8 @@ const styles = {
     transition: "all 0.2s",
   },
   techSubTabActive: {
-    background: "linear-gradient(135deg, #5A8A8E 0%, #2B5054 100%)",
-    borderColor: "#2B5054",
+    background: "linear-gradient(135deg, #12393d 0%, #2b5054 100%)",
+    borderColor: "rgba(192, 200, 201, 0.2)",
     color: "#fff",
   },
   newsBlock: {
@@ -1547,14 +1469,14 @@ const styles = {
     marginBottom: 14,
   },
   newsBlockTitle: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 16,
     color: "#2B5054",
     margin: 0,
     fontWeight: 600,
   },
   newsBlockSub: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
     color: "#5A8A8E",
     margin: "6px 0 0 0",
@@ -1565,29 +1487,29 @@ const styles = {
     gap: 16,
   },
   newsPanel: {
-    border: "1px solid rgba(43, 80, 84, 0.18)",
-    borderRadius: 10,
-    background: "#fff",
+    border: "none",
+    borderRadius: 4,
+    background: "#f3f3f3",
     padding: 14,
   },
   newsPanelHeader: {
     marginBottom: 10,
   },
   newsPanelTitle: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 14,
     color: "#2B5054",
     margin: 0,
     fontWeight: 600,
   },
   newsPanelSub: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 11,
     color: "#5A8A8E",
     margin: "4px 0 0 0",
   },
   newsState: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
     color: "#5A8A8E",
     margin: "8px 0",
@@ -1598,10 +1520,10 @@ const styles = {
     gap: 10,
   },
   newsItem: {
-    border: "1px solid rgba(43, 80, 84, 0.1)",
-    borderRadius: 8,
+    border: "none",
+    borderRadius: 4,
     padding: 10,
-    background: "#fafafa",
+    background: "#ffffff",
   },
   newsMetaRow: {
     display: "flex",
@@ -1611,18 +1533,18 @@ const styles = {
     gap: 10,
   },
   newsSource: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 11,
     color: "#2B5054",
     fontWeight: 600,
   },
   newsDate: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 10,
     color: "#7B8F92",
   },
   newsTitleLink: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Newsreader', serif",
     fontSize: 15,
     color: "#2F3F42",
     textDecoration: "none",
@@ -1630,7 +1552,7 @@ const styles = {
     display: "block",
   },
   newsSummary: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
     color: "#4B5E61",
     lineHeight: 1.6,
@@ -1643,11 +1565,11 @@ const styles = {
     gap: 8,
   },
   newsCategory: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 10,
     color: "#2B5054",
-    background: "rgba(43, 80, 84, 0.1)",
-    border: "1px solid rgba(43, 80, 84, 0.2)",
+    background: "rgba(43, 80, 84, 0.12)",
+    border: "none",
     borderRadius: 999,
     padding: "2px 8px",
     whiteSpace: "nowrap",
@@ -1658,20 +1580,20 @@ const styles = {
     alignItems: "center",
   },
   newsLinkBtn: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 11,
     color: "#2B5054",
     textDecoration: "none",
-    border: "1px solid rgba(43, 80, 84, 0.25)",
+    border: "1px solid rgba(192, 200, 201, 0.2)",
     borderRadius: 6,
     padding: "3px 8px",
     background: "#fff",
   },
   // Main
   main: {
-    maxWidth: 1200,
+    maxWidth: 1100,
     margin: "0 auto",
-    padding: "48px 32px",
+    padding: "56px 24px 68px",
     position: "relative",
     zIndex: 1,
   },
@@ -1680,10 +1602,10 @@ const styles = {
   sectionHeader: {
     display: "flex",
     justifyContent: "space-between",
-    alignItems: "center",
-    marginBottom: 40,
-    paddingBottom: 20,
-    borderBottom: "1px solid rgba(43, 80, 84, 0.15)",
+    alignItems: "flex-start",
+    marginBottom: 32,
+    paddingBottom: 0,
+    borderBottom: "none",
   },
   sectionTitleRow: {
     display: "flex",
@@ -1695,22 +1617,28 @@ const styles = {
     opacity: 0.8,
   },
   sectionTitle: {
-    fontSize: 28,
-    fontWeight: 400,
+    fontFamily: "'Newsreader', serif",
+    fontSize: "clamp(28px, 4.2vw, 40px)",
+    fontWeight: 500,
+    fontStyle: "italic",
     margin: 0,
-    color: "#2B5054",
+    color: "#111416",
     letterSpacing: "-0.3px",
+    lineHeight: 0.9,
+  },
+  noItalic: {
+    fontStyle: "normal",
   },
   sectionSubtitle: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 11,
-    color: "#5A8A8E",
+    color: "#35666a",
     margin: "4px 0 0 0",
     letterSpacing: "1.5px",
     fontWeight: 500,
   },
   newEntryBtn: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
     background: "linear-gradient(135deg, #5A8A8E 0%, #2B5054 100%)",
     color: "#fff",
@@ -1720,23 +1648,23 @@ const styles = {
     cursor: "pointer",
     fontWeight: 600,
     letterSpacing: "0.3px",
-    boxShadow: "0 2px 8px rgba(42, 123, 189, 0.2)",
+    boxShadow: "0 2px 8px rgba(26, 28, 28, 0.2)",
     transition: "all 0.2s",
   },
   // Grid
   grid: {
     display: "grid",
-    gridTemplateColumns: "repeat(auto-fill, minmax(340px, 1fr))",
-    gap: 24,
+    gridTemplateColumns: "1fr",
+    gap: 20,
   },
   // Card
   card: {
-    background: "#fff",
-    border: "1px solid rgba(43, 80, 84, 0.15)",
-    borderRadius: 8,
+    background: "#ffffff",
+    border: "none",
+    borderRadius: 4,
     overflow: "hidden",
     transition: "all 0.2s",
-    boxShadow: "0 1px 4px rgba(43, 80, 84, 0.06)",
+    boxShadow: "0 40px 40px -10px rgba(26, 28, 28, 0.04)",
   },
   cardCover: {
     position: "relative",
@@ -1764,14 +1692,16 @@ const styles = {
     marginBottom: 10,
   },
   cardTitle: {
-    fontSize: 18,
+    fontFamily: "'Newsreader', serif",
+    fontSize: "clamp(30px, 4.6vw, 46px)",
     fontWeight: 500,
+    fontStyle: "italic",
     margin: "0 0 6px 0",
-    color: "#2B5054",
-    lineHeight: 1.4,
+    color: "#13181a",
+    lineHeight: 0.92,
   },
   cardDate: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 11,
     color: "#7FA3A7",
     letterSpacing: "0.5px",
@@ -1791,7 +1721,7 @@ const styles = {
     fontSize: 12,
     cursor: "pointer",
     padding: 0,
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontWeight: 500,
   },
   cardGallery: {
@@ -1805,7 +1735,7 @@ const styles = {
     height: 80,
     objectFit: "cover",
     borderRadius: 6,
-    border: "1px solid rgba(173, 216, 230, 0.25)",
+    border: "1px solid rgba(53, 102, 106, 0.25)",
   },
   attachmentBox: {
     display: "flex",
@@ -1818,7 +1748,7 @@ const styles = {
     border: "1px solid rgba(0, 0, 0, 0.04)",
   },
   attachmentItem: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
     color: "#333",
     textDecoration: "none",
@@ -1830,17 +1760,17 @@ const styles = {
     alignItems: "center",
     marginTop: 24,
     paddingTop: 20,
-    borderTop: "1px solid rgba(173, 216, 230, 0.15)",
+    borderTop: "none",
   },
   commentBtn: {
-    background: "rgba(173, 216, 230, 0.1)",
-    border: "1px solid rgba(173, 216, 230, 0.3)",
+    background: "rgba(53, 102, 106, 0.1)",
+    border: "1px solid rgba(53, 102, 106, 0.3)",
     color: "#4F6669",
     fontSize: 13,
     padding: "9px 16px",
     borderRadius: 10,
     cursor: "pointer",
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontWeight: 600,
   },
   cardActions: {
@@ -1856,7 +1786,7 @@ const styles = {
     padding: "6px 12px",
     borderRadius: 4,
     cursor: "pointer",
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontWeight: 500,
   },
   deleteBtn: {
@@ -1867,7 +1797,7 @@ const styles = {
     padding: "6px 12px",
     borderRadius: 4,
     cursor: "pointer",
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontWeight: 500,
   },
   // Comments
@@ -1897,13 +1827,13 @@ const styles = {
     marginBottom: 6,
   },
   commentAuthor: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
     fontWeight: 600,
     color: "#333",
   },
   commentTime: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 10,
     color: "#999",
     fontWeight: 500,
@@ -1929,24 +1859,26 @@ const styles = {
     gap: 8,
   },
   commentInput: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 13,
     padding: "10px 12px",
-    background: "#fff",
-    border: "1px solid rgba(0, 0, 0, 0.08)",
-    borderRadius: 4,
+    background: "#e8e8e8",
+    border: "none",
+    borderBottom: "2px solid rgba(192, 200, 201, 0.7)",
+    borderRadius: 0,
     color: "#333",
     outline: "none",
     transition: "border-color 0.2s",
   },
   commentTextarea: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Newsreader', serif",
     fontSize: 13,
     lineHeight: 1.6,
     padding: "10px 12px",
-    background: "#fff",
-    border: "1px solid rgba(0, 0, 0, 0.08)",
-    borderRadius: 4,
+    background: "#e8e8e8",
+    border: "none",
+    borderBottom: "2px solid rgba(192, 200, 201, 0.7)",
+    borderRadius: 0,
     color: "#333",
     minHeight: 85,
     resize: "vertical",
@@ -1954,7 +1886,7 @@ const styles = {
     transition: "border-color 0.2s",
   },
   commentSubmit: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
     background: "linear-gradient(135deg, #5A8A8E 0%, #2B5054 100%)",
     color: "#fff",
@@ -1964,7 +1896,7 @@ const styles = {
     cursor: "pointer",
     alignSelf: "flex-end",
     fontWeight: 700,
-    boxShadow: "0 3px 12px rgba(122, 184, 212, 0.25)",
+    boxShadow: "0 3px 12px rgba(53, 102, 106, 0.25)",
   },
   // Empty State
   emptyState: {
@@ -1977,13 +1909,13 @@ const styles = {
     opacity: 0.3,
   },
   emptyText: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 13,
     color: "#999",
     marginBottom: 20,
   },
   emptyBtn: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
     background: "linear-gradient(135deg, #5A8A8E 0%, #2B5054 100%)",
     color: "#fff",
@@ -1992,7 +1924,7 @@ const styles = {
     padding: "10px 20px",
     cursor: "pointer",
     fontWeight: 600,
-    boxShadow: "0 2px 8px rgba(42, 123, 189, 0.2)",
+    boxShadow: "0 2px 8px rgba(26, 28, 28, 0.2)",
   },
   // Editor
   editorWrap: {
@@ -2017,7 +1949,7 @@ const styles = {
     gap: 24,
   },
   label: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 11,
     letterSpacing: "1px",
     textTransform: "uppercase",
@@ -2028,24 +1960,26 @@ const styles = {
     gap: 8,
   },
   input: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 15,
     padding: "12px 14px",
-    background: "#fff",
-    border: "1px solid rgba(0, 0, 0, 0.08)",
-    borderRadius: 6,
+    background: "#e8e8e8",
+    border: "none",
+    borderBottom: "2px solid rgba(192, 200, 201, 0.7)",
+    borderRadius: 0,
     color: "#333",
     outline: "none",
     transition: "border-color 0.2s",
   },
   textarea: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Newsreader', serif",
     fontSize: 15,
     lineHeight: 1.8,
     padding: "14px",
-    background: "#fff",
-    border: "1px solid rgba(0, 0, 0, 0.08)",
-    borderRadius: 6,
+    background: "#e8e8e8",
+    border: "none",
+    borderBottom: "2px solid rgba(192, 200, 201, 0.7)",
+    borderRadius: 0,
     color: "#333",
     minHeight: 280,
     resize: "vertical",
@@ -2053,7 +1987,7 @@ const styles = {
     transition: "border-color 0.2s",
   },
   wordCount: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
     color: "#8EA1A4",
     marginTop: 8,
@@ -2065,18 +1999,18 @@ const styles = {
     gap: 14,
   },
   importBtn: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
-    background: "rgba(173, 216, 230, 0.1)",
+    background: "rgba(53, 102, 106, 0.1)",
     color: "#4F6669",
-    border: "1px solid rgba(173, 216, 230, 0.3)",
+    border: "1px solid rgba(53, 102, 106, 0.3)",
     borderRadius: 10,
     padding: "12px 20px",
     cursor: "pointer",
     fontWeight: 700,
   },
   importStatus: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
     color: "#7B8F92",
     fontWeight: 500,
@@ -2087,11 +2021,11 @@ const styles = {
     gap: 14,
   },
   mediaBtn: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
-    background: "rgba(173, 216, 230, 0.1)",
+    background: "rgba(53, 102, 106, 0.1)",
     color: "#4F6669",
-    border: "1px solid rgba(173, 216, 230, 0.3)",
+    border: "1px solid rgba(53, 102, 106, 0.3)",
     borderRadius: 10,
     padding: "12px 20px",
     cursor: "pointer",
@@ -2111,14 +2045,14 @@ const styles = {
     height: 135,
     objectFit: "cover",
     borderRadius: 12,
-    border: "1px solid rgba(173, 216, 230, 0.3)",
+    border: "1px solid rgba(53, 102, 106, 0.3)",
   },
   removeBtn: {
     position: "absolute",
     top: 8,
     right: 8,
     background: "rgba(255, 255, 255, 0.95)",
-    border: "1px solid rgba(173, 216, 230, 0.3)",
+    border: "1px solid rgba(53, 102, 106, 0.3)",
     color: "#4F6669",
     borderRadius: "50%",
     width: 28,
@@ -2141,10 +2075,10 @@ const styles = {
     justifyContent: "space-between",
     alignItems: "center",
     padding: "13px 16px",
-    background: "rgba(173, 216, 230, 0.06)",
+    background: "rgba(53, 102, 106, 0.06)",
     borderRadius: 10,
-    border: "1px solid rgba(173, 216, 230, 0.2)",
-    fontFamily: "'DM Sans', sans-serif",
+    border: "1px solid rgba(53, 102, 106, 0.2)",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
     color: "#4F6669",
     fontWeight: 600,
@@ -2161,10 +2095,10 @@ const styles = {
     display: "flex",
     justifyContent: "flex-end",
     paddingTop: 28,
-    borderTop: "1px solid rgba(173, 216, 230, 0.2)",
+    borderTop: "none",
   },
   saveBtn: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 13,
     background: "linear-gradient(135deg, #5A8A8E 0%, #2B5054 100%)",
     color: "#fff",
@@ -2173,10 +2107,10 @@ const styles = {
     padding: "12px 28px",
     cursor: "pointer",
     fontWeight: 600,
-    boxShadow: "0 2px 8px rgba(42, 123, 189, 0.2)",
+    boxShadow: "0 2px 8px rgba(26, 28, 28, 0.2)",
   },
   cancelBtn: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 13,
     background: "transparent",
     color: "#5A8A8E",
@@ -2188,7 +2122,7 @@ const styles = {
   },
   // Footer
   footer: {
-    borderTop: "1px solid rgba(43, 80, 84, 0.15)",
+    borderTop: "none",
     background: "rgba(248, 252, 255, 0.5)",
     padding: 24,
     marginTop: 80,
@@ -2199,17 +2133,17 @@ const styles = {
     display: "flex",
     justifyContent: "space-between",
     alignItems: "center",
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
     color: "#7B8F92",
     fontWeight: 500,
   },
   footerLink: {
-    color: "#5A8A8E",
+    color: "#12393d",
     textDecoration: "none",
-    borderBottom: "1px solid rgba(173, 216, 230, 0.4)",
+    borderBottom: "2px solid rgba(53, 102, 106, 0.7)",
     fontWeight: 600,
-    paddingBottom: 2,
+    paddingBottom: 1,
   },
   // About Section
   aboutContent: {
@@ -2218,31 +2152,32 @@ const styles = {
     padding: "40px 0",
   },
   aboutCard: {
-    background: "transparent",
-    padding: "30px 0",
-    borderBottom: "1px solid rgba(0, 0, 0, 0.06)",
+    background: "#f3f3f3",
+    padding: "26px 24px",
+    marginBottom: 20,
+    borderRadius: 4,
   },
   aboutCardTitle: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 11,
     fontWeight: 600,
-    color: "#5A8A8E",
+    color: "#35666a",
     margin: "0 0 16px 0",
     letterSpacing: "2px",
     textTransform: "uppercase",
   },
   aboutText: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Newsreader', serif",
     fontSize: 18,
     lineHeight: 1.8,
     color: "#444",
     margin: "0 0 16px 0",
   },
   aboutConnectLink: {
-    color: "#2B5054",
+    color: "#12393d",
     cursor: "pointer",
-    borderBottom: "1px solid rgba(42, 123, 189, 0.3)",
-    paddingBottom: 1,
+    borderBottom: "2px solid rgba(53, 102, 106, 0.6)",
+    paddingBottom: 0,
     transition: "all 0.2s",
   },
   // Contact Section
@@ -2259,7 +2194,7 @@ const styles = {
     gap: 32,
   },
   contactIntro: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Newsreader', serif",
     fontSize: 24,
     color: "#2B5054",
     margin: 0,
@@ -2267,6 +2202,7 @@ const styles = {
   },
   contactIconsRow: {
     display: "flex",
+    flexWrap: "wrap",
     gap: 40,
     justifyContent: "center",
     alignItems: "center",
@@ -2295,7 +2231,7 @@ const styles = {
     fontSize: 22,
   },
   contactIconLabel: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
     color: "#666",
     fontWeight: 500,
@@ -2309,7 +2245,7 @@ const styles = {
     padding: "36px 0 0",
   },
   laiHeroHeadline: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Newsreader', serif",
     fontSize: 44,
     fontWeight: 600,
     fontStyle: "italic",
@@ -2319,7 +2255,7 @@ const styles = {
     letterSpacing: "-0.5px",
   },
   laiHeroSub: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Newsreader', serif",
     fontSize: 18,
     lineHeight: 1.85,
     color: "#4F6669",
@@ -2327,7 +2263,7 @@ const styles = {
   },
   laiDivider: {
     height: 1,
-    background: "rgba(173, 216, 230, 0.22)",
+    background: "rgba(53, 102, 106, 0.22)",
     margin: "56px 0",
   },
   laiAbout: {
@@ -2335,7 +2271,7 @@ const styles = {
     margin: "0 auto",
   },
   laiAboutText: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Newsreader', serif",
     fontSize: 17,
     lineHeight: 1.9,
     color: "#4B5E61",
@@ -2348,7 +2284,7 @@ const styles = {
     gap: 32,
   },
   laiLabel: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 11,
     fontWeight: 700,
     letterSpacing: "2.5px",
@@ -2366,7 +2302,7 @@ const styles = {
     gap: 24,
     padding: "28px 32px",
     background: "#fff",
-    border: "1px solid rgba(173, 216, 230, 0.2)",
+    border: "1px solid rgba(53, 102, 106, 0.2)",
     borderRadius: 16,
     boxShadow: "0 2px 10px rgba(100, 130, 150, 0.05)",
   },
@@ -2376,7 +2312,7 @@ const styles = {
     marginTop: 3,
   },
   laiPillarTitle: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Newsreader', serif",
     fontSize: 20,
     fontWeight: 600,
     fontStyle: "italic",
@@ -2384,7 +2320,7 @@ const styles = {
     margin: "0 0 10px",
   },
   laiPillarText: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Newsreader', serif",
     fontSize: 15,
     lineHeight: 1.82,
     color: "#4F6669",
@@ -2400,19 +2336,19 @@ const styles = {
     flexDirection: "column",
     gap: 5,
     padding: "18px 22px",
-    background: "rgba(173, 216, 230, 0.05)",
-    border: "1px solid rgba(173, 216, 230, 0.15)",
+    background: "rgba(53, 102, 106, 0.05)",
+    border: "1px solid rgba(53, 102, 106, 0.15)",
     borderRadius: 12,
   },
   laiToolName: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 14,
     fontWeight: 700,
     color: "#3F5F63",
     letterSpacing: "0.3px",
   },
   laiToolDesc: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Newsreader', serif",
     fontSize: 13,
     color: "#7B8F92",
     fontStyle: "italic",
@@ -2428,7 +2364,7 @@ const styles = {
     padding: "0 0 48px",
   },
   laiCtaText: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Newsreader', serif",
     fontSize: 18,
     lineHeight: 1.8,
     color: "#4B5E61",
@@ -2436,7 +2372,7 @@ const styles = {
     margin: 0,
   },
   laiCtaBtn: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 14,
     background: "linear-gradient(135deg, #5A8A8E 0%, #2B5054 100%)",
     color: "#fff",
@@ -2446,14 +2382,14 @@ const styles = {
     cursor: "pointer",
     fontWeight: 700,
     letterSpacing: "0.5px",
-    boxShadow: "0 3px 14px rgba(122, 184, 212, 0.25)",
+    boxShadow: "0 3px 14px rgba(53, 102, 106, 0.25)",
   },
   laiNavBtn: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 13,
-    background: "rgba(122, 184, 212, 0.1)",
+    background: "rgba(53, 102, 106, 0.1)",
     color: "#2B5054",
-    border: "1px solid rgba(122, 184, 212, 0.35)",
+    border: "1px solid rgba(53, 102, 106, 0.35)",
     borderRadius: 20,
     padding: "8px 18px",
     cursor: "pointer",
@@ -2461,11 +2397,11 @@ const styles = {
     letterSpacing: "0.3px",
   },
   toolCard: {
-    background: "#fff",
-    border: "1px solid rgba(122, 184, 212, 0.2)",
-    borderRadius: 16,
+    background: "linear-gradient(135deg, #12393d 0%, #2b5054 100%)",
+    border: "none",
+    borderRadius: 4,
     padding: "24px 28px",
-    boxShadow: "0 2px 12px rgba(100, 130, 150, 0.07)",
+    boxShadow: "0 40px 40px -10px rgba(26, 28, 28, 0.04)",
     display: "flex",
     flexDirection: "column",
     gap: "12px",
@@ -2476,16 +2412,16 @@ const styles = {
     alignItems: "flex-start",
   },
   toolCardName: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Newsreader', serif",
     fontSize: 20,
     fontWeight: 700,
-    color: "#2B5054",
+    color: "#ffffff",
     margin: 0,
   },
   toolCardTagline: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
-    color: "#7B8F92",
+    color: "rgba(255,255,255,0.72)",
     fontWeight: 500,
     letterSpacing: "0.5px",
     textTransform: "uppercase",
@@ -2493,12 +2429,12 @@ const styles = {
     display: "block",
   },
   toolCardBadge: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 11,
     fontWeight: 700,
-    color: "#2B5054",
-    background: "rgba(122, 184, 212, 0.15)",
-    border: "1px solid rgba(122, 184, 212, 0.4)",
+    color: "#ffffff",
+    background: "rgba(255,255,255,0.12)",
+    border: "1px solid rgba(192, 200, 201, 0.2)",
     borderRadius: 20,
     padding: "3px 10px",
     letterSpacing: "0.5px",
@@ -2506,29 +2442,29 @@ const styles = {
     whiteSpace: "nowrap",
   },
   toolCardDesc: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 15,
     lineHeight: 1.7,
-    color: "#4B5E61",
+    color: "rgba(255,255,255,0.85)",
     margin: 0,
   },
   toolCardBtn: {
     display: "inline-block",
     alignSelf: "flex-start",
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 14,
     fontWeight: 700,
-    color: "#fff",
-    background: "linear-gradient(135deg, #5A8A8E 0%, #2B5054 100%)",
-    borderRadius: 10,
+    color: "#12393d",
+    background: "#ffffff",
+    borderRadius: 4,
     padding: "10px 22px",
     textDecoration: "none",
     letterSpacing: "0.3px",
-    boxShadow: "0 3px 10px rgba(122, 184, 212, 0.25)",
+    boxShadow: "none",
   },
   toolCardPlaceholder: {
     background: "rgba(248, 250, 251, 0.8)",
-    border: "1px dashed rgba(122, 184, 212, 0.3)",
+    border: "1px dashed rgba(53, 102, 106, 0.3)",
     borderRadius: 16,
     padding: "24px 28px",
     display: "flex",
@@ -2536,7 +2472,7 @@ const styles = {
     justifyContent: "center",
   },
   toolCardPlaceholderText: {
-    fontFamily: "'DM Sans', sans-serif",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 14,
     color: "#8EA1A4",
     fontStyle: "italic",
@@ -2547,7 +2483,7 @@ const styles = {
 // ═══════════════════════════════════════════════════════════════════════════
 (function () {
   const link = document.createElement("link");
-  link.href = "https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&family=DM+Sans:wght@400;500;600;700&display=swap";
+  link.href = "https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Public+Sans:wght@400;500;600;700&display=swap";
   link.rel = "stylesheet";
   document.head.appendChild(link);
 })();
