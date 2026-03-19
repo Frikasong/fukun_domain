@@ -1,0 +1,95 @@
+{
+  "sources": [
+    {
+      "name": "LawSites",
+      "url": "https://lawsitesblog.com/feed",
+      "region": "na",
+      "priority": 10,
+      "enabled": true
+    },
+    {
+      "name": "Artificial Lawyer",
+      "url": "https://www.artificiallawyer.com/feed/",
+      "region": "na",
+      "priority": 10,
+      "enabled": true
+    },
+    {
+      "name": "Legaltech News",
+      "url": "https://www.law.com/legaltechnews/feed/",
+      "region": "na",
+      "priority": 9,
+      "enabled": false
+    },
+    {
+      "name": "ABA Journal",
+      "url": "https://www.abajournal.com/rss/news",
+      "region": "na",
+      "priority": 8,
+      "enabled": true
+    },
+    {
+      "name": "Clio Blog",
+      "url": "https://www.clio.com/blog/feed/",
+      "region": "na",
+      "priority": 7,
+      "enabled": true
+    },
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/rss.xml",
+      "region": "na",
+      "priority": 8,
+      "enabled": true
+    },
+    {
+      "name": "Anthropic News",
+      "url": "https://www.anthropic.com/news/rss.xml",
+      "region": "na",
+      "priority": 8,
+      "enabled": false
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/rss/",
+      "region": "na",
+      "priority": 7,
+      "enabled": true
+    },
+    {
+      "name": "Microsoft AI Blog",
+      "url": "https://blogs.microsoft.com/ai/feed/",
+      "region": "na",
+      "priority": 7,
+      "enabled": true
+    },
+    {
+      "name": "36Kr",
+      "url": "https://36kr.com/feed",
+      "region": "cn",
+      "priority": 9,
+      "enabled": true
+    },
+    {
+      "name": "InfoQ China",
+      "url": "https://www.infoq.cn/feed",
+      "region": "cn",
+      "priority": 8,
+      "enabled": true
+    },
+    {
+      "name": "Tencent Tech",
+      "url": "https://tech.qq.com/rss.xml",
+      "region": "cn",
+      "priority": 6,
+      "enabled": true
+    },
+    {
+      "name": "Leiphone AI",
+      "url": "https://www.leiphone.com/category/ai/feed",
+      "region": "cn",
+      "priority": 7,
+      "enabled": false
+    }
+  ]
+}

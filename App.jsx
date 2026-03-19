@@ -57,6 +57,25 @@ const TRANSLATIONS = {
       empty: "No posts yet",
       createFirst: "Create First Post",
     },
+    news: {
+      autoTitle: "Auto News Radar",
+      autoSub: "Continuously updated from public sources",
+      naTitle: "North America Radar",
+      naSub: "Legal tech products, skills, and influential articles",
+      cnTitle: "China Focus",
+      cnSub: "China Focus · Legal tech and policy developments",
+      read: "Read",
+      translate: "Translate",
+      loading: "Loading latest updates...",
+      empty: "No updates yet. Check back soon.",
+      error: "Could not load the news feed right now.",
+      categories: {
+        tools: "Tools",
+        skills: "Skills",
+        articles: "Influential Articles",
+        updates: "Updates",
+      },
+    },
     law: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post" },
     investment: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post" },
     essays: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post" },
@@ -124,6 +143,25 @@ const TRANSLATIONS = {
       newPost: "+ 新建文章",
       empty: "暂无文章",
       createFirst: "创建第一篇",
+    },
+    news: {
+      autoTitle: "自动新闻雷达",
+      autoSub: "基于公开来源持续更新",
+      naTitle: "北美雷达",
+      naSub: "法律科技产品、技能与影响力文章",
+      cnTitle: "中国焦点",
+      cnSub: "China Focus · 法律科技与政策动态",
+      read: "阅读",
+      translate: "翻译",
+      loading: "正在加载最新动态...",
+      empty: "暂时没有更新，稍后再看。",
+      error: "当前无法加载新闻源。",
+      categories: {
+        tools: "工具",
+        skills: "技能",
+        articles: "影响力文章",
+        updates: "动态",
+      },
     },
     law: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇" },
     investment: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇" },
@@ -557,6 +595,7 @@ function App() {
             onDeleteComment={deleteComment}
             setActiveSection={setActiveSection}
             T={T}
+            lang={lang}
           />
         ) : (
           <EditorView
@@ -596,7 +635,7 @@ function App() {
 // ═══════════════════════════════════════════════════════════════════════════
 // GRID VIEW
 // ═══════════════════════════════════════════════════════════════════════════
-function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddComment, onDeleteComment, setActiveSection, T }) {
+function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddComment, onDeleteComment, setActiveSection, T, lang }) {
   const sectionLabel = T.nav[section.id] || section.name;
   const sectionSub = T.nav[section.id + "Sub"] || section.subtitle;
 
@@ -639,7 +678,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
 
   // Special handling for Tech section (sub-tabs: Insights | Tools | Observations | AI Lab)
   if (section.id === "tech") {
-    return <TechView entries={entries} comments={comments} onNew={onNew} onEdit={onEdit} onDelete={onDelete} onAddComment={onAddComment} onDeleteComment={onDeleteComment} setActiveSection={setActiveSection} T={T} />;
+    return <TechView entries={entries} comments={comments} onNew={onNew} onEdit={onEdit} onDelete={onDelete} onAddComment={onAddComment} onDeleteComment={onDeleteComment} setActiveSection={setActiveSection} T={T} lang={lang} />;
   }
 
   // Special handling for Contact section
@@ -852,14 +891,103 @@ function EntryCard({ entry, comments, onEdit, onDelete, onAddComment, onDeleteCo
   );
 }
 
+function buildTranslateUrl(url, lang, region) {
+  const targetLang = region === "cn" ? "en" : (lang === "zh" ? "zh-CN" : "en");
+  return `https://translate.google.com/translate?sl=auto&tl=${encodeURIComponent(targetLang)}&u=${encodeURIComponent(url)}`;
+}
+
+function NewsRadarPanel({ title, subtitle, items, region, loading, error, T, lang }) {
+  const shown = (items || []).slice(0, 12);
+
+  return (
+    <section style={styles.newsPanel}>
+      <div style={styles.newsPanelHeader}>
+        <h3 style={styles.newsPanelTitle}>{title}</h3>
+        <p style={styles.newsPanelSub}>{subtitle}</p>
+      </div>
+
+      {loading && <p style={styles.newsState}>{T.news.loading}</p>}
+      {!loading && error && <p style={styles.newsState}>{T.news.error}</p>}
+      {!loading && !error && shown.length === 0 && <p style={styles.newsState}>{T.news.empty}</p>}
+
+      {!loading && !error && shown.length > 0 && (
+        <div style={styles.newsList}>
+          {shown.map((item) => {
+            const date = item.publishedAt
+              ? new Date(item.publishedAt).toLocaleDateString(lang === "zh" ? "zh-CN" : "en-CA", {
+                  year: "numeric",
+                  month: "short",
+                  day: "numeric",
+                })
+              : "";
+
+            const categoryLabel = T.news.categories[item.category] || item.category;
+
+            return (
+              <article key={item.id || item.url} style={styles.newsItem}>
+                <div style={styles.newsMetaRow}>
+                  <span style={styles.newsSource}>{item.source}</span>
+                  {date && <span style={styles.newsDate}>{date}</span>}
+                </div>
+                <a href={item.url} target="_blank" rel="noopener noreferrer" style={styles.newsTitleLink}>
+                  {item.title}
+                </a>
+                {item.summary && <p style={styles.newsSummary}>{item.summary}</p>}
+                <div style={styles.newsFooterRow}>
+                  <span style={styles.newsCategory}>{categoryLabel}</span>
+                  <div style={styles.newsLinks}>
+                    <a href={item.url} target="_blank" rel="noopener noreferrer" style={styles.newsLinkBtn}>{T.news.read}</a>
+                    <a href={buildTranslateUrl(item.url, lang, region)} target="_blank" rel="noopener noreferrer" style={styles.newsLinkBtn}>{T.news.translate}</a>
+                  </div>
+                </div>
+              </article>
+            );
+          })}
+        </div>
+      )}
+    </section>
+  );
+}
+
 // ═══════════════════════════════════════════════════════════════════════════
 // TECH VIEW (2 sub-tabs: Legal Tech & AI Lab | Tech Observations)
 // ═══════════════════════════════════════════════════════════════════════════
-function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, onDeleteComment, setActiveSection, T }) {
+function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, onDeleteComment, setActiveSection, T, lang }) {
   const [activeTab, setActiveTab] = useState("lab");
+  const [newsLoading, setNewsLoading] = useState(true);
+  const [newsError, setNewsError] = useState("");
+  const [newsPanels, setNewsPanels] = useState({ na: [], cn: [] });
+  const [newsHighlights, setNewsHighlights] = useState({ na: [], cn: [] });
 
   const insightEntries = entries.filter((e) => ["legal-tech", "legal-ai", "tech"].includes(e.section));
   const obsEntries = entries.filter((e) => e.section === "tech-obs");
+
+  useEffect(() => {
+    let canceled = false;
+
+    async function loadNewsFeed() {
+      setNewsLoading(true);
+      setNewsError("");
+      try {
+        const res = await fetch(`news-feed.json?t=${Date.now()}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        if (canceled) return;
+        setNewsPanels(data.panels || { na: [], cn: [] });
+        setNewsHighlights(data.highlights || { na: [], cn: [] });
+      } catch (err) {
+        if (canceled) return;
+        setNewsError(String(err));
+      } finally {
+        if (!canceled) setNewsLoading(false);
+      }
+    }
+
+    loadNewsFeed();
+    return () => {
+      canceled = true;
+    };
+  }, []);
 
   return (
     <div>
@@ -915,6 +1043,37 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
               </div>
             </div>
           </div>
+
+          <section style={styles.newsBlock}>
+            <div style={styles.newsBlockHeader}>
+              <h3 style={styles.newsBlockTitle}>{T.news.autoTitle}</h3>
+              <p style={styles.newsBlockSub}>{T.news.autoSub}</p>
+            </div>
+
+            <div style={styles.newsGrid}>
+              <NewsRadarPanel
+                title={T.news.naTitle}
+                subtitle={T.news.naSub}
+                items={[...(newsHighlights.na || []), ...(newsPanels.na || [])]}
+                region="na"
+                loading={newsLoading}
+                error={newsError}
+                T={T}
+                lang={lang}
+              />
+              <NewsRadarPanel
+                title={T.news.cnTitle}
+                subtitle={T.news.cnSub}
+                items={[...(newsHighlights.cn || []), ...(newsPanels.cn || [])]}
+                region="cn"
+                loading={newsLoading}
+                error={newsError}
+                T={T}
+                lang={lang}
+              />
+            </div>
+          </section>
+
           {insightEntries.length === 0 ? (
             <div style={styles.emptyState}>
               <p style={styles.emptyText}>{T.tech.empty}</p>
@@ -1401,6 +1560,133 @@ const styles = {
     background: "linear-gradient(135deg, #5A8A8E 0%, #2B5054 100%)",
     borderColor: "#2B5054",
     color: "#fff",
+  },
+  newsBlock: {
+    marginBottom: 34,
+  },
+  newsBlockHeader: {
+    marginBottom: 14,
+  },
+  newsBlockTitle: {
+    fontFamily: "'DM Sans', sans-serif",
+    fontSize: 16,
+    color: "#2B5054",
+    margin: 0,
+    fontWeight: 600,
+  },
+  newsBlockSub: {
+    fontFamily: "'DM Sans', sans-serif",
+    fontSize: 12,
+    color: "#5A8A8E",
+    margin: "6px 0 0 0",
+  },
+  newsGrid: {
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
+    gap: 16,
+  },
+  newsPanel: {
+    border: "1px solid rgba(43, 80, 84, 0.18)",
+    borderRadius: 10,
+    background: "#fff",
+    padding: 14,
+  },
+  newsPanelHeader: {
+    marginBottom: 10,
+  },
+  newsPanelTitle: {
+    fontFamily: "'DM Sans', sans-serif",
+    fontSize: 14,
+    color: "#2B5054",
+    margin: 0,
+    fontWeight: 600,
+  },
+  newsPanelSub: {
+    fontFamily: "'DM Sans', sans-serif",
+    fontSize: 11,
+    color: "#5A8A8E",
+    margin: "4px 0 0 0",
+  },
+  newsState: {
+    fontFamily: "'DM Sans', sans-serif",
+    fontSize: 12,
+    color: "#5A8A8E",
+    margin: "8px 0",
+  },
+  newsList: {
+    display: "flex",
+    flexDirection: "column",
+    gap: 10,
+  },
+  newsItem: {
+    border: "1px solid rgba(43, 80, 84, 0.1)",
+    borderRadius: 8,
+    padding: 10,
+    background: "#fafafa",
+  },
+  newsMetaRow: {
+    display: "flex",
+    justifyContent: "space-between",
+    alignItems: "center",
+    marginBottom: 6,
+    gap: 10,
+  },
+  newsSource: {
+    fontFamily: "'DM Sans', sans-serif",
+    fontSize: 11,
+    color: "#2B5054",
+    fontWeight: 600,
+  },
+  newsDate: {
+    fontFamily: "'DM Sans', sans-serif",
+    fontSize: 10,
+    color: "#7B8F92",
+  },
+  newsTitleLink: {
+    fontFamily: "'Lora', serif",
+    fontSize: 15,
+    color: "#2F3F42",
+    textDecoration: "none",
+    lineHeight: 1.5,
+    display: "block",
+  },
+  newsSummary: {
+    fontFamily: "'DM Sans', sans-serif",
+    fontSize: 12,
+    color: "#4B5E61",
+    lineHeight: 1.6,
+    margin: "7px 0 8px",
+  },
+  newsFooterRow: {
+    display: "flex",
+    justifyContent: "space-between",
+    alignItems: "center",
+    gap: 8,
+  },
+  newsCategory: {
+    fontFamily: "'DM Sans', sans-serif",
+    fontSize: 10,
+    color: "#2B5054",
+    background: "rgba(43, 80, 84, 0.1)",
+    border: "1px solid rgba(43, 80, 84, 0.2)",
+    borderRadius: 999,
+    padding: "2px 8px",
+    whiteSpace: "nowrap",
+  },
+  newsLinks: {
+    display: "flex",
+    gap: 6,
+    alignItems: "center",
+  },
+  newsLinkBtn: {
+    fontFamily: "'DM Sans', sans-serif",
+    fontSize: 11,
+    color: "#2B5054",
+    textDecoration: "none",
+    border: "1px solid rgba(43, 80, 84, 0.25)",
+    borderRadius: 6,
+    padding: "3px 8px",
+    background: "#fff",
   },
   // Main
   main: {
