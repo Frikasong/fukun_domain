@@ -441,38 +441,41 @@ function App() {
       {/* Header */}
       <header style={{ ...styles.header, padding: isMobile ? "16px 16px 10px" : (isTablet ? "20px 24px 14px" : "22px 32px 16px") }}>
         <div style={{ ...styles.headerContent, maxWidth: isWideDesktop ? 1600 : 1280 }}>
-          {/* Logo centered */}
-          <div style={{ ...styles.headerLogoWrap, width: isMobile ? "100%" : "auto" }} onClick={() => { setView("grid"); setActiveSection("about"); }}>
-            {!logoFailed && (
-              <img
-                src="logo.png"
-                alt={T.site.name}
-                style={{ ...styles.siteLogo, height: isMobile ? 52 : 60 }}
-                onError={() => setLogoFailed(true)}
-              />
-            )}
+          {/* Logo */}
+          <div style={styles.headerLogoArea}>
+            <div style={styles.headerLogoWrap} onClick={() => { setView("grid"); setActiveSection("about"); }}>
+              {!logoFailed && (
+                <img
+                  src="logo.png"
+                  alt={T.site.name}
+                  style={{ ...styles.siteLogo, height: isMobile ? 52 : 60 }}
+                  onError={() => setLogoFailed(true)}
+                />
+              )}
+            </div>
+            {/* Tagline links below logo */}
             {!isMobile && (
               <div style={styles.tagline}>
-                <span
-                  style={styles.taglineLink}
+                <button
+                  style={styles.taglineBtn}
                   onClick={() => { setActiveSection("law"); setView("grid"); }}
                 >
                   Law
-                </span>
-                <span style={styles.taglineDot}> · </span>
-                <span
-                  style={styles.taglineLink}
+                </button>
+                <span style={styles.taglineDot}>·</span>
+                <button
+                  style={styles.taglineBtn}
                   onClick={() => { setActiveSection("tech"); setView("grid"); }}
                 >
                   Technology
-                </span>
-                <span style={styles.taglineDot}> · </span>
-                <span
-                  style={styles.taglineLink}
+                </button>
+                <span style={styles.taglineDot}>·</span>
+                <button
+                  style={styles.taglineBtn}
                   onClick={() => { setActiveSection("essays"); setView("grid"); }}
                 >
                   Ideas
-                </span>
+                </button>
               </div>
             )}
           </div>
@@ -1377,12 +1380,14 @@ const styles = {
     alignItems: "center",
     position: "relative",
   },
-  headerLogoWrap: {
-    cursor: "pointer",
+  headerLogoArea: {
     display: "flex",
     flexDirection: "column",
     alignItems: "center",
     textAlign: "center",
+  },
+  headerLogoWrap: {
+    cursor: "pointer",
   },
   headerLang: {
     position: "absolute",
@@ -1396,42 +1401,32 @@ const styles = {
     display: "block",
   },
   tagline: {
-    fontFamily: "'Newsreader', serif",
-    fontSize: 12,
-    color: "rgba(255,255,255,0.68)",
-    margin: "6px 0 0 0",
-    letterSpacing: "1.8px",
-    fontWeight: 400,
-    fontStyle: "italic",
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
-    gap: 0,
-    textTransform: "uppercase",
-    pointerEvents: "none",
+    gap: 6,
+    marginTop: 6,
   },
-  taglineLink: {
-    color: "rgba(255,255,255,0.68)",
-    cursor: "pointer",
-    transition: "color 0.2s",
-    fontFamily: "'Newsreader', serif",
-    fontStyle: "italic",
-    textTransform: "uppercase",
-    letterSpacing: "1.8px",
-    fontSize: 12,
-    fontWeight: 400,
+  taglineBtn: {
     background: "none",
     border: "none",
+    color: "rgba(255,255,255,0.72)",
+    cursor: "pointer",
+    fontFamily: "'Newsreader', serif",
+    fontSize: 12,
+    fontStyle: "italic",
+    fontWeight: 400,
+    letterSpacing: "1.5px",
+    textTransform: "uppercase",
     padding: "2px 4px",
-    pointerEvents: "auto",
+    transition: "color 0.2s",
   },
   taglineDot: {
-    color: "rgba(255,255,255,0.4)",
+    color: "rgba(255,255,255,0.38)",
     fontFamily: "'Newsreader', serif",
     fontStyle: "italic",
-    fontSize: 12,
-    cursor: "default",
-    pointerEvents: "none",
+    fontSize: 11,
+    userSelect: "none",
   },
   navBar: {
     background: "rgba(43, 80, 84, 0.9)",
