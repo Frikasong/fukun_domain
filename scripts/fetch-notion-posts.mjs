@@ -76,18 +76,41 @@ function getSectionProperty(properties) {
 }
 
 function getPublishedProperty(properties) {
+  const explicitFalseTerms = ["draft", "private", "idea", "todo", "wip", "archive", "archived"];
+  const explicitTrueTerms = ["publish", "published", "live", "public", "done", "ready"];
+
   for (const [name, value] of Object.entries(properties || {})) {
     const lower = name.toLowerCase();
     if ((lower.includes("publish") || lower.includes("live")) && value?.type === "checkbox") {
-      return !!value.checkbox;
+      return {
+        isPublished: !!value.checkbox,
+        reason: `checkbox:${name}=${value.checkbox ? "true" : "false"}`
+      };
     }
     if ((lower.includes("status") || lower.includes("state")) && value?.type === "select") {
       const n = (value.select?.name || "").toLowerCase();
-      if (!n) return true;
-      return ["published", "live", "public", "done"].includes(n);
+      if (!n) return { isPublished: true, reason: `select:${name}=empty(default-allow)` };
+      if (explicitFalseTerms.some((t) => n.includes(t))) {
+        return { isPublished: false, reason: `select:${name}=${n}(blocked)` };
+      }
+      if (explicitTrueTerms.some((t) => n.includes(t))) {
+        return { isPublished: true, reason: `select:${name}=${n}(allow)` };
+      }
+      return { isPublished: true, reason: `select:${name}=${n}(default-allow)` };
+    }
+    if ((lower.includes("status") || lower.includes("state")) && value?.type === "status") {
+      const n = (value.status?.name || "").toLowerCase();
+      if (!n) return { isPublished: true, reason: `status:${name}=empty(default-allow)` };
+      if (explicitFalseTerms.some((t) => n.includes(t))) {
+        return { isPublished: false, reason: `status:${name}=${n}(blocked)` };
+      }
+      if (explicitTrueTerms.some((t) => n.includes(t))) {
+        return { isPublished: true, reason: `status:${name}=${n}(allow)` };
+      }
+      return { isPublished: true, reason: `status:${name}=${n}(default-allow)` };
     }
   }
-  return true;
+  return { isPublished: true, reason: "no-publish-field(default-allow)" };
 }
 
 async function fetchPageBlocks(pageId) {
@@ -136,6 +159,9 @@ async function main() {
   assertEnv();
 
   const entries = [];
+  let totalPagesSeen = 0;
+  let skippedUnpublished = 0;
+  const skipReasons = {};
   let cursor = undefined;
 
   do {
@@ -147,8 +173,14 @@ async function main() {
     const data = await notionRequest(`/databases/${NOTION_DATABASE_ID}/query`, body);
 
     for (const page of data.results || []) {
+      totalPagesSeen += 1;
       const properties = page.properties || {};
-      if (!getPublishedProperty(properties)) continue;
+      const publish = getPublishedProperty(properties);
+      if (!publish.isPublished) {
+        skippedUnpublished += 1;
+        skipReasons[publish.reason] = (skipReasons[publish.reason] || 0) + 1;
+        continue;
+      }
 
       const title = getTitleProperty(properties);
       const date = getDateProperty(properties);
@@ -174,6 +206,16 @@ async function main() {
   } while (cursor);
 
   entries.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  console.log(`Notion query pages seen: ${totalPagesSeen}`);
+  console.log(`Included entries: ${entries.length}`);
+  console.log(`Skipped as unpublished: ${skippedUnpublished}`);
+  if (Object.keys(skipReasons).length > 0) {
+    console.log("Skip reasons:");
+    for (const [reason, count] of Object.entries(skipReasons)) {
+      console.log(`- ${reason}: ${count}`);
+    }
+  }
 
   const output = {
     generatedAt: new Date().toISOString(),

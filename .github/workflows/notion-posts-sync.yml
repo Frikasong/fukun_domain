@@ -44,6 +44,11 @@ jobs:
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
         run: node scripts/fetch-notion-posts.mjs
 
+      - name: Print fetched post count
+        if: steps.secrets.outputs.ready == 'true' && steps.fetch.outcome == 'success'
+        run: |
+          node -e "const fs=require('fs');const p=JSON.parse(fs.readFileSync('notion-posts.json','utf8'));console.log('Fetched entries:',(p.entries||[]).length);"
+
       - name: Report fetch issue and continue
         if: steps.secrets.outputs.ready == 'true' && steps.fetch.outcome != 'success'
         run: echo "Notion sync failed (likely credentials, DB sharing, or schema mismatch). Keeping previous notion-posts.json and continuing."
