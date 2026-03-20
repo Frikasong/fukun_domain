@@ -9,9 +9,9 @@ const TRANSLATIONS = {
     site: { name: "Fukun", tagline: "Law · Technology · Ideas" },
     langToggle: "中文",
     nav: {
-      info: "Info", professional: "Work", personal: "Life",
+      info: "About", professional: "Work", personal: "Life",
       about: "About", tech: "Tech", law: "Law", investment: "Investment", essays: "Essays",
-      music: "Weekly Music", photography: "Photos", contact: "Contact",
+      music: "Weekly Music", photography: "Photos",
       techSub: "Legal AI · Tools",
       lawSub: "Legal Research",
       investmentSub: "Market Analysis",
@@ -202,7 +202,6 @@ const SECTIONS = [
   { id: "essays", name: "Essays", subtitle: "Writing", icon: "✍️", type: "personal" },
   { id: "music", name: "Weekly Music", icon: "🎵", type: "personal" },
   { id: "photography", name: "Photos", icon: "📷", type: "personal" },
-  { id: "contact", name: "Contact", icon: "📧", type: "info" },
 ];
 
 // Maps old section IDs to new consolidated sections (for localStorage backwards compat)
@@ -555,63 +554,47 @@ function App() {
                 </div>
               )}
             </div>
-
-            <button
-              style={{ ...styles.navItem, ...(activeSection === "contact" ? styles.navItemActive : {}) }}
-              onClick={() => { setActiveSection("contact"); setView("grid"); }}
-            >
-              {T.nav.contact}
-            </button>
           </nav>
         </div>
       )}
 
-      {/* Mobile menu */}
+      {/* Mobile menu - horizontal scrollable bar */}
       {isMobile && menuOpen && (
-        <div style={styles.mobileMenu}>
+        <div style={styles.mobileMenuBar}>
           <div style={styles.mobileMenuHeader}>
             <button style={styles.langToggle} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
               {T.langToggle}
             </button>
             <button style={styles.menuToggle} onClick={() => setMenuOpen(false)}>✕</button>
           </div>
-          <div style={styles.mobileMenuSection}>
-            <button style={styles.mobileMenuItem} onClick={() => { setActiveSection("about"); setView("grid"); setMenuOpen(false); }}>
-              👋 {T.nav.info}
+          <div style={styles.mobileMenuScroll}>
+            <button
+              style={{ ...styles.mobileNavItem, ...(activeSection === "about" ? styles.mobileNavItemActive : {}) }}
+              onClick={() => { setActiveSection("about"); setView("grid"); setMenuOpen(false); }}
+            >
+              {T.nav.info}
             </button>
-          </div>
-          <div style={styles.mobileMenuSection}>
-            <div style={styles.mobileMenuGroupHeader}>{T.nav.professional}</div>
             {SECTIONS.filter((s) => s.type === "professional").map((section) => {
               const label = T.nav[section.id] || section.name;
-              const subtitle = T.nav[section.id + "Sub"];
               return (
                 <button
                   key={section.id}
-                  style={{ ...styles.mobileMenuItem, ...(activeSection === section.id ? styles.mobileMenuItemActive : {}) }}
+                  style={{ ...styles.mobileNavItem, ...(activeSection === section.id ? styles.mobileNavItemActive : {}) }}
                   onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
                 >
-                  <span>{section.icon}</span>
-                  <span style={styles.mobileMenuItemText}>
-                    {label}
-                    {subtitle && <span style={styles.mobileMenuItemSub}>{subtitle}</span>}
-                  </span>
+                  {section.icon} {label}
                 </button>
               );
             })}
-          </div>
-          <div style={styles.mobileMenuSection}>
-            <div style={styles.mobileMenuGroupHeader}>{T.nav.personal}</div>
             {SECTIONS.filter((s) => s.type === "personal").map((section) => {
               const label = T.nav[section.id] || section.name;
               return (
                 <button
                   key={section.id}
-                  style={{ ...styles.mobileMenuItem, ...(activeSection === section.id ? styles.mobileMenuItemActive : {}) }}
+                  style={{ ...styles.mobileNavItem, ...(activeSection === section.id ? styles.mobileNavItemActive : {}) }}
                   onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
                 >
-                  <span>{section.icon}</span>
-                  <span style={styles.mobileMenuItemText}>{label}</span>
+                  {section.icon} {label}
                 </button>
               );
             })}
@@ -705,18 +688,31 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
           <div style={styles.aboutCard}>
             <h3 style={styles.aboutCardTitle}>{T.about.interests}</h3>
             <p style={styles.aboutText}>{T.about.int1}</p>
-            <p style={styles.aboutText}>
-              {T.about.int2}{' '}
-              <span
-                style={styles.aboutConnectLink}
-                onClick={() => {
-                  setActiveSection("contact");
-                  window.scrollTo({ top: 0, behavior: 'smooth' });
-                }}
-              >
-                {T.about.connect}
-              </span>!
-            </p>
+          </div>
+          <div style={styles.aboutCard}>
+            <h3 style={styles.aboutCardTitle}>{T.contact.intro}</h3>
+            <div style={styles.contactIconsRow}>
+              <a href="mailto:frikasong@gmail.com" style={styles.contactIconLink} title={`${T.contact.email}`}>
+                <div style={styles.contactIconCircle}><span style={styles.contactIcon}>✉️</span></div>
+                <span style={styles.contactIconLabel}>{T.contact.email}</span>
+              </a>
+              <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.linkedin}>
+                <div style={styles.contactIconCircle}><span style={styles.contactIcon}>💼</span></div>
+                <span style={styles.contactIconLabel}>{T.contact.linkedin}</span>
+              </a>
+              <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={`${T.contact.instagram}`}>
+                <div style={styles.contactIconCircle}><span style={styles.contactIcon}>📷</span></div>
+                <span style={styles.contactIconLabel}>{T.contact.instagram}</span>
+              </a>
+              <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.github}>
+                <div style={styles.contactIconCircle}><span style={styles.contactIcon}>🐙</span></div>
+                <span style={styles.contactIconLabel}>{T.contact.github}</span>
+              </a>
+              <a href="https://www.xiaohongshu.com/user/profile/236592207" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.rednote}>
+                <div style={styles.contactIconCircle}><span style={styles.contactIcon}>📕</span></div>
+                <span style={styles.contactIconLabel}>{T.contact.rednote}</span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -726,85 +722,6 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
   // Special handling for Tech section (sub-tabs: Insights | Tools | Observations | AI Lab)
   if (section.id === "tech") {
     return <TechView entries={entries} onNew={onNew} onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} setActiveSection={setActiveSection} T={T} lang={lang} />;
-  }
-
-  // Special handling for Contact section
-  if (section.id === "contact") {
-    return (
-      <div style={styles.gridContainer}>
-        <div style={styles.sectionHeader}>
-          <div style={styles.sectionTitleRow}>
-            <span style={styles.sectionIcon}>{section.icon}</span>
-            <h2 style={{ ...styles.sectionTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{sectionLabel}</h2>
-          </div>
-        </div>
-        <div style={styles.contactContent}>
-          <div style={styles.contactCard}>
-            <p style={styles.contactIntro}>{T.contact.intro}</p>
-            <div style={styles.contactIconsRow}>
-              <a 
-                href="mailto:frikasong@gmail.com" 
-                style={styles.contactIconLink}
-                title={`${T.contact.email}: frikasong@gmail.com`}
-              >
-                <div style={styles.contactIconCircle}>
-                  <span style={styles.contactIcon}>✉️</span>
-                </div>
-                <span style={styles.contactIconLabel}>{T.contact.email}</span>
-              </a>
-              <a 
-                href="https://www.linkedin.com/in/fukun-y-7753a5176/" 
-                target="_blank" 
-                rel="noopener noreferrer" 
-                style={styles.contactIconLink}
-                title={T.contact.linkedin}
-              >
-                <div style={styles.contactIconCircle}>
-                  <span style={styles.contactIcon}>💼</span>
-                </div>
-                <span style={styles.contactIconLabel}>{T.contact.linkedin}</span>
-              </a>
-              <a 
-                href="https://instagram.com/frika_song" 
-                target="_blank" 
-                rel="noopener noreferrer" 
-                style={styles.contactIconLink}
-                title={`${T.contact.instagram}: @frika_song`}
-              >
-                <div style={styles.contactIconCircle}>
-                  <span style={styles.contactIcon}>📷</span>
-                </div>
-                <span style={styles.contactIconLabel}>{T.contact.instagram}</span>
-              </a>
-              <a 
-                href="https://github.com/Frikasong" 
-                target="_blank" 
-                rel="noopener noreferrer" 
-                style={styles.contactIconLink}
-                title={T.contact.github}
-              >
-                <div style={styles.contactIconCircle}>
-                  <span style={styles.contactIcon}>🐙</span>
-                </div>
-                <span style={styles.contactIconLabel}>{T.contact.github}</span>
-              </a>
-              <a
-                href="https://www.xiaohongshu.com/user/profile/236592207"
-                target="_blank"
-                rel="noopener noreferrer"
-                style={styles.contactIconLink}
-                title={T.contact.rednote}
-              >
-                <div style={styles.contactIconCircle}>
-                  <span style={styles.contactIcon}>📕</span>
-                </div>
-                <span style={styles.contactIconLabel}>{T.contact.rednote}</span>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    );
   }
 
   // Regular content sections
@@ -1432,6 +1349,7 @@ const styles = {
     justifyContent: "center",
     gap: 0,
     textTransform: "uppercase",
+    pointerEvents: "none",
   },
   taglineLink: {
     color: "rgba(255,255,255,0.68)",
@@ -1442,6 +1360,11 @@ const styles = {
     textTransform: "uppercase",
     letterSpacing: "1.8px",
     fontSize: 12,
+    fontWeight: 400,
+    background: "none",
+    border: "none",
+    padding: "2px 4px",
+    pointerEvents: "auto",
   },
   taglineDot: {
     color: "rgba(255,255,255,0.4)",
@@ -1449,6 +1372,7 @@ const styles = {
     fontStyle: "italic",
     fontSize: 12,
     cursor: "default",
+    pointerEvents: "none",
   },
   navBar: {
     background: "rgba(43, 80, 84, 0.9)",
@@ -1569,19 +1493,48 @@ const styles = {
     transition: "all 0.2s",
   },
   // Mobile menu
-  mobileMenu: {
-    background: "rgba(43, 80, 84, 0.96)",
+  mobileMenuBar: {
+    background: "rgba(43, 80, 84, 0.95)",
     backdropFilter: "blur(20px)",
     borderBottom: "1px solid rgba(255,255,255,0.08)",
-    padding: "10px 0 20px",
+    position: "sticky",
+    top: 0,
+    zIndex: 99,
   },
   mobileMenuHeader: {
     display: "flex",
     justifyContent: "space-between",
     alignItems: "center",
-    padding: "6px 16px 10px",
+    padding: "8px 16px",
     borderBottom: "1px solid rgba(255,255,255,0.06)",
-    marginBottom: 8,
+  },
+  mobileMenuScroll: {
+    display: "flex",
+    overflowX: "auto",
+    gap: 0,
+    padding: "4px 8px 8px",
+    scrollbarWidth: "none",
+    msOverflowStyle: "none",
+  },
+  mobileNavItem: {
+    background: "transparent",
+    border: "none",
+    color: "rgba(255,255,255,0.72)",
+    padding: "10px 14px",
+    cursor: "pointer",
+    fontFamily: "'Newsreader', serif",
+    fontSize: 13,
+    fontWeight: 400,
+    fontStyle: "italic",
+    letterSpacing: "0.3px",
+    whiteSpace: "nowrap",
+    borderBottom: "2px solid transparent",
+    transition: "all 0.2s",
+    flexShrink: 0,
+  },
+  mobileNavItemActive: {
+    color: "#ffffff",
+    borderBottom: "2px solid rgba(255,255,255,0.5)",
   },
   mobileMenuSection: {
     padding: "4px 16px",
