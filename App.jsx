@@ -441,7 +441,7 @@ function App() {
       <div style={styles.bgPattern} />
 
       {/* Header */}
-      <header style={{ ...styles.header, padding: isMobile ? "16px 16px 10px" : (isTablet ? "20px 24px 14px" : "22px 32px 16px") }}>
+      <header style={{ ...styles.header, padding: isMobile ? "16px 16px 20px" : (isTablet ? "20px 24px 14px" : "22px 32px 16px") }}>
         <div style={{ ...styles.headerContent, maxWidth: isWideDesktop ? 1600 : 1280 }}>
           {/* Logo */}
           <div style={styles.headerLogoArea}>
@@ -484,6 +484,17 @@ function App() {
             <div style={styles.headerLang}>
               <button style={{ ...styles.langToggle, ...(lang === "en" ? styles.langToggleNormal : {}) }} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
                 {T.langToggle}
+              </button>
+            </div>
+          )}
+          {/* Mobile controls */}
+          {isMobile && (
+            <div style={styles.mobileControls}>
+              <button style={styles.langToggle} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
+                {T.langToggle}
+              </button>
+              <button style={styles.menuToggle} onClick={() => setMenuOpen(!menuOpen)}>
+                {menuOpen ? "✕" : "☰"}
               </button>
             </div>
           )}
@@ -1395,6 +1406,15 @@ const styles = {
     top: "50%",
     transform: "translateY(-50%)",
   },
+  mobileControls: {
+    position: "absolute",
+    right: 0,
+    top: "50%",
+    transform: "translateY(-50%)",
+    display: "flex",
+    gap: 8,
+    alignItems: "center",
+  },
   siteLogo: {
     height: 52,
     width: "auto",
@@ -1551,8 +1571,7 @@ const styles = {
     background: "rgba(43, 80, 84, 0.95)",
     backdropFilter: "blur(20px)",
     borderBottom: "1px solid rgba(255,255,255,0.08)",
-    position: "sticky",
-    top: 0,
+    position: "relative",
     zIndex: 99,
   },
   mobileMenuHeader: {
