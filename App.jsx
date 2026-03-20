@@ -1787,12 +1787,12 @@ const styles = {
   },
   cardTitle: {
     fontFamily: "'Newsreader', serif",
-    fontSize: "clamp(30px, 4.6vw, 46px)",
+    fontSize: "clamp(20px, 2.8vw, 28px)",
     fontWeight: 500,
     fontStyle: "italic",
     margin: "0 0 6px 0",
     color: "#13181a",
-    lineHeight: 0.92,
+    lineHeight: 1.05,
   },
   cardDate: {
     fontFamily: "'Public Sans', sans-serif",
