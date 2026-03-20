@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
+    inputs:
+      debug:
+        description: "Enable debug mode (discover DB properties)"
+        required: false
+        default: "false"
 
 permissions:
   contents: write
@@ -42,6 +47,7 @@ jobs:
         env:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          DEBUG_NOTION_PROPERTIES: ${{ inputs.debug == 'true' && 'true' || '' }}
         run: node scripts/fetch-notion-posts.mjs
 
       - name: Print fetched post count
@@ -58,7 +64,7 @@ jobs:
         run: echo "Skipping Notion sync because required secrets are not configured."
 
       - name: Commit and push if changed
-        if: steps.secrets.outputs.ready == 'true' && steps.fetch.outcome == 'success'
+        if: steps.secrets.outputs.ready == 'true' && steps.fetch.outcome == 'success' && inputs.debug != 'true'
         run: |
           if git diff --quiet -- notion-posts.json; then
             echo "No Notion post updates"
