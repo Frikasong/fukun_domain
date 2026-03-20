@@ -465,75 +465,72 @@ function App() {
               {T.langToggle}
             </button>
             <button style={styles.menuToggle} onClick={() => setMenuOpen(!menuOpen)}>
-              ☰
+              {menuOpen ? "✕" : "☰"}
             </button>
           </div>
         </div>
       </header>
 
-      {/* Nav backdrop */}
+      {/* Inline Expandable Menu */}
       {menuOpen && (
-        <div style={styles.navBackdrop} onClick={() => setMenuOpen(false)} />
-      )}
+        <div style={styles.menuDropdown}>
+          <div style={styles.menuSection}>
+            <button
+              style={styles.menuGroupToggle}
+              onClick={() => {
+                setActiveSection("about");
+                setView("grid");
+                setMenuOpen(false);
+              }}
+            >
+              <span>👋</span>
+              <span>{T.nav.info}</span>
+            </button>
+          </div>
 
-      {/* Floating side navigation panel */}
-      <nav style={{ ...styles.nav, width: isMobile ? "88vw" : 320, transform: menuOpen ? "translateX(0)" : "translateX(100%)" }}>
-        <button style={styles.navClose} onClick={() => setMenuOpen(false)}>✕</button>
-        <div style={styles.navInner}>
-          <div style={styles.navGroup}>
-            <span style={styles.navGroupTitle}>{T.nav.info}</span>
-            {SECTIONS.filter((s) => s.type === "info").map((section) => {
-              const label = T.nav[section.id] || section.name;
-              return (
-                <button
-                  key={section.id}
-                  style={{ ...styles.navBtn, ...(activeSection === section.id ? styles.navBtnActive : {}) }}
-                  onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
-                >
-                  <span style={styles.navIcon}>{section.icon}</span>
-                  <span style={styles.navLabel}>{label}</span>
-                </button>
-              );
-            })}
+          <div style={styles.menuSection}>
+            <div style={styles.menuGroupHeader}>{T.nav.professional}</div>
+            <div style={styles.menuGroupItems}>
+              {SECTIONS.filter((s) => s.type === "professional").map((section) => {
+                const label = T.nav[section.id] || section.name;
+                const subtitle = T.nav[section.id + "Sub"];
+                return (
+                  <button
+                    key={section.id}
+                    style={{ ...styles.menuItem, ...(activeSection === section.id ? styles.menuItemActive : {}) }}
+                    onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
+                  >
+                    <span>{section.icon}</span>
+                    <span style={styles.menuItemText}>
+                      {label}
+                      {subtitle && <span style={styles.menuItemSub}>{subtitle}</span>}
+                    </span>
+                  </button>
+                );
+              })}
+            </div>
           </div>
-          <div style={styles.navGroup}>
-            <span style={styles.navGroupTitle}>{T.nav.professional}</span>
-            {SECTIONS.filter((s) => s.type === "professional").map((section) => {
-              const label = T.nav[section.id] || section.name;
-              const subtitle = T.nav[section.id + "Sub"];
-              return (
-                <button
-                  key={section.id}
-                  style={{ ...styles.navBtn, ...(activeSection === section.id ? styles.navBtnActive : {}) }}
-                  onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
-                >
-                  <span style={styles.navIcon}>{section.icon}</span>
-                  <span style={styles.navLabel}>
-                    {label}
-                    {subtitle && <span style={styles.navSubtitle}>{subtitle}</span>}
-                  </span>
-                </button>
-              );
-            })}
-          </div>
-          <div style={styles.navGroup}>
-            <span style={styles.navGroupTitle}>{T.nav.personal}</span>
-            {SECTIONS.filter((s) => s.type === "personal").map((section) => {
-              const label = T.nav[section.id] || section.name;
-              return (
-                <button
-                  key={section.id}
-                  style={{ ...styles.navBtn, ...(activeSection === section.id ? styles.navBtnActive : {}) }}
-                  onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
-                >
-                  <span style={styles.navIcon}>{section.icon}</span>
-                  <span style={styles.navLabel}>{label}</span>
-                </button>
-              );
-            })}
+
+          <div style={styles.menuSection}>
+            <div style={styles.menuGroupHeader}>{T.nav.personal}</div>
+            <div style={styles.menuGroupItems}>
+              {SECTIONS.filter((s) => s.type === "personal").map((section) => {
+                const label = T.nav[section.id] || section.name;
+                return (
+                  <button
+                    key={section.id}
+                    style={{ ...styles.menuItem, ...(activeSection === section.id ? styles.menuItemActive : {}) }}
+                    onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
+                  >
+                    <span>{section.icon}</span>
+                    <span style={styles.menuItemText}>{label}</span>
+                  </button>
+                );
+              })}
+            </div>
           </div>
         </div>
-      </nav>
+      )}
 
       {/* Main Content */}
       <main style={{
@@ -1369,92 +1366,86 @@ const styles = {
     transition: "all 0.2s",
   },
   // Navigation
-  navBackdrop: {
-    position: "fixed",
-    top: 0, left: 0, right: 0, bottom: 0,
-    background: "rgba(0,0,0,0.25)",
-    zIndex: 200,
-    backdropFilter: "blur(2px)",
-  },
-  nav: {
-    position: "fixed",
-    top: 0,
-    right: 0,
-    width: 280,
-    height: "100vh",
-    background: "rgba(43, 80, 84, 0.8)",
+  menuDropdown: {
+    background: "rgba(43, 80, 84, 0.82)",
     backdropFilter: "blur(20px)",
-    boxShadow: "0 20px 40px -10px rgba(26,28,28,0.04)",
-    zIndex: 201,
-    overflowY: "auto",
-    transition: "transform 0.3s cubic-bezier(0.4,0,0.2,1)",
+    borderBottom: "1px solid rgba(255,255,255,0.08)",
+    padding: "6px 0 10px",
     display: "flex",
-    flexDirection: "column",
+    flexWrap: "wrap",
+    gap: 0,
+    zIndex: 100,
   },
-  navInner: {
-    padding: "24px 20px 40px",
-    display: "flex",
-    flexDirection: "column",
-    gap: 28,
-    flex: 1,
+  menuSection: {
+    flex: "1 1 240px",
+    minWidth: 180,
+    padding: "6px 16px",
+    borderRight: "1px solid rgba(255,255,255,0.08)",
   },
-  navClose: {
-    background: "transparent",
-    border: "none",
-    fontSize: 20,
-    color: "#999",
-    cursor: "pointer",
-    alignSelf: "flex-end",
-    padding: "12px 16px 4px",
-    lineHeight: 1,
-  },
-  navGroup: {
-    display: "flex",
-    flexDirection: "column",
-    gap: 10,
-  },
-  navGroupTitle: {
+  menuGroupHeader: {
     fontFamily: "'Public Sans', sans-serif",
-    fontSize: 10,
-    color: "rgba(255,255,255,0.66)",
+    fontSize: 9,
+    color: "rgba(255,255,255,0.55)",
     letterSpacing: "2px",
     textTransform: "uppercase",
-    marginBottom: 12,
-    fontWeight: 600,
+    fontWeight: 700,
+    marginBottom: 6,
+    paddingBottom: 4,
+    borderBottom: "1px solid rgba(255,255,255,0.1)",
   },
-  navBtn: {
-    background: "transparent",
-    border: "none",
-    color: "#f5f7f7",
-    padding: "12px 16px",
-    textAlign: "left",
-    cursor: "pointer",
-    borderRadius: 8,
-    display: "flex",
-    alignItems: "center",
-    gap: 12,
-    transition: "all 0.2s",
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 14,
-    fontWeight: 500,
-  },
-  navBtnActive: {
-    background: "rgba(255,255,255,0.14)",
-    color: "#ffffff",
-  },
-  navIcon: {
-    fontSize: 18,
-  },
-  navLabel: {
+  menuGroupItems: {
     display: "flex",
     flexDirection: "column",
     gap: 2,
   },
-  navSubtitle: {
+  menuGroupToggle: {
+    background: "transparent",
+    border: "none",
+    color: "#f5f7f7",
+    padding: "10px 12px",
+    textAlign: "left",
+    cursor: "pointer",
+    borderRadius: 6,
+    display: "flex",
+    alignItems: "center",
+    gap: 10,
+    transition: "all 0.2s",
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 14,
+    fontWeight: 500,
+    width: "100%",
+  },
+  menuItem: {
+    background: "transparent",
+    border: "none",
+    color: "rgba(245,247,247,0.82)",
+    padding: "8px 10px",
+    textAlign: "left",
+    cursor: "pointer",
+    borderRadius: 6,
+    display: "flex",
+    alignItems: "center",
+    gap: 10,
+    transition: "all 0.2s",
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 13,
+    fontWeight: 500,
+    width: "100%",
+  },
+  menuItemActive: {
+    color: "#ffffff",
+    background: "rgba(255,255,255,0.12)",
+  },
+  menuItemText: {
+    display: "flex",
+    flexDirection: "column",
+    gap: 1,
+  },
+  menuItemSub: {
     fontFamily: "'Public Sans', sans-serif",
     fontSize: 10,
-    color: "rgba(255,255,255,0.72)",
-    letterSpacing: "0.5px",
+    color: "rgba(255,255,255,0.6)",
+    letterSpacing: "0.3px",
     fontWeight: 400,
   },
   techSubNav: {
