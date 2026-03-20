@@ -1854,12 +1854,12 @@ const styles = {
   },
   postTitle: {
     fontFamily: "'Newsreader', serif",
-    fontSize: "clamp(24px, 3.5vw, 32px)",
+    fontSize: "clamp(20px, 2.5vw, 26px)",
     fontWeight: 500,
     fontStyle: "italic",
     margin: "0 0 8px 0",
     color: "#13181a",
-    lineHeight: 0.95,
+    lineHeight: 1.1,
   },
   postDate: {
     fontFamily: "'Public Sans', sans-serif",
