@@ -1,4 +1,61 @@
 {
-  "generatedAt": "2026-03-19T00:00:00.000Z",
-  "entries": []
+  "generatedAt": "2026-03-20T03:16:53.774Z",
+  "source": "notion",
+  "entries": [
+    {
+      "id": 55645058423903,
+      "notionPageId": "329bdff0-dc5f-801c-a85d-ce9b113c7dd8",
+      "title": "Tech insight post test",
+      "date": "2026-03-20",
+      "section": "tech",
+      "body": "(No content yet)",
+      "summary": "",
+      "images": [],
+      "attachments": []
+    },
+    {
+      "id": 55645058423903,
+      "notionPageId": "329bdff0-dc5f-804b-83fa-e97180fb479a",
+      "title": "Essays Test Post",
+      "date": "2026-03-20",
+      "section": "essays",
+      "body": "(No content yet)",
+      "summary": "",
+      "images": [],
+      "attachments": []
+    },
+    {
+      "id": 55645058423903,
+      "notionPageId": "329bdff0-dc5f-808f-984a-ec008882e131",
+      "title": "Investment Test Post",
+      "date": "2026-03-20",
+      "section": "investment",
+      "body": "(No content yet)",
+      "summary": "",
+      "images": [],
+      "attachments": []
+    },
+    {
+      "id": 55645058423903,
+      "notionPageId": "329bdff0-dc5f-80a9-b2ae-c90ff8cd0672",
+      "title": "Is AGCO an admin decision maker?",
+      "date": "2026-03-20",
+      "section": "law",
+      "body": "(No content yet)",
+      "summary": "",
+      "images": [],
+      "attachments": []
+    },
+    {
+      "id": 55645058423903,
+      "notionPageId": "329bdff0-dc5f-80fd-8945-d7d993d5ae97",
+      "title": "Is Service Ontario an admin decision maker?",
+      "date": "2026-02-28",
+      "section": "law",
+      "body": "---\n\n# Is ServiceOntario a “Public Actor”?\n\n### A Practical Administrative Law Case Study\n\n> TL;DR\n\n---\n\n## Why this question matters\n\nEveryone in Ontario has used ServiceOntario for essential services (driver’s licence, health card, vehicle registration, etc.).\n\nBecause these services are foundational, many people assume ServiceOntario is purely “public.”\n\nBut administrative law asks a deeper question:\n\nIs the actor legally public in function, authority, and accountability?\n\n---\n\n## What triggered this inquiry\n\nDuring a recent visit, I noticed a sign stating that the branch was operated by a private corporate agency under contract with the Ontario government.\n\nThat raises a core legal puzzle:\n\n> Can a privately operated location still be a public actor for administrative law purposes?\n\n---\n\n## 1) ServiceOntario’s legal structure (hybrid model)\n\nServiceOntario sits within the Ministry of Public and Business Service Delivery and Procurement.\n\nIts delivery model is mixed:\n\n- Some locations are directly government-operated.\n\n- Many are operated by private businesses under contract.\n\nKey point: these operators are not standard franchises in the legal sense.\n\nThe Arthur Wishart Act (Franchise Disclosure), 2000 excludes certain Crown service-contract arrangements from “franchise” treatment.\n\n---\n\n## 2) Administrative law framework\n\n### A. Nature of function test\n\nServiceOntario performs statutory, governmental functions:\n\n- issuing government identification,\n\n- registering vehicles,\n\n- administering health-card processes,\n\n- processing vital-statistics services.\n\nThese are public functions even if frontline delivery is contracted out.\n\n---\n\n### B. Source of authority\n\nWhether public employee or private operator, authority flows from statute.\n\nThe decision-maker is applying provincial legal criteria, not private business policy.\n\nThat strongly suggests administrative law principles still apply.\n\n---\n\n### C. Public-private boundary\n\nOutsourcing delivery does not automatically privatize accountability.\n\nIf a contractor is implementing a statutory scheme, courts may still treat those acts as public in substance.\n\n> Substance over form is the central principle here.\n\n---\n\n## 3) Practical challenge: How do you contest a bad decision?\n\nUnder the Judicial Review Procedure Act (Ontario), certain statutory decisions are reviewable.\n\nBut the hybrid model complicates litigation strategy:\n\n- Who is the proper respondent: Ministry, contractor, or both?\n\n- Which legal frame applies: public law, contract, or mixed?\n\n- Can mandamus-style remedies run effectively against private operators?\n\n- How should contractor action be attributed to government?\n\n---\n\n## 4) Alternative pathways beyond JR\n\nDepending on facts, possible avenues include:\n\n- Internal administrative reconsideration\n\n- Ontario Ombudsman complaint\n\n- Human rights complaint (if discrimination is involved)\n\n- Civil action (e.g., negligence-related loss)\n\n---\n\n## 5) Structural gap\n\nOntario’s framework has not fully clarified this model.\n\nCompared with tribunal systems under the SPPA, there is limited direct guidance on:\n\n- procedural fairness at initial service points,\n\n- responsibility split between contractor and Ministry,\n\n- review route and standards.\n\n---\n\n## Key takeaways\n\n1. Public function remains public even when delivery is contracted out.\n\n1. Accountability should track power, not organizational form.\n\n1. Residents need clear challenge pathways when legal rights are affected.\n\n1. Hybrid governance is growing, and doctrine must keep pace.\n\n---\n\n## Conclusion\n\nServiceOntario’s functions are public in nature and statutory in source.\n\nThe contract model should not, in principle, shield decisions from administrative oversight.\n\nYet in practice, the hybrid structure creates uncertainty for affected individuals.\n\nServiceOntario is therefore a useful lens for a broader administrative law challenge:\n\nhow to preserve accountability as governments modernize service delivery.\n\n---\n\n## Sources and further reading\n\n### Legislation\n\n- Public Service of Ontario Act, 2006\n\n- Statutory Powers Procedure Act\n\n- Judicial Review Procedure Act\n\n- Arthur Wishart Act (Franchise Disclosure), 2000\n\n### Public sources\n\n- Government of Ontario: private ServiceOntario centre information\n\n- Public references documenting ServiceOntario’s 2006 launch and hybrid model\n\n### Concepts\n\n- Procedural fairness (Baker framework)\n\n- Standards of review\n\n- Public-function analysis for private entities\n\n- Scope and availability of judicial review\n\n---",
+      "summary": "--- # Is ServiceOntario a “Public Actor”? ### A Practical Administrative Law Case Study > TL;DR --- ## Why this question matters Everyone in Ontario has used ServiceOntario for essential services (driver’s licence, health card, vehicle registration, etc.). Because these services…",
+      "images": [],
+      "attachments": []
+    }
+  ]
 }
