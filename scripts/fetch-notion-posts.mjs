@@ -169,7 +169,10 @@ function summarize(text, max = 280) {
 async function main() {
   assertEnv();
 
+  const DEBUG_PROPERTIES = process.env.DEBUG_NOTION_PROPERTIES === "true";
+
   const entries = [];
+  const discoveredProperties = new Map();
   let totalPagesSeen = 0;
   let skippedUnpublished = 0;
   const skipReasons = {};
@@ -196,6 +199,14 @@ async function main() {
       const title = getTitleProperty(properties);
       const date = getDateProperty(properties);
       const section = getSectionProperty(properties);
+
+      if (DEBUG_PROPERTIES) {
+        for (const [name, value] of Object.entries(properties)) {
+          if (!discoveredProperties.has(name)) {
+            discoveredProperties.set(name, value?.type || "unknown");
+          }
+        }
+      }
 
       const blocks = await fetchPageBlocks(page.id);
       const bodyText = blocks.map(blockToText).filter(Boolean).join("\n\n").trim();
@@ -236,6 +247,16 @@ async function main() {
 
   await writeFile(OUTPUT_FILE, `${JSON.stringify(output, null, 2)}\n`, "utf8");
   console.log(`Wrote ${entries.length} entries to ${OUTPUT_FILE}`);
+
+  if (DEBUG_PROPERTIES) {
+    console.log("\n=== Discovered Notion DB Properties ===");
+    const sorted = [...discoveredProperties.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+    for (const [name, type] of sorted) {
+      console.log(`  [${type}] ${name}`);
+    }
+    console.log("========================================\n");
+    console.log("To use these in your site, update the script with property extractors.");
+  }
 }
 
 main().catch((err) => {
