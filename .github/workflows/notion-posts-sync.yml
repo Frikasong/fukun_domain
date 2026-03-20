@@ -36,18 +36,24 @@ jobs:
           fi
 
       - name: Fetch posts from Notion
+        id: fetch
         if: steps.secrets.outputs.ready == 'true'
+        continue-on-error: true
         env:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
         run: node scripts/fetch-notion-posts.mjs
+
+      - name: Report fetch issue and continue
+        if: steps.secrets.outputs.ready == 'true' && steps.fetch.outcome != 'success'
+        run: echo "Notion sync failed (likely credentials, DB sharing, or schema mismatch). Keeping previous notion-posts.json and continuing."
 
       - name: Skip sync when secrets are missing
         if: steps.secrets.outputs.ready != 'true'
         run: echo "Skipping Notion sync because required secrets are not configured."
 
       - name: Commit and push if changed
-        if: steps.secrets.outputs.ready == 'true'
+        if: steps.secrets.outputs.ready == 'true' && steps.fetch.outcome == 'success'
         run: |
           if git diff --quiet -- notion-posts.json; then
             echo "No Notion post updates"
