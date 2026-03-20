@@ -772,7 +772,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                 <div style={styles.contactIconCircle}><span style={styles.contactIcon}>🐙</span></div>
                 <span style={styles.contactIconLabel}>{T.contact.github}</span>
               </a>
-              <a href="https://www.xiaohongshu.com/user/profile/236592207" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.rednote}>
+              <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.rednote}>
                 <div style={styles.contactIconCircle}><span style={styles.contactIcon}>📕</span></div>
                 <span style={styles.contactIconLabel}>{T.contact.rednote}</span>
               </a>
