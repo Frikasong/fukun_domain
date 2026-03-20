@@ -487,16 +487,10 @@ function App() {
               </button>
             </div>
           )}
-          {/* Mobile controls */}
           {isMobile && (
-            <div style={styles.mobileControls}>
-              <button style={styles.langToggle} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
-                {T.langToggle}
-              </button>
-              <button style={styles.menuToggle} onClick={() => setMenuOpen(!menuOpen)}>
-                {menuOpen ? "✕" : "☰"}
-              </button>
-            </div>
+            <button style={styles.menuToggle} onClick={() => setMenuOpen(!menuOpen)}>
+              {menuOpen ? "✕" : "☰"}
+            </button>
           )}
         </div>
       </header>
@@ -594,60 +588,60 @@ function App() {
         </div>
       )}
 
-      {/* Mobile menu - horizontal scrollable bar */}
+      {/* Nav backdrop */}
       {isMobile && menuOpen && (
-        <div style={styles.mobileMenuBar}>
-          <div style={styles.mobileMenuHeader}>
-            <button style={styles.langToggle} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
-              {T.langToggle}
-            </button>
-            <button style={styles.menuToggle} onClick={() => setMenuOpen(false)}>✕</button>
+        <div style={styles.navBackdrop} onClick={() => setMenuOpen(false)} />
+      )}
+
+      {/* Mobile side panel */}
+      {isMobile && (
+        <nav style={{ ...styles.mobileSidePanel, transform: menuOpen ? "translateX(0)" : "translateX(100%)" }}>
+          <button style={styles.mobilePanelClose} onClick={() => setMenuOpen(false)}>✕</button>
+          <div style={styles.mobilePanelContent}>
+            <div style={styles.mobilePanelGroup}>
+              <div style={styles.mobilePanelGroupHeader}>{T.nav.info}</div>
+              <button style={{ ...styles.mobilePanelItem, ...(activeSection === "about" ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection("about"); setView("grid"); setMenuOpen(false); }}>
+                👋 {T.nav.about}
+              </button>
+              <button style={{ ...styles.mobilePanelItem, ...(activeSection === "contact" ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection("contact"); setView("grid"); setMenuOpen(false); }}>
+                📧 {T.nav.contact}
+              </button>
+            </div>
+            <div style={styles.mobilePanelGroup}>
+              <div style={styles.mobilePanelGroupHeader}>{T.nav.professional}</div>
+              {SECTIONS.filter((s) => s.type === "professional").map((section) => {
+                const label = T.nav[section.id] || section.name;
+                const subtitle = T.nav[section.id + "Sub"];
+                return (
+                  <button key={section.id} style={{ ...styles.mobilePanelItem, ...(activeSection === section.id ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}>
+                    <span>{section.icon}</span>
+                    <span style={styles.mobilePanelItemText}>
+                      {label}
+                      {subtitle && <span style={styles.mobilePanelItemSub}>{subtitle}</span>}
+                    </span>
+                  </button>
+                );
+              })}
+            </div>
+            <div style={styles.mobilePanelGroup}>
+              <div style={styles.mobilePanelGroupHeader}>{T.nav.personal}</div>
+              {SECTIONS.filter((s) => s.type === "personal").map((section) => {
+                const label = T.nav[section.id] || section.name;
+                return (
+                  <button key={section.id} style={{ ...styles.mobilePanelItem, ...(activeSection === section.id ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}>
+                    <span>{section.icon}</span>
+                    <span style={styles.mobilePanelItemText}>{label}</span>
+                  </button>
+                );
+              })}
+            </div>
+            <div style={styles.mobilePanelLang}>
+              <button style={styles.mobilePanelLangBtn} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
+                {T.langToggle}
+              </button>
+            </div>
           </div>
-          <div style={styles.mobileMenuScroll}>
-            <button
-              style={{ ...styles.mobileNavItem, ...(activeSection === "about" ? styles.mobileNavItemActive : {}) }}
-              onClick={() => { setActiveSection("about"); setView("grid"); setMenuOpen(false); }}
-            >
-              {T.nav.info}
-            </button>
-            {SECTIONS.filter((s) => s.type === "professional").map((section) => {
-              const label = T.nav[section.id] || section.name;
-              return (
-                <button
-                  key={section.id}
-                  style={{ ...styles.mobileNavItem, ...(activeSection === section.id ? styles.mobileNavItemActive : {}) }}
-                  onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
-                >
-                  {section.icon} {label}
-                </button>
-              );
-            })}
-            {SECTIONS.filter((s) => s.type === "personal").map((section) => {
-              const label = T.nav[section.id] || section.name;
-              return (
-                <button
-                  key={section.id}
-                  style={{ ...styles.mobileNavItem, ...(activeSection === section.id ? styles.mobileNavItemActive : {}) }}
-                  onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
-                >
-                  {section.icon} {label}
-                </button>
-              );
-            })}
-            {SECTIONS.filter((s) => s.type === "info" && s.id !== "about").map((section) => {
-              const label = T.nav[section.id] || section.name;
-              return (
-                <button
-                  key={section.id}
-                  style={{ ...styles.mobileNavItem, ...(activeSection === section.id ? styles.mobileNavItemActive : {}) }}
-                  onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
-                >
-                  {section.icon} {label}
-                </button>
-              );
-            })}
-          </div>
-        </div>
+        </nav>
       )}
 
       {/* Main Content */}
@@ -1566,68 +1560,67 @@ const styles = {
     fontStyle: "italic",
     transition: "all 0.2s",
   },
-  // Mobile menu
-  mobileMenuBar: {
+  // Mobile side panel
+  navBackdrop: {
+    position: "fixed",
+    top: 0, left: 0, right: 0, bottom: 0,
+    background: "rgba(0,0,0,0.3)",
+    zIndex: 200,
+    backdropFilter: "blur(2px)",
+  },
+  mobileSidePanel: {
+    position: "fixed",
+    top: 0,
+    right: 0,
+    width: "85vw",
+    height: "100vh",
     background: "rgba(43, 80, 84, 0.95)",
     backdropFilter: "blur(20px)",
-    borderBottom: "1px solid rgba(255,255,255,0.08)",
-    position: "relative",
-    zIndex: 99,
-  },
-  mobileMenuHeader: {
+    zIndex: 201,
+    overflowY: "auto",
+    transition: "transform 0.3s cubic-bezier(0.4,0,0.2,1)",
     display: "flex",
-    justifyContent: "space-between",
-    alignItems: "center",
-    padding: "8px 16px",
-    borderBottom: "1px solid rgba(255,255,255,0.06)",
+    flexDirection: "column",
   },
-  mobileMenuScroll: {
-    display: "flex",
-    overflowX: "auto",
-    gap: 0,
-    padding: "4px 8px 8px",
-    scrollbarWidth: "none",
-    msOverflowStyle: "none",
-  },
-  mobileNavItem: {
+  mobilePanelClose: {
     background: "transparent",
     border: "none",
-    color: "rgba(255,255,255,0.72)",
-    padding: "10px 14px",
+    fontSize: 20,
+    color: "rgba(255,255,255,0.6)",
     cursor: "pointer",
-    fontFamily: "'Newsreader', serif",
-    fontSize: 13,
-    fontWeight: 400,
-    fontStyle: "italic",
-    letterSpacing: "0.3px",
-    whiteSpace: "nowrap",
-    borderBottom: "2px solid transparent",
-    transition: "all 0.2s",
-    flexShrink: 0,
+    alignSelf: "flex-end",
+    padding: "16px 20px 8px",
+    lineHeight: 1,
   },
-  mobileNavItemActive: {
-    color: "#ffffff",
-    borderBottom: "2px solid rgba(255,255,255,0.5)",
+  mobilePanelContent: {
+    padding: "0 16px 40px",
+    display: "flex",
+    flexDirection: "column",
+    gap: 24,
+    flex: 1,
   },
-  mobileMenuSection: {
-    padding: "4px 16px",
+  mobilePanelGroup: {
+    display: "flex",
+    flexDirection: "column",
+    gap: 4,
   },
-  mobileMenuGroupHeader: {
+  mobilePanelGroupHeader: {
     fontFamily: "'Newsreader', serif",
     fontSize: 11,
-    color: "rgba(255,255,255,0.48)",
-    letterSpacing: "1.8px",
+    color: "rgba(255,255,255,0.5)",
+    letterSpacing: "1.5px",
     textTransform: "uppercase",
     fontWeight: 400,
     fontStyle: "italic",
-    padding: "8px 0 4px",
+    marginBottom: 8,
+    paddingBottom: 6,
+    borderBottom: "1px solid rgba(255,255,255,0.1)",
   },
-  mobileMenuItem: {
+  mobilePanelItem: {
     background: "transparent",
     border: "none",
-    color: "rgba(255,255,255,0.82)",
-    padding: "10px 8px",
-    width: "100%",
+    color: "rgba(245,247,247,0.82)",
+    padding: "12px 14px",
     textAlign: "left",
     cursor: "pointer",
     display: "flex",
@@ -1637,24 +1630,42 @@ const styles = {
     fontSize: 16,
     fontWeight: 400,
     fontStyle: "italic",
-    borderRadius: 6,
+    borderRadius: 8,
     transition: "all 0.15s",
+    width: "100%",
   },
-  mobileMenuItemActive: {
+  mobilePanelItemActive: {
     color: "#ffffff",
-    background: "rgba(255,255,255,0.1)",
+    background: "rgba(255,255,255,0.12)",
   },
-  mobileMenuItemText: {
+  mobilePanelItemText: {
     display: "flex",
     flexDirection: "column",
     gap: 2,
   },
-  mobileMenuItemSub: {
+  mobilePanelItemSub: {
     fontFamily: "'Public Sans', sans-serif",
     fontSize: 10,
-    color: "rgba(255,255,255,0.5)",
+    color: "rgba(255,255,255,0.55)",
     letterSpacing: "0.3px",
     fontStyle: "normal",
+  },
+  mobilePanelLang: {
+    marginTop: "auto",
+    paddingTop: 16,
+    borderTop: "1px solid rgba(255,255,255,0.1)",
+  },
+  mobilePanelLangBtn: {
+    background: "rgba(255,255,255,0.1)",
+    border: "1px solid rgba(192,200,201,0.25)",
+    color: "rgba(255,255,255,0.85)",
+    fontSize: 13,
+    padding: "10px 16px",
+    borderRadius: 20,
+    cursor: "pointer",
+    fontFamily: "'Newsreader', serif",
+    fontStyle: "italic",
+    width: "100%",
   },
   techSubNav: {
     display: "flex",
