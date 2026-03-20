@@ -10,8 +10,8 @@ const TRANSLATIONS = {
     langToggle: "中文",
     nav: {
       info: "About", professional: "Work", personal: "Life",
-      about: "About", tech: "Tech", law: "Law", investment: "Investment", essays: "Essays",
-      music: "Weekly Music", photography: "Photos",
+      about: "Info", tech: "Tech", law: "Law", investment: "Investment", essays: "Essays",
+      music: "Weekly Music", photography: "Photos", contact: "Contact",
       techSub: "Legal AI · Tools",
       lawSub: "Legal Research",
       investmentSub: "Market Analysis",
@@ -202,6 +202,7 @@ const SECTIONS = [
   { id: "essays", name: "Essays", subtitle: "Writing", icon: "✍️", type: "personal" },
   { id: "music", name: "Weekly Music", icon: "🎵", type: "personal" },
   { id: "photography", name: "Photos", icon: "📷", type: "personal" },
+  { id: "contact", name: "Contact", icon: "📧", type: "info" },
 ];
 
 // Maps old section IDs to new consolidated sections (for localStorage backwards compat)
@@ -490,12 +491,33 @@ function App() {
       {!isMobile && (
         <div style={styles.navBar}>
           <nav style={{ ...styles.navBarInner, maxWidth: isWideDesktop ? 1600 : 1280 }}>
-            <button
-              style={{ ...styles.navItem, ...(activeSection === "about" ? styles.navItemActive : {}) }}
-              onClick={() => { setActiveSection("about"); setView("grid"); }}
+            <div
+              style={styles.navDropdownWrap}
+              onMouseEnter={() => setHoveredGroup("info")}
+              onMouseLeave={() => setHoveredGroup(null)}
             >
-              {T.nav.info}
-            </button>
+              <button style={{ ...styles.navItem, ...(activeSection === "about" || activeSection === "contact" ? styles.navItemActive : {}) }}>
+                {T.nav.info} ▾
+              </button>
+              {hoveredGroup === "info" && (
+                <div style={styles.navDropdown}>
+                  <button
+                    style={{ ...styles.navDropdownItem, ...(activeSection === "about" ? styles.navDropdownItemActive : {}) }}
+                    onClick={() => { setActiveSection("about"); setView("grid"); setHoveredGroup(null); }}
+                  >
+                    <span>👋</span>
+                    <span style={styles.navDropdownItemText}>{T.nav.about}</span>
+                  </button>
+                  <button
+                    style={{ ...styles.navDropdownItem, ...(activeSection === "contact" ? styles.navDropdownItemActive : {}) }}
+                    onClick={() => { setActiveSection("contact"); setView("grid"); setHoveredGroup(null); }}
+                  >
+                    <span>📧</span>
+                    <span style={styles.navDropdownItemText}>{T.nav.contact}</span>
+                  </button>
+                </div>
+              )}
+            </div>
 
             <div
               style={styles.navDropdownWrap}
@@ -598,6 +620,18 @@ function App() {
                 </button>
               );
             })}
+            {SECTIONS.filter((s) => s.type === "info" && s.id !== "about").map((section) => {
+              const label = T.nav[section.id] || section.name;
+              return (
+                <button
+                  key={section.id}
+                  style={{ ...styles.mobileNavItem, ...(activeSection === section.id ? styles.mobileNavItemActive : {}) }}
+                  onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
+                >
+                  {section.icon} {label}
+                </button>
+              );
+            })}
           </div>
         </div>
       )}
@@ -689,8 +723,29 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             <h3 style={styles.aboutCardTitle}>{T.about.interests}</h3>
             <p style={styles.aboutText}>{T.about.int1}</p>
           </div>
-          <div style={styles.aboutCard}>
-            <h3 style={styles.aboutCardTitle}>{T.contact.intro}</h3>
+        </div>
+      </div>
+    );
+  }
+
+  // Special handling for Tech section (sub-tabs: Insights | Tools | Observations | AI Lab)
+  if (section.id === "tech") {
+    return <TechView entries={entries} onNew={onNew} onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} setActiveSection={setActiveSection} T={T} lang={lang} />;
+  }
+
+  // Special handling for Contact section
+  if (section.id === "contact") {
+    return (
+      <div style={styles.gridContainer}>
+        <div style={styles.sectionHeader}>
+          <div style={styles.sectionTitleRow}>
+            <span style={styles.sectionIcon}>{section.icon}</span>
+            <h2 style={{ ...styles.sectionTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{sectionLabel}</h2>
+          </div>
+        </div>
+        <div style={styles.contactContent}>
+          <div style={styles.contactCard}>
+            <p style={styles.contactIntro}>{T.contact.intro}</p>
             <div style={styles.contactIconsRow}>
               <a href="mailto:frikasong@gmail.com" style={styles.contactIconLink} title={`${T.contact.email}`}>
                 <div style={styles.contactIconCircle}><span style={styles.contactIcon}>✉️</span></div>
@@ -700,7 +755,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                 <div style={styles.contactIconCircle}><span style={styles.contactIcon}>💼</span></div>
                 <span style={styles.contactIconLabel}>{T.contact.linkedin}</span>
               </a>
-              <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={`${T.contact.instagram}`}>
+              <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.instagram}>
                 <div style={styles.contactIconCircle}><span style={styles.contactIcon}>📷</span></div>
                 <span style={styles.contactIconLabel}>{T.contact.instagram}</span>
               </a>
@@ -717,11 +772,6 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
         </div>
       </div>
     );
-  }
-
-  // Special handling for Tech section (sub-tabs: Insights | Tools | Observations | AI Lab)
-  if (section.id === "tech") {
-    return <TechView entries={entries} onNew={onNew} onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} setActiveSection={setActiveSection} T={T} lang={lang} />;
   }
 
   // Regular content sections
