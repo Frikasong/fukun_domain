@@ -439,115 +439,119 @@ function App() {
       <div style={styles.bgPattern} />
 
       {/* Header */}
-      <header style={{ ...styles.header, padding: isMobile ? "10px 12px 12px" : (isTablet ? "12px 18px 14px" : styles.header.padding) }}>
-        <div style={{ ...styles.headerContent, maxWidth: isWideDesktop ? 1280 : 1100, justifyContent: isMobile ? "center" : "space-between" }}>
-          {/* Logo */}
-          <div style={{ ...styles.headerLogo, width: isMobile ? "100%" : "auto" }} onClick={() => { setView("grid"); setActiveSection("about"); }}>
+      <header style={{ ...styles.header, padding: isMobile ? "16px 16px 10px" : (isTablet ? "20px 24px 14px" : "22px 32px 16px") }}>
+        <div style={{ ...styles.headerContent, maxWidth: isWideDesktop ? 1600 : 1280 }}>
+          {/* Logo centered */}
+          <div style={{ ...styles.headerLogoWrap, width: isMobile ? "100%" : "auto" }} onClick={() => { setView("grid"); setActiveSection("about"); }}>
             {!logoFailed && (
               <img
                 src="logo.png"
                 alt={T.site.name}
-                style={{ ...styles.siteLogo, height: isMobile ? 48 : styles.siteLogo.height }}
+                style={{ ...styles.siteLogo, height: isMobile ? 52 : 60 }}
                 onError={() => setLogoFailed(true)}
               />
             )}
             {!isMobile && <p style={styles.tagline}>{T.site.tagline}</p>}
           </div>
-
-          {/* Desktop Nav */}
+          {/* Lang toggle */}
           {!isMobile && (
-            <nav style={styles.navBar}>
-              <button
-                style={{ ...styles.navItem, ...(activeSection === "about" ? styles.navItemActive : {}) }}
-                onClick={() => { setActiveSection("about"); setView("grid"); }}
-              >
-                {T.nav.info}
+            <div style={styles.headerLang}>
+              <button style={styles.langToggle} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
+                {T.langToggle}
               </button>
-
-              <div
-                style={styles.navDropdownWrap}
-                onMouseEnter={() => setHoveredGroup("professional")}
-                onMouseLeave={() => setHoveredGroup(null)}
-              >
-                <button style={{ ...styles.navItem, ...(activeSection === "tech" || activeSection === "law" || activeSection === "investment" ? styles.navItemActive : {}) }}>
-                  {T.nav.professional} ▾
-                </button>
-                {hoveredGroup === "professional" && (
-                  <div style={styles.navDropdown}>
-                    {SECTIONS.filter((s) => s.type === "professional").map((section) => {
-                      const label = T.nav[section.id] || section.name;
-                      const subtitle = T.nav[section.id + "Sub"];
-                      return (
-                        <button
-                          key={section.id}
-                          style={{ ...styles.navDropdownItem, ...(activeSection === section.id ? styles.navDropdownItemActive : {}) }}
-                          onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
-                        >
-                          <span>{section.icon}</span>
-                          <span style={styles.navDropdownItemText}>
-                            {label}
-                            {subtitle && <span style={styles.navDropdownItemSub}>{subtitle}</span>}
-                          </span>
-                        </button>
-                      );
-                    })}
-                  </div>
-                )}
-              </div>
-
-              <div
-                style={styles.navDropdownWrap}
-                onMouseEnter={() => setHoveredGroup("personal")}
-                onMouseLeave={() => setHoveredGroup(null)}
-              >
-                <button style={{ ...styles.navItem, ...(activeSection === "essays" || activeSection === "music" || activeSection === "photography" ? styles.navItemActive : {}) }}>
-                  {T.nav.personal} ▾
-                </button>
-                {hoveredGroup === "personal" && (
-                  <div style={styles.navDropdown}>
-                    {SECTIONS.filter((s) => s.type === "personal").map((section) => {
-                      const label = T.nav[section.id] || section.name;
-                      return (
-                        <button
-                          key={section.id}
-                          style={{ ...styles.navDropdownItem, ...(activeSection === section.id ? styles.navDropdownItemActive : {}) }}
-                          onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
-                        >
-                          <span>{section.icon}</span>
-                          <span style={styles.navDropdownItemText}>{label}</span>
-                        </button>
-                      );
-                    })}
-                  </div>
-                )}
-              </div>
-
-              <button
-                style={{ ...styles.navItem, ...(activeSection === "contact" ? styles.navItemActive : {}) }}
-                onClick={() => { setActiveSection("contact"); setView("grid"); }}
-              >
-                {T.nav.contact}
-              </button>
-            </nav>
+            </div>
           )}
-
-          {/* Controls */}
-          <div style={{ ...styles.headerControls, width: isMobile ? "100%" : "auto", justifyContent: isMobile ? "center" : "flex-end" }}>
-            <button style={styles.langToggle} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
-              {T.langToggle}
-            </button>
-            {isMobile && (
-              <button style={styles.menuToggle} onClick={() => setMenuOpen(!menuOpen)}>
-                {menuOpen ? "✕" : "☰"}
-              </button>
-            )}
-          </div>
         </div>
       </header>
+
+      {/* Nav bar below header */}
+      {!isMobile && (
+        <div style={styles.navBar}>
+          <nav style={{ ...styles.navBarInner, maxWidth: isWideDesktop ? 1600 : 1280 }}>
+            <button
+              style={{ ...styles.navItem, ...(activeSection === "about" ? styles.navItemActive : {}) }}
+              onClick={() => { setActiveSection("about"); setView("grid"); }}
+            >
+              {T.nav.info}
+            </button>
+
+            <div
+              style={styles.navDropdownWrap}
+              onMouseEnter={() => setHoveredGroup("professional")}
+              onMouseLeave={() => setHoveredGroup(null)}
+            >
+              <button style={{ ...styles.navItem, ...(activeSection === "tech" || activeSection === "law" || activeSection === "investment" ? styles.navItemActive : {}) }}>
+                {T.nav.professional} ▾
+              </button>
+              {hoveredGroup === "professional" && (
+                <div style={styles.navDropdown}>
+                  {SECTIONS.filter((s) => s.type === "professional").map((section) => {
+                    const label = T.nav[section.id] || section.name;
+                    const subtitle = T.nav[section.id + "Sub"];
+                    return (
+                      <button
+                        key={section.id}
+                        style={{ ...styles.navDropdownItem, ...(activeSection === section.id ? styles.navDropdownItemActive : {}) }}
+                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
+                      >
+                        <span>{section.icon}</span>
+                        <span style={styles.navDropdownItemText}>
+                          {label}
+                          {subtitle && <span style={styles.navDropdownItemSub}>{subtitle}</span>}
+                        </span>
+                      </button>
+                    );
+                  })}
+                </div>
+              )}
+            </div>
+
+            <div
+              style={styles.navDropdownWrap}
+              onMouseEnter={() => setHoveredGroup("personal")}
+              onMouseLeave={() => setHoveredGroup(null)}
+            >
+              <button style={{ ...styles.navItem, ...(activeSection === "essays" || activeSection === "music" || activeSection === "photography" ? styles.navItemActive : {}) }}>
+                {T.nav.personal} ▾
+              </button>
+              {hoveredGroup === "personal" && (
+                <div style={styles.navDropdown}>
+                  {SECTIONS.filter((s) => s.type === "personal").map((section) => {
+                    const label = T.nav[section.id] || section.name;
+                    return (
+                      <button
+                        key={section.id}
+                        style={{ ...styles.navDropdownItem, ...(activeSection === section.id ? styles.navDropdownItemActive : {}) }}
+                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
+                      >
+                        <span>{section.icon}</span>
+                        <span style={styles.navDropdownItemText}>{label}</span>
+                      </button>
+                    );
+                  })}
+                </div>
+              )}
+            </div>
+
+            <button
+              style={{ ...styles.navItem, ...(activeSection === "contact" ? styles.navItemActive : {}) }}
+              onClick={() => { setActiveSection("contact"); setView("grid"); }}
+            >
+              {T.nav.contact}
+            </button>
+          </nav>
+        </div>
+      )}
 
       {/* Mobile menu */}
       {isMobile && menuOpen && (
         <div style={styles.mobileMenu}>
+          <div style={styles.mobileMenuHeader}>
+            <button style={styles.langToggle} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
+              {T.langToggle}
+            </button>
+            <button style={styles.menuToggle} onClick={() => setMenuOpen(false)}>✕</button>
+          </div>
           <div style={styles.mobileMenuSection}>
             <button style={styles.mobileMenuItem} onClick={() => { setActiveSection("about"); setView("grid"); setMenuOpen(false); }}>
               👋 {T.nav.info}
@@ -595,7 +599,7 @@ function App() {
       {/* Main Content */}
       <main style={{
         ...styles.main,
-        maxWidth: isMobile ? "100%" : (isWideDesktop ? 1280 : 1100),
+        maxWidth: isMobile ? "100%" : (isWideDesktop ? 1600 : 1280),
         padding: isMobile ? "28px 14px 44px" : (isTablet ? "40px 18px 56px" : "56px 24px 68px")
       }}>
         {view === "grid" ? (
@@ -1347,26 +1351,33 @@ const styles = {
   },
   // Header
   header: {
-    background: "rgba(43, 80, 84, 0.8)",
-    backdropFilter: "blur(20px)",
+    background: "rgba(43, 80, 84, 0.82)",
+    backdropFilter: "blur(24px)",
     position: "sticky",
     top: 0,
     zIndex: 100,
-    padding: "14px 24px 16px",
     borderBottom: "none",
   },
   headerContent: {
-    maxWidth: 1280,
+    maxWidth: 1600,
     margin: "0 auto",
     display: "flex",
-    justifyContent: "space-between",
+    justifyContent: "center",
     alignItems: "center",
+    position: "relative",
   },
-  headerLogo: {
+  headerLogoWrap: {
     cursor: "pointer",
     display: "flex",
+    flexDirection: "column",
     alignItems: "center",
-    gap: 14,
+    textAlign: "center",
+  },
+  headerLang: {
+    position: "absolute",
+    right: 0,
+    top: "50%",
+    transform: "translateY(-50%)",
   },
   siteLogo: {
     height: 52,
@@ -1374,68 +1385,80 @@ const styles = {
     display: "block",
   },
   tagline: {
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 10,
-    color: "rgba(255,255,255,0.72)",
-    margin: 0,
-    letterSpacing: "1.8px",
+    fontFamily: "'Newsreader', serif",
+    fontSize: 11,
+    color: "rgba(255,255,255,0.7)",
+    margin: "4px 0 0 0",
+    letterSpacing: "2.5px",
     textTransform: "uppercase",
-    fontWeight: 500,
+    fontWeight: 400,
+    fontStyle: "italic",
   },
   navBar: {
+    background: "rgba(43, 80, 84, 0.9)",
+    backdropFilter: "blur(16px)",
+    borderBottom: "1px solid rgba(255,255,255,0.06)",
+    position: "sticky",
+    top: 0,
+    zIndex: 99,
+  },
+  navBarInner: {
+    margin: "0 auto",
     display: "flex",
+    justifyContent: "center",
     alignItems: "center",
-    gap: 4,
+    gap: 0,
   },
   navItem: {
     background: "transparent",
     border: "none",
-    color: "rgba(255,255,255,0.8)",
-    padding: "10px 14px",
+    color: "rgba(255,255,255,0.72)",
+    padding: "16px 32px",
     cursor: "pointer",
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 13,
-    fontWeight: 600,
-    letterSpacing: "0.5px",
-    borderRadius: 8,
+    fontFamily: "'Newsreader', serif",
+    fontSize: 15,
+    fontWeight: 400,
+    fontStyle: "italic",
+    letterSpacing: "0.3px",
     transition: "all 0.2s",
+    borderBottom: "2px solid transparent",
   },
   navItemActive: {
     color: "#ffffff",
-    background: "rgba(255,255,255,0.14)",
+    borderBottom: "2px solid rgba(255,255,255,0.5)",
   },
   navDropdownWrap: {
     position: "relative",
   },
   navDropdown: {
     position: "absolute",
-    top: "100%",
+    top: "calc(100% + 2px)",
     left: "50%",
     transform: "translateX(-50%)",
     background: "#ffffff",
-    borderRadius: 10,
-    boxShadow: "0 16px 48px rgba(26,28,28,0.18), 0 4px 12px rgba(26,28,28,0.08)",
-    border: "1px solid rgba(43,80,84,0.12)",
-    padding: "8px 0",
-    minWidth: 220,
+    borderRadius: 12,
+    boxShadow: "0 24px 64px rgba(26,28,28,0.22), 0 8px 24px rgba(26,28,28,0.1)",
+    border: "1px solid rgba(43,80,84,0.1)",
+    padding: "10px 0",
+    minWidth: 240,
     zIndex: 200,
   },
   navDropdownItem: {
     background: "transparent",
     border: "none",
     color: "#2f3335",
-    padding: "10px 18px",
+    padding: "12px 22px",
     width: "100%",
     textAlign: "left",
     cursor: "pointer",
     display: "flex",
     alignItems: "center",
-    gap: 12,
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 13,
-    fontWeight: 500,
+    gap: 14,
+    fontFamily: "'Newsreader', serif",
+    fontSize: 15,
+    fontWeight: 400,
+    fontStyle: "italic",
     transition: "all 0.15s",
-    borderRadius: 0,
   },
   navDropdownItemActive: {
     color: "#2B5054",
@@ -1444,13 +1467,14 @@ const styles = {
   navDropdownItemText: {
     display: "flex",
     flexDirection: "column",
-    gap: 1,
+    gap: 2,
   },
   navDropdownItemSub: {
     fontFamily: "'Public Sans', sans-serif",
     fontSize: 10,
     color: "#7B8F92",
-    letterSpacing: "0.3px",
+    letterSpacing: "0.4px",
+    fontStyle: "normal",
     fontWeight: 500,
   },
   headerControls: {
@@ -1460,64 +1484,73 @@ const styles = {
   },
   langToggle: {
     background: "transparent",
-    border: "1px solid rgba(192, 200, 201, 0.25)",
-    color: "#f6f8f8",
-    fontSize: 12,
-    padding: "8px 14px",
+    border: "1px solid rgba(192, 200, 201, 0.22)",
+    color: "rgba(255,255,255,0.82)",
+    fontSize: 11,
+    padding: "7px 16px",
     borderRadius: 20,
     cursor: "pointer",
-    fontFamily: "'Public Sans', sans-serif",
-    fontWeight: 600,
+    fontFamily: "'Newsreader', serif",
+    fontWeight: 400,
+    fontStyle: "italic",
     letterSpacing: "0.5px",
     transition: "all 0.2s",
   },
   menuToggle: {
-    background: "rgba(255,255,255,0.1)",
-    border: "1px solid rgba(192, 200, 201, 0.25)",
-    color: "#f6f8f8",
-    fontSize: 16,
-    padding: "8px 14px",
+    background: "rgba(255,255,255,0.08)",
+    border: "1px solid rgba(192, 200, 201, 0.22)",
+    color: "rgba(255,255,255,0.85)",
+    fontSize: 15,
+    padding: "8px 16px",
     borderRadius: 8,
     cursor: "pointer",
-    fontFamily: "'Public Sans', sans-serif",
-    fontWeight: 600,
+    fontFamily: "'Newsreader', serif",
+    fontStyle: "italic",
     transition: "all 0.2s",
   },
   // Mobile menu
   mobileMenu: {
-    background: "rgba(43, 80, 84, 0.95)",
+    background: "rgba(43, 80, 84, 0.96)",
     backdropFilter: "blur(20px)",
     borderBottom: "1px solid rgba(255,255,255,0.08)",
-    padding: "10px 0 16px",
+    padding: "10px 0 20px",
+  },
+  mobileMenuHeader: {
+    display: "flex",
+    justifyContent: "space-between",
+    alignItems: "center",
+    padding: "6px 16px 10px",
+    borderBottom: "1px solid rgba(255,255,255,0.06)",
+    marginBottom: 8,
   },
   mobileMenuSection: {
     padding: "4px 16px",
-    borderBottom: "1px solid rgba(255,255,255,0.06)",
-    marginBottom: 6,
   },
   mobileMenuGroupHeader: {
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 9,
-    color: "rgba(255,255,255,0.5)",
-    letterSpacing: "2px",
+    fontFamily: "'Newsreader', serif",
+    fontSize: 11,
+    color: "rgba(255,255,255,0.48)",
+    letterSpacing: "1.8px",
     textTransform: "uppercase",
-    fontWeight: 700,
+    fontWeight: 400,
+    fontStyle: "italic",
     padding: "8px 0 4px",
   },
   mobileMenuItem: {
     background: "transparent",
     border: "none",
-    color: "rgba(245,247,247,0.85)",
-    padding: "9px 8px",
+    color: "rgba(255,255,255,0.82)",
+    padding: "10px 8px",
     width: "100%",
     textAlign: "left",
     cursor: "pointer",
     display: "flex",
     alignItems: "center",
-    gap: 10,
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 13,
-    fontWeight: 500,
+    gap: 12,
+    fontFamily: "'Newsreader', serif",
+    fontSize: 16,
+    fontWeight: 400,
+    fontStyle: "italic",
     borderRadius: 6,
     transition: "all 0.15s",
   },
@@ -1528,13 +1561,14 @@ const styles = {
   mobileMenuItemText: {
     display: "flex",
     flexDirection: "column",
-    gap: 1,
+    gap: 2,
   },
   mobileMenuItemSub: {
     fontFamily: "'Public Sans', sans-serif",
     fontSize: 10,
-    color: "rgba(255,255,255,0.55)",
+    color: "rgba(255,255,255,0.5)",
     letterSpacing: "0.3px",
+    fontStyle: "normal",
   },
   techSubNav: {
     display: "flex",
@@ -1716,13 +1750,13 @@ const styles = {
   },
   sectionTitle: {
     fontFamily: "'Newsreader', serif",
-    fontSize: "clamp(28px, 4.2vw, 40px)",
-    fontWeight: 500,
+    fontSize: "clamp(28px, 4.2vw, 42px)",
+    fontWeight: 400,
     fontStyle: "italic",
     margin: 0,
     color: "#111416",
-    letterSpacing: "-0.3px",
-    lineHeight: 0.9,
+    letterSpacing: "-0.5px",
+    lineHeight: 0.88,
   },
   noItalic: {
     fontStyle: "normal",
