@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T21:57:31.987Z",
+  "generatedAt": "2026-03-20T01:20:25.464Z",
   "highlights": {
     "na": [],
     "cn": []
@@ -327,26 +327,6 @@
         "region": "na"
       },
       {
-        "id": "Clio Blog:www.clio.com/blog/ai-legal-document-summarizer",
-        "title": "How to Summarize Legal Documents With AI: Tools, Risks, and Workflow Best Practices",
-        "url": "https://www.clio.com/blog/ai-legal-document-summarizer/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-03-16T19:49:45.000Z",
-        "summary": "Learn how to summarize legal documents with AI, compare tools, manage risk, and build a scalable workflow using matter-aware AI in your firm.",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/law-firm-collections-best-practices",
-        "title": "Why Clients Delay Paying Law Firms (and How to Prevent It)",
-        "url": "https://www.clio.com/blog/law-firm-collections-best-practices/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-03-16T16:10:42.000Z",
-        "summary": "Improve cash flow with proven law firm collections best practices. Learn how to prevent late payments using billing software, transparency, and payment plans.",
-        "category": "skills",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/03/hand-arendall-harrison-sale-transforms-document-workflows-and-sees-immediate-roi-with-literas-ai-powered-drafting-and-compare.html",
         "title": "Hand Arendall Harrison Sale Transforms Document Workflows and Sees Immediate ROI with Litera&#8217;s AI-Powered Drafting and Compare",
         "url": "https://www.lawnext.com/2026/03/hand-arendall-harrison-sale-transforms-document-workflows-and-sees-immediate-roi-with-literas-ai-powered-drafting-and-compare.html",
@@ -374,26 +354,6 @@
         "publishedAt": "2026-03-16T00:00:00.000Z",
         "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/geo-for-law-firms",
-        "title": "GEO for Law Firms: How to Stay Visible When AI Changes the Rules",
-        "url": "https://www.clio.com/blog/geo-for-law-firms/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-03-13T17:54:20.000Z",
-        "summary": "GEO for law firms is the new frontier of legal marketing. Learn how to stay visible as AI-powered search changes how clients find attorneys.",
-        "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/common-ai-myths-lawyers",
-        "title": "Debunking AI Myths Legal Professionals Still Believe",
-        "url": "https://www.clio.com/blog/common-ai-myths-lawyers/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-03-12T23:13:46.000Z",
-        "summary": "Many lawyers still hesitate to adopt AI because of persistent myths. Learn what the data actually shows about AI in legal work.",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -577,16 +537,6 @@
         "region": "na"
       },
       {
-        "id": "Clio Blog:www.clio.com/blog/ai-disclosure-lawyers",
-        "title": "AI Disclosure Template for Lawyers: When to Disclose, What to Say, and How to Stay Compliant",
-        "url": "https://www.clio.com/blog/ai-disclosure-lawyers/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-03-05T23:24:30.000Z",
-        "summary": "This guide covers when AI use should be disclosed, how ethical duties apply, and how to explain AI to clients effectively (free template included).",
-        "category": "skills",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/03/universal-migrator-releases-scripts-that-migrate-docuware-legal-server-and-alfresco-to-imanage-sharepoint-and-netdocuments.html",
         "title": "Universal Migrator Releases Scripts That Migrate Docuware, Legal Server, And Alfresco To Imanage, Sharepoint, And Netdocuments",
         "url": "https://www.lawnext.com/2026/03/universal-migrator-releases-scripts-that-migrate-docuware-legal-server-and-alfresco-to-imanage-sharepoint-and-netdocuments.html",
@@ -677,22 +627,22 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/introducing-the-adoption-news-channel",
-        "title": "Introducing the Adoption news channel",
-        "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-        "source": "OpenAI News",
-        "publishedAt": "2026-03-05T00:00:00.000Z",
-        "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/chatgpt-for-excel",
         "title": "Introducing ChatGPT for Excel and new financial data integrations",
         "url": "https://openai.com/index/chatgpt-for-excel",
         "source": "OpenAI News",
         "publishedAt": "2026-03-05T00:00:00.000Z",
         "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/introducing-the-adoption-news-channel",
+        "title": "Introducing the Adoption news channel",
+        "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+        "source": "OpenAI News",
+        "publishedAt": "2026-03-05T00:00:00.000Z",
+        "summary": "Practical insights and frameworks to turn AI progress into business advantage",
         "category": "articles",
         "region": "na"
       },
@@ -747,16 +697,6 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/understanding-ai-and-learning-outcomes",
-        "title": "Understanding AI and learning outcomes",
-        "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-        "source": "OpenAI News",
-        "publishedAt": "2026-03-04T00:00:00.000Z",
-        "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/axios-allison-murphy",
         "title": "How Axios uses AI to help deliver high-impact local journalism",
         "url": "https://openai.com/index/axios-allison-murphy",
@@ -764,6 +704,16 @@
         "publishedAt": "2026-03-04T00:00:00.000Z",
         "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
         "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/understanding-ai-and-learning-outcomes",
+        "title": "Understanding AI and learning outcomes",
+        "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+        "source": "OpenAI News",
+        "publishedAt": "2026-03-04T00:00:00.000Z",
+        "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -807,9 +757,9 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/gpt-5-3-instant-system-card",
-        "title": "GPT-5.3 Instant System Card",
-        "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+        "id": "OpenAI News:openai.com/index/gpt-5-3-instant",
+        "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+        "url": "https://openai.com/index/gpt-5-3-instant",
         "source": "OpenAI News",
         "publishedAt": "2026-03-03T10:00:00.000Z",
         "summary": "",
@@ -817,9 +767,9 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/gpt-5-3-instant",
-        "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-        "url": "https://openai.com/index/gpt-5-3-instant",
+        "id": "OpenAI News:openai.com/index/gpt-5-3-instant-system-card",
+        "title": "GPT-5.3 Instant System Card",
+        "url": "https://openai.com/index/gpt-5-3-instant-system-card",
         "source": "OpenAI News",
         "publishedAt": "2026-03-03T10:00:00.000Z",
         "summary": "",
@@ -847,16 +797,6 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/amazon-partnership",
-        "title": "OpenAI and Amazon announce strategic partnership",
-        "url": "https://openai.com/index/amazon-partnership",
-        "source": "OpenAI News",
-        "publishedAt": "2026-02-27T05:30:00.000Z",
-        "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
         "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
         "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
@@ -867,13 +807,13 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/scaling-ai-for-everyone",
-        "title": "Scaling AI for everyone",
-        "url": "https://openai.com/index/scaling-ai-for-everyone",
+        "id": "OpenAI News:openai.com/index/amazon-partnership",
+        "title": "OpenAI and Amazon announce strategic partnership",
+        "url": "https://openai.com/index/amazon-partnership",
         "source": "OpenAI News",
         "publishedAt": "2026-02-27T05:30:00.000Z",
-        "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-        "category": "updates",
+        "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -884,6 +824,16 @@
         "publishedAt": "2026-02-27T05:30:00.000Z",
         "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-ai-for-everyone",
+        "title": "Scaling AI for everyone",
+        "url": "https://openai.com/index/scaling-ai-for-everyone",
+        "source": "OpenAI News",
+        "publishedAt": "2026-02-27T05:30:00.000Z",
+        "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -903,16 +853,6 @@
         "source": "LawSites",
         "publishedAt": "2026-02-26T21:44:08.000Z",
         "summary": "Universal Migrator has released new data migration scripts that help legal technology consultants migrate law firms from Tussman, CollectMax and LeadDocket into major platforms including Clio, MyCase, Litify, and Lawmati",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/legal-ai-assistant",
-        "title": "Why You Should Have a Legal AI Assistant in Your Firm",
-        "url": "https://www.clio.com/blog/legal-ai-assistant/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-02-26T20:14:11.000Z",
-        "summary": "Legal AI assistants are changing how law firms work. Learn what they do, why they matter, and how Clio helps you adopt AI with confidence.",
         "category": "tools",
         "region": "na"
       },
@@ -1017,16 +957,6 @@
         "region": "na"
       },
       {
-        "id": "Clio Blog:www.clio.com/blog/future-of-legal-ai",
-        "title": "Anthropic’s Legal AI Move: Why Workflows Matter More Than Features",
-        "url": "https://www.clio.com/blog/future-of-legal-ai/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-02-24T22:02:21.000Z",
-        "summary": "As AI-generated text becomes commoditized, legal AI is evolving from drafting tools to intelligent workflow platforms.",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/02/lawnext-on-location-the-view-from-tiburon-a-conversation-with-pablo-arredondo-casetext-cofounder.html",
         "title": "LawNext on Location: The View from Tiburon – A Conversation with Pablo Arredondo, Casetext Cofounder",
         "url": "https://www.lawnext.com/2026/02/lawnext-on-location-the-view-from-tiburon-a-conversation-with-pablo-arredondo-casetext-cofounder.html",
@@ -1067,26 +997,6 @@
         "region": "na"
       },
       {
-        "id": "Clio Blog:www.clio.com/blog/ai-attorney-client-privilege-heppner",
-        "title": "Does Using AI Waive Attorney-Client Privilege? Breaking Down the United States v. Heppner Case",
-        "url": "https://www.clio.com/blog/ai-attorney-client-privilege-heppner/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-02-24T02:00:43.000Z",
-        "summary": "Did Heppner upend AI and attorney-client privilege? Not quite. Here's what the ruling actually holds and what it means for your practice.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/ai-employees-law-firm",
-        "title": "From Missed Calls to More Clients: How AI Employees Help Law Firms Scale Service and Revenue",
-        "url": "https://www.clio.com/blog/ai-employees-law-firm/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-02-23T21:11:34.000Z",
-        "summary": "Learn how AI employees support law firm teams, improve operational efficiency, and help firms grow revenue while delivering better client experiences.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/02/sirion-completes-majority-investment-from-haveli-aiming-to-accelerate-ai-push-in-clm-market.html",
         "title": "Sirion Completes Majority Investment from Haveli, Aiming to Accelerate AI Push in CLM Market",
         "url": "https://www.lawnext.com/2026/02/sirion-completes-majority-investment-from-haveli-aiming-to-accelerate-ai-push-in-clm-market.html",
@@ -1114,16 +1024,6 @@
         "publishedAt": "2026-02-23T05:30:00.000Z",
         "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/death-of-the-billable-hour-legal-ai",
-        "title": "Will AI Mean the Death of the Billable Hour in Legal?",
-        "url": "https://www.clio.com/blog/death-of-the-billable-hour-legal-ai/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-02-22T04:42:31.000Z",
-        "summary": "AI is reshaping legal work and how it should be priced. Learn why hourly billing falls short and how law firms can shift pricing models.",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1205,9 +1105,319 @@
         "summary": "Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.",
         "category": "updates",
         "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/02/universal-migrator-reduces-pricing-on-migration-tools-for-imanage-sharepoint-and-netdocuments.html",
+        "title": "Universal Migrator Reduces Pricing on Migration Tools for iManage, SharePoint, and NetDocuments",
+        "url": "https://www.lawnext.com/2026/02/universal-migrator-reduces-pricing-on-migration-tools-for-imanage-sharepoint-and-netdocuments.html",
+        "source": "LawSites",
+        "publishedAt": "2026-02-18T14:28:24.000Z",
+        "summary": "Universal Migrator today announced reduced pricing for access to its migration script library covering iManage, Microsoft SharePoint, and NetDocuments, lowering the cost barrier for legal technology consultants performin",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/02/altaclaro-and-verbit-launch-deposim-an-ai-powered-deposition-simulator-for-litigators.html",
+        "title": "AltaClaro and Verbit Launch DepoSim, an AI-Powered Deposition Simulator for Litigators",
+        "url": "https://www.lawnext.com/2026/02/altaclaro-and-verbit-launch-deposim-an-ai-powered-deposition-simulator-for-litigators.html",
+        "source": "LawSites",
+        "publishedAt": "2026-02-18T14:15:44.000Z",
+        "summary": "AltaClaro, the legal training company that builds simulation-based experiential learning, is today launching DepoSim, an AI-powered deposition simulator developed in partnership with Verbit.ai, the verbal intelligence an",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/02/simpledocs-launches-contract-intelligence-layer-putting-policy-precedent-and-market-data-inside-microsoft-word.html",
+        "title": "SimpleDocs Launches &#8216;Contract Intelligence Layer,&#8217; Putting Policy, Precedent and Market Data Inside Microsoft Word",
+        "url": "https://www.lawnext.com/2026/02/simpledocs-launches-contract-intelligence-layer-putting-policy-precedent-and-market-data-inside-microsoft-word.html",
+        "source": "LawSites",
+        "publishedAt": "2026-02-18T13:30:47.000Z",
+        "summary": "SimpleDocs today announced the launch of what it is calling its Contract Intelligence Layer, an advanced benchmarking feature that integrates a law department&#8217;s internal policies, historical contract precedent and ",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Google AI Blog:blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india",
+        "title": "AI Impact Summit 2026: How we’re partnering to make AI work for everyone",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-02-18T10:30:00.000Z",
+        "summary": "An overview of Google’s new global partnerships and funding announcements at the AI Impact Summit in India.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/introducing-evmbench",
+        "title": "Introducing EVMbench",
+        "url": "https://openai.com/index/introducing-evmbench",
+        "source": "OpenAI News",
+        "publishedAt": "2026-02-18T00:00:00.000Z",
+        "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/02/harvey-partners-with-well-harvey-its-namesake-as-brand-spokesperson.html",
+        "title": "Harvey Partners with &#8230; well, Harvey, Its Namesake, As Brand Spokesperson",
+        "url": "https://www.lawnext.com/2026/02/harvey-partners-with-well-harvey-its-namesake-as-brand-spokesperson.html",
+        "source": "LawSites",
+        "publishedAt": "2026-02-17T14:00:20.000Z",
+        "summary": "The legal AI company Harvey said today that it has partnered with Harvey — the original one. The Harvey in question — the non-AI one, that is — is Gabriel Macht, the actor who played the role of lawyer Harvey Specter in ",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/02/the-votes-are-in-here-are-the-15-legal-tech-startups-selected-for-the-2026-startup-alley-at-aba-techshow.html",
+        "title": "The Votes Are In! Here Are the 15 Legal Tech Startups Selected for the 2026 Startup Alley at ABA TECHSHOW",
+        "url": "https://www.lawnext.com/2026/02/the-votes-are-in-here-are-the-15-legal-tech-startups-selected-for-the-2026-startup-alley-at-aba-techshow.html",
+        "source": "LawSites",
+        "publishedAt": "2026-02-16T18:57:02.000Z",
+        "summary": "The results are in! Voting has now closed and your votes have been tallied to pick the 15 legal tech startups that will get to participate as finalists in the 10th-annual Startup Alley at ABA TECHSHOW, March 25-28, 2026,",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/new-result-theoretical-physics",
+        "title": "GPT-5.2 derives a new result in theoretical physics",
+        "url": "https://openai.com/index/new-result-theoretical-physics",
+        "source": "OpenAI News",
+        "publishedAt": "2026-02-13T11:00:00.000Z",
+        "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+        "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+        "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+        "source": "OpenAI News",
+        "publishedAt": "2026-02-13T10:00:00.000Z",
+        "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-social-science-research",
+        "title": "Scaling social science research",
+        "url": "https://openai.com/index/scaling-social-science-research",
+        "source": "OpenAI News",
+        "publishedAt": "2026-02-13T09:00:00.000Z",
+        "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730596176166917",
+        "title": "人民币兑美元中间价报6.8898，上调77点",
+        "url": "https://36kr.com/newsflashes/3730596176166917?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T01:18:40.000Z",
+        "summary": "36氪获悉，人民币兑美元中间价报6.8898，上调77点；上一交易日中间价6.8975，上一交易日官方收盘价6.9013，上日夜盘报收6.8873。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730570848927748",
+        "title": "天风证券：“算电协同”政策对龙头整体偏利好，有助于打开新能源业务第二增长曲线",
+        "url": "https://36kr.com/newsflashes/3730570848927748?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T01:15:49.000Z",
+        "summary": "36氪获悉，天风证券研报表示，人工智能算力需求的激增引发市场对数据中心用电压力的高度关注。受政策催化，本周新能源基建板块关注度明显提升。政策利好具备相关新能源项目投建营能力的企业。从影响来看，我们认为“算电协同”政策对龙头整体偏利好，有助于打开新能源业务第二增长曲线，若政策红利持续释放，绿电直连等新产业模式加速落地，有望推动新能源基建板块关注度持续走高。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730570519003140",
+        "title": "零碳运输走廊建设提速，利好上下游产业链",
+        "url": "https://36kr.com/newsflashes/3730570519003140?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T01:12:28.000Z",
+        "summary": "零碳运输走廊建设正在成为我国交通运输领域“减碳”的重要发力点。近日，交通运输部表示，“十五五”时期，将以碳达峰、碳中和为牵引，推动零碳运输走廊和场站建设；国家发展改革委也透露，“十五五”时期，我国将规划建设10000公里以上的零碳运输走廊。业内人士认为，“十五五”时期，零碳运输走廊将从试点逐渐走向网络化、规模化，这不仅将为当地产业降碳增绿提供支撑，更将带动新能源重卡、充换电设施、氢能装备等上下游产业链协同发展。（经济参考报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730587497349124",
+        "title": "国民技术：确定H股发行的最终价格为每股10.8港元，预计3月23日上市",
+        "url": "https://36kr.com/newsflashes/3730587497349124?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T01:09:50.000Z",
+        "summary": "36氪获悉，国民技术公告，公司正在进行申请发行境外上市外资股（H股）并在香港联交所主板挂牌上市的相关工作。公司已确定本次H股发行的最终价格为每股10.8港元，预计于2026年3月23日在香港联交所主板挂牌并开始上市交易。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730569707946244",
+        "title": "美国FDA批准诺和诺德减肥药Wegovy更高剂量版本",
+        "url": "https://36kr.com/newsflashes/3730569707946244?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T01:09:30.000Z",
+        "summary": "美国食品药品监督管理局（FDA）批准诺和诺德旗下爆款减重针剂 Wegovy 的更高剂量版本，该公司正全力从礼来手中夺回市场份额。在三期临床试验中，高剂量 Wegovy 可使肥胖患者在 72 周后平均减重20.7%。这家丹麦药企推出该版本，旨在更有力地对标礼来的减肥药 Zepbound—— 后者已被证实减重效果更优。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730568903491591",
+        "title": "券商调研名单出炉，风电、光伏、存储芯片热度高",
+        "url": "https://36kr.com/newsflashes/3730568903491591?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T01:06:50.000Z",
+        "summary": "今年以来，券商已调研超940家A股上市公司，主要集中在电子、机械、电气设备、化工等行业。其中，有25家上市公司获得券商调研的数量不少于30家次。值得一提的是，风电、光伏等板块的热门股热度居前，随着近期存储涨价潮不断发酵，对存储芯片相关企业的调研热度居高不下。具体来看，大金重工是今年以来券商关注度最高的上市公司，年内共获得券商调研95家次；天顺风能、晶科能源、华勤技术、耐普矿机接受调研数量均不少于50家次；精智达、九号公司、威胜信息、海联",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730565147295753",
+        "title": "多晶硅期货价跌破4万元/吨关口",
+        "url": "https://36kr.com/newsflashes/3730565147295753?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T01:03:02.000Z",
+        "summary": "3月19日，光伏产业链上游传来重磅信号。当日收盘，广州期货交易所多晶硅主力合约跌破4万元/吨大关，报收38550元/吨，跌幅达5.77%。“这是一个标志性事件。”万联证券投资顾问屈放在接受记者采访时表示，4万元/吨被广泛视作多晶硅行业部分头部企业的现金成本线，期货价格跌破这一关口，意味着市场正在对高成本产能进行“极限施压”。而在现货市场，中国有色金属工业协会硅业分会3月18日晚间发布的最新一周多晶硅价格分析显示，多晶硅N型复投料成交均价",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730579192020995",
+        "title": "3月LPR报价出炉：5年期和1年期利率均维持不变",
+        "url": "https://36kr.com/newsflashes/3730579192020995?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T01:01:23.000Z",
+        "summary": "36氪获悉，中国人民银行授权全国银行间同业拆借中心公布，2026年3月20日贷款市场报价利率（LPR）为：1年期LPR为3.0%，5年期以上LPR为3.5%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730563216703753",
+        "title": "中信证券：看好国内存储大厂的市占率提升",
+        "url": "https://36kr.com/newsflashes/3730563216703753?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T01:00:03.000Z",
+        "summary": "36氪获悉，中信证券指出，三星电子或举行全国总罢工可能导致的停产风险或加剧全球存储芯片供应紧张，在存储市场高景气度下，看好国内存储大厂的市占率提升。“十五五”时期，国内存储大厂产能扩张和技术迭代有望加速，产业链核心材料与零部件供应商有望充分受益。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730564254728449",
+        "title": "监管工作函“刨根问底”业绩预告，多家上市公司详解“账目”真伪",
+        "url": "https://36kr.com/newsflashes/3730564254728449?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T00:57:07.000Z",
+        "summary": "近期，多家上市公司就业绩预告回复交易所监管工作函。从问询焦点看，监管一方面紧盯风险公司营收是否触及财务类退市“红线”，尤其是第四季度收入突击增长的真实性；另一方面深究业绩亏损的具体成因，对毛利率异常波动、大额资产减值计提等细节“刨根问底”。对于已经被实施退市风险警示的上市公司而言，营收确认的“成色”直接关系到公司是否触及退市“红线”。面对监管方的层层追问，上市公司纷纷亮出“家底”，从客户供应商关系到单季度波动的合理性，逐一进行解剖式说明",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730561764065289",
+        "title": "上市公司理财结构生变，加码保值稳健型产品",
+        "url": "https://36kr.com/newsflashes/3730561764065289?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T00:54:34.000Z",
+        "summary": "2026年以来，上市公司继续大手笔利用闲置资金购买理财产品。据Wind数据统计，截至3月19日，年内已有443家上市公司认购各类理财产品（含存款，下同）近1248亿元。其中，存款类产品占比约七成，银行理财和券商理财合计占比接近两成。拉长时间跨度来看，上市公司配置理财产品的结构有所变化。以近两个年份数据为例，2025年在定期存款利率全面进入“1字头”背景下，上市公司减少了存款类产品的配置，转向了收益率相对较高、流动性更好的低风险产品，例如",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730560400490758",
+        "title": "欧洲理事会批准Boris Vujcic出任欧洲央行副行长",
+        "url": "https://36kr.com/newsflashes/3730560400490758?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T00:52:11.000Z",
+        "summary": "3月19日，欧洲理事会发布声明，正式批准任命克罗地亚央行行长Boris Vujcic为欧洲央行副行长。该任命为期8年，Vujcic将自2026年6月1日起接替Luis de Guindos。Vujcic成为首位进入该机构执行理事会的东欧人士。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730567805304832",
+        "title": "个贷息费杜绝“糊涂账”，贷款机构密集部署业务调整",
+        "url": "https://36kr.com/newsflashes/3730567805304832?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T00:49:48.000Z",
+        "summary": "近期从业内获悉，在金融监管总局、中国人民银行联合发布《个人贷款业务明示综合融资成本规定》（下称“规定”）后，各类贷款机构密集部署业务调整，解决个贷息费“看不清、算不明”的问题。根据规定要求，综合融资成本“一表明示”，将分散于利息、服务费、分期费等各个项目的融资成本纳入一张表，不仅澄清息费“糊涂账”，更有利于促进市场公平竞争。业内人士普遍认为，借款人从此不再“雾里看花”，个贷市场竞争也将从粗放式获客转到透明定价和提升服务效率上。（上证报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730567193788680",
+        "title": "两市融资余额减少42.88亿元",
+        "url": "https://36kr.com/newsflashes/3730567193788680?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T00:49:11.000Z",
+        "summary": "36氪获悉，截至3月19日，上交所融资余额报13368.09亿元，较前一交易日减少10.4亿元；深交所融资余额报12870.26亿元，较前一交易日减少32.48亿元；两市合计26238.35亿元，较前一交易日减少42.88亿元。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730542486749188",
+        "title": "券商春季策略会达成共识，外部冲击不改市场稳健底色",
+        "url": "https://36kr.com/newsflashes/3730542486749188?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T00:47:52.000Z",
+        "summary": "当前，全球资本市场正处于地缘政治与AI（人工智能）产业变革交织叠加的阶段。一方面，中东局势紧张推升市场风险溢价，扰动全球供应链；另一方面，AI带来的颠覆性创新持续重塑市场认知。在此背景下，A股后续成为券商春季策略会的关注焦点。据记者梳理，多家券商认为，短期市场虽受外部扰动，但对中国资产中长期向好趋势的判断保持不变。（证券时报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730565561336070",
+        "title": "美国财政部发布2025财年政府财务报告",
+        "url": "https://36kr.com/newsflashes/3730565561336070?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T00:47:31.000Z",
+        "summary": "根据电子邮件声明，美国财政部长斯科特·贝森特发布美国政府2025财年财务报告。“通过经济增长，我们可以逐步将联邦赤字降至国内生产总值（GDP）的3%，这是一个可以实现的基准，符合长期财政可持续性的要求，”贝森特表示。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730540866535428",
+        "title": "实探银行积存金兑换： 小克重金条紧俏，提货需等待",
+        "url": "https://36kr.com/newsflashes/3730540866535428?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T00:45:18.000Z",
+        "summary": "近日，在北京地区走访部分银行网点发现，如果客户想把黄金积存账户里的积存份额迅速兑换成实物金，有点难。据多家银行支行的客户经理介绍，5克至20克的小克重金条近期大多处于紧缺状态，需要预约登记，且到货时间不确定。特别是在城市核心区域、业务量大的银行网点，甚至出现“一金难求”的局面。在金价波动加剧背景下，一边是银行客户对实物金需求热度不减，一边则是银行在密集收紧黄金等贵金属业务相关规则。比如，近期多家银行通过提高积存金投资的风险评级准入门槛、",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730539068997895",
+        "title": "瑞银将特斯拉第一季度交付量预期下调至34.5万辆",
+        "url": "https://36kr.com/newsflashes/3730539068997895?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T00:42:29.000Z",
+        "summary": "瑞银分析师Joseph Spak预测，特斯拉第一季度交付量为34.5万辆，低于他此前36万辆的预测。Spak表示，这一预期低于Visible Alpha的37.1万辆共识预期，但符合买方机构33万至35万辆的预期区间。此次观点调整基于美国电动汽车市场趋缓、Model S和Model X车型逐步收缩、欧洲销售数据以及中国工厂产量等因素。Spak对特斯拉维持卖出评级，目标价为352美元。周四特斯拉股价下跌2.6%，标普500指数下跌0.5%",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730559866011904",
+        "title": "美国SEC据悉组建新的会计事务执法部门",
+        "url": "https://36kr.com/newsflashes/3730559866011904?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T00:41:44.000Z",
+        "summary": "据招聘信息和一位知情人士透露，美国证券交易委员会（SEC）正在组建一个新的会计事务执法部门，同时削减一个外部监督机构的人员。该外部监督机构是在2000年代初安然丑闻之后成立的，旨在监管会计行业。这些举措表明，美国证券交易委员会正试图吸收一些通常由上市公司会计监督委员会（Public Company Accounting Oversight Board，PCAOB）承担的职能，后者在特朗普政府上任后已经失宠。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3730538419421188",
+        "title": "中信证券：公募指数化进程延续，代销迎变局",
+        "url": "https://36kr.com/newsflashes/3730538419421188?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T00:40:50.000Z",
+        "summary": "36氪获悉，中信证券研报表示，截至2025年末Top100基金代销机构保有规模进一步提升，股票指数基金增速突破20%。公募基金指数化进程延续，券商份额持续提升，银行份额下降。展望未来，销售费用新规实施有望在各个层面改变目前的公募基金销售生态，代销机构将迎变局。目前头部机构格局仍稳固，集中度下降或揭示更多中尾部渠道发力基金代销业务，提升服务能力、业务多元化或是破局之道。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3730515366871046",
+        "title": "8点1氪丨贾国龙推出新品牌“天边砂锅焖面”；涨价4000元，新一代小米SU7起售价21.99万元；麦当劳回应卖蛋挞",
+        "url": "https://36kr.com/p/3730515366871046?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-19T23:59:21.000Z",
+        "summary": "今日热点导览 ZARA、H&M、拉夫劳伦等，被海关总署点名通报 腾讯股价大跌原因：加大AI投入或削减回购 欧盟证实：马斯克X缴纳1.2亿欧元罚款 中国移动“移动梦网”等业务将下线 现货黄金跌破4700美元 腾讯回应在美游戏投资 TOP 3大新闻 贾国龙新品牌做焖面，人均消费40元至50元 西贝餐饮集团创始人、董事长贾国龙的最新创业项目“天边砂锅焖面”已在北京798艺术区悄然落地，这家新店2月13日开业，人均消费40元至50元，主打品类是",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/p0umitxd3w2fafiwv6r0",
         "title": "针对库存优化的 Snowflake Intelligence 供应链助手",
@@ -1269,156 +1479,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3729868431999241",
-        "title": "小米雷军：未来三年，AI领域计划投入资金超过600亿元",
-        "url": "https://36kr.com/newsflashes/3729868431999241?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:58:22.000Z",
-        "summary": "36氪获悉，在小米春季新品发布会上，小米集团创始人、董事长兼CEO雷军表示，小米首款手机龙虾Xiaomi miclaw，已��动封测；搭载MiMo大模型，深度融合OS与人车家全生态。未来三年，AI领域计划投入资金超过600亿元。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729864655618057",
-        "title": "香港保荐代表人已被要求同时最多只能接5宗订单",
-        "url": "https://36kr.com/newsflashes/3729864655618057?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:54:32.000Z",
-        "summary": "香港证监会对保荐代表人同时推进的活跃项目数量设下“红线”。经多方求证获悉，监管已明确要求签字保荐人同时推进的活跃项目不得超过6个（即最多5个）。有投行人士证实，目前保荐代表人同时承接项目数已收紧至5单。 （第一财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729863803306246",
-        "title": "东阿阿胶：2025年归母净利润同比增长11.67%，拟10派14.31元",
-        "url": "https://36kr.com/newsflashes/3729863803306246?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:53:40.000Z",
-        "summary": "36氪获悉，东阿阿胶发布2025年业绩报告。报告显示，2025年实现营业收入67亿元，同比增长13.17%；归属于上市公司股东的净利润17.39亿元，同比增长11.67%；基本每股收益2.7元。公司拟向全体股东每10股派发现金红利14.31元（含税），送红股0股（含税），不以公积金转增股本。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729857952579589",
-        "title": "东方财富：2025年净利润120.8亿元，同比增长25.75%",
-        "url": "https://36kr.com/newsflashes/3729857952579589?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:47:42.000Z",
-        "summary": "36氪获悉，东方财富发布2025年业绩报告。报告显示，2025年公司实现营业总收入160.68亿元，同比增长38.46%；实现归属于上市公司股东净利润120.85亿元，同比增长25.75%。公司拟向全体股东每10股派发现金红利1.00元（含税）。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729854648582401",
-        "title": "中远海控：2025年归母净利润308.68亿元，同比下降37.13%",
-        "url": "https://36kr.com/newsflashes/3729854648582401?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:44:21.000Z",
-        "summary": "36氪获悉，中远海控发布2025年业绩报告。报告显示，2025年实现营业收入2195.04亿元，同比下降6.14%；归属于上市公司股东的净利润308.68亿元，同比下降37.13%；基本每股收益1.99元。公司拟向全体股东每股派发现金红利人民币0.44元（含税）。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729853712384258",
-        "title": "热门中概股美股盘前多数走弱，阿里巴巴跌超5%",
-        "url": "https://36kr.com/newsflashes/3729853712384258?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:43:24.000Z",
-        "summary": "36氪获悉，热门中概股美股盘前多数走弱，截至发稿，阿里巴巴跌超5%，百度、京东、B站、理想汽车跌超2%，网易、微博跌超1%；小鹏汽车涨0.79%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729852413657093",
-        "title": "美股大型科技股盘前多数下跌，特斯拉跌超1%",
-        "url": "https://36kr.com/newsflashes/3729852413657093?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:42:04.000Z",
-        "summary": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，特斯拉、Arm跌超1%，英伟达、亚马逊、谷歌跌近1%，Meta跌0.53%，微软跌0.3%，奈飞跌0.27%；苹果涨0.02%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729844744847625",
-        "title": "交易员不再押注美联储2026年降息",
-        "url": "https://36kr.com/newsflashes/3729844744847625?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:34:16.000Z",
-        "summary": "交易员不再押注美联储2026年降息。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729842670256392",
-        "title": "美国上周首次申领失业救济人数为20.5万人",
-        "url": "https://36kr.com/newsflashes/3729842670256392?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:32:10.000Z",
-        "summary": "美国上周首次申领失业救济人数为20.5万人，预估为21.5万人，前值为21.3万人。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729840360620041",
-        "title": "阿里CEO吴泳铭：平头哥不排除IPO，目前暂无明确时间表",
-        "url": "https://36kr.com/newsflashes/3729840360620041?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:29:49.000Z",
-        "summary": "36氪获悉，在阿里集团业绩电话会上，CEO吴泳铭表示，未来三到五年，全球的算力都会处于非常紧缺的状态，而平头哥的价值不仅在于成本优化，更是算力的供应保障。平头哥未来并不排除会IPO，但目前还没有明确时间表。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729836166152448",
-        "title": "潜能恒信：副总经理张卉被留置调查",
-        "url": "https://36kr.com/newsflashes/3729836166152448?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:25:33.000Z",
-        "summary": "36氪获悉，潜能恒信公告，公司副总经理张卉被威海市文登区监察委员会立案调查并实施留置措施。经初步了解，该事项系张卉原单位的个人问题，与公司无关，不会对公司日常运营造成重大影响，公司生产经营活动正常有序进行。截至公告披露日，公司尚未知悉调查进展及结论，将依法履行信息披露义务并提示相关风险。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729834448584961",
-        "title": "李斌：蔚来自研芯片量产已超过55万颗",
-        "url": "https://36kr.com/newsflashes/3729834448584961?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:23:48.000Z",
-        "summary": "36氪获悉，3月19日下午，蔚来创始人、董事长、CEO李斌在上海出席先进制造业峰会——（2026）半导体产业高峰论坛并发表主题演讲。李斌称，当前汽车半导体产业正面临AI算力需求快速增长、芯片体系碎片化以及供应链波动性增强三大关键挑战。蔚来正通过自研与定制芯片，构建面向智能化时代的核心能力，持续优化高价值芯片的性能与成本。截至目前，蔚来自研芯片累计量产已超过55万颗。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729831848935683",
-        "title": "雷军：新一代小米SU7起售价21.99万元",
-        "url": "https://36kr.com/newsflashes/3729831848935683?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:21:09.000Z",
-        "summary": "36氪获悉，在小米春季新品发布会上，雷军宣布，新一代小米SU7起售价21.99万元，新一代小米SU7 Pro版起售价24.99万元。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729830876217603",
-        "title": "阿里财报电话会：预计29财年即时零售业务板块将实现整体盈利",
-        "url": "https://36kr.com/newsflashes/3729830876217603?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:20:10.000Z",
-        "summary": "36氪获悉，在阿里巴巴集团2026财年Q3财报分析师电话会上，阿里电商事业群CEO蒋凡表示，维持2028财年零售整体交易规模破万亿元的目标。在这一规模基础上，阿里可以实现规模化的正向现金流，预计29财年即时零售业务板块将实现整体盈利。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729824567050240",
-        "title": "小米新一代SU7采用车外机械拉手：碰撞后自动解锁，可从车外应急开门",
-        "url": "https://36kr.com/newsflashes/3729824567050240?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:13:45.000Z",
-        "summary": "36氪获悉，据小米汽车消息，新一代SU7门把手安全设计，100%符合2027年新国标，共有三重安全冗余设计：车外机械拉手，碰撞后自动解锁，可从车外应急开门；门锁冗余备份电源，碰撞后仍可正常解锁；车内应急机械拉手，车内无需解锁即可开门。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/qlqzzhgdntm7eeunsggm",
         "title": "ClickHouse 不再只有一个主索引：投影正式进化为真正的二级索引，查询提速 90%",
         "url": "https://www.infoq.cn/article/qlqzZhgDNtM7eeuNsgGm?utm_source=rss&utm_medium=article",
@@ -1429,62 +1489,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3729817812664584",
-        "title": "英国央行维持基准利率在3.75%不变",
-        "url": "https://36kr.com/newsflashes/3729817812664584?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:06:52.000Z",
-        "summary": "3月19日消息，英国央行货币政策委员会九名成员一致投票决定将基准利率维持在3.75%不变。英国央行表示，已“做好准备采取行动”，以应对中东冲突可能引发的任何通胀飙升。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/cuy1nfjtv6musrp3sajj",
         "title": "英伟达改卖Token？黄仁勋GTC后发声：token就是AI新通货，值钱的不是算力，是“每度电的智商”",
         "url": "https://www.infoq.cn/article/CuY1NfJtV6musRP3sAJJ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-19T12:05:24.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729814742565122",
-        "title": "现货黄金向下跌破4650美元",
-        "url": "https://36kr.com/newsflashes/3729814742565122?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T12:03:45.000Z",
-        "summary": "36氪获悉，现货黄金向下跌破4650美元，日内下跌3.66%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729806860550149",
-        "title": "东方国信：内蒙古智算中心项目尚未盈利",
-        "url": "https://36kr.com/newsflashes/3729806860550149?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T11:55:44.000Z",
-        "summary": "36氪获悉，东方国信公告，近期资本市场对“AIDC”“算力租赁”等概念关注度较高，相关板块二级市场表现较为活跃。截至目前，公司内蒙古智算中心项目已部分建成并交付客户使用，其余部分尚在建设中。该业务当前收入占公司营业收入比重较小，且尚未盈利，未来收入贡献主要取决于项目后续交付进度及客户上架节奏，存在不确定性。敬请广大投资者理性判断，注意投资风险。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729790103240708",
-        "title": "吴泳铭宣布阿里AI战略商业目标：未来五年，云和AI商业化年收入超1000亿美元",
-        "url": "https://36kr.com/newsflashes/3729790103240708?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T11:38:41.000Z",
-        "summary": "36氪获悉，在阿里巴巴集团2026财年Q3财报分析师电话会上，CEO吴泳铭表示，阿里已形成从AI Infra到应用的完整全栈AI能力，并加速推进MaaS平台建设。过去三个月，百炼MaaS平台上公共模型服务市场的Token消耗规模提升6倍，预计商业化MaaS收入将会成为阿里云最大的收入产品。同时，阿里云2026财年截至2月底的外部商业化收入正式突破1000亿元。商业目标是未来五年云和AI商业化年收入突破1000亿美元。此外，平头哥自研的G",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3729788099985664",
-        "title": "顺钠股份：持股5%以上股东张明园减持0.9988%股份，减持计划完成",
-        "url": "https://36kr.com/newsflashes/3729788099985664?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T11:36:39.000Z",
-        "summary": "36氪获悉，顺钠股份公告，公司持股5%以上股东张明园于2026年3月12日至3月18日期间，通过集中竞价方式减持公司股份690万股，占总股本的0.9988%，减持后持股比例由7.89%降至6.89%。本次减持计划已实施完毕，未导致公司控制权变更，不影响公司治理结构及持续经营。",
         "category": "updates",
         "region": "cn"
       },
@@ -1606,16 +1616,6 @@
         "publishedAt": "2026-03-19T02:31:49.000Z",
         "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，上海乾径科技有限公司（下称“乾径科技”）近日宣布完成Pre-A轮融资，融资金额为千万级人民币，本轮由启盈同创独家投资。资金将重点用于端侧连接智能“推理与决策中间层”（Connectivity Brain）的模型迭代、工具链产品化交付。 随着具身智能、无人系统等应用逐渐进入工厂、园区等真实场景，行业面临的关键问题正在从“动作能力”转向“连接能力”。在复杂物理环境中，机器人或无人设备往往需要依赖",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3728694314090117",
-        "title": "xTool老对手回看来时路：当一个先行者站在十字路口 | 36氪专访",
-        "url": "https://36kr.com/p/3728694314090117?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T02:00:03.000Z",
-        "summary": "文｜张子怡 编辑｜袁斯来 2025年末，硬件赛道不缺焦点。但激光雕刻领域的龙头xTool递表港交所的新闻，仍然算其中一注引人瞩目的高光。 人们或许不会注意到xTool身后的对手。但它们遭遇的关键抉择 、转瞬即逝的机会甚至一些巧合和偶然，共同构成当下的市场格局。 在消费级激光雕刻机领域里，另一家公司LaserPecker是绝对的先发者。团队推出第一款手持消费级激光雕刻机是2019年，初代产品LaserPecker Pro的重量仅1.9KG",
-        "category": "tools",
         "region": "cn"
       },
       {
