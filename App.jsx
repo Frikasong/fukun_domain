@@ -264,6 +264,20 @@ function fileToBase64(file) {
 
 // ─── Storage Helpers ────────────────────────────────────────────────────────
 async function loadEntries() {
+  // Preferred source: Notion-synced static feed (auto-updated by GitHub Actions)
+  try {
+    const res = await fetch(`notion-posts.json?t=${Date.now()}`);
+    if (res.ok) {
+      const data = await res.json();
+      if (Array.isArray(data.entries)) {
+        return data.entries;
+      }
+    }
+  } catch {
+    // Fallback to local storage below
+  }
+
+  // Fallback source: legacy local storage
   try {
     const result = await window.storage.get(ENTRIES_KEY);
     return result ? JSON.parse(result.value) : [];
@@ -441,7 +455,10 @@ function App() {
   const currentSection = SECTIONS.find((s) => s.id === activeSection);
 
   return (
-    <div style={styles.root}>
+    <div style={styles.root} data-lang={lang}>
+      {lang === "zh" && (
+        <style>{`[data-lang='zh'] * { font-style: normal !important; }`}</style>
+      )}
       {/* Background */}
       <div style={styles.bgPattern} />
 

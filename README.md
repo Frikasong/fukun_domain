@@ -64,6 +64,36 @@ This is your personal portfolio website with sections for Legal Tech, Admin Law,
 - Edit in browser
 - Export and re-deploy
 
+## 🔄 Notion Auto-Sync (Recommended)
+
+Your site can automatically pull posts from a Notion database and publish updates on GitHub Pages every 6 hours.
+
+### 1) Create a Notion integration
+1. Go to Notion integrations and create an internal integration
+2. Copy the API token
+3. Share your posts database with that integration
+
+### 2) Add GitHub repository secrets
+In GitHub repo → **Settings** → **Secrets and variables** → **Actions** add:
+- `NOTION_API_KEY` = your Notion integration token
+- `NOTION_DATABASE_ID` = your Notion database ID
+
+### 3) Database field expectations
+- `Title` (title)
+- `Date` (date)
+- `Section` (select/status): `tech`, `law`, `investment`, `essays`, `music`, `photography`
+- Optional publish control:
+  - checkbox property containing `publish`/`live` in the name, OR
+  - select/status value `published`, `live`, `public`, or `done`
+
+### 4) Automation files
+- Workflow: `.github/workflows/notion-posts-sync.yml`
+- Fetch script: `scripts/fetch-notion-posts.mjs`
+- Output JSON: `notion-posts.json`
+
+### 5) Trigger manually (optional)
+GitHub repo → **Actions** → **Sync Notion Posts** → **Run workflow**.
+
 ## 💾 Data Storage
 
 Your portfolio uses **localStorage** to save:
@@ -119,6 +149,6 @@ For questions about the code or deployment:
 - ✅ Comment system for visitor feedback
 - ✅ Image and file upload support
 - ✅ Responsive design
-- ✅ Ambient music player
+- ✅ Notion post auto-sync support
 
 Good luck with your portfolio! 🎉
