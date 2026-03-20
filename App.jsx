@@ -312,6 +312,9 @@ function App() {
   const isTablet = viewportWidth > 768 && viewportWidth < 1100;
   const isWideDesktop = viewportWidth >= 1400;
 
+  // Navigation hover
+  const [hoveredGroup, setHoveredGroup] = useState(null);
+
   // File handling
   const [fileStatus, setFileStatus] = useState("");
   const [uploading, setUploading] = useState(false);
@@ -437,8 +440,9 @@ function App() {
 
       {/* Header */}
       <header style={{ ...styles.header, padding: isMobile ? "10px 12px 12px" : (isTablet ? "12px 18px 14px" : styles.header.padding) }}>
-        <div style={{ ...styles.headerContent, maxWidth: isWideDesktop ? 1280 : 1100, flexDirection: isMobile ? "column" : "row", gap: isMobile ? 10 : 0 }}>
-          <div style={{ ...styles.headerLeft, width: isMobile ? "100%" : "auto", alignItems: "center", textAlign: "center" }} onClick={() => { setView("grid"); setActiveSection("about"); }}>
+        <div style={{ ...styles.headerContent, maxWidth: isWideDesktop ? 1280 : 1100, justifyContent: isMobile ? "center" : "space-between" }}>
+          {/* Logo */}
+          <div style={{ ...styles.headerLogo, width: isMobile ? "100%" : "auto" }} onClick={() => { setView("grid"); setActiveSection("about"); }}>
             {!logoFailed && (
               <img
                 src="logo.png"
@@ -447,87 +451,143 @@ function App() {
                 onError={() => setLogoFailed(true)}
               />
             )}
-            <p style={styles.tagline}>{T.site.tagline}</p>
+            {!isMobile && <p style={styles.tagline}>{T.site.tagline}</p>}
           </div>
-          <div style={{
-            ...styles.headerControls,
-            position: isMobile ? "static" : styles.headerControls.position,
-            right: isMobile ? "auto" : styles.headerControls.right,
-            top: isMobile ? "auto" : styles.headerControls.top,
-            transform: isMobile ? "none" : styles.headerControls.transform,
-            width: isMobile ? "100%" : "auto",
-            justifyContent: isMobile ? "flex-end" : "flex-start",
-          }}>
-            <button
-              style={styles.langToggle}
-              onClick={() => setLang(lang === "en" ? "zh" : "en")}
-            >
+
+          {/* Desktop Nav */}
+          {!isMobile && (
+            <nav style={styles.navBar}>
+              <button
+                style={{ ...styles.navItem, ...(activeSection === "about" ? styles.navItemActive : {}) }}
+                onClick={() => { setActiveSection("about"); setView("grid"); }}
+              >
+                {T.nav.info}
+              </button>
+
+              <div
+                style={styles.navDropdownWrap}
+                onMouseEnter={() => setHoveredGroup("professional")}
+                onMouseLeave={() => setHoveredGroup(null)}
+              >
+                <button style={{ ...styles.navItem, ...(activeSection === "tech" || activeSection === "law" || activeSection === "investment" ? styles.navItemActive : {}) }}>
+                  {T.nav.professional} ▾
+                </button>
+                {hoveredGroup === "professional" && (
+                  <div style={styles.navDropdown}>
+                    {SECTIONS.filter((s) => s.type === "professional").map((section) => {
+                      const label = T.nav[section.id] || section.name;
+                      const subtitle = T.nav[section.id + "Sub"];
+                      return (
+                        <button
+                          key={section.id}
+                          style={{ ...styles.navDropdownItem, ...(activeSection === section.id ? styles.navDropdownItemActive : {}) }}
+                          onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
+                        >
+                          <span>{section.icon}</span>
+                          <span style={styles.navDropdownItemText}>
+                            {label}
+                            {subtitle && <span style={styles.navDropdownItemSub}>{subtitle}</span>}
+                          </span>
+                        </button>
+                      );
+                    })}
+                  </div>
+                )}
+              </div>
+
+              <div
+                style={styles.navDropdownWrap}
+                onMouseEnter={() => setHoveredGroup("personal")}
+                onMouseLeave={() => setHoveredGroup(null)}
+              >
+                <button style={{ ...styles.navItem, ...(activeSection === "essays" || activeSection === "music" || activeSection === "photography" ? styles.navItemActive : {}) }}>
+                  {T.nav.personal} ▾
+                </button>
+                {hoveredGroup === "personal" && (
+                  <div style={styles.navDropdown}>
+                    {SECTIONS.filter((s) => s.type === "personal").map((section) => {
+                      const label = T.nav[section.id] || section.name;
+                      return (
+                        <button
+                          key={section.id}
+                          style={{ ...styles.navDropdownItem, ...(activeSection === section.id ? styles.navDropdownItemActive : {}) }}
+                          onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
+                        >
+                          <span>{section.icon}</span>
+                          <span style={styles.navDropdownItemText}>{label}</span>
+                        </button>
+                      );
+                    })}
+                  </div>
+                )}
+              </div>
+
+              <button
+                style={{ ...styles.navItem, ...(activeSection === "contact" ? styles.navItemActive : {}) }}
+                onClick={() => { setActiveSection("contact"); setView("grid"); }}
+              >
+                {T.nav.contact}
+              </button>
+            </nav>
+          )}
+
+          {/* Controls */}
+          <div style={{ ...styles.headerControls, width: isMobile ? "100%" : "auto", justifyContent: isMobile ? "center" : "flex-end" }}>
+            <button style={styles.langToggle} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
               {T.langToggle}
             </button>
-            <button style={styles.menuToggle} onClick={() => setMenuOpen(!menuOpen)}>
-              {menuOpen ? "✕" : "☰"}
-            </button>
+            {isMobile && (
+              <button style={styles.menuToggle} onClick={() => setMenuOpen(!menuOpen)}>
+                {menuOpen ? "✕" : "☰"}
+              </button>
+            )}
           </div>
         </div>
       </header>
 
-      {/* Inline Expandable Menu */}
-      {menuOpen && (
-        <div style={styles.menuDropdown}>
-          <div style={styles.menuSection}>
-            <button
-              style={styles.menuGroupToggle}
-              onClick={() => {
-                setActiveSection("about");
-                setView("grid");
-                setMenuOpen(false);
-              }}
-            >
-              <span>👋</span>
-              <span>{T.nav.info}</span>
+      {/* Mobile menu */}
+      {isMobile && menuOpen && (
+        <div style={styles.mobileMenu}>
+          <div style={styles.mobileMenuSection}>
+            <button style={styles.mobileMenuItem} onClick={() => { setActiveSection("about"); setView("grid"); setMenuOpen(false); }}>
+              👋 {T.nav.info}
             </button>
           </div>
-
-          <div style={styles.menuSection}>
-            <div style={styles.menuGroupHeader}>{T.nav.professional}</div>
-            <div style={styles.menuGroupItems}>
-              {SECTIONS.filter((s) => s.type === "professional").map((section) => {
-                const label = T.nav[section.id] || section.name;
-                const subtitle = T.nav[section.id + "Sub"];
-                return (
-                  <button
-                    key={section.id}
-                    style={{ ...styles.menuItem, ...(activeSection === section.id ? styles.menuItemActive : {}) }}
-                    onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
-                  >
-                    <span>{section.icon}</span>
-                    <span style={styles.menuItemText}>
-                      {label}
-                      {subtitle && <span style={styles.menuItemSub}>{subtitle}</span>}
-                    </span>
-                  </button>
-                );
-              })}
-            </div>
+          <div style={styles.mobileMenuSection}>
+            <div style={styles.mobileMenuGroupHeader}>{T.nav.professional}</div>
+            {SECTIONS.filter((s) => s.type === "professional").map((section) => {
+              const label = T.nav[section.id] || section.name;
+              const subtitle = T.nav[section.id + "Sub"];
+              return (
+                <button
+                  key={section.id}
+                  style={{ ...styles.mobileMenuItem, ...(activeSection === section.id ? styles.mobileMenuItemActive : {}) }}
+                  onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
+                >
+                  <span>{section.icon}</span>
+                  <span style={styles.mobileMenuItemText}>
+                    {label}
+                    {subtitle && <span style={styles.mobileMenuItemSub}>{subtitle}</span>}
+                  </span>
+                </button>
+              );
+            })}
           </div>
-
-          <div style={styles.menuSection}>
-            <div style={styles.menuGroupHeader}>{T.nav.personal}</div>
-            <div style={styles.menuGroupItems}>
-              {SECTIONS.filter((s) => s.type === "personal").map((section) => {
-                const label = T.nav[section.id] || section.name;
-                return (
-                  <button
-                    key={section.id}
-                    style={{ ...styles.menuItem, ...(activeSection === section.id ? styles.menuItemActive : {}) }}
-                    onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
-                  >
-                    <span>{section.icon}</span>
-                    <span style={styles.menuItemText}>{label}</span>
-                  </button>
-                );
-              })}
-            </div>
+          <div style={styles.mobileMenuSection}>
+            <div style={styles.mobileMenuGroupHeader}>{T.nav.personal}</div>
+            {SECTIONS.filter((s) => s.type === "personal").map((section) => {
+              const label = T.nav[section.id] || section.name;
+              return (
+                <button
+                  key={section.id}
+                  style={{ ...styles.mobileMenuItem, ...(activeSection === section.id ? styles.mobileMenuItemActive : {}) }}
+                  onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}
+                >
+                  <span>{section.icon}</span>
+                  <span style={styles.mobileMenuItemText}>{label}</span>
+                </button>
+              );
+            })}
           </div>
         </div>
       )}
@@ -1296,65 +1356,111 @@ const styles = {
     borderBottom: "none",
   },
   headerContent: {
-    maxWidth: 820,
+    maxWidth: 1280,
     margin: "0 auto",
     display: "flex",
-    justifyContent: "center",
+    justifyContent: "space-between",
     alignItems: "center",
-    position: "relative",
   },
-  headerLeft: {
+  headerLogo: {
     cursor: "pointer",
     display: "flex",
-    flexDirection: "column",
     alignItems: "center",
-    textAlign: "center",
+    gap: 14,
+  },
+  siteLogo: {
+    height: 52,
+    width: "auto",
+    display: "block",
+  },
+  tagline: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 10,
+    color: "rgba(255,255,255,0.72)",
+    margin: 0,
+    letterSpacing: "1.8px",
+    textTransform: "uppercase",
+    fontWeight: 500,
+  },
+  navBar: {
+    display: "flex",
+    alignItems: "center",
+    gap: 4,
+  },
+  navItem: {
+    background: "transparent",
+    border: "none",
+    color: "rgba(255,255,255,0.8)",
+    padding: "10px 14px",
+    cursor: "pointer",
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 13,
+    fontWeight: 600,
+    letterSpacing: "0.5px",
+    borderRadius: 8,
+    transition: "all 0.2s",
+  },
+  navItemActive: {
+    color: "#ffffff",
+    background: "rgba(255,255,255,0.14)",
+  },
+  navDropdownWrap: {
+    position: "relative",
+  },
+  navDropdown: {
+    position: "absolute",
+    top: "100%",
+    left: "50%",
+    transform: "translateX(-50%)",
+    background: "#ffffff",
+    borderRadius: 10,
+    boxShadow: "0 16px 48px rgba(26,28,28,0.18), 0 4px 12px rgba(26,28,28,0.08)",
+    border: "1px solid rgba(43,80,84,0.12)",
+    padding: "8px 0",
+    minWidth: 220,
+    zIndex: 200,
+  },
+  navDropdownItem: {
+    background: "transparent",
+    border: "none",
+    color: "#2f3335",
+    padding: "10px 18px",
+    width: "100%",
+    textAlign: "left",
+    cursor: "pointer",
+    display: "flex",
+    alignItems: "center",
+    gap: 12,
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 13,
+    fontWeight: 500,
+    transition: "all 0.15s",
+    borderRadius: 0,
+  },
+  navDropdownItemActive: {
+    color: "#2B5054",
+    background: "rgba(43,80,84,0.06)",
+  },
+  navDropdownItemText: {
+    display: "flex",
+    flexDirection: "column",
+    gap: 1,
+  },
+  navDropdownItemSub: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 10,
+    color: "#7B8F92",
+    letterSpacing: "0.3px",
+    fontWeight: 500,
   },
   headerControls: {
-    position: "absolute",
-    right: 0,
-    top: "50%",
-    transform: "translateY(-50%)",
     display: "flex",
     alignItems: "center",
     gap: 10,
   },
-  siteLogo: {
-    height: 58,
-    width: "auto",
-    display: "block",
-  },
-  siteName: {
-    fontSize: 28,
-    fontWeight: 400,
-    margin: 0,
-    letterSpacing: "-0.3px",
-    color: "#2B5054",
-  },
-  tagline: {
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 11,
-    color: "rgba(255,255,255,0.78)",
-    margin: "2px 0 0 0",
-    letterSpacing: "1.6px",
-    textTransform: "uppercase",
-    fontWeight: 500,
-  },
-  menuToggle: {
-    background: "rgba(255,255,255,0.08)",
-    border: "1px solid rgba(192, 200, 201, 0.2)",
-    color: "#f6f8f8",
-    fontSize: 18,
-    padding: "10px 16px",
-    borderRadius: 8,
-    cursor: "pointer",
-    fontFamily: "'Public Sans', sans-serif",
-    fontWeight: 600,
-    transition: "all 0.2s",
-  },
   langToggle: {
     background: "transparent",
-    border: "1px solid rgba(192, 200, 201, 0.2)",
+    border: "1px solid rgba(192, 200, 201, 0.25)",
     color: "#f6f8f8",
     fontSize: 12,
     padding: "8px 14px",
@@ -1365,88 +1471,70 @@ const styles = {
     letterSpacing: "0.5px",
     transition: "all 0.2s",
   },
-  // Navigation
-  menuDropdown: {
-    background: "rgba(43, 80, 84, 0.82)",
+  menuToggle: {
+    background: "rgba(255,255,255,0.1)",
+    border: "1px solid rgba(192, 200, 201, 0.25)",
+    color: "#f6f8f8",
+    fontSize: 16,
+    padding: "8px 14px",
+    borderRadius: 8,
+    cursor: "pointer",
+    fontFamily: "'Public Sans', sans-serif",
+    fontWeight: 600,
+    transition: "all 0.2s",
+  },
+  // Mobile menu
+  mobileMenu: {
+    background: "rgba(43, 80, 84, 0.95)",
     backdropFilter: "blur(20px)",
     borderBottom: "1px solid rgba(255,255,255,0.08)",
-    padding: "6px 0 10px",
-    display: "flex",
-    flexWrap: "wrap",
-    gap: 0,
-    zIndex: 100,
+    padding: "10px 0 16px",
   },
-  menuSection: {
-    flex: "1 1 240px",
-    minWidth: 180,
-    padding: "6px 16px",
-    borderRight: "1px solid rgba(255,255,255,0.08)",
+  mobileMenuSection: {
+    padding: "4px 16px",
+    borderBottom: "1px solid rgba(255,255,255,0.06)",
+    marginBottom: 6,
   },
-  menuGroupHeader: {
+  mobileMenuGroupHeader: {
     fontFamily: "'Public Sans', sans-serif",
     fontSize: 9,
-    color: "rgba(255,255,255,0.55)",
+    color: "rgba(255,255,255,0.5)",
     letterSpacing: "2px",
     textTransform: "uppercase",
     fontWeight: 700,
-    marginBottom: 6,
-    paddingBottom: 4,
-    borderBottom: "1px solid rgba(255,255,255,0.1)",
+    padding: "8px 0 4px",
   },
-  menuGroupItems: {
-    display: "flex",
-    flexDirection: "column",
-    gap: 2,
-  },
-  menuGroupToggle: {
+  mobileMenuItem: {
     background: "transparent",
     border: "none",
-    color: "#f5f7f7",
-    padding: "10px 12px",
-    textAlign: "left",
-    cursor: "pointer",
-    borderRadius: 6,
-    display: "flex",
-    alignItems: "center",
-    gap: 10,
-    transition: "all 0.2s",
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 14,
-    fontWeight: 500,
+    color: "rgba(245,247,247,0.85)",
+    padding: "9px 8px",
     width: "100%",
-  },
-  menuItem: {
-    background: "transparent",
-    border: "none",
-    color: "rgba(245,247,247,0.82)",
-    padding: "8px 10px",
     textAlign: "left",
     cursor: "pointer",
-    borderRadius: 6,
     display: "flex",
     alignItems: "center",
     gap: 10,
-    transition: "all 0.2s",
     fontFamily: "'Public Sans', sans-serif",
     fontSize: 13,
     fontWeight: 500,
-    width: "100%",
+    borderRadius: 6,
+    transition: "all 0.15s",
   },
-  menuItemActive: {
+  mobileMenuItemActive: {
     color: "#ffffff",
-    background: "rgba(255,255,255,0.12)",
+    background: "rgba(255,255,255,0.1)",
   },
-  menuItemText: {
+  mobileMenuItemText: {
     display: "flex",
     flexDirection: "column",
     gap: 1,
   },
-  menuItemSub: {
+  mobileMenuItemSub: {
     fontFamily: "'Public Sans', sans-serif",
     fontSize: 10,
-    color: "rgba(255,255,255,0.6)",
+    color: "rgba(255,255,255,0.55)",
     letterSpacing: "0.3px",
-    fontWeight: 400,
   },
   techSubNav: {
     display: "flex",
