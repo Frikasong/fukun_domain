@@ -312,6 +312,7 @@ function App() {
   const [activeSection, setActiveSection] = useState("about");
   const [view, setView] = useState("grid"); // "grid" | "editor"
   const [editing, setEditing] = useState(null);
+  const [selectedEntry, setSelectedEntry] = useState(null);
   const [form, setForm] = useState({ title: "", date: "", body: "", images: [], attachments: [], section: "tech" });
   const [menuOpen, setMenuOpen] = useState(false);
   const [lang, setLang] = useState("en");
@@ -363,6 +364,11 @@ function App() {
     setEditing(entry);
     setFileStatus("");
     setView("editor");
+  };
+
+  const openPost = (entry) => {
+    setSelectedEntry(entry);
+    setView("post");
   };
 
   const saveEntry = async () => {
@@ -576,9 +582,17 @@ function App() {
             onNew={openNew}
             onEdit={openEdit}
             onDelete={deleteEntry}
+            onOpenPost={openPost}
             onAddComment={addComment}
             onDeleteComment={deleteComment}
             setActiveSection={setActiveSection}
+            T={T}
+            lang={lang}
+          />
+        ) : view === "post" ? (
+          <PostView
+            entry={selectedEntry}
+            onBack={() => setView("grid")}
             T={T}
             lang={lang}
           />
@@ -620,7 +634,7 @@ function App() {
 // ═══════════════════════════════════════════════════════════════════════════
 // GRID VIEW
 // ═══════════════════════════════════════════════════════════════════════════
-function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddComment, onDeleteComment, setActiveSection, T, lang }) {
+function GridView({ section, entries, comments, onNew, onEdit, onDelete, onOpenPost, onAddComment, onDeleteComment, setActiveSection, T, lang }) {
   const sectionLabel = T.nav[section.id] || section.name;
   const sectionSub = T.nav[section.id + "Sub"] || section.subtitle;
 
@@ -663,7 +677,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
 
   // Special handling for Tech section (sub-tabs: Insights | Tools | Observations | AI Lab)
   if (section.id === "tech") {
-    return <TechView entries={entries} comments={comments} onNew={onNew} onEdit={onEdit} onDelete={onDelete} onAddComment={onAddComment} onDeleteComment={onDeleteComment} setActiveSection={setActiveSection} T={T} lang={lang} />;
+    return <TechView entries={entries} comments={comments} onNew={onNew} onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} onAddComment={onAddComment} onDeleteComment={onDeleteComment} setActiveSection={setActiveSection} T={T} lang={lang} />;
   }
 
   // Special handling for Contact section
@@ -762,6 +776,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
               comments={comments[entry.id] || []}
               onEdit={onEdit}
               onDelete={onDelete}
+              onOpenPost={onOpenPost}
               onAddComment={onAddComment}
               onDeleteComment={onDeleteComment}
               T={T}
@@ -777,8 +792,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onAddCo
 // ═══════════════════════════════════════════════════════════════════════════
 // ENTRY CARD
 // ═══════════════════════════════════════════════════════════════════════════
-function EntryCard({ entry, comments, onEdit, onDelete, onAddComment, onDeleteComment, T, lang }) {
-  const [expanded, setExpanded] = useState(false);
+function EntryCard({ entry, comments, onEdit, onDelete, onOpenPost, onAddComment, onDeleteComment, T, lang }) {
   const [showComments, setShowComments] = useState(false);
   const [commentName, setCommentName] = useState("");
   const [commentText, setCommentText] = useState("");
@@ -812,10 +826,10 @@ function EntryCard({ entry, comments, onEdit, onDelete, onAddComment, onDeleteCo
         </div>
 
         {/* Body Preview */}
-        <p style={styles.cardBody}>{expanded ? entry.body : preview}</p>
+        <p style={styles.cardBody}>{preview}</p>
         {entry.body.length > 180 && (
-          <button style={styles.toggleBtn} onClick={() => setExpanded(!expanded)}>
-            {expanded ? T.common.showLess : T.common.readMore}
+          <button style={styles.toggleBtn} onClick={() => onOpenPost(entry)}>
+            {T.common.readMore}
           </button>
         )}
 
@@ -894,6 +908,69 @@ function buildTranslateUrl(url, lang, region) {
   return `https://translate.google.com/translate?sl=auto&tl=${encodeURIComponent(targetLang)}&u=${encodeURIComponent(url)}`;
 }
 
+function PostView({ entry, onBack, T, lang }) {
+  if (!entry) {
+    return (
+      <div style={styles.postWrap}>
+        <button style={styles.postBackBtn} onClick={onBack}>{T.editor.back}</button>
+      </div>
+    );
+  }
+
+  const formattedDate = entry.date
+    ? new Date(entry.date + "T12:00:00").toLocaleDateString(lang === "zh" ? "zh-CN" : "en-CA", {
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+      })
+    : "";
+  const galleryLabel = lang === "zh" ? "图片" : "Gallery";
+  const attachmentsLabel = lang === "zh" ? "附件" : "Attachments";
+
+  return (
+    <article style={styles.postWrap}>
+      <button style={styles.postBackBtn} onClick={onBack}>{T.editor.back}</button>
+
+      {entry.images && entry.images.length > 0 && (
+        <div style={styles.postHero}>
+          <img src={entry.images[0].data} alt={entry.title} style={styles.postHeroImg} />
+        </div>
+      )}
+
+      <header style={styles.postHeader}>
+        <h1 style={{ ...styles.postTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{entry.title}</h1>
+        {formattedDate && <p style={styles.postDate}>{formattedDate}</p>}
+      </header>
+
+      <div style={styles.postBody}>{entry.body}</div>
+
+      {entry.images && entry.images.length > 1 && (
+        <section style={styles.postSection}>
+          <h3 style={styles.postSectionTitle}>{galleryLabel}</h3>
+          <div style={styles.postGallery}>
+            {entry.images.slice(1).map((img, i) => (
+              <img key={i} src={img.data} alt={img.name} style={styles.postGalleryImg} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {entry.attachments && entry.attachments.length > 0 && (
+        <section style={styles.postSection}>
+          <h3 style={styles.postSectionTitle}>{attachmentsLabel}</h3>
+          <div style={styles.postAttachmentList}>
+            {entry.attachments.map((att, i) => (
+              <a key={i} href={att.data} download={att.name} style={styles.postAttachmentItem}>
+                📎 {att.name}
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+    </article>
+  );
+}
+
 function NewsRadarPanel({ title, subtitle, items, region, loading, error, T, lang }) {
   const shown = (items || []).slice(0, 12);
 
@@ -950,7 +1027,7 @@ function NewsRadarPanel({ title, subtitle, items, region, loading, error, T, lan
 // ═══════════════════════════════════════════════════════════════════════════
 // TECH VIEW (2 sub-tabs: Legal Tech Lab | Observations & Insights)
 // ═══════════════════════════════════════════════════════════════════════════
-function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, onDeleteComment, setActiveSection, T, lang }) {
+function TechView({ entries, comments, onNew, onEdit, onDelete, onOpenPost, onAddComment, onDeleteComment, setActiveSection, T, lang }) {
   const [activeTab, setActiveTab] = useState("lab");
   const [newsLoading, setNewsLoading] = useState(true);
   const [newsError, setNewsError] = useState("");
@@ -1107,7 +1184,7 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
             <div style={styles.grid}>
               {insightEntries.map((entry) => (
                 <EntryCard key={entry.id} entry={entry} comments={comments[entry.id] || []}
-                  onEdit={onEdit} onDelete={onDelete} onAddComment={onAddComment} onDeleteComment={onDeleteComment} T={T} lang={lang} />
+                  onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} onAddComment={onAddComment} onDeleteComment={onDeleteComment} T={T} lang={lang} />
               ))}
             </div>
           )}
@@ -1129,7 +1206,7 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onAddComment, on
             <div style={styles.grid}>
               {obsEntries.map((entry) => (
                 <EntryCard key={entry.id} entry={entry} comments={comments[entry.id] || []}
-                  onEdit={onEdit} onDelete={onDelete} onAddComment={onAddComment} onDeleteComment={onDeleteComment} T={T} lang={lang} />
+                  onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} onAddComment={onAddComment} onDeleteComment={onDeleteComment} T={T} lang={lang} />
               ))}
             </div>
           )}
@@ -1740,6 +1817,96 @@ const styles = {
     padding: 0,
     fontFamily: "'Public Sans', sans-serif",
     fontWeight: 500,
+  },
+  postWrap: {
+    maxWidth: 920,
+    margin: "0 auto",
+    background: "#ffffff",
+    borderRadius: 6,
+    padding: "22px 24px 34px",
+    boxShadow: "0 40px 40px -10px rgba(26, 28, 28, 0.04)",
+  },
+  postBackBtn: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 12,
+    background: "transparent",
+    color: "#2B5054",
+    border: "1px solid rgba(53, 102, 106, 0.3)",
+    borderRadius: 20,
+    padding: "8px 14px",
+    cursor: "pointer",
+    marginBottom: 14,
+  },
+  postHero: {
+    width: "100%",
+    borderRadius: 4,
+    overflow: "hidden",
+    marginBottom: 18,
+  },
+  postHeroImg: {
+    width: "100%",
+    maxHeight: 420,
+    objectFit: "cover",
+    display: "block",
+  },
+  postHeader: {
+    marginBottom: 16,
+  },
+  postTitle: {
+    fontFamily: "'Newsreader', serif",
+    fontSize: "clamp(34px, 5vw, 54px)",
+    fontWeight: 500,
+    fontStyle: "italic",
+    margin: "0 0 8px 0",
+    color: "#13181a",
+    lineHeight: 0.95,
+  },
+  postDate: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 12,
+    color: "#7FA3A7",
+    margin: 0,
+  },
+  postBody: {
+    fontFamily: "'Newsreader', serif",
+    fontSize: 20,
+    lineHeight: 1.9,
+    color: "#2f3335",
+    whiteSpace: "pre-wrap",
+  },
+  postSection: {
+    marginTop: 24,
+  },
+  postSectionTitle: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 11,
+    color: "#35666a",
+    margin: "0 0 10px 0",
+    letterSpacing: "1.8px",
+    textTransform: "uppercase",
+    fontWeight: 700,
+  },
+  postGallery: {
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fill, minmax(180px, 1fr))",
+    gap: 12,
+  },
+  postGalleryImg: {
+    width: "100%",
+    height: 140,
+    objectFit: "cover",
+    borderRadius: 4,
+  },
+  postAttachmentList: {
+    display: "flex",
+    flexDirection: "column",
+    gap: 8,
+  },
+  postAttachmentItem: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 13,
+    color: "#2B5054",
+    textDecoration: "none",
   },
   cardGallery: {
     display: "grid",
