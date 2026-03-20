@@ -1854,7 +1854,7 @@ const styles = {
   },
   postTitle: {
     fontFamily: "'Newsreader', serif",
-    fontSize: "clamp(34px, 5vw, 54px)",
+    fontSize: "clamp(24px, 3.5vw, 32px)",
     fontWeight: 500,
     fontStyle: "italic",
     margin: "0 0 8px 0",
