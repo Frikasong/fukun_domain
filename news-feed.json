@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-03-20T06:43:59.761Z",
+  "generatedAt": "2026-03-20T12:39:52.072Z",
   "highlights": {
     "na": [],
     "cn": []
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/20/claude-legal-prompt-shock-legalon-gpt-5-4-review-legal-innovators",
+        "title": "Claude Legal Prompt Shock, LegalOn GPT 5.4 Review, Legal Innovators +",
+        "url": "https://www.artificiallawyer.com/2026/03/20/claude-legal-prompt-shock-legalon-gpt-5-4-review-legal-innovators/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-20T08:26:12.000Z",
+        "summary": "We start this week’s Wrap with a real shocker! A chap on Twitter named Nav Toor, (see images), published 12 quite detailed legal prompts for ...",
+        "category": "skills",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/milwaukees&",
         "title": "AG Bondi gives ousted interim federal prosecutor new title, same duties",
@@ -303,16 +313,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-03-17T08:24:30.000Z",
         "summary": "Legal AI companies are resorting to ‘brutal’ low-ball tactics in order to win customers as the battle for market share becomes increasingly intense, Artificial Lawyer ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/17/the-growth-ceiling-hiding-inside-large-law-firms",
-        "title": "The Growth Ceiling Hiding Inside Large Law Firms",
-        "url": "https://www.artificiallawyer.com/2026/03/17/the-growth-ceiling-hiding-inside-large-law-firms/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-17T07:40:04.000Z",
-        "summary": "By Ben Nicholson, General Manager, Enterprise UK at Clio. Spend enough time inside large law firms and a pattern emerges. Partners talk about growth. Leadership ...",
         "category": "updates",
         "region": "na"
       },
@@ -1209,12 +1209,242 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/scyozrqrtzztavdzhoc1",
+        "title": "跨越数据孤岛：实现 100 家全球酒店绩效秒级监控的实战指南 ｜技术实践",
+        "url": "https://www.infoq.cn/article/scYOzRqRtZztaVDZhOc1?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-20T18:53:36.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/brvufj2squflrucq3qrv",
+        "title": "「百虾大战」战火持续，阶跃星辰发布桌面端 StepClaw，接入「水产市场」",
+        "url": "https://www.infoq.cn/article/bRvUfJ2sqUFlrUcQ3qrV?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-20T18:36:37.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/z791ixt2ahua0fiz0pcs",
+        "title": "为应对“AI垃圾”满天飞，arXiv脱离康奈尔大学单独运营",
+        "url": "https://www.infoq.cn/article/Z791iXT2AhuA0Fiz0pcs?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-20T18:30:58.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/cnnpbuuylvhgnxeaqlzf",
+        "title": "腾讯QClaw“龙虾”全量公测：20 秒装完，微信一句话远程控电脑",
+        "url": "https://www.infoq.cn/article/cNNPBUuylvHgNXEaQlZf?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-20T18:30:44.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/l7lki978i4pjylahabiz",
+        "title": "OpenAI推出“超级应用”，开抢Anthropic的企业客户",
+        "url": "https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-20T18:11:50.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/mptlqz7oj5lfliozibhe",
+        "title": "Claude Code、Cursor 可能都躲不过一次“大重写”，但 OpenCode 也许是例外",
+        "url": "https://www.infoq.cn/article/mpTLQz7Oj5lfLIoZiBhE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-20T17:55:35.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hyu9qhmihr7omet0lmzt",
+        "title": "一条被开发者踩出来的路：OpenClaw“涌进”飞书",
+        "url": "https://www.infoq.cn/article/hYU9QHMihr7oMET0lmZt?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-20T17:26:06.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/sbmemgzadmeydruwzswi",
+        "title": "Cursor自研新模型反超Opus 4.6，价格还“打一折”！网友实测：只有它写完应用能一次跑通",
+        "url": "https://www.infoq.cn/article/sbMemGzadMeYDRuwZSWi?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-20T16:20:07.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/gret2ljeoa4wqm35qmid",
+        "title": "Claude挖出22个Firefox漏洞",
+        "url": "https://www.infoq.cn/article/GRET2LJeoa4WQm35qmiD?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-20T15:45:23.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hw8wlqbkssmqge5b00uq",
+        "title": "谷歌BigQuery提供了分布式数据跨区域SQL查询的预览功能",
+        "url": "https://www.infoq.cn/article/HW8wlQbkssMqgE5B00uQ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-20T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/btrvfcaqpxkzrdwgev6a",
         "title": "伊朗冲突致多座AWS数据中心受损，多可用区部署假设面临挑战",
         "url": "https://www.infoq.cn/article/bTRVfCAqpXkZrDwGev6a?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-20T14:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731263773311233",
+        "title": "汤臣倍健：2025年归母净利润7.82亿元，同比增长19.81%",
+        "url": "https://36kr.com/newsflashes/3731263773311233?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:37:47.000Z",
+        "summary": "36氪获悉，汤臣倍健发布2025年业绩报告。报告显示，2025年实现营业收入62.65亿元，同比下降8.38%；归属于上市公司股东的净利润7.82亿元，同比增长19.81%；基本每股收益0.47元。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731263018074370",
+        "title": "上海银行：2025年净利润241.93亿元，同比增长2.69%",
+        "url": "https://36kr.com/newsflashes/3731263018074370?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:37:01.000Z",
+        "summary": "36氪获悉，上海银行发布2025年业绩报告。报告显示，2025年实现营业收入547.61亿元，同比增长3.35%；归母净利润241.93亿元，同比增长2.69%。2025年末集团不良贷款率1.18%，与上年末持平。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731262495506439",
+        "title": "MOVA AtomForm将赴美国硅谷发布首款智能12喷嘴3D打印机",
+        "url": "https://36kr.com/newsflashes/3731262495506439?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:36:29.000Z",
+        "summary": "36氪获悉，MOVA AtomForm宣布将于美国圣何塞时间3月24日13时（北京时间3月25日凌晨4时）在美国硅谷举行产品发布会，正式推出首款拥有智能12喷嘴的桌面级3D打印机Palette 300。据MOVA AtomForm此前透露，该3D打印机搭载OmniElement™全自动喷嘴切换系统，配备12个独立喷嘴，最高支持36种颜色与12种材料的一体打印，使换料速度提升50%，材料浪费减少90%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731257992970504",
+        "title": "德福科技：拟收购慧儒科技35.15%股权并增资，合计持股51.16%",
+        "url": "https://36kr.com/newsflashes/3731257992970504?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:31:54.000Z",
+        "summary": "36氪获悉，德福科技公告，公司拟以现金1.02亿元收购安徽慧儒科技有限公司35.15%股权，并与深圳慧儒共同向慧儒科技增资，其中德福科技增资8405.55万元。本次交易完成后，德福科技将合计持有慧儒科技51.16%股权，慧儒科技将成为公司控股子公司。本次收购及增资事项不构成关联交易和重大资产重组，已获董事会审议通过，无需提交股东大会审议。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731255547150343",
+        "title": "平安银行：2025年归母净利润426.33亿元，同比下降4.20%",
+        "url": "https://36kr.com/newsflashes/3731255547150343?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:29:25.000Z",
+        "summary": "36氪获悉，平安银行发布2025年业绩报告。报告显示，2025年实现营业收入1314.42亿元，同比下降10.40%；归属于本行股东的净利润426.33亿元，同比下降4.20%；基本每股收益2.07元。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731251967541252",
+        "title": "何小鹏：第二代VLA拉动日均试驾量与Ultra版本车型销量均翻倍",
+        "url": "https://36kr.com/newsflashes/3731251967541252?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:25:46.000Z",
+        "summary": "36氪获悉，2025年业绩会上，小鹏汽车CEO何小鹏表示，为实现从L2+向L4跨越并推动全球部署，公司对自动驾驶技术架构进行了重构。第二代VLA模型已开始向用户陆续推送，这是面向L4全自动驾驶时代交付的首个版本。当前，小鹏全国732家门店已全面开放第二代VLA试驾，3月日均试驾量环比提升一倍，Ultra及Ultra SE车型销量占比提升超过一倍。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731248353083401",
+        "title": "Eightco对OpenAI追加投资4000万美元",
+        "url": "https://36kr.com/newsflashes/3731248353083401?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:22:06.000Z",
+        "summary": "Eightco公司3月20日宣布向OpenAI追加投资4000万美元，此次投资紧随公司此前5000万美元的投资之后，使Eightco对OpenAI总投资额达到9000万美元。随着此次最新投资，OpenAI目前约占Eightco总持仓的30%。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731246006665223",
+        "title": "苹果CEO库克来华：中国对我们来说依旧是最重要的伙伴",
+        "url": "https://36kr.com/newsflashes/3731246006665223?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:19:43.000Z",
+        "summary": "中国贸促会会长任鸿斌3月20日在京会见美国苹果公司首席执行官蒂姆·库克。苹果公司首席执行官 蒂姆·库克：中国依旧是我们最重要的供应链合作伙伴。总台央视记者 杨理天：请用一个词形容中国市场对于苹果的意义？蒂姆·库克：非常重要，中国贸促会一直是我们至关重要的合作伙伴，我们非常高兴能够再次交流、共商发展方向，探讨眼前的诸多发展机遇。中国对我们而言至关重要，我们还会继续来中国。（央视新闻）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731239890731264",
+        "title": "“章鱼动力”获近5000万美元首轮融资",
+        "url": "https://36kr.com/newsflashes/3731239890731264?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:13:29.000Z",
+        "summary": "36氪获悉，专注物理AGI领域的“章鱼动力”（SynapX）正式官宣完成近5000万美元首轮融资，本轮由地平线、高瓴创投、小米战投、顺为资本、线性资本五大顶级机构联合投资。据披露，本轮融资资金将定向投入三大核心板块：核心技术与产品研发、全模态数据体系搭建、全球顶尖人才引进。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731234957557765",
+        "title": "新金路：实控人、董事长刘江东拟减持不超2%公司股份",
+        "url": "https://36kr.com/newsflashes/3731234957557765?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:08:28.000Z",
+        "summary": "36氪获悉，新金路公告，第一大股东、实际控制人、董事长刘江东拟以集中竞价交易方式和大宗交易方式减持不超过2%的公司股份，合计不超过1297.09万股，其中，集中竞价交易方式减持不超过1%公司股份，大宗交易方式减持1%公司股份。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731234623914242",
+        "title": "马斯克称Cursor新模型基于K2.5微调",
+        "url": "https://36kr.com/newsflashes/3731234623914242?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:08:08.000Z",
+        "summary": "36氪获悉，编程工具Cursor今天凌晨发布自研前沿编码模型Composer 2，因在测评中超过Claude Opus 4.6并主打性价比引发行业广泛关注。但很快有开发者发现，Composer 2是基于Kimi K2.5微调而来，马斯克也在社交媒体发文表示，“是的，这就是Kimi K2.5。”这是一周内马斯克再次点名Kimi。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731227662401536",
+        "title": "深交所：对“ST 京蓝”异常交易相关投资者采取暂停交易等措施",
+        "url": "https://36kr.com/newsflashes/3731227662401536?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:01:03.000Z",
+        "summary": "36氪获悉，深交所发布通知，2026年3月16日至3月20日，本所共对148起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形；共对18起上市公司重大事项进行核查。近期“ST 京蓝”股价出现严重异常波动，公司停牌核查并发布风险提示公告，部分投资者在交易该股过程中存在影响股票交易正常秩序的异常交易行为，本所依规对相关投资者采取了暂停交易等自律监管措施。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731224882446340",
+        "title": "复宏汉霖：2025年实现营收66.666亿元，同比增长16.5%",
+        "url": "https://36kr.com/newsflashes/3731224882446340?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T11:58:13.000Z",
+        "summary": "36氪获悉，复宏汉霖发布2025年年度业绩。业绩期内，公司实现营收66.666亿元，同比增长16.5%；净利润8.270亿元，公司全年研发投入达24.919亿元，同比增长35.4%，在持续加大创新投入的背景下，研发投入前利润达23.425亿元，同比增长26.2%。这是公司自2023年首次实现全年盈利以来，连续三年实现营收、利润双增长，展现出稳健的盈利韧性和高质量增长能力。",
         "category": "updates",
         "region": "cn"
       },
@@ -1229,12 +1459,102 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3731214572732679",
+        "title": "湘财股份：2025年净利润同比增长325.15%",
+        "url": "https://36kr.com/newsflashes/3731214572732679?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T11:47:44.000Z",
+        "summary": "36氪获悉，湘财股份发布2025年业绩报告。报告显示，公司2025年度实现营业收入24.20亿元，同比增长10.37%；归属于上市公司股东的净利润为4.64亿元，同比增长325.15%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731209079292163",
+        "title": "舍得酒业：2025年净利润同比下降35.51%，拟10派3.1元",
+        "url": "https://36kr.com/newsflashes/3731209079292163?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T11:42:09.000Z",
+        "summary": "36氪获悉，舍得酒业发布2025年度报告。报告显示，2025年营业收入44.19亿元，同比下降17.51%；归母净利润2.23亿元，同比下降35.51%；基本每股收益0.6803元。公司拟每10股派发现金红利3.1元（含税）。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731202894921984",
+        "title": "宇树：计划在3年内发布“通用人形机器人具身基础模型”",
+        "url": "https://36kr.com/newsflashes/3731202894921984?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T11:35:51.000Z",
+        "summary": "3月20日消息，上交所受理宇树科技股份有限公司科创板IPO申请，拟融资金额42.02亿元。根据公开发布的预先审阅申请文件的第二轮问询函的回复，在模型迭代层面，宇树计划在3年内发布“通用人形机器人具身基础模型”，该模型将系统性地具备场景泛化、指令泛化、动作泛化与任务泛化四大核心能力，可高效赋能生产、制造等领域中标准化垂直场景，实现“云端模型训练—端侧推理执行—线上数据采集”的完整闭环。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731194292928777",
+        "title": "黄仁勋谈太空数据中心：直接在太空处理数据是合乎逻辑的 太空冷却是最大难题之一",
+        "url": "https://36kr.com/newsflashes/3731194292928777?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T11:27:06.000Z",
+        "summary": "英伟达CEO黄仁勋在一档播客节目中承认了轨道计算的长期潜力。黄仁勋称，直接在太空处理数据（而不是将其传回地球）是合乎逻辑的下一步。与此同时，他也暗示在太空建立AI数据中心可能比想象中更难，并指出冷却是最大难题之一。“太空冷却只能使用辐射散热，”黄仁勋说道，“这种方式需要非常大面积的散热装置，这样一来，系统就会变得复杂且成本高昂。”他表示，公司已在卫星上部署基于CUDA的系统，用于执行成像和AI处理任务。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731189787148545",
+        "title": "雪浪环境：公司签署重整投资协议，下周一起复牌",
+        "url": "https://36kr.com/newsflashes/3731189787148545?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T11:22:31.000Z",
+        "summary": "36氪获悉，雪浪环境公告，公司与上海氦星万联科技发展合伙企业(有限合伙)等四方及预重整引导人签署《重整投资协议》，并与上海氦星光曜科技发展合伙企业签署附属协议。根据协议，重整完成后氦星万联将成为公司控股股东。公司股票自2026年3月23日上午开市起复牌。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731177358803209",
+        "title": "优刻得：拟定增募资不超过15亿元，用于乌兰察布智算中心及智算集群建设运营项目",
+        "url": "https://36kr.com/newsflashes/3731177358803209?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T11:09:53.000Z",
+        "summary": "36氪获悉，优刻得公告，公司第三届董事会第十一次会议审议通过2026年度向特定对象发行A股股票相关议案。本次发行拟募资总额不超过15亿元，扣除发行费用后将全部用于“优刻得乌兰察布智算中心及智算集群建设运营项目”。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3731169592918273",
+        "title": "氪星晚报｜迪卡侬正式入驻拼多多；特斯拉计划2026年批量交付Semi电动卡车，价格或低于30万美元；消息人士：马斯克团队采购光伏设备预计将在5月第一周发货",
+        "url": "https://36kr.com/p/3731169592918273?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T11:08:25.000Z",
+        "summary": "大公司： 小鹏汽车：预计第一季度交付量61000辆-66000辆，同比减少29.8%-35.1% 36氪获悉，小鹏汽车发布2025年第四季度及全年财报。财报显示，对于2026年第一季度，本公司预期汽车交付量将介乎61000-66000辆，按年减少约29.79%-35.11%。总收入将介乎122.0亿元-132.8亿元，按年减少约16.01%-22.84%。 北京汽车：王昊由于工作变动将不再担任董事长，提名张国富任董事长 36氪获悉，北京",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731169955348486",
+        "title": "集友股份：2025年净亏损1820万元，公司股票将被实施退市风险警示",
+        "url": "https://36kr.com/newsflashes/3731169955348486?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T11:02:21.000Z",
+        "summary": "36氪获悉，集友股份发布2025年业绩报告。报告显示，公司2025年营业收入为1.71亿元，归属于母公司所有者的净利润为-1820.48万元，扣除非经常性损益后的净利润为-2360.27万元。因净利润为负且营业收入低于3亿元，根据《股票上市规则》相关规定，公司股票将在年报披露后被实施退市风险警示（股票简称前加“*ST”）。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/ci5daafmzha1iwn2z6zd",
         "title": "深圳 17 岁高中生回应成 Kimi 论文第一作者：不要造神，成果属于团队",
         "url": "https://www.infoq.cn/article/CI5daAFmzhA1IWN2Z6zD?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-20T10:39:02.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3731096049795078",
+        "title": "阿迪达斯，不看好2026的自己",
+        "url": "https://36kr.com/p/3731096049795078?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T10:30:59.000Z",
+        "summary": "作者 | 谢芸子 编辑 | 张帆 封面来源 | 企业官微 阿迪达斯几乎交出了近年来的最好业绩。 在彻底摆脱“椰子”的第一个完整财年，这家老牌德国体育用品集团2025年的全球营收达到248亿欧元（约合1993亿元人民币），营收增幅13%，创历史新高；归属股东净利润为13.4亿欧元，毛利率也创历史新高达到51.6%。 36氪根据财报数据制图，单位：亿欧元 具体拆分区域，按货币中性计算，各大区域市场均增长10%以上（剔除Yeezy影响）。其中",
         "category": "updates",
         "region": "cn"
       },
@@ -1269,202 +1589,32 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3730915579461636",
-        "title": "沪指午后跌超1%",
-        "url": "https://36kr.com/newsflashes/3730915579461636?f=rss",
+        "id": "36Kr:36kr.com/p/3731094987407617",
+        "title": "RENOGY 如果新能源：如何用16年时间打造一家Global Native公司｜出海踏浪者",
+        "url": "https://36kr.com/p/3731094987407617?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-20T06:43:35.000Z",
-        "summary": "36氪获悉，沪指午后跌超1%，深证成指震荡下挫接近翻绿，创业板指涨超1.6%，两市超4500家个股飘绿。",
+        "publishedAt": "2026-03-20T09:49:41.000Z",
+        "summary": "无论是欧洲家庭的户外露营、北美车库的应急备用，还是日本公寓中的防灾储备柜，便携储能产品的身影已遍布全球。 便携储能在欧美地区尤其受欢迎，这一方面源于当地长期以来浓厚的户外露营文化。The Dyrt发布报告称，2024年约有8110万美国人进行了露营活动（包括传统帐篷露营、房车露营等），其中约580万为首次露营者。另一方面，露营的普及对稳定的户外电力供应提出更高要求，而这恰恰也是露营玩家们长期难以解决的痛点。美国部分地区电网老化问题突出，",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3730914452963330",
-        "title": "恒生指数午后持续下挫跌超1%",
-        "url": "https://36kr.com/newsflashes/3730914452963330?f=rss",
+        "id": "36Kr:36kr.com/p/3731048121647361",
+        "title": "沙特土豪超60亿美元收购沐瞳：公司架构不变，张云帆仍是CEO",
+        "url": "https://36kr.com/p/3731048121647361?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-20T06:42:26.000Z",
-        "summary": "36氪获悉，恒生指数午后持续下挫跌超1%，恒生科技指数跌超2%，小米集团跌超7%，阿里巴巴跌6.5%，中国联通、小鹏汽车均跌超4%。",
+        "publishedAt": "2026-03-20T09:34:43.000Z",
+        "summary": "3月20日，沐瞳科技发布公司内部信，宣布公司已被沙特阿拉伯主权财富基金全资控股的游戏巨头Savvy Games Group（简称Savvy）收购。 自字节游戏业务调整后，这场交易就早有传闻，去年底已经有了大致轮廓。双方在2025下半年正式启动谈判，并在2026年初围绕核心条款达成共识，最后Savvy以超60亿美元的价格收购沐瞳的全部股权。 这场交易距离字节收购沐瞳只有5年——彼时的收购价格为40亿美元，如果考虑到谈判和双方讨论时间，这个",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3730906849952006",
-        "title": "沪深两市成交额连续第19个交易日突破2万亿",
-        "url": "https://36kr.com/newsflashes/3730906849952006?f=rss",
+        "id": "36Kr:36kr.com/p/3730996090192130",
+        "title": "求购Anthropic老股份额；求购多家机器人公司老股份额｜资情留言板第181期",
+        "url": "https://36kr.com/p/3730996090192130?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-20T06:34:42.000Z",
-        "summary": "36氪获悉，沪深两市成交额连续第19个交易日突破2万亿。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730905702269189",
-        "title": "协创数据回应服务器采购合规性质疑，股价午后跳水",
-        "url": "https://36kr.com/newsflashes/3730905702269189?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T06:33:32.000Z",
-        "summary": "3月20日午后，算力租赁板块走低，协创数据盘中跳水，一度触及跌停。协创数据大跌，或许是受一则关于公司采购服务器合规性的小作文影响。协创数据迅速就投资者关注的服务器采购合规性问题作出说明。协创数据称，有部分投资者反映，个别海外服务器厂商涉及非法交易。对此，公司经审慎核实后表示，相关事项与公司无任何关联。公司智能算力产品均通过合规商业渠道采购，始终遵循市场规则与法律法规开展业务。（上证报）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730886368329987",
-        "title": "《光伏组件安全要求》等两项强制性国家标准座谈会在京召开",
-        "url": "https://36kr.com/newsflashes/3730886368329987?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T06:13:52.000Z",
-        "summary": "36氪获悉，据工信部消息，2026年3月19日，《光伏组件安全要求》《光伏组件铭牌标识要求》两项强制性国家标准座谈会在京召开，会议重点研究推进两项强制性国家标准制定和实施工作。会议强调，光伏制造企业之间要加强标准引领、安全监管；发电央企要主动优化招投标采购机制，采购过程中要提前对标、主动衔接标准要求，加大对安全问题的重视。各方要协同发力，坚持创新引领，推动光伏行业从“规模领先”向“价值领先”转变，共同构建安全可靠的良性竞争格局，以实际行",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730884457103619",
-        "title": "贾国龙起家的西贝首店将“关闭一半”",
-        "url": "https://36kr.com/newsflashes/3730884457103619?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T06:11:55.000Z",
-        "summary": "贾国龙西贝的创业起始之地、位于北京六里桥的品牌首店即将“关闭一半”。3月19日，记者获悉，西贝北京六里桥旗舰店将会减少一半面积，但不会完全关闭。“没接到通知要关。”该店员工表示，“但后面可能会调整，现在是5层，可能会去掉几层。”他承认是因为目前受到客流减少的压力较大，并且确认自4月1日起，该店将不再接受包厢预订。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730883359850500",
-        "title": "科大讯飞等在北京成立科技公司",
-        "url": "https://36kr.com/newsflashes/3730883359850500?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T06:10:48.000Z",
-        "summary": "36氪获悉，爱企查App显示，近日，量智开物（北京）科技有限公司成立，法定代表人为石琦，注册资本500万元人民币，经营范围包括量子计算技术服务、人工智能理论与算法软件开发、人工智能行业应用系统集成服务等。股东信息显示，该公司由两仪万象（北京）科技有限公司、科大讯飞（北京）有限公司、安徽言知科技有限公司、量智臻融（北京）科技合伙企业（有限合伙）共同持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730878033297669",
-        "title": "前2个月我国邮政行业寄递业务量超330亿件",
-        "url": "https://36kr.com/newsflashes/3730878033297669?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T06:05:23.000Z",
-        "summary": "今天（20日）从国家邮政局了解到，前2个月我国邮政行业寄递业务量超330亿件，行业市场规模稳步增长。国家邮政局最新数据显示，1-2月，邮政行业寄递业务量累计完成331.4亿件，同比增长5.6%。其中，快递业务量累计完成304.9亿件，同比增长7.1%。（央视新闻）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730873699713027",
-        "title": "考虑缩减董事会规模？世界经济论坛回应",
-        "url": "https://36kr.com/newsflashes/3730873699713027?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T06:00:59.000Z",
-        "summary": "据报道，世界经济论坛预计将在未来数月正式讨论缩减由28名成员组成的董事会规模的提案，最早可能在今夏举行的董事会半年一度的线下会议上作出决定。知情人士透露，瑞士联邦基金会监管局（FSAH）已表示，精简董事会是明智之举。世界经济论坛在一份声明中称，“���继续致力于强有力的治理，并将在论坛作为全球对话与合作领先平台持续发展的过程中进一步完善这一机制。目前既无讨论计划，也未作出任何决定”。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730768118890500",
-        "title": "消息人士：马斯克团队采购光伏设备预计将在5月第一周发货",
-        "url": "https://36kr.com/newsflashes/3730768118890500?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T05:50:31.000Z",
-        "summary": "从消息人士获悉，此前马斯克旗下Space X团队向国内某头部异质结设备厂采购设备，该订单预计将于5月第一周发货。类半导体产品出口都需要经过相关部门备案审批，目前还在推进中。据了解，马斯克团队旗下光伏订单主要分为Space X（S链）和Tesla（T链），规划应用场景分别是太空和地面。另据消息人士称，目前T链合作订单还处于洽谈中，涉及多家TOPCon设备厂。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730863185772801",
-        "title": "国能龙源环保接手三菱动力旗下杭州环保设备公司",
-        "url": "https://36kr.com/newsflashes/3730863185772801?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T05:50:17.000Z",
-        "summary": "36氪获悉，爱企查App显示，近日，三菱动力（杭州）环保设备有限公司发生工商变更，原股东三菱动力株式会社退出，新增国能龙源环保有限公司为全资股东，伊藤和典卸任法定代表人，由马卓接任，同时，企业名称更名为国能龙源环保（杭州）有限公司。 国能龙源环保（杭州）有限公司成立于2011年6月，注册资本约1.09亿元人民币，经营范围包括燃煤烟气脱硫脱硝装备制造、环境保护专用设备制造、大气污染治理等。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730853861539840",
-        "title": "摩根大通运用技术监控初级银行员工工作时长",
-        "url": "https://36kr.com/newsflashes/3730853861539840?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T05:40:48.000Z",
-        "summary": "据英国《金融时报》援引匿名知情人士消息，摩根大通银行将推出一项试点计划，向初级银行员工出具报告，对比系统根据其行为自动估算的每周工作时长与员工自行填报的工时表。该行计划在投行部门内更广泛地推广这一项目。系统估算时长基于员工每周的数字轨迹，包括视频会议、桌面键盘敲击记录以及日程会议安排。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730841980977156",
-        "title": "恒生科技指数跌超2%",
-        "url": "https://36kr.com/newsflashes/3730841980977156?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T05:28:43.000Z",
-        "summary": "36氪获悉，恒生科技指数跌超2%，恒生指数跌0.82%；科技股领跌，小米集团、阿里巴巴跌超6%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730828240208131",
-        "title": "LG新能源拟将储能系统业务占比提升一倍至40%左右",
-        "url": "https://36kr.com/newsflashes/3730828240208131?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T05:14:44.000Z",
-        "summary": "LG新能源公司首席执行官金东明周五表示，为顺应市场趋势，公司计划未来将储能系统（ESS）业务占比提升至40%左右。金东明在首尔举行的股东大会上表示：“公司计划未来将储能系统和新业务的占比提升至40%左右，高于目前的20%，从而保持业务组合的稳定均衡。”（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730818708488453",
-        "title": "万丰奥威：公司eVTOL部分机型仍在型号合格证（TC）适航取证中，并争取尽快商业化落地",
-        "url": "https://36kr.com/newsflashes/3730818708488453?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T05:05:02.000Z",
-        "summary": "36氪获悉，万丰奥威在互动平台表示，公司eVTOL部分机型仍在型号合格证（TC）适航取证中，并争取尽快商业化落地；同时公司加大镁合金为主导的轻量化材料应用研发，不断将产品应用从汽车行业推广到轨道交通、5G、低空飞行器等领域。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730767020081152",
-        "title": "米其林中国投资公司注册资本增至3.19亿美元",
-        "url": "https://36kr.com/newsflashes/3730767020081152?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T04:52:17.000Z",
-        "summary": "36氪获悉，爱企查App显示，近日，米其林（中国）投资有限公司发生工商变更，注册资本由2.24亿美元增至3.19亿美元，增幅约42%。该公司成立于2001年12月，法定代表人为叶菲，经营范围包括投资管理、轮胎销售、汽车零配件批发、机动车修理和维护等。股东信息显示，该公司由COMPAGNIE FINANCIERE MICHELIN全资持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730804701167874",
-        "title": "腾讯QClaw正式开启全量公测",
-        "url": "https://36kr.com/newsflashes/3730804701167874?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T04:50:47.000Z",
-        "summary": "36氪获悉，3月20日，腾讯QClaw正式开启全量公测。新版本持续优化微信生态体验，同时打通企业微信、QQ、飞书、钉钉等多平台远控通道，进一步拓展AI协作入口。“龙虾像素工作室”、定时任务等特色功能也在本次公测中正式开放。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730765402259464",
-        "title": "机构：泰国近期旅游业势头或将减弱",
-        "url": "https://36kr.com/newsflashes/3730765402259464?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T04:41:39.000Z",
-        "summary": "RHB Bank的Barnabas Gan在一份报告中表示，在风险上升的情况下，泰国近期的旅游业势头似乎正在减弱。从1月1日到3月11日，游客到访量同比下降4.4%。这一下降主要是由于包括春节在内的季节性因素。Gan表示，外部冲击进一步拖累了游客到访量的下降，其中包括中东地缘政治紧张局势的升温。早期指标显示，从欧洲和中东到泰国的游客到访量下降了约16%。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730764206997768",
-        "title": "博盈特焊：全资孙公司签订《土地租赁合同》",
-        "url": "https://36kr.com/newsflashes/3730764206997768?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T04:31:10.000Z",
-        "summary": "36氪获悉，博盈特焊公告，公司于2025年12月12日审议通过向全资孙公司越南博盈增加不超过2.75亿元人民币投资，其中5,500万元拟用于购买越南土地使用权，2.2亿元用于新建厂房及扩建HRSG等产品生产线。2025年12月15日，越南博盈已签署《土地保留合同》，近日正式签订《土地租赁合同》，完成土地获取关键步骤。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3730763376771331",
-        "title": "星网宇达：因投资收益列报错误收监管函",
-        "url": "https://36kr.com/newsflashes/3730763376771331?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T04:26:39.000Z",
-        "summary": "36氪获悉，星网宇达公告，公司2025年第三季度报告中将联营企业星华智联公允价值变动损益43,864.39万元按持股比例计入投资收益，并错误归类为经常性损益，导致归母净利润虚增11,291.57万元。更正后，归母扣非净利润由52,872,881.16元调整为-60,042,843.12元，其他非经常性损益项目由1,284,977.83元大幅上调至114,200,702.11元，反映原披露严重偏离会计准则。深交所已下发监管函，要求公司及全",
+        "publishedAt": "2026-03-20T08:06:48.000Z",
+        "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。 本文是这个栏目的第181期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com） 一、本月新增 1、求购Anthropi",
         "category": "updates",
         "region": "cn"
       },
@@ -1500,7 +1650,7 @@
       },
       {
         "id": "InfoQ China:www.infoq.cn/article/p0umitxd3w2fafiwv6r0",
-        "title": "针对库存优化的 Snowflake Intelligence 供应链助手",
+        "title": "针对库存优化的 Snowflake Intelligence 供应链助手 ｜ 技术实践",
         "url": "https://www.infoq.cn/article/p0UmiTXd3w2fAfIWV6r0?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-19T21:37:49.000Z",
@@ -1539,82 +1689,12 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/lbxey5eyhn3e4cw05iiw",
-        "title": "极客部落“OPC 创业者招募计划”正式启动 —— 携手朝阳区赋能 AI 时代独角兽，助推人才高质量发展",
-        "url": "https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-19T14:39:48.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/rruxzpvie44s0slahvr5",
-        "title": "神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源",
-        "url": "https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-19T14:35:51.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qlqzzhgdntm7eeunsggm",
-        "title": "ClickHouse 不再只有一个主索引：投影正式进化为真正的二级索引，查询提速 90%",
-        "url": "https://www.infoq.cn/article/qlqzZhgDNtM7eeuNsgGm?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-19T12:07:46.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/cuy1nfjtv6musrp3sajj",
-        "title": "英伟达改卖Token？黄仁勋GTC后发声：token就是AI新通货，值钱的不是算力，是“每度电的智商”",
-        "url": "https://www.infoq.cn/article/CuY1NfJtV6musRP3sAJJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-19T12:05:24.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wvne21la5o58bcxngku9",
-        "title": "明视脑机刘冰：攀登“脑机珠峰”需要一整套支持长期远征的后勤保障体系",
-        "url": "https://www.infoq.cn/article/WVNe21lA5O58bcxNgkU9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-19T11:24:33.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3729727275220613",
-        "title": "氪星晚报｜��大利亚就业依然强劲，支持澳央行的鹰派立场；首款国产化“龙虾云电脑”发布；法官下令恢复美国之音员工职务，推翻特朗普关停决定",
+        "title": "氪星晚报｜澳大利亚就业依然强劲，支持澳央行的鹰派立场；首款国产化“龙虾云电脑”发布；法官下令恢复美国之音员工职务，推翻特朗普关停决定",
         "url": "https://36kr.com/p/3729727275220613?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-03-19T10:39:47.000Z",
         "summary": "大公司： 马斯克：SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片 马斯克发文称，非常欣赏英伟达和黄仁勋，英伟达市值实至名归，SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片。 三星电子计划在2026年至少投入110万亿韩元用于研发与设施建设 三星电子计划在2026年至少投入110万亿韩元用于研发与设施建设。 小马智行与如祺出行共建Robotaxi车队，首批交付超百辆第七代无人车 36氪获悉，3月19日，小马智行向如祺出",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/e8tby8hnsjwu5iqxpy02",
-        "title": "构建 AI 的“第二大脑”：大规模多模态记忆平台技术实践｜QCon北京",
-        "url": "https://www.infoq.cn/article/E8tbY8hNSjwU5iqxpY02?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-19T10:05:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/av1macxt8csx1ty2n76k",
-        "title": "2025 年 DORA 报告：AI 正在放大软件工程效能c",
-        "url": "https://www.infoq.cn/article/Av1MacXt8csx1TY2N76k?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-19T10:00:00.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
@@ -1625,86 +1705,6 @@
         "source": "36Kr",
         "publishedAt": "2026-03-19T08:27:34.000Z",
         "summary": "作者：王利 编辑：王小坤 想象一下，你身处一间密闭场所，四周音箱环绕。接着，音乐响起，声音从不同方向传来：有的掠过头顶，有的在左耳回响，每个声源的位置都清晰可辨。随后，你戴上一副耳机。奇怪的是，耳机隔音似乎并不好，外面声音清晰依旧。听了一会，你有些腻了，摘下耳机，才发现四周的音箱早已关闭——刚才以为仍由音箱播放的音乐，其实一直出自耳机。 这是发生AWE2026的一幕，来自索尼的音频系统。 这项技术名为“360VME”，旨在测量个人在特定",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3729545296559749",
-        "title": "超级创业者时代：如何让个人拥有组织级能力",
-        "url": "https://36kr.com/p/3729545296559749?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T07:45:41.000Z",
-        "summary": "序章｜一个人，就是一家公司：第四次个体经济浪潮正在爆发 历史上每一次生产关系的重构，都诞生于旧有组织形态的瓶颈与新技术力量的碰撞。从1980年代的街头个体户，到1999年《个人独资企业法》确立的法人主体，再到2014年“大众创业、万众创新”的移动互联网浪潮——中国个体经济政策的每一次跃升，都是时代的一次集体答卷。 而今天， 随着Agent、OpenClaw等基础设施普及，为超级创业者提供了以AI技术为基础，驱动创新变革的天然契机。 OP",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3729511818001799",
-        "title": "长三角企业国际化合作发展交流会暨新华·中国企业出海合作中心（长三角）在宁启幕",
-        "url": "https://36kr.com/p/3729511818001799?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T06:55:53.000Z",
-        "summary": "3月17日，以“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行，活动由香港长三角企业家国际联盟与江苏省国际商会联合主办。 全国政协常委、香港长三角企业家国际联盟主席、粤港澳大湾区企业家联盟主席、香港中华总商会会长、香港新华集团主席蔡冠深博士，江苏省人民政府外事（港澳事务）办公室副主任沈雁飞，江苏省贸促会（省国际商会）党组成员、副会",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3729505125350792",
-        "title": "因胜传媒成功协办长三角企业国际化合作发展交流会",
-        "url": "https://36kr.com/p/3729505125350792?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T06:49:21.000Z",
-        "summary": "2026年3月17日，由香港长三角企业家国际联盟与江苏省国际商会联合主办、南京因胜文化传媒有限公司（简称“因胜传媒”）独家协办的“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行。 全国政协常委、香港长三角企业家国际联盟主席、粤港澳大湾区企业家联盟主席、香港中华总商会会长、香港新华集团主席蔡冠深博士，江苏省人民政府外事（港澳事务）办",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3729475100917126",
-        "title": "腾讯不愿在微信里躺平",
-        "url": "https://36kr.com/p/3729475100917126?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T06:23:30.000Z",
-        "summary": "作者 | 张帆 黄绎达 编辑 | 黄绎达 腾讯依旧还是那个稳健的腾讯。 3月18日，腾讯公布了2025年全年业绩。财报数据显示，公司在2025年实现收入7518亿元，同比增长14%；同期实现经营利润2416亿元，同比增长16%；同期Non-IFRS归母净利润录得2596亿元，同比增长17%。 作为中国市场最核心标的之一，稳健一直是腾讯的标签，2025年的业绩也总体符合市场预期。然而， 在如今的AI浪潮下，投资者关注的核心点恐怕并不是腾讯",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3729446000967304",
-        "title": "揭秘蔚来芯片分拆始末，正积极接触多头部车企 | 36氪独家",
-        "url": "https://36kr.com/p/3729446000967304?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T05:49:13.000Z",
-        "summary": "3月10日，蔚来汽车公布财报，2025年四季度盈利超12亿元。这是蔚来在连续多个季度亏损数十亿元后，首次单季度盈利。 在这份盈利的财报背后，李斌对企业进行了一系列改革以严控成本，同时也将部分投入巨大的业务做了拆分以改善财务结构。 芯片业务无疑是蔚来最“烧钱”的业务之一。李斌曾在2025年的中国电动汽车百人会论坛上，测算过NX9031芯片的研发成本——一颗NX9031神玑芯片的研发投入，足以建成1000 座换电站。 36氪也曾报道过，在没",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/q7g7wjdk9lbpggmkmqqb",
-        "title": "从零构建智能体：面向 AI 智能体的端到端数据管道搭建实战 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/Q7g7WJDk9lBPGGmkMqqb?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-18T21:19:49.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/5xmexakce56w4ndsp7ki",
-        "title": "从桌面到企业：DGX 双系统搭配 NemoClaw，打造自主智能体全流程开发平台",
-        "url": "https://www.infoq.cn/article/5XMEXakce56W4NdSp7kI?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-18T20:00:22.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/th0um55qt9mmoroz7md8",
-        "title": "从狂热到工程、组织实践，OpenClaw这阵风能刮多久？",
-        "url": "https://www.infoq.cn/article/Th0um55qt9mMORoZ7MD8?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-18T19:18:20.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
