@@ -1,11 +1,51 @@
 {
-  "generatedAt": "2026-03-20T12:39:52.072Z",
+  "generatedAt": "2026-03-20T18:36:38.660Z",
   "highlights": {
     "na": [],
     "cn": []
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/the&",
+        "title": "The Burton Book Review: &#8220;Lawless&#8221; by Leah Litman",
+        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;lawless&#45;by&#45;leah&#45;litman/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-20T18:18:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/fake&",
+        "title": "Fake lawyer who used real bar number to practice law pleads guilty",
+        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/fake&#45;lawyer&#45;uses&#45;real&#45;bar&#45;number&#45;to&#45;practice/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-20T17:31:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/statement&",
+        "title": "Statement of ABA President Michelle A. Behnke Re: Protecting the judiciary from personal attacks",
+        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/statement&#45;of&#45;aba&#45;president&#45;michelle&#45;a&#45;behnke&#45;re&#45;protecting&#45;the&#45;judiciary&#45;from&#45;personal&#45;attacks/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-20T16:09:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/california&",
+        "title": "California considers mandatory AI training for law students",
+        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/california&#45;considers&#45;mandatory&#45;ai&#45;training&#45;for&#45;law&#45;students/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-20T16:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/20/claude-legal-prompt-shock-legalon-gpt-5-4-review-legal-innovators",
         "title": "Claude Legal Prompt Shock, LegalOn GPT 5.4 Review, Legal Innovators +",
@@ -87,16 +127,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/voice/article/plessy&",
-        "title": "Plessy, Brown and the first Jackie Robinson",
-        "url": "https://www.abajournal.comhttps://www.abajournal.com/voice/article/plessy&#45;brown&#45;and&#45;the&#45;first&#45;jackie&#45;robinson/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-19T15:01:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/19/eve-webinar-3x-attorney-capacity-with-eve-ai-agents",
         "title": "Eve Webinar: 3x Attorney Capacity with Eve AI Agents",
         "url": "https://www.artificiallawyer.com/2026/03/19/eve-webinar-3x-attorney-capacity-with-eve-ai-agents/",
@@ -144,36 +174,6 @@
         "publishedAt": "2026-03-19T00:00:00.000Z",
         "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/web/article/ai&",
-        "title": "Colorado policy could shield AI from complaints regarding unauthorized practice of law",
-        "url": "https://www.abajournal.comhttps://www.abajournal.com/web/article/ai&#45;legal&#45;tool&#45;developers&#45;could&#45;avoid&#45;upl&#45;in&#45;these&#45;states/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-18T20:11:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/voice/article/the&",
-        "title": "The legal profession cannot litigate its way out of technological change",
-        "url": "https://www.abajournal.comhttps://www.abajournal.com/voice/article/the&#45;legal&#45;profession&#45;cannot&#45;litigate&#45;its&#45;way&#45;out&#45;of&#45;technological&#45;change/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-18T18:47:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/american&",
-        "title": "American Bar Association announces 2026 women lawyers of achievement",
-        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/american&#45;bar&#45;association&#45;announces&#45;2026&#45;women&#45;lawyers&#45;of&#45;achievement/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-18T17:59:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1309,12 +1309,72 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/p/3731378273828868",
+        "title": "万物云：与万科关联应收账款余额仅剩20.6亿，业务独立性持续增强",
+        "url": "https://36kr.com/p/3731378273828868?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T14:35:18.000Z",
+        "summary": "3月19日晚间，万物云空间科技服务股份有限公司发布2025年度业绩报告。报告期内，万物云实现营业收入372.7亿元，同比增长2.7%，剔除开发商相关业务后，营收同比增长8.4%；核心净利润约21.3亿元，同比微增0.8%；归母净利润7.7亿元，同比出现较大幅度下滑。 业绩发布会现场 万物云董事长朱保全在业绩发布会上表示，关联开发商（万科）产生的坏账及资产摊销所带来的负向影响是利润下滑的主要原因，2025年全年因此产生了7.4亿元的净利润",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/btrvfcaqpxkzrdwgev6a",
         "title": "伊朗冲突致多座AWS数据中心受损，多可用区部署假设面临挑战",
         "url": "https://www.infoq.cn/article/bTRVfCAqpXkZrDwGev6a?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-20T14:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731280465707273",
+        "title": "先导基电：拟定增募资不超35.1亿元，用于半导体光学部件研发及产业化项目等",
+        "url": "https://36kr.com/newsflashes/3731280465707273?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:54:46.000Z",
+        "summary": "36氪获悉，先导基电公告，公司拟向关联方先导科技集团有限公司发行不超过2.36亿股A股股票，发行价格为14.90元/股，募集资金总额不超过35.1亿元。扣除发行费用后，资金将用于半导体光学部件研发及产业化项目、半导体精密零部件和子系统研发及产业化项目、高端量测装备与生命科学仪器研发及产业化项目、铋材料业务升级改造项目。本次发行构成关联交易，尚需股东大会审议及监管机构注册批准。先导科技承诺所认购股份自发行结束之日起36个月内不得转让。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731273731276806",
+        "title": "德力股份：股东锦江集团拟减持不超3%公司股份",
+        "url": "https://36kr.com/newsflashes/3731273731276806?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:47:55.000Z",
+        "summary": "36氪获悉，德力股份公告，因自身经营需求，持股10.56%的大股东杭州锦江集团有限公司（简称“锦江集团”）拟以集中竞价交易方式和大宗交易方式合计减持不超1175.85万股公司股份，即不超3%的公司股份，预计减持时间为2026年4月15日至2026年7月12日。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731273217835268",
+        "title": "热门中概股美股盘前跌多涨少，小鹏汽车跌超3%",
+        "url": "https://36kr.com/newsflashes/3731273217835268?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:47:23.000Z",
+        "summary": "36氪获悉，热门中概股美股盘前跌多涨少，截至发稿，小鹏汽车跌超3%，微博跌超2%，百度、京东、蔚来跌超1%，B站跌近1%；阿里巴巴涨0.56%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731271689126147",
+        "title": "美股大型科技股盘前多数下跌，Arm涨超3%",
+        "url": "https://36kr.com/newsflashes/3731271689126147?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:45:50.000Z",
+        "summary": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，苹果跌0.76%，谷歌跌0.6%，亚马逊跌0.57%，微软跌0.53%，奈飞跌0.37%，英伟达跌0.23%，特斯拉跌0.21%；Arm涨超3%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731267743268867",
+        "title": "*ST步森：控股股东将变更为延丰数字，股票下周一复牌",
+        "url": "https://36kr.com/newsflashes/3731267743268867?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-20T12:41:49.000Z",
+        "summary": "36氪获悉，*ST步森公告，公司控股股东方维同创与广州延丰数字科技有限公司（简称“延丰数字”）签署了《股份转让协议》，方维同创拟以协议转让的方式将其持有的公司2133.38万股股份（占公司总股本14.81%）转让给延丰数字，本次股份转让的交易对价总额为3.01575亿元，相应标的股份单价为14.136元/股。本次交易完成后，延丰数字将成为公司控股股东，延丰数字的实际控制人王波将成为公司的实际控制人。公司股票将于2026年3月23日（星期",
         "category": "updates",
         "region": "cn"
       },
@@ -1479,62 +1539,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3731202894921984",
-        "title": "宇树：计划在3年内发布“通用人形机器人具身基础模型”",
-        "url": "https://36kr.com/newsflashes/3731202894921984?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T11:35:51.000Z",
-        "summary": "3月20日消息，上交所受理宇树科技股份有限公司科创板IPO申请，拟融资金额42.02亿元。根据公开发布的预先审阅申请文件的第二轮问询函的回复，在模型迭代层面，宇树计划在3年内发布“通用人形机器人具身基础模型”，该模型将系统性地具备场景泛化、指令泛化、动作泛化与任务泛化四大核心能力，可高效赋能生产、制造等领域中标准化垂直场景，实现“云端模型训练—端侧推理执行—线上数据采集”的完整闭环。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731194292928777",
-        "title": "黄仁勋谈太空数据中心：直接在太空处理数据是合乎逻辑的 太空冷却是最大难题之一",
-        "url": "https://36kr.com/newsflashes/3731194292928777?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T11:27:06.000Z",
-        "summary": "英伟达CEO黄仁勋在一档播客节目中承认了轨道计算的长期潜力。黄仁勋称，直接在太空处理数据（而不是将其传回地球）是合乎逻辑的下一步。与此同时，他也暗示在太空建立AI数据中心可能比想象中更难，并指出冷却是最大难题之一。“太空冷却只能使用辐射散热，”黄仁勋说道，“这种方式需要非常大面积的散热装置，这样一来，系统就会变得复杂且成本高昂。”他表示，公司已在卫星上部署基于CUDA的系统，用于执行成像和AI处理任务。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731189787148545",
-        "title": "雪浪环境：公司签署重整投资协议，下周一起复牌",
-        "url": "https://36kr.com/newsflashes/3731189787148545?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T11:22:31.000Z",
-        "summary": "36氪获悉，雪浪环境公告，公司与上海氦星万联科技发展合伙企业(有限合伙)等四方及预重整引导人签署《重整投资协议》，并与上海氦星光曜科技发展合伙企业签署附属协议。根据协议，重整完成后氦星万联将成为公司控股股东。公司股票自2026年3月23日上午开市起复牌。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731177358803209",
-        "title": "优刻得：拟定增募资不超过15亿元，用于乌兰察布智算中心及智算集群建设运营项目",
-        "url": "https://36kr.com/newsflashes/3731177358803209?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T11:09:53.000Z",
-        "summary": "36氪获悉，优刻得公告，公司第三届董事会第十一次会议审议通过2026年度向特定对象发行A股股票相关议案。本次发行拟募资总额不超过15亿元，扣除发行费用后将全部用于“优刻得乌兰察布智算中心及智算集群建设运营项目”。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3731169592918273",
         "title": "氪星晚报｜迪卡侬正式入驻拼多多；特斯拉计划2026年批量交付Semi电动卡车，价格或低于30万美元；消息人士：马斯克团队采购光伏设备预计将在5月第一周发货",
         "url": "https://36kr.com/p/3731169592918273?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-03-20T11:08:25.000Z",
         "summary": "大公司： 小鹏汽车：预计第一季度交付量61000辆-66000辆，同比减少29.8%-35.1% 36氪获悉，小鹏汽车发布2025年第四季度及全年财报。财报显示，对于2026年第一季度，本公司预期汽车交付量将介乎61000-66000辆，按年减少约29.79%-35.11%。总收入将介乎122.0亿元-132.8亿元，按年减少约16.01%-22.84%。 北京汽车：王昊由于工作变动将不再担任董事长，提名张国富任董事长 36氪获悉，北京",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731169955348486",
-        "title": "集友股份：2025年净亏损1820万元，公司股票将被实施退市风险警示",
-        "url": "https://36kr.com/newsflashes/3731169955348486?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T11:02:21.000Z",
-        "summary": "36氪获悉，集友股份发布2025年业绩报告。报告显示，公司2025年营业收入为1.71亿元，归属于母公司所有者的净利润为-1820.48万元，扣除非经常性损益后的净利润为-2360.27万元。因净利润为负且营业收入低于3亿元，根据《股票上市规则》相关规定，公司股票将在年报披露后被实施退市风险警示（股票简称前加“*ST”）。",
         "category": "updates",
         "region": "cn"
       },
@@ -1695,16 +1705,6 @@
         "source": "36Kr",
         "publishedAt": "2026-03-19T10:39:47.000Z",
         "summary": "大公司： 马斯克：SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片 马斯克发文称，非常欣赏英伟达和黄仁勋，英伟达市值实至名归，SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片。 三星电子计划在2026年至少投入110万亿韩元用于研发与设施建设 三星电子计划在2026年至少投入110万亿韩元用于研发与设施建设。 小马智行与如祺出行共建Robotaxi车队，首批交付超百辆第七代无人车 36氪获悉，3月19日，小马智行向如祺出",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3729551142534532",
-        "title": "AWE 2026观察：AI重构家庭空间",
-        "url": "https://36kr.com/p/3729551142534532?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T08:27:34.000Z",
-        "summary": "作者：王利 编辑：王小坤 想象一下，你身处一间密闭场所，四周音箱环绕。接着，音乐响起，声音从不同方向传来：有的掠过头顶，有的在左耳回响，每个声源的位置都清晰可辨。随后，你戴上一副耳机。奇怪的是，耳机隔音似乎并不好，外面声音清晰依旧。听了一会，你有些腻了，摘下耳机，才发现四周的音箱早已关闭——刚才以为仍由音箱播放的音乐，其实一直出自耳机。 这是发生AWE2026的一幕，来自索尼的音频系统。 这项技术名为“360VME”，旨在测量个人在特定",
         "category": "updates",
         "region": "cn"
       }
