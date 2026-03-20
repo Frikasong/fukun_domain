@@ -1802,8 +1802,8 @@ const styles = {
     fontWeight: 500,
   },
   cardBody: {
-    fontSize: 14,
-    lineHeight: 1.7,
+    fontSize: 13,
+    lineHeight: 1.6,
     color: "#555",
     margin: "0 0 12px 0",
     whiteSpace: "pre-wrap",
