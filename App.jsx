@@ -722,6 +722,15 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
           <div style={styles.aboutCard}>
             <h3 style={styles.aboutCardTitle}>{T.about.interests}</h3>
             <p style={styles.aboutText}>{T.about.int1}</p>
+            <p style={styles.aboutText}>
+              {T.about.int2}{' '}
+              <span
+                style={styles.aboutConnectLink}
+                onClick={() => { setActiveSection("contact"); setView("grid"); setMenuOpen(false); }}
+              >
+                {T.about.connect}
+              </span>!
+            </p>
           </div>
         </div>
       </div>
