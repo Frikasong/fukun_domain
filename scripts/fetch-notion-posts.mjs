@@ -4,7 +4,8 @@ import { resolve } from "node:path";
 const ROOT = resolve(process.cwd());
 const OUTPUT_FILE = resolve(ROOT, "notion-posts.json");
 
-const NOTION_API_KEY = process.env.NOTION_API_KEY;
+const RAW_NOTION_API_KEY = process.env.NOTION_API_KEY || process.env.NOTION_TOKEN || "";
+const NOTION_API_KEY = RAW_NOTION_API_KEY.trim().replace(/^['\"]|['\"]$/g, "");
 const NOTION_DATABASE_ID = process.env.NOTION_DATABASE_ID;
 const NOTION_VERSION = "2022-06-28";
 
@@ -23,6 +24,10 @@ const sectionMap = {
 function assertEnv() {
   if (!NOTION_API_KEY) throw new Error("Missing NOTION_API_KEY environment variable");
   if (!NOTION_DATABASE_ID) throw new Error("Missing NOTION_DATABASE_ID environment variable");
+
+  if (!(NOTION_API_KEY.startsWith("secret_") || NOTION_API_KEY.startsWith("ntn_"))) {
+    console.warn("Warning: NOTION_API_KEY does not look like a Notion integration secret (expected prefix secret_ or ntn_).");
+  }
 }
 
 async function notionRequest(path, body) {
@@ -38,6 +43,12 @@ async function notionRequest(path, body) {
 
   if (!res.ok) {
     const text = await res.text();
+    if (res.status === 401) {
+      throw new Error(
+        `Notion API 401 unauthorized. Your token is invalid. ` +
+        `Regenerate/copy the Internal Integration Secret in Notion, then update GitHub secret NOTION_API_KEY (no quotes, no spaces). Raw response: ${text}`
+      );
+    }
     throw new Error(`Notion API ${res.status}: ${text}`);
   }
   return res.json();
