@@ -1,4 +1,4 @@
-# Fukun Yang Portfolio - Deployment Guide
+# Fukun Domain - Deployment Guide
 
 This is your personal portfolio website with sections for Legal Tech, Admin Law, Essays, Photography, Music, and more.
 
