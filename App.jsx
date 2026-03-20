@@ -2,7 +2,6 @@
 
 // ─── Storage Keys ───────────────────────────────────────────────────────────
 const ENTRIES_KEY = "fukun-portfolio-entries";
-const COMMENTS_KEY = "fukun-portfolio-comments";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const TRANSLATIONS = {
@@ -290,25 +289,12 @@ async function saveEntries(entries) {
   await window.storage.set(ENTRIES_KEY, JSON.stringify(entries));
 }
 
-async function loadComments() {
-  try {
-    const result = await window.storage.get(COMMENTS_KEY, true);
-    return result ? JSON.parse(result.value) : {};
-  } catch {
-    return {};
-  }
-}
-
-async function saveComments(comments) {
-  await window.storage.set(COMMENTS_KEY, JSON.stringify(comments), true);
-}
 
 // ═══════════════════════════════════════════════════════════════════════════
 // MAIN APP
 // ═══════════════════════════════════════════════════════════════════════════
 function App() {
   const [entries, setEntries] = useState([]);
-  const [comments, setComments] = useState({});
   const [activeSection, setActiveSection] = useState("about");
   const [view, setView] = useState("grid"); // "grid" | "editor"
   const [editing, setEditing] = useState(null);
@@ -335,7 +321,6 @@ function App() {
 
   useEffect(() => {
     loadEntries().then(setEntries);
-    loadComments().then(setComments);
   }, []);
 
   useEffect(() => {
@@ -390,9 +375,6 @@ function App() {
     const updated = entries.filter((e) => e.id !== id);
     setEntries(updated);
     await saveEntries(updated);
-    const { [id]: _, ...remainingComments } = comments;
-    setComments(remainingComments);
-    await saveComments(remainingComments);
     if (editing && editing.id === id) setView("grid");
   };
 
@@ -439,21 +421,6 @@ function App() {
 
   const removeAttachment = (index) => {
     setForm((prev) => ({ ...prev, attachments: prev.attachments.filter((_, i) => i !== index) }));
-  };
-
-  // Comments
-  const addComment = async (entryId, name, text) => {
-    if (!text.trim()) return;
-    const newComment = { id: Date.now(), name: name.trim() || "Anonymous", text, timestamp: new Date().toISOString() };
-    const updated = { ...comments, [entryId]: [...(comments[entryId] || []), newComment] };
-    setComments(updated);
-    await saveComments(updated);
-  };
-
-  const deleteComment = async (entryId, commentId) => {
-    const updated = { ...comments, [entryId]: comments[entryId].filter((c) => c.id !== commentId) };
-    setComments(updated);
-    await saveComments(updated);
   };
 
   // Filtered entries
@@ -578,13 +545,10 @@ function App() {
           <GridView
             section={currentSection}
             entries={sectionEntries}
-            comments={comments}
             onNew={openNew}
             onEdit={openEdit}
             onDelete={deleteEntry}
             onOpenPost={openPost}
-            onAddComment={addComment}
-            onDeleteComment={deleteComment}
             setActiveSection={setActiveSection}
             T={T}
             lang={lang}
@@ -634,7 +598,7 @@ function App() {
 // ═══════════════════════════════════════════════════════════════════════════
 // GRID VIEW
 // ═══════════════════════════════════════════════════════════════════════════
-function GridView({ section, entries, comments, onNew, onEdit, onDelete, onOpenPost, onAddComment, onDeleteComment, setActiveSection, T, lang }) {
+function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setActiveSection, T, lang }) {
   const sectionLabel = T.nav[section.id] || section.name;
   const sectionSub = T.nav[section.id + "Sub"] || section.subtitle;
 
@@ -677,7 +641,7 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onOpenP
 
   // Special handling for Tech section (sub-tabs: Insights | Tools | Observations | AI Lab)
   if (section.id === "tech") {
-    return <TechView entries={entries} comments={comments} onNew={onNew} onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} onAddComment={onAddComment} onDeleteComment={onDeleteComment} setActiveSection={setActiveSection} T={T} lang={lang} />;
+    return <TechView entries={entries} onNew={onNew} onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} setActiveSection={setActiveSection} T={T} lang={lang} />;
   }
 
   // Special handling for Contact section
@@ -773,12 +737,9 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onOpenP
             <EntryCard
               key={entry.id}
               entry={entry}
-              comments={comments[entry.id] || []}
               onEdit={onEdit}
               onDelete={onDelete}
               onOpenPost={onOpenPost}
-              onAddComment={onAddComment}
-              onDeleteComment={onDeleteComment}
               T={T}
               lang={lang}
             />
@@ -792,25 +753,14 @@ function GridView({ section, entries, comments, onNew, onEdit, onDelete, onOpenP
 // ═══════════════════════════════════════════════════════════════════════════
 // ENTRY CARD
 // ═══════════════════════════════════════════════════════════════════════════
-function EntryCard({ entry, comments, onEdit, onDelete, onOpenPost, onAddComment, onDeleteComment, T, lang }) {
-  const [showComments, setShowComments] = useState(false);
-  const [commentName, setCommentName] = useState("");
-  const [commentText, setCommentText] = useState("");
-
+function EntryCard({ entry, onEdit, onDelete, onOpenPost, T, lang }) {
   const preview = entry.body.length > 180 ? entry.body.slice(0, 180).replace(/\s+\S*$/, "") + "…" : entry.body;
   const formattedDate = entry.date
     ? new Date(entry.date + "T12:00:00").toLocaleDateString("en-CA", { year: "numeric", month: "short", day: "numeric" })
     : "";
 
-  const submitComment = () => {
-    onAddComment(entry.id, commentName, commentText);
-    setCommentName("");
-    setCommentText("");
-  };
-
   return (
     <article style={styles.card}>
-      {/* Cover Image */}
       {entry.images && entry.images.length > 0 && (
         <div style={styles.cardCover}>
           <img src={entry.images[0].data} alt={entry.title} style={styles.cardCoverImg} />
@@ -819,7 +769,6 @@ function EntryCard({ entry, comments, onEdit, onDelete, onOpenPost, onAddComment
       )}
 
       <div style={styles.cardContent}>
-        {/* Header */}
         <div style={styles.cardHeader}>
           <h3 style={{ ...styles.cardTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{entry.title}</h3>
           <div style={styles.cardMeta}>
@@ -830,10 +779,8 @@ function EntryCard({ entry, comments, onEdit, onDelete, onOpenPost, onAddComment
           </div>
         </div>
 
-        {/* Body Preview */}
         <p style={styles.cardBody}>{preview}</p>
 
-        {/* Tags */}
         {entry.tags && entry.tags.length > 0 && (
           <div style={styles.cardTags}>
             {entry.tags.map((tag) => (
@@ -848,7 +795,6 @@ function EntryCard({ entry, comments, onEdit, onDelete, onOpenPost, onAddComment
           </button>
         )}
 
-        {/* Additional Images */}
         {entry.images && entry.images.length > 1 && (
           <div style={styles.cardGallery}>
             {entry.images.slice(1).map((img, i) => (
@@ -857,7 +803,6 @@ function EntryCard({ entry, comments, onEdit, onDelete, onOpenPost, onAddComment
           </div>
         )}
 
-        {/* Attachments */}
         {entry.attachments && entry.attachments.length > 0 && (
           <div style={styles.attachmentBox}>
             {entry.attachments.map((att, i) => (
@@ -865,52 +810,6 @@ function EntryCard({ entry, comments, onEdit, onDelete, onOpenPost, onAddComment
                 📎 {att.name}
               </a>
             ))}
-          </div>
-        )}
-
-        {/* Footer Actions */}
-        <div style={styles.cardFooter}>
-          <button style={styles.commentBtn} onClick={() => setShowComments(!showComments)}>
-            💬 {comments.length}
-          </button>
-        </div>
-
-        {/* Comments Section */}
-        {showComments && (
-          <div style={styles.commentsBox}>
-            {comments.length > 0 && (
-              <div style={styles.commentsList}>
-                {comments.map((comment) => (
-                  <div key={comment.id} style={styles.comment}>
-                    <div style={styles.commentHeader}>
-                      <span style={styles.commentAuthor}>{comment.name}</span>
-                      <span style={styles.commentTime}>
-                        {new Date(comment.timestamp).toLocaleDateString("en-CA", { month: "short", day: "numeric" })}
-                      </span>
-                      <button style={styles.commentDelete} onClick={() => onDeleteComment(entry.id, comment.id)}>×</button>
-                    </div>
-                    <p style={styles.commentText}>{comment.text}</p>
-                  </div>
-                ))}
-              </div>
-            )}
-            <div style={styles.commentForm}>
-              <input
-                style={styles.commentInput}
-                placeholder="Name (optional)"
-                value={commentName}
-                onChange={(e) => setCommentName(e.target.value)}
-              />
-              <textarea
-                style={styles.commentTextarea}
-                placeholder="Leave feedback..."
-                value={commentText}
-                onChange={(e) => setCommentText(e.target.value)}
-              />
-              <button style={styles.commentSubmit} onClick={submitComment} disabled={!commentText.trim()}>
-                Post
-              </button>
-            </div>
           </div>
         )}
       </div>
@@ -1053,7 +952,7 @@ function NewsRadarPanel({ title, subtitle, items, region, loading, error, T, lan
 // ═══════════════════════════════════════════════════════════════════════════
 // TECH VIEW (2 sub-tabs: Legal Tech Lab | Observations & Insights)
 // ═══════════════════════════════════════════════════════════════════════════
-function TechView({ entries, comments, onNew, onEdit, onDelete, onOpenPost, onAddComment, onDeleteComment, setActiveSection, T, lang }) {
+function TechView({ entries, onNew, onEdit, onDelete, onOpenPost, setActiveSection, T, lang }) {
   const [activeTab, setActiveTab] = useState("lab");
   const [newsLoading, setNewsLoading] = useState(true);
   const [newsError, setNewsError] = useState("");
@@ -1209,8 +1108,8 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onOpenPost, onAd
           ) : (
             <div style={styles.grid}>
               {insightEntries.map((entry) => (
-                <EntryCard key={entry.id} entry={entry} comments={comments[entry.id] || []}
-                  onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} onAddComment={onAddComment} onDeleteComment={onDeleteComment} T={T} lang={lang} />
+                <EntryCard key={entry.id} entry={entry}
+                  onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} T={T} lang={lang} />
               ))}
             </div>
           )}
@@ -1231,8 +1130,8 @@ function TechView({ entries, comments, onNew, onEdit, onDelete, onOpenPost, onAd
           ) : (
             <div style={styles.grid}>
               {obsEntries.map((entry) => (
-                <EntryCard key={entry.id} entry={entry} comments={comments[entry.id] || []}
-                  onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} onAddComment={onAddComment} onDeleteComment={onDeleteComment} T={T} lang={lang} />
+                <EntryCard key={entry.id} entry={entry}
+                  onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} T={T} lang={lang} />
               ))}
             </div>
           )}
@@ -2017,150 +1916,6 @@ const styles = {
     color: "#333",
     textDecoration: "none",
     fontWeight: 500,
-  },
-  cardFooter: {
-    display: "flex",
-    justifyContent: "space-between",
-    alignItems: "center",
-    marginTop: 24,
-    paddingTop: 20,
-    borderTop: "none",
-  },
-  commentBtn: {
-    background: "rgba(53, 102, 106, 0.1)",
-    border: "1px solid rgba(53, 102, 106, 0.3)",
-    color: "#4F6669",
-    fontSize: 13,
-    padding: "9px 16px",
-    borderRadius: 10,
-    cursor: "pointer",
-    fontFamily: "'Public Sans', sans-serif",
-    fontWeight: 600,
-  },
-  cardActions: {
-    display: "flex",
-    gap: 8,
-    marginTop: 16,
-  },
-  editBtn: {
-    background: "transparent",
-    border: "1px solid rgba(0, 0, 0, 0.08)",
-    color: "#666",
-    fontSize: 11,
-    padding: "6px 12px",
-    borderRadius: 4,
-    cursor: "pointer",
-    fontFamily: "'Public Sans', sans-serif",
-    fontWeight: 500,
-  },
-  deleteBtn: {
-    background: "transparent",
-    border: "1px solid rgba(0, 0, 0, 0.08)",
-    color: "#999",
-    fontSize: 11,
-    padding: "6px 12px",
-    borderRadius: 4,
-    cursor: "pointer",
-    fontFamily: "'Public Sans', sans-serif",
-    fontWeight: 500,
-  },
-  // Comments
-  commentsBox: {
-    marginTop: 20,
-    padding: 16,
-    background: "#fafafa",
-    borderRadius: 8,
-    border: "1px solid rgba(0, 0, 0, 0.04)",
-  },
-  commentsList: {
-    display: "flex",
-    flexDirection: "column",
-    gap: 12,
-    marginBottom: 14,
-  },
-  comment: {
-    padding: 12,
-    background: "#fff",
-    borderRadius: 6,
-    borderLeft: "2px solid #ddd",
-  },
-  commentHeader: {
-    display: "flex",
-    alignItems: "center",
-    gap: 8,
-    marginBottom: 6,
-  },
-  commentAuthor: {
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 12,
-    fontWeight: 600,
-    color: "#333",
-  },
-  commentTime: {
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 10,
-    color: "#999",
-    fontWeight: 500,
-  },
-  commentDelete: {
-    marginLeft: "auto",
-    background: "none",
-    border: "none",
-    fontSize: 14,
-    color: "#ccc",
-    cursor: "pointer",
-    padding: 0,
-  },
-  commentText: {
-    fontSize: 13,
-    lineHeight: 1.6,
-    color: "#555",
-    margin: 0,
-  },
-  commentForm: {
-    display: "flex",
-    flexDirection: "column",
-    gap: 8,
-  },
-  commentInput: {
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 13,
-    padding: "10px 12px",
-    background: "#e8e8e8",
-    border: "none",
-    borderBottom: "2px solid rgba(192, 200, 201, 0.7)",
-    borderRadius: 0,
-    color: "#333",
-    outline: "none",
-    transition: "border-color 0.2s",
-  },
-  commentTextarea: {
-    fontFamily: "'Newsreader', serif",
-    fontSize: 13,
-    lineHeight: 1.6,
-    padding: "10px 12px",
-    background: "#e8e8e8",
-    border: "none",
-    borderBottom: "2px solid rgba(192, 200, 201, 0.7)",
-    borderRadius: 0,
-    color: "#333",
-    minHeight: 85,
-    resize: "vertical",
-    outline: "none",
-    transition: "border-color 0.2s",
-  },
-  commentSubmit: {
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 12,
-    background: "linear-gradient(135deg, #5A8A8E 0%, #2B5054 100%)",
-    color: "#fff",
-    border: "none",
-    borderRadius: 10,
-    padding: "11px 22px",
-    cursor: "pointer",
-    alignSelf: "flex-end",
-    fontWeight: 700,
-    boxShadow: "0 3px 12px rgba(53, 102, 106, 0.25)",
   },
   // Empty State
   emptyState: {
