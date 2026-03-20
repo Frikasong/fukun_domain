@@ -85,7 +85,7 @@ const TRANSLATIONS = {
     law: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post" },
     investment: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post" },
     essays: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post" },
-    contact: { intro: "Let's connect!", email: "Email", linkedin: "LinkedIn", github: "GitHub", instagram: "Instagram" },
+    contact: { intro: "Let's connect!", email: "Email", linkedin: "LinkedIn", github: "GitHub", instagram: "Instagram", rednote: "Rednote" },
     editor: {
       new: "New Post", edit: "Edit Post", back: "← Back",
       titleLabel: "Title", titlePh: "Post title...",
@@ -178,7 +178,7 @@ const TRANSLATIONS = {
     law: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇" },
     investment: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇" },
     essays: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇" },
-    contact: { intro: "来联系我吧！", email: "邮箱", linkedin: "领英", github: "GitHub", instagram: "Instagram" },
+    contact: { intro: "来联系我吧！", email: "邮箱", linkedin: "领英", github: "GitHub", instagram: "Instagram", rednote: "小红书" },
     editor: {
       new: "新建文章", edit: "编辑文章", back: "← 返回",
       titleLabel: "标题", titlePh: "文章标题...",
@@ -451,12 +451,35 @@ function App() {
                 onError={() => setLogoFailed(true)}
               />
             )}
-            {!isMobile && <p style={styles.tagline}>{T.site.tagline}</p>}
+            {!isMobile && (
+              <div style={styles.tagline}>
+                <span
+                  style={styles.taglineLink}
+                  onClick={() => { setActiveSection("law"); setView("grid"); }}
+                >
+                  Law
+                </span>
+                <span style={styles.taglineDot}> · </span>
+                <span
+                  style={styles.taglineLink}
+                  onClick={() => { setActiveSection("tech"); setView("grid"); }}
+                >
+                  Technology
+                </span>
+                <span style={styles.taglineDot}> · </span>
+                <span
+                  style={styles.taglineLink}
+                  onClick={() => { setActiveSection("essays"); setView("grid"); }}
+                >
+                  Ideas
+                </span>
+              </div>
+            )}
           </div>
           {/* Lang toggle */}
           {!isMobile && (
             <div style={styles.headerLang}>
-              <button style={styles.langToggle} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
+              <button style={{ ...styles.langToggle, ...(lang === "en" ? styles.langToggleNormal : {}) }} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
                 {T.langToggle}
               </button>
             </div>
@@ -764,6 +787,18 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                   <span style={styles.contactIcon}>🐙</span>
                 </div>
                 <span style={styles.contactIconLabel}>{T.contact.github}</span>
+              </a>
+              <a
+                href="https://www.xiaohongshu.com/user/profile/236592207"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={styles.contactIconLink}
+                title={T.contact.rednote}
+              >
+                <div style={styles.contactIconCircle}>
+                  <span style={styles.contactIcon}>📕</span>
+                </div>
+                <span style={styles.contactIconLabel}>{T.contact.rednote}</span>
               </a>
             </div>
           </div>
@@ -1386,13 +1421,34 @@ const styles = {
   },
   tagline: {
     fontFamily: "'Newsreader', serif",
-    fontSize: 11,
-    color: "rgba(255,255,255,0.7)",
-    margin: "4px 0 0 0",
-    letterSpacing: "2.5px",
-    textTransform: "uppercase",
+    fontSize: 12,
+    color: "rgba(255,255,255,0.68)",
+    margin: "6px 0 0 0",
+    letterSpacing: "1.8px",
     fontWeight: 400,
     fontStyle: "italic",
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: 0,
+    textTransform: "uppercase",
+  },
+  taglineLink: {
+    color: "rgba(255,255,255,0.68)",
+    cursor: "pointer",
+    transition: "color 0.2s",
+    fontFamily: "'Newsreader', serif",
+    fontStyle: "italic",
+    textTransform: "uppercase",
+    letterSpacing: "1.8px",
+    fontSize: 12,
+  },
+  taglineDot: {
+    color: "rgba(255,255,255,0.4)",
+    fontFamily: "'Newsreader', serif",
+    fontStyle: "italic",
+    fontSize: 12,
+    cursor: "default",
   },
   navBar: {
     background: "rgba(43, 80, 84, 0.9)",
@@ -1495,6 +1551,10 @@ const styles = {
     fontStyle: "italic",
     letterSpacing: "0.5px",
     transition: "all 0.2s",
+  },
+  langToggleNormal: {
+    fontStyle: "normal",
+    fontWeight: 500,
   },
   menuToggle: {
     background: "rgba(255,255,255,0.08)",
