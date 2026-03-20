@@ -12,6 +12,7 @@ const TRANSLATIONS = {
       info: "About", professional: "Work", personal: "Life",
       about: "Info", tech: "Tech", law: "Law", investment: "Investment", essays: "Essays",
       music: "Weekly Music", photography: "Photos", contact: "Contact",
+      taglineLaw: "Law", taglineTech: "Technology", taglineIdeas: "Ideas",
       techSub: "Legal AI · Tools",
       lawSub: "Legal Research",
       investmentSub: "Market Analysis",
@@ -109,6 +110,7 @@ const TRANSLATIONS = {
       lawSub: "法律研究",
       investmentSub: "市场分析",
       essaysSub: "写作",
+      taglineLaw: "法律", taglineTech: "科技", taglineIdeas: "思想",
     },
     about: {
       bg: "背景",
@@ -454,30 +456,28 @@ function App() {
               )}
             </div>
             {/* Tagline links below logo */}
-            {!isMobile && (
               <div style={styles.tagline}>
                 <button
                   style={styles.taglineBtn}
                   onClick={() => { setActiveSection("law"); setView("grid"); }}
                 >
-                  Law
+                  {T.nav.taglineLaw}
                 </button>
                 <span style={styles.taglineDot}>·</span>
                 <button
                   style={styles.taglineBtn}
                   onClick={() => { setActiveSection("tech"); setView("grid"); }}
                 >
-                  Technology
+                  {T.nav.taglineTech}
                 </button>
                 <span style={styles.taglineDot}>·</span>
                 <button
                   style={styles.taglineBtn}
                   onClick={() => { setActiveSection("essays"); setView("grid"); }}
                 >
-                  Ideas
+                  {T.nav.taglineIdeas}
                 </button>
               </div>
-            )}
           </div>
           {/* Lang toggle */}
           {!isMobile && (
