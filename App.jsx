@@ -96,7 +96,7 @@ const TRANSLATIONS = {
       words: "words", save: "Save", publish: "Publish Post", update: "Update Post",
     },
     common: { readMore: "Read more", showLess: "Show less" },
-    grid: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post" },
+    grid: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post", by: "by" },
     footer: "© 2026 Fukun · All Rights Reserved",
   },
   zh: {
@@ -189,7 +189,7 @@ const TRANSLATIONS = {
       words: "字", save: "保存", publish: "发布文章", update: "更新文章",
     },
     common: { readMore: "阅读更多", showLess: "收起" },
-    grid: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇" },
+    grid: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇", by: "作者" },
     footer: "© 2026 Fukun · 版权所有",
   },
 };
@@ -821,12 +821,27 @@ function EntryCard({ entry, comments, onEdit, onDelete, onOpenPost, onAddComment
       <div style={styles.cardContent}>
         {/* Header */}
         <div style={styles.cardHeader}>
-            <h3 style={{ ...styles.cardTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{entry.title}</h3>
-          <span style={styles.cardDate}>{formattedDate}</span>
+          <h3 style={{ ...styles.cardTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{entry.title}</h3>
+          <div style={styles.cardMeta}>
+            <span style={styles.cardDate}>{formattedDate}</span>
+            {entry.author && entry.author.length > 0 && (
+              <span style={styles.cardAuthor}>{T.grid.by} {entry.author.join(", ")}</span>
+            )}
+          </div>
         </div>
 
         {/* Body Preview */}
         <p style={styles.cardBody}>{preview}</p>
+
+        {/* Tags */}
+        {entry.tags && entry.tags.length > 0 && (
+          <div style={styles.cardTags}>
+            {entry.tags.map((tag) => (
+              <span key={tag} style={styles.cardTag}>{tag}</span>
+            ))}
+          </div>
+        )}
+
         {entry.body.length > 180 && (
           <button style={styles.toggleBtn} onClick={() => onOpenPost(entry)}>
             {T.common.readMore}
@@ -940,7 +955,18 @@ function PostView({ entry, onBack, T, lang }) {
       <header style={styles.postHeader}>
         <h1 style={{ ...styles.postTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{entry.title}</h1>
         {formattedDate && <p style={styles.postDate}>{formattedDate}</p>}
+        {entry.author && entry.author.length > 0 && (
+          <p style={styles.postAuthor}>{T.grid.by} {entry.author.join(", ")}</p>
+        )}
       </header>
+
+      {entry.tags && entry.tags.length > 0 && (
+        <div style={styles.postTags}>
+          {entry.tags.map((tag) => (
+            <span key={tag} style={styles.postTag}>{tag}</span>
+          ))}
+        </div>
+      )}
 
       <div style={styles.postBody}>{entry.body}</div>
 
@@ -1801,6 +1827,36 @@ const styles = {
     letterSpacing: "0.5px",
     fontWeight: 500,
   },
+  cardMeta: {
+    display: "flex",
+    alignItems: "center",
+    gap: 10,
+    marginTop: 4,
+  },
+  cardAuthor: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 11,
+    color: "#5A8A8E",
+    fontWeight: 600,
+    letterSpacing: "0.3px",
+  },
+  cardTags: {
+    display: "flex",
+    flexWrap: "wrap",
+    gap: 6,
+    marginBottom: 10,
+  },
+  cardTag: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 10,
+    color: "#2B5054",
+    background: "rgba(43, 80, 84, 0.1)",
+    border: "none",
+    borderRadius: 999,
+    padding: "2px 8px",
+    fontWeight: 600,
+    letterSpacing: "0.3px",
+  },
   cardBody: {
     fontSize: 13,
     lineHeight: 1.6,
@@ -1866,6 +1922,30 @@ const styles = {
     fontSize: 12,
     color: "#7FA3A7",
     margin: 0,
+  },
+  postAuthor: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 12,
+    color: "#5A8A8E",
+    margin: "4px 0 0 0",
+    fontWeight: 600,
+  },
+  postTags: {
+    display: "flex",
+    flexWrap: "wrap",
+    gap: 6,
+    marginBottom: 16,
+  },
+  postTag: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 11,
+    color: "#2B5054",
+    background: "rgba(43, 80, 84, 0.1)",
+    border: "none",
+    borderRadius: 999,
+    padding: "3px 10px",
+    fontWeight: 600,
+    letterSpacing: "0.3px",
   },
   postBody: {
     fontFamily: "'Newsreader', serif",

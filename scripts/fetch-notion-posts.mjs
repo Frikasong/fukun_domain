@@ -86,6 +86,33 @@ function getSectionProperty(properties) {
   return "tech";
 }
 
+function getAuthorProperty(properties) {
+  for (const value of Object.values(properties || {})) {
+    if (value?.type === "people" && Array.isArray(value.people)) {
+      const names = value.people.map((p) => p?.name || p?.id || "").filter(Boolean);
+      return names.length > 0 ? names : null;
+    }
+  }
+  return null;
+}
+
+function getTagsProperty(properties) {
+  for (const value of Object.values(properties || {})) {
+    if (value?.type === "multi_select" && Array.isArray(value.multi_select)) {
+      const tags = value.multi_select.map((t) => t?.name || "").filter(Boolean);
+      return tags.length > 0 ? tags : null;
+    }
+    if (value?.type === "rich_text") {
+      const text = richTextToPlain(value.rich_text);
+      if (text) {
+        const tags = text.split(",").map((t) => t.trim()).filter(Boolean);
+        return tags.length > 0 ? tags : null;
+      }
+    }
+  }
+  return null;
+}
+
 function getPublishedProperty(properties) {
   const explicitFalseTerms = ["draft", "private", "idea", "todo", "wip", "archive", "archived"];
   const explicitTrueTerms = ["publish", "published", "live", "public", "done", "ready"];
@@ -199,6 +226,8 @@ async function main() {
       const title = getTitleProperty(properties);
       const date = getDateProperty(properties);
       const section = getSectionProperty(properties);
+      const author = getAuthorProperty(properties);
+      const tags = getTagsProperty(properties);
 
       if (DEBUG_PROPERTIES) {
         for (const [name, value] of Object.entries(properties)) {
@@ -217,6 +246,8 @@ async function main() {
         title,
         date,
         section,
+        author,
+        tags,
         body: bodyText || "(No content yet)",
         summary: summarize(bodyText || ""),
         images: [],
