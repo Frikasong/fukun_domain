@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T12:31:18.720Z",
+  "generatedAt": "2026-03-21T18:25:49.032Z",
   "highlights": {
     "na": [],
     "cn": []
@@ -1209,6 +1209,16 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/lokvproqap8df2jebwmu",
+        "title": "宇树科技靠融资还是靠卖货活着？翻完招股书，我们挖到了这8个关键点",
+        "url": "https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-21T21:06:36.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/uo9qdplcoext95xug8n4",
         "title": "Cursor 新模型被指就是Kimi K2.5，联创回应：确实是，下次我们会说清楚",
         "url": "https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4?utm_source=rss&utm_medium=article",
@@ -1696,16 +1706,6 @@
         "publishedAt": "2026-03-20T01:20:00.000Z",
         "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，深圳十镜科技有限公司（以下简称“十镜科技”）近日完成数千万元天使轮融资，本轮由元禾原点投资，融资资金将主要用于核心技术研发、产品结构迭代优化及小批量量产落地。首款产品Spiro计划于 2026年4月在北美独立站上线、6月量产。 十镜科技成立于2025年7月，创始人兼CEO赵之赫是一名95后连续创业者，博士毕业于香港中文大学，他曾出任智能穿戴硬件企业物启科技CEO，并推出全球首款AI情绪吊坠Nuna。联",
         "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/p0umitxd3w2fafiwv6r0",
-        "title": "针对库存优化的 Snowflake Intelligence 供应链助手 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/p0UmiTXd3w2fAfIWV6r0?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-19T21:37:49.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
         "region": "cn"
       }
     ]
