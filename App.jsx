@@ -921,66 +921,76 @@ function PostView({ entry, onBack, T, lang }) {
   const galleryLabel = lang === "zh" ? "图片" : "Gallery";
   const attachmentsLabel = lang === "zh" ? "附件" : "Attachments";
 
-  const renderBody = (text, blocks) => {
-    if (!blocks || !Array.isArray(blocks) || blocks.length === 0) {
-      if (!text) return null;
-      return <p style={styles.postParagraph}>{text}</p>;
-    }
+  const renderBody = (text) => {
+    if (!text) return null;
 
+    const lines = text.split("\n");
     const els = [];
-    let bulletGroup = null;
-    let numGroup = null;
     let i = 0;
 
-    const flushBullets = () => {
-      if (bulletGroup && bulletGroup.length > 0) {
-        els.push(<ul key={`bl-${i}`} style={styles.postUl}>{bulletGroup.map((t, j) => <li key={j} style={styles.postLi}>{t}</li>)}</ul>);
-        bulletGroup = null;
-      }
-    };
+    while (i < lines.length) {
+      const line = lines[i];
+      const trimmed = line.trim();
 
-    const flushNumbers = () => {
-      if (numGroup && numGroup.length > 0) {
-        els.push(<ol key={`nl-${i}`} style={styles.postOl}>{numGroup.map((t, j) => <li key={j} style={styles.postLi}>{t}</li>)}</ol>);
-        numGroup = null;
-      }
-    };
+      if (!trimmed) { i++; continue; }
 
-    for (const block of blocks) {
-      i++;
-      if (block.type === "bullet") {
-        flushNumbers();
-        if (!bulletGroup) bulletGroup = [];
-        bulletGroup.push(block.text);
+      if (trimmed === "---") {
+        els.push(<hr key={i} style={styles.postHr} />);
+        i++;
         continue;
       }
-      if (block.type === "number") {
-        flushBullets();
-        if (!numGroup) numGroup = [];
-        numGroup.push(block.text);
+
+      if (trimmed.startsWith("# ")) {
+        els.push(<h2 key={i} style={styles.postH1}>{trimmed.slice(2)}</h2>);
+        i++;
         continue;
       }
-      flushBullets();
-      flushNumbers();
 
-      if (block.type === "h1") {
-        els.push(<h2 key={`h1-${i}`} style={styles.postH1}>{block.text}</h2>);
-      } else if (block.type === "h2") {
-        els.push(<h3 key={`h2-${i}`} style={styles.postH2}>{block.text}</h3>);
-      } else if (block.type === "h3") {
-        els.push(<h4 key={`h3-${i}`} style={styles.postH3}>{block.text}</h4>);
-      } else if (block.type === "quote") {
-        els.push(<blockquote key={`q-${i}`} style={styles.postQuote}>{block.text}</blockquote>);
-      } else if (block.type === "callout") {
-        els.push(<aside key={`c-${i}`} style={styles.postCallout}>{block.text}</aside>);
-      } else if (block.type === "divider") {
-        els.push(<hr key={`d-${i}`} style={styles.postHr} />);
-      } else if (block.type === "paragraph" && block.text) {
-        els.push(<p key={`p-${i}`} style={styles.postParagraph}>{block.text}</p>);
+      if (trimmed.startsWith("## ")) {
+        els.push(<h3 key={i} style={styles.postH2}>{trimmed.slice(3)}</h3>);
+        i++;
+        continue;
+      }
+
+      if (trimmed.startsWith("### ")) {
+        els.push(<h4 key={i} style={styles.postH3}>{trimmed.slice(4)}</h4>);
+        i++;
+        continue;
+      }
+
+      if (trimmed.startsWith("- ") || trimmed.startsWith("* ")) {
+        const bullets = [];
+        while (i < lines.length && (lines[i].trim().startsWith("- ") || lines[i].trim().startsWith("* "))) {
+          bullets.push(lines[i].trim().slice(2));
+          i++;
+        }
+        els.push(<ul key={i} style={styles.postUl}>
+          {bullets.map((b, j) => <li key={j} style={styles.postLi}>{b}</li>)}
+        </ul>);
+        continue;
+      }
+
+      if (/^\d+\. /.test(trimmed)) {
+        const nums = [];
+        while (i < lines.length && /^\d+\. /.test(lines[i].trim())) {
+          nums.push(lines[i].trim().replace(/^\d+\. /, ""));
+          i++;
+        }
+        els.push(<ol key={i} style={styles.postOl}>
+          {nums.map((n, j) => <li key={j} style={styles.postLi}>{n}</li>)}
+        </ol>);
+        continue;
+      }
+
+      const paragraphs = [];
+      while (i < lines.length && lines[i].trim() && !lines[i].trim().startsWith("#") && lines[i].trim() !== "---") {
+        paragraphs.push(lines[i]);
+        i++;
+      }
+      if (paragraphs.length > 0) {
+        els.push(<p key={i} style={styles.postParagraph}>{paragraphs.join(" ")}</p>);
       }
     }
-    flushBullets();
-    flushNumbers();
 
     return els.length > 0 ? els : null;
   };
@@ -1011,7 +1021,7 @@ function PostView({ entry, onBack, T, lang }) {
         </div>
       )}
 
-      <div style={styles.postBody}>{renderBody(entry.body, entry.bodyBlocks)}</div>
+      <div style={styles.postBody}>{renderBody(entry.body)}</div>
 
       {entry.images && entry.images.length > 1 && (
         <section style={styles.postSection}>
@@ -2175,14 +2185,14 @@ const styles = {
   postHr: {
     border: "none",
     borderTop: "1px solid rgba(43,80,84,0.15)",
-    margin: "32px 0",
+    margin: "28px 0",
   },
   postUl: {
-    margin: "0 0 20px 0",
+    margin: "0 0 18px 0",
     paddingLeft: 28,
   },
   postOl: {
-    margin: "0 0 20px 0",
+    margin: "0 0 18px 0",
     paddingLeft: 28,
   },
   postLi: {
@@ -2191,18 +2201,6 @@ const styles = {
     lineHeight: 1.9,
     color: "#2f3335",
     marginBottom: 6,
-  },
-  postCallout: {
-    background: "rgba(43, 80, 84, 0.06)",
-    borderLeft: "3px solid #2B5054",
-    borderRadius: "0 8px 8px 0",
-    padding: "14px 18px",
-    margin: "20px 0",
-    fontFamily: "'Newsreader', serif",
-    fontSize: 18,
-    fontStyle: "italic",
-    color: "#2B5054",
-    lineHeight: 1.7,
   },
   postSection: {
     marginTop: 24,
