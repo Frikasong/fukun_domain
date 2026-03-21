@@ -921,6 +921,44 @@ function PostView({ entry, onBack, T, lang }) {
   const galleryLabel = lang === "zh" ? "图片" : "Gallery";
   const attachmentsLabel = lang === "zh" ? "附件" : "Attachments";
 
+  const renderBody = (text) => {
+    if (!text) return null;
+    const paragraphs = text.split(/\n\n+/);
+    return paragraphs.map((para, i) => {
+      const trimmed = para.trim();
+      if (!trimmed) return null;
+      if (trimmed.startsWith("== H1 ==")) {
+        return <h2 key={i} style={styles.postH1}>{trimmed.replace(/^== H1 ==\s*/, "")}</h2>;
+      }
+      if (trimmed.startsWith("== H2 ==")) {
+        return <h3 key={i} style={styles.postH2}>{trimmed.replace(/^== H2 ==\s*/, "")}</h3>;
+      }
+      if (trimmed.startsWith("== H3 ==")) {
+        return <h4 key={i} style={styles.postH3}>{trimmed.replace(/^== H3 ==\s*/, "")}</h4>;
+      }
+      if (trimmed.startsWith("───")) {
+        return <hr key={i} style={styles.postHr} />;
+      }
+      const lines = trimmed.split(/\n/);
+      return (
+        <p key={i} style={styles.postParagraph}>
+          {lines.map((line, j) => {
+            if (line.startsWith("• ")) {
+              return <span key={j} style={styles.postBullet}>{line}\n</span>;
+            }
+            if (line.startsWith("① ")) {
+              return <span key={j} style={styles.postNumbered}>{line}\n</span>;
+            }
+            if ((line.startsWith('"') && line.endsWith('"')) || (line.startsWith('"') && line.length > 1)) {
+              return <blockquote key={j} style={styles.postQuote}>{line.replace(/^"|"$/g, "")}</blockquote>;
+            }
+            return <span key={j}>{line}\n</span>;
+          })}
+        </p>
+      );
+    });
+  };
+
   return (
     <article style={styles.postWrap}>
       <button style={styles.postBackBtn} onClick={onBack}>{T.editor.back}</button>
@@ -947,7 +985,7 @@ function PostView({ entry, onBack, T, lang }) {
         </div>
       )}
 
-      <div style={styles.postBody}>{entry.body}</div>
+      <div style={styles.postBody}>{renderBody(entry.body)}</div>
 
       {entry.images && entry.images.length > 1 && (
         <section style={styles.postSection}>
@@ -2061,7 +2099,71 @@ const styles = {
     fontSize: 20,
     lineHeight: 1.9,
     color: "#2f3335",
+  },
+  postParagraph: {
+    fontFamily: "'Newsreader', serif",
+    fontSize: 20,
+    lineHeight: 1.9,
+    color: "#2f3335",
+    margin: "0 0 18px 0",
     whiteSpace: "pre-wrap",
+  },
+  postH1: {
+    fontFamily: "'Newsreader', serif",
+    fontSize: "clamp(24px, 3vw, 32px)",
+    fontWeight: 500,
+    fontStyle: "italic",
+    color: "#13181a",
+    margin: "32px 0 12px 0",
+    lineHeight: 1.15,
+    letterSpacing: "-0.3px",
+  },
+  postH2: {
+    fontFamily: "'Newsreader', serif",
+    fontSize: "clamp(20px, 2.5vw, 26px)",
+    fontWeight: 500,
+    fontStyle: "italic",
+    color: "#13181a",
+    margin: "24px 0 10px 0",
+    lineHeight: 1.2,
+  },
+  postH3: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 15,
+    fontWeight: 700,
+    color: "#2B5054",
+    margin: "20px 0 8px 0",
+    letterSpacing: "1.5px",
+    textTransform: "uppercase",
+  },
+  postQuote: {
+    fontFamily: "'Newsreader', serif",
+    fontSize: 22,
+    fontStyle: "italic",
+    color: "#35666a",
+    borderLeft: "3px solid #2B5054",
+    paddingLeft: 18,
+    margin: "20px 0",
+    lineHeight: 1.7,
+  },
+  postBullet: {
+    display: "block",
+    fontFamily: "'Newsreader', serif",
+    fontSize: 20,
+    lineHeight: 1.9,
+    color: "#2f3335",
+  },
+  postNumbered: {
+    display: "block",
+    fontFamily: "'Newsreader', serif",
+    fontSize: 20,
+    lineHeight: 1.9,
+    color: "#2f3335",
+  },
+  postHr: {
+    border: "none",
+    borderTop: "1px solid rgba(43,80,84,0.15)",
+    margin: "28px 0",
   },
   postSection: {
     marginTop: 24,
