@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T01:15:50.087Z",
+  "generatedAt": "2026-03-21T06:33:42.050Z",
   "highlights": {
     "na": [],
     "cn": []
@@ -1209,12 +1209,172 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/vgttepwpcd101iwm9wqi",
+        "title": "AI Agent 的记忆中间件：火山 Mem0 架构拆解及落地实践｜QCon北京",
+        "url": "https://www.infoq.cn/article/VGTtEPwPCd101Iwm9wQi?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-21T09:54:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/qhxw1ucvywhtx7w9eddp",
         "title": "AI 成本压不住？AKS 用 DRA + vGPU 给出一条新路",
         "url": "https://www.infoq.cn/article/QhXW1UCVYwHtx7W9EdDp?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-21T08:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732314690240769",
+        "title": "百度网盘GenFlow全新升级，融合OpenClaw，支持多人AI协作",
+        "url": "https://36kr.com/newsflashes/3732314690240769?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T06:26:50.000Z",
+        "summary": "36氪获悉，3月21日，百度网盘宣布全新升级GenFlow，并兼容OpenClaw能力，该功能已上线PC客户端及全新推出的团队空间，个人用户、团队可以在百度网盘一键部署OpenClaw、开箱即用。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732313819791369",
+        "title": "美药管局在全美召回近9万瓶儿童布洛芬药物",
+        "url": "https://36kr.com/newsflashes/3732313819791369?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T06:25:57.000Z",
+        "summary": "美国食品和药物管理局日前宣布，召回近9万瓶在全美范围内分销的儿童布洛芬药物，原因是消费者投诉药液中存在异物。据美药管局发布的召回报告，这批药物由总部位于印度班加罗尔的国际药企进步制药公司在印度制造，品牌为塔罗制药公司“儿童布洛芬口服混悬液”，规格为每5毫升含布洛芬有效成分100毫克，瓶装容量120毫升。此次召回涉及的产品共计89592瓶，有效期至2027年1月31日。（新华社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732204385501448",
+        "title": "网易云音乐接入OpenClaw",
+        "url": "https://36kr.com/newsflashes/3732204385501448?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T04:51:30.000Z",
+        "summary": "36氪获悉，3月21日，网易云音乐宣布全面接入OpenClaw，并将其音乐推荐、音乐搜索等基础能力封装成一系列标准化CLI（标准接口）及自动化Skill，成为业内首个向AI Agent开放核心音乐服务能力的平台。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732202908516610",
+        "title": "报告：影石全景相机及拇指相机全球市占双第一，增速强劲",
+        "url": "https://36kr.com/newsflashes/3732202908516610?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T04:33:07.000Z",
+        "summary": "3月21日，IDC发布2025全球手持智能相机报告，市场高速增长，全景相机突破12.12亿美元、同比大增88%。影石Insta360以66%市占率蝉联全球全景相机第一，拇指相机销售额以57%份额登顶全球第一，广义运动相机销售额位居全球前列第二。数据显示，影石广角、全景、拇指相机销售额分别同比增长321%、61%、89%，整体广义运动相机销售额增幅则达97.5%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732182190653449",
+        "title": "机构：受零部件成本影响，电视和显示器面板价格上涨",
+        "url": "https://36kr.com/newsflashes/3732182190653449?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T04:27:55.000Z",
+        "summary": "36氪获悉，3月20日，TrendForce集邦咨询公布了3月面板价格趋势：2026年3月，电视和显示器面板价格上涨，笔电面板价格止跌。进入3月份，品牌持续针对第二季后接踵而至的促销档期作准备，包括世界杯赛事、中国618促销，以及北美Prime Day等，因此电视面板需求仍然保持稳定态势。同时，考虑到存储器与各式零部件有成本持续上涨的压力，品牌客户增加提前备货的意愿。预计面板厂也将掌握需求稳定的机会，持续维持电视面板价格上涨的态势。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732181565652998",
+        "title": "多家品牌金饰价格跌破1400元/克",
+        "url": "https://36kr.com/newsflashes/3732181565652998?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T04:11:25.000Z",
+        "summary": "截至3月21日收盘，现货黄金下跌3.42%，跌破4500美元关口，报收于4491.67美元/盎司。本周以来，现货黄金连破5000美元、4900美元、4800美元、4700美元，4600美元、4500美元6个价格关口，累计跌幅约10.49%。查询发现，周生生、周大福、六福珠宝、老庙黄金的金饰价格跌破1400元/克。（中新经纬）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732029962912007",
+        "title": "改革正式启动，哥伦比亚广播公司新闻部裁员6%",
+        "url": "https://36kr.com/newsflashes/3732029962912007?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T03:42:04.000Z",
+        "summary": "哥伦比亚广播公司（CBS）新闻部于周五裁员约 6%—— 这是大卫・埃里森接管其母公司派拉蒙环球以来，该新闻网的第二轮裁员。CBS 新闻部目前约有 1100 名员工，因此周五的裁员将导致数十人离职。高管将此次裁员解释为一次艰难但必要的编辑部资源重新配置。这是自去年夏天大卫・埃里森掌控派拉蒙以来，CBS 新闻部进行的第二轮裁员。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732029301309705",
+        "title": "航司燃油费上涨预期走强，消费者开始提前“囤”机票",
+        "url": "https://36kr.com/newsflashes/3732029301309705?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T03:22:24.000Z",
+        "summary": "国际原油价格持续高位震荡，航司成本压力正加速向客户端传导。近期，国内多家航司密集上调国际航线燃油附加费，涨幅普遍在50%以上，部分航线甚至翻倍。虽然国内市场仍处于节后传统淡季，但随着燃油费上调预期持续走强，不少消费者开始提前预订两周后甚至一个月后的出行机票，试图锁定当前相对较低的出行成本。（证券日报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731988126121985",
+        "title": "杭州新元素药业股份有限公司递表港交所",
+        "url": "https://36kr.com/newsflashes/3731988126121985?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T03:00:31.000Z",
+        "summary": "36氪获悉，港交所文件显示，杭州新元素药业股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731987738624000",
+        "title": "Nexstar宣布完成对Tegna收购，八州总检察长起诉阻止合并",
+        "url": "https://36kr.com/newsflashes/3731987738624000?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T02:53:07.000Z",
+        "summary": "Nexstar传媒集团（Nexstar）宣布已完成对Tegna（Tegna）的收购，将美国两大电视台运营集团合二为一。但这笔交易仍面临法律审查：八州总检察长已提起反垄断诉讼，要求阻止此次收购。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3732100232298503",
+        "title": "“我的前额叶罢工了”，年轻人争相确诊“网红病”？",
+        "url": "https://36kr.com/p/3732100232298503?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T02:51:33.000Z",
+        "summary": "当代年轻人对待病的态度，像薛定谔的猫一般充满矛盾。 有时讳疾忌医，不敢看自己的体检报告，对报告里已确诊的小结节、轻度脂肪肝、胃炎装聋作哑，安慰自己没啥大事。 有时又上赶着帮自己“确诊”新疾病：“我说我怎么天天活人微死还犯懒呢，原来我是前额叶受损啊。” 网友疯传的前额叶梗图。（图/社交平台截图） 最近，又轮到了前额叶。 这个原本常见于神经科学教科书中的专业术语，近期一跃成为了热搜常客。 与ADHD、PUA、躁郁症等专业名词刚刚走红时的状况",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731986439847944",
+        "title": "PT Merdeka Gold Resources Tbk-S递表港交所",
+        "url": "https://36kr.com/newsflashes/3731986439847944?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T02:27:45.000Z",
+        "summary": "36氪获悉，港交所文件显示，PT Merdeka Gold Resources Tbk-S向港交所提交上市申请书，联席保荐人为瑞银、中信证券。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731985496915974",
+        "title": "软银计划在俄亥俄建设5000亿美元的巨型AI数据中心",
+        "url": "https://36kr.com/newsflashes/3731985496915974?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T02:12:50.000Z",
+        "summary": "软银集团正筹划在俄亥俄打造一个规模庞大的数据中心基础设施项目，首席执行官孙正义表示将向这一单一项目投入5000亿美元。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731984704897288",
+        "title": "苹果CEO库克：新款Mac吸引了创纪录的首购客户",
+        "url": "https://36kr.com/newsflashes/3731984704897288?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T01:56:02.000Z",
+        "summary": "苹果上周推出三款全新Mac机型：MacBook Neo、搭载M5芯片的MacBook Air，以及配备M5 Pro与M5 Max芯片的MacBook Pro。苹果首席执行官蒂姆・库克周五表示，本次新品首发创下首次购买Mac用户数量的历史新高。尽管并未单独提及某款产品，但数据初步反映出MacBook Neo的火爆人气，其起售价为599美元（学生价499美元），瞄准庞大的Windows电脑与Chromebook换机用户市场。（第一财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731984117907713",
+        "title": "华泰证券：油、气处理量下降导致硫磺供给缺口，多方面冲击化工及金属",
+        "url": "https://36kr.com/newsflashes/3731984117907713?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T01:27:24.000Z",
+        "summary": "36氪获悉，华泰证券研报表示，据Kepler，2025年经霍尔木兹海峡出口的硫磺占全球近半，叠加原油供给受限导致东亚炼厂负荷存下降预期，且北美页岩油气含硫量偏低，中东硫磺减供后全球供给缺口凸显，华泰证券认为硫磺供需矛盾中期或难以扭转。据S&P Global，全球硫酸约58%用于磷肥，其余包括镍、铜、铀等金属加工，以及钛白粉、尼龙、染料、锂电正极等制造，伴随硫磺供应趋紧以及价格高位，磷石膏制酸、草酸亚铁制磷酸铁、氯化法钛白粉等差异化生产路",
         "category": "updates",
         "region": "cn"
       },
@@ -1409,146 +1569,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3731267743268867",
-        "title": "*ST步森：控股股东将变更为延丰数字，股票下周一复牌",
-        "url": "https://36kr.com/newsflashes/3731267743268867?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:41:49.000Z",
-        "summary": "36氪获悉，*ST步森公告，公司控股股东方维同创与广州延丰数字科技有限公司（简称“延丰数字”）签署了《股份转让协议》，方维同创拟以协议转让的方式将其持有的公司2133.38万股股份（占公司总股本14.81%）转让给延丰数字，本次股份转让的交易对价总额为3.01575亿元，相应标的股份单价为14.136元/股。本次交易完成后，延丰数字将成为公司控股股东，延丰数字的实际控制人王波将成为公司的实际控制人。公司股票将于2026年3月23日（星期",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731263773311233",
-        "title": "汤臣倍健：2025年归母净利润7.82亿元，同比增长19.81%",
-        "url": "https://36kr.com/newsflashes/3731263773311233?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:37:47.000Z",
-        "summary": "36氪获悉，汤臣倍健发布2025年业绩报告。报告显示，2025年实现营业收入62.65亿元，同比下降8.38%；归属于上市公司股东的净利润7.82亿元，同比增长19.81%；基本每股收益0.47元。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731263018074370",
-        "title": "上海银行：2025年净利润241.93亿元，同比增长2.69%",
-        "url": "https://36kr.com/newsflashes/3731263018074370?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:37:01.000Z",
-        "summary": "36氪获悉，上海银行发布2025年业绩报告。报告显示，2025年实现营业收入547.61亿元，同比增长3.35%；归母净利润241.93亿元，同比增长2.69%。2025年末集团不良贷款率1.18%，与上年末持平。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731262495506439",
-        "title": "MOVA AtomForm将赴美国硅谷发布首款智能12喷嘴3D打印机",
-        "url": "https://36kr.com/newsflashes/3731262495506439?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:36:29.000Z",
-        "summary": "36氪获悉，MOVA AtomForm宣布将于美国圣何塞时间3月24日13时（北京时间3月25日凌晨4时）在美国硅谷举行产品发布会，正式推出首款拥有智能12喷嘴的桌面级3D打印机Palette 300。据MOVA AtomForm此前透露，该3D打印机搭载OmniElement™全自动喷嘴切换系统，配备12个独立喷嘴，最高支持36种颜色与12种材料的一体打印，使换料速度提升50%，材料浪费减少90%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731257992970504",
-        "title": "德福科技：拟收购慧儒科技35.15%股权并增资，合计持股51.16%",
-        "url": "https://36kr.com/newsflashes/3731257992970504?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:31:54.000Z",
-        "summary": "36氪获悉，德福科技公告，公司拟以现金1.02亿元收购安徽慧儒科技有限公司35.15%股权，并与深圳慧儒共同向慧儒科技增资，其中德福科技增资8405.55万元。本次交易完成后，德福科技将合计持有慧儒科技51.16%股权，慧儒科技将成为公司控股子公司。本次收购及增资事项不构成关联交易和重大资产重组，已获董事会审议通过，无需提交股东大会审议。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731255547150343",
-        "title": "平安银行：2025年归母净利润426.33亿元，同比下降4.20%",
-        "url": "https://36kr.com/newsflashes/3731255547150343?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:29:25.000Z",
-        "summary": "36氪获悉，平安银行发布2025年业绩报告。报告显示，2025年实现营业收入1314.42亿元，同比下降10.40%；归属于本行股东的净利润426.33亿元，同比下降4.20%；基本每股收益2.07元。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731251967541252",
-        "title": "何小鹏：第二代VLA拉动日均试驾量与Ultra版本车型销量均翻倍",
-        "url": "https://36kr.com/newsflashes/3731251967541252?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:25:46.000Z",
-        "summary": "36氪获悉，2025年业绩会上，小鹏汽车CEO何小鹏表示，为实现从L2+向L4跨越并推动全球部署，公司对自动驾驶技术架构进行了重构。第二代VLA模型已开始向用户陆续推送，这是面向L4全自动驾驶时代交付的首个版本。当前，小鹏全国732家门店已全面开放第二代VLA试驾，3月日均试驾量环比提升一倍，Ultra及Ultra SE车型销量占比提升超过一倍。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731248353083401",
-        "title": "Eightco对OpenAI追加投资4000万美元",
-        "url": "https://36kr.com/newsflashes/3731248353083401?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:22:06.000Z",
-        "summary": "Eightco公司3月20日宣布向OpenAI追加投资4000万美元，此次投资紧随公司此前5000万美元的投资之后，使Eightco对OpenAI总投资额达到9000万美元。随着此次最新投资，OpenAI目前约占Eightco总持仓的30%。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731246006665223",
-        "title": "苹果CEO库克来华：中国对我们来说依旧是最重要的伙伴",
-        "url": "https://36kr.com/newsflashes/3731246006665223?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:19:43.000Z",
-        "summary": "中国贸促会会长任鸿斌3月20日在京会见美国苹果公司首席执行官蒂姆·库克。苹果公司首席执行官 蒂姆·库克：中国依旧是我们最重要的供应链合作伙伴。总台央视记者 杨理天：请用一个词形容中国市场对于苹果的意义？蒂姆·库克：非常重要，中国贸促会一直是我们至关重要的合作伙伴，我们非常高兴能够再次交流、共商发展方向，探讨眼前的诸多发展机遇。中国对我们而言至关重要，我们还会继续来中国。（央视新闻）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731239890731264",
-        "title": "“章鱼动力”获近5000万美元首轮融资",
-        "url": "https://36kr.com/newsflashes/3731239890731264?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:13:29.000Z",
-        "summary": "36氪获悉，专注物理AGI领域的“章鱼动力”（SynapX）正式官宣完成近5000万美元首轮融资，本轮由地平线、高瓴创投、小米战投、顺为资本、线性资本五大顶级机构联合投资。据披露，本轮融资资金将定向投入三大核心板块：核心技术与产品研发、全模态数据体系搭建、全球顶尖人才引进。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731234957557765",
-        "title": "新金路：实控人、董事长刘江东拟减持不超2%公司股份",
-        "url": "https://36kr.com/newsflashes/3731234957557765?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:08:28.000Z",
-        "summary": "36氪获悉，新金路公告，第一大股东、实际控制人、董事长刘江东拟以集中竞价交易方式和大宗交易方式减持不超过2%的公司股份，合计不超过1297.09万股，其中，集中竞价交易方式减持不超过1%公司股份，大宗交易方式减持1%公司股份。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731234623914242",
-        "title": "马斯克称Cursor新模型基于K2.5微调",
-        "url": "https://36kr.com/newsflashes/3731234623914242?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:08:08.000Z",
-        "summary": "36氪获悉，编程工具Cursor今天凌晨发布自研前沿编码模型Composer 2，因在测评中超过Claude Opus 4.6并主打性价比引发行业广泛关注。但很快有开发者发现，Composer 2是基于Kimi K2.5微调而来，马斯克也在社交媒体发文表示，“是的，这就是Kimi K2.5。”这是一周内马斯克再次点名Kimi。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731227662401536",
-        "title": "深交所：对“ST 京蓝”异常交易相关投资者采取暂停交易等措施",
-        "url": "https://36kr.com/newsflashes/3731227662401536?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:01:03.000Z",
-        "summary": "36氪获悉，深交所发布通知，2026年3月16日至3月20日，本所共对148起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形；共对18起上市公司重大事项进行核查。近期“ST 京蓝”股价出现严重异常波动，公司停牌核查并发布风险提示公告，部分投资者在交易该股过程中存在影响股票交易正常秩序的异常交易行为，本所依规对相关投资者采取了暂停交易等自律监管措施。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731224882446340",
-        "title": "复宏汉霖：2025年实现营收66.666亿元，同比增长16.5%",
-        "url": "https://36kr.com/newsflashes/3731224882446340?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T11:58:13.000Z",
-        "summary": "36氪获悉，复宏汉霖发布2025年年度业绩。业绩期内，公司实现营收66.666亿元，同比增长16.5%；净利润8.270亿元，公司全年研发投入达24.919亿元，同比增长35.4%，在持续加大创新投入的背景下，研发投入前利润达23.425亿元，同比增长26.2%。这是公司自2023年首次实现全年盈利以来，连续三年实现营收、利润双增长，展现出稳健的盈利韧性和高质量增长能力。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/c7fwgbqhyrwfxgqmge5t",
         "title": "作业帮Flink On K8s落地实践",
         "url": "https://www.infoq.cn/article/C7FWgbQHyRwfxGQMge5T?utm_source=rss&utm_medium=article",
@@ -1669,16 +1689,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3730515366871046",
-        "title": "8点1氪丨贾国龙推出新品牌“天边砂锅焖面”；涨价4000元，新一代小米SU7起售价21.99万元；麦当劳回应卖蛋挞",
-        "url": "https://36kr.com/p/3730515366871046?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T23:59:21.000Z",
-        "summary": "今日热点导览 ZARA、H&M、拉夫劳伦等，被海关总署点名通报 腾讯股价大跌原因：加大AI投入或削减回购 欧盟证实：马斯克X缴纳1.2亿欧元罚款 中国移动“移动梦网”等业务将下线 现货黄金跌破4700美元 腾讯回应在美游戏投资 TOP 3大新闻 贾国龙新品牌做焖面，人均消费40元至50元 西贝餐饮集团创始人、董事长贾国龙的最新创业项目“天边砂锅焖面”已在北京798艺术区悄然落地，这家新店2月13日开业，人均消费40元至50元，主打品类是",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/p0umitxd3w2fafiwv6r0",
         "title": "针对库存优化的 Snowflake Intelligence 供应链助手 ｜ 技术实践",
         "url": "https://www.infoq.cn/article/p0UmiTXd3w2fAfIWV6r0?utm_source=rss&utm_medium=article",
@@ -1694,16 +1704,6 @@
         "url": "https://www.infoq.cn/article/wxlURmwIyV0JWJRHswAx?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-19T21:35:07.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/d0fgghb46woiqtaubgaf",
-        "title": "从AI编程到Agent开发 九章云极智算云助力生态普惠升级",
-        "url": "https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-19T15:04:13.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
