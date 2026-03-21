@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T06:33:42.050Z",
+  "generatedAt": "2026-03-21T12:31:18.720Z",
   "highlights": {
     "na": [],
     "cn": []
@@ -577,16 +577,6 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/introducing-gpt-5-4",
-        "title": "Introducing GPT-5.4",
-        "url": "https://openai.com/index/introducing-gpt-5-4",
-        "source": "OpenAI News",
-        "publishedAt": "2026-03-05T10:00:00.000Z",
-        "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-4-thinking-system-card",
         "title": "GPT-5.4 Thinking System Card",
         "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
@@ -607,6 +597,16 @@
         "region": "na"
       },
       {
+        "id": "OpenAI News:openai.com/index/introducing-gpt-5-4",
+        "title": "Introducing GPT-5.4",
+        "url": "https://openai.com/index/introducing-gpt-5-4",
+        "source": "OpenAI News",
+        "publishedAt": "2026-03-05T10:00:00.000Z",
+        "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "OpenAI News:openai.com/index/ai-education-opportunity",
         "title": "Ensuring AI use in education leads to opportunity",
         "url": "https://openai.com/index/ai-education-opportunity",
@@ -617,22 +617,22 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/chatgpt-for-excel",
-        "title": "Introducing ChatGPT for Excel and new financial data integrations",
-        "url": "https://openai.com/index/chatgpt-for-excel",
-        "source": "OpenAI News",
-        "publishedAt": "2026-03-05T00:00:00.000Z",
-        "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/introducing-the-adoption-news-channel",
         "title": "Introducing the Adoption news channel",
         "url": "https://openai.com/index/introducing-the-adoption-news-channel",
         "source": "OpenAI News",
         "publishedAt": "2026-03-05T00:00:00.000Z",
         "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/chatgpt-for-excel",
+        "title": "Introducing ChatGPT for Excel and new financial data integrations",
+        "url": "https://openai.com/index/chatgpt-for-excel",
+        "source": "OpenAI News",
+        "publishedAt": "2026-03-05T00:00:00.000Z",
+        "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
         "category": "articles",
         "region": "na"
       },
@@ -687,16 +687,6 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/axios-allison-murphy",
-        "title": "How Axios uses AI to help deliver high-impact local journalism",
-        "url": "https://openai.com/index/axios-allison-murphy",
-        "source": "OpenAI News",
-        "publishedAt": "2026-03-04T00:00:00.000Z",
-        "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
-        "category": "skills",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/understanding-ai-and-learning-outcomes",
         "title": "Understanding AI and learning outcomes",
         "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
@@ -704,6 +694,16 @@
         "publishedAt": "2026-03-04T00:00:00.000Z",
         "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/axios-allison-murphy",
+        "title": "How Axios uses AI to help deliver high-impact local journalism",
+        "url": "https://openai.com/index/axios-allison-murphy",
+        "source": "OpenAI News",
+        "publishedAt": "2026-03-04T00:00:00.000Z",
+        "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+        "category": "skills",
         "region": "na"
       },
       {
@@ -787,16 +787,6 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-        "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-        "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-        "source": "OpenAI News",
-        "publishedAt": "2026-02-27T05:30:00.000Z",
-        "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
-        "category": "skills",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/amazon-partnership",
         "title": "OpenAI and Amazon announce strategic partnership",
         "url": "https://openai.com/index/amazon-partnership",
@@ -804,6 +794,16 @@
         "publishedAt": "2026-02-27T05:30:00.000Z",
         "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+        "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+        "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+        "source": "OpenAI News",
+        "publishedAt": "2026-02-27T05:30:00.000Z",
+        "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+        "category": "skills",
         "region": "na"
       },
       {
@@ -1187,16 +1187,6 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/scaling-social-science-research",
-        "title": "Scaling social science research",
-        "url": "https://openai.com/index/scaling-social-science-research",
-        "source": "OpenAI News",
-        "publishedAt": "2026-02-13T09:00:00.000Z",
-        "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/beyond-rate-limits",
         "title": "Beyond rate limits: scaling access to Codex and Sora",
         "url": "https://openai.com/index/beyond-rate-limits",
@@ -1205,9 +1195,29 @@
         "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
         "category": "updates",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-social-science-research",
+        "title": "Scaling social science research",
+        "url": "https://openai.com/index/scaling-social-science-research",
+        "source": "OpenAI News",
+        "publishedAt": "2026-02-13T09:00:00.000Z",
+        "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/uo9qdplcoext95xug8n4",
+        "title": "Cursor 新模型被指就是Kimi K2.5，联创回应：确实是，下次我们会说清楚",
+        "url": "https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-21T18:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/vgttepwpcd101iwm9wqi",
         "title": "AI Agent 的记忆中间件：火山 Mem0 架构拆解及落地实践｜QCon北京",
@@ -1219,12 +1229,132 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3732477835346184",
+        "title": "协创数据：公司及下属企业均与超微电脑没有任何业务合作关系",
+        "url": "https://36kr.com/newsflashes/3732477835346184?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T09:12:47.000Z",
+        "summary": "36氪获悉，协创数据在互动平台表示，公司及下属企业均与超微电脑没有任何业务合作关系。请勿轻信市场传闻，公司就近期互联网及市场上出现的针对公司的不实信息，已正式发布严正声明，对相关虚假言论予以澄清驳斥。公司已委托其常年法律顾问广东信达律师事务所就上述不实信息开展全面核查，并全权负责相关维权事宜，依法维护公司及全体股东的合法权益。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732458470441217",
+        "title": "阿尔凯默斯在印度推出司美格鲁肽注射液",
+        "url": "https://36kr.com/newsflashes/3732458470441217?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T08:53:05.000Z",
+        "summary": "据报道，阿尔凯默斯（Alkem Labs）在印度推出司美格鲁肽注射液，产品品牌名为Semasize、Obesema及Hepaglide，每周疗程价格最低为450卢比，每月四剂售价1800卢比。（第一财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732458131783689",
+        "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
+        "url": "https://36kr.com/newsflashes/3732458131783689?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T08:52:45.000Z",
+        "summary": "3月20日，国家人工智能应用中试基地（能源领域电力方向）2026年联盟工作会议暨首期生态活动在广州举行。南网数字集团人工智能研究中心、华为、中兴、百度等8家企业机构，作为首批代表正式入驻中试基地。第一财经记者了解到，作为电力人工智能领域的“桥梁型平台”，中试基地已成功连接100多家不同领域单位，推动资源高效共享与协同拓展。此次首批入驻的8家企业机构，还包括天合科技、南瑞信通、天数智芯、泰豪软件等。（第一财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732456438481157",
+        "title": "亚马逊正开发整合AI能力且与其语音助手Alexa同步的智能手机",
+        "url": "https://36kr.com/newsflashes/3732456438481157?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T08:51:01.000Z",
+        "summary": "据媒体周五（3月20日）援引知情人士消息报道，亚马逊正在开发一款整合人工智能能力并能与公司语音助手Alexa同步的智能手机。该项目内部代号为“Transformer”，由亚马逊设备与服务部门负责研发，定位为一款高度个性化的移动设备。该手机的核心在于通过AI技术简化用户操作，可能无需传统应用商店即可使用功能，旨在让用户更便捷地使用亚马逊购物、Prime Video和Grubhub等服务。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732454808436740",
+        "title": "我国自主研发的期刊评价体系正式发布",
+        "url": "https://36kr.com/newsflashes/3732454808436740?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T08:49:22.000Z",
+        "summary": "3月21日，东壁科技数据联合中国医学科学院医学信息研究所等单位在上海正式发布全球医学与生命科学高质量期刊列表，这也是我国自主研发的期刊评价体系。科研团队从全球4万多本医学、生命科学期刊中遴选出4027本高质量医学期刊、3064本高质量生命科学期刊，并根据期刊引文网络层级结构中的学术影响力，将遴选出的高质量期刊划分为ABCD四个等级，分别代表所在学科领域的顶级期刊、具有较高学术威望的期刊、具有良好学术声誉的期刊、学术水平得到广泛认可的期刊",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732454087786501",
+        "title": "欧洲央行管委Nagel：如有必要，可以迅速行动应对通胀风险",
+        "url": "https://36kr.com/newsflashes/3732454087786501?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T08:48:38.000Z",
+        "summary": "欧洲央行管理委员会成员、德国央行行长Joachim Nagel表示，如果有迹象显示伊朗战争导致通胀预期超过2%，欧洲央行已准备好迅速作出回应。Nagel在德国戈斯拉尔发表讲话时说，虽然货币政策无法阻止能源冲击造成通胀在短期内偏离目标，但如果实际价格涨幅产生波及效应、可能影响中期走势，欧洲央行就必须采取行动。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732452663804162",
+        "title": "华为将发布首款风冷散热手机",
+        "url": "https://36kr.com/newsflashes/3732452663804162?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T08:47:11.000Z",
+        "summary": "华为将于3月23日举行的华为春季新品发布会上发布华为Mate80系列全新版本，其首次在圆形镜头模组内部集成了一颗主动散热风扇，是华为首款内置主动风冷散热系统的手机。（证券时报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732449006502148",
+        "title": "我国电动汽车充电基础设施总数达2101.0万个",
+        "url": "https://36kr.com/newsflashes/3732449006502148?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T08:43:28.000Z",
+        "summary": "3月21日，国家能源局发布2026年2月全国电动汽车充电设施数据。根据国家充电设施监测服务平台数据，截至2026年2月底，我国电动汽车充电基础设施（枪）总数达到2101.0万个，同比增长47.8%。其中：公共充电设施（枪）483.4万个，同比增长28.8%，公共充电设施额定总功率达到2.29亿千瓦，平均功率约为47.41千瓦；私人充电设施（枪）1617.6万个，同比增长54.6%，私人充电设施报装用电容量达到1.41亿千伏安。（央视新闻",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732441440665859",
+        "title": "LiblibAI发布AI视频创作平台LibTV",
+        "url": "https://36kr.com/newsflashes/3732441440665859?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T08:35:46.000Z",
+        "summary": "36氪获悉，近日，LiblibAI正式发布AI视频创作平台LibTV，上线首日访问量突破10万。据了解，LibTV首创双入口模式，一面是专业创作者，另一面是Agent，将其视作“新型用户”，为Agent提供可以直接调度的视频生产能力。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732411719794952",
+        "title": "胖东来正与酒鬼酒洽谈600元新品",
+        "url": "https://36kr.com/newsflashes/3732411719794952?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T08:05:32.000Z",
+        "summary": "胖东来与酒鬼酒拟推出次高端白酒新品。知情人士透露：“新品定价600-800元，双方已就该产品洽谈了一段时间。”去年7月，酒鬼酒与胖东来推出首款联名产品“酒鬼·自由爱”。该产品面向大众市场，定价200元，综合成本168.26元，毛利率15.87%。新品上市后曾一度热销，线上和线下均出现短暂断货。（酒业内参）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/qhxw1ucvywhtx7w9eddp",
         "title": "AI 成本压不住？AKS 用 DRA + vGPU 给出一条新路",
         "url": "https://www.infoq.cn/article/QhXW1UCVYwHtx7W9EdDp?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-21T08:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732387328655360",
+        "title": "马斯克：Optimus+PV将是首个冯诺依曼探测器",
+        "url": "https://36kr.com/newsflashes/3732387328655360?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T07:40:43.000Z",
+        "summary": "36氪获悉，马斯克表示Optimus+PV将是首个冯诺依曼探测器，它完全能够利用太空中的原材料进行自我复制。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3732341580841218",
+        "title": "雷军官宣：XiaomiMiMo首周限免开放",
+        "url": "https://36kr.com/newsflashes/3732341580841218?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T06:54:11.000Z",
+        "summary": "36氪获悉，雷军发博表示：Xiaomi MiMo联合OpenClaw、OpenCode、KiloCode、Cline和BLACKBOXAI五大主流Agent框架，首周限免开放。欢迎国内开发者试用。",
         "category": "updates",
         "region": "cn"
       },
@@ -1309,26 +1439,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3731988126121985",
-        "title": "杭州新元素药业股份有限公司递表港交所",
-        "url": "https://36kr.com/newsflashes/3731988126121985?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T03:00:31.000Z",
-        "summary": "36氪获悉，港交所文件显示，杭州新元素药业股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731987738624000",
-        "title": "Nexstar宣布完成对Tegna收购，八州总检察长起诉阻止合并",
-        "url": "https://36kr.com/newsflashes/3731987738624000?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T02:53:07.000Z",
-        "summary": "Nexstar传媒集团（Nexstar）宣布已完成对Tegna（Tegna）的收购，将美国两大电视台运营集团合二为一。但这笔交易仍面临法律审查：八州总检察长已提起反垄断诉讼，要求阻止此次收购。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3732100232298503",
         "title": "“我的前额叶罢工了”，年轻人争相确诊“网红病”？",
         "url": "https://36kr.com/p/3732100232298503?f=rss",
@@ -1339,72 +1449,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3731986439847944",
-        "title": "PT Merdeka Gold Resources Tbk-S递表港交所",
-        "url": "https://36kr.com/newsflashes/3731986439847944?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T02:27:45.000Z",
-        "summary": "36氪获悉，港交所文件显示，PT Merdeka Gold Resources Tbk-S向港交所提交上市申请书，联席保荐人为瑞银、中信证券。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731985496915974",
-        "title": "软银计划在俄亥俄建设5000亿美元的巨型AI数据中心",
-        "url": "https://36kr.com/newsflashes/3731985496915974?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T02:12:50.000Z",
-        "summary": "软银集团正筹划在俄亥俄打造一个规模庞大的数据中心基础设施项目，首席执行官孙正义表示将向这一单一项目投入5000亿美元。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731984704897288",
-        "title": "苹果CEO库克：新款Mac吸引了创纪录的首购客户",
-        "url": "https://36kr.com/newsflashes/3731984704897288?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T01:56:02.000Z",
-        "summary": "苹果上周推出三款全新Mac机型：MacBook Neo、搭载M5芯片的MacBook Air，以及配备M5 Pro与M5 Max芯片的MacBook Pro。苹果首席执行官蒂姆・库克周五表示，本次新品首发创下首次购买Mac用户数量的历史新高。尽管并未单独提及某款产品，但数据初步反映出MacBook Neo的火爆人气，其起售价为599美元（学生价499美元），瞄准庞大的Windows电脑与Chromebook换机用户市场。（第一财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731984117907713",
-        "title": "华泰证券：油、气处理量下降导致硫磺供给缺口，多方面冲击化工及金属",
-        "url": "https://36kr.com/newsflashes/3731984117907713?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T01:27:24.000Z",
-        "summary": "36氪获悉，华泰证券研报表示，据Kepler，2025年经霍尔木兹海峡出口的硫磺占全球近半，叠加原油供给受限导致东亚炼厂负荷存下降预期，且北美页岩油气含硫量偏低，中东硫磺减供后全球供给缺口凸显，华泰证券认为硫磺供需矛盾中期或难以扭转。据S&P Global，全球硫酸约58%用于磷肥，其余包括镍、铜、铀等金属加工，以及钛白粉、尼龙、染料、锂电正极等制造，伴随硫磺供应趋紧以及价格高位，磷石膏制酸、草酸亚铁制磷酸铁、氯化法钛白粉等差异化生产路",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3732001538490631",
         "title": "9点1氪：傅盛凌晨开撕周鸿祎称“被欠1个亿”，360回应；字节跳动413亿元卖掉沐瞳科技；伊朗战事持续或致油价升至180美元",
         "url": "https://36kr.com/p/3732001538490631?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-03-21T01:13:44.000Z",
         "summary": "今日热点导览 商务部部长王文涛会见苹果公司首席执行官库克 贾国龙起家的西贝首店将缩减一半经营面积 特斯拉计划采购中国光伏设备？企业回应：确有此事 针对“漂白鸡爪”等“3·15”晚会曝光问题，多地立案溯源打击 中国学生平均留学预算超60万 TOP3大新闻 傅盛微信群里开撕周鸿祎称“欠钱不还”，360回应 3月20日，社交媒体流传的截图显示，当天凌晨，猎豹移动董事长兼CEO傅盛在微信聊天群里“开撕”360创始人周鸿祎，指责周鸿祎“欠钱不还，",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731983543599110",
-        "title": "马斯克被裁定在440亿美元收购案的欺诈诉讼中对Twitter股东负责",
-        "url": "https://36kr.com/newsflashes/3731983543599110?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T01:07:50.000Z",
-        "summary": "周五，美国联邦陪审团裁定埃隆-马斯克（Elon Musk）应承担责任，因为他试图压低推特（Twitter）这家社交媒体公司的股价，以便在2022年重新谈判或退出价值440亿美元的收购计划，从而欺骗了推特的股东。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731981744292101",
-        "title": "美股三大指数集体收跌，小鹏汽车跌超8%",
-        "url": "https://36kr.com/newsflashes/3731981744292101?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T01:00:00.000Z",
-        "summary": "36氪获悉，3月20日收盘，美股三大指数集体下跌，道指跌0.96%，纳指跌2.01%，标普500指数跌1.51%。大型科技股跌多涨少，特斯拉、英伟达跌超3%，Meta跌超2%，谷歌跌2%，微软、亚马逊跌超1%，苹果小幅下跌；Arm涨超1%，奈飞小幅上涨。热门中概股普跌，小鹏汽车跌超8%，蔚来跌超7%，B站跌超4%，百度跌超3%，腾讯音乐、阿里巴巴、拼多多、微博跌超1%。",
         "category": "updates",
         "region": "cn"
       },
@@ -1525,46 +1575,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-03-20T14:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731280465707273",
-        "title": "先导基电：拟定增募资不超35.1亿元，用于半导体光学部件研发及产业化项目等",
-        "url": "https://36kr.com/newsflashes/3731280465707273?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:54:46.000Z",
-        "summary": "36氪获悉，先导基电公告，公司拟向关联方先导科技集团有限公司发行不超过2.36亿股A股股票，发行价格为14.90元/股，募集资金总额不超过35.1亿元。扣除发行费用后，资金将用于半导体光学部件研发及产业化项目、半导体精密零部件和子系统研发及产业化项目、高端量测装备与生命科学仪器研发及产业化项目、铋材料业务升级改造项目。本次发行构成关联交易，尚需股东大会审议及监管机构注册批准。先导科技承诺所认购股份自发行结束之日起36个月内不得转让。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731273731276806",
-        "title": "德力股份：股东锦江集团拟减持不超3%公司股份",
-        "url": "https://36kr.com/newsflashes/3731273731276806?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:47:55.000Z",
-        "summary": "36氪获悉，德力股份公告，因自身经营需求，持股10.56%的大股东杭州锦江集团有限公司（简称“锦江集团”）拟以集中竞价交易方式和大宗交易方式合计减持不超1175.85万股公司股份，即不超3%的公司股份，预计减持时间为2026年4月15日至2026年7月12日。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731273217835268",
-        "title": "热门中概股美股盘前跌多涨少，小鹏汽车跌超3%",
-        "url": "https://36kr.com/newsflashes/3731273217835268?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:47:23.000Z",
-        "summary": "36氪获悉，热门中概股美股盘前跌多涨少，截至发稿，小鹏汽车跌超3%，微博跌超2%，百度、京东、蔚来跌超1%，B站跌近1%；阿里巴巴涨0.56%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731271689126147",
-        "title": "美股大型科技股盘前多数下跌，Arm涨超3%",
-        "url": "https://36kr.com/newsflashes/3731271689126147?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T12:45:50.000Z",
-        "summary": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，苹果跌0.76%，谷歌跌0.6%，亚马逊跌0.57%，微软跌0.53%，奈飞跌0.37%，英伟达跌0.23%，特斯拉跌0.21%；Arm涨超3%。",
         "category": "updates",
         "region": "cn"
       },
@@ -1694,16 +1704,6 @@
         "url": "https://www.infoq.cn/article/p0UmiTXd3w2fAfIWV6r0?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-19T21:37:49.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wxlurmwiyv0jwjrhswax",
-        "title": "我把 MiniMax M2.7 扔进真实业务里：它替我省了 BI 和程序员的钱",
-        "url": "https://www.infoq.cn/article/wxlURmwIyV0JWJRHswAx?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-19T21:35:07.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
