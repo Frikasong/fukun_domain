@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T18:36:38.660Z",
+  "generatedAt": "2026-03-21T01:15:50.087Z",
   "highlights": {
     "na": [],
     "cn": []
@@ -7,8 +7,28 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/federal&",
+        "title": "Federal judges speak out about threats becoming &#8216;ordinary&#8217;",
+        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/federal&#45;judges&#45;speak&#45;out&#45;about&#45;threats&#45;becoming&#45;ordinary/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-20T19:32:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/california&",
+        "title": "Lawyer among 3 people charged in alleged attack on 2 Jewish men",
+        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/california&#45;lawyer&#45;charged&#45;in&#45;attack&#45;on&#45;two&#45;jewish&#45;men/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-20T19:06:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/the&",
-        "title": "The Burton Book Review: &#8220;Lawless&#8221; by Leah Litman",
+        "title": "The Burton Book Review: &#8216;Lawless&#8217; by Leah Litman",
         "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;lawless&#45;by&#45;leah&#45;litman/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-03-20T18:18:00.000Z",
@@ -32,16 +52,6 @@
         "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/statement&#45;of&#45;aba&#45;president&#45;michelle&#45;a&#45;behnke&#45;re&#45;protecting&#45;the&#45;judiciary&#45;from&#45;personal&#45;attacks/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-03-20T16:09:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/california&",
-        "title": "California considers mandatory AI training for law students",
-        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/california&#45;considers&#45;mandatory&#45;ai&#45;training&#45;for&#45;law&#45;students/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-20T16:07:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -92,26 +102,6 @@
         "url": "https://www.abajournal.comhttps://www.abajournal.com/web/article/fail&#45;the&#45;bar&#45;exam&#45;retake&#45;might&#45;be&#45;an&#45;entirely&#45;different&#45;test/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-03-19T16:31:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/appellate&",
-        "title": "9th Circuit judge rebuked by colleagues for &#8216;vulgar barroom&#8217; language in dissent",
-        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/appellate&#45;judge&#45;rebuked&#45;by&#45;9th&#45;circuit&#45;colleagues&#45;for&#45;vulgar&#45;barroom&#45;language&#45;in&#45;dissent/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-19T16:18:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/columns/article/as&",
-        "title": "As fans look ahead to new baseball season, judges look back at game’s history",
-        "url": "https://www.abajournal.comhttps://www.abajournal.com/columns/article/as&#45;fans&#45;look&#45;ahead&#45;to&#45;new&#45;baseball&#45;season&#45;judges&#45;look&#45;back&#45;at&#45;games&#45;history/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-19T15:58:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1205,9 +1195,59 @@
         "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/beyond-rate-limits",
+        "title": "Beyond rate limits: scaling access to Codex and Sora",
+        "url": "https://openai.com/index/beyond-rate-limits",
+        "source": "OpenAI News",
+        "publishedAt": "2026-02-13T09:00:00.000Z",
+        "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+        "category": "updates",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qhxw1ucvywhtx7w9eddp",
+        "title": "AI 成本压不住？AKS 用 DRA + vGPU 给出一条新路",
+        "url": "https://www.infoq.cn/article/QhXW1UCVYwHtx7W9EdDp?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-21T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3732001538490631",
+        "title": "9点1氪：傅盛凌晨开撕周鸿祎称“被欠1个亿”，360回应；字节跳动413亿元卖掉沐瞳科技；伊朗战事持续或致油价升至180美元",
+        "url": "https://36kr.com/p/3732001538490631?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T01:13:44.000Z",
+        "summary": "今日热点导览 商务部部长王文涛会见苹果公司首席执行官库克 贾国龙起家的西贝首店将缩减一半经营面积 特斯拉计划采购中国光伏设备？企业回应：确有此事 针对“漂白鸡爪”等“3·15”晚会曝光问题，多地立案溯源打击 中国学生平均留学预算超60万 TOP3大新闻 傅盛微信群里开撕周鸿祎称“欠钱不还”，360回应 3月20日，社交媒体流传的截图显示，当天凌晨，猎豹移动董事长兼CEO傅盛在微信聊天群里“开撕”360创始人周鸿祎，指责周鸿祎“欠钱不还，",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731983543599110",
+        "title": "马斯克被裁定在440亿美元收购案的欺诈诉讼中对Twitter股东负责",
+        "url": "https://36kr.com/newsflashes/3731983543599110?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T01:07:50.000Z",
+        "summary": "周五，美国联邦陪审团裁定埃隆-马斯克（Elon Musk）应承担责任，因为他试图压低推特（Twitter）这家社交媒体公司的股价，以便在2022年重新谈判或退出价值440亿美元的收购计划，从而欺骗了推特的股东。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3731981744292101",
+        "title": "美股三大指数集体收跌，小鹏汽车跌超8%",
+        "url": "https://36kr.com/newsflashes/3731981744292101?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-21T01:00:00.000Z",
+        "summary": "36氪获悉，3月20日收盘，美股三大指数集体下跌，道指跌0.96%，纳指跌2.01%，标普500指数跌1.51%。大型科技股跌多涨少，特斯拉、英伟达跌超3%，Meta跌超2%，谷歌跌2%，微软、亚马逊跌超1%，苹果小幅下跌；Arm涨超1%，奈飞小幅上涨。热门中概股普跌，小鹏汽车跌超8%，蔚来跌超7%，B站跌超4%，百度跌超3%，腾讯音乐、阿里巴巴、拼多多、微博跌超1%。",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/scyozrqrtzztavdzhoc1",
         "title": "跨越数据孤岛：实现 100 家全球酒店绩效秒级监控的实战指南 ｜技术实践",
@@ -1519,26 +1559,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3731214572732679",
-        "title": "湘财股份：2025年净利润同比增长325.15%",
-        "url": "https://36kr.com/newsflashes/3731214572732679?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T11:47:44.000Z",
-        "summary": "36氪获悉，湘财股份发布2025年业绩报告。报告显示，公司2025年度实现营业收入24.20亿元，同比增长10.37%；归属于上市公司股东的净利润为4.64亿元，同比增长325.15%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3731209079292163",
-        "title": "舍得酒业：2025年净利润同比下降35.51%，拟10派3.1元",
-        "url": "https://36kr.com/newsflashes/3731209079292163?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T11:42:09.000Z",
-        "summary": "36氪获悉，舍得酒业发布2025年度报告。报告显示，2025年营业收入44.19亿元，同比下降17.51%；归母净利润2.23亿元，同比下降35.51%；基本每股收益0.6803元。公司拟每10股派发现金红利3.1元（含税）。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3731169592918273",
         "title": "氪星晚报｜迪卡侬正式入驻拼多多；特斯拉计划2026年批量交付Semi电动卡车，价格或低于30万美元；消息人士：马斯克团队采购光伏设备预计将在5月第一周发货",
         "url": "https://36kr.com/p/3731169592918273?f=rss",
@@ -1685,26 +1705,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-03-19T15:04:13.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/chukpajxio4oa3dwsdd3",
-        "title": "发 token 当工资？工程师不只拿现金和期权，开始按 token 分身价了",
-        "url": "https://www.infoq.cn/article/ChuKpAjxIo4oA3DwsdD3?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-19T14:40:13.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3729727275220613",
-        "title": "氪星晚报｜澳大利亚就业依然强劲，支持澳央行的鹰派立场；首款国产化“龙虾云电脑”发布；法官下令恢复美国之音员工职务，推翻特朗普关停决定",
-        "url": "https://36kr.com/p/3729727275220613?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-19T10:39:47.000Z",
-        "summary": "大公司： 马斯克：SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片 马斯克发文称，非常欣赏英伟达和黄仁勋，英伟达市值实至名归，SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片。 三星电子计划在2026年至少投入110万亿韩元用于研发与设施建设 三星电子计划在2026年至少投入110万亿韩元用于研发与设施建设。 小马智行与如祺出行共建Robotaxi车队，首批交付超百辆第七代无人车 36氪获悉，3月19日，小马智行向如祺出",
         "category": "updates",
         "region": "cn"
       }
