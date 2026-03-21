@@ -174,29 +174,24 @@ function blockToText(block) {
   if (data.rich_text) {
     const text = richTextToPlain(data.rich_text);
     if (!text) return "";
-    if (type === "heading_1") return `\n== H1 == ${text}`;
-    if (type === "heading_2") return `\n== H2 == ${text}`;
-    if (type === "heading_3") return `\n== H3 == ${text}`;
-    if (type === "bulleted_list_item") return `• ${text}`;
-    if (type === "numbered_list_item") return `① ${text}`;
-    if (type === "quote") return `"${text}"`;
+    if (type === "heading_1") return `\n\n== H1 == ${text}\n\n`;
+    if (type === "heading_2") return `\n\n== H2 == ${text}\n\n`;
+    if (type === "heading_3") return `\n\n== H3 == ${text}\n\n`;
+    if (type === "bulleted_list_item") return `\n• ${text}`;
+    if (type === "numbered_list_item") return `\n① ${text}`;
+    if (type === "quote") return `\n"${text}"\n`;
     return text;
   }
 
-  if (type === "divider") return "\n───\n";
+  if (type === "divider") return `\n\n───\n\n`;
   return "";
 }
 
 function cleanBody(raw) {
   return raw
-    .replace(/\n== H1 == /g, "\n")
-    .replace(/\n== H2 == /g, "\n")
-    .replace(/\n== H3 == /g, "\n")
-    .replace(/• /g, "• ")
-    .replace(/① /g, "① ")
+    .replace(/───/g, "───")
     .replace(/"\s*/g, '"')
     .replace(/\s*"/g, '"')
-    .replace(/───\n/g, "\n")
     .replace(/\n{3,}/g, "\n\n")
     .trim();
 }

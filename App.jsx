@@ -923,38 +923,28 @@ function PostView({ entry, onBack, T, lang }) {
 
   const renderBody = (text) => {
     if (!text) return null;
-    const paragraphs = text.split(/\n\n+/);
-    return paragraphs.map((para, i) => {
-      const trimmed = para.trim();
-      if (!trimmed) return null;
-      if (trimmed.startsWith("== H1 ==")) {
-        return <h2 key={i} style={styles.postH1}>{trimmed.replace(/^== H1 ==\s*/, "")}</h2>;
-      }
-      if (trimmed.startsWith("== H2 ==")) {
-        return <h3 key={i} style={styles.postH2}>{trimmed.replace(/^== H2 ==\s*/, "")}</h3>;
-      }
-      if (trimmed.startsWith("== H3 ==")) {
-        return <h4 key={i} style={styles.postH3}>{trimmed.replace(/^== H3 ==\s*/, "")}</h4>;
-      }
-      if (trimmed.startsWith("───")) {
-        return <hr key={i} style={styles.postHr} />;
-      }
-      const lines = trimmed.split(/\n/);
+    const parts = text.split(/\n\n+/);
+    return parts.map((chunk, i) => {
+      const t = chunk.trim();
+      if (!t) return null;
+      if (/^== H1 ==/.test(t)) return <h2 key={i} style={styles.postH1}>{t.replace(/^== H1 ==\s*/, "")}</h2>;
+      if (/^== H2 ==/.test(t)) return <h3 key={i} style={styles.postH2}>{t.replace(/^== H2 ==\s*/, "")}</h3>;
+      if (/^== H3 ==/.test(t)) return <h4 key={i} style={styles.postH3}>{t.replace(/^== H3 ==\s*/, "")}</h4>;
+      if (t.startsWith("───")) return <hr key={i} style={styles.postHr} />;
+      const lines = t.split(/\n/).filter(Boolean);
+      const bullets = lines.filter((l) => l.startsWith("• ") || l.startsWith("① "));
+      const prose = lines.filter((l) => !l.startsWith("• ") && !l.startsWith("① ") && !l.startsWith('"') && !l.endsWith('"'));
+      const quotes = lines.filter((l) => (l.startsWith('"') && l.endsWith('"')) || (l.startsWith('"')));
       return (
-        <p key={i} style={styles.postParagraph}>
-          {lines.map((line, j) => {
-            if (line.startsWith("• ")) {
-              return <span key={j} style={styles.postBullet}>{line}\n</span>;
-            }
-            if (line.startsWith("① ")) {
-              return <span key={j} style={styles.postNumbered}>{line}\n</span>;
-            }
-            if ((line.startsWith('"') && line.endsWith('"')) || (line.startsWith('"') && line.length > 1)) {
-              return <blockquote key={j} style={styles.postQuote}>{line.replace(/^"|"$/g, "")}</blockquote>;
-            }
-            return <span key={j}>{line}\n</span>;
-          })}
-        </p>
+        <div key={i}>
+          {prose.length > 0 && <p key="p" style={styles.postParagraph}>{prose.join(" ")}</p>}
+          {bullets.length > 0 && (
+            <ul key="ul" style={styles.postUl}>
+              {bullets.map((b, j) => <li key={j} style={styles.postLi}>{b.replace(/^[•①] /, "")}</li>)}
+            </ul>
+          )}
+          {quotes.map((q, j) => <blockquote key={`q${j}`} style={styles.postQuote}>{q.replace(/^"|"$/g, "")}</blockquote>)}
+        </div>
       );
     });
   };
@@ -2164,6 +2154,18 @@ const styles = {
     border: "none",
     borderTop: "1px solid rgba(43,80,84,0.15)",
     margin: "28px 0",
+  },
+  postUl: {
+    margin: "0 0 18px 0",
+    paddingLeft: 28,
+    listStyleType: "disc",
+  },
+  postLi: {
+    fontFamily: "'Newsreader', serif",
+    fontSize: 20,
+    lineHeight: 1.9,
+    color: "#2f3335",
+    marginBottom: 4,
   },
   postSection: {
     marginTop: 24,
