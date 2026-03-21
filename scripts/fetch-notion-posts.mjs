@@ -174,26 +174,40 @@ function blockToText(block) {
   if (data.rich_text) {
     const text = richTextToPlain(data.rich_text);
     if (!text) return "";
-    if (type === "heading_1") return `\n\n== H1 == ${text}\n\n`;
-    if (type === "heading_2") return `\n\n== H2 == ${text}\n\n`;
-    if (type === "heading_3") return `\n\n== H3 == ${text}\n\n`;
-    if (type === "bulleted_list_item") return `\n• ${text}`;
-    if (type === "numbered_list_item") return `\n① ${text}`;
-    if (type === "quote") return `\n"${text}"\n`;
-    return text;
+    if (type === "heading_1") return `\n\n§§H1§§${text}\n\n`;
+    if (type === "heading_2") return `\n\n§§H2§§${text}\n\n`;
+    if (type === "heading_3") return `\n\n§§H3§§${text}\n\n`;
+    if (type === "bulleted_list_item") return `\n\n§§BULLET§§${text}`;
+    if (type === "numbered_list_item") return `\n\n§§NUMBER§§${text}`;
+    if (type === "quote") return `\n\n§§QUOTE§§${text}`;
+    if (type === "callout") return `\n\n§§CALLOUT§§${text}`;
+    return text + "\n\n";
   }
 
-  if (type === "divider") return `\n\n───\n\n`;
+  if (type === "divider") return `\n\n§§DIVIDER§§\n\n`;
   return "";
 }
 
 function cleanBody(raw) {
-  return raw
-    .replace(/───/g, "───")
-    .replace(/"\s*/g, '"')
-    .replace(/\s*"/g, '"')
-    .replace(/\n{3,}/g, "\n\n")
-    .trim();
+  return raw.replace(/\n{3,}/g, "\n\n").trim();
+}
+
+function parseBodyToBlocks(body) {
+  const parts = body.split(/\n\n+/);
+  const blocks = [];
+  for (const p of parts) {
+    const t = p.trim();
+    if (!t || t === "§§DIVIDER§§") { blocks.push({ type: "divider" }); continue; }
+    if (t.startsWith("§§H1§§")) blocks.push({ type: "h1", text: t.replace("§§H1§§", "") });
+    else if (t.startsWith("§§H2§§")) blocks.push({ type: "h2", text: t.replace("§§H2§§", "") });
+    else if (t.startsWith("§§H3§§")) blocks.push({ type: "h3", text: t.replace("§§H3§§", "") });
+    else if (t.startsWith("§§QUOTE§§")) blocks.push({ type: "quote", text: t.replace("§§QUOTE§§", "") });
+    else if (t.startsWith("§§CALLOUT§§")) blocks.push({ type: "callout", text: t.replace("§§CALLOUT§§", "") });
+    else if (t.startsWith("§§BULLET§§")) blocks.push({ type: "bullet", text: t.replace("§§BULLET§§", "") });
+    else if (t.startsWith("§§NUMBER§§")) blocks.push({ type: "number", text: t.replace("§§NUMBER§§", "") });
+    else if (t) blocks.push({ type: "paragraph", text: t });
+  }
+  return blocks;
 }
 
 function summarize(text, max = 280) {
@@ -247,7 +261,9 @@ async function main() {
       }
 
       const blocks = await fetchPageBlocks(page.id);
-      const bodyText = cleanBody(blocks.map(blockToText).filter(Boolean).join("\n"));
+      const rawBody = blocks.map(blockToText).filter(Boolean).join("");
+      const bodyText = cleanBody(rawBody);
+      const bodyBlocks = parseBodyToBlocks(bodyText);
 
       entries.push({
         id: Number.parseInt(page.id.replace(/-/g, "").slice(0, 12), 16),
@@ -258,6 +274,7 @@ async function main() {
         author,
         tags,
         body: bodyText || "(No content yet)",
+        bodyBlocks,
         summary: summarize(bodyText || ""),
         images: [],
         attachments: []
