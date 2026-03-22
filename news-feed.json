@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-22T06:40:32.144Z",
+  "generatedAt": "2026-03-22T12:33:01.728Z",
   "highlights": {
     "na": [],
     "cn": []
@@ -1219,12 +1219,72 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3733795048587524",
+        "title": "中国AI大模型周调用量达4.69万亿Token",
+        "url": "https://36kr.com/newsflashes/3733795048587524?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T08:30:35.000Z",
+        "summary": "全球最大AI模型API聚合平台OpenRouter最新发布的数据显示，截至3月15日，中国AI大模型的周调用量达到4.69万亿Token，连续第二周超越美国。全球调用量排名前三的位置，更是被中国模型包揽。摩根大通预测，中国的AI推理Token消耗量将从2025年的约10千万亿增长至2030年的约3900千万亿，五年间增长约370倍。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733794493694209",
+        "title": "国产大模型连续5周霸榜全球冠军",
+        "url": "https://36kr.com/newsflashes/3733794493694209?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T08:00:02.000Z",
+        "summary": "国产大模型MiniMax M2.5连续五周霸榜全球大模型调用量冠军，在公司总部的办公区，产品研发人员向记者展示了直观的价格差距。“达到同样能力水平的海外模型跟我们相比，价格可能有十几倍的差距。”性价比正在成为国产大模型吸引全球用户的核心竞争力。这种性价比从何而来？第一个关键因素是技术创新，通过底层架构创新，从根本上降低了推理成本，简单来说，就是用更少的Token完成同样的任务。另一关键因素是能源优势，业内人士告诉记者，目前电费在算力成本",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/ia7cifkmwdqyjd1fsdeq",
         "title": "Java近期资讯：Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus和Commonhaus",
         "url": "https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-22T08:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733740133875715",
+        "title": "2025年我国非常规水利用量超250亿立方米",
+        "url": "https://36kr.com/newsflashes/3733740133875715?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T07:45:45.000Z",
+        "summary": "3月22日是第三十四个“世界水日”，第三十九个“中国水周”同步开启。2026年“节水中国行·安徽合肥”主题宣传活动上介绍，2025年我国非常规水利用量已超过250亿立方米。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733739661950979",
+        "title": "马斯克：“Terafab”项目将落户奥斯汀，由特斯拉和SpaceX共同运营",
+        "url": "https://36kr.com/newsflashes/3733739661950979?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T07:30:13.000Z",
+        "summary": "当地时间3月21日，马斯克就“Terafab”项目召开发布会，称这项旨在最终为机器人、人工智能和太空数据中心制造自有芯片的宏伟计划将落户奥斯汀，并由特斯拉和SpaceX共同运营。马斯克表示，他将首先在奥斯汀建立一座“先进技术晶圆厂”，该厂将配备制造和测试各类芯片所需的全套设备。 马斯克表示，尽管半导体行业正在增加产量，但其发展速度仍无法满足他预期的芯片需求。“这个速度远低于我们的预期，”马斯克表示。““要么我们建造‘太瓦级工厂’，要么我",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733739148738568",
+        "title": "大众旗下Scout计划在美打造独立品牌",
+        "url": "https://36kr.com/newsflashes/3733739148738568?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T07:15:42.000Z",
+        "summary": "当地时间3月21日，大众汽车集团旗下Scout品牌首席执行官斯科特·基奥（Scott Keogh）表示，Scout Motors将在美国打造独立品牌，并可能在未来考虑上市。基奥称，作为大众与Rivian合资项目的一部分，Scout的车型将采用Rivian的软件技术。Scout的增程版车型将使用在大众墨西哥工厂生产的发动机。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733738655973636",
+        "title": "潘功胜：将稳步推动金融业的高水平开放",
+        "url": "https://36kr.com/newsflashes/3733738655973636?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T07:00:12.000Z",
+        "summary": "中国人民银行行长潘功胜3月22日在中国发展高层论坛2026年年会上表示，我们将稳步推动金融业的高水平开放。深化金融市场互联互通、支付系统跨境互联，便利更多投资者投资中国金融市场。中国股市和债市规模均位居全球第二，市场深度、韧性和流动性持续提升。截至2025年底，境外机构和个人持有境内股票、债券、存贷款等人民币金融资产超过10万亿元。我们欢迎境外投资者参与和投资中国金融市场。近年来，人民币国际化取得积极进展，为境内外主体提供更加多元化的货",
         "category": "updates",
         "region": "cn"
       },
@@ -1375,66 +1435,6 @@
         "source": "36Kr",
         "publishedAt": "2026-03-22T03:15:14.000Z",
         "summary": "特斯拉自建芯片工厂“Terafab”项目即将于近期启动。当地时间3月21日，马斯克在社交媒体透露，该项目目标是每年生产超过1太瓦的计算能力（逻辑、内存和封装），其中约80%用于太空，约20%用于地面。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3733477270896902",
-        "title": "软银计划在美国俄亥俄州建设5000亿美元的巨型AI数据中心",
-        "url": "https://36kr.com/newsflashes/3733477270896902?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-22T03:00:20.000Z",
-        "summary": "软银首席执行官孙正义当地时间3月20日表示，软银集团正筹划在美国俄亥俄州打造一个规模庞大的数据中心基础设施项目，将向这一单一项目投入5000亿美元。软银拟在美国能源部拥有的一处前铀浓缩设施旧址建设该人工智能计算综合体，其用电规模可达10吉瓦，预计该数据中心项目第一阶段将涵盖800兆瓦电力，耗资300亿至400亿美元，并将于2028年初完工。该项目将采用价值约330亿美元的燃气发电，这些发电设施将在本十年末之前安装完毕。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3733476689592577",
-        "title": "2026无锡马拉松鸣枪开跑 多人刷新马拉松项目个人最好成绩",
-        "url": "https://36kr.com/newsflashes/3733476689592577?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-22T02:45:42.000Z",
-        "summary": "北京时间3月22日，在2026无锡马拉松比赛中，男子组冠军是来自埃塞俄比亚的选手Kemal HUSEN，成绩为02:07:07。来自中国贵州的马拉松新锐毛金虎跑出02:07:36的好成绩，获得亚军，刷新个人最好成绩。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3733475828695296",
-        "title": "北京高职自主招生报名今天启动",
-        "url": "https://36kr.com/newsflashes/3733475828695296?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-22T02:30:49.000Z",
-        "summary": "2026年北京市高等职业教育自主招生报名工作今天（22日）启动，到3月26日结束。今年共有34所高职院校参与自主招生。各招生院校将按照相关规定自主组织入学考试。每名考生限报一所院校。已参加北京市2026年高考报名的统考考生和单考考生均可报名参加高职自主招生。高职自主招生一般为“文化素质+职业技能”考试。需要提醒考生的是，被录取的考生不再参加当年高考。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3733492798095623",
-        "title": "小阔集团联合华晨宇共创全新日化家居品牌“重点”",
-        "url": "https://36kr.com/newsflashes/3733492798095623?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-22T02:25:16.000Z",
-        "summary": "3月22日，小阔集团与华晨宇联合创立的全新日化家居品牌“重点”正式发布，华晨宇出任品牌联合创始人。该品牌聚焦传统日化家居长期被忽略的微观需求，致力于为消费者提供细节、舒适、安全的日化家居解决方案。“重点”品牌的推出，将进一步完善小阔集团多品牌、多赛道的日化生态矩阵。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3733474717204743",
-        "title": "首钢与中国一汽成功合作研发2.4GPa级超高强度热成形钢",
-        "url": "https://36kr.com/newsflashes/3733474717204743?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-22T02:15:45.000Z",
-        "summary": "3月22日，首钢集团公众号消息，近日，首钢联合中国一汽成功合作完成2.4GPa（2400MPa）级热成形钢的材料开发与应用验证。这是全球汽车用材领域的又一次极限突破。该材料的成功开发，标志着我国在高性能汽车用钢应用领域迈入全球领先行列，为汽车安全与轻量化提供了革命性材料解决方案。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3733433736544263",
-        "title": "汤臣倍健：目前已在东南亚主要国家进行布局",
-        "url": "https://36kr.com/newsflashes/3733433736544263?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-22T02:00:03.000Z",
-        "summary": "3月22日，汤臣倍健在业绩电话会表示，公司将以本土化需求为核心驱动国际业务扩张，目前已在东南亚主要国家进行布局，将加速扩大东南亚线下渠道覆盖，推动线上渠道实现增长突破。",
         "category": "updates",
         "region": "cn"
       },
