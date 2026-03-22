@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-22T01:25:08.406Z",
+  "generatedAt": "2026-03-22T06:40:32.144Z",
   "highlights": {
     "na": [],
     "cn": []
@@ -1209,6 +1209,16 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/wwu9ccjys00j9ymgkhi7",
+        "title": "MCP Gateway：构建下一代 AI Agent 的“中枢网关”｜QCon北京",
+        "url": "https://www.infoq.cn/article/wwu9ccjyS00J9YMgKHI7?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-22T10:02:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/ia7cifkmwdqyjd1fsdeq",
         "title": "Java近期资讯：Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus和Commonhaus",
         "url": "https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article",
@@ -1219,22 +1229,212 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3733429003616261",
-        "title": "被AI“偷走”声音 配音演员集体维权：希望构建合法共存生态",
-        "url": "https://36kr.com/newsflashes/3733429003616261?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3733737868214534",
+        "title": "全球首个脑机接口创新产品获得医保编码",
+        "url": "https://36kr.com/newsflashes/3733737868214534?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-22T01:20:22.000Z",
-        "summary": "近日，多名配音演员相继公开发声，反对未经演员知情同意，擅自采集其声音素材用于AI训练、音色合成及商业变现的行为。从《甜蜜蜜》里的黎小军，到《无间道》中的刘建明，配音演员叶清塑造了许多经典的人物形象。就在不久前，短视频平台上出现了一集AI生成的短剧，许多观众通过弹幕刷屏：主人公的旁白是“叶清老师的声音”。接受记者采访时，叶清坦言，AI短剧里对他的音色还原度极高。类似的经历在配音行业中屡见不鲜。配音导演、配音演员李龙滨也经常成为这种侵权行为",
+        "publishedAt": "2026-03-22T06:34:34.000Z",
+        "summary": "据国家医保局消息，2026年3月13日，全球首款侵入式脑机接口医疗器械正式获批上市。3月15日，国家医保局主动对接、靠前服务，为该产品完成医保编码赋码，成功打通创新产品从获批上市到临床应用的关键环节，标志着脑机接口产业从“规划蓝图”正式驶入“落地快车道”。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3733421955760391",
-        "title": "中国充电联盟：1-2月充电基础设施增量为91.8万个",
-        "url": "https://36kr.com/newsflashes/3733421955760391?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3733635358736392",
+        "title": "966.56万吨！四川发现世界第二大轻稀土矿",
+        "url": "https://36kr.com/newsflashes/3733635358736392?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-22T01:13:12.000Z",
-        "summary": "据中国充电联盟消息，2026年1-2月，充电基础设施增量为91.8万个，同比上升44.8%。其中公共充电设施增量为11.7万个，同比减少53.8%，私人充电设施增量为80.1万个，同比上升110.4%。",
+        "publishedAt": "2026-03-22T06:00:09.000Z",
+        "summary": "近日，自然资源部发布最新找矿成果。四川冕宁县牦牛坪矿区稀土矿资源储量核实勘查项目，查明资源总量为966.56万吨稀土氧化物，同时伴生超大型萤石（2713.54万吨）、重晶石（3722.77万吨）资源。牦牛坪稀土矿系全球在产稀土矿山资源储量世界第二，仅次于内蒙古包头白云鄂博矿。对比此前已查明的316万吨资源量计算，牦牛坪稀土矿此次增储超过200%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733633528004617",
+        "title": "潘功胜：运用多种工具保持流动性充裕",
+        "url": "https://36kr.com/newsflashes/3733633528004617?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T05:45:18.000Z",
+        "summary": "中国人民银行行长潘功胜3月22日在中国发展高层论坛2026年年会上表示，将继续实施适度宽松的货币政策。综合运用存款准备金率、政策利率、公开市场操作等多种货币政策工具，保持流动性充裕。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733632950255622",
+        "title": "中国车企全球销量20多年来首超日本",
+        "url": "https://36kr.com/newsflashes/3733632950255622?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T05:30:40.000Z",
+        "summary": "据《日本经济新闻》网站21日报道，日本汽车制造商2025年全球累计汽车销量小幅下降至约2500万辆，自2000年以来首次跌落榜首。中国车企去年全球累计销量为近2700万辆，超越日本首次跃居世界第一。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733632235667718",
+        "title": "财政部部长：财政政策加大投资于人力度",
+        "url": "https://36kr.com/newsflashes/3733632235667718?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T05:15:54.000Z",
+        "summary": "3月22日，财政部部长蓝佛安在中国发展高层论坛2026年年会上表示，财政政策将更加突出投资于人。加大投资于人的力度。“十四五”时期财政民生投入接近100万亿元，占财政支出比重超过70%，推动建成全世界规模最大的教育体系、社会保障体系、医疗卫生体系。未来五年，我们将坚持尽力而为、量力而行，继续加大保障和改善民生力度，合理提高公共服务支出占财政支出的比重，提高民生类政府投资的比重。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733574460391431",
+        "title": "暴涨40%，霍尔木兹海峡“梗阻” 冲击氦气供应链",
+        "url": "https://36kr.com/newsflashes/3733574460391431?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T05:00:12.000Z",
+        "summary": "中东战事冲击了全球氦气供应链，并向更多产业扩散。在本轮冲突之前，卡塔尔供应了全球超过三分之一的氦气。霍尔木兹海峡航运受阻，已推动氦气价格明显走高。美国银行近期估计，根据不同市场情况，氦气现货价格最高已经上涨了大约40%。分析指出，在供应趋紧的情况下，对氦气有需求的关键行业往往更看重供应安全，而非价格，这也使得供应商更容易上调报价。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733634400387337",
+        "title": "李强出席中国发展高层论坛2026年年会开幕式并发表主旨演讲",
+        "url": "https://36kr.com/newsflashes/3733634400387337?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T04:49:19.000Z",
+        "summary": "3月22日上午，国务院总理李强在北京出席中国发展高层论坛2026年年会开幕式并发表主旨演讲。李强表示，保护主义不是解决问题的灵丹妙药。我们应当坚持开放、开拓精神，扩大自由贸易、积极推动创新。中国的进出口是在规则框架下进行的公平贸易，中方将坚定不移推进高水平对外开放，进口更多国外优质商品，同各方一道推动贸易优化平衡发展，合力做大全球经贸蛋糕。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733572718592007",
+        "title": "新阿维塔12预售发布会在重庆金融会展中心举办，新车共7个版本",
+        "url": "https://36kr.com/newsflashes/3733572718592007?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T04:45:24.000Z",
+        "summary": "2026年3月20日，新阿维塔12预售发布会在重庆金融会展中心举办。新车提供纯电与增程双动力，共推出7个车型版本，预售价29.99万元-43.99万元。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733568329531393",
+        "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
+        "url": "https://36kr.com/newsflashes/3733568329531393?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T04:30:53.000Z",
+        "summary": "中央财经委员会办公室分管日常工作的副主任、中央农村工作领导小组办公室主任韩文秀在“中国发展高层论坛2026年年会”上表示，面对人口减量发展、老龄化和少子化的结构性变化，“十五五”规划纲要首次将人口高质量发展单独成篇作出部署。中国注重在高质量发展中保障和改善民生，在满足民生需求中拓展高质量发展空间。当今人工智能时代，面临无所不在的冲击和渗透，全方位加以应对，坚持科技向善，促进高质量充分就业，优化收入分配结构，健全社会保障体系，促进社会公平",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733569113391362",
+        "title": "俄“进步MS-33”货运飞船定于今日发射",
+        "url": "https://36kr.com/newsflashes/3733569113391362?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T04:15:45.000Z",
+        "summary": "据俄罗斯国家航天集团此前发布的消息，“进步MS-33”货运飞船定于当地时间3月22日发射。飞船将为国际空间站送去超过2.5吨货物，包括空间站维修设备、实验装置、燃料、饮用水和食品等。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733567272239111",
+        "title": "微信推出官方龙虾插件",
+        "url": "https://36kr.com/newsflashes/3733567272239111?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T04:00:53.000Z",
+        "summary": "据腾讯官微3月22日消息，正式推出微信“ClawBot”插件，支持接入OpenClaw。用户扫码或复制命令，即可将OpenClaw接入微信。连接后，用户就能通过微信聊天的方式，快速调用自己的“龙虾”高效互动。除此之外，腾讯“养虾车间”云端虾Lighthouse、自研虾workbuddy、本地虾QClaw等均已就位。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733566639636740",
+        "title": "专属代码“NXA”启用 首票空运货物运抵雄安综合保税区",
+        "url": "https://36kr.com/newsflashes/3733566639636740?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T03:40:23.000Z",
+        "summary": "22日凌晨1时55分，新海航旗下首都航空JD488航班从斯里兰卡科伦坡飞抵北京大兴国际机场。随后，航班搭载的陶装饰品从大兴机场运抵雄安完成海关验核，标志着雄安国际空港正式投用。本次航空货运启用雄安航空三字代码“NXA”，以专属代码为“身份凭证”，国际货物可直接链接全球，雄安国际空港正式具备国际空运始发港与目的港功能。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733484525682947",
+        "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
+        "url": "https://36kr.com/newsflashes/3733484525682947?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T03:30:44.000Z",
+        "summary": "3月22日，苹果公司首席执行官蒂姆·库克在中国发展高层论坛2026年年会上表示，中国才华横溢的开发者群体每天都在挑战创新极限，他们利用技术构建的工具帮助人们学习技能、管理健康、激发新想法，成为强大的增长引擎，是新质生产力的典范，为全国带来繁荣与机遇。他同时指出，同样的创新精神也深刻改变着中国制造业：曾经依赖人工流程的企业，如今已跃升为全球最先进的制造商之一，在自动化和智能制造领域取得令人瞩目的进步，效率和水平达到全新高度。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3733553048256518",
+        "title": "Nothing在中国发布Headphone (a)与Phone (4a)系列，在性能过剩时代继续押注“设计优先”丨最前线",
+        "url": "https://36kr.com/p/3733553048256518?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T03:26:52.000Z",
+        "summary": "作者丨欧雪 编辑丨袁斯来 3月20日，总部位于伦敦的消费科技公司Nothing在中国上海召开新品发布会，正式推出头戴式耳机Headphone(a)和智能手机Phone(4a)系列。这是Nothing第二次在中国以线下发布会形式发布新品，显示出其对中国市场的投入正在逐步加深。 从定价来看，Headphone(a)国内首销价为1299元，Phone(4a)起售价为3299元（12GB+256GB），Pro版本售价4199元。两款产品均定位中",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733478139133961",
+        "title": "马斯克：“Terafab”项目目标年产能超1太瓦算力",
+        "url": "https://36kr.com/newsflashes/3733478139133961?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T03:15:14.000Z",
+        "summary": "特斯拉自建芯片工厂“Terafab”项目即将于近期启动。当地时间3月21日，马斯克在社交媒体透露，该项目目标是每年生产超过1太瓦的计算能力（逻辑、内存和封装），其中约80%用于太空，约20%用于地面。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733477270896902",
+        "title": "软银计划在美国俄亥俄州建设5000亿美元的巨型AI数据中心",
+        "url": "https://36kr.com/newsflashes/3733477270896902?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T03:00:20.000Z",
+        "summary": "软银首席执行官孙正义当地时间3月20日表示，软银集团正筹划在美国俄亥俄州打造一个规模庞大的数据中心基础设施项目，将向这一单一项目投入5000亿美元。软银拟在美国能源部拥有的一处前铀浓缩设施旧址建设该人工智能计算综合体，其用电规模可达10吉瓦，预计该数据中心项目第一阶段将涵盖800兆瓦电力，耗资300亿至400亿美元，并将于2028年初完工。该项目将采用价值约330亿美元的燃气发电，这些发电设施将在本十年末之前安装完毕。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733476689592577",
+        "title": "2026无锡马拉松鸣枪开跑 多人刷新马拉松项目个人最好成绩",
+        "url": "https://36kr.com/newsflashes/3733476689592577?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T02:45:42.000Z",
+        "summary": "北京时间3月22日，在2026无锡马拉松比赛中，男子组冠军是来自埃塞俄比亚的选手Kemal HUSEN，成绩为02:07:07。来自中国贵州的马拉松新锐毛金虎跑出02:07:36的好成绩，获得亚军，刷新个人最好成绩。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733475828695296",
+        "title": "北京高职自主招生报名今天启动",
+        "url": "https://36kr.com/newsflashes/3733475828695296?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T02:30:49.000Z",
+        "summary": "2026年北京市高等职业教育自主招生报名工作今天（22日）启动，到3月26日结束。今年共有34所高职院校参与自主招生。各招生院校将按照相关规定自主组织入学考试。每名考生限报一所院校。已参加北京市2026年高考报名的统考考生和单考考生均可报名参加高职自主招生。高职自主招生一般为“文化素质+职业技能”考试。需要提醒考生的是，被录取的考生不再参加当年高考。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733492798095623",
+        "title": "小阔集团联合华晨宇共创全新日化家居品牌“重点”",
+        "url": "https://36kr.com/newsflashes/3733492798095623?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T02:25:16.000Z",
+        "summary": "3月22日，小阔集团与华晨宇联合创立的全新日化家居品牌“重点”正式发布，华晨宇出任品牌联合创始人。该品牌聚焦传统日化家居长期被忽略的微观需求，致力于为消费者提供细节、舒适、安全的日化家居解决方案。“重点”品牌的推出，将进一步完善小阔集团多品牌、多赛道的日化生态矩阵。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733474717204743",
+        "title": "首钢与中国一汽成功合作研发2.4GPa级超高强度热成形钢",
+        "url": "https://36kr.com/newsflashes/3733474717204743?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T02:15:45.000Z",
+        "summary": "3月22日，首钢集团公众号消息，近日，首钢联合中国一汽成功合作完成2.4GPa（2400MPa）级热成形钢的材料开发与应用验证。这是全球汽车用材领域的又一次极限突破。该材料的成功开发，标志着我国在高性能汽车用钢应用领域迈入全球领先行列，为汽车安全与轻量化提供了革命性材料解决方案。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733433736544263",
+        "title": "汤臣倍健：目前已在东南亚主要国家进行布局",
+        "url": "https://36kr.com/newsflashes/3733433736544263?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T02:00:03.000Z",
+        "summary": "3月22日，汤臣倍健在业绩电话会表示，公司将以本土化需求为核心驱动国际业务扩张，目前已在东南亚主要国家进行布局，将加速扩大东南亚线下渠道覆盖，推动线上渠道实现增长突破。",
         "category": "updates",
         "region": "cn"
       },
@@ -1269,192 +1469,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3732477835346184",
-        "title": "协创数据：公司及下属企业均与超微电脑没有任何业务合作关系",
-        "url": "https://36kr.com/newsflashes/3732477835346184?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T09:12:47.000Z",
-        "summary": "36氪获悉，协创数据在互动平台表示，公司及下属企业均与超微电脑没有任何业务合作关系。请勿轻信市场传闻，公司就近期互联网及市场上出现的针对公司的不实信息，已正式发布严正声明，对相关虚假言论予以澄清驳斥。公司已委托其常年法律顾问广东信达律师事务所就上述不实信息开展全面核查，并全权负责相关维权事宜，依法维护公司及全体股东的合法权益。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732458470441217",
-        "title": "阿尔凯默斯在印度推出司美格鲁肽注射液",
-        "url": "https://36kr.com/newsflashes/3732458470441217?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T08:53:05.000Z",
-        "summary": "据报道，阿尔凯默斯（Alkem Labs）在印度推出司美格鲁肽注射液，产品品牌名为Semasize、Obesema及Hepaglide，每周疗程价格最低为450卢比，每月四剂售价1800卢比。（第一财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732458131783689",
-        "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
-        "url": "https://36kr.com/newsflashes/3732458131783689?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T08:52:45.000Z",
-        "summary": "3月20日，国家人工智能应用中试基地（能源领域电力方向）2026年联盟工作会议暨首期生态活动在广州举行。南网数字集团人工智能研究中心、华为、中兴、百度等8家企业机构，作为首批代表正式入驻中试基地。第一财经记者了解到，作为电力人工智能领域的“桥梁型平台”，中试基地已成功连接100多家不同领域单位，推动资源高效共享与协同拓展。此次首批入驻的8家企业机构，还包括天合科技、南瑞信通、天数智芯、泰豪软件等。（第一财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732456438481157",
-        "title": "亚马逊正开发整合AI能力且与其语音助手Alexa同步的智能手机",
-        "url": "https://36kr.com/newsflashes/3732456438481157?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T08:51:01.000Z",
-        "summary": "据媒体周五（3月20日）援引知情人士消息报道，亚马逊正在开发一款整合人工智能能力并能与公司语音助手Alexa同步的智能手机。该项目内部代号为“Transformer”，由亚马逊设备与服务部门负责研发，定位为一款高度个性化的移动设备。该手机的核心在于通过AI技术简化用户操作，可能无需传统应用商店即可使用功能，旨在让用户更便捷地使用亚马逊购物、Prime Video和Grubhub等服务。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732454808436740",
-        "title": "我国自主研发的期刊评价体系正式发布",
-        "url": "https://36kr.com/newsflashes/3732454808436740?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T08:49:22.000Z",
-        "summary": "3月21日，东壁科技数据联合中国医学科学院医学信息研究所等单位在上海正式发布全球医学与生命科学高质量期刊列表，这也是我国自主研发的期刊评价体系。科研团队从全球4万多本医学、生命科学期刊中遴选出4027本高质量医学期刊、3064本高质量生命科学期刊，并根据期刊引文网络层级结构中的学术影响力，将遴选出的高质量期刊划分为ABCD四个等级，分别代表所在学科领域的顶级期刊、具有较高学术威望的期刊、具有良好学术声誉的期刊、学术水平得到广泛认可的期刊",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732454087786501",
-        "title": "欧洲央行管委Nagel：如有必要，可以迅速行动应对通胀风险",
-        "url": "https://36kr.com/newsflashes/3732454087786501?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T08:48:38.000Z",
-        "summary": "欧洲央行管理委员会成员、德国央行行长Joachim Nagel表示，如果有迹象显示伊朗战争导致通胀预期超过2%，欧洲央行已准备好迅速作出回应。Nagel在德国戈斯拉尔发表讲话时说，虽然货币政策无法阻止能源冲击造成通胀在短期内偏离目标，但如果实际价格涨幅产生波及效应、可能影响中期走势，欧洲央行就必须采取行动。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732452663804162",
-        "title": "华为将发布首款风冷散热手机",
-        "url": "https://36kr.com/newsflashes/3732452663804162?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T08:47:11.000Z",
-        "summary": "华为将于3月23日举行的华为春季新品发布会上发布华为Mate80系列全新版本，其首次在圆形镜头模组内部集成了一颗主动散热风扇，是华为首款内置主动风冷散热系统的手机。（证券时报）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732449006502148",
-        "title": "我国电动汽车充电基础设施总数达2101.0万个",
-        "url": "https://36kr.com/newsflashes/3732449006502148?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T08:43:28.000Z",
-        "summary": "3月21日，国家能源局发布2026年2月全国电动汽车充电设施数据。根据国家充电设施监测服务平台数据，截至2026年2月底，我国电动汽车充电基础设施（枪）总数达到2101.0万个，同比增长47.8%。其中：公共充电设施（枪）483.4万个，同比增长28.8%，公共充电设施额定总功率达到2.29亿千瓦，平均功率约为47.41千瓦；私人充电设施（枪）1617.6万个，同比增长54.6%，私人充电设施报装用电容量达到1.41亿千伏安。（央视新闻",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732441440665859",
-        "title": "LiblibAI发布AI视频创作平台LibTV",
-        "url": "https://36kr.com/newsflashes/3732441440665859?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T08:35:46.000Z",
-        "summary": "36氪获悉，近日，LiblibAI正式发布AI视频创作平台LibTV，上线首日访问量突破10万。据了解，LibTV首创双入口模式，一面是专业创作者，另一面是Agent，将其视作“新型用户”，为Agent提供可以直接调度的视频生产能力。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732411719794952",
-        "title": "胖东来正与酒鬼酒洽谈600元新品",
-        "url": "https://36kr.com/newsflashes/3732411719794952?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T08:05:32.000Z",
-        "summary": "胖东来与酒鬼酒拟推出次高端白酒新品。知情人士透露：“新品定价600-800元，双方已就该产品洽谈了一段时间。”去年7月，酒鬼酒与胖东来推出首款联名产品“酒鬼·自由爱”。该产品面向大众市场，定价200元，综合成本168.26元，毛利率15.87%。新品上市后曾一度热销，线上和线下均出现短暂断货。（酒业内参）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/qhxw1ucvywhtx7w9eddp",
         "title": "AI 成本压不住？AKS 用 DRA + vGPU 给出一条新路",
         "url": "https://www.infoq.cn/article/QhXW1UCVYwHtx7W9EdDp?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-21T08:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732387328655360",
-        "title": "马斯克：Optimus+PV将是首个冯诺依曼探测器",
-        "url": "https://36kr.com/newsflashes/3732387328655360?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T07:40:43.000Z",
-        "summary": "36氪获悉，马斯克表示Optimus+PV将是首个冯诺依曼探测器，它完全能够利用太空中的原材料进行自我复制。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732341580841218",
-        "title": "雷军官宣：XiaomiMiMo首周限免开放",
-        "url": "https://36kr.com/newsflashes/3732341580841218?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T06:54:11.000Z",
-        "summary": "36氪获悉，雷军发博表示：Xiaomi MiMo联合OpenClaw、OpenCode、KiloCode、Cline和BLACKBOXAI五大主流Agent框架，首周限免开放。欢迎国内开发者试用。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732314690240769",
-        "title": "百度网盘GenFlow全新升级，融合OpenClaw，支持多人AI协作",
-        "url": "https://36kr.com/newsflashes/3732314690240769?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T06:26:50.000Z",
-        "summary": "36氪获悉，3月21日，百度网盘宣布全新升级GenFlow，并兼容OpenClaw能力，该功能已上线PC客户端及全新推出的团队空间，个人用户、团队可以在百度网盘一键部署OpenClaw、开箱即用。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732313819791369",
-        "title": "美药管局在全美召回近9万瓶儿童布洛芬药物",
-        "url": "https://36kr.com/newsflashes/3732313819791369?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T06:25:57.000Z",
-        "summary": "美国食品和药物管理局日前宣布，召回近9万瓶在全美范围内分销的儿童布洛芬药物，原因是消费者投诉药液中存在异物。据美药管局发布的召回报告，这批药物由总部位于印度班加罗尔的国际药企进步制药公司在印度制造，品牌为塔罗制药公司“儿童布洛芬口服混悬液”，规格为每5毫升含布洛芬有效成分100毫克，瓶装容量120毫升。此次召回涉及的产品共计89592瓶，有效期至2027年1月31日。（新华社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732204385501448",
-        "title": "网易云音乐接入OpenClaw",
-        "url": "https://36kr.com/newsflashes/3732204385501448?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T04:51:30.000Z",
-        "summary": "36氪获悉，3月21日，网易云音乐宣布全面接入OpenClaw，并将其音乐推荐、音乐搜索等基础能力封装成一系列标准化CLI（标准接口）及自动化Skill，成为业内首个向AI Agent开放核心音乐服务能力的平台。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732202908516610",
-        "title": "报告：影石全景相机及拇指相机全球市占双第一，增速强劲",
-        "url": "https://36kr.com/newsflashes/3732202908516610?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T04:33:07.000Z",
-        "summary": "3月21日，IDC发布2025全球手持智能相机报告，市场高速增长，全景相机突破12.12亿美元、同比大增88%。影石Insta360以66%市占率蝉联全球全景相机第一，拇指相机销售额以57%份额登顶全球第一，广义运动相机销售额位居全球前列第二。数据显示，影石广角、全景、拇指相机销售额分别同比增长321%、61%、89%，整体广义运动相机销售额增幅则达97.5%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732182190653449",
-        "title": "机构：受零部件成本影响，电视和显示器面板价格上涨",
-        "url": "https://36kr.com/newsflashes/3732182190653449?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T04:27:55.000Z",
-        "summary": "36氪获悉，3月20日，TrendForce集邦咨询公布了3月面板价格趋势：2026年3月，电视和显示器面板价格上涨，笔电面板价格止跌。进入3月份，品牌持续针对第二季后接踵而至的促销档期作准备，包括世界杯赛事、中国618促销，以及北美Prime Day等，因此电视面板需求仍然保持稳定态势。同时，考虑到存储器与各式零部件有成本持续上涨的压力，品牌客户增加提前备货的意愿。预计面板厂也将掌握需求稳定的机会，持续维持电视面板价格上涨的态势。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732181565652998",
-        "title": "多家品牌金饰价格跌破1400元/克",
-        "url": "https://36kr.com/newsflashes/3732181565652998?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T04:11:25.000Z",
-        "summary": "截至3月21日收盘，现货黄金下跌3.42%，跌破4500美元关口，报收于4491.67美元/盎司。本周以来，现货黄金连破5000美元、4900美元、4800美元、4700美元，4600美元、4500美元6个价格关口，累计跌幅约10.49%。查询发现，周生生、周大福、六福珠宝、老庙黄金的金饰价格跌破1400元/克。（中新经纬）",
         "category": "updates",
         "region": "cn"
       },
@@ -1649,16 +1669,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/pmbbwtjmuhntowxsyep4",
-        "title": "针对全球化规模的架构设计：深入了解DoorDash统一、模块化的配送员入驻平台",
-        "url": "https://www.infoq.cn/article/PmBbwTjmUHNToWXSyEp4?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-20T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3731094987407617",
         "title": "RENOGY 如果新能源：如何用16年时间打造一家Global Native公司｜出海踏浪者",
         "url": "https://36kr.com/p/3731094987407617?f=rss",
@@ -1696,16 +1706,6 @@
         "publishedAt": "2026-03-20T02:19:20.000Z",
         "summary": "技能是产业竞争力的重要体现方式之一 。在上海，一场 AI 时代的技能革命也在悄然展开——进入 2026 年，新赛季的竞争不再是大模型间的参数比拼，而是谁能真正走进工厂、实验室和写字楼，变成“会做事”的生产力工具。开源项目 OpenClaw 的迅速走红，折射出以 Skills 市场等形式的开放共享的新趋势——或许正是那把撬开这场 Agent 变革的锁钥。 简言之， Skills 市场是智能体的“技能商店”：开发者将专业能力封装为标准化模块",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3729647028960903",
-        "title": "港中文95后博士、OPPO员工做了款AI可穿戴硬件，要成为用户全天候情感导师｜硬氪首发",
-        "url": "https://36kr.com/p/3729647028960903?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T01:20:00.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，深圳十镜科技有限公司（以下简称“十镜科技”）近日完成数千万元天使轮融资，本轮由元禾原点投资，融资资金将主要用于核心技术研发、产品结构迭代优化及小批量量产落地。首款产品Spiro计划于 2026年4月在北美独立站上线、6月量产。 十镜科技成立于2025年7月，创始人兼CEO赵之赫是一名95后连续创业者，博士毕业于香港中文大学，他曾出任智能穿戴硬件企业物启科技CEO，并推出全球首款AI情绪吊坠Nuna。联",
-        "category": "articles",
         "region": "cn"
       }
     ]
