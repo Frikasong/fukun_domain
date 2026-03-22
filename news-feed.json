@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T18:25:49.032Z",
+  "generatedAt": "2026-03-22T01:25:08.406Z",
   "highlights": {
     "na": [],
     "cn": []
@@ -1209,6 +1209,36 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/ia7cifkmwdqyjd1fsdeq",
+        "title": "Java近期资讯：Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus和Commonhaus",
+        "url": "https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-22T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733429003616261",
+        "title": "被AI“偷走”声音 配音演员集体维权：希望构建合法共存生态",
+        "url": "https://36kr.com/newsflashes/3733429003616261?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T01:20:22.000Z",
+        "summary": "近日，多名配音演员相继公开发声，反对未经演员知情同意，擅自采集其声音素材用于AI训练、音色合成及商业变现的行为。从《甜蜜蜜》里的黎小军，到《无间道》中的刘建明，配音演员叶清塑造了许多经典的人物形象。就在不久前，短视频平台上出现了一集AI生成的短剧，许多观众通过弹幕刷屏：主人公的旁白是“叶清老师的声音”。接受记者采访时，叶清坦言，AI短剧里对他的音色还原度极高。类似的经历在配音行业中屡见不鲜。配音导演、配音演员李龙滨也经常成为这种侵权行为",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3733421955760391",
+        "title": "中国充电联盟：1-2月充电基础设施增量为91.8万个",
+        "url": "https://36kr.com/newsflashes/3733421955760391?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-22T01:13:12.000Z",
+        "summary": "据中国充电联盟消息，2026年1-2月，充电基础设施增量为91.8万个，同比上升44.8%。其中公共充电设施增量为11.7万个，同比减少53.8%，私人充电设施增量为80.1万个，同比上升110.4%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/lokvproqap8df2jebwmu",
         "title": "宇树科技靠融资还是靠卖货活着？翻完招股书，我们挖到了这8个关键点",
         "url": "https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&utm_medium=article",
@@ -1429,26 +1459,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3732029962912007",
-        "title": "改革正式启动，哥伦比亚广播公司新闻部裁员6%",
-        "url": "https://36kr.com/newsflashes/3732029962912007?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T03:42:04.000Z",
-        "summary": "哥伦比亚广播公司（CBS）新闻部于周五裁员约 6%—— 这是大卫・埃里森接管其母公司派拉蒙环球以来，该新闻网的第二轮裁员。CBS 新闻部目前约有 1100 名员工，因此周五的裁员将导致数十人离职。高管将此次裁员解释为一次艰难但必要的编辑部资源重新配置。这是自去年夏天大卫・埃里森掌控派拉蒙以来，CBS 新闻部进行的第二轮裁员。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3732029301309705",
-        "title": "航司燃油费上涨预期走强，消费者开始提前“囤”机票",
-        "url": "https://36kr.com/newsflashes/3732029301309705?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T03:22:24.000Z",
-        "summary": "国际原油价格持续高位震荡，航司成本压力正加速向客户端传导。近期，国内多家航司密集上调国际航线燃油附加费，涨幅普遍在50%以上，部分航线甚至翻倍。虽然国内市场仍处于节后传统淡季，但随着燃油费上调预期持续走强，不少消费者开始提前预订两周后甚至一个月后的出行机票，试图锁定当前相对较低的出行成本。（证券日报）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3732100232298503",
         "title": "“我的前额叶罢工了”，年轻人争相确诊“网红病”？",
         "url": "https://36kr.com/p/3732100232298503?f=rss",
@@ -1644,16 +1654,6 @@
         "url": "https://www.infoq.cn/article/PmBbwTjmUHNToWXSyEp4?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-20T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/3buqajzirpkvwfbpkqbx",
-        "title": "智能体架构的降龙十八掌：从原型到工程落地的“生死取舍”｜QCon北京",
-        "url": "https://www.infoq.cn/article/3BUqAjZIrpKVwfbpKqBX?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-20T09:55:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
