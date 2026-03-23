@@ -1,11 +1,111 @@
 {
-  "generatedAt": "2026-03-23T12:46:30.444Z",
+  "generatedAt": "2026-03-23T18:41:18.510Z",
   "highlights": {
     "na": [],
     "cn": []
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/musicians&",
+        "title": "Musicians in this state are suing AI companies under biometric privacy law",
+        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/musicians&#45;in&#45;this&#45;state&#45;are&#45;suing&#45;ai&#45;companies&#45;under&#45;biometric&#45;privacy&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-23T18:39:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/web/article/did&",
+        "title": "Did They Know the Score? Amid March Madness, questions remain about college athletes indicted in fixing scheme",
+        "url": "https://www.abajournal.comhttps://www.abajournal.com/web/article/did&#45;they&#45;know&#45;the&#45;score/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-23T17:40:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/lawsuit&",
+        "title": "Google&#8217;s AI platform incited man’s death by suicide and ‘mass casualty&#8217; attempt, suit alleges",
+        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/lawsuit&#45;alleges&#45;googles&#45;gemini&#45;ai&#45;caused&#45;mans&#45;death&#45;by&#45;suicide&#45;and&#45;delusion&#45;induced&#45;behavior/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-23T16:22:00.000Z",
+        "summary": "",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/23/relativity-confirms-ipo-but-is-this-a-good-time",
+        "title": "Relativity Confirms IPO, But Is This A Good Time?",
+        "url": "https://www.artificiallawyer.com/2026/03/23/relativity-confirms-ipo-but-is-this-a-good-time/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-23T15:55:11.000Z",
+        "summary": "eDiscovery pioneer Relativity has confirmed it will do an IPO, (see official SEC note below), but is this a good time to do so? First ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/23/pointone-raises-16m-10xs-revenue",
+        "title": "PointOne Raises $16m, 10Xs Revenue",
+        "url": "https://www.artificiallawyer.com/2026/03/23/pointone-raises-16m-10xs-revenue/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-23T15:25:32.000Z",
+        "summary": "PointOne, the time entry startup, has raised a $16m Series A, led by 8VC, with continued participation from Bessemer Venture Partners, General Catalyst, and Y ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/goldmans&",
+        "title": "Goldman Sachs&#8217; top lawyer, who has been linked to Epstein, exits with $25M pay package",
+        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/goldmans&#45;ruemmler&#45;to&#45;leave&#45;with&#45;25&#45;million/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-23T15:25:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/new&",
+        "title": "2 lawyers convicted in staged truck accidents scheme",
+        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/new&#45;orleans&#45;lawyers&#45;convicted&#45;in&#45;staged&#45;truck&#45;accidents&#45;scheme/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-23T14:48:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/musk&",
+        "title": "Elon Musk defrauded Twitter investors in $44B buyout, jury finds",
+        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/musk&#45;defrauded&#45;twitter&#45;investors&#45;in&#45;44&#45;billion&#45;buyout&#45;jury&#45;finds/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-23T14:35:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/03/how-two-litigators-spent-five-years-in-stealth-building-what-they-say-is-the-most-comprehensive-litigation-platform-on-the-market.html",
+        "title": "How Two Litigators Spent Five Years in Stealth Building What They Say Is the Most Comprehensive Litigation Platform on the Market",
+        "url": "https://www.lawnext.com/2026/03/how-two-litigators-spent-five-years-in-stealth-building-what-they-say-is-the-most-comprehensive-litigation-platform-on-the-market.html",
+        "source": "LawSites",
+        "publishedAt": "2026-03-23T14:11:30.000Z",
+        "summary": "At the recent Legalweek conference in New York, I sat down with the cofounders of Syllo, a legal technology company that has taken a uniquely ambitious approach to developing technology for litigators. Rather than focus ",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/23/harvey-hires-gibson-dunn-partner-as-cso",
+        "title": "Harvey Hires Gibson Dunn Partner As CSO",
+        "url": "https://www.artificiallawyer.com/2026/03/23/harvey-hires-gibson-dunn-partner-as-cso/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-23T13:15:03.000Z",
+        "summary": "Harvey has hired Keith Enright, most recently a partner at Gibson Dunn &#38; Crutcher, and previously Chief Privacy Officer at Google, to be its Chief ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/03/data-intelligence-company-relativity-confidentially-files-for-ipo-would-be-first-in-legal-tech-since-2021.html",
         "title": "Data Intelligence Company Relativity Confidentially Files for IPO; Would Be First In Legal Tech Since 2021",
@@ -43,6 +143,16 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-03-23T07:41:46.000Z",
         "summary": "By Electra Japonas, CPO, SimpleDocs. There is a pattern emerging in how legal teams are experiencing AI tools, and it is worth naming directly. The ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/creating-with-sora-safely",
+        "title": "Creating with Sora Safely",
+        "url": "https://openai.com/index/creating-with-sora-safely",
+        "source": "OpenAI News",
+        "publishedAt": "2026-03-23T00:00:00.000Z",
+        "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in con",
         "category": "tools",
         "region": "na"
       },
@@ -87,16 +197,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/statement&",
-        "title": "Statement of ABA President Michelle A. Behnke Re: Protecting the judiciary from personal attacks",
-        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/statement&#45;of&#45;aba&#45;president&#45;michelle&#45;a&#45;behnke&#45;re&#45;protecting&#45;the&#45;judiciary&#45;from&#45;personal&#45;attacks/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-20T16:09:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/20/claude-legal-prompt-shock-legalon-gpt-5-4-review-legal-innovators",
         "title": "Claude Legal Prompt Shock, LegalOn GPT 5.4 Review, Legal Innovators +",
         "url": "https://www.artificiallawyer.com/2026/03/20/claude-legal-prompt-shock-legalon-gpt-5-4-review-legal-innovators/",
@@ -104,46 +204,6 @@
         "publishedAt": "2026-03-20T08:26:12.000Z",
         "summary": "We start this week’s Wrap with a real shocker! A chap on Twitter named Nav Toor, (see images), published 12 quite detailed legal prompts for ...",
         "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/milwaukees&",
-        "title": "AG Bondi gives ousted interim federal prosecutor new title, same duties",
-        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/milwaukees&#45;ousted&#45;us&#45;attorney&#45;general&#45;gets&#45;new&#45;title&#45;same&#45;duties/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-19T19:56:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/jury&",
-        "title": "Jury rules for Afroman in case over &#8216;Lemon Pound Cake&#8217; video that used home raid surveillance footage",
-        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/jury&#45;rules&#45;for&#45;afroman&#45;case&#45;over&#45;lemon&#45;pound&#45;cake&#45;video/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-19T18:49:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/kirkland&",
-        "title": "Kirkland holds steady as world’s highest-grossing firm",
-        "url": "https://www.abajournal.comhttps://www.abajournal.com/news/article/kirkland&#45;holds&#45;steady&#45;as&#45;worlds&#45;highest&#45;grossing&#45;firm/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-19T16:56:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/web/article/fail&",
-        "title": "Fail the bar exam? Retake might be an entirely different test",
-        "url": "https://www.abajournal.comhttps://www.abajournal.com/web/article/fail&#45;the&#45;bar&#45;exam&#45;retake&#45;might&#45;be&#45;an&#45;entirely&#45;different&#45;test/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-19T16:31:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -223,36 +283,6 @@
         "source": "LawSites",
         "publishedAt": "2026-03-18T12:45:05.000Z",
         "summary": "Aderant, the Atlanta-based provider of business management software for law firms, today announced the addition of AI-powered capabilities to its vi by Aderant talent management suite, including AI-assisted employee perf",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/18/see-you-in-paris-legal-innovators-breakfast-march-25",
-        "title": "See You in Paris! Legal Innovators Breakfast – March 25",
-        "url": "https://www.artificiallawyer.com/2026/03/18/see-you-in-paris-legal-innovators-breakfast-march-25/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-18T09:40:24.000Z",
-        "summary": "Paris in the Spring. Some legal tech. Some legal innovators. And an amazing breakfast at one of the most famous restaurants in the City of ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/18/the-two-sources-of-legal-intelligence-market-data-and-firm-experience",
-        "title": "The Two Sources of Legal Intelligence: Market Data and Firm Experience",
-        "url": "https://www.artificiallawyer.com/2026/03/18/the-two-sources-of-legal-intelligence-market-data-and-firm-experience/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-18T08:42:17.000Z",
-        "summary": "By Will Seaton, Chief Customer Officer, Draftwise. Every lawyer can now analyze the market in seconds. Legal AI surfaces external trends, case law patterns, and ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/18/product-walk-through-translegal",
-        "title": "Product Walk Through: TransLegal",
-        "url": "https://www.artificiallawyer.com/2026/03/18/product-walk-through-translegal/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-18T07:41:56.000Z",
-        "summary": "This week’s AL TV Product Walk Through is with TransLegal, a pioneering multi-language translator designed specifically for the complexities of cross-border legal work. Taking us ...",
         "category": "tools",
         "region": "na"
       },
@@ -587,16 +617,6 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/gpt-5-4-thinking-system-card",
-        "title": "GPT-5.4 Thinking System Card",
-        "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-        "source": "OpenAI News",
-        "publishedAt": "2026-03-05T10:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/reasoning-models-chain-of-thought-controllability",
         "title": "Reasoning models struggle to control their chains of thought, and that’s good",
         "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
@@ -617,6 +637,16 @@
         "region": "na"
       },
       {
+        "id": "OpenAI News:openai.com/index/gpt-5-4-thinking-system-card",
+        "title": "GPT-5.4 Thinking System Card",
+        "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+        "source": "OpenAI News",
+        "publishedAt": "2026-03-05T10:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "OpenAI News:openai.com/index/ai-education-opportunity",
         "title": "Ensuring AI use in education leads to opportunity",
         "url": "https://openai.com/index/ai-education-opportunity",
@@ -624,16 +654,6 @@
         "publishedAt": "2026-03-05T09:00:00.000Z",
         "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/chatgpt-for-excel",
-        "title": "Introducing ChatGPT for Excel and new financial data integrations",
-        "url": "https://openai.com/index/chatgpt-for-excel",
-        "source": "OpenAI News",
-        "publishedAt": "2026-03-05T00:00:00.000Z",
-        "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
-        "category": "articles",
         "region": "na"
       },
       {
@@ -654,6 +674,16 @@
         "publishedAt": "2026-03-05T00:00:00.000Z",
         "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/chatgpt-for-excel",
+        "title": "Introducing ChatGPT for Excel and new financial data integrations",
+        "url": "https://openai.com/index/chatgpt-for-excel",
+        "source": "OpenAI News",
+        "publishedAt": "2026-03-05T00:00:00.000Z",
+        "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+        "category": "articles",
         "region": "na"
       },
       {
@@ -757,9 +787,9 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/gpt-5-3-instant",
-        "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-        "url": "https://openai.com/index/gpt-5-3-instant",
+        "id": "OpenAI News:openai.com/index/gpt-5-3-instant-system-card",
+        "title": "GPT-5.3 Instant System Card",
+        "url": "https://openai.com/index/gpt-5-3-instant-system-card",
         "source": "OpenAI News",
         "publishedAt": "2026-03-03T10:00:00.000Z",
         "summary": "",
@@ -767,9 +797,9 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/gpt-5-3-instant-system-card",
-        "title": "GPT-5.3 Instant System Card",
-        "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+        "id": "OpenAI News:openai.com/index/gpt-5-3-instant",
+        "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+        "url": "https://openai.com/index/gpt-5-3-instant",
         "source": "OpenAI News",
         "publishedAt": "2026-03-03T10:00:00.000Z",
         "summary": "",
@@ -1175,45 +1205,15 @@
         "summary": "The results are in! Voting has now closed and your votes have been tallied to pick the 15 legal tech startups that will get to participate as finalists in the 10th-annual Startup Alley at ABA TECHSHOW, March 25-28, 2026,",
         "category": "updates",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/new-result-theoretical-physics",
-        "title": "GPT-5.2 derives a new result in theoretical physics",
-        "url": "https://openai.com/index/new-result-theoretical-physics",
-        "source": "OpenAI News",
-        "publishedAt": "2026-02-13T11:00:00.000Z",
-        "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
-        "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
-        "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
-        "source": "OpenAI News",
-        "publishedAt": "2026-02-13T10:00:00.000Z",
-        "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
-        "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/beyond-rate-limits",
-        "title": "Beyond rate limits: scaling access to Codex and Sora",
-        "url": "https://openai.com/index/beyond-rate-limits",
-        "source": "OpenAI News",
-        "publishedAt": "2026-02-13T09:00:00.000Z",
-        "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
-        "category": "updates",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/3rniorsqcs1g5vmq8vlo",
-        "title": "中关村北纬龙虾大赛圆满收官！14岁初中少年勇夺“虾王”",
-        "url": "https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/71mqtqpykbclsbxo6v8u",
+        "title": "极客部落“OPC 创业者招募计划”正式发布，赋能 AI 时代“一人独角兽”",
+        "url": "https://www.infoq.cn/article/71MQtQpYKbCLSbXo6v8u?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-03-23T18:19:35.000Z",
+        "publishedAt": "2026-03-23T21:41:44.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1255,6 +1255,66 @@
         "source": "InfoQ China",
         "publishedAt": "2026-03-23T14:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735530009526276",
+        "title": "三花智控：拟开展不超过35亿元资产池业务",
+        "url": "https://36kr.com/newsflashes/3735530009526276?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T12:57:37.000Z",
+        "summary": "36氪获悉，三花智控公告，公司第八届董事会第十四次会议审议通过《关于开展资产池业务的议案》，同意公司及控股子公司共享不超过35亿元的资产池额度。资产池业务期限自本年度股东大会审议通过之日起至下一年度股东大会召开之日止，额度可滚动使用。公司及子公司可将票据、保证金、大额存单、理财产品、结构性存单、国内应收账款等资产入池，用于开立银行承兑汇票、信用证、保函及流动资金贷款等，并提供相应担保。该事项尚需提交公司股东大会审议。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735528575516928",
+        "title": "三花智控：2025年净利润40.63亿元，同比增长31.10%",
+        "url": "https://36kr.com/newsflashes/3735528575516928?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T12:56:10.000Z",
+        "summary": "36氪获悉，三花智控发布2025年业绩报告。报告显示，2025年营业收入310.12亿元，同比增长10.97%；净利润40.63亿元，同比增长31.10%。公司董事会审议通过的利润分配预案为：以42亿为基数，向全体股东每10股派发现金红利2.8元（含税），送红股0股（含税），不以公积金转增股本。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735524252385282",
+        "title": "永励精密3月30日北交所首发上会",
+        "url": "https://36kr.com/newsflashes/3735524252385282?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T12:51:46.000Z",
+        "summary": "36氪获悉，据北交所网站披露，北交所上市审核委员会定于3月30日上午9时召开2026年第33次上市审核委员会审议会议，届时将审议浙江永励精密制造股份有限公司的首发事项。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735522627404036",
+        "title": "热门中概股美股盘前多数上涨，小鹏汽车涨超5%",
+        "url": "https://36kr.com/newsflashes/3735522627404036?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T12:50:07.000Z",
+        "summary": "36氪获悉，热门中概股美股盘前多数上涨，截至发稿，小鹏汽车涨超5%，蔚来涨超3%，理想汽车、百度、阿里巴巴、京东、拼多多、网易涨超1%；微博跌0.46%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735521616494601",
+        "title": "美股大型科技股盘前普涨，英伟达涨超2%",
+        "url": "https://36kr.com/newsflashes/3735521616494601?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T12:49:05.000Z",
+        "summary": "36氪获悉，美股大型科技股盘前普涨，截至发稿，苹果、英伟达涨超2%，Arm、Meta、亚马逊、谷歌涨超1%，特斯拉涨0.73%，微软涨0.56%，奈飞涨0.52%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735519810175240",
+        "title": "泰福泵业：筹划控制权变更事项，股票停牌",
+        "url": "https://36kr.com/newsflashes/3735519810175240?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T12:47:15.000Z",
+        "summary": "36氪获悉，泰福泵业公告，公司实际控制人陈宜文、林慧夫妇正在筹划控制权变更相关事宜，可能导致公司控股股东及实控人发生变更。经向深交所申请，公司股票及可转换公司债券自2026年3月24日开市起停牌，预计停牌不超过2个交易日，期间“泰福转债”暂停转股。该事项尚处于筹划阶段，存在重大不确定性。",
         "category": "updates",
         "region": "cn"
       },
@@ -1409,62 +1469,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3735426528231424",
-        "title": "广联达：2025年净利润同比增长61.77%，拟每10股派2.3元",
-        "url": "https://36kr.com/newsflashes/3735426528231424?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T11:12:21.000Z",
-        "summary": "36氪获悉，广联达发布2025年年度报告摘要。报告显示，全年实现营业收入60.68亿元，同比下降2.17%；归属于上市公司股东的净利润为4.05亿元，同比增长61.77%。公司拟每10股派发现金红利2.3元（含税）。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735417678151936",
-        "title": "工信部公开征求《汽车数据安全保障要求》等2项汽车行业推荐性国家标准报批意见",
-        "url": "https://36kr.com/newsflashes/3735417678151936?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T11:03:21.000Z",
-        "summary": "36氪获悉，据工信部，根据标准制修订计划，相关标准化技术组织已完成汽车行业《汽车数据安全保障要求》等2项推荐性国家标准的编制工作。为进一步听取社会各界意见，现予以公示。公示时间：2026年3月24日-2026年3月30日。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735417234456833",
-        "title": "华特气体：公司有关注到市场有对公司个别气体产品涨价的传闻，相关产品销售占比有限",
-        "url": "https://36kr.com/newsflashes/3735417234456833?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T11:02:54.000Z",
-        "summary": "36氪获悉，华特气体公告，公司股票于2026年3月19日、3月20日、3月23日连续3个交易日内日收盘价格涨幅偏离值累计超过30%。截至本公告披露日，公司有关注到市场有对公司个别气体产品涨价的传闻，经公司核实，截至目前，相关产品销售占比有限，公司该类产品价格调整幅度有限，预计对公司2026年全年业绩影响有限，提请投资者注意投资风险。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/qj2alodcupulu83qkevx",
         "title": "基于AI的机器人攻陷微软、DataDog和CNCF项目中的GitHub Actions工作流",
         "url": "https://www.infoq.cn/article/qj2aLodCUPuLu83qkeVx?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-23T11:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735413813198853",
-        "title": "融捷股份：拟投资11亿元建设锂电池负极材料项目",
-        "url": "https://36kr.com/newsflashes/3735413813198853?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T10:59:25.000Z",
-        "summary": "36氪获悉，融捷股份公告，公司第九届董事会第三次会议审议通过多项议案，其中包括全资子公司兰州融捷材料科技有限公司拟投资约11亿元建设年产5万吨高性能锂离子电池负极材料项目。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735411186302976",
-        "title": "优博讯：2026年第一季度净利同比预增79.23%-126.40%",
-        "url": "https://36kr.com/newsflashes/3735411186302976?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T10:56:45.000Z",
-        "summary": "36氪获悉，优博讯公告，预计2026年第一季度归属于上市公司股东的净利润为3800万元–4800万元，同比增长79.23%–126.40%。报告期内，公司主营业务持续向好，海外市场拓展成效显著，海外业务收入同比快速增长，带动整体经营规模扩大；同时持续推进产品结构优化与精益运营管理，经营效率提升，盈利能力增强。",
         "category": "updates",
         "region": "cn"
       },
@@ -1476,16 +1486,6 @@
         "publishedAt": "2026-03-23T10:54:15.000Z",
         "summary": "这个春天，一打开手机，全网似乎都开始“养龙虾”了。 只是从“养龙虾”再到“卸龙虾”，AI应用圈的的变化速度超乎想象。 AI应用大批涌现的当下，跟风实在易踩坑。 AI遍地走，到底谁靠谱？ 别急，36氪AI测评来帮你！ 01 36氪AI测评小程序，正式上线啦！ ⬆️扫码体验36氪AI测评小程序⬆️ 其实，36氪早就上线了AI测评网（网页版），被大家戏称为“AI应用领域的大众点评”。 现在，小程序版也正式来了！ 微信里搜一搜，就能打开这个“A",
         "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735404489752580",
-        "title": "中岩大地：因实施方案重大调整，放弃中标核电项目",
-        "url": "https://36kr.com/newsflashes/3735404489752580?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T10:49:56.000Z",
-        "summary": "36氪获悉，中岩大地公告，公司此前中标“核电分公司江苏徐圩项目桩基工程标段”，但在后续对接中，因项目实施方案发生调整，导致核心商务条款及成本测算基础出现重大变更，实施条件与投标阶段显著不同。为防范经营风险，公司决定放弃该中标资格。目前项目尚未签订合同，对公司无实质性影响。",
-        "category": "updates",
         "region": "cn"
       },
       {
