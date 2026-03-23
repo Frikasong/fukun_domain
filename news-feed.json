@@ -1,11 +1,51 @@
 {
-  "generatedAt": "2026-03-23T07:00:37.965Z",
+  "generatedAt": "2026-03-23T12:46:30.444Z",
   "highlights": {
     "na": [],
     "cn": []
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/03/data-intelligence-company-relativity-confidentially-files-for-ipo-would-be-first-in-legal-tech-since-2021.html",
+        "title": "Data Intelligence Company Relativity Confidentially Files for IPO; Would Be First In Legal Tech Since 2021",
+        "url": "https://www.lawnext.com/2026/03/data-intelligence-company-relativity-confidentially-files-for-ipo-would-be-first-in-legal-tech-since-2021.html",
+        "source": "LawSites",
+        "publishedAt": "2026-03-23T12:40:14.000Z",
+        "summary": "The legal data intelligence company Relativity says it has confidentially submitted a draft registration statement with the U.S. Securities and Exchange Commission for a proposed initial public offering of its Class A co",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/23/new-yorks-anti-ai-bill-looks-like-protectionism",
+        "title": "New York’s Anti-AI Bill Looks Like Protectionism &#8211; Updated",
+        "url": "https://www.artificiallawyer.com/2026/03/23/new-yorks-anti-ai-bill-looks-like-protectionism/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-23T10:55:57.000Z",
+        "summary": "The State of New York is considering legislation that could limit what AI can do in the field of law, medicine, and other ‘professional’ fields. ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/23/legal-ai-access-at-83-but-trust-issues-remain",
+        "title": "Legal AI Access at 83%, But Trust Issues Remain",
+        "url": "https://www.artificiallawyer.com/2026/03/23/legal-ai-access-at-83-but-trust-issues-remain/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-23T08:44:51.000Z",
+        "summary": "A new survey of over 200 inhouse and law firm leaders provides solid evidence that while AI tools are now ‘standard’ across our sector, that ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/23/why-legal-ai-keeps-getting-context-wrong",
+        "title": "Why Legal AI Keeps Getting Context Wrong",
+        "url": "https://www.artificiallawyer.com/2026/03/23/why-legal-ai-keeps-getting-context-wrong/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-23T07:41:46.000Z",
+        "summary": "By Electra Japonas, CPO, SimpleDocs. There is a pattern emerging in how legal teams are experiencing AI tools, and it is worth naming directly. The ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/federal&",
         "title": "Federal judges speak out about threats becoming &#8216;ordinary&#8217;",
@@ -257,26 +297,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/17/will-anthropics-claude-partner-network-impact-legal-tech",
-        "title": "Will Anthropic’s Claude Partner Network Impact Legal Tech?",
-        "url": "https://www.artificiallawyer.com/2026/03/17/will-anthropics-claude-partner-network-impact-legal-tech/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-17T10:56:21.000Z",
-        "summary": "Anthropic has launched a new ‘Claude Partner Network’, a program designed to help enterprises adopt Claude, which includes $100m in funding to help those AI ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/17/newcode-raises-6-5m-maged-helmy-interview",
-        "title": "Newcode Raises $6.5m + Maged Helmy Interview",
-        "url": "https://www.artificiallawyer.com/2026/03/17/newcode-raises-6-5m-maged-helmy-interview/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-17T10:31:26.000Z",
-        "summary": "Norway-based legal AI platform Newcode has raised $6.5m, with a range of law firms as well as The Legal Tech Fund and Alliance VC taking ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/introducing-gpt-5-4-mini-and-nano",
         "title": "Introducing GPT-5.4 mini and nano",
         "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
@@ -293,16 +313,6 @@
         "source": "OpenAI News",
         "publishedAt": "2026-03-17T10:00:00.000Z",
         "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/17/legal-ai-vendors-go-extreme-low-ball-for-market-supremacy",
-        "title": "Legal AI Vendors Go Extreme Low-Ball For Market Supremacy",
-        "url": "https://www.artificiallawyer.com/2026/03/17/legal-ai-vendors-go-extreme-low-ball-for-market-supremacy/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-17T08:24:30.000Z",
-        "summary": "Legal AI companies are resorting to ‘brutal’ low-ball tactics in order to win customers as the battle for market share becomes increasingly intense, Artificial Lawyer ...",
         "category": "updates",
         "region": "na"
       },
@@ -617,22 +627,22 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/introducing-the-adoption-news-channel",
-        "title": "Introducing the Adoption news channel",
-        "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-        "source": "OpenAI News",
-        "publishedAt": "2026-03-05T00:00:00.000Z",
-        "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/chatgpt-for-excel",
         "title": "Introducing ChatGPT for Excel and new financial data integrations",
         "url": "https://openai.com/index/chatgpt-for-excel",
         "source": "OpenAI News",
         "publishedAt": "2026-03-05T00:00:00.000Z",
         "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/introducing-the-adoption-news-channel",
+        "title": "Introducing the Adoption news channel",
+        "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+        "source": "OpenAI News",
+        "publishedAt": "2026-03-05T00:00:00.000Z",
+        "summary": "Practical insights and frameworks to turn AI progress into business advantage",
         "category": "articles",
         "region": "na"
       },
@@ -807,16 +817,6 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/continuing-microsoft-partnership",
-        "title": "Joint Statement from OpenAI and Microsoft",
-        "url": "https://openai.com/index/continuing-microsoft-partnership",
-        "source": "OpenAI News",
-        "publishedAt": "2026-02-27T05:30:00.000Z",
-        "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/scaling-ai-for-everyone",
         "title": "Scaling AI for everyone",
         "url": "https://openai.com/index/scaling-ai-for-everyone",
@@ -824,6 +824,16 @@
         "publishedAt": "2026-02-27T05:30:00.000Z",
         "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/continuing-microsoft-partnership",
+        "title": "Joint Statement from OpenAI and Microsoft",
+        "url": "https://openai.com/index/continuing-microsoft-partnership",
+        "source": "OpenAI News",
+        "publishedAt": "2026-02-27T05:30:00.000Z",
+        "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -1195,19 +1205,49 @@
         "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
         "category": "updates",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-social-science-research",
-        "title": "Scaling social science research",
-        "url": "https://openai.com/index/scaling-social-science-research",
-        "source": "OpenAI News",
-        "publishedAt": "2026-02-13T09:00:00.000Z",
-        "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/3rniorsqcs1g5vmq8vlo",
+        "title": "中关村北纬龙虾大赛圆满收官！14岁初中少年勇夺“虾王”",
+        "url": "https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-23T18:19:35.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/g29j1rvfbqgg1t4bqexv",
+        "title": "Bosch 集团首席 AI 科学家阎栋博士已确认出席QCon北京站，探讨AI大模型是否会吞噬软件世界",
+        "url": "https://www.infoq.cn/article/g29j1RVFBqGg1t4BQExV?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-23T18:15:12.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/c2wqhszf6rukr61ususa",
+        "title": "AICon 2026 上海站正式启动：OpenClaw 袭来，我们来谈点真的",
+        "url": "https://www.infoq.cn/article/C2WQHsZF6ruKr61USuSa?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-23T17:39:27.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zajmzwklkb37egqrqzbk",
+        "title": "DoorDash 构建大模型对话模拟与评估闭环，实现客服机器人规模化测试",
+        "url": "https://www.infoq.cn/article/ZaJmZWklKB37egQrQzBk?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-23T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/ssaaohmscrr8j2bcfgh2",
         "title": "Netflix发现了在现代CPU上扩展容器时的内核级瓶颈",
@@ -1215,6 +1255,186 @@
         "source": "InfoQ China",
         "publishedAt": "2026-03-23T14:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735514445660163",
+        "title": "丽江股份：2025年净利润同比增长1.24%，拟每10股派3.50元",
+        "url": "https://36kr.com/newsflashes/3735514445660163?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T12:41:47.000Z",
+        "summary": "36氪获悉，丽江股份发布2025年业绩报告。报告显示，公司2025年实现营业收入8.60亿元，同比增长6.42%；归属于上市公司股东的净利润为2.13亿元，同比增长1.24%。公司拟以总股本549,490,711股为基数，向全体股东每10股派发现金红利3.50元（含税），不送红股，不以公积金转增股本。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735499951161609",
+        "title": "OpenAI要求谷歌将ChatGPT列为默认搜索引擎之一",
+        "url": "https://36kr.com/newsflashes/3735499951161609?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T12:27:03.000Z",
+        "summary": "OpenAI已请求英国监管机构，要求谷歌将其聊天机器人ChatGPT作为可选搜索引擎之一提供给用户。若用户被允许将AI聊天机器人设为默认搜索引擎，将对谷歌构成新的挑战。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735489037139974",
+        "title": "*ST亿通：股东王振洪拟减持不超2.99%股份",
+        "url": "https://36kr.com/newsflashes/3735489037139974?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T12:15:57.000Z",
+        "summary": "36氪获悉，*ST亿通公告，持股5%以上股东王振洪计划自公告披露之日起15个交易日后的3个月内(即2026年4月15日至2026年7月14日)，以集中竞价或大宗交易方式合计减持公司股份不超过910万股，占公司总股本的2.9941%。减持原因为个人资金需求，股份来源为公司首次公开发行前持有的股份及资本公积金转增股本取得的股份、增持股份。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735481239175424",
+        "title": "杭州先为达生物科技股份有限公司-B向港交所提交上市申请书",
+        "url": "https://36kr.com/newsflashes/3735481239175424?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T12:08:01.000Z",
+        "summary": "36氪获悉，据港交所，杭州先为达生物科技股份有限公司-B向港交所提交上市申请书，联席保荐人为摩根士丹利、中金公司。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735476369965059",
+        "title": "OpenAI聘请前Meta高管Dave Dugan为全球广告解决方案副总裁",
+        "url": "https://36kr.com/newsflashes/3735476369965059?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T12:03:03.000Z",
+        "summary": "OpenAI聘请前Meta高管Dave Dugan为全球广告解决方案副总裁。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735474254135552",
+        "title": "碧桂园：预计2025年利润为10亿元-22亿元",
+        "url": "https://36kr.com/newsflashes/3735474254135552?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T12:00:54.000Z",
+        "summary": "36氪获悉，碧桂园公告，本集团预期截至2025年12月31日止年度的利润介乎约人民币10亿元至人民币22亿元，2024年损失约人民币351.45亿元。本年度转亏为盈主要由于本集团完成债务重组录得的非现金收益所致。撇除前述债务重组收益的影响后，本集团录得亏损主要是由于受行业影响，本集团开发业务毛利水平承压，且进一步对若干资产及物业项目计提减值准备等因素所致。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3735459789242375",
+        "title": "氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务",
+        "url": "https://36kr.com/p/3735459789242375?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T11:52:21.000Z",
+        "summary": "大公司： 双林股份港股上市获中国证监会备案 36氪获悉，中国证监会国际合作司发布关于双林股份有限公司境外发行上市备案通知书，公司拟发行不超过89,697,300股境外上市普通股并在香港联合交易所上市。 宝盖新材料港股IPO获中国证监会备案 36氪获悉，中国证监会国际合作司发布关于山东宝盖新材料科技股份有限公司境外发行上市备案通知书，公司拟发行不超过16,640,500股境外上市普通股并在香港联合交易所上市。 云天化：2025年净利润51",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735464476786691",
+        "title": "剂泰科技港股IPO获中国证监会备案",
+        "url": "https://36kr.com/newsflashes/3735464476786691?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T11:50:58.000Z",
+        "summary": "36氪获悉，中国证监会国际合作司发布关于剂泰科技（北京）股份有限公司境外发行上市及境内未上市股份“全流通”备案通知书，公司拟发行不超过273,495,000股境外上市普通股并在香港联合交易所上市。公司39名股东拟将所持合计851,697,111股境内未上市股份转为境外上市股份，并在香港联合交易所上市流通。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735457775861761",
+        "title": "均胜电子：拟回购不超1551万股H股，占已发行H股总数的10%",
+        "url": "https://36kr.com/newsflashes/3735457775861761?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T11:44:09.000Z",
+        "summary": "36氪获悉，均胜电子公告，公司第十一届董事会第四十一次会议审议通过《关于提请股东会给予董事会回购公司H股股份之一般性授权的议案》，拟回购不超过1551万股H股(占已发行H股总数的10%)，回购股份将用于注销或作为库存股，资金来源为自有或自筹资金。该议案尚需提交股东大会审议。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735453818159111",
+        "title": "藏格矿业：拟以2亿-4亿元回购股份",
+        "url": "https://36kr.com/newsflashes/3735453818159111?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T11:40:07.000Z",
+        "summary": "36氪获悉，藏格矿业公告，公司拟使用自有资金以集中竞价交易方式回购股份，回购资金总额不低于2亿元且不超过4亿元，回购价格不超过85.38元/股。本次回购股份将用于实施员工持股计划或股权激励。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735440580362246",
+        "title": "剂泰科技港股IPO获中国证监会备案",
+        "url": "https://36kr.com/newsflashes/3735440580362246?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T11:26:39.000Z",
+        "summary": "36氪获悉，中国证监会国际合作司发布关于剂泰科技（北京）股份有限公司境外发行上市及境内未上市股份“全流通”备案通知书，公司拟发行不超过273,495,000股境外上市普通股并在香港联合交易所上市。公司39名股东拟将所持合计851,697,111股境内未上市股份转为境外上市股份，并在香港联合交易所上市流通。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735440283877634",
+        "title": "文远知行：第四季度营收3.140亿元，净亏损5.561亿元",
+        "url": "https://36kr.com/newsflashes/3735440283877634?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T11:26:21.000Z",
+        "summary": "36氪获悉，文远知行公告，第四季度营收3.140亿元，净亏损5.561亿元。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735434231611648",
+        "title": "双林股份港股上市获中国证监会备案",
+        "url": "https://36kr.com/newsflashes/3735434231611648?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T11:20:11.000Z",
+        "summary": "36氪获悉，中国证监会国际合作司发布关于双林股份有限公司境外发行上市备案通知书，公司拟发行不超过89,697,300股境外上市普通股并在香港联合交易所上市。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735432211742976",
+        "title": "宝盖新材料港股IPO获中国证监会备案",
+        "url": "https://36kr.com/newsflashes/3735432211742976?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T11:18:08.000Z",
+        "summary": "36氪获悉，中国证监会国际合作司发布关于山东宝盖新材料科技股份有限公司境外发行上市备案通知书，公司拟发行不超过16,640,500股境外上市普通股并在香港联合交易所上市。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735432017674241",
+        "title": "云天化：2025年净利润51.56亿元，拟每10股派12元",
+        "url": "https://36kr.com/newsflashes/3735432017674241?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T11:17:56.000Z",
+        "summary": "36氪获悉，云天化发布2025年业绩报告。报告显示，公司2025年实现营业收入484.15亿元，同比下降21.47%；归属于上市公司股东的净利润为51.56亿元，同比下降3.40%。公司拟向全体股东每10股派发现金红利12元(含税)，2025年度合计分红25.52亿元，占当年净利润的49.50%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735426528231424",
+        "title": "广联达：2025年净利润同比增长61.77%，拟每10股派2.3元",
+        "url": "https://36kr.com/newsflashes/3735426528231424?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T11:12:21.000Z",
+        "summary": "36氪获悉，广联达发布2025年年度报告摘要。报告显示，全年实现营业收入60.68亿元，同比下降2.17%；归属于上市公司股东的净利润为4.05亿元，同比增长61.77%。公司拟每10股派发现金红利2.3元（含税）。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735417678151936",
+        "title": "工信部公开征求《汽车数据安全保障要求》等2项汽车行业推荐性国家标准报批意见",
+        "url": "https://36kr.com/newsflashes/3735417678151936?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T11:03:21.000Z",
+        "summary": "36氪获悉，据工信部，根据标准制修订计划，相关标准化技术组织已完成汽车行业《汽车数据安全保障要求》等2项推荐性国家标准的编制工作。为进一步听取社会各界意见，现予以公示。公示时间：2026年3月24日-2026年3月30日。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735417234456833",
+        "title": "华特气体：公司有关注到市场有对公司个别气体产品涨价的传闻，相关产品销售占比有限",
+        "url": "https://36kr.com/newsflashes/3735417234456833?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T11:02:54.000Z",
+        "summary": "36氪获悉，华特气体公告，公司股票于2026年3月19日、3月20日、3月23日连续3个交易日内日收盘价格涨幅偏离值累计超过30%。截至本公告披露日，公司有关注到市场有对公司个别气体产品涨价的传闻，经公司核实，截至目前，相关产品销售占比有限，公司该类产品价格调整幅度有限，预计对公司2026年全年业绩影响有限，提请投资者注意投资风险。",
         "category": "updates",
         "region": "cn"
       },
@@ -1229,12 +1449,112 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3735413813198853",
+        "title": "融捷股份：拟投资11亿元建设锂电池负极材料项目",
+        "url": "https://36kr.com/newsflashes/3735413813198853?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T10:59:25.000Z",
+        "summary": "36氪获悉，融捷股份公告，公司第九届董事会第三次会议审议通过多项议案，其中包括全资子公司兰州融捷材料科技有限公司拟投资约11亿元建设年产5万吨高性能锂离子电池负极材料项目。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735411186302976",
+        "title": "优博讯：2026年第一季度净利同比预增79.23%-126.40%",
+        "url": "https://36kr.com/newsflashes/3735411186302976?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T10:56:45.000Z",
+        "summary": "36氪获悉，优博讯公告，预计2026年第一季度归属于上市公司股东的净利润为3800万元–4800万元，同比增长79.23%–126.40%。报告期内，公司主营业务持续向好，海外市场拓展成效显著，海外业务收入同比快速增长，带动整体经营规模扩大；同时持续推进产品结构优化与精益运营管理，经营效率提升，盈利能力增强。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3735404612370441",
+        "title": "36氪AI测评小程序重磅上线！帮你pick最适合自己的AI神器！",
+        "url": "https://36kr.com/p/3735404612370441?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T10:54:15.000Z",
+        "summary": "这个春天，一打开手机，全网似乎都开始“养龙虾”了。 只是从“养龙虾”再到“卸龙虾”，AI应用圈的的变化速度超乎想象。 AI应用大批涌现的当下，跟风实在易踩坑。 AI遍地走，到底谁靠谱？ 别急，36氪AI测评来帮你！ 01 36氪AI测评小程序，正式上线啦！ ⬆️扫码体验36氪AI测评小程序⬆️ 其实，36氪早就上线了AI测评网（网页版），被大家戏称为“AI应用领域的大众点评”。 现在，小程序版也正式来了！ 微信里搜一搜，就能打开这个“A",
+        "category": "articles",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3735404489752580",
+        "title": "中岩大地：因实施方案重大调整，放弃中标核电项目",
+        "url": "https://36kr.com/newsflashes/3735404489752580?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T10:49:56.000Z",
+        "summary": "36氪获悉，中岩大地公告，公司此前中标“核电分公司江苏徐圩项目桩基工程标段”，但在后续对接中，因项目实施方案发生调整，导致核心商务条款及成本测算基础出现重大变更，实施条件与投标阶段显著不同。为防范经营风险，公司决定放弃该中标资格。目前项目尚未签订合同，对公司无实质性影响。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3735384009048325",
+        "title": "硬氪首发 | 前华为自动驾驶核心成员创业，要做“会走路”的情绪陪伴机器人",
+        "url": "https://36kr.com/p/3735384009048325?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T10:29:50.000Z",
+        "summary": "作者 | 林晴晴 编辑 | 袁斯来 硬氪获悉，情绪陪伴场景小型具身机器人公司「青心意创」已于近期完成Pre-A轮融资，本轮融资由厚雪资本和天际资本领投，老股东乐朴资本持续跟投，新辉资本担任长期财务顾问。本轮融资将主要用于超小型双足陪伴机器人的产品研发及技术平台搭建、核心算法迭代与团队扩充。此前，公司已完成由初心资本、乐朴资本及多位科技领域个人投资者参与的天使轮融资。 「青心意创」核心团队于2024年初组建，将前沿的具身智能以及自动驾驶大",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3735364151836680",
+        "title": "创想三维IPO：造物平权下的版权困境",
+        "url": "https://36kr.com/p/3735364151836680?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T10:14:42.000Z",
+        "summary": "作者 | 丁卯 编辑 | 张帆 2026年3月9日，创想三维再次向香港联交所递交招股书，拟在主板挂牌上市，中金公司担任独家保荐人。作为3D打印行业领军者，这是公司第三次冲刺资本市场，若进展顺利，创想三维有望摘得港股“消费级3D打印第一股”的桂冠。 然而，招股书揭开的不仅是公司规模的扩张，更是其面对拓竹猛烈进攻下的节节败退。这位昔日王者在丢掉行业头把交椅的同时，财务报表也透露出利润缩水、现金流收紧的危险信号。 那么，在造物平权的趋势下，消",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/ugasuiy5dmlerpkwokvw",
         "title": "微软发布MCP C# SDK 1.0版本，全面支持最新的协议规范",
         "url": "https://www.infoq.cn/article/ugASUiY5dmLERPkwoKVw?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-23T10:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3735344485744905",
+        "title": "这300家企业，正在定义全球具身智能产业",
+        "url": "https://36kr.com/p/3735344485744905?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T09:49:35.000Z",
+        "summary": "站在人与机器共生的新起点，具身智能正推动技术从“感知世界”走向“行动于世界”，一场融合软硬件、数据与场景的产业变革已悄然展开。 从具身机器人的“大脑”模型研发，到核心硬件与本体制造，具身智能产业正在从研发向产业化和商业化落地迈进。从产业全链条来看，具身智能产业依托上游核心技术，在中游形成产品与解决方案，在下游场景中实现价值落地。下面这张图中，我们梳理出当下中美两国具身智能赛道值得关注的“弄潮儿”，供你参考。 上游 中游 下游 参考来源 ",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3735341158121733",
+        "title": "36氪报告图解 | 这条AI赛道，2026年规模有望破万亿",
+        "url": "https://36kr.com/p/3735341158121733?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T09:46:24.000Z",
+        "summary": "近期，36氪研究发布了《2026年具身智能产业发展研究报告》（以下简称“报告”）。报道提到，截至2025年12月21日，全年融资事件超305起，总额超过380亿元，参与的投资机构数量超过600家。资本的密集涌入，充分印证了产业发展的潜力与市场信心。 从技术成熟度、产业链完备度与市场拓展速度来看，中国具身智能产业已处于全球第一梯队。根据36氪研究院测算，中国具身智能市场规模已从2018年的2133亿元迅速增长至2025年的9150亿元，并",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3735337722216451",
+        "title": "提供高质量空间智能数据服务，「际数科技」完成数千万元Pre-A+轮融资 | 36氪首发",
+        "url": "https://36kr.com/p/3735337722216451?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T09:42:55.000Z",
+        "summary": "36氪获悉，高质量空间智能数据服务商际数科技宣布完成数千万元pre-A+轮融资。本轮融资由庚智基金投资，资金主要用于底层技术平台研发、数据资产拓展及市场推广。 际数科技成立于2023年5月，旨在以“数据自动化标注数据”新范式，为自动驾驶、具身智能等领域提供核心数据基座，解决空间智能数据供给矛盾。目前公司产品重点落地自动驾驶领域，已服务超过20家头部智能驾驶行业客户。 际数科技创始人兼CEO周源为武汉大学测绘工程博士与同济大学测绘与地理信",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3735333975736583",
+        "title": "打造青少年“AI私教”，走进全国200多所学校，「满分运动」获数千万元A轮融资｜36氪首发",
+        "url": "https://36kr.com/p/3735333975736583?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-23T09:39:06.000Z",
+        "summary": "36氪获悉，全场景体育教育服务商「满分运动」近期宣布完成数千万元A轮融资。 本轮融资由顺禧基金与深圳市龙华区龙华资本联合投资，投后估值达数亿元。 资金将主要用于C端市场拓展、技术研发与团队扩充。 满分运动聚焦于青少年体育教育及全年龄段运动健康领域，基于自研的全国首款青少年运动健康垂类“飞驰大模型”与智能体“小满老师”，以及与视频与视觉技术国家工程研究中心合作研发的视觉捕捉模型，目前构建起从学校到家庭、覆盖室内与户外场景的完整产品矩阵，已",
         "category": "updates",
         "region": "cn"
       },
@@ -1249,282 +1569,22 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3735150529822981",
-        "title": "现货白银跌超8%",
-        "url": "https://36kr.com/newsflashes/3735150529822981?f=rss",
+        "id": "36Kr:36kr.com/p/3735252461748480",
+        "title": "业绩表现超预期，但李宁还“不想冒险”",
+        "url": "https://36kr.com/p/3735252461748480?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-23T06:31:36.000Z",
-        "summary": "36氪获悉，国际贵金属价格持续下挫，现货黄金跌5.56%，报4246.82美元/盎司；现货白银跌8.13%，报62.35美元/盎司。",
+        "publishedAt": "2026-03-23T09:06:48.000Z",
+        "summary": "作者 | 谢芸子 编辑 | 张帆 李宁最新的财报表现超过预期。 2025年，公司营业收入同比提高3.2%至295.98亿元；归母净溢利29.36亿元，保持9.9%的净利率。盈利指标上，李宁公司毛利率同比下降0.4个百分点至49%；权益持有人应占权益回报率同比下降1个百分点至10.9%。 公司收入的同比增长主要来自专业品类的增速。 报告期内，李宁跑步、篮球、综训三大品类流水占比达64%，专业产品收入占比超56%。 而毛利率下降的主因在于实",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3735150209056771",
-        "title": "邮储银行旗下中邮邮惠万家银行公司注销",
-        "url": "https://36kr.com/newsflashes/3735150209056771?f=rss",
+        "id": "36Kr:36kr.com/p/3735272591212546",
+        "title": "宇树毛利率60%的秘密",
+        "url": "https://36kr.com/p/3735272591212546?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-23T06:31:16.000Z",
-        "summary": "36氪获悉，爱企查App显示，近日，中邮邮惠万家银行有限责任公司登记状态由存续变更为注销。中邮邮惠万家银行有限责任公司成立于2022年1月，法定代表人为刘宏海，注册资本50亿元人民币，经营范围包括办理电子票据承兑与贴现、发行金融债券、从事银行卡业务等。股东信息显示，该公司由中国邮政储蓄银行股份有限公司全资持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735144575107079",
-        "title": "沪指跌破3800点整数关口",
-        "url": "https://36kr.com/newsflashes/3735144575107079?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T06:25:32.000Z",
-        "summary": "36氪获悉，沪指跌破3800点整数关口，现跌3.98%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735134337728521",
-        "title": "恒生科技指数跌4%",
-        "url": "https://36kr.com/newsflashes/3735134337728521?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T06:15:07.000Z",
-        "summary": "36氪获悉，恒生科技指数跌4%，恒生指数跌近4%；老铺黄金跌约12%；华虹半导体、B站跌超7%，蔚来跌超6%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735131227865353",
-        "title": "沪深两市成交额连续第20个交易日突破2万亿",
-        "url": "https://36kr.com/newsflashes/3735131227865353?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T06:11:58.000Z",
-        "summary": "36氪获悉，沪深两市成交额连续第20个交易日突破2万亿。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735124848902407",
-        "title": "现货黄金失守4300美元关口",
-        "url": "https://36kr.com/newsflashes/3735124848902407?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T06:05:28.000Z",
-        "summary": "36氪获悉，现货黄金跌势持续扩大，失守4300美元/盎司关口，日内下跌4.5%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735068402516228",
-        "title": "地瓜机器人公司增资至16.3亿元",
-        "url": "https://36kr.com/newsflashes/3735068402516228?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:58:01.000Z",
-        "summary": "36氪获悉，爱企查App显示，近日，深圳地瓜机器人有限公司发生工商变更，注册资本由6.3亿元人民币增至16.3亿元人民币。深圳地瓜机器人有限公司成立于2024年1月，法定代表人为王丛，经营范围包括智能机器人的研发、集成电路芯片设计及服务、人工智能应用软件开发等。股东信息显示，该公司由D-Robotics Holding Limited全资持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735113269444873",
-        "title": "现货黄金日内跌幅扩大至4%",
-        "url": "https://36kr.com/newsflashes/3735113269444873?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:53:42.000Z",
-        "summary": "36氪获悉，现货黄金日内跌幅扩大至4%，报4310.8美元/盎司。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735103215370502",
-        "title": "LG电子称今年将全力推进机器人业务",
-        "url": "https://36kr.com/newsflashes/3735103215370502?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:50:28.000Z",
-        "summary": "LG电子首席执行官吕宰哲周一表示，公司今年将不遗余力地发展机器人业务，并指出在人工智能时代，公司可以在该领域充分发挥其积累的专业知识。吕宰哲在首尔举行的股东大会上表示：“在人工智能蓬勃发展的背景下，我们计划重点关注四个关键领域——机器人、制冷解决方案、智能工厂和智能家居——LG电子在这些领域拥有独特的优势和强劲的增长潜力。”根据该计划，LG电子将寻求自主生产机器人执行器（约占机器人生产成本的40%），以增强其企业对企业（B2B）业务组合",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735106261270530",
-        "title": "A股三大指数均跌超3%",
-        "url": "https://36kr.com/newsflashes/3735106261270530?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:46:34.000Z",
-        "summary": "36氪获悉，A股三大指数均跌超3%，有色金属、养殖业、机场航运、医药生物等方向跌幅居前，沪深京三市下跌个股超5100只。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735100975218696",
-        "title": "阿里回应推出“养虾”PC：是云电脑产品，暂无发布时间表",
-        "url": "https://36kr.com/newsflashes/3735100975218696?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:41:11.000Z",
-        "summary": "针对阿里即将推出“养虾”PC与主机硬件，由阿里云无影团队主导，阿里方面回应称：是有这个计划，基于原有产品改造，但没有发布时间表。“是云电脑，不是PC。”据知情人士表示。此前，阿里云曾推出多款无影云电脑产品。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735067998552065",
-        "title": "京东方旗下材料科技公司注册资本增至5.2亿元",
-        "url": "https://36kr.com/newsflashes/3735067998552065?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:37:34.000Z",
-        "summary": "36氪获悉，爱企查App显示，近日，北京京东方材料科技有限公司发生工商变更，注册资本由5亿元人民币增至5.2亿元人民币。该公司成立于2024年8月，法定代表人为王震宇，经营范围包括新材料技术研发、新材料技术推广服务、化工产品销售、电子专用材料销售等。股东信息显示，该公司由京东方科技集团股份有限公司全资持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735094114369801",
-        "title": "“航星传动”宣布完成超亿元Pre-B轮融资",
-        "url": "https://36kr.com/newsflashes/3735094114369801?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:34:12.000Z",
-        "summary": "36氪获悉，近日，高端控制系统装备服务商“航星传动”宣布完成超亿元的Pre-B轮融资，由中车国创、国新国证、安徽省产投联合投资。本轮资金将用于进一步引进高端研发人才，提升核心技术研发能力，开拓国内、国外市场。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735088083025927",
-        "title": "沪指午后跌幅扩大至3%",
-        "url": "https://36kr.com/newsflashes/3735088083025927?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:28:04.000Z",
-        "summary": "36氪获悉，沪指午后跌幅扩大至3%，深成指跌超2.7%，创业板指跌超2.3%，有色金属、养殖业、机场航运、医药生物等方向跌幅居前，全市场上涨个股数不足400只。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735084969574665",
-        "title": "广东：加强对国家重大科技任务和电子信息、人工智能、低空经济等先进制造业集群的增信",
-        "url": "https://36kr.com/newsflashes/3735084969574665?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:24:54.000Z",
-        "summary": "36氪获悉，广东省地方金融管理局、广东省财政厅等部门印发《关于完善政府性融资担保体系 助力做好金融“五篇大文章”的行动方案》，方案提出，助力科技创新强省。加强对国家重大科技任务和电子信息、人工智能、低空经济等先进制造业集群的增信，支持培育壮大新兴产业和未来产业，支持瞪羚企业、独角兽企业“高跳快跑”。积极开展股权质押和知识产权质押担保业务，探索“投、担、贷”联动机制，扩大科技担保服务覆盖面。支持融资担保机构为科技创新债券发行提供增信。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735080216838144",
-        "title": "广东：到2030年底政府性融资担保机构资本实力明显提升，力争资本规模增长50%",
-        "url": "https://36kr.com/newsflashes/3735080216838144?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:20:04.000Z",
-        "summary": "36氪获悉，广东省地方金融管理局、广东省财政厅等部门印发《关于完善政府性融资担保体系助力做好金融“五篇大文章”的行动方案》，方案提出，主要目标为，优化全省政府性融资担保体系，统一标识、系统、服务、标准，创建“粤担保”品牌，聚焦科技金融、普惠金融、绿色金融、数字金融、养老金融“五篇大文章”，打造特色融资担保服务。到2030年底，政府性融资担保机构资本实力明显提升，力争资本规模增长50%，省级担保集团和省级政府性融资再担保机构注册资本位列全",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3734970362101763",
-        "title": "郁亮卸任万科法定代表人完成工商变更",
-        "url": "https://36kr.com/newsflashes/3734970362101763?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:18:18.000Z",
-        "summary": "36氪获悉，爱企查App显示，近日，万科企业股份有限公司发生工商变更，郁亮卸任法定代表人，由黄力平接任。 万科企业股份有限公司成立于1984年5月，注册资本约109.95亿元人民币，经营范围包括兴办实业、进出口业务、房地产开发等。股东信息显示，该公司由深圳市地铁集团有限公司、香港中央结算有限公司等共同持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735067252195328",
-        "title": "紫金矿业总裁林泓富：收购赤峰黄金主要基于公司战略安排、标的潜力及市场前景考虑",
-        "url": "https://36kr.com/newsflashes/3735067252195328?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:15:28.000Z",
-        "summary": "紫金矿业副董事长、总裁林泓富在今日上午召开的公司2025年度业绩说明会上表示，收购赤峰黄金，一是符合公司资源优先的战略安排；二是赤峰黄金在境外的几座矿山都具有良好的找矿前景和产能提升潜力；三是因全球治理秩序、信用货币超发等问题都没有得到根本解决，从中长期看，黄金维持高价位或进一步上涨的逻辑没有变化。他同时表示，紫金矿业不会成为单纯的投资平台，核心资产肯定还是在公司的手上。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735059573080071",
-        "title": "国内金价跌破千元关口，品牌金饰集体降价",
-        "url": "https://36kr.com/newsflashes/3735059573080071?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:09:15.000Z",
-        "summary": "3月23日，国内金价跌破1000元/克，截至发稿，国内现货金价报975.5元/克；国内期货金价报974.92元/克。多家品牌金饰价格继续下行。周生生足金饰品报1367元/克，较21日下跌22元；老庙黄金报1374元/克，下跌23元；周大福报1375元/克，下跌22元。（央视财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3735061604007945",
-        "title": "滴滴AI打车公布运营数据，空气清新需求排第二",
-        "url": "https://36kr.com/newsflashes/3735061604007945?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T05:01:08.000Z",
-        "summary": "据滴滴公布的AI小滴运营数据显示，个性化叫车需求中，“又快又便宜”“空气清新”“最近的车”位列前三，分别为57%、12.5%、9.9%。据悉，滴滴AI打车去年9月开启公测，近期正式上线了v1.0版本，目前已经支持空气清新、后备厢大、驾驶平稳等90多个服务标签，能通过智能理解用户需求，为用户提供定制化的用车方案。除了一句话叫车外，搜附近、预约叫车、组合出行、订单查询等功能也在被高频使用。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3734918559842560",
-        "title": "前五源投资人联手港大教授，想做一款AGI投资机器，获Monolith投资｜硬氪首发",
-        "url": "https://36kr.com/p/3734918559842560?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T02:37:31.000Z",
-        "summary": "硬氪获悉，AI投资技术公司Grace Investment Machine（以下简称GIM）近日完成数千万元天使轮融资，由Monolith和五源资本共同投资。本轮资金将主要用于自研金融大模型的技术迭代、数据与算力基础设施建设，以及全球化顶尖团队的持续扩张。值观资本后续担任独家财务顾问。 GIM成立于2025年7月，公司定位为下一代自进化智能体投资平台，希望通过多智能体架构，打造AGI时代的投资机器和资产管理平台，开创全新的AI资产管理类",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3734101643706371",
-        "title": "月薪3000的职校生，正在「干掉」北影导演",
-        "url": "https://36kr.com/p/3734101643706371?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T02:30:00.000Z",
-        "summary": "文｜兰杰 编辑｜乔芊 “如果你在出生的时候没有劳斯莱斯，那么这辈子大概率都不会有了。”这是酱油动漫创始人黄浩南熟记于心的一句话。 他中专毕业，没有父母帮衬，只坚信一条信念，打工是不可能发财的，一定要抓住风口。所以在网文、短剧这些昔日风口中，都有过黄浩南的身影。做短剧后，他终于实现了阶层跨越，但那时酱油动漫仍籍籍无名，直到他又一头扎进漫剧的巨浪。 去年11月，酱油动漫的月收入超5000万元，已经是名副其实的赛道头部。作为公司创始人，黄浩南",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3734855815184390",
-        "title": "36氪首发丨峰瑞资本投了家智能硬件公司，做空间三维重建，创始人为前群核科技副总裁",
-        "url": "https://36kr.com/p/3734855815184390?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T01:32:16.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，三维重建与空间智能公司——杭州竹马创新科技有限公司（下称“竹马创新”）近日完成数千万天使轮融资。本轮融资由峰瑞资本领投，洪泰基金跟投，光智资本担任本轮独家财务顾问。资金将主要用于研发团队招聘、产品量产筹备及初期营销推广。 竹马创新成立于2025年11月，专注于消费级三维重建与空间智能产品。公司创始人兼CEO张吉，毕业于西安交通大学计算机系，拥有20余年3D图形行业经验。他曾任群核科技副总裁，负责推动公",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3734094940504073",
-        "title": "某北方车企联合投资，轻舟再融1亿美元，发力世界模型｜36氪首发",
-        "url": "https://36kr.com/p/3734094940504073?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T01:00:00.000Z",
-        "summary": "图为轻舟智航 文｜肖漫 编辑｜李勤 36氪获悉，轻舟智航（QCraft，以下简称“轻舟”）宣布完成D轮新一轮融资1亿美元。本轮融资由某国内头部主机厂、宁波宁海兴泰合基金、梁溪科创产业母基金（博华资本管理）、华德科创、某头部汽车电子零部件公司等重磅产业投资方及投资机构联合投资。 本次资金将主要用于两大方向：一是加大“世界模型+强化学习”等前沿物理AI技术的研发投入；二是加强组织人才建设，为公司的长远发展储备战略力量。 轻舟成立于2019年",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3727983704243078",
-        "title": "「食气生化」获超亿元融资，中试装置运行过万小时，五万吨级项目获备案 | 36氪首发",
-        "url": "https://36kr.com/p/3727983704243078?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T00:00:00.000Z",
-        "summary": "36氪获悉，生物制造企业「食气生化」近日完成超亿元融资，最新投资方包括上海科创知识产权基金和天创资本。本轮融资将重点用于推进公司从中试向产业化的关键跨越。此前，公司曾获得博远资本、腾讯、前海母基金、南创投等机构投资。 食气生化成立于2023年1月，专注于一碳生物转化与气体发酵技术开发。联合创始人闻志强、汪庆卓，博士期间为中科院合成生物学重点实验室同门师兄弟。其所在课题组曾服务百余项工业化项目，在气体发酵和一碳生物转化技术研发领域有着近二",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3734758253887744",
-        "title": "8点1氪丨上市公司董事长病逝，未成年女儿继承9亿元股票；司美格鲁肽化合物专利到期；于东来回应40亿资产利润分配争议",
-        "url": "https://36kr.com/p/3734758253887744?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-22T23:56:45.000Z",
-        "summary": "今日热点导览 多地中小银行集中清理沉睡账户，已有超7家银行发布公告 全球首个脑机接口创新产品获得医保编码 微信推出官方龙虾插件 美药管局在全美召回近9万瓶儿童布洛芬药物 日媒：中国车企全球销量20多年来首次超日本居榜首 TOP 3大新闻 上市公司董事长病逝，未成年女儿继承9亿元股票 3月20日晚间，大北农发布关于控股股东、实际控制人变更暨权益变动的提示性公告。 公司原实际控制人、董事长邵根伙于2026年2月3日因病去世，邵根伙生前直接持",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3733991155400965",
-        "title": "华晨宇进军日化家居赛道，与小阔集团共同创立品牌「重点」｜项目报道",
-        "url": "https://36kr.com/p/3733991155400965?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-22T13:22:09.000Z",
-        "summary": "3 月 22 日，小阔集团携手华晨宇正式推出全新日化家居品牌「重点」，华晨宇出任品牌联合创始人。 此次华晨宇的加入并非传统的��牌代言，而是形成了深度的绑定。从股权结构来看，「重点」的运营主体为深圳华阔生物科技有限公司，其中小阔集团旗下子公司深圳星阔生物科技有限公司持股 70%，华晨宇控股的上海圣恒鸿音文化传播有限公司持股 20%，北京云上万家科技有限公司持股 10%。 在消费理念不断迭代的当下，日化行业早已脱离单纯的基础功能满足阶段，",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3734107862073606",
-        "title": "用AI让游戏更好玩，只是腾讯关心的第二个问题",
-        "url": "https://36kr.com/p/3734107862073606?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-22T12:51:33.000Z",
-        "summary": "文｜兰杰 编辑｜乔芊 3月19日，腾讯发布了2025年全年以及Q4的财报，表现依然稳健。其中，游戏仍是腾讯的基本盘业务，贡献了超30%的收入。 2025年，腾讯本土市场游戏的收入为1642亿元，同比增长18%，得益于《三角洲行动》的强劲表现，以及《王者荣耀》、《和平精英》等长青游戏及《无畏契约》系列(个人电脑端及移动端)的收入增长。 国际市场游戏收入为774亿元，同比增长33%，得益于 Supercell 旗下游戏及《PUBG MOBI",
+        "publishedAt": "2026-03-23T08:53:37.000Z",
+        "summary": "文｜邱晓芬 编辑｜苏建勋 3月20日，宇树公布IPO前的招股书，当中一则数据吸引了我们的关注——2025年前三季度，宇树整体的 毛利率达到59.5% 。 宇树的业务可以简单分为三块：四足狗、人形机器人、机器人组件（比如灵巧手、协作机械臂、激光雷达等）。 其中，这几项业务的毛利率分别达到 55.5%、62.9%、60.4% 。除了早期阶段的人形机器人，其他业务毛利率在近四年稳步上升。 △宇树不同业务在近四年的毛利率情况，图源：宇树招股书 ",
         "category": "updates",
         "region": "cn"
       },
@@ -1545,16 +1605,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-03-22T08:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3733553048256518",
-        "title": "Nothing在中国发布Headphone (a)与Phone (4a)系列，在性能过剩时代继续押注“设计优先”丨最前线",
-        "url": "https://36kr.com/p/3733553048256518?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-22T03:26:52.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 3月20日，总部位于伦敦的消费科技公司Nothing在中国上海召开新品发布会，正式推出头戴式耳机Headphone(a)和智能手机Phone(4a)系列。这是Nothing第二次在中国以线下发布会形式发布新品，显示出其对中国市场的投入正在逐步加深。 从定价来看，Headphone(a)国内首销价为1299元，Phone(4a)起售价为3299元（12GB+256GB），Pro版本售价4199元。两款产品均定位中",
         "category": "updates",
         "region": "cn"
       },
@@ -1595,16 +1645,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-03-21T08:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3732100232298503",
-        "title": "“我的前额叶罢工了”，年轻人争相确诊“网红病”？",
-        "url": "https://36kr.com/p/3732100232298503?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-21T02:51:33.000Z",
-        "summary": "当代年轻人对待病的态度，像薛定谔的猫一般充满矛盾。 有时讳疾忌医，不敢看自己的体检报告，对报告里已确诊的小结节、轻度脂肪肝、胃炎装聋作哑，安慰自己没啥大事。 有时又上赶着帮自己“确诊”新疾病：“我说我怎么天天活人微死还犯懒呢，原来我是前额叶受损啊。” 网友疯传的前额叶梗图。（图/社交平台截图） 最近，又轮到了前额叶。 这个原本常见于神经科学教科书中的专业术语，近期一跃成为了热搜常客。 与ADHD、PUA、躁郁症等专业名词刚刚走红时的状况",
         "category": "updates",
         "region": "cn"
       },
@@ -1664,46 +1704,6 @@
         "url": "https://www.infoq.cn/article/mpTLQz7Oj5lfLIoZiBhE?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-20T17:55:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hyu9qhmihr7omet0lmzt",
-        "title": "一条被开发者踩出来的路：OpenClaw“涌进”飞书",
-        "url": "https://www.infoq.cn/article/hYU9QHMihr7oMET0lmZt?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-20T17:26:06.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/sbmemgzadmeydruwzswi",
-        "title": "Cursor自研新模型反超Opus 4.6，价格还“打一折”！网友实测：只有它写完应用能一次跑通",
-        "url": "https://www.infoq.cn/article/sbMemGzadMeYDRuwZSWi?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-20T16:20:07.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/gret2ljeoa4wqm35qmid",
-        "title": "Claude挖出22个Firefox漏洞",
-        "url": "https://www.infoq.cn/article/GRET2LJeoa4WQm35qmiD?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-20T15:45:23.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hw8wlqbkssmqge5b00uq",
-        "title": "谷歌BigQuery提供了分布式数据跨区域SQL查询的预览功能",
-        "url": "https://www.infoq.cn/article/HW8wlQbkssMqgE5B00uQ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-20T15:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
