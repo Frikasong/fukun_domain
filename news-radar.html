@@ -3,356 +3,885 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Auto News Radar | Fukun</title>
+  <title>News Radar — Fukun</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;1,400;1,500&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
     :root {
-      --brand: #2B5054;
-      --brand-soft: #5A8A8E;
-      --text: #2F3F42;
-      --muted: #7B8F92;
-      --bg: #f8fafb;
-      --card: #ffffff;
-      --line: rgba(43, 80, 84, 0.18);
+      --brand:      #2B5054;
+      --brand-dark: #1f3b3e;
+      --brand-mid:  #3d7478;
+      --bg:         #f9f9f9;
+      --card:       #ffffff;
+      --text:       #1f2325;
+      --muted:      #7B8F92;
+      --line:       rgba(43, 80, 84, 0.15);
+      --line-light: rgba(43, 80, 84, 0.08);
     }
 
-    * { box-sizing: border-box; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
     body {
-      margin: 0;
-      font-family: "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-family: 'Public Sans', -apple-system, sans-serif;
       background: var(--bg);
       color: var(--text);
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
     }
 
-    .wrap {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 28px 20px 50px;
+    /* ── Site header ── */
+    .site-header {
+      background: rgba(43, 80, 84, 0.92);
+      padding: 18px 24px 16px;
+      text-align: center;
+      position: relative;
     }
-
-    .head {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      gap: 12px;
-      margin-bottom: 18px;
-    }
-
-    .title {
-      margin: 0;
-      color: var(--brand);
-      font-size: 28px;
-      line-height: 1.2;
-      font-weight: 700;
-    }
-
-    .sub {
-      margin: 6px 0 0;
-      color: var(--muted);
+    .site-header-back {
+      position: absolute;
+      left: 20px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-family: 'Newsreader', serif;
+      font-style: italic;
       font-size: 13px;
-    }
-
-    .back {
+      color: rgba(255,255,255,0.6);
       text-decoration: none;
-      color: var(--brand);
-      border: 1px solid var(--line);
-      border-radius: 8px;
-      padding: 8px 10px;
-      font-size: 12px;
-      white-space: nowrap;
-      background: #fff;
+      transition: color .15s;
     }
-
-    .controls {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 10px;
-      margin-bottom: 14px;
-    }
-
-    .row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      align-items: center;
-    }
-
-    .chip {
-      border: 1px solid var(--line);
-      background: #fff;
-      color: var(--brand);
-      border-radius: 999px;
-      padding: 6px 10px;
-      font-size: 12px;
+    .site-header-back:hover { color: rgba(255,255,255,0.9); }
+    .site-header-share {
+      position: absolute;
+      right: 20px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-family: 'Public Sans', sans-serif;
+      font-size: 11px;
+      font-weight: 500;
+      color: rgba(255,255,255,0.5);
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.15);
+      border-radius: 6px;
+      padding: 5px 10px;
       cursor: pointer;
+      letter-spacing: .04em;
     }
+    .site-header-share:hover { background: rgba(255,255,255,0.14); color: rgba(255,255,255,0.8); }
+    .site-header h1 {
+      font-family: 'Newsreader', serif;
+      font-style: italic;
+      font-weight: 400;
+      font-size: 26px;
+      color: #fff;
+      letter-spacing: .01em;
+      line-height: 1;
+      margin-bottom: 5px;
+    }
+    .site-header-sub {
+      font-family: 'Public Sans', sans-serif;
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.42);
+    }
+    .site-header-sub span { margin: 0 6px; opacity: .5; }
 
-    .chip.active {
-      background: var(--brand);
+    /* ── Region nav ── */
+    .region-nav {
+      background: var(--brand-dark);
+      display: flex;
+      justify-content: center;
+      gap: 0;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+    }
+    .region-tab {
+      font-family: 'Newsreader', serif;
+      font-style: italic;
+      font-size: 15px;
+      font-weight: 400;
+      color: rgba(255,255,255,0.52);
+      background: transparent;
+      border: none;
+      padding: 11px 22px;
+      cursor: pointer;
+      position: relative;
+      transition: color .15s;
+      letter-spacing: .01em;
+    }
+    .region-tab:hover { color: rgba(255,255,255,0.82); }
+    .region-tab.active {
       color: #fff;
     }
+    .region-tab.active::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 16px; right: 16px;
+      height: 2px;
+      background: rgba(255,255,255,0.6);
+      border-radius: 2px 2px 0 0;
+    }
 
+    /* ── Main layout ── */
+    .wrap {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 28px 20px 60px;
+    }
+
+    /* ── Focus bar ── */
+    .focus-bar {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 14px 18px 16px;
+      margin-bottom: 20px;
+    }
+    .section-label {
+      font-family: 'Public Sans', sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: .13em;
+      text-transform: uppercase;
+      color: var(--brand);
+      margin-bottom: 11px;
+    }
+    .focus-presets {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      margin-bottom: 10px;
+    }
+    .preset-btn {
+      font-family: 'Public Sans', sans-serif;
+      font-size: 12px;
+      font-weight: 500;
+      border: 1px solid var(--line);
+      background: var(--bg);
+      color: var(--brand);
+      border-radius: 999px;
+      padding: 6px 13px;
+      cursor: pointer;
+      transition: all .13s;
+      letter-spacing: .01em;
+    }
+    .preset-btn:hover { border-color: var(--brand); background: #fff; }
+    .preset-btn.active {
+      background: var(--brand);
+      border-color: var(--brand);
+      color: #fff;
+    }
+    .preset-desc {
+      font-family: 'Newsreader', serif;
+      font-style: italic;
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    /* Custom keywords */
+    .custom-area { display: none; margin-top: 12px; }
+    .custom-area.visible { display: block; }
+    .keyword-input-row { display: flex; gap: 8px; margin-bottom: 9px; }
+    .kw-input {
+      flex: 1;
+      font-family: 'Public Sans', sans-serif;
+      font-size: 13px;
+      border: 1px solid var(--line);
+      background: var(--bg);
+      border-radius: 7px;
+      padding: 7px 11px;
+      color: var(--text);
+      outline: none;
+    }
+    .kw-input:focus { border-color: var(--brand); background: #fff; }
+    .kw-add {
+      font-family: 'Public Sans', sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      background: var(--brand);
+      color: #fff;
+      border: none;
+      border-radius: 7px;
+      padding: 7px 14px;
+      cursor: pointer;
+      letter-spacing: .02em;
+    }
+    .kw-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+    .kw-chip {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 11.5px;
+      background: var(--brand);
+      color: #fff;
+      border-radius: 999px;
+      padding: 3px 10px;
+    }
+    .kw-chip button {
+      background: none; border: none;
+      color: rgba(255,255,255,.6); font-size: 14px;
+      cursor: pointer; padding: 0; line-height: 1;
+    }
+    .kw-chip button:hover { color: #fff; }
+    .kw-empty { font-size: 12px; color: var(--muted); font-style: italic; }
+
+    /* ── Filters row ── */
+    .filters {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+      margin-bottom: 18px;
+    }
+    .cat-chips { display: flex; gap: 6px; flex-wrap: wrap; flex: 1; }
+    .chip {
+      font-family: 'Public Sans', sans-serif;
+      font-size: 11.5px;
+      font-weight: 500;
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--muted);
+      border-radius: 999px;
+      padding: 5px 12px;
+      cursor: pointer;
+      transition: all .12s;
+      letter-spacing: .01em;
+    }
+    .chip:hover { color: var(--brand); border-color: var(--brand-mid); }
+    .chip.active { background: var(--brand); border-color: var(--brand); color: #fff; }
     .search {
-      width: 100%;
+      font-family: 'Public Sans', sans-serif;
+      font-size: 13px;
       border: 1px solid var(--line);
       background: #fff;
       border-radius: 8px;
-      padding: 10px 12px;
+      padding: 7px 12px;
       color: var(--text);
-      font-size: 14px;
       outline: none;
+      width: 220px;
     }
+    .search:focus { border-color: var(--brand-mid); }
 
-    .meta {
-      color: var(--muted);
-      font-size: 12px;
-      margin: 6px 0 0;
-    }
-
-    .list {
-      display: grid;
-      gap: 10px;
-      margin-top: 14px;
-    }
-
-    .item {
-      border: 1px solid var(--line);
-      border-radius: 10px;
-      background: var(--card);
-      padding: 12px;
-    }
-
-    .item-top {
+    /* ── Feed meta ── */
+    .feed-meta {
       display: flex;
       justify-content: space-between;
-      gap: 10px;
-      margin-bottom: 6px;
+      align-items: baseline;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 14px;
+    }
+    .feed-meta-count {
+      font-family: 'Public Sans', sans-serif;
       font-size: 11px;
+      font-weight: 500;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .feed-meta-topics {
+      font-family: 'Newsreader', serif;
+      font-style: italic;
+      font-size: 12.5px;
       color: var(--muted);
     }
 
-    .source { color: var(--brand); font-weight: 600; }
+    /* ── Cards ── */
+    .feed { display: grid; gap: 10px; }
 
-    .item-title {
-      margin: 0;
-      font-size: 16px;
-      line-height: 1.4;
-      color: var(--text);
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 16px 18px;
+      transition: border-color .13s, box-shadow .13s;
+    }
+    .card:hover {
+      border-color: var(--brand-mid);
+      box-shadow: 0 2px 12px rgba(43,80,84,0.07);
     }
 
-    .item-title a {
-      color: inherit;
-      text-decoration: none;
-    }
-
-    .sum {
-      margin: 8px 0;
-      color: #4B5E61;
-      font-size: 13px;
-      line-height: 1.6;
-    }
-
-    .item-bottom {
+    .card-eyebrow {
       display: flex;
       justify-content: space-between;
       align-items: center;
       gap: 10px;
+      margin-bottom: 8px;
     }
-
-    .badge {
-      border: 1px solid var(--line);
-      border-radius: 999px;
-      padding: 2px 8px;
+    .card-source-row { display: flex; align-items: center; gap: 7px; flex-wrap: wrap; }
+    .card-source {
+      font-family: 'Public Sans', sans-serif;
       font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .1em;
+      text-transform: uppercase;
       color: var(--brand);
-      background: rgba(43, 80, 84, 0.08);
+    }
+    .topic-tag {
+      font-size: 9.5px;
+      font-weight: 600;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      padding: 2px 7px;
+      border-radius: 3px;
+    }
+    .topic-legal-tech { background: #e6f2e7; color: #2a6b30; }
+    .topic-ai          { background: #e6eef8; color: #1a4c8a; }
+    .topic-tech        { background: #f0eaf8; color: #5a2d91; }
+    .topic-compliance  { background: #fef3e6; color: #8a4a00; }
+    .topic-fintech     { background: #fce8ef; color: #8a1040; }
+
+    .card-date {
+      font-family: 'Newsreader', serif;
+      font-style: italic;
+      font-size: 12px;
+      color: var(--muted);
+      white-space: nowrap;
     }
 
-    .links {
+    .card-title {
+      font-family: 'Newsreader', serif;
+      font-weight: 500;
+      font-size: 17px;
+      line-height: 1.45;
+      color: var(--text);
+      margin-bottom: 7px;
+    }
+    .card-title a { color: inherit; text-decoration: none; }
+    .card-title a:hover { color: var(--brand); text-decoration: underline; text-decoration-color: var(--line); }
+
+    .card-summary {
+      font-family: 'Public Sans', sans-serif;
+      font-size: 13px;
+      color: #4a5568;
+      line-height: 1.7;
+      margin-bottom: 12px;
+    }
+
+    /* Relevance dots */
+    .rel-dots { display: flex; gap: 3px; align-items: center; margin-bottom: 8px; }
+    .rel-dot {
+      width: 5px; height: 5px; border-radius: 50%;
+      background: var(--line);
+    }
+    .rel-dot.on { background: var(--brand-mid); }
+
+    .card-foot {
       display: flex;
-      gap: 6px;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
     }
-
-    .btn {
-      text-decoration: none;
+    .cat-badge {
+      font-family: 'Public Sans', sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: .07em;
+      text-transform: uppercase;
+      color: var(--muted);
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      padding: 2px 7px;
+      background: var(--line-light);
+    }
+    .card-actions { display: flex; gap: 6px; }
+    .card-btn {
+      font-family: 'Public Sans', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: .04em;
       color: var(--brand);
       border: 1px solid var(--line);
-      border-radius: 7px;
-      padding: 4px 8px;
-      font-size: 11px;
       background: #fff;
+      border-radius: 6px;
+      padding: 5px 10px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: all .12s;
     }
+    .card-btn:hover { background: var(--brand); color: #fff; border-color: var(--brand); }
 
     .empty {
+      text-align: center;
+      padding: 32px;
       border: 1px dashed var(--line);
       border-radius: 10px;
-      padding: 16px;
-      color: var(--muted);
-      font-size: 13px;
       background: #fff;
+      font-family: 'Newsreader', serif;
+      font-style: italic;
+      font-size: 15px;
+      color: var(--muted);
+    }
+
+    /* ── Region context strip ── */
+    .region-context {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 12px 18px;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .region-context-label {
+      font-family: 'Public Sans', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--brand);
+      white-space: nowrap;
+    }
+    .region-context-desc {
+      font-family: 'Newsreader', serif;
+      font-style: italic;
+      font-size: 13.5px;
+      color: var(--muted);
+      line-height: 1.4;
+    }
+
+    @media (max-width: 600px) {
+      .site-header h1 { font-size: 21px; }
+      .region-tab { font-size: 13px; padding: 10px 14px; }
+      .filters { flex-direction: column; align-items: stretch; }
+      .search { width: 100%; }
+      .card-foot { flex-direction: column; align-items: flex-start; }
     }
   </style>
 </head>
 <body>
-  <div class="wrap">
-    <div class="head">
-      <div>
-        <h1 class="title">Auto News Radar</h1>
-        <p class="sub">Independent legal tech intelligence tool · North America + China focus</p>
+
+<!-- ── Site header ─────────────────────────────────────────── -->
+<header class="site-header">
+  <a class="site-header-back" href="index.html">← fukun</a>
+  <h1>News Radar</h1>
+  <p class="site-header-sub">Law<span>·</span>Technology<span>·</span>Intelligence</p>
+  <button class="site-header-share" id="shareBtn">Share</button>
+</header>
+
+<!-- ── Region navigation ───────────────────────────────────── -->
+<nav class="region-nav" id="regionNav"></nav>
+
+<!-- ── Main content ────────────────────────────────────────── -->
+<div class="wrap">
+
+  <!-- Focus bar -->
+  <div class="focus-bar">
+    <div class="section-label">Your Focus Field</div>
+    <div class="focus-presets" id="presetRow"></div>
+    <p class="preset-desc" id="presetDesc"></p>
+    <div class="custom-area" id="customArea">
+      <div class="keyword-input-row">
+        <input class="kw-input" id="kwInput" placeholder="Add a keyword (e.g. contract AI, privacy law)…" />
+        <button class="kw-add" id="kwAdd">+ Add</button>
       </div>
-      <a class="back" href="index.html">Back to site</a>
+      <div class="kw-chips" id="kwChips"></div>
     </div>
-
-    <div class="controls">
-      <div class="row" id="regionRow"></div>
-      <div class="row" id="categoryRow"></div>
-      <input class="search" id="q" placeholder="Search by title, source, or summary..." />
-      <p class="meta" id="meta">Loading...</p>
-    </div>
-
-    <div class="list" id="list"></div>
   </div>
 
-  <script>
-    const regions = [
-      { id: 'na', label: 'North America' },
-      { id: 'cn', label: 'China Focus' }
-    ];
-    const categories = [
-      { id: 'all', label: 'All' },
-      { id: 'tools', label: 'Tools' },
-      { id: 'skills', label: 'Skills' },
-      { id: 'articles', label: 'Influential Articles' },
-      { id: 'updates', label: 'Updates' }
-    ];
+  <!-- Region context -->
+  <div class="region-context" id="regionContext">
+    <span class="region-context-label" id="regionContextLabel"></span>
+    <span class="region-context-desc" id="regionContextDesc"></span>
+  </div>
 
-    let state = {
-      region: 'na',
-      category: 'all',
-      q: '',
-      feed: { generatedAt: null, panels: { na: [], cn: [] }, highlights: { na: [], cn: [] } }
+  <!-- Filters -->
+  <div class="filters">
+    <div class="cat-chips" id="categoryRow"></div>
+    <input class="search" id="q" placeholder="Search…" />
+  </div>
+
+  <!-- Feed meta -->
+  <div class="feed-meta">
+    <span class="feed-meta-count" id="feedCount">Loading…</span>
+    <span class="feed-meta-topics" id="feedTopics"></span>
+  </div>
+
+  <!-- Feed -->
+  <div class="feed" id="feed"></div>
+
+</div>
+
+<script>
+// ── Config ─────────────────────────────────────────────────────────────────
+const PRESETS = {
+  'legal-tech': {
+    label: 'Legal Tech',
+    desc: 'Law firm AI, e-discovery, regtech, contract management, legal software',
+    boostTopics: ['legal-tech', 'compliance'],
+    boostKeywords: ['legal ai', 'legal tech', 'legaltech', 'law firm', 'e-discovery', 'ediscovery',
+      'compliance', 'contract', 'litigation', 'court', 'attorney', 'regtech', 'clm', 'legal ops',
+      'judicial', 'lawyer', 'paralegal', 'legal document', 'legal workflow', 'legal research']
+  },
+  'ai-tech': {
+    label: 'AI & Tech',
+    desc: 'LLMs, AI products, developer tools, cloud platforms, startup ecosystem',
+    boostTopics: ['ai', 'tech'],
+    boostKeywords: ['ai', 'llm', 'gpt', 'claude', 'gemini', 'machine learning', 'neural',
+      'generative', 'agent', 'model', 'openai', 'anthropic', 'automation', 'software',
+      'startup', 'developer', 'open source', 'cloud', 'api', 'saas']
+  },
+  'compliance': {
+    label: 'Compliance & Reg',
+    desc: 'GDPR, EU AI Act, DSA/DMA, AML/KYC, data breach law, regtech enforcement',
+    boostTopics: ['compliance', 'legal-tech'],
+    boostKeywords: ['gdpr', 'eu ai act', 'ai act', 'ai regulation', 'digital services act', 'dsa', 'dma',
+      'data protection', 'data privacy', 'privacy law', 'privacy regulation', 'algorithmic accountability',
+      'regtech', 'regulatory technology', 'kyc', 'aml', 'anti-money laundering', 'sox', 'hipaa',
+      'pci', 'ccpa', 'financial regulation', 'sec enforcement', 'data breach notification',
+      'cybersecurity law', 'compliance tech', 'prudential', 'data governance']
+  },
+  'all': {
+    label: 'All',
+    desc: 'Unfiltered — all sources, all topics',
+    boostTopics: [],
+    boostKeywords: []
+  },
+  'custom': {
+    label: 'Custom',
+    desc: 'Define your own focus — scored and ranked by your terms',
+    boostTopics: [],
+    boostKeywords: []
+  }
+};
+
+const REGION_META = {
+  all: {
+    label: 'Global Feed',
+    desc: 'Legal tech and technology intelligence from North America, Europe, and China.'
+  },
+  na: {
+    label: 'North America',
+    desc: 'US and Canadian legal tech, AI policy, law firm innovation, and tech industry news.'
+  },
+  eu: {
+    label: 'Europe',
+    desc: 'EU regulatory landscape, GDPR, AI Act enforcement, European tech startups and legal innovation.'
+  },
+  cn: {
+    label: 'China',
+    desc: '中国法律科技、AI行业动态，覆盖技术政策与商业前沿资讯。'
+  }
+};
+
+const REGIONS = [
+  { id: 'all', label: 'All' },
+  { id: 'na', label: 'North America' },
+  { id: 'eu', label: 'Europe' },
+  { id: 'cn', label: 'China' }
+];
+
+const CATEGORIES = [
+  { id: 'all', label: 'All' },
+  { id: 'tools', label: 'Tools' },
+  { id: 'skills', label: 'Skills' },
+  { id: 'articles', label: 'Articles' },
+  { id: 'updates', label: 'Updates' }
+];
+
+const TOPIC_COLORS = {
+  'legal-tech': 'topic-legal-tech',
+  'ai':         'topic-ai',
+  'tech':       'topic-tech',
+  'compliance': 'topic-compliance',
+  'fintech':    'topic-fintech'
+};
+const TOPIC_LABELS = {
+  'legal-tech': 'Legal Tech', 'ai': 'AI',
+  'tech': 'Tech', 'compliance': 'Compliance', 'fintech': 'Fintech'
+};
+
+const MAX_ITEMS = 80;
+const STORAGE_KEY = 'newsRadarConfig_v3';
+
+// ── State ───────────────────────────────────────────────────────────────────
+const cfg = loadConfig();
+let feed = { generatedAt: null, panels: { na: [], eu: [], cn: [] }, highlights: { na: [], eu: [], cn: [] }, topicCounts: {} };
+
+function loadConfig() {
+  try {
+    const p = new URLSearchParams(location.search);
+    const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+    return {
+      preset:         p.get('preset') || saved.preset || 'legal-tech',
+      customKeywords: (p.get('kw') || '').split(',').map(k=>k.trim()).filter(Boolean).length
+                        ? (p.get('kw') || '').split(',').map(k=>k.trim()).filter(Boolean)
+                        : (saved.customKeywords || []),
+      region:         p.get('region') || saved.region || 'all',
+      category:       p.get('category') || saved.category || 'all',
+      q:              saved.q || ''
     };
+  } catch { return { preset: 'legal-tech', customKeywords: [], region: 'all', category: 'all', q: '' }; }
+}
+function saveConfig() {
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(cfg)); } catch {}
+}
 
-    function h(tag, attrs = {}, children = []) {
-      const el = document.createElement(tag);
-      Object.entries(attrs).forEach(([k, v]) => {
-        if (k === 'class') el.className = v;
-        else if (k === 'onclick') el.onclick = v;
-        else el.setAttribute(k, v);
-      });
-      (Array.isArray(children) ? children : [children]).forEach((c) => {
-        if (c == null) return;
-        if (typeof c === 'string') el.appendChild(document.createTextNode(c));
-        else el.appendChild(c);
-      });
-      return el;
+// ── Scoring ─────────────────────────────────────────────────────────────────
+function clientScore(item) {
+  if (cfg.preset === 'all') return 0;
+  const preset = PRESETS[cfg.preset];
+  const text = `${item.title || ''} ${item.summary || ''}`.toLowerCase();
+  let score = 0;
+  for (const t of (item.topics || [])) { if (preset.boostTopics.includes(t)) score += 5; }
+  for (const t of (item.sourceTags || [])) { if (preset.boostTopics.includes(t)) score += 3; }
+  for (const kw of preset.boostKeywords) { if (text.includes(kw)) score += 2; }
+  if (cfg.preset === 'custom') {
+    for (const kw of cfg.customKeywords) { if (text.includes(kw.toLowerCase())) score += 3; }
+  }
+  if (item.publishedAt) {
+    const h = (Date.now() - new Date(item.publishedAt).getTime()) / 3600000;
+    score += Math.max(0, 1 - h / 72) * 1.5;
+  }
+  return score;
+}
+
+// ── Current items ───────────────────────────────────────────────────────────
+function currentItems() {
+  let items = [];
+  if (cfg.region === 'all') {
+    for (const r of ['na', 'eu', 'cn']) {
+      items.push(...(feed.highlights?.[r] || []), ...(feed.panels?.[r] || []));
     }
+  } else {
+    items = [...(feed.highlights?.[cfg.region] || []), ...(feed.panels?.[cfg.region] || [])];
+  }
+  if (cfg.category !== 'all') items = items.filter(x => x.category === cfg.category);
+  if (cfg.q) {
+    const q = cfg.q.toLowerCase();
+    items = items.filter(x =>
+      `${x.title||''} ${x.summary||''} ${x.source||''} ${(x.topics||[]).join(' ')}`.toLowerCase().includes(q)
+    );
+  }
+  const scored = items.map(x => ({ ...x, _score: clientScore(x) }));
+  scored.sort((a, b) => {
+    if (b._score !== a._score) return b._score - a._score;
+    const da = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
+    const db = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
+    return db - da;
+  });
+  return scored.slice(0, MAX_ITEMS);
+}
 
-    function formatDate(value) {
-      if (!value) return '';
-      const d = new Date(value);
-      if (Number.isNaN(d.getTime())) return '';
-      return d.toLocaleDateString('en-CA', { year: 'numeric', month: 'short', day: 'numeric' });
-    }
+// ── DOM helpers ─────────────────────────────────────────────────────────────
+function h(tag, attrs = {}, children = []) {
+  const el = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (k === 'class') el.className = v;
+    else if (k.startsWith('on')) el.addEventListener(k.slice(2), v);
+    else el.setAttribute(k, v);
+  }
+  for (const c of (Array.isArray(children) ? children : [children])) {
+    if (c == null) continue;
+    if (typeof c === 'string') el.appendChild(document.createTextNode(c));
+    else if (c instanceof Node) el.appendChild(c);
+  }
+  return el;
+}
 
-    function translateUrl(url, region) {
-      const target = region === 'cn' ? 'en' : 'zh-CN';
-      return `https://translate.google.com/translate?sl=auto&tl=${encodeURIComponent(target)}&u=${encodeURIComponent(url)}`;
-    }
+function formatDate(v) {
+  if (!v) return '';
+  const d = new Date(v);
+  return isNaN(d) ? '' : d.toLocaleDateString('en-CA', { year: 'numeric', month: 'short', day: 'numeric' });
+}
 
-    function currentItems() {
-      const region = state.region;
-      const merged = [
-        ...(state.feed.highlights?.[region] || []),
-        ...(state.feed.panels?.[region] || [])
-      ];
+function translateUrl(url, region) {
+  const tl = region === 'cn' ? 'en' : 'zh-CN';
+  return `https://translate.google.com/translate?sl=auto&tl=${encodeURIComponent(tl)}&u=${encodeURIComponent(url)}`;
+}
 
-      return merged
-        .filter((x) => state.category === 'all' ? true : x.category === state.category)
-        .filter((x) => {
-          const text = `${x.title || ''} ${x.summary || ''} ${x.source || ''}`.toLowerCase();
-          return text.includes(state.q.toLowerCase());
-        })
-        .slice(0, 60);
-    }
+function relDots(score) {
+  const level = score === 0 ? 0 : score < 5 ? 1 : score < 10 ? 2 : 3;
+  const wrap = h('div', { class: 'rel-dots' });
+  for (let i = 0; i < 3; i++) {
+    wrap.appendChild(h('div', { class: `rel-dot${i < level ? ' on' : ''}` }));
+  }
+  return wrap;
+}
 
-    function renderChips() {
-      const regionRow = document.getElementById('regionRow');
-      const categoryRow = document.getElementById('categoryRow');
-      regionRow.innerHTML = '';
-      categoryRow.innerHTML = '';
+// ── Render functions ─────────────────────────────────────────────────────────
+function renderRegionNav() {
+  const nav = document.getElementById('regionNav');
+  nav.innerHTML = '';
+  for (const r of REGIONS) {
+    nav.appendChild(h('button', {
+      class: `region-tab${cfg.region === r.id ? ' active' : ''}`,
+      onclick: () => { cfg.region = r.id; saveConfig(); renderAll(); }
+    }, r.label));
+  }
+}
 
-      regions.forEach((r) => {
-        regionRow.appendChild(h('button', {
-          class: `chip ${state.region === r.id ? 'active' : ''}`,
-          onclick: () => { state.region = r.id; render(); }
-        }, r.label));
-      });
+function renderRegionContext() {
+  const meta = REGION_META[cfg.region] || REGION_META.all;
+  document.getElementById('regionContextLabel').textContent = meta.label;
+  document.getElementById('regionContextDesc').textContent = meta.desc;
+}
 
-      categories.forEach((c) => {
-        categoryRow.appendChild(h('button', {
-          class: `chip ${state.category === c.id ? 'active' : ''}`,
-          onclick: () => { state.category = c.id; render(); }
-        }, c.label));
-      });
-    }
+function renderPresets() {
+  const row = document.getElementById('presetRow');
+  const desc = document.getElementById('presetDesc');
+  row.innerHTML = '';
+  for (const [id, p] of Object.entries(PRESETS)) {
+    row.appendChild(h('button', {
+      class: `preset-btn${cfg.preset === id ? ' active' : ''}`,
+      onclick: () => { cfg.preset = id; saveConfig(); renderPresets(); renderCustomArea(); renderFeed(); }
+    }, p.label));
+  }
+  desc.textContent = PRESETS[cfg.preset]?.desc || '';
+  renderCustomArea();
+}
 
-    function renderList() {
-      const list = document.getElementById('list');
-      const meta = document.getElementById('meta');
-      const items = currentItems();
-      list.innerHTML = '';
+function renderCustomArea() {
+  document.getElementById('customArea').className = `custom-area${cfg.preset === 'custom' ? ' visible' : ''}`;
+  renderKeywordChips();
+}
 
-      const generated = state.feed.generatedAt ? ` · updated ${formatDate(state.feed.generatedAt)}` : '';
-      meta.textContent = `${items.length} results${generated}`;
+function renderKeywordChips() {
+  const container = document.getElementById('kwChips');
+  container.innerHTML = '';
+  if (cfg.customKeywords.length === 0) {
+    container.appendChild(h('span', { class: 'kw-empty' }, 'No keywords yet — type above to add your focus terms'));
+    return;
+  }
+  for (const kw of cfg.customKeywords) {
+    container.appendChild(h('div', { class: 'kw-chip' }, [
+      h('span', {}, kw),
+      h('button', { onclick: () => {
+        cfg.customKeywords = cfg.customKeywords.filter(k => k !== kw);
+        saveConfig(); renderKeywordChips(); renderFeed();
+      }}, '×')
+    ]));
+  }
+}
 
-      if (items.length === 0) {
-        list.appendChild(h('div', { class: 'empty' }, 'No matching results. Try a different filter or search.'));
-        return;
-      }
+function addKeyword() {
+  const input = document.getElementById('kwInput');
+  const kw = input.value.trim().toLowerCase();
+  if (!kw || cfg.customKeywords.includes(kw)) { input.value = ''; return; }
+  cfg.customKeywords.push(kw);
+  input.value = '';
+  saveConfig(); renderKeywordChips(); renderFeed();
+}
 
-      items.forEach((item) => {
-        const card = h('article', { class: 'item' }, [
-          h('div', { class: 'item-top' }, [
-            h('span', { class: 'source' }, item.source || 'Source'),
-            h('span', {}, formatDate(item.publishedAt))
-          ]),
-          h('h3', { class: 'item-title' }, h('a', { href: item.url, target: '_blank', rel: 'noopener noreferrer' }, item.title || 'Untitled')),
-          item.summary ? h('p', { class: 'sum' }, item.summary) : null,
-          h('div', { class: 'item-bottom' }, [
-            h('span', { class: 'badge' }, item.category || 'updates'),
-            h('div', { class: 'links' }, [
-              h('a', { class: 'btn', href: item.url, target: '_blank', rel: 'noopener noreferrer' }, 'Read'),
-              h('a', { class: 'btn', href: translateUrl(item.url, state.region), target: '_blank', rel: 'noopener noreferrer' }, 'Translate')
-            ])
-          ])
-        ]);
-        list.appendChild(card);
-      });
-    }
+function renderCategoryRow() {
+  const row = document.getElementById('categoryRow');
+  row.innerHTML = '';
+  for (const c of CATEGORIES) {
+    row.appendChild(h('button', {
+      class: `chip${cfg.category === c.id ? ' active' : ''}`,
+      onclick: () => { cfg.category = c.id; saveConfig(); renderCategoryRow(); renderFeed(); }
+    }, c.label));
+  }
+}
 
-    function render() {
-      renderChips();
-      renderList();
-    }
+function renderFeed() {
+  const feedEl = document.getElementById('feed');
+  const countEl = document.getElementById('feedCount');
+  const topicsEl = document.getElementById('feedTopics');
+  feedEl.innerHTML = '';
 
-    async function init() {
-      document.getElementById('q').addEventListener('input', (e) => {
-        state.q = e.target.value || '';
-        renderList();
-      });
+  const items = currentItems();
+  const updated = feed.generatedAt ? ` · ${formatDate(feed.generatedAt)}` : '';
+  const naC = (feed.panels?.na || []).length;
+  const euC = (feed.panels?.eu || []).length;
+  const cnC = (feed.panels?.cn || []).length;
+  countEl.textContent = `${items.length} result${items.length !== 1 ? 's' : ''} · ${naC + euC + cnC} indexed${updated}`;
 
-      try {
-        const res = await fetch(`news-feed.json?t=${Date.now()}`);
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        state.feed = await res.json();
-      } catch (err) {
-        document.getElementById('meta').textContent = 'Could not load news-feed.json';
-      }
+  const counts = feed.topicCounts || {};
+  const topicParts = Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,5)
+    .map(([t,n]) => `${TOPIC_LABELS[t]||t} ${n}`);
+  topicsEl.textContent = topicParts.join(' · ');
 
-      render();
-    }
+  if (items.length === 0) {
+    feedEl.appendChild(h('div', { class: 'empty' }, 'No results. Try adjusting your focus, region, or search.'));
+    return;
+  }
 
-    init();
-  </script>
+  for (const item of items) {
+    const card = h('article', { class: 'card' });
+
+    // Eyebrow: source, topics, date
+    const topicTags = (item.topics || []).slice(0, 2).map(t =>
+      h('span', { class: `topic-tag ${TOPIC_COLORS[t] || ''}` }, TOPIC_LABELS[t] || t)
+    );
+    card.appendChild(h('div', { class: 'card-eyebrow' }, [
+      h('div', { class: 'card-source-row' }, [
+        h('span', { class: 'card-source' }, item.source || ''),
+        ...topicTags
+      ]),
+      h('span', { class: 'card-date' }, formatDate(item.publishedAt))
+    ]));
+
+    // Relevance dots (only when a focused preset is active)
+    if (cfg.preset !== 'all' && item._score > 0) card.appendChild(relDots(item._score));
+
+    // Title
+    card.appendChild(h('div', { class: 'card-title' },
+      h('a', { href: item.url, target: '_blank', rel: 'noopener noreferrer' }, item.title || 'Untitled')
+    ));
+
+    // Summary
+    if (item.summary) card.appendChild(h('p', { class: 'card-summary' }, item.summary));
+
+    // Footer
+    card.appendChild(h('div', { class: 'card-foot' }, [
+      h('span', { class: 'cat-badge' }, item.category || 'update'),
+      h('div', { class: 'card-actions' }, [
+        h('a', { class: 'card-btn', href: item.url, target: '_blank', rel: 'noopener noreferrer' }, 'Read →'),
+        h('a', { class: 'card-btn', href: translateUrl(item.url, item.region), target: '_blank', rel: 'noopener noreferrer' }, 'Translate')
+      ])
+    ]));
+
+    feedEl.appendChild(card);
+  }
+}
+
+function renderAll() {
+  renderRegionNav();
+  renderRegionContext();
+  renderFeed();
+}
+
+// ── Share ─────────────────────────────────────────────────────────────────────
+document.getElementById('shareBtn').addEventListener('click', () => {
+  const p = new URLSearchParams({ preset: cfg.preset, kw: cfg.customKeywords.join(','), region: cfg.region, category: cfg.category });
+  const url = `${location.href.split('?')[0]}?${p}`;
+  navigator.clipboard?.writeText(url).then(() => {
+    const btn = document.getElementById('shareBtn');
+    btn.textContent = 'Copied!';
+    setTimeout(() => { btn.textContent = 'Share'; }, 2000);
+  }).catch(() => prompt('Copy this URL:', url));
+});
+
+// ── Init ─────────────────────────────────────────────────────────────────────
+async function init() {
+  document.getElementById('q').value = cfg.q;
+  document.getElementById('q').addEventListener('input', e => {
+    cfg.q = e.target.value || '';
+    saveConfig();
+    renderFeed();
+  });
+  document.getElementById('kwAdd').addEventListener('click', addKeyword);
+  document.getElementById('kwInput').addEventListener('keydown', e => { if (e.key === 'Enter') addKeyword(); });
+
+  renderPresets();
+  renderCategoryRow();
+  renderAll();
+
+  try {
+    const res = await fetch(`news-feed.json?t=${Date.now()}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    feed = await res.json();
+  } catch (err) {
+    document.getElementById('feedCount').textContent = `Could not load feed — ${err.message}`;
+  }
+
+  renderAll();
+}
+
+init();
+</script>
 </body>
 </html>

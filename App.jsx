@@ -834,7 +834,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
 // ENTRY CARD
 // ═══════════════════════════════════════════════════════════════════════════
 function EntryCard({ entry, onEdit, onDelete, onOpenPost, T, lang }) {
-  const preview = entry.body.length > 180 ? entry.body.slice(0, 180).replace(/\s+\S*$/, "") + "…" : entry.body;
+  const cleanBody = (entry.summary || entry.body || "").replace(/§§\w+§§/g, "").replace(/\s+/g, " ").trim();
+  const preview = cleanBody.length > 180 ? cleanBody.slice(0, 180).replace(/\s+\S*$/, "") + "…" : cleanBody;
   const formattedDate = entry.date
     ? new Date(entry.date + "T12:00:00").toLocaleDateString("en-CA", { year: "numeric", month: "short", day: "numeric" })
     : "";
@@ -923,69 +924,83 @@ function PostView({ entry, onBack, T, lang }) {
 
   const renderBody = (text) => {
     if (!text) return null;
-
     const lines = text.split("\n");
     const els = [];
     let i = 0;
 
-    while (i < lines.length) {
-      const line = lines[i];
-      const trimmed = line.trim();
+    const isMarker = (s, tag) => s === "\u00a7\u00a7" + tag + "\u00a7\u00a7" || s.startsWith("\u00a7\u00a7" + tag + "\u00a7\u00a7");
+    const afterMarker = (s, tag) => s.slice(("\u00a7\u00a7" + tag + "\u00a7\u00a7").length).trim();
+    const isListLine = (s) =>
+      isMarker(s, "BULLET") || isMarker(s, "NUMBER") ||
+      s.startsWith("- ") || s.startsWith("* ") || /^\d+\. /.test(s);
 
+    while (i < lines.length) {
+      const trimmed = lines[i].trim();
       if (!trimmed) { i++; continue; }
 
-      if (trimmed === "---") {
-        els.push(<hr key={i} style={styles.postHr} />);
-        i++;
-        continue;
+      // divider
+      if (trimmed === "\u00a7\u00a7DIVIDER\u00a7\u00a7" || trimmed === "---") {
+        els.push(<hr key={i} style={styles.postHr} />); i++; continue;
       }
 
-      if (trimmed.startsWith("# ")) {
-        els.push(<h2 key={i} style={styles.postH1}>{trimmed.slice(2)}</h2>);
-        i++;
-        continue;
+      // headings
+      if (isMarker(trimmed, "H1") || trimmed.startsWith("# ")) {
+        const t = isMarker(trimmed, "H1") ? afterMarker(trimmed, "H1") : trimmed.slice(2);
+        els.push(<h2 key={i} style={styles.postH1}>{t}</h2>); i++; continue;
+      }
+      if (isMarker(trimmed, "H2") || trimmed.startsWith("## ")) {
+        const t = isMarker(trimmed, "H2") ? afterMarker(trimmed, "H2") : trimmed.slice(3);
+        els.push(<h3 key={i} style={styles.postH2}>{t}</h3>); i++; continue;
+      }
+      if (isMarker(trimmed, "H3") || trimmed.startsWith("### ")) {
+        const t = isMarker(trimmed, "H3") ? afterMarker(trimmed, "H3") : trimmed.slice(4);
+        els.push(<h4 key={i} style={styles.postH3}>{t}</h4>); i++; continue;
       }
 
-      if (trimmed.startsWith("## ")) {
-        els.push(<h3 key={i} style={styles.postH2}>{trimmed.slice(3)}</h3>);
-        i++;
-        continue;
+      // quote
+      if (isMarker(trimmed, "QUOTE") || trimmed.startsWith("> ")) {
+        const t = isMarker(trimmed, "QUOTE") ? afterMarker(trimmed, "QUOTE") : trimmed.slice(2);
+        els.push(<blockquote key={i} style={styles.postQuote}>{t}</blockquote>); i++; continue;
       }
 
-      if (trimmed.startsWith("### ")) {
-        els.push(<h4 key={i} style={styles.postH3}>{trimmed.slice(4)}</h4>);
-        i++;
-        continue;
-      }
-
-      if (trimmed.startsWith("- ") || trimmed.startsWith("* ")) {
+      // bullet list — group consecutive items (may be separated by blank lines)
+      if (isMarker(trimmed, "BULLET") || trimmed.startsWith("- ") || trimmed.startsWith("* ")) {
         const bullets = [];
-        while (i < lines.length && (lines[i].trim().startsWith("- ") || lines[i].trim().startsWith("* "))) {
-          bullets.push(lines[i].trim().slice(2));
-          i++;
+        while (i < lines.length) {
+          const t2 = lines[i].trim();
+          if (isMarker(t2, "BULLET")) { bullets.push(afterMarker(t2, "BULLET")); i++; }
+          else if (t2.startsWith("- ") || t2.startsWith("* ")) { bullets.push(t2.slice(2)); i++; }
+          else if (!t2 && i + 1 < lines.length && isListLine(lines[i + 1].trim())) { i++; } // skip blank between list items
+          else break;
         }
-        els.push(<ul key={i} style={styles.postUl}>
-          {bullets.map((b, j) => <li key={j} style={styles.postLi}>{b}</li>)}
-        </ul>);
+        els.push(<ul key={i} style={styles.postUl}>{bullets.map((b, j) => <li key={j} style={styles.postLi}>{b}</li>)}</ul>);
         continue;
       }
 
-      if (/^\d+\. /.test(trimmed)) {
+      // numbered list
+      if (isMarker(trimmed, "NUMBER") || /^\d+\. /.test(trimmed)) {
         const nums = [];
-        while (i < lines.length && /^\d+\. /.test(lines[i].trim())) {
-          nums.push(lines[i].trim().replace(/^\d+\. /, ""));
-          i++;
+        while (i < lines.length) {
+          const t2 = lines[i].trim();
+          if (isMarker(t2, "NUMBER")) { nums.push(afterMarker(t2, "NUMBER")); i++; }
+          else if (/^\d+\. /.test(t2)) { nums.push(t2.replace(/^\d+\. /, "")); i++; }
+          else if (!t2 && i + 1 < lines.length && isListLine(lines[i + 1].trim())) { i++; }
+          else break;
         }
-        els.push(<ol key={i} style={styles.postOl}>
-          {nums.map((n, j) => <li key={j} style={styles.postLi}>{n}</li>)}
-        </ol>);
+        els.push(<ol key={i} style={styles.postOl}>{nums.map((n, j) => <li key={j} style={styles.postLi}>{n}</li>)}</ol>);
         continue;
       }
 
+      // paragraph
       const paragraphs = [];
-      while (i < lines.length && lines[i].trim() && !lines[i].trim().startsWith("#") && lines[i].trim() !== "---") {
-        paragraphs.push(lines[i]);
-        i++;
+      while (i < lines.length) {
+        const t2 = lines[i].trim();
+        if (!t2) break;
+        if (t2 === "---" || t2 === "\u00a7\u00a7DIVIDER\u00a7\u00a7") break;
+        if (/^\u00a7\u00a7(H1|H2|H3|QUOTE|BULLET|NUMBER)\u00a7\u00a7/.test(t2)) break;
+        if (t2.startsWith("# ") || t2.startsWith("## ") || t2.startsWith("### ") || t2.startsWith("> ")) break;
+        if (isListLine(t2)) break;
+        paragraphs.push(lines[i]); i++;
       }
       if (paragraphs.length > 0) {
         els.push(<p key={i} style={styles.postParagraph}>{paragraphs.join(" ")}</p>);
