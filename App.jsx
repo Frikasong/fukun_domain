@@ -904,6 +904,44 @@ function buildTranslateUrl(url, lang, region) {
 }
 
 function PostView({ entry, onBack, T, lang }) {
+  const [translatedLines, setTranslatedLines] = useState(null);
+  const [translatedTitle, setTranslatedTitle] = useState(null);
+  const [translating, setTranslating] = useState(false);
+
+  useEffect(() => {
+    if (lang !== "zh" || !entry) { setTranslatedLines(null); setTranslatedTitle(null); return; }
+    // Strip §§MARKER§§ tokens and collapse each line to plain text
+    const lines = (entry.body || "")
+      .split("\n")
+      .map(l => l.replace(/\u00a7\u00a7\w+\u00a7\u00a7/g, "").replace(/^---$/, "").trim())
+      .filter(Boolean);
+    if (lines.length === 0) return;
+    setTranslating(true);
+    setTranslatedLines(null);
+    // Batch lines into chunks ≤1500 chars, translate via Google unofficial API
+    const chunks = [];
+    let cur = "";
+    for (const line of lines) {
+      if (cur.length + line.length > 1500 && cur) { chunks.push(cur); cur = line; }
+      else { cur = cur ? cur + "\n" + line : line; }
+    }
+    if (cur) chunks.push(cur);
+    const translateChunk = chunk =>
+      fetch("https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q=" + encodeURIComponent(chunk))
+        .then(r => r.json())
+        .then(data => data[0].map(item => item[0]).join(""))
+        .catch(() => chunk);
+
+    Promise.all([
+      translateChunk(entry.title || ""),
+      ...chunks.map(translateChunk)
+    ]).then(([ttitle, ...parts]) => {
+      setTranslatedTitle(ttitle);
+      setTranslatedLines(parts.join("\n").split("\n").filter(Boolean));
+      setTranslating(false);
+    }).catch(() => setTranslating(false));
+  }, [lang, entry && entry.id]);
+
   if (!entry) {
     return (
       <div style={styles.postWrap}>
@@ -1108,7 +1146,7 @@ function PostView({ entry, onBack, T, lang }) {
       )}
 
       <header style={styles.postHeader}>
-        <h1 style={{ ...styles.postTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{entry.title}</h1>
+        <h1 style={{ ...styles.postTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{lang === "zh" && translatedTitle ? translatedTitle : entry.title}</h1>
         {formattedDate && <p style={styles.postDate}>{formattedDate}</p>}
         {entry.author && entry.author.length > 0 && (
           <p style={styles.postAuthor}>{T.grid.by} {entry.author.join(", ")}</p>
@@ -1123,7 +1161,15 @@ function PostView({ entry, onBack, T, lang }) {
         </div>
       )}
 
-      <div style={styles.postBody}>{entry.blocks ? renderBlocks(entry.blocks) : renderBody(entry.body)}</div>
+      <div style={styles.postBody}>
+        {lang === "zh" && translating && (
+          <p style={{color:"#888",fontStyle:"normal",fontSize:16}}>翻译中…</p>
+        )}
+        {lang === "zh" && translatedLines
+          ? translatedLines.map((line, i) => <p key={i} style={styles.postParagraph}>{line}</p>)
+          : (!translating && (entry.blocks ? renderBlocks(entry.blocks) : renderBody(entry.body)))
+        }
+      </div>
 
       {entry.images && entry.images.length > 1 && (
         <section style={styles.postSection}>
