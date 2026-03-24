@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-03-24T06:55:18.177Z",
+  "generatedAt": "2026-03-24T12:53:08.325Z",
   "highlights": {
     "na": [],
     "cn": []
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/03/centerbase-launches-native-ndmax-integration-connecting-practice-management-to-ai-powered-document-workflows.html",
+        "title": "Centerbase Launches Native ndMAX Integration, Connecting Practice Management to AI-Powered Document Workflows",
+        "url": "https://www.lawnext.com/2026/03/centerbase-launches-native-ndmax-integration-connecting-practice-management-to-ai-powered-document-workflows.html",
+        "source": "LawSites",
+        "publishedAt": "2026-03-24T12:30:20.000Z",
+        "summary": "Centerbase, a practice management platform for midsized law firms, is announcing today an enhanced native integration with NetDocuments that makes it the first practice management platform to natively connect matter data",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/24/thomson-is-coming-trs-own-legally-trained-llm",
+        "title": "Thomson Is Coming, TR’s Own Legally-Trained LLM",
+        "url": "https://www.artificiallawyer.com/2026/03/24/thomson-is-coming-trs-own-legally-trained-llm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-24T07:40:00.000Z",
+        "summary": "Thomson Reuters (TR) is getting ready to launch ‘Thomson’ its own legally-trained LLM this summer, built using opensource models, their huge data store, and its ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.comhttps://www.abajournal.com/news/article/musicians&",
         "title": "Musicians in this state are suing AI companies under biometric privacy law",
@@ -243,16 +263,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-03-19T09:42:25.000Z",
         "summary": "Kim, the company created by legal tech and ALSP pioneer Karl Chapman, has launched an execution layer for enterprises that ‘translates AI-generated requests into deterministic ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/19/bird-bird-lawyer-creates-buntool-free-legal-bundle-maker",
-        "title": "Bird &#038; Bird Lawyer Creates BunTool, Free Legal Bundle Maker",
-        "url": "https://www.artificiallawyer.com/2026/03/19/bird-bird-lawyer-creates-buntool-free-legal-bundle-maker/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-19T07:55:57.000Z",
-        "summary": "Bird &#38; Bird lawyer, Tristan Sherliker, has launched BunTool, which makes PDF bundles for court and other legal settings. The product is free, works off ...",
         "category": "tools",
         "region": "na"
       },
@@ -627,22 +637,22 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/reasoning-models-chain-of-thought-controllability",
-        "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-        "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-        "source": "OpenAI News",
-        "publishedAt": "2026-03-05T10:00:00.000Z",
-        "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-4-thinking-system-card",
         "title": "GPT-5.4 Thinking System Card",
         "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
         "source": "OpenAI News",
         "publishedAt": "2026-03-05T10:00:00.000Z",
         "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/reasoning-models-chain-of-thought-controllability",
+        "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+        "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+        "source": "OpenAI News",
+        "publishedAt": "2026-03-05T10:00:00.000Z",
+        "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
         "category": "updates",
         "region": "na"
       },
@@ -654,16 +664,6 @@
         "publishedAt": "2026-03-05T09:00:00.000Z",
         "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/introducing-the-adoption-news-channel",
-        "title": "Introducing the Adoption news channel",
-        "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-        "source": "OpenAI News",
-        "publishedAt": "2026-03-05T00:00:00.000Z",
-        "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-        "category": "articles",
         "region": "na"
       },
       {
@@ -684,6 +684,16 @@
         "publishedAt": "2026-03-05T00:00:00.000Z",
         "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/introducing-the-adoption-news-channel",
+        "title": "Introducing the Adoption news channel",
+        "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+        "source": "OpenAI News",
+        "publishedAt": "2026-03-05T00:00:00.000Z",
+        "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+        "category": "articles",
         "region": "na"
       },
       {
@@ -727,16 +737,6 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/axios-allison-murphy",
-        "title": "How Axios uses AI to help deliver high-impact local journalism",
-        "url": "https://openai.com/index/axios-allison-murphy",
-        "source": "OpenAI News",
-        "publishedAt": "2026-03-04T00:00:00.000Z",
-        "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
-        "category": "skills",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/understanding-ai-and-learning-outcomes",
         "title": "Understanding AI and learning outcomes",
         "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
@@ -744,6 +744,16 @@
         "publishedAt": "2026-03-04T00:00:00.000Z",
         "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/axios-allison-murphy",
+        "title": "How Axios uses AI to help deliver high-impact local journalism",
+        "url": "https://openai.com/index/axios-allison-murphy",
+        "source": "OpenAI News",
+        "publishedAt": "2026-03-04T00:00:00.000Z",
+        "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+        "category": "skills",
         "region": "na"
       },
       {
@@ -787,9 +797,9 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/gpt-5-3-instant",
-        "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-        "url": "https://openai.com/index/gpt-5-3-instant",
+        "id": "OpenAI News:openai.com/index/gpt-5-3-instant-system-card",
+        "title": "GPT-5.3 Instant System Card",
+        "url": "https://openai.com/index/gpt-5-3-instant-system-card",
         "source": "OpenAI News",
         "publishedAt": "2026-03-03T10:00:00.000Z",
         "summary": "",
@@ -797,9 +807,9 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/gpt-5-3-instant-system-card",
-        "title": "GPT-5.3 Instant System Card",
-        "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+        "id": "OpenAI News:openai.com/index/gpt-5-3-instant",
+        "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+        "url": "https://openai.com/index/gpt-5-3-instant",
         "source": "OpenAI News",
         "publishedAt": "2026-03-03T10:00:00.000Z",
         "summary": "",
@@ -827,6 +837,16 @@
         "region": "na"
       },
       {
+        "id": "OpenAI News:openai.com/index/amazon-partnership",
+        "title": "OpenAI and Amazon announce strategic partnership",
+        "url": "https://openai.com/index/amazon-partnership",
+        "source": "OpenAI News",
+        "publishedAt": "2026-02-27T05:30:00.000Z",
+        "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "OpenAI News:openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
         "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
         "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
@@ -837,12 +857,12 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/amazon-partnership",
-        "title": "OpenAI and Amazon announce strategic partnership",
-        "url": "https://openai.com/index/amazon-partnership",
+        "id": "OpenAI News:openai.com/index/continuing-microsoft-partnership",
+        "title": "Joint Statement from OpenAI and Microsoft",
+        "url": "https://openai.com/index/continuing-microsoft-partnership",
         "source": "OpenAI News",
         "publishedAt": "2026-02-27T05:30:00.000Z",
-        "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+        "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
         "category": "tools",
         "region": "na"
       },
@@ -854,16 +874,6 @@
         "publishedAt": "2026-02-27T05:30:00.000Z",
         "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/continuing-microsoft-partnership",
-        "title": "Joint Statement from OpenAI and Microsoft",
-        "url": "https://openai.com/index/continuing-microsoft-partnership",
-        "source": "OpenAI News",
-        "publishedAt": "2026-02-27T05:30:00.000Z",
-        "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1195,19 +1205,109 @@
         "summary": "The legal AI company Harvey said today that it has partnered with Harvey — the original one. The Harvey in question — the non-AI one, that is — is Gabriel Macht, the actor who played the role of lawyer Harvey Specter in ",
         "category": "updates",
         "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/02/the-votes-are-in-here-are-the-15-legal-tech-startups-selected-for-the-2026-startup-alley-at-aba-techshow.html",
-        "title": "The Votes Are In! Here Are the 15 Legal Tech Startups Selected for the 2026 Startup Alley at ABA TECHSHOW",
-        "url": "https://www.lawnext.com/2026/02/the-votes-are-in-here-are-the-15-legal-tech-startups-selected-for-the-2026-startup-alley-at-aba-techshow.html",
-        "source": "LawSites",
-        "publishedAt": "2026-02-16T18:57:02.000Z",
-        "summary": "The results are in! Voting has now closed and your votes have been tallied to pick the 15 legal tech startups that will get to participate as finalists in the 10th-annual Startup Alley at ABA TECHSHOW, March 25-28, 2026,",
-        "category": "updates",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/mq9xmgqr7xrsbd8yu6tw",
+        "title": "GTC解读：当我们谈论AI推理的KV Cache，我们在做什么？",
+        "url": "https://www.infoq.cn/article/MQ9xMgqr7XrSbD8yu6Tw?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-24T19:59:40.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/yc7p7kfkmuayhrd3z5dy",
+        "title": "基于 Snowflake 的 MONAI 分布式医学影像处理 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/yc7p7KfKMuayhRD3z5dY?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-24T19:48:46.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/rlwioyyglhxoqd1zbmbt",
+        "title": "现代化零售银行分析：信贷与贷款组合的对话智能 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/RLWiOyYglhxoqD1zbMBt?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-24T19:41:46.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/2g2frhut42rfzppinqvw",
+        "title": "硬件成本直降60%！原生分布式VS传统分库分表数据库",
+        "url": "https://www.infoq.cn/article/2G2frHuT42rFZpPiNqVW?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-24T19:08:35.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/3zlmlsmvwd1pzl6s86yo",
+        "title": "英伟达早不靠GPU躺赢！黄仁勋终极预判：10亿程序员时代将至，AI智能彻底廉价",
+        "url": "https://www.infoq.cn/article/3ZLmLsMVwD1PzL6s86YO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-24T18:11:01.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/0gqakkpce2dfq6btjhdx",
+        "title": "一夜变天！Claude 正式下场“接管电脑”，OpenClaw被逼到墙角",
+        "url": "https://www.infoq.cn/article/0GQAKKpCe2DFq6BtJhdx?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-24T18:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/i56iru1tblqxvrt9gaea",
+        "title": "3月27-28日相约杭州！极客时间携智能体时代AI人才粮仓模型亮相CSTD人才发展灯塔峰会",
+        "url": "https://www.infoq.cn/article/I56iru1tbLQxVRt9gaEa?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-24T16:59:58.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/jzszcszn0dlwv57hvaxk",
+        "title": "AI 可观测如何助力 Agentic 时代的确定性工程？",
+        "url": "https://www.infoq.cn/video/jzSzcszN0dLwv57hvaxk?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-24T16:08:47.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/p4c8cu7dalmhvwbasqhl",
+        "title": "从写文案到盯数据、算 ROI，流量见顶后，AI Agent 正在杀进核心业务",
+        "url": "https://www.infoq.cn/article/P4c8cU7dalmhvWbAsqHL?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-24T15:18:19.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/0ypytatgszldbwxizeuk",
+        "title": "HubSpot推出多模型AI代码审查工具Sidekick，反馈速度提升90%，工程师认可率达80%",
+        "url": "https://www.infoq.cn/article/0yPYTaTgSzlDbwXiZeuK?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-24T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/k2m5o0zzcggw2gsacdxp",
         "title": "Java 26 发布，带来语言创新、类库优化、性能提升与安全性增强",
@@ -1219,12 +1319,232 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/p/3736935323254785",
+        "title": "腾讯挖来多位字节Seed骨干，向姚顺雨汇报丨智能涌现独家",
+        "url": "https://36kr.com/p/3736935323254785?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:51:34.000Z",
+        "summary": "文｜周鑫雨 编辑｜苏建勋 自2025年9月姚顺雨加入腾讯以来，被视为腾讯重注基础模型的持续信号，事实上，在整个2025年，腾讯都在疯狂向业界招揽大模型基础设施领域人才，当中，出现了多位“字节系”技术骨干的身影。 据接近腾讯混元团队的知情人士透露，原字节Seed视觉AI平台团队负责人肖学锋，Infra团队张弛于近期低调入职腾讯，负责大模型Infra相关工作，向腾讯首席AI科学家姚顺雨汇报。 2025年年底，腾讯升级大模型研发架构，新成立A",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736939081056517",
+        "title": "美股大型科技股盘前普跌，特斯拉跌0.67%",
+        "url": "https://36kr.com/newsflashes/3736939081056517?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:51:00.000Z",
+        "summary": "36氪获悉，美股大型科技股盘前普跌，截至发稿，特斯拉跌0.67%，谷歌跌0.6%，Meta跌0.59%，亚马逊跌0.54%，英伟达跌0.44%，苹果跌0.29%，微软跌0.19%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736924738437122",
+        "title": "英伟达正就投资印度AI初创公司Sarvam进行谈判",
+        "url": "https://36kr.com/newsflashes/3736924738437122?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:47:25.000Z",
+        "summary": "3月24日，据报道，英伟达正在就投资印度人工智能初创公司Sarvam进行谈判。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736918754902020",
+        "title": "科泰电源：股东新疆荣旭泰拟减持不超1%公司股份",
+        "url": "https://36kr.com/newsflashes/3736918754902020?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:41:20.000Z",
+        "summary": "36氪获悉，科泰电源公告，持股5%以上股东新疆荣旭泰投资有限合伙企业计划在2026年4月16日至2026年7月15日期间，以集中竞价方式减持不超过320万股公司股份，占公司总股本比例不超过1%。减持原因为满足自身资金需求，股份来源为公司首次公开发行前已发行的股份。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736928054444032",
+        "title": "沪上阿姨：2025年营收44.66亿元，同比增长36%",
+        "url": "https://36kr.com/newsflashes/3736928054444032?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:39:47.000Z",
+        "summary": "36氪获悉，沪上阿姨发布截至2025年12月31日止年度之年度业绩公告。业绩显示，2025年营收44.66亿元，同比增长36%；净利润5.01亿元，同比增长52.4%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/owdm8y5ozwwrndyudhc1",
         "title": "Agentic AI 时代，软件工程如何被重塑｜QCon 北京 2026 即将开幕",
         "url": "https://www.infoq.cn/article/oWDM8y5ozWwrNdyUdhc1?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-24T12:38:15.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736916459340032",
+        "title": "泰嘉股份：股东中联重科拟合计减持不超3%股份",
+        "url": "https://36kr.com/newsflashes/3736916459340032?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:36:51.000Z",
+        "summary": "36氪获悉，泰嘉股份公告，持股5%以上股东中联重科计划自公告披露之日起15个交易日后的3个月内，以集中竞价交易方式减持不超过251.74万股(占总股本1%)，以大宗交易方式减持不超过503.48万股(占总股本2%)，合计拟减持不超过755.21万股(占总股本3%)。减持原因为股东自身经营决策，股份来源为首次公开发行前持有的股份及资本公积金转增股份，减持价格视市场价格确定。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736915011633158",
+        "title": "纽交所宣布与数字资产公司Securitize合作开发24小时交易的代币化证券平台",
+        "url": "https://36kr.com/newsflashes/3736915011633158?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:35:43.000Z",
+        "summary": "据报道，纽约证券交易所宣布与数字资产公司Securitize合作开发24小时交易的代币化证券平台。根据计划，Securitize将成为NYSE的首个数字化股权登记机构（digital transfer agent），可在区块链上将股票和ETF份额发行成数字代币进行交易。此举是华尔街推动证券资产上链、实现全天候交易和更高效结算的重要一步。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736911469396225",
+        "title": "大千生态：股东速源科技拟减持不超3%公司股份",
+        "url": "https://36kr.com/newsflashes/3736911469396225?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:22:55.000Z",
+        "summary": "36氪获悉，大千生态公告，持股5%以上股东深圳市速源科技发展有限公司因经营发展需要，计划通过集中竞价和大宗交易方式合计减持不超过407.16万股(占公司总股本3%)，其中集中竞价减持不超过135.72万股(1%)、大宗交易减持不超过271.44万股(2%)。减持期间为公告披露之日起15个交易日后的3个月内，即2026年4月16日至2026年7月15日。减持股份来源为协议转让取得。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736906267639811",
+        "title": "国家外汇管理局局长朱鹤新会见汇丰集团行政总裁艾桥智",
+        "url": "https://36kr.com/newsflashes/3736906267639811?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:17:37.000Z",
+        "summary": "36氪获悉，3月24日，中国人民银行副行长、国家外汇管理局局长朱鹤新会见来访的汇丰集团行政总裁艾桥智（Georges Elhedery）一行。双方就国际经济金融形势、中国经济发展等议题进行了交流。国家外汇管理局副局长李红燕陪同会见。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736903456309256",
+        "title": "市场资深人士重申看涨黄金预期，本十年末金价或达1万美元",
+        "url": "https://36kr.com/newsflashes/3736903456309256?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:14:46.000Z",
+        "summary": "贵金属市场“老将”、Yardeni研究公司总裁Ed Yardeni最新表示，仍然坚持到本十年末金价达到1万美元的预测。不过，他将今年年底目标价从6000美元下调至5000美元，这一水平仍较当前价格高出约14%。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736898935865609",
+        "title": "佳兆业集团：预期2025年录得公司拥有人应占溢利不少于500亿元",
+        "url": "https://36kr.com/newsflashes/3736898935865609?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:10:10.000Z",
+        "summary": "36氪获悉，佳兆业集团在港交所公告，预期截至二零二五年十二月三十一日止年度录得公司拥有人应占溢利不少于人民币500亿元，而截至二零二四年十二月三十一日止年度本集团则录得公司拥有人应占亏损净额人民币285亿元。本年度实现转亏为盈主要由于在本年度确认境外债务重组收益。于撇除境外债务重组收益的影响后，本集团预期本年度将录得公司拥有人应占亏损，其乃主要由于受市场影响所确认收入下降及物业项目减值计提拨备增加。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736897543864327",
+        "title": "南都电源：终止转让全资孙公司股权",
+        "url": "https://36kr.com/newsflashes/3736897543864327?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:08:45.000Z",
+        "summary": "36氪获悉，南都电源公告，公司于2026年3月24日召开董事会，决定终止转让全资孙公司安徽华铂再生资源科技有限公司100%股权。此前，公司计划将华铂再生资源100%股权作价14.15亿元转让给安徽省厚基联能运营管理合伙企业。因市场环境及资金筹备变化，各方决定终止交易，已支付的1500万元股权转让款将返还。终止事项不会对公司现有生产经营活动、财务状况造成重大不利影响。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3736886988374024",
+        "title": "氪星晚报 ｜卢伟冰：今年小米在AI领域的研发和资本投入预计将超160亿；蜜雪集团：2025年营收335.6亿元，同比增长35.2%；汇丰任命首位首席AI官",
+        "url": "https://36kr.com/p/3736886988374024?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:02:40.000Z",
+        "summary": "大公司： 农夫山泉：2025全年营收525.5亿元，同比增长22.5% 36氪获悉，农夫山泉公告，2025年营收525.5亿元，同比增长22.5%，预估505.3亿元； 全年净利润158.7亿元，同比增长30.9%，预估149.9亿元；每股末期股息0.99元。 卢伟冰：今年小米在AI领域的研发和资本投入预计将超160亿 36氪获悉，3月24日，小米集团合伙人、集团总裁卢伟冰在财报业绩电话会上表示，小米AI大模型已取得快速发展，进步远超预",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736890474184710",
+        "title": "海天股份：与通威太阳能签署战略合作协议合作开发钙钛矿浆料等事项存在不确定性",
+        "url": "https://36kr.com/newsflashes/3736890474184710?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T12:01:33.000Z",
+        "summary": "36氪获悉，海天股份公告，本次公司与通威太阳能签署的《战略合作协议》（简称“协议”）仅为双方基于合作意愿达成的框架性、意向性约定，不构成具有强制约束力的法律文件，具体合作事项均存在不确定性。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736885029748994",
+        "title": "我国首个具身智能工程机器人行业标准在成都启动编制",
+        "url": "https://36kr.com/newsflashes/3736885029748994?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T11:56:01.000Z",
+        "summary": "3月24日，中国首个“具身智能工程机器人行业标准”编制工作在四川成都启动。该行业标准预计于今年内完成发布，填补智能工程机器人行业空白，为产品技术评价、安全规范和规模化应用建立统一标准，推动产业从“技术研发”迈向“规则制定”。活动现场，成都人形机器人创新中心也发布了全球首个具身智能工程机器人多模态大模型。（央视新闻）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736873190113288",
+        "title": "天孚通信：1.6T光引擎产品已在正常交付，部分物料存在阶段性供应紧张",
+        "url": "https://36kr.com/newsflashes/3736873190113288?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T11:52:00.000Z",
+        "summary": "36氪获悉，天孚通信在互动平台表示，公司1.6T光引擎产品已在正常交付。LPO、CPO都会使用光器件产品，不论产品和技术方向如何变化，公司会持续提升自身能力来服务好客户。因为行业需求增长较快，部分物料存在阶段性供应紧张，公司一直在积极协调供应链，努力保证交付。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736859032731911",
+        "title": "博通警告供应链受限，称台积电产能成为瓶颈",
+        "url": "https://36kr.com/newsflashes/3736859032731911?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T11:48:31.000Z",
+        "summary": "当地时间周二（3月24日），芯片设计公司博通表示，公司正面临供应链限制，包括芯片制造合作伙伴台积电的产能上限。这凸显了AI需求激增对整个科技行业产生的连锁反应。博通物理层产品部门产品营销总监周二对媒体表示：“我们看到台积电正面临（产能）瓶颈。他们会持续扩充产能直到2027年，但在2026年，这已经成为一个瓶颈，或者说在某种程度上卡住了整个供应链。”（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736873702392071",
+        "title": "佰维存储：与某存储原厂签订15亿美元存储晶圆采购合同",
+        "url": "https://36kr.com/newsflashes/3736873702392071?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T11:44:30.000Z",
+        "summary": "36氪获悉，佰维存储公告，公司与某存储原厂签订日常经营性采购合同，公司同意按合同约定的数量、价格及时间向该供应商采购某款存储晶圆，合同总承诺采购金额为15亿美元，承诺采购期总计24个月。根据协议约定，本协议同时适用于协议双方及其各自控制下的子公司。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736853600862470",
+        "title": "厦门钨业：拟2.95亿元收购九江大地69%股权",
+        "url": "https://36kr.com/newsflashes/3736853600862470?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T11:41:55.000Z",
+        "summary": "36氪获悉，厦门钨业公告，公司拟出资12,820.302万元收购关联方江西巨通实业有限公司（简称“江西巨通”）所持有的九江大地矿业开发有限公司（简称“九江大地”）30%股权，拟出资16,666.3926万元收购非关联方北京尚达信投资有限公司（简称“尚达信”）所持有的九江大地39%股权，合计拟出资29,486.6946万元收购九江大地69%股权。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736844830670853",
+        "title": "中核集团旗下北京科创公司注册资本增至6亿元",
+        "url": "https://36kr.com/newsflashes/3736844830670853?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T11:36:04.000Z",
+        "summary": "36氪获悉，爱企查App显示，近日，中核（北京）科创有限公司发生工商变更，注册资本由5亿元人民币增至6亿元人民币，增幅20%。该公司成立于2024年7月，法定代表人为赵欣，经营范围包括新兴能源技术研发、新材料技术推广服务、储能技术服务、风力发电技术服务等。股东信息显示，该公司由中国核工业集团资本控股有限公司全资持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736864074088453",
+        "title": "市场监管总局召开2026年价格监督检查和反不正当竞争工作座谈会",
+        "url": "https://36kr.com/newsflashes/3736864074088453?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T11:34:42.000Z",
+        "summary": "36氪获悉，3月24日，全国市场监管系统价格监督检查和反不正当竞争工作座谈会在北京召开。会议强调，2026年是“十五五”规划开局之年，价监竞争工作要聚焦建设强大国内市场，增强高质量发展动力，树立和践行正确政绩观，不断增进民生福祉，守牢安全底线。在深化价格监督检查、深入整治“内卷式”竞争、推进涉企收费全链条治理、加大反不正当竞争执法力度、创新商业秘密保护、规范直销打击传销、提升价监竞争能力上下功夫，更好发挥价格治理和竞争监管作用，在推动高",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3736843950637319",
+        "title": "机构今日买入华电辽能等18股，卖出三安光电1.88亿元",
+        "url": "https://36kr.com/newsflashes/3736843950637319?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-24T11:30:05.000Z",
+        "summary": "盘后数据显示，3月24日龙虎榜中，共43只个股出现了机构的身影，有18只股票呈现机构净买入，25只股票呈现机构净卖出。当天机构净买入前三的股票分别是华电辽能、南亚新材、云南锗业，净买入金额分别是1.71亿元、1.22亿元、7620万元。当天机构净卖出前三的股票分别是三安光电、美利云、纳百川，净流出金额分别是1.88亿元、9550万元、5720万元。（第一财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1289,42 +1609,22 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3736589094256899",
-        "title": "沪深两市成交额突破2万亿",
-        "url": "https://36kr.com/newsflashes/3736589094256899?f=rss",
+        "id": "36Kr:36kr.com/p/3736702595301638",
+        "title": "拒多家车企邀约，前理想端到端负责人夏中谱加入无界动力｜36氪独家",
+        "url": "https://36kr.com/p/3736702595301638?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-24T06:54:59.000Z",
-        "summary": "36氪获悉，沪深两市成交额突破2万亿，较上日此时缩量超3600亿。",
+        "publishedAt": "2026-03-24T08:51:17.000Z",
+        "summary": "图为理想汽车 文 | 肖漫 编辑 | 李勤、杨轩 又一位理想高管加入具身智能行业。 36氪汽车独家获悉，前理想智驾端到端负责人夏中谱将加入具身智能公司「无界动力」。 无界动力成立于2025年，由前地平线副总裁张玉峰创办，目前，该公司已完成三轮融资，投资方包括红杉、高瓴等知名机构。无界动力聚焦于构建机器人“通用大脑”与“操作智能”，提供软硬一体的具身智能解决方案。 夏中谱是在2025年年中离开理想汽车，此后一直在中科院从事世界模型和强化学",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3736582962003974",
-        "title": "丰田集团成功收购丰田工业",
-        "url": "https://36kr.com/newsflashes/3736582962003974?f=rss",
+        "id": "36Kr:36kr.com/p/3736614731694082",
+        "title": "高瓴领投，产投、家办出手，「宇石空间」完成2亿元Pre-A+轮融资｜36氪首发",
+        "url": "https://36kr.com/p/3736614731694082?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-24T06:48:44.000Z",
-        "summary": "丰田工业3月24日公告称，丰田集团对丰田工业的收购要约成功，丰田工业将在收购程序完成后从东京证券交易所退市。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736581678104836",
-        "title": "“以旧换新”享贴息，江苏南京发布6条措施精准支持住房消费",
-        "url": "https://36kr.com/newsflashes/3736581678104836?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T06:47:26.000Z",
-        "summary": "今年以来，多地发布优化房地产市场政策。3月20日，江苏南京发布促进房地产市场稳定发展6条措施，涉及“以旧换新”贴息、首付比例调整、继续推行“房票”政策等内容。此次新政中，针对“卖旧买新”的购房人给予贷款总金额1%的贴息备受关注。根据新政，在今年3月20日至12月31日期间，在南京使用住房贷款购买新建商品住房并挂牌出售自有住房的居民，可按贷款金额享受1%的贴息补助，全市贴息总资金限额1亿元，先申领先得。（央视新闻）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736579090448386",
-        "title": "“十五五”时期国家电网将开工建设抽水蓄能装机容量超3000万千瓦",
-        "url": "https://36kr.com/newsflashes/3736579090448386?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T06:44:48.000Z",
-        "summary": "从国家电网了解到，“十五五”时期，国家电网将加快抽水蓄能电站建设，规划新开工建设抽水蓄能装机容量超3000万千瓦。到2030年，在运在建抽水蓄能装机将超过1.2亿千瓦，可提供1.5亿千瓦以上的电力调节能力，比“十四五”末提升70%以上，全力保障新能源高效消纳。（央视新闻）",
+        "publishedAt": "2026-03-24T07:23:28.000Z",
+        "summary": "文 | 阿至 宇石空间成立不到两年，始终在用一种极致的速度来推进团队的扩张和技术的工程化落地。 在3个月前的一次沟通中，宇石空间的团队规模在120人左右，到今天这个数字已经超过了170，其中有七成以上是研发人员。 团队规模扩张背后，是技术、资金与竞争态势变化所带来的多重驱动。 36氪了解到， 宇石空间已完成新一轮2亿元Pre-A+轮融资，本轮融资由高瓴创投、兴湘资本联合领投，明荟致远（汇川技术家办）跟投，老股东千乘资本、拓丰资本、知盛睿",
         "category": "updates",
         "region": "cn"
       },
@@ -1335,166 +1635,6 @@
         "source": "36Kr",
         "publishedAt": "2026-03-24T06:44:30.000Z",
         "summary": "01.遇事不决不动产 投资圈近期最热的话题，莫过于OpenAI、Anthropic即将IPO的消息。 一直以来，位于行业塔尖的企业总有着最高的确定性与最惊人的估值，更何况是风头正盛的人工智能。在最新一轮的融资后，OpenAI的估值已超过50000亿人民币，与门内顿足捶胸的英伟达相比，更苦闷的是门外守着的诸多顶级财团—— 即便不谈全球范围的量化宽松，优质标的也远比寻找机会的热钱稀缺。 近日，全球最大的另类资产管理公司‌黑石集团也发布了20",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736560649125895",
-        "title": "A股三大股指午后翻红",
-        "url": "https://36kr.com/newsflashes/3736560649125895?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T06:26:03.000Z",
-        "summary": "36氪获悉，A股三大股指午后翻红，上证指数、深证成指双双涨超1％，创业板指涨0.11％，军工装备、CRO概念、新型城镇化等板块涨幅居前。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736553953132801",
-        "title": "港股恒生指数涨幅扩大至2%",
-        "url": "https://36kr.com/newsflashes/3736553953132801?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T06:19:14.000Z",
-        "summary": "36氪获悉，港股恒生指数涨幅扩大至2%，恒生科技现涨1.38%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736553079849221",
-        "title": "“华科冷芯”完成数千万元Pre-A轮融资",
-        "url": "https://36kr.com/newsflashes/3736553079849221?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T06:18:21.000Z",
-        "summary": "36氪获悉，近日，“华科冷芯”已完成数千万元Pre-A轮融资，由格致资本领投，液冷技术创新企业飞荣达、水木清华校友基金、华工创投联合投资，深度孵化股东中科创星持续加注参与。融资资金将用于加速拓展高性能微型泵在AIDC（人工智能数据中心）、具身机器人、商业航天等领域的液冷应用。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736549775491076",
-        "title": "美团魏巍：中国消费者已在全球率先探索用AI体验世界美食",
-        "url": "https://36kr.com/newsflashes/3736549775491076?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T06:14:59.000Z",
-        "summary": "3月23日，2026黑珍珠餐厅指南中国港澳台及海外地区发布会在新加坡举行。美团副总裁、美团到店餐饮事业部总经理魏巍表示，中国消费者已在全球率先探索用AI体验世界美食。数据显示，2026年春节期间，美团、大众点评“海外美食/餐厅”相关页面浏览量较节前增长近20%，AI问小团成为食客与餐厅新的沟通方式。当下，黑珍珠正跟随中国食客真实的旅行半径、消费兴趣与生活方式同步生长，新发布的2026黑珍珠境外榜单中，共覆盖7城135家餐厅，较去年增长1",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736535438360833",
-        "title": "“大览科技”完成天使轮及Pre-A轮融资，融资金额达千万美元",
-        "url": "https://36kr.com/newsflashes/3736535438360833?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T06:00:24.000Z",
-        "summary": "36氪获悉，聚焦远距影像场景的科技创新团队“大览科技”，在一个月内连续完成天使轮及Pre-A轮融资，融资金额达千万美元。融资由红杉中国、明势创投领投，老股东嘉程资本持续跟投。融资资金将主要用于核心产品研发、供应链和组织建设。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736530491981831",
-        "title": "广西广投新材料集团注册资金增至约45.8亿元",
-        "url": "https://36kr.com/newsflashes/3736530491981831?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T05:55:22.000Z",
-        "summary": "36氪获悉，爱企查App显示，近日，广西广投新材料集团有限公司发生工商变更，注册资本由约20.9亿元人民币增至约45.8亿元人民币，增幅约119%，新增广西桂材股权投资基金合伙企业（有限合伙）为股东。该公司成立于2019年8月，法定代表人为王坤，经营范围包括新材料技术推广服务、有色金属合金制造、有色金属压延加工、金属材料销售等。股东信息显示，该公司由广西桂材股权投资基金合伙企业（有限合伙）、广西来材投资合伙企业（有限合伙）、广西广投新材",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736522627629319",
-        "title": "218亿资金借道股票型ETF逆势入场，宽基成首选“避风港”",
-        "url": "https://36kr.com/newsflashes/3736522627629319?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T05:47:22.000Z",
-        "summary": "3月23日，A股三大股指跌超3%，沪指退守3800点。然而，在市场调整之际，资金借道ETF入市的热情却丝毫未减。记者根据Wind数据统计发现，3月23日，全市场1361只可统计的股票型ETF（含跨境ETF）单日累计净流入达218.03亿元。从资金流向来看，代表A股核心资产的宽基ETF再度扮演“避风港”角色，成为抄底资金涌入的主要方向；相比之下，有色金属、化工等主题ETF则遭遇明显抛售。（澎湃）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736510249451777",
-        "title": "特斯拉2月欧洲汽车销量17664辆，同比增长11.8%",
-        "url": "https://36kr.com/newsflashes/3736510249451777?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T05:34:46.000Z",
-        "summary": "欧洲汽车制造商协会3月24日发布数据显示，欧洲2月汽车销量同比增长1.7%至979321辆。其中，特斯拉销量为17664辆，同比增长11.8%，比亚迪销量为17954辆，同比增加162.3%，比亚迪、特斯拉当月在欧洲市场占有率均为1.8%。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736507053080832",
-        "title": "TECNO发布龙虾智能体EllaClaw",
-        "url": "https://36kr.com/newsflashes/3736507053080832?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T05:31:31.000Z",
-        "summary": "36氪获悉，TECNO发布龙虾智能体EllaClaw。据介绍，EllaClaw是全球首款基于OpenClaw、专为新兴市场打造的移动AI智能体。同时，TECNO即将开启TECNO EllaClaw Beta版本测试。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736494217101570",
-        "title": "欧洲2月汽车销量同比增长1.7%至97.9万辆",
-        "url": "https://36kr.com/newsflashes/3736494217101570?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T05:18:28.000Z",
-        "summary": "欧洲汽车制造商协会3月24日发布数据显示，欧洲2月汽车销量同比增长1.7%至979321辆。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736489009447176",
-        "title": "涂鸦智能发布TuyaClaw，为全网首批支持微信ClawBot",
-        "url": "https://36kr.com/newsflashes/3736489009447176?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T05:13:10.000Z",
-        "summary": "36氪获悉，近日，涂鸦智能发布首个打通数字世界与物理世界的AI助理——TuyaClaw。它基于OpenClaw架构搭建，既能操作屏幕中的浏览器和桌面应用，又能主动调用智能家居设备、办公设备协同工作。同时，TuyaClaw是全网首批支持微信ClawBot，无需复杂安装程序，启用微信插件扫码即可体验。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736474739392773",
-        "title": "SK海力士拟从ASML韩国公司购买极紫外光刻机",
-        "url": "https://36kr.com/newsflashes/3736474739392773?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T04:58:39.000Z",
-        "summary": "SK海力士拟从ASML韩国公司斥资11.95万亿韩元购买极紫外光刻机（EUV scanners）。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736454757285893",
-        "title": "2025年我国化妆品市场规模超万亿元，国货占比近六成",
-        "url": "https://36kr.com/newsflashes/3736454757285893?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T04:50:14.000Z",
-        "summary": "记者今天（24日）从2026年全国化妆品监督管理工作会上获悉，2025年我国批准注册新原料和新增备案新原料同比增长近九成。2025年我国化妆品市场规模超万亿元，国货占比近六成。（央视新闻）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736459162124292",
-        "title": "成都出台公积金新政，最高贷款额度提升至120万元",
-        "url": "https://36kr.com/newsflashes/3736459162124292?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T04:42:48.000Z",
-        "summary": "36氪获悉，据成都发布，3月24日，成都住房公积金管理中心召开新政发布新闻通气会，为进一步提振住房消费，更好满足缴存人刚性和改善性住房需求，促进房地产市场平稳健康发展，成都市出台《关于进一步优化住房公积金有关政策的通知》《关于进一步支持住房消费有关事项的通知》《关于进一步优化重大疾病提取住房公积金的通知》《关于调整住房公积金贷款有关政策的通知》系列政策举措，最高贷款额度提升至120万元，贷款次数也不再限制，首套房认定也进一步放宽。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736449038041349",
-        "title": "OpenAI开更优条件吸引PE，与Anthropic竞争企业AI",
-        "url": "https://36kr.com/newsflashes/3736449038041349?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T04:42:25.000Z",
-        "summary": "据知情人士透露，ChatGPT开发商OpenAI正向私募股权公司（PE）提供比竞争对手Anthropic更优厚的条件。这两家人工智能（AI）公司目前正争相拉拢私募股权公司，组建合资企业以筹集新资金并加速企业级AI产品的推广。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3736445539467268",
-        "title": "花旗集团任命两位新的基础设施融资部门联席主管",
-        "url": "https://36kr.com/newsflashes/3736445539467268?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-24T04:35:52.000Z",
-        "summary": "花旗集团表示，已任命埃里克-法里纳（Eric Farina）和罗布-卡斯卡里诺（Rob Cascarino）为基础设施融资与资本解决方案集团（Infrastructure Financing & Capital Solutions Group（IFCS））联席主管。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1564,146 +1704,6 @@
         "url": "https://www.infoq.cn/article/g29j1RVFBqGg1t4BQExV?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-23T18:15:12.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/c2wqhszf6rukr61ususa",
-        "title": "AICon 2026 上海站正式启动：OpenClaw 袭来，我们来谈点真的",
-        "url": "https://www.infoq.cn/article/C2WQHsZF6ruKr61USuSa?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-23T17:39:27.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zajmzwklkb37egqrqzbk",
-        "title": "DoorDash 构建大模型对话模拟与评估闭环，实现客服机器人规模化测试",
-        "url": "https://www.infoq.cn/article/ZaJmZWklKB37egQrQzBk?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-23T15:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ssaaohmscrr8j2bcfgh2",
-        "title": "Netflix发现了在现代CPU上扩展容器时的内核级瓶颈",
-        "url": "https://www.infoq.cn/article/ssaAohmSCrr8J2BcFgh2?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-23T14:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3735459789242375",
-        "title": "氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务",
-        "url": "https://36kr.com/p/3735459789242375?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T11:52:21.000Z",
-        "summary": "大公司： 双林股份港股上市获中国证监会备案 36氪获悉，中国证监会国际合作司发布关于双林股份有限公司境外发行上市备案通知书，公司拟发行不超过89,697,300股境外上市普通股并在香港联合交易所上市。 宝盖新材料港股IPO获中国证监会备案 36氪获悉，中国证监会国际合作司发布关于山东宝盖新材料科技股份有限公司境外发行上市备案通知书，公司拟发行不超过16,640,500股境外上市普通股并在香港联合交易所上市。 云天化：2025年净利润51",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qj2alodcupulu83qkevx",
-        "title": "基于AI的机器人攻陷微软、DataDog和CNCF项目中的GitHub Actions工作流",
-        "url": "https://www.infoq.cn/article/qj2aLodCUPuLu83qkeVx?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-23T11:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3735404612370441",
-        "title": "36氪AI测评小程序重磅上线！帮你pick最适合自己的AI神器！",
-        "url": "https://36kr.com/p/3735404612370441?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T10:54:15.000Z",
-        "summary": "这个春天，一打开手机，全网似乎都开始“养龙虾”了。 只是从“养龙虾”再到“卸龙虾”，AI应用圈的的变化速度超乎想象。 AI应用大批涌现的当下，跟风实在易踩坑。 AI遍地走，到底谁靠谱？ 别急，36氪AI测评来帮你！ 01 36氪AI测评小程序，正式上线啦！ ⬆️扫码体验36氪AI测评小程序⬆️ 其实，36氪早就上线了AI测评网（网页版），被大家戏称为“AI应用领域的大众点评”。 现在，小程序版也正式来了！ 微信里搜一搜，就能打开这个“A",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3735384009048325",
-        "title": "硬氪首发 | 前华为自动驾驶核心成员创业，要做“会走路”的情绪陪伴机器人",
-        "url": "https://36kr.com/p/3735384009048325?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T10:29:50.000Z",
-        "summary": "作者 | 林晴晴 编辑 | 袁斯来 硬氪获悉，情绪陪伴场景小型具身机器人公司「青心意创」已于近期完成Pre-A轮融资，本轮融资由厚雪资本和天际资本领投，老股东乐朴资本持续跟投，新辉资本担任长期财务顾问。本轮融资将主要用于超小型双足陪伴机器人的产品研发及技术平台搭建、核心算法迭代与团队扩充。此前，公司已完成由初心资本、乐朴资本及多位科技领域个人投资者参与的天使轮融资。 「青心意创」核心团队于2024年初组建，将前沿的具身智能以及自动驾驶大",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3735364151836680",
-        "title": "创想三维IPO：造物平权下的版权困境",
-        "url": "https://36kr.com/p/3735364151836680?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-23T10:14:42.000Z",
-        "summary": "作者 | 丁卯 编辑 | 张帆 2026年3月9日，创想三维再次向香港联交所递交招股书，拟在主板挂牌上市，中金公司担任独家保荐人。作为3D打印行业领军者，这是公司第三次冲刺资本市场，若进展顺利，创想三维有望摘得港股“消费级3D打印第一股”的桂冠。 然而，招股书揭开的不仅是公司规模的扩张，更是其面对拓竹猛烈进攻下的节节败退。这位昔日王者在丢掉行业头把交椅的同时，财务报表也透露出利润缩水、现金流收紧的危险信号。 那么，在造物平权的趋势下，消",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ugasuiy5dmlerpkwokvw",
-        "title": "微软发布MCP C# SDK 1.0版本，全面支持最新的协议规范",
-        "url": "https://www.infoq.cn/article/ugASUiY5dmLERPkwoKVw?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-23T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fi0ryfpzjeu10amgeikf",
-        "title": "Karpathy最新访谈：开源模型落后闭源模型6个月，是AI世界最健康的状态；“龙虾”的成功在于它有“人格”",
-        "url": "https://www.infoq.cn/article/fI0rYFpZJEU10AMgeikf?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-23T09:29:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wwu9ccjys00j9ymgkhi7",
-        "title": "MCP Gateway：构建下一代 AI Agent 的“中枢网关”｜QCon北京",
-        "url": "https://www.infoq.cn/article/wwu9ccjyS00J9YMgKHI7?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-22T10:02:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ia7cifkmwdqyjd1fsdeq",
-        "title": "Java近期资讯：Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus和Commonhaus",
-        "url": "https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-22T08:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/lokvproqap8df2jebwmu",
-        "title": "宇树科技靠融资还是靠卖货活着？翻完招股书，我们挖到了这8个关键点",
-        "url": "https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-21T21:06:36.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/uo9qdplcoext95xug8n4",
-        "title": "Cursor 新模型被指就是Kimi K2.5，联创回应：确实是，下次我们会说清楚",
-        "url": "https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-21T18:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
