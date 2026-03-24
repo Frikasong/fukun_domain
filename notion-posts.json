@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-23T18:46:07.522Z",
+  "generatedAt": "2026-03-24T01:43:28.633Z",
   "source": "notion",
   "entries": [
     {
       "id": 55645058423903,
       "notionPageId": "329bdff0-dc5f-801c-a85d-ce9b113c7dd8",
       "title": "Tech insight post test",
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "section": "tech",
       "author": [
         "Fukun"
@@ -21,7 +21,7 @@
       "id": 55645058423903,
       "notionPageId": "329bdff0-dc5f-804b-83fa-e97180fb479a",
       "title": "Essays Test Post",
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "section": "essays",
       "author": [
         "Fukun"
@@ -36,7 +36,7 @@
       "id": 55645058423903,
       "notionPageId": "329bdff0-dc5f-808f-984a-ec008882e131",
       "title": "Investment Test Post",
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "section": "investment",
       "author": [
         "Fukun"
@@ -53,7 +53,9 @@
       "title": "Week 10 Reflection: The HRTO Got Its Reasoning Wrong — and the Court Said So",
       "date": "2026-03-21",
       "section": "law",
-      "author": null,
+      "author": [
+        "Fukun"
+      ],
       "tags": [
         "AdminLaw",
         "WeeklyReflection"
@@ -103,7 +105,9 @@
       "title": "Week 9 Reflection: Zoom Court and the Apprehension of Bias",
       "date": "2026-03-14",
       "section": "law",
-      "author": null,
+      "author": [
+        "Fukun"
+      ],
       "tags": [
         "AdminLaw",
         "WeeklyReflection"
@@ -136,7 +140,9 @@
       "title": "Week 8 Reflection: The Notes That Changed Immigration Law",
       "date": "2026-03-07",
       "section": "law",
-      "author": null,
+      "author": [
+        "Fukun"
+      ],
       "tags": [
         "AdminLaw",
         "WeeklyReflection"
@@ -152,7 +158,9 @@
       "title": "Week 7 Reflection: Bill C-12 and the Promise of a Hearing",
       "date": "2026-02-28",
       "section": "law",
-      "author": null,
+      "author": [
+        "Fukun"
+      ],
       "tags": [
         "AdminLaw",
         "WeeklyReflection"
@@ -202,7 +210,9 @@
       "title": "Week 5 Reflection: The LTB Waiting Room",
       "date": "2026-02-14",
       "section": "law",
-      "author": null,
+      "author": [
+        "Fukun"
+      ],
       "tags": [
         "AdminLaw",
         "WeeklyReflection"
@@ -218,7 +228,9 @@
       "title": "Week 4 Reflection: The Rulebook Nobody Voted On",
       "date": "2026-02-07",
       "section": "law",
-      "author": null,
+      "author": [
+        "Fukun"
+      ],
       "tags": [
         "AdminLaw",
         "WeeklyReflection"
@@ -234,7 +246,9 @@
       "title": "Week 3 Reflection: When the Law Society Looked Away",
       "date": "2026-01-31",
       "section": "law",
-      "author": null,
+      "author": [
+        "Fukun"
+      ],
       "tags": [
         "AdminLaw",
         "WeeklyReflection"
@@ -250,7 +264,9 @@
       "title": "Week 2 Reflection: Can You Judicially Review a Hockey League?",
       "date": "2026-01-24",
       "section": "law",
-      "author": null,
+      "author": [
+        "Fukun"
+      ],
       "tags": [
         "AdminLaw",
         "WeeklyReflection"
@@ -266,7 +282,9 @@
       "title": "Week 1 Reflection: The AGCO Logo on Every Bottle",
       "date": "2026-01-17",
       "section": "law",
-      "author": null,
+      "author": [
+        "Fukun"
+      ],
       "tags": [
         "AdminLaw",
         "WeeklyReflection"
