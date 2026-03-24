@@ -922,6 +922,93 @@ function PostView({ entry, onBack, T, lang }) {
   const galleryLabel = lang === "zh" ? "图片" : "Gallery";
   const attachmentsLabel = lang === "zh" ? "附件" : "Attachments";
 
+  // Renders annotated rich text spans (bold, italic, code, links, etc.)
+  const renderRichText = (spans, key) => {
+    if (!spans || spans.length === 0) return null;
+    return spans.map((s, i) => {
+      let node = s.text;
+      if (s.code) node = <code key={i} style={styles.postInlineCode}>{node}</code>;
+      if (s.bold) node = <strong key={i}>{node}</strong>;
+      if (s.italic) node = <em key={i}>{node}</em>;
+      if (s.strike) node = <s key={i}>{node}</s>;
+      if (s.underline) node = <u key={i}>{node}</u>;
+      if (s.href) node = <a key={i} href={s.href} target="_blank" rel="noopener noreferrer" style={styles.postLink}>{node}</a>;
+      return <span key={i}>{node}</span>;
+    });
+  };
+
+  // Renders structured Notion blocks (used when entry.blocks is available)
+  const renderBlocks = (blocks) => {
+    if (!blocks || blocks.length === 0) return null;
+    const els = [];
+    let i = 0;
+    while (i < blocks.length) {
+      const b = blocks[i];
+      const rt = b.rich_text || [];
+      switch (b.type) {
+        case "paragraph":
+          if (rt.length > 0)
+            els.push(<p key={i} style={styles.postParagraph}>{renderRichText(rt)}</p>);
+          break;
+        case "heading_1":
+          els.push(<h2 key={i} style={styles.postH1}>{renderRichText(rt)}</h2>);
+          break;
+        case "heading_2":
+          els.push(<h3 key={i} style={styles.postH2}>{renderRichText(rt)}</h3>);
+          break;
+        case "heading_3":
+          els.push(<h4 key={i} style={styles.postH3}>{renderRichText(rt)}</h4>);
+          break;
+        case "bulleted_list_item": {
+          const items = [];
+          while (i < blocks.length && blocks[i].type === "bulleted_list_item") {
+            items.push(<li key={i} style={styles.postLi}>{renderRichText(blocks[i].rich_text)}</li>);
+            i++;
+          }
+          els.push(<ul key={`ul-${i}`} style={styles.postUl}>{items}</ul>);
+          continue;
+        }
+        case "numbered_list_item": {
+          const items = [];
+          while (i < blocks.length && blocks[i].type === "numbered_list_item") {
+            items.push(<li key={i} style={styles.postLi}>{renderRichText(blocks[i].rich_text)}</li>);
+            i++;
+          }
+          els.push(<ol key={`ol-${i}`} style={styles.postOl}>{items}</ol>);
+          continue;
+        }
+        case "quote":
+          els.push(<blockquote key={i} style={styles.postQuote}>{renderRichText(rt)}</blockquote>);
+          break;
+        case "divider":
+          els.push(<hr key={i} style={styles.postHr} />);
+          break;
+        case "callout":
+          els.push(
+            <div key={i} style={styles.postCallout}>
+              {b.icon && <span style={{marginRight: 8}}>{b.icon}</span>}
+              {renderRichText(rt)}
+            </div>
+          );
+          break;
+        case "code":
+          els.push(<pre key={i} style={styles.postCodeBlock}><code>{rt.map(r => r.text).join("")}</code></pre>);
+          break;
+        case "image":
+          if (b.url) els.push(<figure key={i} style={styles.postFigure}><img src={b.url} alt="" style={{maxWidth:"100%"}} /></figure>);
+          break;
+        case "to_do":
+          els.push(<p key={i} style={styles.postParagraph}><input type="checkbox" readOnly checked={!!b.checked} style={{marginRight:6}} />{renderRichText(rt)}</p>);
+          break;
+        default:
+          if (rt.length > 0)
+            els.push(<p key={i} style={styles.postParagraph}>{renderRichText(rt)}</p>);
+      }
+      i++;
+    }
+    return els.length > 0 ? els : null;
+  };
+
   const renderBody = (text) => {
     if (!text) return null;
     const lines = text.split("\n");
@@ -1036,7 +1123,7 @@ function PostView({ entry, onBack, T, lang }) {
         </div>
       )}
 
-      <div style={styles.postBody}>{renderBody(entry.body)}</div>
+      <div style={styles.postBody}>{entry.blocks ? renderBlocks(entry.blocks) : renderBody(entry.body)}</div>
 
       {entry.images && entry.images.length > 1 && (
         <section style={styles.postSection}>
@@ -2216,6 +2303,46 @@ const styles = {
     lineHeight: 1.9,
     color: "#2f3335",
     marginBottom: 6,
+  },
+  postInlineCode: {
+    fontFamily: "monospace",
+    fontSize: "0.88em",
+    background: "rgba(43,80,84,0.08)",
+    borderRadius: 3,
+    padding: "1px 5px",
+    color: "#2B5054",
+  },
+  postLink: {
+    color: "#2B5054",
+    textDecoration: "underline",
+    textUnderlineOffset: 3,
+  },
+  postCallout: {
+    background: "rgba(43,80,84,0.06)",
+    borderLeft: "3px solid #2B5054",
+    borderRadius: 4,
+    padding: "12px 16px",
+    margin: "16px 0",
+    fontFamily: "'Newsreader', serif",
+    fontSize: 19,
+    lineHeight: 1.75,
+    color: "#2f3335",
+  },
+  postCodeBlock: {
+    background: "#1e2426",
+    color: "#e8edee",
+    fontFamily: "monospace",
+    fontSize: 14,
+    lineHeight: 1.6,
+    borderRadius: 6,
+    padding: "16px 20px",
+    margin: "16px 0",
+    overflowX: "auto",
+    whiteSpace: "pre",
+  },
+  postFigure: {
+    margin: "20px 0",
+    textAlign: "center",
   },
   postSection: {
     marginTop: 24,
