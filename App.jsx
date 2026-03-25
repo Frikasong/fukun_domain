@@ -272,7 +272,14 @@ async function loadEntries() {
     if (res.ok) {
       const data = await res.json();
       if (Array.isArray(data.entries)) {
-        return data.entries;
+        // Deduplicate by notionPageId (UUID), falling back to computed id
+        const seen = new Set();
+        return data.entries.filter((e) => {
+          const k = e.notionPageId || e.id;
+          if (seen.has(k)) return false;
+          seen.add(k);
+          return true;
+        });
       }
     }
   } catch {
@@ -431,7 +438,16 @@ function App() {
   };
 
   // Filtered entries
-  const sectionEntries = entries.filter((e) => e.section === activeSection || SECTION_MAP[e.section] === activeSection);
+  const sectionEntries = activeSection === "insights"
+    ? (() => {
+        const seen = new Set();
+        return entries.filter((e) => {
+          const s = SECTION_MAP[e.section] || e.section;
+          if ((s === "tech" || s === "law") && !seen.has(e.id)) { seen.add(e.id); return true; }
+          return false;
+        }).sort((a, b) => new Date(b.date) - new Date(a.date));
+      })()
+    : entries.filter((e) => e.section === activeSection || SECTION_MAP[e.section] === activeSection);
   const currentSection = SECTIONS.find((s) => s.id === activeSection);
 
   return (
@@ -823,12 +839,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     );
   }
 
-  // Insights: combined law + tech posts
+  // Insights: combined law + tech posts (entries already filtered+deduped in App)
   if (section.id === "insights") {
-    const insightEntries = entries.filter((e) => {
-      const s = SECTION_MAP[e.section] || e.section;
-      return s === "tech" || s === "law";
-    }).sort((a, b) => new Date(b.date) - new Date(a.date));
     const label = lang === "zh" ? "洞见" : "Insights";
     const sub = lang === "zh" ? "法律 · 科技 · 分析" : "Law · Tech · Analysis";
     return (
@@ -841,12 +853,12 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </div>
           </div>
         </div>
-        {insightEntries.length === 0 ? (
+        {entries.length === 0 ? (
           <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
         ) : (
           <div style={styles.grid}>
-            {insightEntries.map((entry) => (
-              <EntryCard key={entry.id} entry={entry} onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} T={T} lang={lang} />
+            {entries.map((entry, i) => (
+              <EntryCard key={`${entry.notionPageId || entry.id}-${i}`} entry={entry} onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} T={T} lang={lang} />
             ))}
           </div>
         )}
@@ -922,9 +934,9 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
         </div>
       ) : (
         <div style={styles.grid}>
-          {entries.map((entry) => (
+          {entries.map((entry, i) => (
             <EntryCard
-              key={entry.id}
+              key={`${entry.notionPageId || entry.id}-${i}`}
               entry={entry}
               onEdit={onEdit}
               onDelete={onDelete}
@@ -1490,8 +1502,8 @@ function TechView({ entries, onNew, onEdit, onDelete, onOpenPost, setActiveSecti
             </div>
           ) : (
             <div style={styles.grid}>
-              {insightEntries.map((entry) => (
-                <EntryCard key={entry.id} entry={entry}
+              {insightEntries.map((entry, i) => (
+                <EntryCard key={`${entry.notionPageId || entry.id}-${i}`} entry={entry}
                   onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} T={T} lang={lang} />
               ))}
             </div>
@@ -1512,8 +1524,8 @@ function TechView({ entries, onNew, onEdit, onDelete, onOpenPost, setActiveSecti
             </div>
           ) : (
             <div style={styles.grid}>
-              {obsEntries.map((entry) => (
-                <EntryCard key={entry.id} entry={entry}
+              {obsEntries.map((entry, i) => (
+                <EntryCard key={`${entry.notionPageId || entry.id}-${i}`} entry={entry}
                   onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} T={T} lang={lang} />
               ))}
             </div>
