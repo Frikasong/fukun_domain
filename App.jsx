@@ -458,146 +458,97 @@ function App() {
       {/* Background */}
       <div style={styles.bgPattern} />
 
-      {/* Header */}
-      <header style={{ ...styles.header, padding: isMobile ? "16px 16px 20px" : (isTablet ? "20px 24px 14px" : "22px 32px 16px") }}>
-        <div style={{ ...styles.headerContent, maxWidth: isWideDesktop ? 1600 : 1280 }}>
-          {/* Logo */}
-          <div style={styles.headerLogoArea}>
-            <div style={styles.headerLogoWrap} onClick={() => { setView("grid"); setActiveSection("about"); }}>
-              {!logoFailed && (
-                <img
-                  src="logo.png"
-                  alt={T.site.name}
-                  style={{ ...styles.siteLogo, height: isMobile ? 52 : 60 }}
-                  onError={() => setLogoFailed(true)}
-                />
-              )}
-            </div>
-            {/* Tagline links below logo */}
-              <div style={styles.tagline}>
-                <button
-                  style={styles.taglineBtn}
-                  onClick={() => { setActiveSection("law"); setView("grid"); }}
-                >
-                  {T.nav.taglineLaw}
+      {/* Header — chester.how pill nav */}
+      <header style={{ ...styles.header, padding: isMobile ? "12px 16px" : "13px 32px" }}>
+        <div style={styles.headerContent}>
+
+          {/* Left: pill nav (desktop) or brand (mobile) */}
+          {!isMobile ? (
+            <nav style={styles.pillNav}>
+              {/* Brand */}
+              <button style={styles.pillNavBrand} onClick={() => { setView("grid"); setActiveSection("about"); }}>
+                Fukun
+              </button>
+              <span style={styles.pillNavDivider}>|</span>
+
+              {/* About */}
+              <button
+                style={{ ...styles.pillNavLink, ...(activeSection === "about" ? styles.pillNavLinkActive : {}) }}
+                onClick={() => { setActiveSection("about"); setView("grid"); }}
+              >
+                {T.nav.info}
+              </button>
+
+              {/* Work dropdown */}
+              <div
+                style={styles.navDropdownWrap}
+                onMouseEnter={() => setHoveredGroup("professional")}
+                onMouseLeave={() => setHoveredGroup(null)}
+              >
+                <button style={{ ...styles.pillNavLink, ...((activeSection === "tech" || activeSection === "law" || activeSection === "investment") ? styles.pillNavLinkActive : {}) }}>
+                  {T.nav.professional}
                 </button>
-                <span style={styles.taglineDot}>·</span>
-                <button
-                  style={styles.taglineBtn}
-                  onClick={() => { setActiveSection("tech"); setView("grid"); }}
-                >
-                  {T.nav.taglineTech}
-                </button>
-                <span style={styles.taglineDot}>·</span>
-                <button
-                  style={styles.taglineBtn}
-                  onClick={() => { setActiveSection("essays"); setView("grid"); }}
-                >
-                  {T.nav.taglineIdeas}
-                </button>
+                {hoveredGroup === "professional" && (
+                  <div style={styles.pillNavDropdown}>
+                    {SECTIONS.filter((s) => s.type === "professional").map((section) => (
+                      <button
+                        key={section.id}
+                        style={styles.pillNavDropItem}
+                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
+                      >
+                        {section.icon} {T.nav[section.id] || section.name}
+                      </button>
+                    ))}
+                  </div>
+                )}
               </div>
-          </div>
-          {/* Lang toggle */}
-          {!isMobile && (
-            <div style={styles.headerLang}>
-              <button style={{ ...styles.langToggle, ...(lang === "en" ? styles.langToggleNormal : {}) }} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
+
+              {/* Life dropdown */}
+              <div
+                style={styles.navDropdownWrap}
+                onMouseEnter={() => setHoveredGroup("personal")}
+                onMouseLeave={() => setHoveredGroup(null)}
+              >
+                <button style={{ ...styles.pillNavLink, ...((activeSection === "essays" || activeSection === "music" || activeSection === "photography") ? styles.pillNavLinkActive : {}) }}>
+                  {T.nav.personal}
+                </button>
+                {hoveredGroup === "personal" && (
+                  <div style={styles.pillNavDropdown}>
+                    {SECTIONS.filter((s) => s.type === "personal").map((section) => (
+                      <button
+                        key={section.id}
+                        style={styles.pillNavDropItem}
+                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
+                      >
+                        {section.icon} {T.nav[section.id] || section.name}
+                      </button>
+                    ))}
+                  </div>
+                )}
+              </div>
+            </nav>
+          ) : (
+            <button style={styles.pillNavBrand} onClick={() => { setView("grid"); setActiveSection("about"); }}>
+              Fukun
+            </button>
+          )}
+
+          {/* Right: links + lang (desktop) / hamburger (mobile) */}
+          {!isMobile ? (
+            <div style={styles.headerRight}>
+              <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" style={styles.headerRightLink}>LinkedIn</a>
+              <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" style={styles.headerRightLink}>GitHub</a>
+              <button style={styles.langToggleNew} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
                 {T.langToggle}
               </button>
             </div>
-          )}
-          {isMobile && (
+          ) : (
             <button style={styles.menuToggle} onClick={() => setMenuOpen(!menuOpen)}>
               {menuOpen ? "✕" : "☰"}
             </button>
           )}
         </div>
       </header>
-
-      {/* Nav bar below header */}
-      {!isMobile && (
-        <div style={styles.navBar}>
-          <nav style={{ ...styles.navBarInner, maxWidth: isWideDesktop ? 1600 : 1280 }}>
-            <div
-              style={styles.navDropdownWrap}
-              onMouseEnter={() => setHoveredGroup("info")}
-              onMouseLeave={() => setHoveredGroup(null)}
-            >
-              <button style={{ ...styles.navItem, ...(activeSection === "about" || activeSection === "contact" ? styles.navItemActive : {}) }}>
-                {T.nav.info} ▾
-              </button>
-              {hoveredGroup === "info" && (
-                <div style={styles.navDropdown}>
-                  <button
-                    style={{ ...styles.navDropdownItem, ...(activeSection === "about" ? styles.navDropdownItemActive : {}) }}
-                    onClick={() => { setActiveSection("about"); setView("grid"); setHoveredGroup(null); }}
-                  >
-                    <span>👋</span>
-                    <span style={styles.navDropdownItemText}>{T.nav.about}</span>
-                  </button>
-                </div>
-              )}
-            </div>
-
-            <div
-              style={styles.navDropdownWrap}
-              onMouseEnter={() => setHoveredGroup("professional")}
-              onMouseLeave={() => setHoveredGroup(null)}
-            >
-              <button style={{ ...styles.navItem, ...(activeSection === "tech" || activeSection === "law" || activeSection === "investment" ? styles.navItemActive : {}) }}>
-                {T.nav.professional} ▾
-              </button>
-              {hoveredGroup === "professional" && (
-                <div style={styles.navDropdown}>
-                  {SECTIONS.filter((s) => s.type === "professional").map((section) => {
-                    const label = T.nav[section.id] || section.name;
-                    const subtitle = T.nav[section.id + "Sub"];
-                    return (
-                      <button
-                        key={section.id}
-                        style={{ ...styles.navDropdownItem, ...(activeSection === section.id ? styles.navDropdownItemActive : {}) }}
-                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
-                      >
-                        <span>{section.icon}</span>
-                        <span style={styles.navDropdownItemText}>
-                          {label}
-                          {subtitle && <span style={styles.navDropdownItemSub}>{subtitle}</span>}
-                        </span>
-                      </button>
-                    );
-                  })}
-                </div>
-              )}
-            </div>
-
-            <div
-              style={styles.navDropdownWrap}
-              onMouseEnter={() => setHoveredGroup("personal")}
-              onMouseLeave={() => setHoveredGroup(null)}
-            >
-              <button style={{ ...styles.navItem, ...(activeSection === "essays" || activeSection === "music" || activeSection === "photography" ? styles.navItemActive : {}) }}>
-                {T.nav.personal} ▾
-              </button>
-              {hoveredGroup === "personal" && (
-                <div style={styles.navDropdown}>
-                  {SECTIONS.filter((s) => s.type === "personal").map((section) => {
-                    const label = T.nav[section.id] || section.name;
-                    return (
-                      <button
-                        key={section.id}
-                        style={{ ...styles.navDropdownItem, ...(activeSection === section.id ? styles.navDropdownItemActive : {}) }}
-                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
-                      >
-                        <span>{section.icon}</span>
-                        <span style={styles.navDropdownItemText}>{label}</span>
-                      </button>
-                    );
-                  })}
-                </div>
-              )}
-            </div>
-          </nav>
-        </div>
-      )}
 
       {/* Nav backdrop */}
       {isMobile && menuOpen && (
@@ -731,117 +682,134 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     const tiles = [
       {
         key: "legal-ai-lab",
+        category: lang === "zh" ? "工作" : "Work",
         label: lang === "zh" ? "法律AI实验室" : "Legal AI Lab",
-        sub: lang === "zh" ? "工具与研究" : "Tools & Research",
+        sub: lang === "zh" ? "工具与研究" : "Tools & research at the frontier of law and AI",
         onClick: () => { setActiveSection("tech"); setView("grid"); setTechTab("lab"); },
       },
       {
+        key: "insights",
+        category: lang === "zh" ? "工作" : "Work",
+        label: lang === "zh" ? "洞见" : "Insights",
+        sub: lang === "zh" ? "法律 · 科技 · 分析" : "Law, tech & analysis",
+        onClick: () => { setActiveSection("insights"); setView("grid"); },
+      },
+      {
         key: "tech-brew",
-        label: lang === "zh" ? "科技资讯" : "Tech Updates Brew",
+        category: lang === "zh" ? "工具" : "Tools",
+        label: lang === "zh" ? "科技资讯" : "Tech Updates",
         sub: lang === "zh" ? "自动新闻雷达" : "Auto news radar",
         href: "news-radar.html",
       },
       {
-        key: "insights",
-        label: lang === "zh" ? "洞见" : "Insights",
-        sub: lang === "zh" ? "法律 · 科技 · 分析" : "Law · Tech · Analysis",
-        onClick: () => { setActiveSection("insights"); setView("grid"); },
-      },
-      {
         key: "music",
+        category: lang === "zh" ? "生活" : "Life",
         label: lang === "zh" ? "音乐" : "Music",
         sub: lang === "zh" ? "每周精选" : "Weekly picks",
         onClick: () => { setActiveSection("music"); setView("grid"); },
       },
       {
         key: "photos",
+        category: lang === "zh" ? "生活" : "Life",
         label: lang === "zh" ? "照片" : "Photos",
         sub: lang === "zh" ? "摄影" : "Photography",
         onClick: () => { setActiveSection("photography"); setView("grid"); },
       },
       {
         key: "shares",
+        category: lang === "zh" ? "生活" : "Life",
         label: lang === "zh" ? "分享" : "Shares",
         sub: lang === "zh" ? "随笔与思考" : "Essays & thoughts",
         onClick: () => { setActiveSection("essays"); setView("grid"); },
       },
     ];
 
+    const isNarrow = typeof window !== "undefined" && window.innerWidth <= 860;
     return (
       <div style={styles.aboutHub}>
-        {/* Bio + Portrait — portrait left, text right */}
-        <div style={styles.aboutBioRow}>
-          {/* Glass portrait card */}
-          <div style={styles.aboutPortraitCard}>
-            <img src="portrait.jpg?v=7" alt="Fukun Yang" style={styles.aboutPortraitImg} />
-            <div style={styles.aboutPortraitGlass} />
-          </div>
-          <div style={styles.aboutBioText}>
-            <p style={styles.aboutSectionLabel}>{T.about.bg}</p>
-            <p style={styles.aboutText}>{T.about.bg1}</p>
-            <p style={styles.aboutText}>{T.about.bg2}</p>
-          </div>
-        </div>
+        <div style={{ ...styles.aboutTwoCol, flexDirection: isNarrow ? "column" : "row" }}>
 
-        <div style={styles.aboutBioSection}>
-          <p style={styles.aboutSectionLabel}>{T.about.interests}</p>
-          <p style={styles.aboutText}>{T.about.int1}</p>
-          <p style={styles.aboutText}>
-            {T.about.int2}{' '}
-            <span style={styles.aboutConnectLink} onClick={scrollToConnect}>
-              {T.about.connect}
-            </span>!
-          </p>
-        </div>
+          {/* ── Left column: hero text + bio + portrait + connect ── */}
+          <div style={isNarrow ? { width: "100%" } : styles.aboutLeft}>
 
-        {/* Explore — full-width list rows */}
-        <div style={styles.hubDivider} />
-        <div style={styles.hubTilesSection}>
-          <p style={styles.hubTilesLabel}>{lang === "zh" ? "探索" : "Explore"}</p>
-          <div style={styles.hubTilesList}>
-            {tiles.map((tile) =>
-              tile.href ? (
-                <a
-                  key={tile.key}
-                  href={tile.href}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  style={styles.hubTileRow}
-                >
-                  <span style={styles.hubTileRowName}>{tile.label}</span>
-                  <span style={styles.hubTileRowRight}>
-                    <span style={styles.hubTileRowSub}>{tile.sub}</span>
-                    <span style={styles.hubTileArrow}>→</span>
-                  </span>
-                </a>
+            {/* Hero greeting */}
+            <h1 style={{ ...styles.aboutHero, fontSize: isNarrow ? 38 : 52 }}>
+              {lang === "zh" ? (
+                <>嗨，我是{"\n"}<span style={styles.aboutHeroAccent}>杨馥坤</span> 👋</>
               ) : (
-                <button key={tile.key} style={styles.hubTileRow} onClick={tile.onClick}>
-                  <span style={styles.hubTileRowName}>{tile.label}</span>
-                  <span style={styles.hubTileRowRight}>
-                    <span style={styles.hubTileRowSub}>{tile.sub}</span>
-                    <span style={styles.hubTileArrow}>→</span>
-                  </span>
-                </button>
-              )
-            )}
-          </div>
-        </div>
+                <>Hey there, I'm{"\n"}<span style={styles.aboutHeroAccent}>Fukun</span> 👋</>
+              )}
+            </h1>
 
-        {/* Connect — simple text links */}
-        <div style={styles.hubDivider} />
-        <div id="hub-connect" style={styles.hubConnect}>
-          <p style={styles.hubConnectHeading}>{T.contact.intro}</p>
-          <div style={styles.hubConnectLinks}>
-            <a href="mailto:frikasong@gmail.com" style={styles.hubConnectLink}>{T.contact.email}</a>
-            <span style={styles.hubConnectDot}>·</span>
-            <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.linkedin}</a>
-            <span style={styles.hubConnectDot}>·</span>
-            <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.instagram}</a>
-            <span style={styles.hubConnectDot}>·</span>
-            <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.github}</a>
-            <span style={styles.hubConnectDot}>·</span>
-            <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.rednote}</a>
+            {/* Bio paragraphs */}
+            <p style={styles.aboutText}>{T.about.bg1}</p>
+            <p style={{ ...styles.aboutText, marginBottom: 28 }}>{T.about.bg2}</p>
+
+            {/* Portrait */}
+            <div style={{ ...styles.aboutPortraitCard, width: 150, marginBottom: 28 }}>
+              <img src="portrait.jpg?v=7" alt="Fukun Yang" style={styles.aboutPortraitImg} />
+              <div style={styles.aboutPortraitGlass} />
+            </div>
+
+            {/* Interests */}
+            <p style={styles.aboutText}>{T.about.int1}</p>
+            <p style={{ ...styles.aboutText, marginBottom: 36 }}>
+              {T.about.int2}{' '}
+              <span style={styles.aboutConnectLink} onClick={scrollToConnect}>{T.about.connect}</span>!
+            </p>
+
+            {/* Connect links */}
+            <div id="hub-connect" style={{ marginTop: 4 }}>
+              <div style={styles.hubConnectLinks}>
+                <a href="mailto:frikasong@gmail.com" style={styles.hubConnectLink}>{T.contact.email}</a>
+                <span style={styles.hubConnectDot}>·</span>
+                <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.linkedin}</a>
+                <span style={styles.hubConnectDot}>·</span>
+                <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.instagram}</a>
+                <span style={styles.hubConnectDot}>·</span>
+                <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.github}</a>
+                <span style={styles.hubConnectDot}>·</span>
+                <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.rednote}</a>
+              </div>
+            </div>
           </div>
+
+          {/* ── Right column: bento section cards ── */}
+          <div style={isNarrow ? { width: "100%", marginTop: 48 } : styles.aboutRight}>
+            <p style={{ ...styles.hubTilesLabel, marginBottom: 14 }}>
+              {lang === "zh" ? "探索" : "Explore"}
+            </p>
+            <div style={styles.bentoGrid}>
+              {tiles.map((tile) =>
+                tile.href ? (
+                  <a
+                    key={tile.key}
+                    href={tile.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={styles.bentoCard}
+                  >
+                    <div style={styles.bentoCardTop}>
+                      <span style={styles.bentoCardCategory}>{tile.category}</span>
+                      <span style={styles.bentoCardArrow}>↗</span>
+                    </div>
+                    <p style={styles.bentoCardName}>{tile.label}</p>
+                    <p style={styles.bentoCardDesc}>{tile.sub}</p>
+                  </a>
+                ) : (
+                  <button key={tile.key} style={styles.bentoCard} onClick={tile.onClick}>
+                    <div style={styles.bentoCardTop}>
+                      <span style={styles.bentoCardCategory}>{tile.category}</span>
+                      <span style={styles.bentoCardArrow}>→</span>
+                    </div>
+                    <p style={styles.bentoCardName}>{tile.label}</p>
+                    <p style={styles.bentoCardDesc}>{tile.sub}</p>
+                  </button>
+                )
+              )}
+            </div>
+          </div>
+
         </div>
       </div>
     );
@@ -1674,8 +1642,8 @@ const styles = {
   root: {
     fontFamily: "'Public Sans', sans-serif",
     minHeight: "100vh",
-    background: "#f9f9f9",
-    color: "#1f2325",
+    background: "#faf7f3",
+    color: "#1c1c1c",
     position: "relative",
   },
   bgPattern: {
@@ -1685,119 +1653,136 @@ const styles = {
     width: "100%",
     height: "100%",
     background: `
-      radial-gradient(circle at 22% 24%, rgba(255,255,255,0.55) 0%, transparent 58%),
-      radial-gradient(circle at 82% 74%, rgba(20,35,38,0.04) 0%, transparent 56%)
+      radial-gradient(circle at 18% 20%, rgba(255,248,244,0.8) 0%, transparent 52%),
+      radial-gradient(circle at 84% 78%, rgba(201,131,106,0.05) 0%, transparent 50%)
     `,
     pointerEvents: "none",
     zIndex: 0,
   },
-  // Header
+  // Header — chester.how-inspired pill nav
   header: {
-    background: "rgba(43, 80, 84, 0.82)",
-    backdropFilter: "blur(24px)",
+    background: "rgba(250,247,243,0.95)",
+    backdropFilter: "blur(14px)",
+    WebkitBackdropFilter: "blur(14px)",
     position: "sticky",
     top: 0,
     zIndex: 100,
-    borderBottom: "none",
+    borderBottom: "1px solid rgba(0,0,0,0.07)",
   },
   headerContent: {
-    maxWidth: 1600,
+    maxWidth: 1200,
     margin: "0 auto",
     display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
-    position: "relative",
-  },
-  headerLogoArea: {
-    display: "flex",
-    flexDirection: "column",
-    alignItems: "center",
-    textAlign: "center",
-  },
-  headerLogoWrap: {
-    cursor: "pointer",
-  },
-  headerLang: {
-    position: "absolute",
-    right: 0,
-    top: "50%",
-    transform: "translateY(-50%)",
-  },
-  mobileControls: {
-    position: "absolute",
-    right: 0,
-    top: "50%",
-    transform: "translateY(-50%)",
-    display: "flex",
-    gap: 8,
+    justifyContent: "space-between",
     alignItems: "center",
   },
-  siteLogo: {
-    height: 52,
-    width: "auto",
-    display: "block",
-  },
-  tagline: {
+  headerLogoArea: { display: "none" },
+  headerLogoWrap: { display: "none" },
+  headerLang: { display: "none" },
+  mobileControls: { display: "none" },
+  siteLogo: { display: "none" },
+  tagline: { display: "none" },
+  taglineBtn: { display: "none" },
+  taglineDot: { display: "none" },
+  // Pill nav
+  pillNav: {
     display: "flex",
     alignItems: "center",
-    justifyContent: "center",
-    gap: 6,
-    marginTop: 6,
-  },
-  taglineBtn: {
-    background: "none",
-    border: "none",
-    color: "rgba(255,255,255,0.72)",
-    cursor: "pointer",
-    fontFamily: "'Newsreader', serif",
-    fontSize: 12,
-    fontStyle: "italic",
-    fontWeight: 400,
-    letterSpacing: "1.5px",
-    textTransform: "uppercase",
-    padding: "2px 4px",
-    transition: "color 0.2s",
-  },
-  taglineDot: {
-    color: "rgba(255,255,255,0.38)",
-    fontFamily: "'Newsreader', serif",
-    fontStyle: "italic",
-    fontSize: 11,
-    userSelect: "none",
-  },
-  navBar: {
-    background: "rgba(43, 80, 84, 0.9)",
-    backdropFilter: "blur(16px)",
-    borderBottom: "1px solid rgba(255,255,255,0.06)",
-    position: "sticky",
-    top: 0,
-    zIndex: 99,
-  },
-  navBarInner: {
-    margin: "0 auto",
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
+    background: "rgba(255,255,255,0.88)",
+    border: "1px solid rgba(0,0,0,0.09)",
+    borderRadius: 50,
+    padding: "5px 8px 5px 18px",
+    boxShadow: "0 1px 6px rgba(0,0,0,0.06)",
     gap: 0,
   },
-  navItem: {
-    background: "transparent",
-    border: "none",
-    color: "rgba(255,255,255,0.72)",
-    padding: "16px 32px",
-    cursor: "pointer",
+  pillNavBrand: {
     fontFamily: "'Newsreader', serif",
-    fontSize: 15,
-    fontWeight: 400,
-    fontStyle: "italic",
-    letterSpacing: "0.3px",
-    transition: "all 0.2s",
-    borderBottom: "2px solid transparent",
+    fontSize: 17,
+    fontWeight: 500,
+    color: "#1c1c1c",
+    background: "none",
+    border: "none",
+    cursor: "pointer",
+    padding: 0,
+    letterSpacing: "-0.2px",
   },
-  navItemActive: {
-    color: "#ffffff",
-    borderBottom: "2px solid rgba(255,255,255,0.5)",
+  pillNavDivider: {
+    color: "rgba(0,0,0,0.18)",
+    fontSize: 13,
+    margin: "0 10px",
+    userSelect: "none",
   },
+  pillNavLink: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 14,
+    fontWeight: 500,
+    color: "#666",
+    background: "none",
+    border: "none",
+    cursor: "pointer",
+    padding: "5px 12px",
+    borderRadius: 30,
+    transition: "background 0.15s, color 0.15s",
+    position: "relative",
+  },
+  pillNavLinkActive: {
+    color: "#1c1c1c",
+    background: "rgba(0,0,0,0.07)",
+    fontWeight: 600,
+  },
+  pillNavDropdown: {
+    position: "absolute",
+    top: "calc(100% + 8px)",
+    left: "50%",
+    transform: "translateX(-50%)",
+    background: "#fff",
+    borderRadius: 12,
+    boxShadow: "0 12px 40px rgba(0,0,0,0.11), 0 4px 10px rgba(0,0,0,0.06)",
+    border: "1px solid rgba(0,0,0,0.07)",
+    padding: "8px 0",
+    minWidth: 190,
+    zIndex: 200,
+  },
+  pillNavDropItem: {
+    display: "block",
+    width: "100%",
+    background: "none",
+    border: "none",
+    padding: "10px 20px",
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 14,
+    color: "#333",
+    textAlign: "left",
+    cursor: "pointer",
+  },
+  headerRight: {
+    display: "flex",
+    alignItems: "center",
+    gap: 20,
+  },
+  headerRightLink: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 13,
+    color: "#888",
+    textDecoration: "none",
+    letterSpacing: "0.1px",
+    transition: "color 0.15s",
+  },
+  langToggleNew: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 13,
+    color: "#888",
+    background: "none",
+    border: "1px solid rgba(0,0,0,0.14)",
+    borderRadius: 20,
+    padding: "4px 12px",
+    cursor: "pointer",
+  },
+  // navBar hidden — nav integrated into header pill
+  navBar: { display: "none" },
+  navBarInner: { display: "none" },
+  navItem: { display: "none" },
+  navItemActive: {},
   navDropdownWrap: {
     position: "relative",
   },
@@ -2779,27 +2764,27 @@ const styles = {
   },
   // Footer
   footer: {
-    borderTop: "none",
-    background: "rgba(248, 252, 255, 0.5)",
-    padding: 24,
+    borderTop: "1px solid rgba(0,0,0,0.07)",
+    background: "transparent",
+    padding: "24px 32px",
     marginTop: 80,
   },
   footerContent: {
-    maxWidth: 1400,
+    maxWidth: 1200,
     margin: "0 auto",
     display: "flex",
     justifyContent: "space-between",
     alignItems: "center",
     fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
-    color: "#7B8F92",
-    fontWeight: 500,
+    color: "#aaa",
+    fontWeight: 400,
   },
   footerLink: {
-    color: "#12393d",
+    color: "#888",
     textDecoration: "none",
-    borderBottom: "2px solid rgba(53, 102, 106, 0.7)",
-    fontWeight: 600,
+    borderBottom: "1px solid rgba(0,0,0,0.2)",
+    fontWeight: 500,
     paddingBottom: 1,
   },
   // About Section
@@ -3134,11 +3119,93 @@ const styles = {
     color: "#8EA1A4",
     fontStyle: "italic",
   },
-  // Hub (About page)
+  // Hub (About page) — chester.how two-column layout
   aboutHub: {
-    maxWidth: 640,
+    maxWidth: 1100,
     margin: "0 auto",
-    padding: "32px 0 48px",
+    padding: "60px 0 88px",
+  },
+  aboutTwoCol: {
+    display: "flex",
+    gap: 60,
+    alignItems: "flex-start",
+  },
+  aboutLeft: {
+    flex: "0 0 52%",
+    maxWidth: "52%",
+  },
+  aboutRight: {
+    flex: 1,
+    minWidth: 0,
+    paddingTop: 6,
+  },
+  aboutHero: {
+    fontFamily: "'DM Serif Display', 'Newsreader', serif",
+    fontSize: 52,
+    fontWeight: 400,
+    lineHeight: 1.18,
+    color: "#1c1c1c",
+    margin: "0 0 30px",
+    letterSpacing: "-0.5px",
+    whiteSpace: "pre-line",
+  },
+  aboutHeroAccent: {
+    borderBottom: "2.5px solid #c9836a",
+    paddingBottom: 2,
+  },
+  // Bento section cards (chester.how style)
+  bentoGrid: {
+    display: "grid",
+    gridTemplateColumns: "1fr 1fr",
+    gap: 10,
+  },
+  bentoCard: {
+    background: "#ffffff",
+    borderRadius: 14,
+    padding: "18px 20px 16px",
+    border: "1px solid rgba(0,0,0,0.06)",
+    boxShadow: "0 2px 8px rgba(0,0,0,0.04)",
+    cursor: "pointer",
+    textDecoration: "none",
+    display: "flex",
+    flexDirection: "column",
+    gap: 8,
+    textAlign: "left",
+    transition: "box-shadow 0.18s, transform 0.18s",
+    width: "100%",
+  },
+  bentoCardTop: {
+    display: "flex",
+    justifyContent: "space-between",
+    alignItems: "flex-start",
+  },
+  bentoCardCategory: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 10,
+    fontWeight: 700,
+    color: "#bbb",
+    letterSpacing: "0.8px",
+    textTransform: "uppercase",
+  },
+  bentoCardArrow: {
+    fontSize: 13,
+    color: "#ccc",
+    marginTop: -1,
+  },
+  bentoCardName: {
+    fontFamily: "'Newsreader', serif",
+    fontSize: 17,
+    fontWeight: 500,
+    color: "#1c1c1c",
+    lineHeight: 1.3,
+    margin: 0,
+  },
+  bentoCardDesc: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 12,
+    color: "#999",
+    lineHeight: 1.5,
+    margin: 0,
   },
   aboutBioRow: {
     display: "flex",
@@ -3288,7 +3355,7 @@ const styles = {
 // ═══════════════════════════════════════════════════════════════════════════
 (function () {
   const link = document.createElement("link");
-  link.href = "https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Public+Sans:wght@400;500;600;700&display=swap";
+  link.href = "https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Public+Sans:wght@400;500;600;700&display=swap";
   link.rel = "stylesheet";
   document.head.appendChild(link);
 })();
