@@ -10,7 +10,7 @@ const TRANSLATIONS = {
     langToggle: "中文",
     nav: {
       info: "About", professional: "Work", personal: "Life",
-      projects: "Projects", writing: "Writing", hobbies: "Hobbies",
+      projects: "Projects", share: "Share", hobbies: "Hobbies",
       about: "About", tech: "Legal AI Lab", law: "Law", investment: "Investment", essays: "Essays",
       music: "Music", photography: "Photos", contact: "Contact",
       taglineLaw: "Law", taglineTech: "Technology", taglineIdeas: "Ideas",
@@ -105,7 +105,7 @@ const TRANSLATIONS = {
     langToggle: "EN",
     nav: {
       info: "关于", professional: "工作", personal: "生活",
-      projects: "项目", writing: "写作", hobbies: "爱好",
+      projects: "项目", share: "分享", hobbies: "爱好",
       about: "关于", tech: "法律AI实验室", law: "法律", investment: "投资", essays: "文章",
       music: "音乐", photography: "照片", contact: "联系",
       techSub: "法律AI · 工具",
@@ -199,15 +199,20 @@ const TRANSLATIONS = {
 
 // ─── Section Configuration ──────────────────────────────────────────────────
 const SECTIONS = [
-  { id: "about",      name: "About",        icon: "👋", type: "info"     },
-  { id: "insights",   name: "Insights",     icon: "💡", type: "hidden"   },
-  { id: "tech",       name: "Legal AI Lab", subtitle: "Legal AI · Tools",   icon: "⚖️", type: "projects" },
-  { id: "investment", name: "Investment",   subtitle: "Market Analysis",     icon: "📈", type: "projects" },
-  { id: "law",        name: "Law",          subtitle: "Legal Research",      icon: "📚", type: "writing"  },
-  { id: "essays",     name: "Essays",       subtitle: "Writing",             icon: "✍️", type: "writing"  },
-  { id: "music",      name: "Music",        icon: "🎵", type: "hobbies"  },
-  { id: "photography",name: "Photos",       icon: "📷", type: "hobbies"  },
-  { id: "contact",    name: "Contact",      icon: "📧", type: "info"     },
+  // Top-level nav pages
+  { id: "about",    name: "About",    icon: "👋", type: "nav" },
+  { id: "projects", name: "Projects", icon: "🛠️", type: "nav" },
+  { id: "share",    name: "Share",    icon: "✍️", type: "nav" },
+  { id: "hobbies",  name: "Hobbies",  icon: "🎵", type: "nav" },
+  // Internal data sections (not in main nav, used for entry tagging)
+  { id: "tech",        name: "Legal AI Lab", icon: "⚖️", type: "hidden" },
+  { id: "law",         name: "Law",          icon: "📚", type: "hidden" },
+  { id: "investment",  name: "Investment",   icon: "📈", type: "hidden" },
+  { id: "essays",      name: "Essays",       icon: "✍️", type: "hidden" },
+  { id: "music",       name: "Music",        icon: "🎵", type: "hidden" },
+  { id: "photography", name: "Photos",       icon: "📷", type: "hidden" },
+  { id: "insights",    name: "Insights",     icon: "💡", type: "hidden" },
+  { id: "contact",     name: "Contact",      icon: "📧", type: "hidden" },
 ];
 
 // Maps old section IDs to new consolidated sections (for localStorage backwards compat)
@@ -439,17 +444,34 @@ function App() {
     setForm((prev) => ({ ...prev, attachments: prev.attachments.filter((_, i) => i !== index) }));
   };
 
-  // Filtered entries
-  const sectionEntries = activeSection === "insights"
-    ? (() => {
-        const seen = new Set();
-        return entries.filter((e) => {
-          const s = SECTION_MAP[e.section] || e.section;
-          if ((s === "tech" || s === "law") && !seen.has(e.id)) { seen.add(e.id); return true; }
-          return false;
-        }).sort((a, b) => new Date(b.date) - new Date(a.date));
-      })()
-    : entries.filter((e) => e.section === activeSection || SECTION_MAP[e.section] === activeSection);
+  // Filtered entries per nav page
+  const sectionEntries = (() => {
+    if (activeSection === "share") {
+      const seen = new Set();
+      return entries.filter((e) => {
+        const s = SECTION_MAP[e.section] || e.section;
+        const k = e.notionPageId || e.id;
+        if (["tech", "law", "essays"].includes(s) && !seen.has(k)) { seen.add(k); return true; }
+        return false;
+      }).sort((a, b) => new Date(b.date) - new Date(a.date));
+    }
+    if (activeSection === "hobbies") {
+      return entries.filter((e) => {
+        const s = SECTION_MAP[e.section] || e.section;
+        return ["music", "photography"].includes(s);
+      }).sort((a, b) => new Date(b.date) - new Date(a.date));
+    }
+    if (activeSection === "insights") {
+      const seen = new Set();
+      return entries.filter((e) => {
+        const s = SECTION_MAP[e.section] || e.section;
+        const k = e.notionPageId || e.id;
+        if ((s === "tech" || s === "law") && !seen.has(k)) { seen.add(k); return true; }
+        return false;
+      }).sort((a, b) => new Date(b.date) - new Date(a.date));
+    }
+    return entries.filter((e) => e.section === activeSection || SECTION_MAP[e.section] === activeSection);
+  })();
   const currentSection = SECTIONS.find((s) => s.id === activeSection);
 
   return (
@@ -467,86 +489,24 @@ function App() {
           {/* Left: pill nav (desktop) or brand (mobile) */}
           {!isMobile ? (
             <nav style={styles.pillNav}>
-              {/* Brand */}
               <button style={styles.pillNavBrand} onClick={() => { setView("grid"); setActiveSection("about"); }}>
                 Fukun
               </button>
               <span style={styles.pillNavDivider}>|</span>
-
-              {/* About */}
-              <button
-                style={{ ...styles.pillNavLink, ...(activeSection === "about" ? styles.pillNavLinkActive : {}) }}
-                onClick={() => { setActiveSection("about"); setView("grid"); }}
-              >
-                {T.nav.info}
-              </button>
-
-              {/* Projects dropdown */}
-              <div
-                style={styles.navDropdownWrap}
-                onMouseEnter={() => setHoveredGroup("projects")}
-                onMouseLeave={() => setHoveredGroup(null)}
-              >
-                <button style={{ ...styles.pillNavLink, ...(SECTIONS.filter(s => s.type === "projects").some(s => s.id === activeSection) ? styles.pillNavLinkActive : {}) }}>
-                  {T.nav.projects}
+              {[
+                { id: "about",    label: T.nav.info     },
+                { id: "projects", label: T.nav.projects  },
+                { id: "share",    label: T.nav.share     },
+                { id: "hobbies",  label: T.nav.hobbies   },
+              ].map(item => (
+                <button
+                  key={item.id}
+                  style={{ ...styles.pillNavLink, ...(activeSection === item.id ? styles.pillNavLinkActive : {}) }}
+                  onClick={() => { setActiveSection(item.id); setView("grid"); }}
+                >
+                  {item.label}
                 </button>
-                {hoveredGroup === "projects" && (
-                  <div style={styles.pillNavDropdown}>
-                    {SECTIONS.filter((s) => s.type === "projects").map((section) => (
-                      <button key={section.id} style={styles.pillNavDropItem}
-                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}>
-                        {section.icon} {T.nav[section.id] || section.name}
-                      </button>
-                    ))}
-                  </div>
-                )}
-              </div>
-
-              {/* Writing dropdown */}
-              <div
-                style={styles.navDropdownWrap}
-                onMouseEnter={() => setHoveredGroup("writing")}
-                onMouseLeave={() => setHoveredGroup(null)}
-              >
-                <button style={{ ...styles.pillNavLink, ...(SECTIONS.filter(s => s.type === "writing").some(s => s.id === activeSection) || activeSection === "insights" ? styles.pillNavLinkActive : {}) }}>
-                  {T.nav.writing}
-                </button>
-                {hoveredGroup === "writing" && (
-                  <div style={styles.pillNavDropdown}>
-                    {SECTIONS.filter((s) => s.type === "writing").map((section) => (
-                      <button key={section.id} style={styles.pillNavDropItem}
-                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}>
-                        {section.icon} {T.nav[section.id] || section.name}
-                      </button>
-                    ))}
-                    <button style={styles.pillNavDropItem}
-                      onClick={() => { setActiveSection("insights"); setView("grid"); setHoveredGroup(null); }}>
-                      💡 {lang === "zh" ? "所有洞见" : "All Insights"}
-                    </button>
-                  </div>
-                )}
-              </div>
-
-              {/* Hobbies dropdown */}
-              <div
-                style={styles.navDropdownWrap}
-                onMouseEnter={() => setHoveredGroup("hobbies")}
-                onMouseLeave={() => setHoveredGroup(null)}
-              >
-                <button style={{ ...styles.pillNavLink, ...(SECTIONS.filter(s => s.type === "hobbies").some(s => s.id === activeSection) ? styles.pillNavLinkActive : {}) }}>
-                  {T.nav.hobbies}
-                </button>
-                {hoveredGroup === "hobbies" && (
-                  <div style={styles.pillNavDropdown}>
-                    {SECTIONS.filter((s) => s.type === "hobbies").map((section) => (
-                      <button key={section.id} style={styles.pillNavDropItem}
-                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}>
-                        {section.icon} {T.nav[section.id] || section.name}
-                      </button>
-                    ))}
-                  </div>
-                )}
-              </div>
+              ))}
             </nav>
           ) : (
             <button style={styles.pillNavBrand} onClick={() => { setView("grid"); setActiveSection("about"); }}>
@@ -713,15 +673,15 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
         key: "legal-ai-lab",
         category: lang === "zh" ? "项目" : "Projects",
         label: lang === "zh" ? "法律AI实验室" : "Legal AI Lab",
-        sub: lang === "zh" ? "工具与研究" : "Tools at the frontier of law & AI",
-        onClick: () => { setActiveSection("tech"); setView("grid"); setTechTab("lab"); },
+        sub: lang === "zh" ? "法律科技工具" : "Tools at the frontier of law & AI",
+        onClick: () => { setActiveSection("projects"); setView("grid"); },
       },
       {
-        key: "writing",
-        category: lang === "zh" ? "写作" : "Writing",
-        label: lang === "zh" ? "洞见" : "Insights",
-        sub: lang === "zh" ? "法律 · 科技 · 分析" : "Law, tech & analysis",
-        onClick: () => { setActiveSection("insights"); setView("grid"); },
+        key: "share",
+        category: lang === "zh" ? "分享" : "Share",
+        label: lang === "zh" ? "文章与洞见" : "Writing & Insights",
+        sub: lang === "zh" ? "法律 · 科技 · 随笔" : "Law · Tech · Essays",
+        onClick: () => { setActiveSection("share"); setView("grid"); },
       },
       {
         key: "tech-brew",
@@ -735,21 +695,21 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
         category: lang === "zh" ? "爱好" : "Hobbies",
         label: lang === "zh" ? "音乐" : "Music",
         sub: lang === "zh" ? "每周精选" : "Weekly picks",
-        onClick: () => { setActiveSection("music"); setView("grid"); },
+        onClick: () => { setActiveSection("hobbies"); setView("grid"); },
       },
       {
         key: "photos",
         category: lang === "zh" ? "爱好" : "Hobbies",
         label: lang === "zh" ? "照片" : "Photos",
         sub: lang === "zh" ? "摄影" : "Photography",
-        onClick: () => { setActiveSection("photography"); setView("grid"); },
+        onClick: () => { setActiveSection("hobbies"); setView("grid"); },
       },
       {
         key: "essays",
-        category: lang === "zh" ? "写作" : "Writing",
+        category: lang === "zh" ? "分享" : "Share",
         label: lang === "zh" ? "随笔" : "Essays",
-        sub: lang === "zh" ? "随笔与思考" : "Thoughts & reflections",
-        onClick: () => { setActiveSection("essays"); setView("grid"); },
+        sub: lang === "zh" ? "思考与记录" : "Thoughts & reflections",
+        onClick: () => { setActiveSection("share"); setView("grid"); },
       },
     ];
 
@@ -840,6 +800,161 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
           </div>
 
         </div>
+      </div>
+    );
+  }
+
+  // ── PROJECTS page — chester card gallery with the two tools ──
+  if (section.id === "projects") {
+    const tools = [
+      {
+        id: "housekeeper",
+        label: lang === "zh" ? "项目 · 工具" : "Projects · Tools",
+        name: "Housekeeper",
+        tagline: T.tech.housekeeper.tagline,
+        desc: T.tech.housekeeper.desc,
+        href: "https://housekeeper-2kp7.onrender.com/",
+        emoji: "🏛️",
+        grad: "linear-gradient(145deg, #0f2e31 0%, #2B5054 100%)",
+      },
+      {
+        id: "radar",
+        label: lang === "zh" ? "项目 · 工具" : "Projects · Tools",
+        name: T.tech.radarTool.name,
+        tagline: T.tech.radarTool.tagline,
+        desc: T.tech.radarTool.desc,
+        href: "news-radar.html",
+        emoji: "📡",
+        grad: "linear-gradient(145deg, #1a3e42 0%, #35666a 100%)",
+      },
+    ];
+    return (
+      <div style={styles.chesterPage}>
+        <div style={styles.chesterGrid}>
+          {tools.map(tool => (
+            <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" style={styles.chesterToolCard}>
+              <div style={styles.chesterCardMeta}>
+                <span style={styles.chesterCardLabel}>{tool.label}</span>
+                <span style={styles.chesterCardArrowIcon}>↗</span>
+              </div>
+              <div style={{ ...styles.chesterToolPreview, background: tool.grad }}>
+                <span style={styles.chesterToolEmoji}>{tool.emoji}</span>
+                <div>
+                  <p style={styles.chesterToolTagline}>{tool.tagline}</p>
+                  <span style={styles.chesterToolLiveBadge}>{lang === "zh" ? "已上线" : "Live"}</span>
+                </div>
+              </div>
+              <div style={styles.chesterCardBody}>
+                <h3 style={styles.chesterToolTitle}>{tool.name}</h3>
+                <p style={styles.chesterToolDesc}>{tool.desc}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    );
+  }
+
+  // ── SHARE page — chester post cards (law + tech + essays combined) ──
+  if (section.id === "share") {
+    const sectionMeta = {
+      law:    { label: lang === "zh" ? "法律"   : "Law",   color: "#2B5054" },
+      tech:   { label: lang === "zh" ? "科技"   : "Tech",  color: "#35666a" },
+      essays: { label: lang === "zh" ? "随笔"   : "Essays",color: "#7a5c42" },
+    };
+    return (
+      <div style={styles.chesterPage}>
+        {entries.length === 0 ? (
+          <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
+        ) : (
+          <div style={styles.chesterPostGrid}>
+            {entries.map((entry, i) => {
+              const sid = SECTION_MAP[entry.section] || entry.section;
+              const meta = sectionMeta[sid] || { label: "Share", color: "#2B5054" };
+              const excerpt = entry.body ? entry.body.replace(/[#*`\[\]]/g, "").trim().slice(0, 110) : "";
+              return (
+                <button
+                  key={`${entry.notionPageId || entry.id}-${i}`}
+                  style={styles.chesterPostCard}
+                  onClick={() => onOpenPost(entry)}
+                >
+                  <div style={styles.chesterCardMeta}>
+                    <span style={{ ...styles.chesterCardLabel, color: meta.color }}>Share · {meta.label}</span>
+                    <span style={styles.chesterCardArrowIcon}>→</span>
+                  </div>
+                  <div style={{ height: 3, background: meta.color, margin: "0 18px 0", borderRadius: 2 }} />
+                  <div style={styles.chesterCardBody}>
+                    <h3 style={styles.chesterPostTitle}>{entry.title}</h3>
+                    {excerpt && <p style={styles.chesterPostExcerpt}>{excerpt}{entry.body?.length > 110 ? "…" : ""}</p>}
+                    <span style={styles.chesterPostDate}>{entry.date}</span>
+                  </div>
+                </button>
+              );
+            })}
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  // ── HOBBIES page — photos gallery + music cards ──
+  if (section.id === "hobbies") {
+    const photoEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "photography");
+    const musicEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "music");
+    return (
+      <div style={styles.chesterPage}>
+        {/* Photos */}
+        {photoEntries.length > 0 && (
+          <div style={styles.chesterHobbiesSection}>
+            <p style={styles.chesterSectionHeading}>📷 {lang === "zh" ? "照片" : "Photos"}</p>
+            <div style={styles.chesterPhotoGrid}>
+              {photoEntries.map((entry, i) => (
+                <button key={i} style={styles.chesterPhotoCard} onClick={() => onOpenPost(entry)}>
+                  <div style={{ ...styles.chesterCardMeta, paddingBottom: 8 }}>
+                    <span style={styles.chesterCardLabel}>Hobbies · Photos</span>
+                    <span style={styles.chesterCardArrowIcon}>→</span>
+                  </div>
+                  {entry.images && entry.images[0]
+                    ? <img src={entry.images[0]} alt={entry.title} style={styles.chesterPhotoImg} />
+                    : <div style={styles.chesterPhotoPlaceholder}>📷</div>
+                  }
+                  <div style={{ padding: "10px 14px 14px" }}>
+                    <p style={{ ...styles.chesterPostTitle, fontSize: 15, margin: 0 }}>{entry.title}</p>
+                    <span style={styles.chesterPostDate}>{entry.date}</span>
+                  </div>
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* Music */}
+        {musicEntries.length > 0 && (
+          <div style={styles.chesterHobbiesSection}>
+            <p style={styles.chesterSectionHeading}>🎵 {lang === "zh" ? "音乐" : "Music"}</p>
+            <div style={styles.chesterMusicGrid}>
+              {musicEntries.map((entry, i) => (
+                <button key={i} style={styles.chesterMusicCard} onClick={() => onOpenPost(entry)}>
+                  <div style={styles.chesterCardMeta}>
+                    <span style={styles.chesterCardLabel}>Hobbies · Music</span>
+                    <span style={styles.chesterCardArrowIcon}>→</span>
+                  </div>
+                  <div style={styles.chesterMusicBody}>
+                    <span style={styles.chesterMusicNote}>♪</span>
+                    <div>
+                      <p style={{ ...styles.chesterPostTitle, fontSize: 16, margin: "0 0 4px" }}>{entry.title}</p>
+                      <span style={styles.chesterPostDate}>{entry.date}</span>
+                    </div>
+                  </div>
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {entries.length === 0 && (
+          <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
+        )}
       </div>
     );
   }
@@ -3234,6 +3349,208 @@ const styles = {
     color: "#999",
     lineHeight: 1.5,
     margin: 0,
+  },
+
+  // ── Chester gallery card styles ───────────────────────────────────────────
+  chesterPage: {
+    maxWidth: 1100,
+    margin: "0 auto",
+    padding: "8px 0 64px",
+  },
+  // 2-col grid for tool cards
+  chesterGrid: {
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fill, minmax(360px, 1fr))",
+    gap: 16,
+  },
+  chesterToolCard: {
+    background: "#fff",
+    borderRadius: 16,
+    overflow: "hidden",
+    border: "1px solid rgba(0,0,0,0.07)",
+    boxShadow: "0 2px 14px rgba(0,0,0,0.06)",
+    textDecoration: "none",
+    display: "flex",
+    flexDirection: "column",
+    cursor: "pointer",
+  },
+  chesterCardMeta: {
+    display: "flex",
+    justifyContent: "space-between",
+    alignItems: "center",
+    padding: "13px 18px 10px",
+  },
+  chesterCardLabel: {
+    fontFamily: "'Caveat', cursive",
+    fontSize: 14,
+    fontWeight: 600,
+    color: "#2B5054",
+  },
+  chesterCardArrowIcon: {
+    fontSize: 14,
+    color: "#ccc",
+  },
+  chesterToolPreview: {
+    height: 190,
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: 20,
+    padding: "0 28px",
+    flexShrink: 0,
+  },
+  chesterToolEmoji: {
+    fontSize: 40,
+    flexShrink: 0,
+  },
+  chesterToolTagline: {
+    fontFamily: "'Newsreader', serif",
+    fontStyle: "italic",
+    fontSize: 14,
+    color: "rgba(255,255,255,0.75)",
+    margin: "0 0 10px",
+    lineHeight: 1.5,
+  },
+  chesterToolLiveBadge: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 10,
+    fontWeight: 700,
+    color: "#fff",
+    background: "rgba(255,255,255,0.18)",
+    borderRadius: 20,
+    padding: "3px 10px",
+    letterSpacing: "0.8px",
+    textTransform: "uppercase",
+  },
+  chesterCardBody: {
+    padding: "14px 18px 20px",
+    flex: 1,
+  },
+  chesterToolTitle: {
+    fontFamily: "'DM Serif Display', serif",
+    fontSize: 24,
+    fontWeight: 400,
+    color: "#1c1c1c",
+    margin: "0 0 8px",
+    letterSpacing: "-0.2px",
+  },
+  chesterToolDesc: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 13,
+    color: "#888",
+    lineHeight: 1.65,
+    margin: 0,
+  },
+  // Post cards (Share page)
+  chesterPostGrid: {
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fill, minmax(270px, 1fr))",
+    gap: 12,
+  },
+  chesterPostCard: {
+    background: "#fff",
+    borderRadius: 14,
+    overflow: "hidden",
+    border: "1px solid rgba(0,0,0,0.07)",
+    boxShadow: "0 2px 8px rgba(0,0,0,0.04)",
+    cursor: "pointer",
+    textAlign: "left",
+    display: "flex",
+    flexDirection: "column",
+    width: "100%",
+  },
+  chesterPostTitle: {
+    fontFamily: "'Newsreader', serif",
+    fontSize: 18,
+    fontWeight: 500,
+    color: "#1c1c1c",
+    lineHeight: 1.35,
+    margin: "0 0 8px",
+  },
+  chesterPostExcerpt: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 12,
+    color: "#aaa",
+    lineHeight: 1.6,
+    margin: "0 0 12px",
+  },
+  chesterPostDate: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 11,
+    color: "#bbb",
+    fontWeight: 500,
+    letterSpacing: "0.3px",
+    display: "block",
+  },
+  // Hobbies page
+  chesterHobbiesSection: {
+    marginBottom: 52,
+  },
+  chesterSectionHeading: {
+    fontFamily: "'Caveat', cursive",
+    fontSize: 26,
+    fontWeight: 600,
+    color: "#2B5054",
+    margin: "0 0 18px",
+  },
+  chesterPhotoGrid: {
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fill, minmax(210px, 1fr))",
+    gap: 12,
+  },
+  chesterPhotoCard: {
+    background: "#fff",
+    borderRadius: 14,
+    overflow: "hidden",
+    border: "1px solid rgba(0,0,0,0.07)",
+    boxShadow: "0 2px 8px rgba(0,0,0,0.04)",
+    cursor: "pointer",
+    textAlign: "left",
+    display: "flex",
+    flexDirection: "column",
+    width: "100%",
+  },
+  chesterPhotoImg: {
+    width: "100%",
+    height: 180,
+    objectFit: "cover",
+    display: "block",
+  },
+  chesterPhotoPlaceholder: {
+    height: 150,
+    background: "#f0ede8",
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    fontSize: 32,
+  },
+  chesterMusicGrid: {
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fill, minmax(280px, 1fr))",
+    gap: 10,
+  },
+  chesterMusicCard: {
+    background: "#fff",
+    borderRadius: 12,
+    overflow: "hidden",
+    border: "1px solid rgba(0,0,0,0.07)",
+    cursor: "pointer",
+    textAlign: "left",
+    display: "flex",
+    flexDirection: "column",
+    width: "100%",
+  },
+  chesterMusicBody: {
+    display: "flex",
+    alignItems: "center",
+    gap: 14,
+    padding: "10px 18px 16px",
+  },
+  chesterMusicNote: {
+    fontSize: 28,
+    color: "#2B5054",
+    flexShrink: 0,
+    lineHeight: 1,
   },
   aboutBioRow: {
     display: "flex",
