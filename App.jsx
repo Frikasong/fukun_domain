@@ -10,8 +10,9 @@ const TRANSLATIONS = {
     langToggle: "中文",
     nav: {
       info: "About", professional: "Work", personal: "Life",
-      about: "Info", tech: "Tech", law: "Law", investment: "Investment", essays: "Essays",
-      music: "Weekly Music", photography: "Photos", contact: "Contact",
+      projects: "Projects", writing: "Writing", hobbies: "Hobbies",
+      about: "About", tech: "Legal AI Lab", law: "Law", investment: "Investment", essays: "Essays",
+      music: "Music", photography: "Photos", contact: "Contact",
       taglineLaw: "Law", taglineTech: "Technology", taglineIdeas: "Ideas",
       techSub: "Legal AI · Tools",
       lawSub: "Legal Research",
@@ -103,9 +104,10 @@ const TRANSLATIONS = {
     site: { name: "Fukun", tagline: "法律 · 科技 · 思想" },
     langToggle: "EN",
     nav: {
-      info: "信息", professional: "工作", personal: "生活",
-      about: "关于", tech: "科技", law: "法律", investment: "投资", essays: "文章",
-      music: "每周音乐", photography: "照片", contact: "联系",
+      info: "关于", professional: "工作", personal: "生活",
+      projects: "项目", writing: "写作", hobbies: "爱好",
+      about: "关于", tech: "法律AI实验室", law: "法律", investment: "投资", essays: "文章",
+      music: "音乐", photography: "照片", contact: "联系",
       techSub: "法律AI · 工具",
       lawSub: "法律研究",
       investmentSub: "市场分析",
@@ -197,15 +199,15 @@ const TRANSLATIONS = {
 
 // ─── Section Configuration ──────────────────────────────────────────────────
 const SECTIONS = [
-  { id: "about", name: "About", icon: "👋", type: "info" },
-  { id: "insights", name: "Insights", icon: "💡", type: "hidden" },
-  { id: "tech", name: "Tech", subtitle: "Legal AI · Tools", icon: "💻", type: "professional" },
-  { id: "law", name: "Law", subtitle: "Legal Research", icon: "⚖️", type: "professional" },
-  { id: "investment", name: "Investment", subtitle: "Market Analysis", icon: "📈", type: "professional" },
-  { id: "essays", name: "Essays", subtitle: "Writing", icon: "✍️", type: "personal" },
-  { id: "music", name: "Weekly Music", icon: "🎵", type: "personal" },
-  { id: "photography", name: "Photos", icon: "📷", type: "personal" },
-  { id: "contact", name: "Contact", icon: "📧", type: "info" },
+  { id: "about",      name: "About",        icon: "👋", type: "info"     },
+  { id: "insights",   name: "Insights",     icon: "💡", type: "hidden"   },
+  { id: "tech",       name: "Legal AI Lab", subtitle: "Legal AI · Tools",   icon: "⚖️", type: "projects" },
+  { id: "investment", name: "Investment",   subtitle: "Market Analysis",     icon: "📈", type: "projects" },
+  { id: "law",        name: "Law",          subtitle: "Legal Research",      icon: "📚", type: "writing"  },
+  { id: "essays",     name: "Essays",       subtitle: "Writing",             icon: "✍️", type: "writing"  },
+  { id: "music",      name: "Music",        icon: "🎵", type: "hobbies"  },
+  { id: "photography",name: "Photos",       icon: "📷", type: "hobbies"  },
+  { id: "contact",    name: "Contact",      icon: "📧", type: "info"     },
 ];
 
 // Maps old section IDs to new consolidated sections (for localStorage backwards compat)
@@ -479,23 +481,20 @@ function App() {
                 {T.nav.info}
               </button>
 
-              {/* Work dropdown */}
+              {/* Projects dropdown */}
               <div
                 style={styles.navDropdownWrap}
-                onMouseEnter={() => setHoveredGroup("professional")}
+                onMouseEnter={() => setHoveredGroup("projects")}
                 onMouseLeave={() => setHoveredGroup(null)}
               >
-                <button style={{ ...styles.pillNavLink, ...((activeSection === "tech" || activeSection === "law" || activeSection === "investment") ? styles.pillNavLinkActive : {}) }}>
-                  {T.nav.professional}
+                <button style={{ ...styles.pillNavLink, ...(SECTIONS.filter(s => s.type === "projects").some(s => s.id === activeSection) ? styles.pillNavLinkActive : {}) }}>
+                  {T.nav.projects}
                 </button>
-                {hoveredGroup === "professional" && (
+                {hoveredGroup === "projects" && (
                   <div style={styles.pillNavDropdown}>
-                    {SECTIONS.filter((s) => s.type === "professional").map((section) => (
-                      <button
-                        key={section.id}
-                        style={styles.pillNavDropItem}
-                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
-                      >
+                    {SECTIONS.filter((s) => s.type === "projects").map((section) => (
+                      <button key={section.id} style={styles.pillNavDropItem}
+                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}>
                         {section.icon} {T.nav[section.id] || section.name}
                       </button>
                     ))}
@@ -503,23 +502,45 @@ function App() {
                 )}
               </div>
 
-              {/* Life dropdown */}
+              {/* Writing dropdown */}
               <div
                 style={styles.navDropdownWrap}
-                onMouseEnter={() => setHoveredGroup("personal")}
+                onMouseEnter={() => setHoveredGroup("writing")}
                 onMouseLeave={() => setHoveredGroup(null)}
               >
-                <button style={{ ...styles.pillNavLink, ...((activeSection === "essays" || activeSection === "music" || activeSection === "photography") ? styles.pillNavLinkActive : {}) }}>
-                  {T.nav.personal}
+                <button style={{ ...styles.pillNavLink, ...(SECTIONS.filter(s => s.type === "writing").some(s => s.id === activeSection) || activeSection === "insights" ? styles.pillNavLinkActive : {}) }}>
+                  {T.nav.writing}
                 </button>
-                {hoveredGroup === "personal" && (
+                {hoveredGroup === "writing" && (
                   <div style={styles.pillNavDropdown}>
-                    {SECTIONS.filter((s) => s.type === "personal").map((section) => (
-                      <button
-                        key={section.id}
-                        style={styles.pillNavDropItem}
-                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
-                      >
+                    {SECTIONS.filter((s) => s.type === "writing").map((section) => (
+                      <button key={section.id} style={styles.pillNavDropItem}
+                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}>
+                        {section.icon} {T.nav[section.id] || section.name}
+                      </button>
+                    ))}
+                    <button style={styles.pillNavDropItem}
+                      onClick={() => { setActiveSection("insights"); setView("grid"); setHoveredGroup(null); }}>
+                      💡 {lang === "zh" ? "所有洞见" : "All Insights"}
+                    </button>
+                  </div>
+                )}
+              </div>
+
+              {/* Hobbies dropdown */}
+              <div
+                style={styles.navDropdownWrap}
+                onMouseEnter={() => setHoveredGroup("hobbies")}
+                onMouseLeave={() => setHoveredGroup(null)}
+              >
+                <button style={{ ...styles.pillNavLink, ...(SECTIONS.filter(s => s.type === "hobbies").some(s => s.id === activeSection) ? styles.pillNavLinkActive : {}) }}>
+                  {T.nav.hobbies}
+                </button>
+                {hoveredGroup === "hobbies" && (
+                  <div style={styles.pillNavDropdown}>
+                    {SECTIONS.filter((s) => s.type === "hobbies").map((section) => (
+                      <button key={section.id} style={styles.pillNavDropItem}
+                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}>
                         {section.icon} {T.nav[section.id] || section.name}
                       </button>
                     ))}
@@ -567,24 +588,32 @@ function App() {
               </button>
             </div>
             <div style={styles.mobilePanelGroup}>
-              <div style={styles.mobilePanelGroupHeader}>{T.nav.professional}</div>
-              {SECTIONS.filter((s) => s.type === "professional").map((section) => {
+              <div style={styles.mobilePanelGroupHeader}>{T.nav.projects}</div>
+              {SECTIONS.filter((s) => s.type === "projects").map((section) => {
                 const label = T.nav[section.id] || section.name;
-                const subtitle = T.nav[section.id + "Sub"];
                 return (
                   <button key={section.id} style={{ ...styles.mobilePanelItem, ...(activeSection === section.id ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}>
                     <span>{section.icon}</span>
-                    <span style={styles.mobilePanelItemText}>
-                      {label}
-                      {subtitle && <span style={styles.mobilePanelItemSub}>{subtitle}</span>}
-                    </span>
+                    <span style={styles.mobilePanelItemText}>{label}</span>
                   </button>
                 );
               })}
             </div>
             <div style={styles.mobilePanelGroup}>
-              <div style={styles.mobilePanelGroupHeader}>{T.nav.personal}</div>
-              {SECTIONS.filter((s) => s.type === "personal").map((section) => {
+              <div style={styles.mobilePanelGroupHeader}>{T.nav.writing}</div>
+              {SECTIONS.filter((s) => s.type === "writing").map((section) => {
+                const label = T.nav[section.id] || section.name;
+                return (
+                  <button key={section.id} style={{ ...styles.mobilePanelItem, ...(activeSection === section.id ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}>
+                    <span>{section.icon}</span>
+                    <span style={styles.mobilePanelItemText}>{label}</span>
+                  </button>
+                );
+              })}
+            </div>
+            <div style={styles.mobilePanelGroup}>
+              <div style={styles.mobilePanelGroupHeader}>{T.nav.hobbies}</div>
+              {SECTIONS.filter((s) => s.type === "hobbies").map((section) => {
                 const label = T.nav[section.id] || section.name;
                 return (
                   <button key={section.id} style={{ ...styles.mobilePanelItem, ...(activeSection === section.id ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}>
@@ -682,44 +711,44 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     const tiles = [
       {
         key: "legal-ai-lab",
-        category: lang === "zh" ? "工作" : "Work",
+        category: lang === "zh" ? "项目" : "Projects",
         label: lang === "zh" ? "法律AI实验室" : "Legal AI Lab",
-        sub: lang === "zh" ? "工具与研究" : "Tools & research at the frontier of law and AI",
+        sub: lang === "zh" ? "工具与研究" : "Tools at the frontier of law & AI",
         onClick: () => { setActiveSection("tech"); setView("grid"); setTechTab("lab"); },
       },
       {
-        key: "insights",
-        category: lang === "zh" ? "工作" : "Work",
+        key: "writing",
+        category: lang === "zh" ? "写作" : "Writing",
         label: lang === "zh" ? "洞见" : "Insights",
         sub: lang === "zh" ? "法律 · 科技 · 分析" : "Law, tech & analysis",
         onClick: () => { setActiveSection("insights"); setView("grid"); },
       },
       {
         key: "tech-brew",
-        category: lang === "zh" ? "工具" : "Tools",
+        category: lang === "zh" ? "项目" : "Projects",
         label: lang === "zh" ? "科技资讯" : "Tech Updates",
         sub: lang === "zh" ? "自动新闻雷达" : "Auto news radar",
         href: "news-radar.html",
       },
       {
         key: "music",
-        category: lang === "zh" ? "生活" : "Life",
+        category: lang === "zh" ? "爱好" : "Hobbies",
         label: lang === "zh" ? "音乐" : "Music",
         sub: lang === "zh" ? "每周精选" : "Weekly picks",
         onClick: () => { setActiveSection("music"); setView("grid"); },
       },
       {
         key: "photos",
-        category: lang === "zh" ? "生活" : "Life",
+        category: lang === "zh" ? "爱好" : "Hobbies",
         label: lang === "zh" ? "照片" : "Photos",
         sub: lang === "zh" ? "摄影" : "Photography",
         onClick: () => { setActiveSection("photography"); setView("grid"); },
       },
       {
-        key: "shares",
-        category: lang === "zh" ? "生活" : "Life",
-        label: lang === "zh" ? "分享" : "Shares",
-        sub: lang === "zh" ? "随笔与思考" : "Essays & thoughts",
+        key: "essays",
+        category: lang === "zh" ? "写作" : "Writing",
+        label: lang === "zh" ? "随笔" : "Essays",
+        sub: lang === "zh" ? "随笔与思考" : "Thoughts & reflections",
         onClick: () => { setActiveSection("essays"); setView("grid"); },
       },
     ];
@@ -746,8 +775,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             <p style={{ ...styles.aboutText, marginBottom: 28 }}>{T.about.bg2}</p>
 
             {/* Portrait */}
-            <div style={{ ...styles.aboutPortraitCard, width: 150, marginBottom: 28 }}>
-              <img src="portrait.jpg?v=7" alt="Fukun Yang" style={styles.aboutPortraitImg} />
+            <div style={{ ...styles.aboutPortraitCard, width: 185, marginBottom: 28, borderRadius: 16 }}>
+              <img src="portrait.jpg?v=7" alt="Fukun Yang" style={{ ...styles.aboutPortraitImg, aspectRatio: "3/4", objectPosition: "center 22%" }} />
               <div style={styles.aboutPortraitGlass} />
             </div>
 
@@ -1984,19 +2013,20 @@ const styles = {
     display: "flex",
     alignItems: "center",
     gap: 6,
-    padding: "8px 16px",
-    border: "1px solid rgba(192, 200, 201, 0.2)",
-    borderRadius: 6,
-    background: "#fff",
-    color: "#666",
-    fontSize: 13,
-    fontWeight: 500,
+    padding: "7px 18px",
+    border: "1px solid rgba(43,80,84,0.18)",
+    borderRadius: 30,
+    background: "rgba(250,247,243,0.9)",
+    color: "#2B5054",
+    fontFamily: "'Caveat', cursive",
+    fontSize: 16,
+    fontWeight: 600,
     cursor: "pointer",
     transition: "all 0.2s",
   },
   techSubTabActive: {
-    background: "linear-gradient(135deg, #12393d 0%, #2b5054 100%)",
-    borderColor: "rgba(192, 200, 201, 0.2)",
+    background: "#2B5054",
+    borderColor: "#2B5054",
     color: "#fff",
   },
   newsBlock: {
@@ -2154,14 +2184,14 @@ const styles = {
     opacity: 0.8,
   },
   sectionTitle: {
-    fontFamily: "'Newsreader', serif",
-    fontSize: "clamp(28px, 4.2vw, 42px)",
-    fontWeight: 400,
-    fontStyle: "italic",
+    fontFamily: "'Caveat', cursive",
+    fontSize: "clamp(32px, 4.8vw, 52px)",
+    fontWeight: 600,
+    fontStyle: "normal",
     margin: 0,
-    color: "#111416",
-    letterSpacing: "-0.5px",
-    lineHeight: 0.88,
+    color: "#2B5054",
+    letterSpacing: "-0.2px",
+    lineHeight: 1,
   },
   noItalic: {
     fontStyle: "normal",
@@ -2926,12 +2956,11 @@ const styles = {
     gap: 32,
   },
   laiLabel: {
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 11,
-    fontWeight: 700,
-    letterSpacing: "2.5px",
-    color: "#8EA1A4",
-    textTransform: "uppercase",
+    fontFamily: "'Caveat', cursive",
+    fontSize: 16,
+    fontWeight: 600,
+    letterSpacing: "0.2px",
+    color: "#2B5054",
   },
   laiPillars: {
     display: "flex",
@@ -3150,7 +3179,7 @@ const styles = {
     whiteSpace: "pre-line",
   },
   aboutHeroAccent: {
-    borderBottom: "2.5px solid #c9836a",
+    borderBottom: "2.5px solid #2B5054",
     paddingBottom: 2,
   },
   // Bento section cards (chester.how style)
@@ -3180,12 +3209,11 @@ const styles = {
     alignItems: "flex-start",
   },
   bentoCardCategory: {
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 10,
-    fontWeight: 700,
-    color: "#bbb",
-    letterSpacing: "0.8px",
-    textTransform: "uppercase",
+    fontFamily: "'Caveat', cursive",
+    fontSize: 13,
+    fontWeight: 600,
+    color: "#2B5054",
+    letterSpacing: "0.2px",
   },
   bentoCardArrow: {
     fontSize: 13,
@@ -3261,12 +3289,11 @@ const styles = {
   },
   hubTilesSection: {},
   hubTilesLabel: {
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 10,
-    fontWeight: 700,
-    color: "#8EA1A4",
-    letterSpacing: "2.5px",
-    textTransform: "uppercase",
+    fontFamily: "'Caveat', cursive",
+    fontSize: 16,
+    fontWeight: 600,
+    color: "#2B5054",
+    letterSpacing: "0.2px",
     margin: "0 0 4px 0",
   },
   hubTilesList: {
@@ -3355,7 +3382,7 @@ const styles = {
 // ═══════════════════════════════════════════════════════════════════════════
 (function () {
   const link = document.createElement("link");
-  link.href = "https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Public+Sans:wght@400;500;600;700&display=swap";
+  link.href = "https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&family=DM+Serif+Display:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Public+Sans:wght@400;500;600;700&display=swap";
   link.rel = "stylesheet";
   document.head.appendChild(link);
 })();
