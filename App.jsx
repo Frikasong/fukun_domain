@@ -778,7 +778,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
 
         {/* Glass portrait card — horizontal */}
         <div style={styles.aboutPortraitCard}>
-          <img src="portrait.jpg?v=5" alt="Fukun Yang" style={styles.aboutPortraitImg} />
+          <img src="portrait.jpg?v=6" alt="Fukun Yang" style={styles.aboutPortraitImg} />
           <div style={styles.aboutPortraitGlass} />
         </div>
 
@@ -3155,8 +3155,8 @@ const styles = {
     display: "block",
     width: "100%",
     aspectRatio: "16/9",
-    objectFit: "cover",
-    objectPosition: "center 20%",
+    objectFit: "contain",
+    background: "#111",
   },
   aboutPortraitGlass: {
     position: "absolute",
