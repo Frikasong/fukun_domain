@@ -501,6 +501,7 @@ function App() {
               ].map(item => (
                 <button
                   key={item.id}
+                  className="pill-nav-btn"
                   style={{ ...styles.pillNavLink, ...(activeSection === item.id ? styles.pillNavLinkActive : {}) }}
                   onClick={() => { setActiveSection(item.id); setView("grid"); }}
                 >
@@ -517,8 +518,8 @@ function App() {
           {/* Right: links + lang (desktop) / hamburger (mobile) */}
           {!isMobile ? (
             <div style={styles.headerRight}>
-              <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" style={styles.headerRightLink}>LinkedIn</a>
-              <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" style={styles.headerRightLink}>GitHub</a>
+              <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" className="hdr-link" style={styles.headerRightLink}>LinkedIn</a>
+              <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" className="hdr-link" style={styles.headerRightLink}>GitHub</a>
               <button style={styles.langToggleNew} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
                 {T.langToggle}
               </button>
@@ -646,7 +647,7 @@ function App() {
       <footer style={styles.footer}>
         <div style={{ ...styles.footerContent, flexDirection: isMobile ? "column" : "row", alignItems: isMobile ? "flex-start" : "center", gap: isMobile ? 10 : 0 }}>
           <span>{T.footer}</span>
-          <a href="mailto:frikasong@gmail.com" style={styles.footerLink}>
+          <a href="mailto:frikasong@gmail.com" className="footer-link-a" style={styles.footerLink}>
             frikasong@gmail.com
           </a>
         </div>
@@ -724,7 +725,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             {/* Hero greeting */}
             <h1 style={{ ...styles.aboutHero, fontSize: isNarrow ? 38 : 52 }}>
               {lang === "zh" ? (
-                <>嗨，我是{"\n"}<span style={styles.aboutHeroAccent}>杨馥坤</span> 👋</>
+                <>嗨，我是{"\n"}<span style={styles.aboutHeroAccent}>Fukun</span> 👋</>
               ) : (
                 <>Hey there, I'm{"\n"}<span style={styles.aboutHeroAccent}>Fukun</span> 👋</>
               )}
@@ -744,30 +745,30 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             <p style={styles.aboutText}>{T.about.int1}</p>
             <p style={{ ...styles.aboutText, marginBottom: 36 }}>
               {T.about.int2}{' '}
-              <span style={styles.aboutConnectLink} onClick={scrollToConnect}>{T.about.connect}</span>!
+              <span className="about-connect-sp" style={styles.aboutConnectLink} onClick={scrollToConnect}>{T.about.connect}</span>!
             </p>
 
             {/* Connect links */}
             <div id="hub-connect" style={{ marginTop: 4 }}>
+              <p style={{ fontFamily: "'DM Serif Display', serif", fontStyle: "italic", fontSize: 20, color: "#2B5054", margin: "0 0 14px" }}>
+                {lang === "zh" ? "欢迎联系~" : "Let's connect!"}
+              </p>
               <div style={styles.hubConnectLinks}>
-                <a href="mailto:frikasong@gmail.com" style={styles.hubConnectLink}>{T.contact.email}</a>
+                <a href="mailto:frikasong@gmail.com" className="hub-link" style={styles.hubConnectLink}>{T.contact.email}</a>
                 <span style={styles.hubConnectDot}>·</span>
-                <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.linkedin}</a>
+                <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.linkedin}</a>
                 <span style={styles.hubConnectDot}>·</span>
-                <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.instagram}</a>
+                <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.instagram}</a>
                 <span style={styles.hubConnectDot}>·</span>
-                <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.github}</a>
+                <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.github}</a>
                 <span style={styles.hubConnectDot}>·</span>
-                <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.rednote}</a>
+                <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.rednote}</a>
               </div>
             </div>
           </div>
 
           {/* ── Right column: bento section cards ── */}
           <div style={isNarrow ? { width: "100%", marginTop: 48 } : styles.aboutRight}>
-            <p style={{ ...styles.hubTilesLabel, marginBottom: 14 }}>
-              {lang === "zh" ? "探索" : "Explore"}
-            </p>
             <div style={styles.bentoGrid}>
               {tiles.map((tile) =>
                 tile.href ? (
@@ -776,6 +777,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                     href={tile.href}
                     target="_blank"
                     rel="noopener noreferrer"
+                    className="bento-card-el"
                     style={styles.bentoCard}
                   >
                     <div style={styles.bentoCardTop}>
@@ -786,7 +788,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                     <p style={styles.bentoCardDesc}>{tile.sub}</p>
                   </a>
                 ) : (
-                  <button key={tile.key} style={styles.bentoCard} onClick={tile.onClick}>
+                  <button key={tile.key} className="bento-card-el" style={styles.bentoCard} onClick={tile.onClick}>
                     <div style={styles.bentoCardTop}>
                       <span style={styles.bentoCardCategory}>{tile.category}</span>
                       <span style={styles.bentoCardArrow}>→</span>
@@ -832,7 +834,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
       <div style={styles.chesterPage}>
         <div style={styles.chesterGrid}>
           {tools.map(tool => (
-            <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" style={styles.chesterToolCard}>
+            <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" className="chester-tool-a" style={styles.chesterToolCard}>
               <div style={styles.chesterCardMeta}>
                 <span style={styles.chesterCardLabel}>{tool.label}</span>
                 <span style={styles.chesterCardArrowIcon}>↗</span>
@@ -875,6 +877,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
               return (
                 <button
                   key={`${entry.notionPageId || entry.id}-${i}`}
+                  className="chester-post-btn"
                   style={styles.chesterPostCard}
                   onClick={() => onOpenPost(entry)}
                 >
@@ -1842,8 +1845,8 @@ const styles = {
   pillNavBrand: {
     fontFamily: "'Newsreader', serif",
     fontSize: 17,
-    fontWeight: 500,
-    color: "#1c1c1c",
+    fontWeight: 600,
+    color: "#2B5054",
     background: "none",
     border: "none",
     cursor: "pointer",
@@ -1870,8 +1873,8 @@ const styles = {
     position: "relative",
   },
   pillNavLinkActive: {
-    color: "#1c1c1c",
-    background: "rgba(0,0,0,0.07)",
+    color: "#fff",
+    background: "#2B5054",
     fontWeight: 600,
   },
   pillNavDropdown: {
@@ -2133,8 +2136,8 @@ const styles = {
     borderRadius: 30,
     background: "rgba(250,247,243,0.9)",
     color: "#2B5054",
-    fontFamily: "'Caveat', cursive",
-    fontSize: 16,
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 13,
     fontWeight: 600,
     cursor: "pointer",
     transition: "all 0.2s",
@@ -2299,14 +2302,14 @@ const styles = {
     opacity: 0.8,
   },
   sectionTitle: {
-    fontFamily: "'Caveat', cursive",
-    fontSize: "clamp(32px, 4.8vw, 52px)",
-    fontWeight: 600,
-    fontStyle: "normal",
+    fontFamily: "'DM Serif Display', 'Newsreader', serif",
+    fontSize: "clamp(28px, 4vw, 46px)",
+    fontWeight: 400,
+    fontStyle: "italic",
     margin: 0,
     color: "#2B5054",
-    letterSpacing: "-0.2px",
-    lineHeight: 1,
+    letterSpacing: "-0.3px",
+    lineHeight: 1.1,
   },
   noItalic: {
     fontStyle: "normal",
@@ -3071,10 +3074,11 @@ const styles = {
     gap: 32,
   },
   laiLabel: {
-    fontFamily: "'Caveat', cursive",
-    fontSize: 16,
-    fontWeight: 600,
-    letterSpacing: "0.2px",
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 10,
+    fontWeight: 700,
+    letterSpacing: "1.5px",
+    textTransform: "uppercase",
     color: "#2B5054",
   },
   laiPillars: {
@@ -3324,11 +3328,12 @@ const styles = {
     alignItems: "flex-start",
   },
   bentoCardCategory: {
-    fontFamily: "'Caveat', cursive",
-    fontSize: 13,
-    fontWeight: 600,
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 10,
+    fontWeight: 700,
     color: "#2B5054",
-    letterSpacing: "0.2px",
+    textTransform: "uppercase",
+    letterSpacing: "1px",
   },
   bentoCardArrow: {
     fontSize: 13,
@@ -3381,10 +3386,12 @@ const styles = {
     padding: "13px 18px 10px",
   },
   chesterCardLabel: {
-    fontFamily: "'Caveat', cursive",
-    fontSize: 14,
-    fontWeight: 600,
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 10,
+    fontWeight: 700,
     color: "#2B5054",
+    textTransform: "uppercase",
+    letterSpacing: "0.8px",
   },
   chesterCardArrowIcon: {
     fontSize: 14,
@@ -3487,9 +3494,10 @@ const styles = {
     marginBottom: 52,
   },
   chesterSectionHeading: {
-    fontFamily: "'Caveat', cursive",
-    fontSize: 26,
-    fontWeight: 600,
+    fontFamily: "'DM Serif Display', 'Newsreader', serif",
+    fontSize: 28,
+    fontWeight: 400,
+    fontStyle: "italic",
     color: "#2B5054",
     margin: "0 0 18px",
   },
@@ -3606,11 +3614,12 @@ const styles = {
   },
   hubTilesSection: {},
   hubTilesLabel: {
-    fontFamily: "'Caveat', cursive",
-    fontSize: 16,
-    fontWeight: 600,
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 10,
+    fontWeight: 700,
     color: "#2B5054",
-    letterSpacing: "0.2px",
+    textTransform: "uppercase",
+    letterSpacing: "1.5px",
     margin: "0 0 4px 0",
   },
   hubTilesList: {
@@ -3695,13 +3704,96 @@ const styles = {
   },
 };
 
-// FONTS
+// FONTS + HOVER CSS
 // ═══════════════════════════════════════════════════════════════════════════
 (function () {
   const link = document.createElement("link");
-  link.href = "https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&family=DM+Serif+Display:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Public+Sans:wght@400;500;600;700&display=swap";
+  link.href = "https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Public+Sans:wght@400;500;600;700&display=swap";
   link.rel = "stylesheet";
   document.head.appendChild(link);
+
+  const css = document.createElement("style");
+  css.textContent = `
+    /* ── Nav pill link hover ── */
+    .pill-nav-btn:not([style*="background: rgb(43"]):hover {
+      color: #2B5054 !important;
+      background: rgba(43,80,84,0.07) !important;
+    }
+
+    /* ── Header links: animated sliding underline ── */
+    .hdr-link {
+      position: relative;
+      text-decoration: none !important;
+    }
+    .hdr-link::after {
+      content: "";
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 0;
+      height: 1.5px;
+      background: #2B5054;
+      transition: width 0.22s ease;
+    }
+    .hdr-link:hover { color: #2B5054 !important; }
+    .hdr-link:hover::after { width: 100%; }
+
+    /* ── About connect inline link: wavy underline ── */
+    .about-connect-sp:hover {
+      text-decoration: underline wavy #2B5054 !important;
+      text-underline-offset: 3px;
+      border-bottom-color: transparent !important;
+    }
+
+    /* ── Hub connect links: morph to wavy on hover ── */
+    .hub-link { text-decoration: none !important; }
+    .hub-link:hover {
+      color: #12393d !important;
+      text-decoration: underline wavy #2B5054 !important;
+      text-underline-offset: 4px;
+      border-bottom-color: transparent !important;
+    }
+
+    /* ── Bento cards: lift + teal border ── */
+    .bento-card-el {
+      transition: box-shadow 0.18s, transform 0.18s, border-color 0.18s !important;
+    }
+    .bento-card-el:hover {
+      transform: translateY(-3px) !important;
+      box-shadow: 0 10px 28px rgba(43,80,84,0.13) !important;
+      border-color: rgba(43,80,84,0.28) !important;
+    }
+
+    /* ── Chester tool cards: lift + teal glow ── */
+    .chester-tool-a {
+      transition: box-shadow 0.2s, border-color 0.2s, transform 0.2s !important;
+    }
+    .chester-tool-a:hover {
+      transform: translateY(-4px) !important;
+      box-shadow: 0 14px 40px rgba(43,80,84,0.18) !important;
+      border-color: rgba(43,80,84,0.3) !important;
+    }
+
+    /* ── Chester post cards: soft lift ── */
+    .chester-post-btn {
+      transition: box-shadow 0.15s, border-color 0.15s, transform 0.15s !important;
+    }
+    .chester-post-btn:hover {
+      transform: translateY(-2px) !important;
+      box-shadow: 0 6px 20px rgba(43,80,84,0.12) !important;
+      border-color: rgba(43,80,84,0.22) !important;
+    }
+
+    /* ── Footer link: wavy underline on hover ── */
+    .footer-link-a { transition: color 0.15s !important; }
+    .footer-link-a:hover {
+      color: #2B5054 !important;
+      text-decoration: underline wavy #2B5054 !important;
+      text-underline-offset: 3px;
+      border-bottom-color: transparent !important;
+    }
+  `;
+  document.head.appendChild(css);
 })();
 
 // ─── Mount ────────────────────────────────────────────────────────────────────
