@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-25T03:46:55.269Z",
+  "generatedAt": "2026-03-25T03:59:07.528Z",
   "source": "notion",
   "entries": [
     {
-      "id": 55713777900639,
-      "notionPageId": "32abdff0-dc5f-8146-9b39-c2dbfea7308d",
-      "title": "Week 10 Reflection: The HRTO Got Its Reasoning Wrong — and the Court Said So",
-      "date": "2026-03-21",
+      "id": 55988655807583,
+      "notionPageId": "32ebdff0-dc5f-81bc-b270-ff4b100f1ad1",
+      "title": "Week 11 Reflection: When Courts Don't Defer — Correctness Review and the Limits of Vavilov",
+      "date": "2026-03-24",
       "section": "law",
       "author": [
         "Fukun"
@@ -17,57 +17,26 @@
       ],
       "blocks": [
         {
-          "type": "divider",
-          "rich_text": [],
-          "children": []
-        },
-        {
-          "type": "heading_1",
+          "type": "paragraph",
           "rich_text": [
             {
-              "text": "Week 10 Reflection: The HRTO Got Its Reasoning Wrong — and the Court Said So",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "heading_3",
-          "rich_text": [
-            {
-              "text": "Admin Law in Daily Life · Week of March 17, 2026",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "quote",
-          "rich_text": [
-            {
-              "text": "This week in class:",
+              "text": "Admin Law | Week of March 24, 2026",
               "href": null,
               "bold": true,
-              "italic": false,
+              "italic": true,
               "code": false,
               "strike": false,
               "underline": false,
               "color": null
-            },
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
             {
-              "text": " Standard of review — choosing and applying. The ",
+              "text": "This week the course returned to the ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -87,10 +56,410 @@
               "color": null
             },
             {
-              "text": " framework. What reasonableness actually demands from a decision-maker. When do courts intervene, and when do they defer?",
+              "text": " framework to examine its limits. The presumption of reasonableness review — which we covered in Week 10 — is just that: a presumption. ",
               "href": null,
               "bold": false,
               "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Vavilov",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " carved out four categories where correctness applies instead: constitutional questions, questions of central importance to the legal system outside the adjudicator's expertise, questions regarding jurisdictional boundaries between administrative bodies, and cases with a legislated standard of review. The most practically significant of these is the first. When a decision raises a genuine constitutional question — whether the decision-maker had authority to act, whether a statute conforms to the ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Constitution Act",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": ", whether a Charter right was engaged — courts do not defer to the decision-maker's own view. They apply their own judgment, because the question of constitutional validity cannot, by its nature, be left to the institution whose authority is in question. The week also covered ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Doré v Barreau du Québec",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " (2012 SCC 12), which governs how Charter rights are treated when they are engaged not by a statute but by a discretionary administrative decision — and ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "York Region District School Board v Elementary Teachers' Federation of Ontario",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " (2024 SCC 22), which clarified that the threshold question of whether a Charter right is engaged attracts correctness, while the proportionate balancing that follows is reviewed for reasonableness.",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "In February 2026, the Federal Court of Appeal released ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Canada (Attorney General) v Canadian Civil Liberties Association",
+              "href": "https://www.administrativelawmatters.com/blog/2026/02/18/not-such-an-emergency-canada-attorney-general-v-canadian-civil-liberties-association-2026-fca-6/",
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": ", 2026 FCA 6. The case arose from the federal government's invocation of the ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Emergencies Act",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " in February 2022, during the Freedom Convoy protests in Ottawa. The Federal Court had already found in 2024 that the invocation was unlawful — the statutory threshold conditions for declaring a public order emergency had not been satisfied. The federal government appealed, arguing among other things that Cabinet decisions of this nature are not reviewable by federal courts at all. The FCA rejected that argument directly: Cabinet exercises statutory powers vested by legislation, and its decisions are accordingly subject to judicial review. There is no category of Cabinet decision that is simply immune from review.",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "Applying the ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Vavilov",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " framework, the legal analysis is relatively clean. The question of whether the ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Emergencies Act",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " invocation satisfied the constitutional and statutory conditions for its exercise is a constitutional and statutory scope question — it attracts correctness review, not reasonableness. Courts do not defer to a decision-maker's view on whether it had legal authority to act in the first place. That is precisely what the correctness exception for constitutional questions is designed to address. The government's argument for non-reviewability, if accepted, would have created a constitutional accountability gap — a domain of executive action insulated from independent judicial oversight — that conflicts not only with ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Vavilov",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " but with the deeper principle from ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Crevier",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " that jurisdictional and constitutional questions must remain reviewable. The FCA's answer reaffirmed that the scale of the decision, or the seniority of the decision-maker, does not change the basic constitutional structure.",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "The ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "York Region",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " case adds a further layer that is relevant if the ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Emergencies Act",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " invocation also engaged Charter rights. Protesters argued that restrictions on the convoy engaged their s.2 rights (freedom of expression and peaceful assembly) and potentially s.7 (security of the person). Under the ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "York Region",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " framework, the threshold question — whether a Charter right was engaged at all — is a correctness question. But once engagement is established, ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Doré",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " takes over: the decision-maker must demonstrate that it proportionately balanced the Charter right against the statutory objective it was pursuing. That balancing is reviewed for reasonableness, not correctness. This two-stage structure matters because it determines how much deference a court owes to the government's judgment about the balance struck between emergency powers and protected rights. On the threshold question — engagement — no deference. On the proportionate weighing — deference to reasonable balancing.",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "The ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Emergencies Act",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " litigation is the most significant public law case in recent Canadian history, and it illustrates exactly what correctness review exists to do. Emergency powers, by their nature, operate quickly and broadly, affecting large numbers of people with limited prior consultation. They are also the powers most likely to be misused, because they are invoked in conditions of political pressure and public urgency. The ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Vavilov",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " correctness exception for constitutional questions ensures that when a government reaches for that kind of authority, a court will independently verify that the constitutional conditions for doing so were actually met — not accept the government's own assessment. That independent check is not hostile to administrative expertise; it is the constitutional backstop that makes broad statutory delegation of power legitimate in the first place.",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "Cases referenced: Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65 | Doré v Barreau du Québec, 2012 SCC 12 | York Region District School Board v Elementary Teachers' Federation of Ontario, 2024 SCC 22 | Canada (Attorney General) v Canadian Civil Liberties Association, 2026 FCA 6 | Crevier v AG Quebec, [1981] 2 SCR 220",
+              "href": null,
+              "bold": false,
+              "italic": true,
               "code": false,
               "strike": false,
               "underline": false,
@@ -108,7 +477,215 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "On March 17 — the first class day of our standard of review week — the Ontario Divisional Court released ",
+              "text": "Sources",
+              "href": null,
+              "bold": true,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "bulleted_list_item",
+          "rich_text": [
+            {
+              "text": "Canada (Attorney General) v Canadian Civil Liberties Association, 2026 FCA 6 — Analysis (Administrative Law Matters)",
+              "href": "https://www.administrativelawmatters.com/blog/2026/02/18/not-such-an-emergency-canada-attorney-general-v-canadian-civil-liberties-association-2026-fca-6/",
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "bulleted_list_item",
+          "rich_text": [
+            {
+              "text": "York Region District School Board v ETFO, 2024 SCC 22 — New Correctness Category (Harper Grey)",
+              "href": "https://www.harpergrey.com/administrative-law/the-supreme-court-of-canada-established-a-new-category-of-cases-to-which-the-correctness-standard-of-review-applies/",
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "bulleted_list_item",
+          "rich_text": [
+            {
+              "text": "Doré v Barreau du Québec, 2012 SCC 12 (CanLII)",
+              "href": "https://www.canlii.org/en/ca/scc/doc/2012/2012scc12/2012scc12.html",
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "bulleted_list_item",
+          "rich_text": [
+            {
+              "text": "Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65 (CanLII)",
+              "href": "https://www.canlii.org/en/ca/scc/doc/2019/2019scc65/2019scc65.html",
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "bulleted_list_item",
+          "rich_text": [
+            {
+              "text": "A floodgate of correctness? New correctness categories post-Vavilov (Dentons)",
+              "href": "https://www.commerciallitigationblog.com/a-floodgate-of-correctness-the-supreme-court-of-canada-creates-a-new-category-of-correctness-in-judicial-review/",
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        }
+      ],
+      "body": "Admin Law | Week of March 24, 2026\nThis week the course returned to the Vavilov framework to examine its limits. The presumption of reasonableness review — which we covered in Week 10 — is just that: a presumption. Vavilov carved out four categories where correctness applies instead: constitutional questions, questions of central importance to the legal system outside the adjudicator's expertise, questions regarding jurisdictional boundaries between administrative bodies, and cases with a legislated standard of review. The most practically significant of these is the first. When a decision raises a genuine constitutional question — whether the decision-maker had authority to act, whether a statute conforms to the Constitution Act, whether a Charter right was engaged — courts do not defer to the decision-maker's own view. They apply their own judgment, because the question of constitutional validity cannot, by its nature, be left to the institution whose authority is in question. The week also covered Doré v Barreau du Québec (2012 SCC 12), which governs how Charter rights are treated when they are engaged not by a statute but by a discretionary administrative decision — and York Region District School Board v Elementary Teachers' Federation of Ontario (2024 SCC 22), which clarified that the threshold question of whether a Charter right is engaged attracts correctness, while the proportionate balancing that follows is reviewed for reasonableness.\nIn February 2026, the Federal Court of Appeal released Canada (Attorney General) v Canadian Civil Liberties Association, 2026 FCA 6. The case arose from the federal government's invocation of the Emergencies Act in February 2022, during the Freedom Convoy protests in Ottawa. The Federal Court had already found in 2024 that the invocation was unlawful — the statutory threshold conditions for declaring a public order emergency had not been satisfied. The federal government appealed, arguing among other things that Cabinet decisions of this nature are not reviewable by federal courts at all. The FCA rejected that argument directly: Cabinet exercises statutory powers vested by legislation, and its decisions are accordingly subject to judicial review. There is no category of Cabinet decision that is simply immune from review.\nApplying the Vavilov framework, the legal analysis is relatively clean. The question of whether the Emergencies Act invocation satisfied the constitutional and statutory conditions for its exercise is a constitutional and statutory scope question — it attracts correctness review, not reasonableness. Courts do not defer to a decision-maker's view on whether it had legal authority to act in the first place. That is precisely what the correctness exception for constitutional questions is designed to address. The government's argument for non-reviewability, if accepted, would have created a constitutional accountability gap — a domain of executive action insulated from independent judicial oversight — that conflicts not only with Vavilov but with the deeper principle from Crevier that jurisdictional and constitutional questions must remain reviewable. The FCA's answer reaffirmed that the scale of the decision, or the seniority of the decision-maker, does not change the basic constitutional structure.\nThe York Region case adds a further layer that is relevant if the Emergencies Act invocation also engaged Charter rights. Protesters argued that restrictions on the convoy engaged their s.2 rights (freedom of expression and peaceful assembly) and potentially s.7 (security of the person). Under the York Region framework, the threshold question — whether a Charter right was engaged at all — is a correctness question. But once engagement is established, Doré takes over: the decision-maker must demonstrate that it proportionately balanced the Charter right against the statutory objective it was pursuing. That balancing is reviewed for reasonableness, not correctness. This two-stage structure matters because it determines how much deference a court owes to the government's judgment about the balance struck between emergency powers and protected rights. On the threshold question — engagement — no deference. On the proportionate weighing — deference to reasonable balancing.\nThe Emergencies Act litigation is the most significant public law case in recent Canadian history, and it illustrates exactly what correctness review exists to do. Emergency powers, by their nature, operate quickly and broadly, affecting large numbers of people with limited prior consultation. They are also the powers most likely to be misused, because they are invoked in conditions of political pressure and public urgency. The Vavilov correctness exception for constitutional questions ensures that when a government reaches for that kind of authority, a court will independently verify that the constitutional conditions for doing so were actually met — not accept the government's own assessment. That independent check is not hostile to administrative expertise; it is the constitutional backstop that makes broad statutory delegation of power legitimate in the first place.\nCases referenced: Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65 | Doré v Barreau du Québec, 2012 SCC 12 | York Region District School Board v Elementary Teachers' Federation of Ontario, 2024 SCC 22 | Canada (Attorney General) v Canadian Civil Liberties Association, 2026 FCA 6 | Crevier v AG Quebec, [1981] 2 SCR 220\n---\nSources\nCanada (Attorney General) v Canadian Civil Liberties Association, 2026 FCA 6 — Analysis (Administrative Law Matters)\nYork Region District School Board v ETFO, 2024 SCC 22 — New Correctness Category (Harper Grey)\nDoré v Barreau du Québec, 2012 SCC 12 (CanLII)\nCanada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65 (CanLII)\nA floodgate of correctness? New correctness categories post-Vavilov (Dentons)",
+      "summary": "Admin Law | Week of March 24, 2026 This week the course returned to the Vavilov framework to examine its limits. The presumption of reasonableness review — which we covered in Week 10 — is just that: a presumption. Vavilov carved out four categories where correctness applies ins…",
+      "images": [],
+      "attachments": []
+    },
+    {
+      "id": 55713777900639,
+      "notionPageId": "32abdff0-dc5f-8146-9b39-c2dbfea7308d",
+      "title": "Week 10 Reflection: The HRTO Got Its Reasoning Wrong — and the Court Said So",
+      "date": "2026-03-21",
+      "section": "law",
+      "author": [
+        "Fukun"
+      ],
+      "tags": [
+        "AdminLaw",
+        "WeeklyReflection"
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "Admin Law | Week of March 17, 2026",
+              "href": null,
+              "bold": true,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "This week the course covered standard of review — the framework courts use to decide how closely to scrutinize an administrative decision when it is challenged on judicial review. The organizing case is ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Canada (Minister of Citizenship and Immigration) v Vavilov",
+              "href": "https://www.canlii.org/en/ca/scc/doc/2019/2019scc65/2019scc65.html",
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": ", 2019 SCC 65, which restructured the law by establishing a presumption of reasonableness review as the default, displacing the prior ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Dunsmuir",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " framework's more contested category-sorting approach. Under ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Vavilov",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": ", reasonableness is not satisfied by any defensible outcome — a reasonable decision must be justified, transparent, and intelligible. It must engage with the key arguments the parties actually made and trace a logical path from the evidence and the law to the conclusion reached. Correctness review is reserved for a narrow set of categories: constitutional questions, questions of central importance to the legal system outside the adjudicator's expertise, and questions regarding jurisdictional boundaries between administrative bodies. For almost everything else, courts defer — but defer to the quality of the reasoning, not to the outcome alone.",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "On March 17 — the first class day of standard of review week — the Ontario Divisional Court released ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -128,7 +705,7 @@
               "color": null
             },
             {
-              "text": ", 2026 ONSC 1587.",
+              "text": ", 2026 ONSC 1587. The Court quashed an ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -136,15 +713,19 @@
               "strike": false,
               "underline": false,
               "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
+            },
             {
-              "text": "The Court quashed an HRTO decision that had dismissed a human rights application. The reason: the Tribunal’s decision was unreasonable under the ",
+              "text": "Human Rights Tribunal of Ontario",
+              "href": "https://tribunalsontario.ca/hrto/",
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " decision that had dismissed a human rights application. The problem was not that the HRTO reached the wrong result — the Divisional Court did not substitute its own view of the merits. The problem was that the Tribunal's reasons were \"peremptory\": brief, conclusory, and devoid of the justification, transparency, and intelligibility that ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -164,7 +745,23 @@
               "color": null
             },
             {
-              "text": " standard. Its reasons were “peremptory” — brief, conclusory, and devoid of the justification, transparency, and intelligibility that ",
+              "text": " requires. The matter was remitted to be decided again, by a differently constituted panel, with reasons that actually engage with the applicant's case.",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "Applying the ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -184,7 +781,7 @@
               "color": null
             },
             {
-              "text": " demands.",
+              "text": " framework to what went wrong in ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -192,36 +789,19 @@
               "strike": false,
               "underline": false,
               "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
+            },
             {
-              "text": "The matter was sent back to the Tribunal to be decided again.",
+              "text": "Burland",
               "href": null,
               "bold": false,
-              "italic": false,
+              "italic": true,
               "code": false,
               "strike": false,
               "underline": false,
               "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "divider",
-          "rich_text": [],
-          "children": []
-        },
-        {
-          "type": "heading_2",
-          "rich_text": [
+            },
             {
-              "text": "What ",
+              "text": " makes the analysis concrete. ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -241,7 +821,7 @@
               "color": null
             },
             {
-              "text": " actually asks of decision-makers",
+              "text": " requires a reviewing court to read the decision as a whole, in context, and to ask whether the reasoning holds together — not whether it is perfect, but whether it is coherent and responsive to the live issues. Peremptory reasons fail this standard in a specific way: they tell the applicant that their complaint does not succeed, but they do not explain why. The applicant receives no understanding of which factual findings the Tribunal made, which legal test it applied, or which arguments it found unpersuasive. That is not just a procedural fairness problem — it is a substantive reasonableness problem, because a decision that cannot be traced from premises to conclusion cannot be assessed as reasonable or unreasonable by a reviewing court.",
               "href": null,
               "bold": false,
               "italic": false,
@@ -257,8 +837,18 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "Canada (Minister of Citizenship and Immigration) v Vavilov",
-              "href": "https://www.canlii.org/en/ca/scc/doc/2019/2019scc65/2019scc65.html",
+              "text": "This is where the procedural fairness doctrine from Week 8 and the standard of review doctrine from this week reinforce each other rather than operating independently. ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Baker",
+              "href": null,
               "bold": false,
               "italic": true,
               "code": false,
@@ -267,53 +857,7 @@
               "color": null
             },
             {
-              "text": ", 2019 SCC 65",
-              "href": "https://www.canlii.org/en/ca/scc/doc/2019/2019scc65/2019scc65.html",
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " restructured how Canadian courts review administrative decisions. The default is now a ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "presumption of reasonableness",
-              "href": null,
-              "bold": true,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " — courts start by deferring to the decision-maker’s expertise and mandate.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "But the presumption has teeth. ",
+              "text": " established a context-sensitive duty to give reasons where the stakes for the individual are significant. ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -333,105 +877,7 @@
               "color": null
             },
             {
-              "text": " defined reasonableness not as “any defensible outcome” but as a decision that is:",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "bulleted_list_item",
-          "rich_text": [
-            {
-              "text": "Justified",
-              "href": null,
-              "bold": true,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": ": the decision-maker must explain ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "why",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " they reached the outcome, engaging with the key arguments and evidence",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "bulleted_list_item",
-          "rich_text": [
-            {
-              "text": "Transparent",
-              "href": null,
-              "bold": true,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": ": the reasoning must be visible and traceable, not hidden in a black box",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "bulleted_list_item",
-          "rich_text": [
-            {
-              "text": "Intelligible",
-              "href": null,
-              "bold": true,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": ": the logic must be coherent — the conclusion must follow from the reasoning",
+              "text": " made the quality of those reasons the central criterion of substantive reasonableness. Together, they create a layered accountability structure: a decision-maker must give reasons (procedural fairness), and those reasons must actually justify the decision (substantive reasonableness). A decision that technically produces a reasons document but fills it with bare conclusions satisfies neither requirement.",
               "href": null,
               "bold": false,
               "italic": false,
@@ -447,80 +893,7 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "And the reasoning must be responsive to the ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "actual arguments made",
-              "href": null,
-              "bold": true,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " by the parties. A decision that simply states a conclusion without engaging with the losing party’s case is not just thin — it may be unreasonable.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "divider",
-          "rich_text": [],
-          "children": []
-        },
-        {
-          "type": "heading_2",
-          "rich_text": [
-            {
-              "text": "Why this matters for human rights adjudication",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "The HRTO handles some of the most important individual rights claims in Ontario. Dismissing an application — telling a person that their human rights complaint does not merit a hearing — is a significant exercise of public power.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "When that dismissal comes with “peremptory reasons” that give the applicant no understanding of why their complaint failed, it does something more than fail the ",
+              "text": "The ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -540,7 +913,7 @@
               "color": null
             },
             {
-              "text": " standard. It fails the person.",
+              "text": " framework is sometimes described as a deferential standard that keeps courts out of administrative decision-making. ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -548,15 +921,19 @@
               "strike": false,
               "underline": false,
               "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
+            },
             {
-              "text": "Procedural fairness (which we studied in Week 8) includes the right to reasons. ",
+              "text": "Burland",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " illustrates that this description is incomplete. ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -576,120 +953,7 @@
               "color": null
             },
             {
-              "text": " makes the quality of those reasons a matter of ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "substantive reasonableness",
-              "href": null,
-              "bold": true,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": ". These two doctrines reinforce each other: a decision-maker who does not explain itself is both procedurally unfair and substantively unreasonable.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "divider",
-          "rich_text": [],
-          "children": []
-        },
-        {
-          "type": "heading_2",
-          "rich_text": [
-            {
-              "text": "The bigger picture: deference with accountability",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "The standard of review framework is sometimes misread as courts staying out of administrative decisions. It is not. ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Vavilov",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " is a framework for ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "structured deference",
-              "href": null,
-              "bold": true,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " — deference calibrated to the quality of the decision-maker’s reasoning.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "The more expert the decision-maker, the more their judgments on specialized questions should be respected. But the more they must ",
+              "text": " defers to the decision-maker's expertise and mandate — it does not defer to inadequate reasoning. The more specialized and expert the tribunal, the more its substantive judgments should be respected; but expert institutions must ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -709,7 +973,7 @@
               "color": null
             },
             {
-              "text": ". Expertise without explanation is not enough. ",
+              "text": ". An HRTO that dismisses a human rights complaint without explaining why is not being deferred to under ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -729,7 +993,7 @@
               "color": null
             },
             {
-              "text": " made that explicit.",
+              "text": " — it is being sent back to try again.",
               "href": null,
               "bold": false,
               "italic": false,
@@ -745,30 +1009,10 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "Watching the Divisional Court apply ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Vavilov",
+              "text": "Cases referenced: Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65 | Burland v Precise ParkLink Inc, 2026 ONSC 1587",
               "href": null,
               "bold": false,
               "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " to the HRTO in real time, this week of all weeks, felt like the course coming full circle: the law we have been studying all semester, working exactly as it is supposed to.",
-              "href": null,
-              "bold": false,
-              "italic": false,
               "code": false,
               "strike": false,
               "underline": false,
@@ -786,60 +1030,58 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "See also: ",
+              "text": "Sources",
               "href": null,
-              "bold": false,
-              "italic": true,
+              "bold": true,
+              "italic": false,
               "code": false,
               "strike": false,
               "underline": false,
               "color": null
-            },
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "bulleted_list_item",
+          "rich_text": [
             {
-              "text": "Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65",
+              "text": "Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65 (CanLII)",
               "href": "https://www.canlii.org/en/ca/scc/doc/2019/2019scc65/2019scc65.html",
               "bold": false,
-              "italic": true,
+              "italic": false,
               "code": false,
               "strike": false,
               "underline": false,
               "color": null
-            },
-            {
-              "text": " · ",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "bulleted_list_item",
+          "rich_text": [
             {
               "text": "Human Rights Tribunal of Ontario",
               "href": "https://tribunalsontario.ca/hrto/",
               "bold": false,
-              "italic": true,
+              "italic": false,
               "code": false,
               "strike": false,
               "underline": false,
               "color": null
-            },
-            {
-              "text": " · ",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "bulleted_list_item",
+          "rich_text": [
             {
               "text": "HRTO 2025 Case Law in Review — Ontario Bar Association",
               "href": "https://oba.org/human-rights-tribunal-of-ontario-2025-case-law-in-review/",
               "bold": false,
-              "italic": true,
+              "italic": false,
               "code": false,
               "strike": false,
               "underline": false,
@@ -849,15 +1091,15 @@
           "children": []
         }
       ],
-      "body": "---\nWeek 10 Reflection: The HRTO Got Its Reasoning Wrong — and the Court Said So\nAdmin Law in Daily Life · Week of March 17, 2026\nThis week in class: Standard of review — choosing and applying. The Vavilov framework. What reasonableness actually demands from a decision-maker. When do courts intervene, and when do they defer?\n---\nOn March 17 — the first class day of our standard of review week — the Ontario Divisional Court released Burland v Precise ParkLink Inc, 2026 ONSC 1587.\nThe Court quashed an HRTO decision that had dismissed a human rights application. The reason: the Tribunal’s decision was unreasonable under the Vavilov standard. Its reasons were “peremptory” — brief, conclusory, and devoid of the justification, transparency, and intelligibility that Vavilov demands.\nThe matter was sent back to the Tribunal to be decided again.\n---\nWhat Vavilov actually asks of decision-makers\nCanada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65 restructured how Canadian courts review administrative decisions. The default is now a presumption of reasonableness — courts start by deferring to the decision-maker’s expertise and mandate.\nBut the presumption has teeth. Vavilov defined reasonableness not as “any defensible outcome” but as a decision that is:\nJustified: the decision-maker must explain why they reached the outcome, engaging with the key arguments and evidence\nTransparent: the reasoning must be visible and traceable, not hidden in a black box\nIntelligible: the logic must be coherent — the conclusion must follow from the reasoning\nAnd the reasoning must be responsive to the actual arguments made by the parties. A decision that simply states a conclusion without engaging with the losing party’s case is not just thin — it may be unreasonable.\n---\nWhy this matters for human rights adjudication\nThe HRTO handles some of the most important individual rights claims in Ontario. Dismissing an application — telling a person that their human rights complaint does not merit a hearing — is a significant exercise of public power.\nWhen that dismissal comes with “peremptory reasons” that give the applicant no understanding of why their complaint failed, it does something more than fail the Vavilov standard. It fails the person.\nProcedural fairness (which we studied in Week 8) includes the right to reasons. Vavilov makes the quality of those reasons a matter of substantive reasonableness. These two doctrines reinforce each other: a decision-maker who does not explain itself is both procedurally unfair and substantively unreasonable.\n---\nThe bigger picture: deference with accountability\nThe standard of review framework is sometimes misread as courts staying out of administrative decisions. It is not. Vavilov is a framework for structured deference — deference calibrated to the quality of the decision-maker’s reasoning.\nThe more expert the decision-maker, the more their judgments on specialized questions should be respected. But the more they must show their work. Expertise without explanation is not enough. Vavilov made that explicit.\nWatching the Divisional Court apply Vavilov to the HRTO in real time, this week of all weeks, felt like the course coming full circle: the law we have been studying all semester, working exactly as it is supposed to.\n---\nSee also: Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65 · Human Rights Tribunal of Ontario · HRTO 2025 Case Law in Review — Ontario Bar Association",
-      "summary": "--- Week 10 Reflection: The HRTO Got Its Reasoning Wrong — and the Court Said So Admin Law in Daily Life · Week of March 17, 2026 This week in class: Standard of review — choosing and applying. The Vavilov framework. What reasonableness actually demands from a decision-maker. Wh…",
+      "body": "Admin Law | Week of March 17, 2026\nThis week the course covered standard of review — the framework courts use to decide how closely to scrutinize an administrative decision when it is challenged on judicial review. The organizing case is Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, which restructured the law by establishing a presumption of reasonableness review as the default, displacing the prior Dunsmuir framework's more contested category-sorting approach. Under Vavilov, reasonableness is not satisfied by any defensible outcome — a reasonable decision must be justified, transparent, and intelligible. It must engage with the key arguments the parties actually made and trace a logical path from the evidence and the law to the conclusion reached. Correctness review is reserved for a narrow set of categories: constitutional questions, questions of central importance to the legal system outside the adjudicator's expertise, and questions regarding jurisdictional boundaries between administrative bodies. For almost everything else, courts defer — but defer to the quality of the reasoning, not to the outcome alone.\nOn March 17 — the first class day of standard of review week — the Ontario Divisional Court released Burland v Precise ParkLink Inc, 2026 ONSC 1587. The Court quashed an Human Rights Tribunal of Ontario decision that had dismissed a human rights application. The problem was not that the HRTO reached the wrong result — the Divisional Court did not substitute its own view of the merits. The problem was that the Tribunal's reasons were \"peremptory\": brief, conclusory, and devoid of the justification, transparency, and intelligibility that Vavilov requires. The matter was remitted to be decided again, by a differently constituted panel, with reasons that actually engage with the applicant's case.\nApplying the Vavilov framework to what went wrong in Burland makes the analysis concrete. Vavilov requires a reviewing court to read the decision as a whole, in context, and to ask whether the reasoning holds together — not whether it is perfect, but whether it is coherent and responsive to the live issues. Peremptory reasons fail this standard in a specific way: they tell the applicant that their complaint does not succeed, but they do not explain why. The applicant receives no understanding of which factual findings the Tribunal made, which legal test it applied, or which arguments it found unpersuasive. That is not just a procedural fairness problem — it is a substantive reasonableness problem, because a decision that cannot be traced from premises to conclusion cannot be assessed as reasonable or unreasonable by a reviewing court.\nThis is where the procedural fairness doctrine from Week 8 and the standard of review doctrine from this week reinforce each other rather than operating independently. Baker established a context-sensitive duty to give reasons where the stakes for the individual are significant. Vavilov made the quality of those reasons the central criterion of substantive reasonableness. Together, they create a layered accountability structure: a decision-maker must give reasons (procedural fairness), and those reasons must actually justify the decision (substantive reasonableness). A decision that technically produces a reasons document but fills it with bare conclusions satisfies neither requirement.\nThe Vavilov framework is sometimes described as a deferential standard that keeps courts out of administrative decision-making. Burland illustrates that this description is incomplete. Vavilov defers to the decision-maker's expertise and mandate — it does not defer to inadequate reasoning. The more specialized and expert the tribunal, the more its substantive judgments should be respected; but expert institutions must show their work. An HRTO that dismisses a human rights complaint without explaining why is not being deferred to under Vavilov — it is being sent back to try again.\nCases referenced: Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65 | Burland v Precise ParkLink Inc, 2026 ONSC 1587\n---\nSources\nCanada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65 (CanLII)\nHuman Rights Tribunal of Ontario\nHRTO 2025 Case Law in Review — Ontario Bar Association",
+      "summary": "Admin Law | Week of March 17, 2026 This week the course covered standard of review — the framework courts use to decide how closely to scrutinize an administrative decision when it is challenged on judicial review. The organizing case is Canada (Minister of Citizenship and Immig…",
       "images": [],
       "attachments": []
     },
     {
       "id": 55713777900639,
       "notionPageId": "32abdff0-dc5f-8159-b724-f1584a38f30d",
-      "title": "Week 9 Reflection: Zoom Court and the Apprehension of Bias",
+      "title": "Week 9 Reflection:  Does Zoom Create a Reasonable Apprehension of Bias",
       "date": "2026-03-14",
       "section": "law",
       "author": [
@@ -869,85 +1111,13 @@
       ],
       "blocks": [
         {
-          "type": "divider",
-          "rich_text": [],
-          "children": []
-        },
-        {
-          "type": "heading_3",
-          "rich_text": [
-            {
-              "text": "Admin Law in Daily Life · Week of March 10, 2026",
-              "href": null,
-              "bold": true,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "quote",
-          "rich_text": [
-            {
-              "text": "This week in class:",
-              "href": null,
-              "bold": true,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " The rule against bias. Actual bias vs. reasonable apprehension of bias. The ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Baker",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " para 46 test. Institutional bias, individual bias, and the conditions that make a fair hearing possible.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "divider",
-          "rich_text": [],
-          "children": []
-        },
-        {
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "Most Ontario administrative hearings are now conducted over Zoom. The LTB, LAT, HRTO, and Consent and Capacity Board all moved to remote hearings during COVID and have largely stayed there. For many applicants, this has improved access — no travel, no childcare logistics, no time off work.",
+              "text": "Admin Law | Week of March 10, 2026",
               "href": null,
-              "bold": false,
-              "italic": false,
+              "bold": true,
+              "italic": true,
               "code": false,
               "strike": false,
               "underline": false,
@@ -960,7 +1130,7 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "But I have been thinking this week about a different question: ",
+              "text": "This week the course covered the rule against bias — one of the oldest principles in natural justice. The doctrine draws two distinctions: actual bias, meaning a decision-maker who is genuinely partial, and reasonable apprehension of bias, which arises when the circumstances viewed by a well-informed observer raise a legitimate concern about impartiality even if the decision-maker is in fact neutral. The operative test comes from ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -970,38 +1140,7 @@
               "color": null
             },
             {
-              "text": "what does Zoom do to the appearance of impartiality?",
-              "href": null,
-              "bold": true,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "divider",
-          "rich_text": [],
-          "children": []
-        },
-        {
-          "type": "heading_2",
-          "rich_text": [
-            {
-              "text": "The ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Baker",
+              "text": "Baker v Canada",
               "href": null,
               "bold": false,
               "italic": true,
@@ -1011,43 +1150,7 @@
               "color": null
             },
             {
-              "text": " para 46 test",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "This week we studied the test for reasonable apprehension of bias from ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Baker",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " para 46 (citing ",
+              "text": " [1999] 2 SCR 817 para 46, citing ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -1067,26 +1170,10 @@
               "color": null
             },
             {
-              "text": " [1978] 1 SCR 369):",
+              "text": " [1978] 1 SCR 369: would an informed person, viewing the matter realistically and practically and having thought it through, have a reasonable apprehension that the decision-maker would not decide fairly? The test is objective — it asks about the appearance of the process to a hypothetical reasonable observer, not about the adjudicator's subjective state. A finding of reasonable apprehension of bias typically results in the decision being set aside regardless of whether the outcome was correct.",
               "href": null,
               "bold": false,
               "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "quote",
-          "rich_text": [
-            {
-              "text": "The apprehension of bias must be a reasonable one, held by reasonable and right-minded persons, applying themselves to the question and obtaining thereon the required information… [T]he test is whether an informed person, viewing the matter realistically and practically — and having thought the matter through — would have a reasonable apprehension that the decision-maker would not decide fairly.",
-              "href": null,
-              "bold": false,
-              "italic": true,
               "code": false,
               "strike": false,
               "underline": false,
@@ -1099,7 +1186,7 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "Note what the test does not require: proof of ",
+              "text": "Since 2020, most Ontario administrative tribunals have moved to remote hearings and have largely stayed there. The LTB, LAT, HRTO, and Consent and Capacity Board all conduct a significant proportion of their hearings over Zoom. ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -1109,7 +1196,27 @@
               "color": null
             },
             {
-              "text": "actual",
+              "text": "Tribunals Ontario's remote hearings framework",
+              "href": "https://tribunalsontario.ca/en/",
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " describes this as an access improvement — no travel, no time off work, no childcare logistics. Disability rights advocates have broadly supported remote access. But reading this week's material on bias alongside the reality of how administrative adjudication now works raised a question the doctrine has not fully addressed: does a Zoom hearing change the ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "appearance",
               "href": null,
               "bold": false,
               "italic": true,
@@ -1119,7 +1226,23 @@
               "color": null
             },
             {
-              "text": " bias. It requires only a ",
+              "text": " of impartiality in ways that could, in some circumstances, satisfy the reasonable apprehension test?",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "Applying the ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -1129,7 +1252,146 @@
               "color": null
             },
             {
-              "text": "reasonable apprehension",
+              "text": "Baker",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " para 46 test to a remote hearing requires thinking carefully about what the \"informed observer\" is actually watching. In a physical hearing room, signals of engagement or disengagement are visible to all parties: an adjudicator who is looking out the window, who leans forward when one party speaks but visibly disengages when the other does, or who makes impatient comments during one side's submissions sends observable signals. On Zoom, some of those signals are hidden — a camera-off adjudicator is simply invisible — and others are amplified or displaced into different channels. Pre-hearing written communications in case management platforms, for example, can document preliminary views in ways that in-person case management never would have. An adjudicator who records a view on the merits before hearing submissions, in writing, creates a discoverable record that might not have existed before.",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "The conclusion the ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Baker",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " test supports is that Zoom does not automatically create a reasonable apprehension of bias, but specific circumstances in a remote hearing can satisfy the test just as they would in person. A camera-off adjudicator who engages actively through questions, who distributes hearing time fairly, and who gives no other adverse signal probably does not create a reasonable apprehension — the informed observer would see a process that, however impersonal, appears impartial. But an adjudicator whose written pre-hearing notes express a preliminary view on the merits of one party's position, or whose audio reveals active engagement during one party's submissions and silence during the other's, may well cross the threshold. The test is about appearance, not modality. What ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Zoom",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " changes is the set of observable signals available to the informed observer — which means the same analysis applies, but through a different lens.",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "The harder institutional question is whether remote hearings as a ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "system",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " affect the perceived legitimacy of adjudication in ways the individual bias test doesn't capture. The physical hearing room carries social meaning that Zoom does not replicate — the shared public space, the visible formality of the process, the experience of being heard before a decision-maker who is present in the same room. Whether the loss of that social dimension constitutes a fairness problem that the bias doctrine should address, or whether it is simply a change in form that procedural fairness law is not designed to regulate, is a question I don't think the existing case law has resolved.",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "Cases referenced: Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817 | Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "divider",
+          "rich_text": [],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "Sources",
               "href": null,
               "bold": true,
               "italic": false,
@@ -1137,354 +1399,34 @@
               "strike": false,
               "underline": false,
               "color": null
-            },
-            {
-              "text": " by a well-informed, realistic observer.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
             }
           ],
           "children": []
         },
         {
-          "type": "divider",
-          "rich_text": [],
-          "children": []
-        },
-        {
-          "type": "heading_2",
+          "type": "bulleted_list_item",
           "rich_text": [
-            {
-              "text": "What Zoom makes harder to see",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "In a physical hearing room, the signals of engagement — or disengagement — are visible to everyone. An adjudicator who is looking out the window, or who is visibly impatient with one party’s submissions, or who leans forward when one side speaks and leans back when the other does, sends observable signals.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "On Zoom, those signals are either amplified or hidden. An adjudicator with camera off is invisible. One who is multitasking may not be noticed. Pre-hearing written remarks in case management communications can surface in ways that might not have been recorded before.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "And the parties themselves are at home, in their own spaces, separated from each other and from the decision-maker. The shared physical experience of a public hearing — which has always been part of what makes adjudication ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "legitimate",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": ", not just technically fair — is absent.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "divider",
-          "rich_text": [],
-          "children": []
-        },
-        {
-          "type": "heading_2",
-          "rich_text": [
-            {
-              "text": "The labour board deference case",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "Also this week, the Divisional Court issued a decision reinforcing that courts should defer to the ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Ontario Labour Relations Board’s",
-              "href": "https://olrb.gov.on.ca/",
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " findings on workplace disputes. The case involved a construction industry work assignment dispute — technical, expert-driven, squarely within the OLRB’s institutional competence.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "But it reminded me of the flip side of the bias question: tribunals that are ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "expert",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " in their field are given deference precisely because* they know things courts don’t. The moment a party starts alleging bias without real evidence, they risk asking a court to substitute its own judgment for that expert judgment — which is not what judicial review is for.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "The reasonable apprehension of bias test is calibrated to distinguish genuine fairness concerns from tactical attempts to relitigate outcomes.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "divider",
-          "rich_text": [],
-          "children": []
-        },
-        {
-          "type": "heading_2",
-          "rich_text": [
-            {
-              "text": "What I’m watching",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "As administrative hearings become increasingly digital and informal, the procedural fairness frameworks we have built around in-person adjudication are going to be tested. The bias test — built on the idea of the ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "informed observer",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " watching the process — assumes there is something to observe.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "Zoom hearings are good for access. Whether they are equally good for perceived legitimacy is a question I don’t think the doctrine has fully answered yet.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "divider",
-          "rich_text": [],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "See also: ",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Baker v Canada, 1999 SCC 40, para 46",
-              "href": "https://www.canlii.org/en/ca/scc/doc/1999/1999canscc40/1999canscc40.html",
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " · ",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Ontario Labour Relations Board",
-              "href": "https://olrb.gov.on.ca/",
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " · ",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
             {
               "text": "Tribunals Ontario — Remote Hearings",
               "href": "https://tribunalsontario.ca/en/",
               "bold": false,
-              "italic": true,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "bulleted_list_item",
+          "rich_text": [
+            {
+              "text": "Baker v Canada, 1999 SCC 40 (CanLII)",
+              "href": "https://www.canlii.org/en/ca/scc/doc/1999/1999canscc40/1999canscc40.html",
+              "bold": false,
+              "italic": false,
               "code": false,
               "strike": false,
               "underline": false,
@@ -1494,8 +1436,8 @@
           "children": []
         }
       ],
-      "body": "---\nAdmin Law in Daily Life · Week of March 10, 2026\nThis week in class: The rule against bias. Actual bias vs. reasonable apprehension of bias. The Baker para 46 test. Institutional bias, individual bias, and the conditions that make a fair hearing possible.\n---\nMost Ontario administrative hearings are now conducted over Zoom. The LTB, LAT, HRTO, and Consent and Capacity Board all moved to remote hearings during COVID and have largely stayed there. For many applicants, this has improved access — no travel, no childcare logistics, no time off work.\nBut I have been thinking this week about a different question: what does Zoom do to the appearance of impartiality?\n---\nThe Baker para 46 test\nThis week we studied the test for reasonable apprehension of bias from Baker para 46 (citing Committee for Justice and Liberty v National Energy Board [1978] 1 SCR 369):\nThe apprehension of bias must be a reasonable one, held by reasonable and right-minded persons, applying themselves to the question and obtaining thereon the required information… [T]he test is whether an informed person, viewing the matter realistically and practically — and having thought the matter through — would have a reasonable apprehension that the decision-maker would not decide fairly.\nNote what the test does not require: proof of actual bias. It requires only a reasonable apprehension by a well-informed, realistic observer.\n---\nWhat Zoom makes harder to see\nIn a physical hearing room, the signals of engagement — or disengagement — are visible to everyone. An adjudicator who is looking out the window, or who is visibly impatient with one party’s submissions, or who leans forward when one side speaks and leans back when the other does, sends observable signals.\nOn Zoom, those signals are either amplified or hidden. An adjudicator with camera off is invisible. One who is multitasking may not be noticed. Pre-hearing written remarks in case management communications can surface in ways that might not have been recorded before.\nAnd the parties themselves are at home, in their own spaces, separated from each other and from the decision-maker. The shared physical experience of a public hearing — which has always been part of what makes adjudication legitimate, not just technically fair — is absent.\n---\nThe labour board deference case\nAlso this week, the Divisional Court issued a decision reinforcing that courts should defer to the Ontario Labour Relations Board’s findings on workplace disputes. The case involved a construction industry work assignment dispute — technical, expert-driven, squarely within the OLRB’s institutional competence.\nBut it reminded me of the flip side of the bias question: tribunals that are expert in their field are given deference precisely because* they know things courts don’t. The moment a party starts alleging bias without real evidence, they risk asking a court to substitute its own judgment for that expert judgment — which is not what judicial review is for.\nThe reasonable apprehension of bias test is calibrated to distinguish genuine fairness concerns from tactical attempts to relitigate outcomes.\n---\nWhat I’m watching\nAs administrative hearings become increasingly digital and informal, the procedural fairness frameworks we have built around in-person adjudication are going to be tested. The bias test — built on the idea of the informed observer watching the process — assumes there is something to observe.\nZoom hearings are good for access. Whether they are equally good for perceived legitimacy is a question I don’t think the doctrine has fully answered yet.\n---\nSee also: Baker v Canada, 1999 SCC 40, para 46 · Ontario Labour Relations Board · Tribunals Ontario — Remote Hearings",
-      "summary": "--- Admin Law in Daily Life · Week of March 10, 2026 This week in class: The rule against bias. Actual bias vs. reasonable apprehension of bias. The Baker para 46 test. Institutional bias, individual bias, and the conditions that make a fair hearing possible. --- Most Ontario ad…",
+      "body": "Admin Law | Week of March 10, 2026\nThis week the course covered the rule against bias — one of the oldest principles in natural justice. The doctrine draws two distinctions: actual bias, meaning a decision-maker who is genuinely partial, and reasonable apprehension of bias, which arises when the circumstances viewed by a well-informed observer raise a legitimate concern about impartiality even if the decision-maker is in fact neutral. The operative test comes from Baker v Canada [1999] 2 SCR 817 para 46, citing Committee for Justice and Liberty v National Energy Board [1978] 1 SCR 369: would an informed person, viewing the matter realistically and practically and having thought it through, have a reasonable apprehension that the decision-maker would not decide fairly? The test is objective — it asks about the appearance of the process to a hypothetical reasonable observer, not about the adjudicator's subjective state. A finding of reasonable apprehension of bias typically results in the decision being set aside regardless of whether the outcome was correct.\nSince 2020, most Ontario administrative tribunals have moved to remote hearings and have largely stayed there. The LTB, LAT, HRTO, and Consent and Capacity Board all conduct a significant proportion of their hearings over Zoom. Tribunals Ontario's remote hearings framework describes this as an access improvement — no travel, no time off work, no childcare logistics. Disability rights advocates have broadly supported remote access. But reading this week's material on bias alongside the reality of how administrative adjudication now works raised a question the doctrine has not fully addressed: does a Zoom hearing change the appearance of impartiality in ways that could, in some circumstances, satisfy the reasonable apprehension test?\nApplying the Baker para 46 test to a remote hearing requires thinking carefully about what the \"informed observer\" is actually watching. In a physical hearing room, signals of engagement or disengagement are visible to all parties: an adjudicator who is looking out the window, who leans forward when one party speaks but visibly disengages when the other does, or who makes impatient comments during one side's submissions sends observable signals. On Zoom, some of those signals are hidden — a camera-off adjudicator is simply invisible — and others are amplified or displaced into different channels. Pre-hearing written communications in case management platforms, for example, can document preliminary views in ways that in-person case management never would have. An adjudicator who records a view on the merits before hearing submissions, in writing, creates a discoverable record that might not have existed before.\nThe conclusion the Baker test supports is that Zoom does not automatically create a reasonable apprehension of bias, but specific circumstances in a remote hearing can satisfy the test just as they would in person. A camera-off adjudicator who engages actively through questions, who distributes hearing time fairly, and who gives no other adverse signal probably does not create a reasonable apprehension — the informed observer would see a process that, however impersonal, appears impartial. But an adjudicator whose written pre-hearing notes express a preliminary view on the merits of one party's position, or whose audio reveals active engagement during one party's submissions and silence during the other's, may well cross the threshold. The test is about appearance, not modality. What Zoom changes is the set of observable signals available to the informed observer — which means the same analysis applies, but through a different lens.\nThe harder institutional question is whether remote hearings as a system affect the perceived legitimacy of adjudication in ways the individual bias test doesn't capture. The physical hearing room carries social meaning that Zoom does not replicate — the shared public space, the visible formality of the process, the experience of being heard before a decision-maker who is present in the same room. Whether the loss of that social dimension constitutes a fairness problem that the bias doctrine should address, or whether it is simply a change in form that procedural fairness law is not designed to regulate, is a question I don't think the existing case law has resolved.\nCases referenced: Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817 | Committee for Justice and Liberty v National Energy Board, [1978] 1 SCR 369\n---\nSources\nTribunals Ontario — Remote Hearings\nBaker v Canada, 1999 SCC 40 (CanLII)",
+      "summary": "Admin Law | Week of March 10, 2026 This week the course covered the rule against bias — one of the oldest principles in natural justice. The doctrine draws two distinctions: actual bias, meaning a decision-maker who is genuinely partial, and reasonable apprehension of bias, whic…",
       "images": [],
       "attachments": []
     },
@@ -2597,7 +2539,43 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "This week covered the constitutional constraints on provincial delegation to administrative tribunals under s. 96, using the Landlord and Tenant Board as the central example. The analytical framework is the three-step test from the ",
+              "text": "This week covered one of the more unusual constitutional questions in Canadian law: can a provincial legislature take a type of dispute that courts historically decided and hand it to an administrative tribunal instead? Section 96 of the ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Constitution Act, 1867",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " gives the federal government the power to appoint judges of superior courts. The SCC has interpreted this to mean that provinces cannot simply strip superior courts of their core jurisdiction and transfer it to a tribunal that the province controls — that would let provinces hollow out federally-appointed courts by delegating their work elsewhere. So when Ontario created the Landlord and Tenant Board to handle evictions and tenancy disputes, there was a genuine constitutional question: was the province doing something it was constitutionally allowed to do?",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "The answer depends on a three-step test developed in ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -2617,7 +2595,7 @@
               "color": null
             },
             {
-              "text": " (Ontario) [1981] 1 SCR 714: characterize the power delegated; ask whether it broadly conforms to jurisdiction held exclusively or primarily by superior courts at Confederation; and if so, determine whether the delegation is part of a broader administrative scheme that justifies specialization. The 1981 Ontario RTA scheme failed — the tribunal's eviction and possession powers too closely resembled historic superior court jurisdiction, and the surrounding administrative scheme was not substantial enough to save it. The legislature redesigned around the ",
+              "text": " (Ontario) [1981] 1 SCR 714. First, characterize the power the tribunal is being given. Second, ask whether that power looks like something superior courts exclusively or primarily handled at the time of Confederation in 1867. Third, even if it does, ask whether the tribunal is embedded in a broader regulatory scheme that is distinctly modern — something that wasn't just reproducing what courts used to do, but administering a new kind of statutory regime. The 1981 Ontario scheme failed at step three: the tribunal's power to evict tenants looked too much like what courts had always done, and there was no administrative scheme substantial enough to distinguish it. The legislature had to go back and redesign. The modern LTB, created under the ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -2637,7 +2615,7 @@
               "color": null
             },
             {
-              "text": ", and the modern LTB survived s. 96 scrutiny. The ",
+              "text": ", passed all three steps because the new scheme did far more than reproduce common law eviction rules — it created new statutory rights for tenants that had never existed at common law, like the right to maintenance, the right to dispute rent increases, and the right to be free from illegal lockouts. The ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -2657,7 +2635,7 @@
               "color": null
             },
             {
-              "text": " (Nova Scotia) [1996] 1 SCR 186 confirmed the same approach for a comparable provincial scheme. This week's question was what that constitutional survival actually guarantees.",
+              "text": " (Nova Scotia) [1996] 1 SCR 186 confirmed the same approach worked for a comparable scheme in another province.",
               "href": null,
               "bold": false,
               "italic": false,
@@ -2693,7 +2671,7 @@
               "color": null
             },
             {
-              "text": ", a three-year investigation into the LTB. The report documented a backlog of more than 38,000 cases and median wait times of seven to eight months for landlord applications — with some tenant matters taking up to two years. ",
+              "text": ", a three-year investigation into the LTB. The backlog stood at more than 38,000 cases. Median wait times were seven to eight months for landlord applications; some tenant applications took up to two years. ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -2703,7 +2681,7 @@
               "color": null
             },
             {
-              "text": "CBC News described the LTB as \"fundamentally failing.\"",
+              "text": "CBC News described the board as \"fundamentally failing.\"",
               "href": "https://www.cbc.ca/news/canada/toronto/ontario-ombudsman-report-landlord-tenant-board-1.6830181",
               "bold": false,
               "italic": false,
@@ -2733,7 +2711,7 @@
               "color": null
             },
             {
-              "text": " called the digital-first hearing model a failed experiment. ",
+              "text": " documented cases of tenants stuck in units with mould, broken heating, and pest infestations while waiting months for a maintenance hearing. ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -2753,7 +2731,7 @@
               "color": null
             },
             {
-              "text": " published ongoing statistics. The scale of this failure raises a precise question: what did the constitutional analysis from class actually say about whether this could happen?",
+              "text": " tracked the numbers quarter by quarter. This is where the constitutional framework's limits become visible, because none of what the Ombudsman documented was a constitutional problem.",
               "href": null,
               "bold": false,
               "italic": false,
@@ -2769,27 +2747,7 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "The answer is that the three-step test was never designed to prevent it. The test asks whether the ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "type",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " of power can be constitutionally delegated to the LTB. It does not address how well that power must be exercised, how many adjudicators must be employed, or how long hearings may take. The LTB's 2023 backlog was an operational failure, not a constitutional one. The modern LTB cleared all three steps of the analysis — it exercises a distinct statutory scheme, not merely codified common law, and the scheme is sufficiently developed to justify specialization. Constitutional validity and operational adequacy are separate standards, and the s. 96 framework speaks only to the first.",
+              "text": "The three-step test asks one specific question: should this type of dispute be decided by a tribunal at all, or does it belong exclusively to the courts? Once the LTB cleared that test — and it did — the constitution had nothing more to say about whether the LTB needed more adjudicators, faster scheduling, or better technology. Those are resource and policy questions, which are the legislature's to answer. A tenant waiting eight months for a hearing about a mould problem in their apartment is accessing a constitutionally valid institution. The constitution validated the institution's right to exist. It said nothing about the institution's obligation to actually function.",
               "href": null,
               "bold": false,
               "italic": false,
@@ -2804,6 +2762,16 @@
         {
           "type": "paragraph",
           "rich_text": [
+            {
+              "text": "Two additional cases bracket what oversight remains. ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
             {
               "text": "Crevier v AG Quebec",
               "href": null,
@@ -2815,7 +2783,7 @@
               "color": null
             },
             {
-              "text": " [1981] 2 SCR 220 and ",
+              "text": " [1981] 2 SCR 220 ensures that if the LTB makes a decision that falls outside its statutory authority — deciding something it was never empowered to decide — superior courts can step in and correct it, no matter what the statute says. ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -2835,103 +2803,7 @@
               "color": null
             },
             {
-              "text": " [1995] 4 SCR 725 provide the structural brackets that contain the LTB's operation. ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Crevier",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " ensures that if the LTB exceeds its jurisdiction — decides something it has no statutory authority to decide — superior courts retain the power to correct that excess, regardless of any statutory language purporting to limit review. ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "MacMillan Bloedel",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " ensures that superior court oversight cannot be fully abolished. Both cases constrain what the legislature can take away from the courts; neither constrains what resources the legislature must give to the tribunal. A tenant who waits eight months for a hearing on a habitability complaint has been given access to a constitutionally valid tribunal operating within the ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Crevier",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "/",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "MacMillan Bloedel",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " limits. The constitutional framework cannot tell them when their hearing will be scheduled.",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
-          "type": "paragraph",
-          "rich_text": [
-            {
-              "text": "For international students in Ontario — who disproportionately rent, often in housing where maintenance issues arise, and who may be less aware of how to navigate LTB procedures — the gap between formal constitutional validity and functional adequacy is significant. The constitutional analysis was worth doing: it explains why the LTB exists, why it survived the 1981 challenge, and what judicial oversight remains available. But understanding those limits is also what makes it clear that the Ombudsman's report was documenting something the constitutional framework was never equipped to prevent.",
+              "text": " [1995] 4 SCR 725 ensures that the legislature cannot take away superior court jurisdiction entirely; courts always retain an irreducible supervisory role. Both cases protect against the LTB overreaching its mandate. Neither requires the LTB to process its current caseload efficiently. For international students in Ontario who rent — often in older housing stock, often unfamiliar with the LTB's procedures, and sometimes reluctant to make complaints for fear of disrupting their housing — the gap between what the constitution guarantees and what the tribunal actually delivers is the part that matters most in practice.",
               "href": null,
               "bold": false,
               "italic": false,
@@ -3045,8 +2917,8 @@
           "children": []
         }
       ],
-      "body": "Admin Law | Week of February 10, 2026\nThis week covered the constitutional constraints on provincial delegation to administrative tribunals under s. 96, using the Landlord and Tenant Board as the central example. The analytical framework is the three-step test from the Reference re Residential Tenancies Act, 1979 (Ontario) [1981] 1 SCR 714: characterize the power delegated; ask whether it broadly conforms to jurisdiction held exclusively or primarily by superior courts at Confederation; and if so, determine whether the delegation is part of a broader administrative scheme that justifies specialization. The 1981 Ontario RTA scheme failed — the tribunal's eviction and possession powers too closely resembled historic superior court jurisdiction, and the surrounding administrative scheme was not substantial enough to save it. The legislature redesigned around the Residential Tenancies Act, 2006, and the modern LTB survived s. 96 scrutiny. The Reference re Residential Tenancies Act (Nova Scotia) [1996] 1 SCR 186 confirmed the same approach for a comparable provincial scheme. This week's question was what that constitutional survival actually guarantees.\nIn May 2023, Ontario's Ombudsman released Administrative Justice Delayed, Fairness Denied, a three-year investigation into the LTB. The report documented a backlog of more than 38,000 cases and median wait times of seven to eight months for landlord applications — with some tenant matters taking up to two years. CBC News described the LTB as \"fundamentally failing.\" The Advocacy Centre for Tenants Ontario called the digital-first hearing model a failed experiment. Tribunal Watch Ontario published ongoing statistics. The scale of this failure raises a precise question: what did the constitutional analysis from class actually say about whether this could happen?\nThe answer is that the three-step test was never designed to prevent it. The test asks whether the type of power can be constitutionally delegated to the LTB. It does not address how well that power must be exercised, how many adjudicators must be employed, or how long hearings may take. The LTB's 2023 backlog was an operational failure, not a constitutional one. The modern LTB cleared all three steps of the analysis — it exercises a distinct statutory scheme, not merely codified common law, and the scheme is sufficiently developed to justify specialization. Constitutional validity and operational adequacy are separate standards, and the s. 96 framework speaks only to the first.\nCrevier v AG Quebec [1981] 2 SCR 220 and MacMillan Bloedel Ltd v Simpson [1995] 4 SCR 725 provide the structural brackets that contain the LTB's operation. Crevier ensures that if the LTB exceeds its jurisdiction — decides something it has no statutory authority to decide — superior courts retain the power to correct that excess, regardless of any statutory language purporting to limit review. MacMillan Bloedel ensures that superior court oversight cannot be fully abolished. Both cases constrain what the legislature can take away from the courts; neither constrains what resources the legislature must give to the tribunal. A tenant who waits eight months for a hearing on a habitability complaint has been given access to a constitutionally valid tribunal operating within the Crevier/MacMillan Bloedel limits. The constitutional framework cannot tell them when their hearing will be scheduled.\nFor international students in Ontario — who disproportionately rent, often in housing where maintenance issues arise, and who may be less aware of how to navigate LTB procedures — the gap between formal constitutional validity and functional adequacy is significant. The constitutional analysis was worth doing: it explains why the LTB exists, why it survived the 1981 challenge, and what judicial oversight remains available. But understanding those limits is also what makes it clear that the Ombudsman's report was documenting something the constitutional framework was never equipped to prevent.\nCases referenced: Reference re Residential Tenancies Act, 1979 (Ontario), [1981] 1 SCR 714 | Reference re Residential Tenancies Act (Nova Scotia), [1996] 1 SCR 186 | Crevier v AG Quebec, [1981] 2 SCR 220 | MacMillan Bloedel Ltd v Simpson, [1995] 4 SCR 725\n---\nSources\nAdministrative Justice Delayed, Fairness Denied — Ombudsman Ontario (May 2023)\nOntario's Landlord and Tenant Board 'fundamentally failing,' ombudsman finds (CBC News)\nThe Landlord and Tenant Board is broken (Advocacy Centre for Tenants Ontario)\nLTB Statement of Concern: The Numbers Speak for Themselves (Tribunal Watch Ontario)",
-      "summary": "Admin Law | Week of February 10, 2026 This week covered the constitutional constraints on provincial delegation to administrative tribunals under s. 96, using the Landlord and Tenant Board as the central example. The analytical framework is the three-step test from the Reference…",
+      "body": "Admin Law | Week of February 10, 2026\nThis week covered one of the more unusual constitutional questions in Canadian law: can a provincial legislature take a type of dispute that courts historically decided and hand it to an administrative tribunal instead? Section 96 of the Constitution Act, 1867 gives the federal government the power to appoint judges of superior courts. The SCC has interpreted this to mean that provinces cannot simply strip superior courts of their core jurisdiction and transfer it to a tribunal that the province controls — that would let provinces hollow out federally-appointed courts by delegating their work elsewhere. So when Ontario created the Landlord and Tenant Board to handle evictions and tenancy disputes, there was a genuine constitutional question: was the province doing something it was constitutionally allowed to do?\nThe answer depends on a three-step test developed in Reference re Residential Tenancies Act, 1979 (Ontario) [1981] 1 SCR 714. First, characterize the power the tribunal is being given. Second, ask whether that power looks like something superior courts exclusively or primarily handled at the time of Confederation in 1867. Third, even if it does, ask whether the tribunal is embedded in a broader regulatory scheme that is distinctly modern — something that wasn't just reproducing what courts used to do, but administering a new kind of statutory regime. The 1981 Ontario scheme failed at step three: the tribunal's power to evict tenants looked too much like what courts had always done, and there was no administrative scheme substantial enough to distinguish it. The legislature had to go back and redesign. The modern LTB, created under the Residential Tenancies Act, 2006, passed all three steps because the new scheme did far more than reproduce common law eviction rules — it created new statutory rights for tenants that had never existed at common law, like the right to maintenance, the right to dispute rent increases, and the right to be free from illegal lockouts. The Reference re Residential Tenancies Act (Nova Scotia) [1996] 1 SCR 186 confirmed the same approach worked for a comparable scheme in another province.\nIn May 2023, Ontario's Ombudsman released Administrative Justice Delayed, Fairness Denied, a three-year investigation into the LTB. The backlog stood at more than 38,000 cases. Median wait times were seven to eight months for landlord applications; some tenant applications took up to two years. CBC News described the board as \"fundamentally failing.\" The Advocacy Centre for Tenants Ontario documented cases of tenants stuck in units with mould, broken heating, and pest infestations while waiting months for a maintenance hearing. Tribunal Watch Ontario tracked the numbers quarter by quarter. This is where the constitutional framework's limits become visible, because none of what the Ombudsman documented was a constitutional problem.\nThe three-step test asks one specific question: should this type of dispute be decided by a tribunal at all, or does it belong exclusively to the courts? Once the LTB cleared that test — and it did — the constitution had nothing more to say about whether the LTB needed more adjudicators, faster scheduling, or better technology. Those are resource and policy questions, which are the legislature's to answer. A tenant waiting eight months for a hearing about a mould problem in their apartment is accessing a constitutionally valid institution. The constitution validated the institution's right to exist. It said nothing about the institution's obligation to actually function.\nTwo additional cases bracket what oversight remains. Crevier v AG Quebec [1981] 2 SCR 220 ensures that if the LTB makes a decision that falls outside its statutory authority — deciding something it was never empowered to decide — superior courts can step in and correct it, no matter what the statute says. MacMillan Bloedel Ltd v Simpson [1995] 4 SCR 725 ensures that the legislature cannot take away superior court jurisdiction entirely; courts always retain an irreducible supervisory role. Both cases protect against the LTB overreaching its mandate. Neither requires the LTB to process its current caseload efficiently. For international students in Ontario who rent — often in older housing stock, often unfamiliar with the LTB's procedures, and sometimes reluctant to make complaints for fear of disrupting their housing — the gap between what the constitution guarantees and what the tribunal actually delivers is the part that matters most in practice.\nCases referenced: Reference re Residential Tenancies Act, 1979 (Ontario), [1981] 1 SCR 714 | Reference re Residential Tenancies Act (Nova Scotia), [1996] 1 SCR 186 | Crevier v AG Quebec, [1981] 2 SCR 220 | MacMillan Bloedel Ltd v Simpson, [1995] 4 SCR 725\n---\nSources\nAdministrative Justice Delayed, Fairness Denied — Ombudsman Ontario (May 2023)\nOntario's Landlord and Tenant Board 'fundamentally failing,' ombudsman finds (CBC News)\nThe Landlord and Tenant Board is broken (Advocacy Centre for Tenants Ontario)\nLTB Statement of Concern: The Numbers Speak for Themselves (Tribunal Watch Ontario)",
+      "summary": "Admin Law | Week of February 10, 2026 This week covered one of the more unusual constitutional questions in Canadian law: can a provincial legislature take a type of dispute that courts historically decided and hand it to an administrative tribunal instead? Section 96 of the Con…",
       "images": [],
       "attachments": []
     },
@@ -4177,28 +4049,12 @@
       ],
       "blocks": [
         {
-          "type": "heading_1",
-          "rich_text": [
-            {
-              "text": "Week 2 Reflection: What Makes a Decision \"Governmental Enough\" to Review?",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
           "type": "paragraph",
           "rich_text": [
             {
               "text": "Admin Law | Week of January 20, 2026",
               "href": null,
-              "bold": false,
+              "bold": true,
               "italic": true,
               "code": false,
               "strike": false,
@@ -4212,7 +4068,7 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "This week moved from identifying administrative decision-makers to a sharper question: among bodies that exercise power under legislation, which ones are \"governmental\" enough for their decisions to be challenged by judicial review? The ",
+              "text": "This week built on last week's question — not just what an administrative decision-maker is, but which ones are actually subject to judicial review. Judicial review is the process by which courts check whether a public body acted within its legal authority and treated people fairly. It is a powerful tool, but it is not available against every organization that makes decisions affecting people's lives. The ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4232,7 +4088,7 @@
               "color": null
             },
             {
-              "text": " test (2018 SCC 26) is the current answer: judicial review lies where the decision-maker exercises public power — authority that derives from legislation in a way that makes the function governmental in character. Where authority comes from contract or consent, private law remedies apply instead. Before ",
+              "text": " test (2018 SCC 26) determines when it applies: a body must be exercising ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4242,7 +4098,7 @@
               "color": null
             },
             {
-              "text": "Wall",
+              "text": "public",
               "href": null,
               "bold": false,
               "italic": true,
@@ -4252,87 +4108,7 @@
               "color": null
             },
             {
-              "text": ", three competing lines of cases produced inconsistent results — the ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Lindenburger",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " source-of-power line, the ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Air Canada v Toronto Port Authority",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " multi-factor governmental-function line, and the ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "McCaw/Lakeside Colony",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " distinction between statutory powers and private powers under a regulatory scheme. ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Wall",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " tried to replace all three with a single, cleaner question. The issue is whether that simplification works in practice.",
+              "text": " power — authority that flows from the state through legislation and that makes the body governmental in nature. If the body's authority comes from a contract, from consent, or from a purely private arrangement, the courts say: that is a private matter, and private law — not judicial review — is your remedy.",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4348,7 +4124,7 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "During the COVID-19 pandemic, Ontario condominium corporations issued rules restricting common area access, guest policies, and elevator use for residents believed to be infectious. ",
+              "text": "During the COVID-19 pandemic, Ontario condominium corporations issued rules restricting elevator access, banning guests, and in some buildings requiring proof of vaccination just to use shared amenities. Some residents received fines. ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4368,7 +4144,7 @@
               "color": null
             },
             {
-              "text": " on a downtown Toronto condo requiring proof of vaccination to use amenities; the ",
+              "text": " on a downtown Toronto condo rolling out a vaccine policy for common areas; the ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4388,27 +4164,7 @@
               "color": null
             },
             {
-              "text": " that boards were largely left to navigate the rules without provincial guidance. Some residents who faced fines wanted to know whether they could challenge these decisions through judicial review. The ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Wall",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " framework gives a clear answer: no. A condominium corporation's authority comes from the ",
+              "text": " that boards were left to set their own rules without provincial guidance. A fined resident asking \"can I challenge this in court?\" would quickly run into the Wall test. Condo boards get their governance powers from the ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4428,7 +4184,7 @@
               "color": null
             },
             {
-              "text": ", but the nature of the relationship between a condo corporation and its unit owners is fundamentally private — it resembles a community of property owners managing shared space, not a government regulating the public. ",
+              "text": ", but the nature of the relationship is fundamentally private — you bought into a community of property owners, and disputes within that community stay there. ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4438,7 +4194,7 @@
               "color": null
             },
             {
-              "text": "Courts upheld several COVID condo policies",
+              "text": "Courts treated COVID condo policies as valid exercises of board authority",
               "href": "https://www.lashcondolaw.com/condo-covid-19-policy-upheld-as-enforceable-by-court/",
               "bold": false,
               "italic": false,
@@ -4448,7 +4204,7 @@
               "color": null
             },
             {
-              "text": " through the ",
+              "text": ", enforceable through the Condominium Authority Tribunal and the Act's own dispute resolution processes, not through judicial review. The ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4458,7 +4214,7 @@
               "color": null
             },
             {
-              "text": "Condominium Act",
+              "text": "Wall",
               "href": null,
               "bold": false,
               "italic": true,
@@ -4468,7 +4224,7 @@
               "color": null
             },
             {
-              "text": "'s own dispute mechanisms and the Condominium Authority Tribunal, confirming that private law, not judicial review, is the right channel.",
+              "text": " test gave the right answer here.",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4484,7 +4240,7 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "The ",
+              "text": "Before ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4504,7 +4260,7 @@
               "color": null
             },
             {
-              "text": " result is probably correct for condo boards. But running the pre-",
+              "text": ", courts had tried three different approaches to drawing this line, and each produced different results for the same kinds of bodies. One approach focused on where the legal authority came from — does it trace back to a statute? Another looked at a list of factors — government funding, government control, the public character of the function — to determine whether the body was \"sufficiently governmental.\" A third tried to distinguish between bodies exercising statutory powers and bodies exercising private powers even within a regulated industry. The problem was that condo boards, universities, and professional associations could come out differently depending on which approach a judge preferred. ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4524,7 +4280,7 @@
               "color": null
             },
             {
-              "text": " lines against the same facts reveals why ",
+              "text": " replaced all three with one question: is the power the body is exercising a ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4534,7 +4290,7 @@
               "color": null
             },
             {
-              "text": "Wall",
+              "text": "public",
               "href": null,
               "bold": false,
               "italic": true,
@@ -4544,107 +4300,7 @@
               "color": null
             },
             {
-              "text": " was needed and why it still creates difficulty at the margins. The ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Lindenburger",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " source-of-power line would have noted that a condo board's authority traces to the ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Condominium Act",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " — a statute — and might have pointed toward reviewability. The ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Air Canada TPA",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " multi-factor line, looking at government funding and control, would have landed on \"not sufficiently governmental.\" The ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "McCaw",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " line would have asked whether the board was exercising a statutory power and might have reached a third result. The inconsistency across frameworks for the same body is exactly the problem ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": "Wall",
-              "href": null,
-              "bold": false,
-              "italic": true,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
-            {
-              "text": " addressed. Its single \"public power\" question produces a cleaner outcome: the function is private in character, so judicial review is unavailable.",
+              "text": " power? That produced more predictable outcomes, even if the boundary remains genuinely difficult in some cases.",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4659,16 +4315,6 @@
         {
           "type": "paragraph",
           "rich_text": [
-            {
-              "text": "The harder problem is ",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            },
             {
               "text": "Aga v Ethiopian Orthodox Tewahedo Church of Canada St. Mary Cathedral",
               "href": null,
@@ -4700,7 +4346,7 @@
               "color": null
             },
             {
-              "text": ". The SCC held that a religious community's decision to expel members was not judicially reviewable. The ",
+              "text": ", shows where the clean answer gets uncomfortable. A religious community expelled members from the church. The SCC applied ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4720,7 +4366,7 @@
               "color": null
             },
             {
-              "text": " logic applied cleanly: the church's authority is consensual, not governmental. But the case highlights that powerful private institutions can make life-altering decisions — professional, social, financial — with no public law check whatsoever. For me as an international student, the most consequential decision-making body in my daily life is not a government agency but my university. Universities are created by provincial statute, receive public funding, and make discipline decisions that can affect study permit status and immigration outcomes. Whether university disciplinary proceedings are subject to judicial review turns on exactly the ",
+              "text": " and held the decision was not reviewable — the church's authority over its members comes from religious community and consent, not from the state. Legally, this is correct. Practically, it means that people expelled from a tight-knit religious community, with serious social and personal consequences, have no public law remedy at all. The ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4740,7 +4386,43 @@
               "color": null
             },
             {
-              "text": " characterization, and ",
+              "text": " test delivered clarity; it did not promise justice for every situation it classifies as private.",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            }
+          ],
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "text": "For me as an international student, the most consequential institution in my daily life is not a government agency — it is my university. Universities are created by provincial statute and receive public funding, but they also have a private, consensual dimension: you chose to enroll, you agreed to the institution's rules. A finding of academic dishonesty can cost me my enrolment and, because my study permit is tied to being a full-time student, can unravel my immigration status in Canada. Whether that disciplinary decision is subject to judicial review or left to the university's internal process depends on exactly the ",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": "Wall",
+              "href": null,
+              "bold": false,
+              "italic": true,
+              "code": false,
+              "strike": false,
+              "underline": false,
+              "color": null
+            },
+            {
+              "text": " characterization. ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4760,7 +4442,7 @@
               "color": null
             },
             {
-              "text": " (2025 FC 422) shows courts are still actively working this out. ",
+              "text": " (2025 FC 422) shows federal courts are actively grappling with where universities sit. ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4780,7 +4462,7 @@
               "color": null
             },
             {
-              "text": " simplified the test; it did not make the boundary cases easier to call.",
+              "text": " simplified the test. It did not resolve the cases where the line between public and private is genuinely uncertain — and for students in serious disciplinary proceedings, uncertainty about which forum applies is itself a serious problem.",
               "href": null,
               "bold": false,
               "italic": false,
@@ -4878,8 +4560,8 @@
           "children": []
         }
       ],
-      "body": "Week 2 Reflection: What Makes a Decision \"Governmental Enough\" to Review?\nAdmin Law | Week of January 20, 2026\nThis week moved from identifying administrative decision-makers to a sharper question: among bodies that exercise power under legislation, which ones are \"governmental\" enough for their decisions to be challenged by judicial review? The Wall test (2018 SCC 26) is the current answer: judicial review lies where the decision-maker exercises public power — authority that derives from legislation in a way that makes the function governmental in character. Where authority comes from contract or consent, private law remedies apply instead. Before Wall, three competing lines of cases produced inconsistent results — the Lindenburger source-of-power line, the Air Canada v Toronto Port Authority multi-factor governmental-function line, and the McCaw/Lakeside Colony distinction between statutory powers and private powers under a regulatory scheme. Wall tried to replace all three with a single, cleaner question. The issue is whether that simplification works in practice.\nDuring the COVID-19 pandemic, Ontario condominium corporations issued rules restricting common area access, guest policies, and elevator use for residents believed to be infectious. CBC News reported on a downtown Toronto condo requiring proof of vaccination to use amenities; the Globe and Mail noted that boards were largely left to navigate the rules without provincial guidance. Some residents who faced fines wanted to know whether they could challenge these decisions through judicial review. The Wall framework gives a clear answer: no. A condominium corporation's authority comes from the Condominium Act, but the nature of the relationship between a condo corporation and its unit owners is fundamentally private — it resembles a community of property owners managing shared space, not a government regulating the public. Courts upheld several COVID condo policies through the Condominium Act's own dispute mechanisms and the Condominium Authority Tribunal, confirming that private law, not judicial review, is the right channel.\nThe Wall result is probably correct for condo boards. But running the pre-Wall lines against the same facts reveals why Wall was needed and why it still creates difficulty at the margins. The Lindenburger source-of-power line would have noted that a condo board's authority traces to the Condominium Act — a statute — and might have pointed toward reviewability. The Air Canada TPA multi-factor line, looking at government funding and control, would have landed on \"not sufficiently governmental.\" The McCaw line would have asked whether the board was exercising a statutory power and might have reached a third result. The inconsistency across frameworks for the same body is exactly the problem Wall addressed. Its single \"public power\" question produces a cleaner outcome: the function is private in character, so judicial review is unavailable.\nThe harder problem is Aga v Ethiopian Orthodox Tewahedo Church of Canada St. Mary Cathedral (2021 SCC 22), decided three years after Wall. The SCC held that a religious community's decision to expel members was not judicially reviewable. The Wall logic applied cleanly: the church's authority is consensual, not governmental. But the case highlights that powerful private institutions can make life-altering decisions — professional, social, financial — with no public law check whatsoever. For me as an international student, the most consequential decision-making body in my daily life is not a government agency but my university. Universities are created by provincial statute, receive public funding, and make discipline decisions that can affect study permit status and immigration outcomes. Whether university disciplinary proceedings are subject to judicial review turns on exactly the Wall characterization, and MacKinnon v University of Guelph (2025 FC 422) shows courts are still actively working this out. Wall simplified the test; it did not make the boundary cases easier to call.\nCases referenced: Wall v Independent Planning Association, 2018 SCC 26 | Aga v Ethiopian Orthodox Tewahedo Church of Canada St. Mary Cathedral, 2021 SCC 22 | MacKinnon v University of Guelph, 2025 FC 422\n---\nSources\nToronto condo building brings in vaccine policy for amenities (CBC News)\nIn condo land, COVID-19 vaccine rules are hazy (The Globe and Mail)\nCondo COVID-19 Policy Upheld as Enforceable by Court (Lash Condo Law)",
-      "summary": "Week 2 Reflection: What Makes a Decision \"Governmental Enough\" to Review? Admin Law | Week of January 20, 2026 This week moved from identifying administrative decision-makers to a sharper question: among bodies that exercise power under legislation, which ones are \"governmental\"…",
+      "body": "Admin Law | Week of January 20, 2026\nThis week built on last week's question — not just what an administrative decision-maker is, but which ones are actually subject to judicial review. Judicial review is the process by which courts check whether a public body acted within its legal authority and treated people fairly. It is a powerful tool, but it is not available against every organization that makes decisions affecting people's lives. The Wall test (2018 SCC 26) determines when it applies: a body must be exercising public power — authority that flows from the state through legislation and that makes the body governmental in nature. If the body's authority comes from a contract, from consent, or from a purely private arrangement, the courts say: that is a private matter, and private law — not judicial review — is your remedy.\nDuring the COVID-19 pandemic, Ontario condominium corporations issued rules restricting elevator access, banning guests, and in some buildings requiring proof of vaccination just to use shared amenities. Some residents received fines. CBC News reported on a downtown Toronto condo rolling out a vaccine policy for common areas; the Globe and Mail noted that boards were left to set their own rules without provincial guidance. A fined resident asking \"can I challenge this in court?\" would quickly run into the Wall test. Condo boards get their governance powers from the Condominium Act, but the nature of the relationship is fundamentally private — you bought into a community of property owners, and disputes within that community stay there. Courts treated COVID condo policies as valid exercises of board authority, enforceable through the Condominium Authority Tribunal and the Act's own dispute resolution processes, not through judicial review. The Wall test gave the right answer here.\nBefore Wall, courts had tried three different approaches to drawing this line, and each produced different results for the same kinds of bodies. One approach focused on where the legal authority came from — does it trace back to a statute? Another looked at a list of factors — government funding, government control, the public character of the function — to determine whether the body was \"sufficiently governmental.\" A third tried to distinguish between bodies exercising statutory powers and bodies exercising private powers even within a regulated industry. The problem was that condo boards, universities, and professional associations could come out differently depending on which approach a judge preferred. Wall replaced all three with one question: is the power the body is exercising a public power? That produced more predictable outcomes, even if the boundary remains genuinely difficult in some cases.\nAga v Ethiopian Orthodox Tewahedo Church of Canada St. Mary Cathedral (2021 SCC 22), decided three years after Wall, shows where the clean answer gets uncomfortable. A religious community expelled members from the church. The SCC applied Wall and held the decision was not reviewable — the church's authority over its members comes from religious community and consent, not from the state. Legally, this is correct. Practically, it means that people expelled from a tight-knit religious community, with serious social and personal consequences, have no public law remedy at all. The Wall test delivered clarity; it did not promise justice for every situation it classifies as private.\nFor me as an international student, the most consequential institution in my daily life is not a government agency — it is my university. Universities are created by provincial statute and receive public funding, but they also have a private, consensual dimension: you chose to enroll, you agreed to the institution's rules. A finding of academic dishonesty can cost me my enrolment and, because my study permit is tied to being a full-time student, can unravel my immigration status in Canada. Whether that disciplinary decision is subject to judicial review or left to the university's internal process depends on exactly the Wall characterization. MacKinnon v University of Guelph (2025 FC 422) shows federal courts are actively grappling with where universities sit. Wall simplified the test. It did not resolve the cases where the line between public and private is genuinely uncertain — and for students in serious disciplinary proceedings, uncertainty about which forum applies is itself a serious problem.\nCases referenced: Wall v Independent Planning Association, 2018 SCC 26 | Aga v Ethiopian Orthodox Tewahedo Church of Canada St. Mary Cathedral, 2021 SCC 22 | MacKinnon v University of Guelph, 2025 FC 422\n---\nSources\nToronto condo building brings in vaccine policy for amenities (CBC News)\nIn condo land, COVID-19 vaccine rules are hazy (The Globe and Mail)\nCondo COVID-19 Policy Upheld as Enforceable by Court (Lash Condo Law)",
+      "summary": "Admin Law | Week of January 20, 2026 This week built on last week's question — not just what an administrative decision-maker is, but which ones are actually subject to judicial review. Judicial review is the process by which courts check whether a public body acted within its l…",
       "images": [],
       "attachments": []
     },
