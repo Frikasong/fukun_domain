@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-24T22:40:38.408Z",
+  "generatedAt": "2026-03-25T01:49:32.588Z",
   "source": "notion",
   "entries": [
     {
       "id": 55919936330847,
       "notionPageId": "32dbdff0-dc5f-801f-8777-f0651e5a0474",
       "title": "",
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "section": "tech",
       "author": null,
       "tags": null,
@@ -20,7 +20,7 @@
       "id": 55645058423903,
       "notionPageId": "329bdff0-dc5f-801c-a85d-ce9b113c7dd8",
       "title": "Tech insight post test",
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "section": "tech",
       "author": [
         "Fukun"
@@ -36,7 +36,7 @@
       "id": 55645058423903,
       "notionPageId": "329bdff0-dc5f-804b-83fa-e97180fb479a",
       "title": "Essays Test Post",
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "section": "essays",
       "author": [
         "Fukun"
@@ -52,7 +52,7 @@
       "id": 55645058423903,
       "notionPageId": "329bdff0-dc5f-808f-984a-ec008882e131",
       "title": "Investment Test Post",
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "section": "investment",
       "author": [
         "Fukun"
@@ -12899,7 +12899,7 @@
     {
       "id": 55713777900639,
       "notionPageId": "32abdff0-dc5f-8198-b71d-fcc49a484d9e",
-      "title": "Week 5: Building to Survive — How the LTB Was Designed Around a Constitutional Challenge",
+      "title": "Week 5: Did the LTB Actually Survive s. 96, or Just Pass a Low Bar?",
       "date": "2026-02-14",
       "section": "law",
       "author": [
@@ -12911,28 +12911,12 @@
       ],
       "blocks": [
         {
-          "type": "heading_1",
-          "rich_text": [
-            {
-              "text": "Week 5 Reflection: Did the LTB Actually Survive s. 96 — or Just Pass a Low Bar?",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
           "type": "paragraph",
           "rich_text": [
             {
               "text": "Admin Law | Week of February 10, 2026",
               "href": null,
-              "bold": false,
+              "bold": true,
               "italic": true,
               "code": false,
               "strike": false,
@@ -12946,7 +12930,7 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "This week the course addressed the constitutional constraints on what provincial legislatures can delegate to administrative tribunals — specifically, the s. 96 challenge to the Landlord and Tenant Board. The framework is a three-step test from the ",
+              "text": "This week the course addressed the constitutional constraints on what provincial legislatures can delegate to administrative tribunals, specifically, the s. 96 challenge to the Landlord and Tenant Board. The framework is a three-step test from the ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -13158,7 +13142,7 @@
               "color": null
             },
             {
-              "text": " of power can be delegated. It says nothing about how well the power must be exercised or what resources must be allocated to exercise it adequately. The LTB's 2023 backlog was not a constitutional failure. Every step of the 1981 test was satisfied. What failed was the gap between what the statute promised — accessible, timely dispute resolution — and what the institution delivered in practice. These are different questions, and the constitutional framework only speaks to the first.",
+              "text": " of power can be delegated. It says nothing about how well the power must be exercised or what resources must be allocated to exercise it adequately. The LTB's 2023 backlog was not a constitutional failure. Every step of the 1981 test was satisfied. What failed was the gap between what the statute promised, accessible, timely dispute resolution, and what the institution delivered in practice. These are different questions, and the constitutional framework only speaks to the first.",
               "href": null,
               "bold": false,
               "italic": false,
@@ -13300,7 +13284,7 @@
               "color": null
             },
             {
-              "text": " forum exists. It tells them nothing about whether they will receive justice in any practical timeframe. For international students in Ontario — who disproportionately rent, often in housing with maintenance issues, and who may be less familiar with how to assert LTB rights — the question of functional adequacy is not abstract.",
+              "text": " forum exists. It tells them nothing about whether they will receive justice in any practical timeframe. For international students in Ontario, who disproportionately rent, often in housing with maintenance issues, and who may be less familiar with how to assert LTB rights, the question of functional adequacy is not abstract.",
               "href": null,
               "bold": false,
               "italic": false,
@@ -13414,15 +13398,15 @@
           "children": []
         }
       ],
-      "body": "Week 5 Reflection: Did the LTB Actually Survive s. 96 — or Just Pass a Low Bar?\nAdmin Law | Week of February 10, 2026\nThis week the course addressed the constitutional constraints on what provincial legislatures can delegate to administrative tribunals — specifically, the s. 96 challenge to the Landlord and Tenant Board. The framework is a three-step test from the Reference re Residential Tenancies Act, 1979 (Ontario) [1981] 1 SCR 714: characterize the power being delegated; ask whether it broadly conforms to a jurisdiction \"exclusively or primarily\" held by superior courts at Confederation; and if so, determine whether it is embedded in a broader administrative scheme that warrants specialization. The Ontario scheme failed in 1981 — the tribunal's eviction and possession powers resembled superior court jurisdiction too closely, and the administrative context wasn't developed enough to save it. The legislature redesigned. The modern LTB, under the Residential Tenancies Act, 2006, survived s. 96 scrutiny because the new scheme was sufficiently distinct from common law landlord-tenant adjudication to clear the third step, a result confirmed by the Reference re Residential Tenancies Act (Nova Scotia) [1996] 1 SCR 186. The week's question was what that survival actually guarantees.\nIn May 2023, Ontario's Ombudsman released Administrative Justice Delayed, Fairness Denied, the result of a three-year investigation into the LTB. The findings documented a backlog of more than 38,000 cases, median wait times of seven to eight months for landlord applications and up to two years for some tenant matters. CBC News described the LTB as \"fundamentally failing\". The Advocacy Centre for Tenants Ontario argued that the digital-first hearing model deepened rather than resolved the crisis. Tribunal Watch Ontario published ongoing numbers. Reading this alongside the week's cases, the question that kept surfacing was: the three-step test told us the LTB is constitutionally valid — but what does that validity actually say about the system described in the Ombudsman's report?\nThe answer the course framework gives is precise and limited. The three-step test asks whether the type of power can be delegated. It says nothing about how well the power must be exercised or what resources must be allocated to exercise it adequately. The LTB's 2023 backlog was not a constitutional failure. Every step of the 1981 test was satisfied. What failed was the gap between what the statute promised — accessible, timely dispute resolution — and what the institution delivered in practice. These are different questions, and the constitutional framework only speaks to the first.\nCrevier v AG Quebec [1981] 2 SCR 220 and MacMillan Bloedel Ltd v Simpson [1995] 4 SCR 725 add the structural limits that bracket what the legislature can do once it delegates. Crevier protects judicial review of jurisdictional error; MacMillan Bloedel prevents the full abolition of superior court oversight. Together they ensure that even a constitutionally valid tribunal remains judicially accountable for excess of authority and that courts retain an irreducible supervisory role. But neither case speaks to how fast the tribunal must work or how many adjudicators it must employ. The constitutional safety valves are about unlawful action, not slow action.\nThis is where the analysis from class meets a dimension the course doesn't fully address. The Ombudsman's report documented not just delay but the effects of delay: tenants unable to get orders enforcing maintenance obligations, people in unsafe housing waiting months for hearings that the statute theoretically made available to them. The constitutional survival of the LTB tells those tenants the right forum exists. It tells them nothing about whether they will receive justice in any practical timeframe. For international students in Ontario — who disproportionately rent, often in housing with maintenance issues, and who may be less familiar with how to assert LTB rights — the question of functional adequacy is not abstract.\nCases referenced: Reference re Residential Tenancies Act, 1979 (Ontario), [1981] 1 SCR 714 | Reference re Residential Tenancies Act (Nova Scotia), [1996] 1 SCR 186 | Crevier v AG Quebec, [1981] 2 SCR 220 | MacMillan Bloedel Ltd v Simpson, [1995] 4 SCR 725 | Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65\n---\nSources\nAdministrative Justice Delayed, Fairness Denied — Ombudsman Ontario (May 2023)\nOntario's Landlord and Tenant Board 'fundamentally failing,' ombudsman finds (CBC News)\nThe Landlord and Tenant Board is broken (Advocacy Centre for Tenants Ontario)\nLTB Statement of Concern: The Numbers Speak for Themselves (Tribunal Watch Ontario)",
-      "summary": "Week 5 Reflection: Did the LTB Actually Survive s. 96 — or Just Pass a Low Bar? Admin Law | Week of February 10, 2026 This week the course addressed the constitutional constraints on what provincial legislatures can delegate to administrative tribunals — specifically, the s. 96 …",
+      "body": "Admin Law | Week of February 10, 2026\nThis week the course addressed the constitutional constraints on what provincial legislatures can delegate to administrative tribunals, specifically, the s. 96 challenge to the Landlord and Tenant Board. The framework is a three-step test from the Reference re Residential Tenancies Act, 1979 (Ontario) [1981] 1 SCR 714: characterize the power being delegated; ask whether it broadly conforms to a jurisdiction \"exclusively or primarily\" held by superior courts at Confederation; and if so, determine whether it is embedded in a broader administrative scheme that warrants specialization. The Ontario scheme failed in 1981 — the tribunal's eviction and possession powers resembled superior court jurisdiction too closely, and the administrative context wasn't developed enough to save it. The legislature redesigned. The modern LTB, under the Residential Tenancies Act, 2006, survived s. 96 scrutiny because the new scheme was sufficiently distinct from common law landlord-tenant adjudication to clear the third step, a result confirmed by the Reference re Residential Tenancies Act (Nova Scotia) [1996] 1 SCR 186. The week's question was what that survival actually guarantees.\nIn May 2023, Ontario's Ombudsman released Administrative Justice Delayed, Fairness Denied, the result of a three-year investigation into the LTB. The findings documented a backlog of more than 38,000 cases, median wait times of seven to eight months for landlord applications and up to two years for some tenant matters. CBC News described the LTB as \"fundamentally failing\". The Advocacy Centre for Tenants Ontario argued that the digital-first hearing model deepened rather than resolved the crisis. Tribunal Watch Ontario published ongoing numbers. Reading this alongside the week's cases, the question that kept surfacing was: the three-step test told us the LTB is constitutionally valid — but what does that validity actually say about the system described in the Ombudsman's report?\nThe answer the course framework gives is precise and limited. The three-step test asks whether the type of power can be delegated. It says nothing about how well the power must be exercised or what resources must be allocated to exercise it adequately. The LTB's 2023 backlog was not a constitutional failure. Every step of the 1981 test was satisfied. What failed was the gap between what the statute promised, accessible, timely dispute resolution, and what the institution delivered in practice. These are different questions, and the constitutional framework only speaks to the first.\nCrevier v AG Quebec [1981] 2 SCR 220 and MacMillan Bloedel Ltd v Simpson [1995] 4 SCR 725 add the structural limits that bracket what the legislature can do once it delegates. Crevier protects judicial review of jurisdictional error; MacMillan Bloedel prevents the full abolition of superior court oversight. Together they ensure that even a constitutionally valid tribunal remains judicially accountable for excess of authority and that courts retain an irreducible supervisory role. But neither case speaks to how fast the tribunal must work or how many adjudicators it must employ. The constitutional safety valves are about unlawful action, not slow action.\nThis is where the analysis from class meets a dimension the course doesn't fully address. The Ombudsman's report documented not just delay but the effects of delay: tenants unable to get orders enforcing maintenance obligations, people in unsafe housing waiting months for hearings that the statute theoretically made available to them. The constitutional survival of the LTB tells those tenants the right forum exists. It tells them nothing about whether they will receive justice in any practical timeframe. For international students in Ontario, who disproportionately rent, often in housing with maintenance issues, and who may be less familiar with how to assert LTB rights, the question of functional adequacy is not abstract.\nCases referenced: Reference re Residential Tenancies Act, 1979 (Ontario), [1981] 1 SCR 714 | Reference re Residential Tenancies Act (Nova Scotia), [1996] 1 SCR 186 | Crevier v AG Quebec, [1981] 2 SCR 220 | MacMillan Bloedel Ltd v Simpson, [1995] 4 SCR 725 | Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65\n---\nSources\nAdministrative Justice Delayed, Fairness Denied — Ombudsman Ontario (May 2023)\nOntario's Landlord and Tenant Board 'fundamentally failing,' ombudsman finds (CBC News)\nThe Landlord and Tenant Board is broken (Advocacy Centre for Tenants Ontario)\nLTB Statement of Concern: The Numbers Speak for Themselves (Tribunal Watch Ontario)",
+      "summary": "Admin Law | Week of February 10, 2026 This week the course addressed the constitutional constraints on what provincial legislatures can delegate to administrative tribunals, specifically, the s. 96 challenge to the Landlord and Tenant Board. The framework is a three-step test fr…",
       "images": [],
       "attachments": []
     },
     {
       "id": 55713777900639,
       "notionPageId": "32abdff0-dc5f-8198-92ce-f8523ac569ed",
-      "title": "Week 4: The AGCO Compliance Manual — The Law That Nobody Voted On",
+      "title": "Week 4: When Does a Guideline Become Illegal Control?",
       "date": "2026-02-07",
       "section": "law",
       "author": [
@@ -13434,28 +13418,12 @@
       ],
       "blocks": [
         {
-          "type": "heading_1",
-          "rich_text": [
-            {
-              "text": "Week 4 Reflection: When Does a Guideline Become Illegal Control?",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
           "type": "paragraph",
           "rich_text": [
             {
               "text": "Admin Law | Week of February 3, 2026",
               "href": null,
-              "bold": false,
+              "bold": true,
               "italic": true,
               "code": false,
               "strike": false,
@@ -13469,7 +13437,7 @@
           "type": "paragraph",
           "rich_text": [
             {
-              "text": "This week the course introduced soft law — policies, guidelines, and internal instructions that agencies use to structure discretion without formal rule-making — and the fettering doctrine that governs when those tools cross a legal line. The key framework came from ",
+              "text": "This week the course introduced soft law, policies, guidelines, and internal instructions that agencies use to structure discretion without formal rule-making, and the fettering doctrine that governs when those tools cross a legal line. The key framework came from ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -13509,7 +13477,7 @@
               "color": null
             },
             {
-              "text": " [1999] 2 SCR 817, which treated ministerial guidelines as legitimate and important context for structuring discretion — and ",
+              "text": " [1999] 2 SCR 817, which treated ministerial guidelines as legitimate and important context for structuring discretion, and ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -13681,7 +13649,7 @@
               "color": null
             },
             {
-              "text": "? A refusal that says \"the applicant has not demonstrated sufficient ties to their home country\" without engaging with the specific evidence in the file looks more like the latter. But here is the difficulty the cases expose — from the outside, a thoughtful application of the framework and a mechanical one can produce identical output. Both result in the same refusal letter citing the same criteria. The ",
+              "text": "? A refusal that says \"the applicant has not demonstrated sufficient ties to their home country\" without engaging with the specific evidence in the file looks more like the latter. But here is the difficulty the cases expose, from the outside, a thoughtful application of the framework and a mechanical one can produce identical output. Both result in the same refusal letter citing the same criteria. The ",
               "href": null,
               "bold": false,
               "italic": false,
@@ -13937,8 +13905,8 @@
           "children": []
         }
       ],
-      "body": "Week 4 Reflection: When Does a Guideline Become Illegal Control?\nAdmin Law | Week of February 3, 2026\nThis week the course introduced soft law — policies, guidelines, and internal instructions that agencies use to structure discretion without formal rule-making — and the fettering doctrine that governs when those tools cross a legal line. The key framework came from Maple Lodge Farms Ltd v Canada [1982] 2 SCR 2: when a decision-maker applies a policy so mechanically that it substitutes the policy for actual judgment, the discretion Parliament delegated is not exercised at all. But the week also covered Baker v Canada [1999] 2 SCR 817, which treated ministerial guidelines as legitimate and important context for structuring discretion — and Agraira v Canada (2013 SCC 36), which suggested that a reasonable officer would engage seriously with published guidelines. The doctrinal tension is real: ignoring guidelines can be arbitrary; following them too rigidly is fettering. The week left the question of where exactly that line sits as one the cases don't fully resolve.\nThat tension maps almost perfectly onto something immigration lawyers have been raising publicly for years. In 2022 and 2023, concerns were documented about how IRCC officers were assessing the \"genuineness of studies\" requirement for study permit applications. The operative criteria were drawn from internal Program Delivery Instructions — internal documents not published as regulations. The International Bar Association has noted that \"genuineness\" refusals are among the most common and hardest to challenge, often arriving as boilerplate with no specific explanation. Lawyers have used access-to-information requests and procedural fairness letter responses to piece together what criteria were actually applied, sometimes finding that officers appeared to be ticking boxes — travel history, financial ties, family circumstances — without engaging with the full picture.\nThis is the Maple Lodge Farms problem in a contemporary setting. The PDI provides a structured assessment framework; the officer applies it to a file; a refusal is issued. The question the course framework asks is: was the framework used as a tool for judgment, or as a substitute for judgment? A refusal that says \"the applicant has not demonstrated sufficient ties to their home country\" without engaging with the specific evidence in the file looks more like the latter. But here is the difficulty the cases expose — from the outside, a thoughtful application of the framework and a mechanical one can produce identical output. Both result in the same refusal letter citing the same criteria. The Maple Lodge fettering concern is partly an evidentiary problem that reviewing courts have to reconstruct after the fact.\nVavilov (2019 SCC 65) gives one answer to this. The reasonableness standard requires decision-makers to produce reasons that actually grapple with the key considerations in the record — including why the guideline criteria were or weren't met for this particular applicant. A refusal that recites the PDI language without engaging with the specific evidence is more vulnerable to a finding of unreasonableness under Vavilov than one showing genuine individual consideration. In that sense, Vavilov operationalizes the Maple Lodge/Baker tension: it creates an accountability mechanism through the reasons requirement that should reveal, at least partially, whether the officer was exercising genuine judgment or applying a checklist.\nBut the framework still doesn't address an earlier problem. The PDIs themselves are not easily accessible to applicants. If you don't know what criteria the officer is applying, you cannot structure your application to engage with those criteria, and you cannot identify on review whether the officer applied them thoughtfully or mechanically. The fettering doctrine addresses the quality of the individual decision. The opacity of the underlying framework is a problem at a different stage — one that produces the conditions for fettering without being fettering itself. Whether that opacity is an administrative law problem or just a transparency policy problem, I haven't found the cases directly addressing.\nCases referenced: Maple Lodge Farms Ltd v Canada, [1982] 2 SCR 2 | Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817 | Agraira v Canada (Public Safety and Emergency Preparedness), 2013 SCC 36 | Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65\n---\nSources\nStudy permit refusals in Canada (International Bar Association)\nIRCC Procedural Fairness Letter — How to Respond (Canadian Currents Immigration)\nStudy Permit Application Refusals (Canadavisa)\nIRCC Ministerial Instructions (Canada.ca)",
-      "summary": "Week 4 Reflection: When Does a Guideline Become Illegal Control? Admin Law | Week of February 3, 2026 This week the course introduced soft law — policies, guidelines, and internal instructions that agencies use to structure discretion without formal rule-making — and the fetteri…",
+      "body": "Admin Law | Week of February 3, 2026\nThis week the course introduced soft law, policies, guidelines, and internal instructions that agencies use to structure discretion without formal rule-making, and the fettering doctrine that governs when those tools cross a legal line. The key framework came from Maple Lodge Farms Ltd v Canada [1982] 2 SCR 2: when a decision-maker applies a policy so mechanically that it substitutes the policy for actual judgment, the discretion Parliament delegated is not exercised at all. But the week also covered Baker v Canada [1999] 2 SCR 817, which treated ministerial guidelines as legitimate and important context for structuring discretion, and Agraira v Canada (2013 SCC 36), which suggested that a reasonable officer would engage seriously with published guidelines. The doctrinal tension is real: ignoring guidelines can be arbitrary; following them too rigidly is fettering. The week left the question of where exactly that line sits as one the cases don't fully resolve.\nThat tension maps almost perfectly onto something immigration lawyers have been raising publicly for years. In 2022 and 2023, concerns were documented about how IRCC officers were assessing the \"genuineness of studies\" requirement for study permit applications. The operative criteria were drawn from internal Program Delivery Instructions — internal documents not published as regulations. The International Bar Association has noted that \"genuineness\" refusals are among the most common and hardest to challenge, often arriving as boilerplate with no specific explanation. Lawyers have used access-to-information requests and procedural fairness letter responses to piece together what criteria were actually applied, sometimes finding that officers appeared to be ticking boxes — travel history, financial ties, family circumstances — without engaging with the full picture.\nThis is the Maple Lodge Farms problem in a contemporary setting. The PDI provides a structured assessment framework; the officer applies it to a file; a refusal is issued. The question the course framework asks is: was the framework used as a tool for judgment, or as a substitute for judgment? A refusal that says \"the applicant has not demonstrated sufficient ties to their home country\" without engaging with the specific evidence in the file looks more like the latter. But here is the difficulty the cases expose, from the outside, a thoughtful application of the framework and a mechanical one can produce identical output. Both result in the same refusal letter citing the same criteria. The Maple Lodge fettering concern is partly an evidentiary problem that reviewing courts have to reconstruct after the fact.\nVavilov (2019 SCC 65) gives one answer to this. The reasonableness standard requires decision-makers to produce reasons that actually grapple with the key considerations in the record — including why the guideline criteria were or weren't met for this particular applicant. A refusal that recites the PDI language without engaging with the specific evidence is more vulnerable to a finding of unreasonableness under Vavilov than one showing genuine individual consideration. In that sense, Vavilov operationalizes the Maple Lodge/Baker tension: it creates an accountability mechanism through the reasons requirement that should reveal, at least partially, whether the officer was exercising genuine judgment or applying a checklist.\nBut the framework still doesn't address an earlier problem. The PDIs themselves are not easily accessible to applicants. If you don't know what criteria the officer is applying, you cannot structure your application to engage with those criteria, and you cannot identify on review whether the officer applied them thoughtfully or mechanically. The fettering doctrine addresses the quality of the individual decision. The opacity of the underlying framework is a problem at a different stage — one that produces the conditions for fettering without being fettering itself. Whether that opacity is an administrative law problem or just a transparency policy problem, I haven't found the cases directly addressing.\nCases referenced: Maple Lodge Farms Ltd v Canada, [1982] 2 SCR 2 | Baker v Canada (Minister of Citizenship and Immigration), [1999] 2 SCR 817 | Agraira v Canada (Public Safety and Emergency Preparedness), 2013 SCC 36 | Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65\n---\nSources\nStudy permit refusals in Canada (International Bar Association)\nIRCC Procedural Fairness Letter — How to Respond (Canadian Currents Immigration)\nStudy Permit Application Refusals (Canadavisa)\nIRCC Ministerial Instructions (Canada.ca)",
+      "summary": "Admin Law | Week of February 3, 2026 This week the course introduced soft law, policies, guidelines, and internal instructions that agencies use to structure discretion without formal rule-making, and the fettering doctrine that governs when those tools cross a legal line. The k…",
       "images": [],
       "attachments": []
     },
@@ -14518,28 +14486,12 @@
       ],
       "blocks": [
         {
-          "type": "heading_1",
-          "rich_text": [
-            {
-              "text": "Week 2 Reflection: What Makes a Decision \"Governmental Enough\" to Review?",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
           "type": "paragraph",
           "rich_text": [
             {
               "text": "Admin Law | Week of January 20, 2026",
               "href": null,
-              "bold": false,
+              "bold": true,
               "italic": true,
               "code": false,
               "strike": false,
@@ -15265,15 +15217,15 @@
           "children": []
         }
       ],
-      "body": "Week 2 Reflection: What Makes a Decision \"Governmental Enough\" to Review?\nAdmin Law | Week of January 20, 2026\nThis week we moved to a question that follows directly from the source-of-power analysis: given that judicial review is meant for public law decision-makers, how do courts decide whether a particular body qualifies? The Wall test (2018 SCC 26) is the current answer, asking whether the decision-maker exercises a public power, meaning one that derives from legislation in a way that makes the function governmental in character. The course also traced the three pre-Wall lines that produced inconsistent results: the Lindenburger source-of-power line, the Air Canada v Toronto Port Authority multi-factor governmental-function line, and the McCaw/Lakeside Colony statutory-versus-private power line. Each captured something real; the problem was they sometimes pointed in different directions for the same body. Wall tried to bring coherence. The question I left class with was whether it succeeded, or just substituted one set of difficulties for another.\nDuring the COVID-19 pandemic, a number of Ontario condominium corporations issued rules restricting common area access, guest policies, and elevator use for residents believed to be infectious. Some boards enforced these rules through significant fines. CBC News reported on a downtown Toronto condo that required proof of vaccination to use amenities, a move lawyers warned could be challenged. The Globe and Mail noted that condo boards were largely left to navigate on their own, without provincial guidance on what they could lawfully impose. A few residents wanted to challenge these decisions and had to figure out which forum applied. That question maps directly onto what we studied: was the condo board exercising a public power subject to judicial review, or a private power that only private law could address?\nApply the Wall framework: where does a condo board's authority come from? The Condominium Act creates the corporation and grants governance powers, but the statute is essentially enabling legislation for a community of private property owners to manage shared spaces. The relationship between a condo corporation and its unit owners looks far more like a contractual private arrangement than a government regulating the public. Under Wall, that probably takes it outside judicial review. Courts have upheld COVID condo policies as valid exercises of board authority — but through private law mechanisms (the Condominium Act's own dispute resolution framework and the Condominium Authority Tribunal), not judicial review.\nNow run the pre-Wall lines against the same facts and see what happens. The Lindenburger source-of-power line would ask whether the authority derives from a statute — and the Condominium Act does provide the statutory basis, which might point toward reviewability. The Air Canada TPA multi-factor line would look at government funding (very little), government control (minimal), and public character of the function (debatable) — and would likely land on \"not sufficiently governmental.\" The McCaw/Lakeside Colony line would ask whether the body exercises a statutory power specifically — and might reach a different conclusion than Wall if the board's enforcement authority is traced to the Condominium Act directly. The point is that the answer isn't stable across the frameworks, which is exactly the problem Wall was meant to fix.\nAga v Ethiopian Orthodox Tewahedo Church of Canada St. Mary Cathedral (2021 SCC 22) applied Wall to find that a religious community's expulsion of members was not reviewable — clean answer, significant consequences for the people expelled. As an international student, the institution with the most practical power over my daily life is the university, not a government agency. Universities are created by provincial statute, receive public funding, and make decisions about academic standing and discipline that directly affect study permit status. Wall and Aga have arguably made the private/public characterization harder to apply for these ambiguous middle-ground bodies. MacKinnon v University of Guelph (2025 FC 422) shows federal courts are still actively working through where universities sit. The Wall test gave us one question to ask instead of three, but the one question is not obviously easier to answer for bodies like universities that straddle the line.\nCases referenced: Wall v Independent Planning Association, 2018 SCC 26 | Aga v Ethiopian Orthodox Tewahedo Church of Canada St. Mary Cathedral, 2021 SCC 22 | MacKinnon v University of Guelph, 2025 FC 422\n---\nSources\nToronto condo building brings in vaccine policy for amenities (CBC News)\nIn condo land, COVID-19 vaccine rules are hazy (The Globe and Mail)\nCondo COVID-19 Policy Upheld as Enforceable by Court (Lash Condo Law)",
-      "summary": "Week 2 Reflection: What Makes a Decision \"Governmental Enough\" to Review? Admin Law | Week of January 20, 2026 This week we moved to a question that follows directly from the source-of-power analysis: given that judicial review is meant for public law decision-makers, how do cou…",
+      "body": "Admin Law | Week of January 20, 2026\nThis week we moved to a question that follows directly from the source-of-power analysis: given that judicial review is meant for public law decision-makers, how do courts decide whether a particular body qualifies? The Wall test (2018 SCC 26) is the current answer, asking whether the decision-maker exercises a public power, meaning one that derives from legislation in a way that makes the function governmental in character. The course also traced the three pre-Wall lines that produced inconsistent results: the Lindenburger source-of-power line, the Air Canada v Toronto Port Authority multi-factor governmental-function line, and the McCaw/Lakeside Colony statutory-versus-private power line. Each captured something real; the problem was they sometimes pointed in different directions for the same body. Wall tried to bring coherence. The question I left class with was whether it succeeded, or just substituted one set of difficulties for another.\nDuring the COVID-19 pandemic, a number of Ontario condominium corporations issued rules restricting common area access, guest policies, and elevator use for residents believed to be infectious. Some boards enforced these rules through significant fines. CBC News reported on a downtown Toronto condo that required proof of vaccination to use amenities, a move lawyers warned could be challenged. The Globe and Mail noted that condo boards were largely left to navigate on their own, without provincial guidance on what they could lawfully impose. A few residents wanted to challenge these decisions and had to figure out which forum applied. That question maps directly onto what we studied: was the condo board exercising a public power subject to judicial review, or a private power that only private law could address?\nApply the Wall framework: where does a condo board's authority come from? The Condominium Act creates the corporation and grants governance powers, but the statute is essentially enabling legislation for a community of private property owners to manage shared spaces. The relationship between a condo corporation and its unit owners looks far more like a contractual private arrangement than a government regulating the public. Under Wall, that probably takes it outside judicial review. Courts have upheld COVID condo policies as valid exercises of board authority — but through private law mechanisms (the Condominium Act's own dispute resolution framework and the Condominium Authority Tribunal), not judicial review.\nNow run the pre-Wall lines against the same facts and see what happens. The Lindenburger source-of-power line would ask whether the authority derives from a statute — and the Condominium Act does provide the statutory basis, which might point toward reviewability. The Air Canada TPA multi-factor line would look at government funding (very little), government control (minimal), and public character of the function (debatable) — and would likely land on \"not sufficiently governmental.\" The McCaw/Lakeside Colony line would ask whether the body exercises a statutory power specifically — and might reach a different conclusion than Wall if the board's enforcement authority is traced to the Condominium Act directly. The point is that the answer isn't stable across the frameworks, which is exactly the problem Wall was meant to fix.\nAga v Ethiopian Orthodox Tewahedo Church of Canada St. Mary Cathedral (2021 SCC 22) applied Wall to find that a religious community's expulsion of members was not reviewable — clean answer, significant consequences for the people expelled. As an international student, the institution with the most practical power over my daily life is the university, not a government agency. Universities are created by provincial statute, receive public funding, and make decisions about academic standing and discipline that directly affect study permit status. Wall and Aga have arguably made the private/public characterization harder to apply for these ambiguous middle-ground bodies. MacKinnon v University of Guelph (2025 FC 422) shows federal courts are still actively working through where universities sit. The Wall test gave us one question to ask instead of three, but the one question is not obviously easier to answer for bodies like universities that straddle the line.\nCases referenced: Wall v Independent Planning Association, 2018 SCC 26 | Aga v Ethiopian Orthodox Tewahedo Church of Canada St. Mary Cathedral, 2021 SCC 22 | MacKinnon v University of Guelph, 2025 FC 422\n---\nSources\nToronto condo building brings in vaccine policy for amenities (CBC News)\nIn condo land, COVID-19 vaccine rules are hazy (The Globe and Mail)\nCondo COVID-19 Policy Upheld as Enforceable by Court (Lash Condo Law)",
+      "summary": "Admin Law | Week of January 20, 2026 This week we moved to a question that follows directly from the source-of-power analysis: given that judicial review is meant for public law decision-makers, how do courts decide whether a particular body qualifies? The Wall test (2018 SCC 26…",
       "images": [],
       "attachments": []
     },
     {
       "id": 55713777900639,
       "notionPageId": "32abdff0-dc5f-814b-8070-fbc8bcda38bb",
-      "title": "Week 1: The ServiceOntario Agent — Who Is Actually Making the Decision?",
+      "title": "Week 1: Who Is Actually Making the Decision?",
       "date": "2026-01-17",
       "section": "law",
       "author": [
@@ -15285,28 +15237,12 @@
       ],
       "blocks": [
         {
-          "type": "heading_1",
-          "rich_text": [
-            {
-              "text": "Week 1 Reflection: Who Is Actually Making the Decision?",
-              "href": null,
-              "bold": false,
-              "italic": false,
-              "code": false,
-              "strike": false,
-              "underline": false,
-              "color": null
-            }
-          ],
-          "children": []
-        },
-        {
           "type": "paragraph",
           "rich_text": [
             {
               "text": "Admin Law | Week of January 13, 2026",
               "href": null,
-              "bold": false,
+              "bold": true,
               "italic": true,
               "code": false,
               "strike": false,
@@ -15638,8 +15574,8 @@
           "children": []
         }
       ],
-      "body": "Week 1 Reflection: Who Is Actually Making the Decision?\nAdmin Law | Week of January 13, 2026\nThis week we started from the most basic question administrative law has to answer: what is an \"administrative decision-maker,\" and how do we know when a body is one? The core answer the course introduced is the source-of-power test — a body exercises public law power when its authority derives from statute, and it is that statutory delegation that brings it within the reach of judicial review. Roncarelli v Duplessis [1959] SCR 121 gave us the foundational illustration: a government official who used statutory power for improper purposes was held accountable precisely because the power was public. The authority was legislative; the accountability followed.\nWhen I applied for my study permit last year, the first step was not submitting anything to IRCC, it was booking an appointment through VFS Global, a private company contracted by the government to collect biometrics and application documents. You pay a separate service fee to VFS, submit your materials at a commercial office, and then wait for IRCC to make the actual decision. What I didn't think about at the time was the accountability question embedded in this arrangement. IRCC's own VFS consent form makes the legal position explicit: \"VFS Global is not an agent of the Government of Canada but is a completely independent entity operating under contract.\" In other words, if documents are lost or biometrics incorrectly recorded, VFS's relationship with me is governed by private contract, not public law.\nThis is exactly where the source-of-power test runs into a gap that this week's material doesn't fully resolve. Run the test on VFS: where does its authority come from? The answer is a contract with IRCC, not the Immigration and Refugee Protection Act. VFS doesn't assess applications or make eligibility decisions — it receives documents and collects biometrics. On the strict source-of-power analysis from class, that probably places VFS outside the definition of an administrative decision-maker entirely. It exercises no power delegated by public law; there is nothing to judicially review.\nBut think about what that means practically. VFS is a mandatory gateway to a statutory right. You cannot submit a study permit application to IRCC without going through VFS for biometrics. An error at that stage can delay or derail an application with consequences for status and future immigration history. The actual decision-maker (IRCC) had no role in causing the harm. And yet the person harmed — the applicant — has no direct public law remedy. Contract law gives IRCC a potential claim against VFS for service failures, but it does not give the applicant standing to claim anything.\nThe same structural problem appears with ServiceOntario. Ontario has contracted out vehicle and driver licensing services to private registry agents — pharmacies, car dealerships, private offices, for years. The Auditor General of Ontario raised concerns about this model: when private operators make errors affecting people's licences, the path to correction is murky because the agents are not statutory decision-makers. The errors have real consequences for real people. But the source-of-power test as we studied it this week points to \"no public law accountability\" for the private operator, only for the ministry that designed the system.\nThis is what I keep coming back to: the source-of-power test tells us when administrative law applies to a decision-maker, but it is silent on the question of who is accountable for building a system that routes statutory rights through a private contractor. Roncarelli established that public authority creates public accountability,  but the corollary the case didn't need to address is what happens when public authority is exercised through private architecture. Whether that gap reflects a principled distinction between public decision-making and contracted service delivery, or just a feature of doctrine developed before widespread outsourcing, is something I haven't found an answer to yet.\nCases referenced: Roncarelli v Duplessis, [1959] SCR 121\n---\nSources\nBiometrics — Where to give your fingerprints and photo (IRCC)\nVFS Global Consent Form for Canadian Visa Applications\nOffice of the Auditor General of Ontario",
-      "summary": "Week 1 Reflection: Who Is Actually Making the Decision? Admin Law | Week of January 13, 2026 This week we started from the most basic question administrative law has to answer: what is an \"administrative decision-maker,\" and how do we know when a body is one? The core answer the…",
+      "body": "Admin Law | Week of January 13, 2026\nThis week we started from the most basic question administrative law has to answer: what is an \"administrative decision-maker,\" and how do we know when a body is one? The core answer the course introduced is the source-of-power test — a body exercises public law power when its authority derives from statute, and it is that statutory delegation that brings it within the reach of judicial review. Roncarelli v Duplessis [1959] SCR 121 gave us the foundational illustration: a government official who used statutory power for improper purposes was held accountable precisely because the power was public. The authority was legislative; the accountability followed.\nWhen I applied for my study permit last year, the first step was not submitting anything to IRCC, it was booking an appointment through VFS Global, a private company contracted by the government to collect biometrics and application documents. You pay a separate service fee to VFS, submit your materials at a commercial office, and then wait for IRCC to make the actual decision. What I didn't think about at the time was the accountability question embedded in this arrangement. IRCC's own VFS consent form makes the legal position explicit: \"VFS Global is not an agent of the Government of Canada but is a completely independent entity operating under contract.\" In other words, if documents are lost or biometrics incorrectly recorded, VFS's relationship with me is governed by private contract, not public law.\nThis is exactly where the source-of-power test runs into a gap that this week's material doesn't fully resolve. Run the test on VFS: where does its authority come from? The answer is a contract with IRCC, not the Immigration and Refugee Protection Act. VFS doesn't assess applications or make eligibility decisions — it receives documents and collects biometrics. On the strict source-of-power analysis from class, that probably places VFS outside the definition of an administrative decision-maker entirely. It exercises no power delegated by public law; there is nothing to judicially review.\nBut think about what that means practically. VFS is a mandatory gateway to a statutory right. You cannot submit a study permit application to IRCC without going through VFS for biometrics. An error at that stage can delay or derail an application with consequences for status and future immigration history. The actual decision-maker (IRCC) had no role in causing the harm. And yet the person harmed — the applicant — has no direct public law remedy. Contract law gives IRCC a potential claim against VFS for service failures, but it does not give the applicant standing to claim anything.\nThe same structural problem appears with ServiceOntario. Ontario has contracted out vehicle and driver licensing services to private registry agents — pharmacies, car dealerships, private offices, for years. The Auditor General of Ontario raised concerns about this model: when private operators make errors affecting people's licences, the path to correction is murky because the agents are not statutory decision-makers. The errors have real consequences for real people. But the source-of-power test as we studied it this week points to \"no public law accountability\" for the private operator, only for the ministry that designed the system.\nThis is what I keep coming back to: the source-of-power test tells us when administrative law applies to a decision-maker, but it is silent on the question of who is accountable for building a system that routes statutory rights through a private contractor. Roncarelli established that public authority creates public accountability,  but the corollary the case didn't need to address is what happens when public authority is exercised through private architecture. Whether that gap reflects a principled distinction between public decision-making and contracted service delivery, or just a feature of doctrine developed before widespread outsourcing, is something I haven't found an answer to yet.\nCases referenced: Roncarelli v Duplessis, [1959] SCR 121\n---\nSources\nBiometrics — Where to give your fingerprints and photo (IRCC)\nVFS Global Consent Form for Canadian Visa Applications\nOffice of the Auditor General of Ontario",
+      "summary": "Admin Law | Week of January 13, 2026 This week we started from the most basic question administrative law has to answer: what is an \"administrative decision-maker,\" and how do we know when a body is one? The core answer the course introduced is the source-of-power test — a body …",
       "images": [],
       "attachments": []
     }
