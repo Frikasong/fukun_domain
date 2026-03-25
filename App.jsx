@@ -769,11 +769,18 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
 
     return (
       <div style={styles.aboutHub}>
-        {/* Bio — clean flowing text, no boxes */}
-        <div style={styles.aboutBioSection}>
-          <p style={styles.aboutSectionLabel}>{T.about.bg}</p>
-          <p style={styles.aboutText}>{T.about.bg1}</p>
-          <p style={styles.aboutText}>{T.about.bg2}</p>
+        {/* Bio + Portrait — side by side */}
+        <div style={styles.aboutBioRow}>
+          <div style={styles.aboutBioText}>
+            <p style={styles.aboutSectionLabel}>{T.about.bg}</p>
+            <p style={styles.aboutText}>{T.about.bg1}</p>
+            <p style={styles.aboutText}>{T.about.bg2}</p>
+          </div>
+          {/* Glass portrait card */}
+          <div style={styles.aboutPortraitCard}>
+            <img src="portrait.jpg" alt="Fukun Yang" style={styles.aboutPortraitImg} />
+            <div style={styles.aboutPortraitGlass} />
+          </div>
         </div>
         <div style={styles.aboutBioSection}>
           <p style={styles.aboutSectionLabel}>{T.about.interests}</p>
@@ -3131,6 +3138,42 @@ const styles = {
     maxWidth: 640,
     margin: "0 auto",
     padding: "32px 0 48px",
+  },
+  aboutBioRow: {
+    display: "flex",
+    alignItems: "flex-start",
+    gap: 32,
+    marginBottom: 40,
+  },
+  aboutBioText: {
+    flex: 1,
+    minWidth: 0,
+  },
+  aboutPortraitCard: {
+    position: "relative",
+    width: 172,
+    flexShrink: 0,
+    borderRadius: 18,
+    overflow: "hidden",
+    background: "rgba(255,255,255,0.18)",
+    backdropFilter: "blur(14px)",
+    WebkitBackdropFilter: "blur(14px)",
+    border: "1px solid rgba(255,255,255,0.60)",
+    boxShadow: "0 12px 40px rgba(0,0,0,0.13), inset 0 1px 0 rgba(255,255,255,0.6)",
+  },
+  aboutPortraitImg: {
+    display: "block",
+    width: "100%",
+    aspectRatio: "2/3",
+    objectFit: "cover",
+    objectPosition: "center top",
+  },
+  aboutPortraitGlass: {
+    position: "absolute",
+    inset: 0,
+    borderRadius: 18,
+    border: "1px solid rgba(255,255,255,0.35)",
+    pointerEvents: "none",
   },
   aboutBioSection: {
     marginBottom: 40,
