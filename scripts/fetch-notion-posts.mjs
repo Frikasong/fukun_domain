@@ -132,34 +132,23 @@ function getTagsProperty(properties) {
   return null;
 }
 
-function getPublishedProperty(properties) {
-  const explicitFalseTerms = ["draft", "private", "idea", "todo", "wip", "archive", "archived"];
-  const explicitTrueTerms = ["publish", "published", "live", "public", "done", "ready"];
+// Looks for a checkbox property whose name matches "show" / "show status" / "show on site"
+// (case-insensitive). Only syncs the page if the checkbox is ticked.
+// If no such property exists, the page is skipped (opt-in model).
+function getShowStatusProperty(properties) {
+  const SHOW_NAMES = ["show status", "show on site", "show", "publish", "published", "live", "public"];
 
   for (const [name, value] of Object.entries(properties || {})) {
-    const lower = name.toLowerCase();
-    if ((lower.includes("publish") || lower.includes("live")) && value?.type === "checkbox") {
+    const lower = name.toLowerCase().trim();
+    if (value?.type === "checkbox" && SHOW_NAMES.some((n) => lower === n || lower.includes(n))) {
       return {
         isPublished: !!value.checkbox,
         reason: `checkbox:${name}=${value.checkbox ? "true" : "false"}`
       };
     }
-    if ((lower.includes("status") || lower.includes("state")) && value?.type === "select") {
-      const n = (value.select?.name || "").toLowerCase();
-      if (!n) return { isPublished: true, reason: `select:${name}=empty(default-allow)` };
-      if (explicitFalseTerms.some((t) => n.includes(t))) return { isPublished: false, reason: `select:${name}=${n}(blocked)` };
-      if (explicitTrueTerms.some((t) => n.includes(t))) return { isPublished: true, reason: `select:${name}=${n}(allow)` };
-      return { isPublished: true, reason: `select:${name}=${n}(default-allow)` };
-    }
-    if ((lower.includes("status") || lower.includes("state")) && value?.type === "status") {
-      const n = (value.status?.name || "").toLowerCase();
-      if (!n) return { isPublished: true, reason: `status:${name}=empty(default-allow)` };
-      if (explicitFalseTerms.some((t) => n.includes(t))) return { isPublished: false, reason: `status:${name}=${n}(blocked)` };
-      if (explicitTrueTerms.some((t) => n.includes(t))) return { isPublished: true, reason: `status:${name}=${n}(allow)` };
-      return { isPublished: true, reason: `status:${name}=${n}(default-allow)` };
-    }
   }
-  return { isPublished: true, reason: "no-publish-field(default-allow)" };
+  // No recognised show-status checkbox found — skip the page
+  return { isPublished: false, reason: "no-show-status-checkbox(skip)" };
 }
 
 // ── Block fetching ──────────────────────────────────────────────────────────
@@ -311,7 +300,7 @@ async function main() {
     for (const page of data.results || []) {
       totalPagesSeen += 1;
       const properties = page.properties || {};
-      const publish = getPublishedProperty(properties);
+      const publish = getShowStatusProperty(properties);
       if (!publish.isPublished) {
         skippedUnpublished += 1;
         skipReasons[publish.reason] = (skipReasons[publish.reason] || 0) + 1;
