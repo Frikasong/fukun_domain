@@ -304,6 +304,7 @@ function App() {
   const [form, setForm] = useState({ title: "", date: "", body: "", images: [], attachments: [], section: "tech" });
   const [menuOpen, setMenuOpen] = useState(false);
   const [lang, setLang] = useState("en");
+  const [techTab, setTechTab] = useState("lab");
   const [logoFailed, setLogoFailed] = useState(false);
   const [viewportWidth, setViewportWidth] = useState(
     typeof window !== "undefined" ? window.innerWidth : 1280
@@ -516,13 +517,6 @@ function App() {
                     <span>👋</span>
                     <span style={styles.navDropdownItemText}>{T.nav.about}</span>
                   </button>
-                  <button
-                    style={{ ...styles.navDropdownItem, ...(activeSection === "contact" ? styles.navDropdownItemActive : {}) }}
-                    onClick={() => { setActiveSection("contact"); setView("grid"); setHoveredGroup(null); }}
-                  >
-                    <span>📧</span>
-                    <span style={styles.navDropdownItemText}>{T.nav.contact}</span>
-                  </button>
                 </div>
               )}
             </div>
@@ -603,9 +597,6 @@ function App() {
               <button style={{ ...styles.mobilePanelItem, ...(activeSection === "about" ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection("about"); setView("grid"); setMenuOpen(false); }}>
                 👋 {T.nav.about}
               </button>
-              <button style={{ ...styles.mobilePanelItem, ...(activeSection === "contact" ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection("contact"); setView("grid"); setMenuOpen(false); }}>
-                📧 {T.nav.contact}
-              </button>
             </div>
             <div style={styles.mobilePanelGroup}>
               <div style={styles.mobilePanelGroupHeader}>{T.nav.professional}</div>
@@ -659,6 +650,9 @@ function App() {
             onDelete={deleteEntry}
             onOpenPost={openPost}
             setActiveSection={setActiveSection}
+            setView={setView}
+            setTechTab={setTechTab}
+            techTab={techTab}
             T={T}
             lang={lang}
           />
@@ -707,20 +701,58 @@ function App() {
 // ═══════════════════════════════════════════════════════════════════════════
 // GRID VIEW
 // ═══════════════════════════════════════════════════════════════════════════
-function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setActiveSection, T, lang }) {
+function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setActiveSection, setView, setTechTab, techTab, T, lang }) {
   const sectionLabel = T.nav[section.id] || section.name;
   const sectionSub = T.nav[section.id + "Sub"] || section.subtitle;
 
-  // Special handling for About section
+  // Special handling for About section — hub layout
   if (section.id === "about") {
+    const scrollToConnect = () => {
+      document.getElementById("hub-connect")?.scrollIntoView({ behavior: "smooth" });
+    };
+
+    const tiles = [
+      {
+        key: "legal-ai-lab",
+        label: lang === "zh" ? "法律AI实验室" : "Legal AI Lab",
+        sub: lang === "zh" ? "工具与研究" : "Tools & Research",
+        onClick: () => { setActiveSection("tech"); setView("grid"); setTechTab("lab"); },
+      },
+      {
+        key: "tech-brew",
+        label: lang === "zh" ? "科技资讯" : "Tech Updates Brew",
+        sub: lang === "zh" ? "自动新闻雷达" : "Auto news radar",
+        href: "news-radar.html",
+      },
+      {
+        key: "insights",
+        label: lang === "zh" ? "洞见" : "Insights",
+        sub: lang === "zh" ? "观察与文章" : "Observations & writing",
+        onClick: () => { setActiveSection("tech"); setView("grid"); setTechTab("insights"); },
+      },
+      {
+        key: "music",
+        label: lang === "zh" ? "音乐" : "Music",
+        sub: lang === "zh" ? "每周精选" : "Weekly picks",
+        onClick: () => { setActiveSection("music"); setView("grid"); },
+      },
+      {
+        key: "photos",
+        label: lang === "zh" ? "照片" : "Photos",
+        sub: lang === "zh" ? "摄影" : "Photography",
+        onClick: () => { setActiveSection("photography"); setView("grid"); },
+      },
+      {
+        key: "shares",
+        label: lang === "zh" ? "分享" : "Shares",
+        sub: lang === "zh" ? "随笔与思考" : "Essays & thoughts",
+        onClick: () => { setActiveSection("essays"); setView("grid"); },
+      },
+    ];
+
     return (
-      <div style={styles.gridContainer}>
-        <div style={styles.sectionHeader}>
-          <div style={styles.sectionTitleRow}>
-            <span style={styles.sectionIcon}>{section.icon}</span>
-            <h2 style={{ ...styles.sectionTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{sectionLabel}</h2>
-          </div>
-        </div>
+      <div>
+        {/* Bio cards */}
         <div style={styles.aboutContent}>
           <div style={styles.aboutCard}>
             <h3 style={styles.aboutCardTitle}>{T.about.bg}</h3>
@@ -732,13 +764,65 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             <p style={styles.aboutText}>{T.about.int1}</p>
             <p style={styles.aboutText}>
               {T.about.int2}{' '}
-              <span
-                style={styles.aboutConnectLink}
-                onClick={() => { setActiveSection("contact"); setView("grid"); setMenuOpen(false); }}
-              >
+              <span style={styles.aboutConnectLink} onClick={scrollToConnect}>
                 {T.about.connect}
               </span>!
             </p>
+          </div>
+        </div>
+
+        {/* Section tiles */}
+        <div style={styles.hubDivider} />
+        <div style={styles.hubTilesSection}>
+          <p style={styles.hubTilesLabel}>{lang === "zh" ? "探索" : "Explore"}</p>
+          <div style={styles.hubTilesGrid}>
+            {tiles.map((tile) =>
+              tile.href ? (
+                <a
+                  key={tile.key}
+                  href={tile.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={styles.hubTile}
+                >
+                  <span style={styles.hubTileLabel}>{tile.label}</span>
+                  <span style={styles.hubTileSub}>{tile.sub}</span>
+                </a>
+              ) : (
+                <button key={tile.key} style={styles.hubTile} onClick={tile.onClick}>
+                  <span style={styles.hubTileLabel}>{tile.label}</span>
+                  <span style={styles.hubTileSub}>{tile.sub}</span>
+                </button>
+              )
+            )}
+          </div>
+        </div>
+
+        {/* Connect section */}
+        <div style={styles.hubDivider} />
+        <div id="hub-connect" style={styles.hubConnect}>
+          <p style={styles.contactIntro}>{T.contact.intro}</p>
+          <div style={styles.contactIconsRow}>
+            <a href="mailto:frikasong@gmail.com" style={styles.contactIconLink} title={T.contact.email}>
+              <div style={styles.contactIconCircle}><span style={styles.contactIcon}>✉️</span></div>
+              <span style={styles.contactIconLabel}>{T.contact.email}</span>
+            </a>
+            <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.linkedin}>
+              <div style={styles.contactIconCircle}><span style={styles.contactIcon}>💼</span></div>
+              <span style={styles.contactIconLabel}>{T.contact.linkedin}</span>
+            </a>
+            <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.instagram}>
+              <div style={styles.contactIconCircle}><span style={styles.contactIcon}>📷</span></div>
+              <span style={styles.contactIconLabel}>{T.contact.instagram}</span>
+            </a>
+            <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.github}>
+              <div style={styles.contactIconCircle}><span style={styles.contactIcon}>🐙</span></div>
+              <span style={styles.contactIconLabel}>{T.contact.github}</span>
+            </a>
+            <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.rednote}>
+              <div style={styles.contactIconCircle}><span style={styles.contactIcon}>📕</span></div>
+              <span style={styles.contactIconLabel}>{T.contact.rednote}</span>
+            </a>
           </div>
         </div>
       </div>
@@ -747,7 +831,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
 
   // Special handling for Tech section (sub-tabs: Insights | Tools | Observations | AI Lab)
   if (section.id === "tech") {
-    return <TechView entries={entries} onNew={onNew} onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} setActiveSection={setActiveSection} T={T} lang={lang} />;
+    return <TechView entries={entries} onNew={onNew} onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} setActiveSection={setActiveSection} techTab={techTab} setTechTab={setTechTab} T={T} lang={lang} />;
   }
 
   // Special handling for Contact section
@@ -1254,8 +1338,9 @@ function NewsRadarPanel({ title, subtitle, items, region, loading, error, T, lan
 // ═══════════════════════════════════════════════════════════════════════════
 // TECH VIEW (2 sub-tabs: Legal Tech Lab | Observations & Insights)
 // ═══════════════════════════════════════════════════════════════════════════
-function TechView({ entries, onNew, onEdit, onDelete, onOpenPost, setActiveSection, T, lang }) {
-  const [activeTab, setActiveTab] = useState("lab");
+function TechView({ entries, onNew, onEdit, onDelete, onOpenPost, setActiveSection, T, lang, techTab, setTechTab }) {
+  const activeTab = techTab || "lab";
+  const setActiveTab = setTechTab || (() => {});
   const [newsLoading, setNewsLoading] = useState(true);
   const [newsError, setNewsError] = useState("");
   const [newsPanels, setNewsPanels] = useState({ na: [], cn: [] });
@@ -1364,35 +1449,6 @@ function TechView({ entries, onNew, onEdit, onDelete, onOpenPost, setActiveSecti
             </div>
           </div>
 
-          <section style={styles.newsBlock}>
-            <div style={styles.newsBlockHeader}>
-              <h3 style={styles.newsBlockTitle}>{T.news.autoTitle}</h3>
-              <p style={styles.newsBlockSub}>{T.news.autoSub}</p>
-            </div>
-
-            <div style={styles.newsGrid}>
-              <NewsRadarPanel
-                title={T.news.naTitle}
-                subtitle={T.news.naSub}
-                items={[...(newsHighlights.na || []), ...(newsPanels.na || [])]}
-                region="na"
-                loading={newsLoading}
-                error={newsError}
-                T={T}
-                lang={lang}
-              />
-              <NewsRadarPanel
-                title={T.news.cnTitle}
-                subtitle={T.news.cnSub}
-                items={[...(newsHighlights.cn || []), ...(newsPanels.cn || [])]}
-                region="cn"
-                loading={newsLoading}
-                error={newsError}
-                T={T}
-                lang={lang}
-              />
-            </div>
-          </section>
 
           <div style={{ ...styles.sectionHeader, marginTop: 24 }}>
             <div style={styles.sectionTitleRow}>
@@ -3032,6 +3088,73 @@ const styles = {
     fontSize: 14,
     color: "#8EA1A4",
     fontStyle: "italic",
+  },
+  // Hub (About page)
+  hubDivider: {
+    height: 1,
+    background: "rgba(43,80,84,0.1)",
+    margin: "48px 0",
+    maxWidth: 720,
+    marginLeft: "auto",
+    marginRight: "auto",
+  },
+  hubTilesSection: {
+    maxWidth: 720,
+    margin: "0 auto",
+  },
+  hubTilesLabel: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 11,
+    fontWeight: 700,
+    color: "#8EA1A4",
+    letterSpacing: "2px",
+    textTransform: "uppercase",
+    margin: "0 0 20px 0",
+  },
+  hubTilesGrid: {
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))",
+    gap: 14,
+  },
+  hubTile: {
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "flex-start",
+    gap: 6,
+    padding: "20px 22px",
+    background: "#ffffff",
+    border: "1px solid rgba(43,80,84,0.12)",
+    borderRadius: 4,
+    cursor: "pointer",
+    textAlign: "left",
+    textDecoration: "none",
+    transition: "all 0.18s",
+    boxShadow: "0 2px 12px rgba(26,28,28,0.04)",
+  },
+  hubTileLabel: {
+    fontFamily: "'Newsreader', serif",
+    fontSize: 18,
+    fontWeight: 500,
+    fontStyle: "italic",
+    color: "#13181a",
+    lineHeight: 1.2,
+    display: "block",
+  },
+  hubTileSub: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 11,
+    color: "#7B8F92",
+    letterSpacing: "0.3px",
+    display: "block",
+  },
+  hubConnect: {
+    maxWidth: 600,
+    margin: "0 auto 40px",
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    gap: 32,
+    paddingBottom: 20,
   },
 };
 
