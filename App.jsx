@@ -769,17 +769,18 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
 
     return (
       <div style={styles.aboutHub}>
-        {/* Bio */}
-        <div style={styles.aboutBioSection}>
-          <p style={styles.aboutSectionLabel}>{T.about.bg}</p>
-          <p style={styles.aboutText}>{T.about.bg1}</p>
-          <p style={styles.aboutText}>{T.about.bg2}</p>
-        </div>
-
-        {/* Glass portrait card — horizontal */}
-        <div style={styles.aboutPortraitCard}>
-          <img src="portrait.jpg?v=6" alt="Fukun Yang" style={styles.aboutPortraitImg} />
-          <div style={styles.aboutPortraitGlass} />
+        {/* Bio + Portrait — portrait left, text right */}
+        <div style={styles.aboutBioRow}>
+          {/* Glass portrait card */}
+          <div style={styles.aboutPortraitCard}>
+            <img src="portrait.jpg?v=7" alt="Fukun Yang" style={styles.aboutPortraitImg} />
+            <div style={styles.aboutPortraitGlass} />
+          </div>
+          <div style={styles.aboutBioText}>
+            <p style={styles.aboutSectionLabel}>{T.about.bg}</p>
+            <p style={styles.aboutText}>{T.about.bg1}</p>
+            <p style={styles.aboutText}>{T.about.bg2}</p>
+          </div>
         </div>
 
         <div style={styles.aboutBioSection}>
@@ -3139,24 +3140,33 @@ const styles = {
     margin: "0 auto",
     padding: "32px 0 48px",
   },
+  aboutBioRow: {
+    display: "flex",
+    alignItems: "flex-start",
+    gap: 28,
+    marginBottom: 40,
+  },
+  aboutBioText: {
+    flex: 1,
+    minWidth: 0,
+  },
   aboutPortraitCard: {
     position: "relative",
-    width: "100%",
-    borderRadius: 18,
+    width: 160,
+    flexShrink: 0,
+    borderRadius: 14,
     overflow: "hidden",
-    background: "rgba(255,255,255,0.18)",
     backdropFilter: "blur(14px)",
     WebkitBackdropFilter: "blur(14px)",
-    border: "1px solid rgba(255,255,255,0.60)",
-    boxShadow: "0 12px 40px rgba(0,0,0,0.13), inset 0 1px 0 rgba(255,255,255,0.6)",
-    marginBottom: 40,
+    border: "1px solid rgba(255,255,255,0.55)",
+    boxShadow: "0 8px 32px rgba(0,0,0,0.15), inset 0 1px 0 rgba(255,255,255,0.5)",
   },
   aboutPortraitImg: {
     display: "block",
     width: "100%",
-    aspectRatio: "16/9",
-    objectFit: "contain",
-    background: "#111",
+    aspectRatio: "2/3",
+    objectFit: "cover",
+    objectPosition: "center top",
   },
   aboutPortraitGlass: {
     position: "absolute",
