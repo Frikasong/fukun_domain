@@ -272,7 +272,14 @@ async function loadEntries() {
     if (res.ok) {
       const data = await res.json();
       if (Array.isArray(data.entries)) {
-        return data.entries;
+        // Deduplicate by notionPageId (UUID), falling back to computed id
+        const seen = new Set();
+        return data.entries.filter((e) => {
+          const k = e.notionPageId || e.id;
+          if (seen.has(k)) return false;
+          seen.add(k);
+          return true;
+        });
       }
     }
   } catch {
@@ -431,7 +438,16 @@ function App() {
   };
 
   // Filtered entries
-  const sectionEntries = entries.filter((e) => e.section === activeSection || SECTION_MAP[e.section] === activeSection);
+  const sectionEntries = activeSection === "insights"
+    ? (() => {
+        const seen = new Set();
+        return entries.filter((e) => {
+          const s = SECTION_MAP[e.section] || e.section;
+          if ((s === "tech" || s === "law") && !seen.has(e.id)) { seen.add(e.id); return true; }
+          return false;
+        }).sort((a, b) => new Date(b.date) - new Date(a.date));
+      })()
+    : entries.filter((e) => e.section === activeSection || SECTION_MAP[e.section] === activeSection);
   const currentSection = SECTIONS.find((s) => s.id === activeSection);
 
   return (
@@ -753,12 +769,20 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
 
     return (
       <div style={styles.aboutHub}>
-        {/* Bio — clean flowing text, no boxes */}
-        <div style={styles.aboutBioSection}>
-          <p style={styles.aboutSectionLabel}>{T.about.bg}</p>
-          <p style={styles.aboutText}>{T.about.bg1}</p>
-          <p style={styles.aboutText}>{T.about.bg2}</p>
+        {/* Bio + Portrait — portrait left, text right */}
+        <div style={styles.aboutBioRow}>
+          {/* Glass portrait card */}
+          <div style={styles.aboutPortraitCard}>
+            <img src="portrait.jpg?v=7" alt="Fukun Yang" style={styles.aboutPortraitImg} />
+            <div style={styles.aboutPortraitGlass} />
+          </div>
+          <div style={styles.aboutBioText}>
+            <p style={styles.aboutSectionLabel}>{T.about.bg}</p>
+            <p style={styles.aboutText}>{T.about.bg1}</p>
+            <p style={styles.aboutText}>{T.about.bg2}</p>
+          </div>
         </div>
+
         <div style={styles.aboutBioSection}>
           <p style={styles.aboutSectionLabel}>{T.about.interests}</p>
           <p style={styles.aboutText}>{T.about.int1}</p>
@@ -823,12 +847,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     );
   }
 
-  // Insights: combined law + tech posts
+  // Insights: combined law + tech posts (entries already filtered+deduped in App)
   if (section.id === "insights") {
-    const insightEntries = entries.filter((e) => {
-      const s = SECTION_MAP[e.section] || e.section;
-      return s === "tech" || s === "law";
-    }).sort((a, b) => new Date(b.date) - new Date(a.date));
     const label = lang === "zh" ? "洞见" : "Insights";
     const sub = lang === "zh" ? "法律 · 科技 · 分析" : "Law · Tech · Analysis";
     return (
@@ -841,12 +861,12 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </div>
           </div>
         </div>
-        {insightEntries.length === 0 ? (
+        {entries.length === 0 ? (
           <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
         ) : (
           <div style={styles.grid}>
-            {insightEntries.map((entry) => (
-              <EntryCard key={entry.id} entry={entry} onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} T={T} lang={lang} />
+            {entries.map((entry, i) => (
+              <EntryCard key={`${entry.notionPageId || entry.id}-${i}`} entry={entry} onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} T={T} lang={lang} />
             ))}
           </div>
         )}
@@ -922,9 +942,9 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
         </div>
       ) : (
         <div style={styles.grid}>
-          {entries.map((entry) => (
+          {entries.map((entry, i) => (
             <EntryCard
-              key={entry.id}
+              key={`${entry.notionPageId || entry.id}-${i}`}
               entry={entry}
               onEdit={onEdit}
               onDelete={onDelete}
@@ -1490,8 +1510,8 @@ function TechView({ entries, onNew, onEdit, onDelete, onOpenPost, setActiveSecti
             </div>
           ) : (
             <div style={styles.grid}>
-              {insightEntries.map((entry) => (
-                <EntryCard key={entry.id} entry={entry}
+              {insightEntries.map((entry, i) => (
+                <EntryCard key={`${entry.notionPageId || entry.id}-${i}`} entry={entry}
                   onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} T={T} lang={lang} />
               ))}
             </div>
@@ -1512,8 +1532,8 @@ function TechView({ entries, onNew, onEdit, onDelete, onOpenPost, setActiveSecti
             </div>
           ) : (
             <div style={styles.grid}>
-              {obsEntries.map((entry) => (
-                <EntryCard key={entry.id} entry={entry}
+              {obsEntries.map((entry, i) => (
+                <EntryCard key={`${entry.notionPageId || entry.id}-${i}`} entry={entry}
                   onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} T={T} lang={lang} />
               ))}
             </div>
@@ -3119,6 +3139,41 @@ const styles = {
     maxWidth: 640,
     margin: "0 auto",
     padding: "32px 0 48px",
+  },
+  aboutBioRow: {
+    display: "flex",
+    alignItems: "flex-start",
+    gap: 28,
+    marginBottom: 40,
+  },
+  aboutBioText: {
+    flex: 1,
+    minWidth: 0,
+  },
+  aboutPortraitCard: {
+    position: "relative",
+    width: 160,
+    flexShrink: 0,
+    borderRadius: 14,
+    overflow: "hidden",
+    backdropFilter: "blur(14px)",
+    WebkitBackdropFilter: "blur(14px)",
+    border: "1px solid rgba(255,255,255,0.55)",
+    boxShadow: "0 8px 32px rgba(0,0,0,0.15), inset 0 1px 0 rgba(255,255,255,0.5)",
+  },
+  aboutPortraitImg: {
+    display: "block",
+    width: "100%",
+    aspectRatio: "2/3",
+    objectFit: "cover",
+    objectPosition: "center top",
+  },
+  aboutPortraitGlass: {
+    position: "absolute",
+    inset: 0,
+    borderRadius: 18,
+    border: "1px solid rgba(255,255,255,0.35)",
+    pointerEvents: "none",
   },
   aboutBioSection: {
     marginBottom: 40,
