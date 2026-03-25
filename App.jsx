@@ -198,6 +198,7 @@ const TRANSLATIONS = {
 // ─── Section Configuration ──────────────────────────────────────────────────
 const SECTIONS = [
   { id: "about", name: "About", icon: "👋", type: "info" },
+  { id: "insights", name: "Insights", icon: "💡", type: "hidden" },
   { id: "tech", name: "Tech", subtitle: "Legal AI · Tools", icon: "💻", type: "professional" },
   { id: "law", name: "Law", subtitle: "Legal Research", icon: "⚖️", type: "professional" },
   { id: "investment", name: "Investment", subtitle: "Market Analysis", icon: "📈", type: "professional" },
@@ -727,8 +728,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
       {
         key: "insights",
         label: lang === "zh" ? "洞见" : "Insights",
-        sub: lang === "zh" ? "观察与文章" : "Observations & writing",
-        onClick: () => { setActiveSection("tech"); setView("grid"); setTechTab("insights"); },
+        sub: lang === "zh" ? "法律 · 科技 · 分析" : "Law · Tech · Analysis",
+        onClick: () => { setActiveSection("insights"); setView("grid"); },
       },
       {
         key: "music",
@@ -751,31 +752,29 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     ];
 
     return (
-      <div>
-        {/* Bio cards */}
-        <div style={styles.aboutContent}>
-          <div style={styles.aboutCard}>
-            <h3 style={styles.aboutCardTitle}>{T.about.bg}</h3>
-            <p style={styles.aboutText}>{T.about.bg1}</p>
-            <p style={styles.aboutText}>{T.about.bg2}</p>
-          </div>
-          <div style={styles.aboutCard}>
-            <h3 style={styles.aboutCardTitle}>{T.about.interests}</h3>
-            <p style={styles.aboutText}>{T.about.int1}</p>
-            <p style={styles.aboutText}>
-              {T.about.int2}{' '}
-              <span style={styles.aboutConnectLink} onClick={scrollToConnect}>
-                {T.about.connect}
-              </span>!
-            </p>
-          </div>
+      <div style={styles.aboutHub}>
+        {/* Bio — clean flowing text, no boxes */}
+        <div style={styles.aboutBioSection}>
+          <p style={styles.aboutSectionLabel}>{T.about.bg}</p>
+          <p style={styles.aboutText}>{T.about.bg1}</p>
+          <p style={styles.aboutText}>{T.about.bg2}</p>
+        </div>
+        <div style={styles.aboutBioSection}>
+          <p style={styles.aboutSectionLabel}>{T.about.interests}</p>
+          <p style={styles.aboutText}>{T.about.int1}</p>
+          <p style={styles.aboutText}>
+            {T.about.int2}{' '}
+            <span style={styles.aboutConnectLink} onClick={scrollToConnect}>
+              {T.about.connect}
+            </span>!
+          </p>
         </div>
 
-        {/* Section tiles */}
+        {/* Explore — full-width list rows */}
         <div style={styles.hubDivider} />
         <div style={styles.hubTilesSection}>
           <p style={styles.hubTilesLabel}>{lang === "zh" ? "探索" : "Explore"}</p>
-          <div style={styles.hubTilesGrid}>
+          <div style={styles.hubTilesList}>
             {tiles.map((tile) =>
               tile.href ? (
                 <a
@@ -783,48 +782,74 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                   href={tile.href}
                   target="_blank"
                   rel="noopener noreferrer"
-                  style={styles.hubTile}
+                  style={styles.hubTileRow}
                 >
-                  <span style={styles.hubTileLabel}>{tile.label}</span>
-                  <span style={styles.hubTileSub}>{tile.sub}</span>
+                  <span style={styles.hubTileRowName}>{tile.label}</span>
+                  <span style={styles.hubTileRowRight}>
+                    <span style={styles.hubTileRowSub}>{tile.sub}</span>
+                    <span style={styles.hubTileArrow}>→</span>
+                  </span>
                 </a>
               ) : (
-                <button key={tile.key} style={styles.hubTile} onClick={tile.onClick}>
-                  <span style={styles.hubTileLabel}>{tile.label}</span>
-                  <span style={styles.hubTileSub}>{tile.sub}</span>
+                <button key={tile.key} style={styles.hubTileRow} onClick={tile.onClick}>
+                  <span style={styles.hubTileRowName}>{tile.label}</span>
+                  <span style={styles.hubTileRowRight}>
+                    <span style={styles.hubTileRowSub}>{tile.sub}</span>
+                    <span style={styles.hubTileArrow}>→</span>
+                  </span>
                 </button>
               )
             )}
           </div>
         </div>
 
-        {/* Connect section */}
+        {/* Connect — simple text links */}
         <div style={styles.hubDivider} />
         <div id="hub-connect" style={styles.hubConnect}>
-          <p style={styles.contactIntro}>{T.contact.intro}</p>
-          <div style={styles.contactIconsRow}>
-            <a href="mailto:frikasong@gmail.com" style={styles.contactIconLink} title={T.contact.email}>
-              <div style={styles.contactIconCircle}><span style={styles.contactIcon}>✉️</span></div>
-              <span style={styles.contactIconLabel}>{T.contact.email}</span>
-            </a>
-            <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.linkedin}>
-              <div style={styles.contactIconCircle}><span style={styles.contactIcon}>💼</span></div>
-              <span style={styles.contactIconLabel}>{T.contact.linkedin}</span>
-            </a>
-            <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.instagram}>
-              <div style={styles.contactIconCircle}><span style={styles.contactIcon}>📷</span></div>
-              <span style={styles.contactIconLabel}>{T.contact.instagram}</span>
-            </a>
-            <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.github}>
-              <div style={styles.contactIconCircle}><span style={styles.contactIcon}>🐙</span></div>
-              <span style={styles.contactIconLabel}>{T.contact.github}</span>
-            </a>
-            <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.rednote}>
-              <div style={styles.contactIconCircle}><span style={styles.contactIcon}>📕</span></div>
-              <span style={styles.contactIconLabel}>{T.contact.rednote}</span>
-            </a>
+          <p style={styles.hubConnectHeading}>{T.contact.intro}</p>
+          <div style={styles.hubConnectLinks}>
+            <a href="mailto:frikasong@gmail.com" style={styles.hubConnectLink}>{T.contact.email}</a>
+            <span style={styles.hubConnectDot}>·</span>
+            <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.linkedin}</a>
+            <span style={styles.hubConnectDot}>·</span>
+            <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.instagram}</a>
+            <span style={styles.hubConnectDot}>·</span>
+            <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.github}</a>
+            <span style={styles.hubConnectDot}>·</span>
+            <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.rednote}</a>
           </div>
         </div>
+      </div>
+    );
+  }
+
+  // Insights: combined law + tech posts
+  if (section.id === "insights") {
+    const insightEntries = entries.filter((e) => {
+      const s = SECTION_MAP[e.section] || e.section;
+      return s === "tech" || s === "law";
+    }).sort((a, b) => new Date(b.date) - new Date(a.date));
+    const label = lang === "zh" ? "洞见" : "Insights";
+    const sub = lang === "zh" ? "法律 · 科技 · 分析" : "Law · Tech · Analysis";
+    return (
+      <div style={styles.gridContainer}>
+        <div style={styles.sectionHeader}>
+          <div style={styles.sectionTitleRow}>
+            <div>
+              <h2 style={{ ...styles.sectionTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{label}</h2>
+              <p style={styles.sectionSubtitle}>{sub}</p>
+            </div>
+          </div>
+        </div>
+        {insightEntries.length === 0 ? (
+          <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
+        ) : (
+          <div style={styles.grid}>
+            {insightEntries.map((entry) => (
+              <EntryCard key={entry.id} entry={entry} onEdit={onEdit} onDelete={onDelete} onOpenPost={onOpenPost} T={T} lang={lang} />
+            ))}
+          </div>
+        )}
       </div>
     );
   }
@@ -3090,72 +3115,117 @@ const styles = {
     fontStyle: "italic",
   },
   // Hub (About page)
+  aboutHub: {
+    maxWidth: 640,
+    margin: "0 auto",
+    padding: "32px 0 48px",
+  },
+  aboutBioSection: {
+    marginBottom: 40,
+  },
+  aboutSectionLabel: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 10,
+    fontWeight: 700,
+    color: "#8EA1A4",
+    letterSpacing: "2.5px",
+    textTransform: "uppercase",
+    margin: "0 0 18px 0",
+  },
   hubDivider: {
     height: 1,
     background: "rgba(43,80,84,0.1)",
     margin: "48px 0",
-    maxWidth: 720,
-    marginLeft: "auto",
-    marginRight: "auto",
   },
-  hubTilesSection: {
-    maxWidth: 720,
-    margin: "0 auto",
-  },
+  hubTilesSection: {},
   hubTilesLabel: {
     fontFamily: "'Public Sans', sans-serif",
-    fontSize: 11,
+    fontSize: 10,
     fontWeight: 700,
     color: "#8EA1A4",
-    letterSpacing: "2px",
+    letterSpacing: "2.5px",
     textTransform: "uppercase",
-    margin: "0 0 20px 0",
+    margin: "0 0 4px 0",
   },
-  hubTilesGrid: {
-    display: "grid",
-    gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))",
-    gap: 14,
-  },
-  hubTile: {
+  hubTilesList: {
     display: "flex",
     flexDirection: "column",
-    alignItems: "flex-start",
-    gap: 6,
-    padding: "20px 22px",
-    background: "#ffffff",
+  },
+  hubTileRow: {
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "space-between",
+    padding: "18px 0",
+    background: "transparent",
     border: "none",
-    borderLeft: "3px solid rgba(43,80,84,0.25)",
-    borderRadius: 0,
+    borderBottom: "1px solid rgba(43,80,84,0.08)",
     cursor: "pointer",
     textAlign: "left",
     textDecoration: "none",
-    transition: "all 0.18s",
-    boxShadow: "none",
+    width: "100%",
+    transition: "opacity 0.15s",
   },
-  hubTileLabel: {
+  hubTileRowName: {
     fontFamily: "'Newsreader', serif",
-    fontSize: 18,
-    fontWeight: 500,
+    fontSize: 22,
+    fontWeight: 400,
     fontStyle: "italic",
     color: "#13181a",
     lineHeight: 1.2,
-    display: "block",
   },
-  hubTileSub: {
+  hubTileRowRight: {
+    display: "flex",
+    alignItems: "center",
+    gap: 12,
+    flexShrink: 0,
+    marginLeft: 16,
+  },
+  hubTileRowSub: {
     fontFamily: "'Public Sans', sans-serif",
     fontSize: 11,
-    color: "#7B8F92",
+    color: "#8EA1A4",
     letterSpacing: "0.3px",
-    display: "block",
+  },
+  hubTileArrow: {
+    fontFamily: "'Newsreader', serif",
+    fontSize: 18,
+    color: "#2B5054",
+    opacity: 0.5,
   },
   hubConnect: {
-    maxWidth: 600,
-    margin: "0 auto 40px",
     display: "flex",
     flexDirection: "column",
+    gap: 16,
+    paddingBottom: 16,
+  },
+  hubConnectHeading: {
+    fontFamily: "'Newsreader', serif",
+    fontSize: 20,
+    fontStyle: "italic",
+    color: "#2B5054",
+    margin: 0,
+  },
+  hubConnectLinks: {
+    display: "flex",
+    flexWrap: "wrap",
     alignItems: "center",
-    gap: 32,
-    paddingBottom: 20,
+    gap: "4px 2px",
+  },
+  hubConnectLink: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 13,
+    color: "#2B5054",
+    textDecoration: "none",
+    borderBottom: "1px solid rgba(43,80,84,0.35)",
+    paddingBottom: 1,
+    fontWeight: 500,
+  },
+  hubConnectDot: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 13,
+    color: "#8EA1A4",
+    margin: "0 6px",
+    userSelect: "none",
   },
 };
 
