@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T03:59:07.528Z",
+  "generatedAt": "2026-03-25T05:09:54.608Z",
   "source": "notion",
   "entries": [
     {
@@ -4883,6 +4883,41 @@
       ],
       "body": "Admin Law | Week of January 13, 2026\nThis week introduced the foundational question of administrative law: what makes a body an \"administrative decision-maker\" subject to judicial review? The answer the course gave is the source-of-power test — a body exercises public law power when its authority derives from statute, and it is that statutory delegation that triggers administrative law accountability. Roncarelli v Duplessis [1959] SCR 121 is the classic illustration: when a government official used statutory power to revoke a liquor licence as personal retaliation, the SCC held that the exercise of that authority was legally constrained precisely because the power was public. Statutory source equals public accountability.\nWhen I renewed my study permit last year, the first step was not submitting anything to IRCC — it was booking an appointment through VFS Global, a private company contracted by the government to collect biometrics and application documents. You pay a separate service fee to VFS, attend their commercial office, and only then does IRCC receive your materials and make the actual decision. IRCC's own VFS consent form states explicitly: \"VFS Global is not an agent of the Government of Canada but is a completely independent entity operating under contract.\" That sentence matters legally. If something goes wrong at the VFS stage — documents mishandled, biometrics incorrectly recorded — the source-of-power test points to a clear answer: VFS has no statutory authority, it is not an administrative decision-maker, and I have no administrative law remedy against it.\nA similar pattern appears with ServiceOntario, which has contracted out vehicle and driver licensing services to private registry agents — pharmacies, private offices, dealerships — for years. The Auditor General of Ontario has flagged the accountability gap this creates: when private operators make errors affecting people's licences, there is no clear public law path to correction because the operators are not statutory decision-makers. These are not hypothetical problems. They affect real people whose licences, permits, and status depend on functions that the government has delegated to private hands.\nApplying the source-of-power test to VFS produces a technically correct but practically unsatisfying result. VFS receives documents; IRCC makes the eligibility decision. The statutory power to grant or refuse a study permit lives with IRCC under the Immigration and Refugee Protection Act. VFS exercises no delegated public law power and is therefore, on this analysis, outside administrative law's reach. What this conclusion misses is that VFS is a mandatory gateway to a statutory right — there is no way to submit a study permit application without going through VFS for biometrics. An error at that stage can delay or derail an application with serious downstream consequences for immigration status, employment authorization, and study continuity. The person harmed has no direct administrative law remedy against the body that caused the harm.\nThe source-of-power test was developed when government acted through its own officials, not through contracted private infrastructure. The Roncarelli principle — that public authority creates public accountability — has not yet been applied to ask who is accountable when public authority is intentionally routed through private architecture. Until the doctrine catches up with the reality of outsourced service delivery, there is a genuine accountability gap that affects people who have no way to avoid it.\nCases referenced: Roncarelli v Duplessis, [1959] SCR 121\n---\nSources\nBiometrics — Where to give your fingerprints and photo (IRCC)\nVFS Global Consent Form for Canadian Visa Applications\nOffice of the Auditor General of Ontario",
       "summary": "Admin Law | Week of January 13, 2026 This week introduced the foundational question of administrative law: what makes a body an \"administrative decision-maker\" subject to judicial review? The answer the course gave is the source-of-power test — a body exercises public law power …",
+      "images": [],
+      "attachments": []
+    },
+    {
+      "id": 55988655807583,
+      "notionPageId": "32ebdff0-dc5f-8018-83e7-db95f22af688",
+      "title": "Japan Photos Selects",
+      "date": "2025-12-23",
+      "section": "tech",
+      "author": [
+        "Fukun"
+      ],
+      "tags": [
+        "Travel Japan Photography Canon"
+      ],
+      "blocks": [
+        {
+          "type": "image",
+          "rich_text": [],
+          "children": [],
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/1ed1171f-d9ca-4009-80fb-e83fd51fb56c/53934869-17d5-472b-9432-699a78877002/fxn_2025-12-09_54202.024_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VA32IS3P%2F20260325%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260325T050950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQC7eWGegPvkmNd0rJVoNsKeC%2BRCTsqiKhIpIjRQTLgcYgIhAPmSjN9bOm%2BCIKvV25faLvvINmppPFoNITphucRYC209KogECKX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxZCHRImamlaKXCxr4q3ANcL1uUrUqC6sHsDdfVS2lXOttxcAbi0guU60f01f2px6KeA8bw9s1m%2Fv0wZh%2BNn9Kvi88qxrqiu0raW9CBmDYnDkysFdFbC9t4FZyqKfr3gbLlbx%2FRUtvpB%2BX%2FtqdBJ0FG0M%2BaE34pHXqN2NG3eGaEtkQNzJ%2BxBISNBGeCzelPhAB%2FvpJtJBPpIvf1yLg3%2Bw0ppNUkJu2nvqbD1BTHxpNggki6JCRgbvl81QmQQIVKQfFWmwTTE17p0fM%2FKNtJgGRRIxKFCyOdkUpc5ECPNWyhckiuL5%2B%2BRQ7KaybZQjfUbWdO7QHQrwd7cazGd8NU9HcqtxYTpE0L%2FQVWDvRRhtDuscAJpZ6baAsHU4fWOCNi4XYjgmaiivZCGoI%2F4jY1kvd0uaznzZsTy326A18tPGyNIo1hG8vKQvjZH73%2FPzlnAFVcLYK9qJx6qDG%2BgiJv594rkMHOT2kftOcSNL7ZkYXrIWor1koeifuqxMjEkbM3sjCZIYRuQ1Gg4oQAtiwuMXl2am6CKv2qtXoENQWBf%2ByUmTqWLReqtn5plXEfZE2p%2BM3cR%2FVKB9DciajaDmvJtpFrJciF2jvRnQcf%2FzzGp1%2FLqv2PbIQd8HQhcJx9DLmsjNTgzFmRgK6k366Z%2BDDKto3OBjqkAbUsOLCzvPSea4Q1CkcrXOhrrVsmUfJWiXQjmAqg%2BOuO%2B8ufG9ThVXMeuvhU6up9fcbvvzCmfiZyCm4ECTs2CVIw9y4m0h00GrOlk6I3WLVjepawm5UYDqladRtXKw%2BUH7YsapkWX32%2FmGBo%2BD6bdJqzXpyaN3shTxANopalynnm6uJ9BC%2B5wQUwlrI6PudDc%2F0iUKUg6lVnfa5%2Fo6a5fpg5n4Up&X-Amz-Signature=9385ed9b7f3e83dd5892fc60f3135788cf7f7d5518492448b7f88ac2e94c19dd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry": "2026-03-25T06:09:50.143Z",
+          "caption": []
+        },
+        {
+          "type": "image",
+          "rich_text": [],
+          "children": [],
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/1ed1171f-d9ca-4009-80fb-e83fd51fb56c/f868e1d9-e61e-4376-8486-fa17518ecfcf/DSC06776.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VA32IS3P%2F20260325%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260325T050950Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQC7eWGegPvkmNd0rJVoNsKeC%2BRCTsqiKhIpIjRQTLgcYgIhAPmSjN9bOm%2BCIKvV25faLvvINmppPFoNITphucRYC209KogECKX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxZCHRImamlaKXCxr4q3ANcL1uUrUqC6sHsDdfVS2lXOttxcAbi0guU60f01f2px6KeA8bw9s1m%2Fv0wZh%2BNn9Kvi88qxrqiu0raW9CBmDYnDkysFdFbC9t4FZyqKfr3gbLlbx%2FRUtvpB%2BX%2FtqdBJ0FG0M%2BaE34pHXqN2NG3eGaEtkQNzJ%2BxBISNBGeCzelPhAB%2FvpJtJBPpIvf1yLg3%2Bw0ppNUkJu2nvqbD1BTHxpNggki6JCRgbvl81QmQQIVKQfFWmwTTE17p0fM%2FKNtJgGRRIxKFCyOdkUpc5ECPNWyhckiuL5%2B%2BRQ7KaybZQjfUbWdO7QHQrwd7cazGd8NU9HcqtxYTpE0L%2FQVWDvRRhtDuscAJpZ6baAsHU4fWOCNi4XYjgmaiivZCGoI%2F4jY1kvd0uaznzZsTy326A18tPGyNIo1hG8vKQvjZH73%2FPzlnAFVcLYK9qJx6qDG%2BgiJv594rkMHOT2kftOcSNL7ZkYXrIWor1koeifuqxMjEkbM3sjCZIYRuQ1Gg4oQAtiwuMXl2am6CKv2qtXoENQWBf%2ByUmTqWLReqtn5plXEfZE2p%2BM3cR%2FVKB9DciajaDmvJtpFrJciF2jvRnQcf%2FzzGp1%2FLqv2PbIQd8HQhcJx9DLmsjNTgzFmRgK6k366Z%2BDDKto3OBjqkAbUsOLCzvPSea4Q1CkcrXOhrrVsmUfJWiXQjmAqg%2BOuO%2B8ufG9ThVXMeuvhU6up9fcbvvzCmfiZyCm4ECTs2CVIw9y4m0h00GrOlk6I3WLVjepawm5UYDqladRtXKw%2BUH7YsapkWX32%2FmGBo%2BD6bdJqzXpyaN3shTxANopalynnm6uJ9BC%2B5wQUwlrI6PudDc%2F0iUKUg6lVnfa5%2Fo6a5fpg5n4Up&X-Amz-Signature=cec44f3540b062baa7a6906a144f9d98c5b7a8d0b8cf0b4d9b959446f53b78e1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "expiry": "2026-03-25T06:09:50.142Z",
+          "caption": []
+        }
+      ],
+      "body": "(No content yet)",
+      "summary": "",
       "images": [],
       "attachments": []
     }
