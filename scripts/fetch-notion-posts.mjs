@@ -24,6 +24,7 @@ const sectionMap = {
 function assertEnv() {
   if (!NOTION_API_KEY) throw new Error("Missing NOTION_API_KEY environment variable");
   if (!NOTION_DATABASE_ID) throw new Error("Missing NOTION_DATABASE_ID environment variable");
+
   if (!(NOTION_API_KEY.startsWith("secret_") || NOTION_API_KEY.startsWith("ntn_"))) {
     console.warn("Warning: NOTION_API_KEY does not look like a Notion integration secret (expected prefix secret_ or ntn_).");
   }
@@ -39,6 +40,7 @@ async function notionRequest(path, body) {
     },
     body: body ? JSON.stringify(body) : undefined
   });
+
   if (!res.ok) {
     const text = await res.text();
     if (res.status === 401) {
@@ -52,31 +54,10 @@ async function notionRequest(path, body) {
   return res.json();
 }
 
-// ── Plain text (for property extraction only) ─────────────────────────────
 function richTextToPlain(rich = []) {
   return (rich || []).map((r) => r?.plain_text || "").join("").trim();
 }
 
-// ── Annotated rich text (for body content) ────────────────────────────────
-// Preserves bold, italic, code, strikethrough, underline, color, links
-function richTextToAnnotated(rich = []) {
-  return (rich || []).map((r) => {
-    if (!r) return null;
-    const ann = r.annotations || {};
-    return {
-      text: r.plain_text || "",
-      href: r.href || r.text?.link?.url || null,
-      bold: !!ann.bold,
-      italic: !!ann.italic,
-      code: !!ann.code,
-      strike: !!ann.strikethrough,
-      underline: !!ann.underline,
-      color: ann.color && ann.color !== "default" ? ann.color : null
-    };
-  }).filter((s) => s && s.text);
-}
-
-// ── Property extractors ────────────────────────────────────────────────────
 function getTitleProperty(properties) {
   for (const value of Object.values(properties || {})) {
     if (value?.type === "title") return richTextToPlain(value.title);
@@ -132,29 +113,48 @@ function getTagsProperty(properties) {
   return null;
 }
 
-// Looks for a checkbox property whose name matches "show" / "show status" / "show on site"
-// (case-insensitive). Only syncs the page if the checkbox is ticked.
-// If no such property exists, the page is skipped (opt-in model).
-function getShowStatusProperty(properties) {
-  const SHOW_NAMES = ["show status", "show on site", "show", "publish", "published", "live", "public"];
+function getPublishedProperty(properties) {
+  const explicitFalseTerms = ["draft", "private", "idea", "todo", "wip", "archive", "archived"];
+  const explicitTrueTerms = ["publish", "published", "live", "public", "done", "ready"];
 
   for (const [name, value] of Object.entries(properties || {})) {
-    const lower = name.toLowerCase().trim();
-    if (value?.type === "checkbox" && SHOW_NAMES.some((n) => lower === n || lower.includes(n))) {
+    const lower = name.toLowerCase();
+    if ((lower.includes("publish") || lower.includes("live")) && value?.type === "checkbox") {
       return {
         isPublished: !!value.checkbox,
         reason: `checkbox:${name}=${value.checkbox ? "true" : "false"}`
       };
     }
+    if ((lower.includes("status") || lower.includes("state")) && value?.type === "select") {
+      const n = (value.select?.name || "").toLowerCase();
+      if (!n) return { isPublished: true, reason: `select:${name}=empty(default-allow)` };
+      if (explicitFalseTerms.some((t) => n.includes(t))) {
+        return { isPublished: false, reason: `select:${name}=${n}(blocked)` };
+      }
+      if (explicitTrueTerms.some((t) => n.includes(t))) {
+        return { isPublished: true, reason: `select:${name}=${n}(allow)` };
+      }
+      return { isPublished: true, reason: `select:${name}=${n}(default-allow)` };
+    }
+    if ((lower.includes("status") || lower.includes("state")) && value?.type === "status") {
+      const n = (value.status?.name || "").toLowerCase();
+      if (!n) return { isPublished: true, reason: `status:${name}=empty(default-allow)` };
+      if (explicitFalseTerms.some((t) => n.includes(t))) {
+        return { isPublished: false, reason: `status:${name}=${n}(blocked)` };
+      }
+      if (explicitTrueTerms.some((t) => n.includes(t))) {
+        return { isPublished: true, reason: `status:${name}=${n}(allow)` };
+      }
+      return { isPublished: true, reason: `status:${name}=${n}(default-allow)` };
+    }
   }
-  // No recognised show-status checkbox found — skip the page
-  return { isPublished: false, reason: "no-show-status-checkbox(skip)" };
+  return { isPublished: true, reason: "no-publish-field(default-allow)" };
 }
 
-// ── Block fetching ──────────────────────────────────────────────────────────
 async function fetchPageBlocks(pageId) {
   const chunks = [];
   let cursor = undefined;
+
   do {
     const qs = new URLSearchParams({ page_size: "100" });
     if (cursor) qs.set("start_cursor", cursor);
@@ -162,121 +162,78 @@ async function fetchPageBlocks(pageId) {
     chunks.push(...(data.results || []));
     cursor = data.has_more ? data.next_cursor : undefined;
   } while (cursor);
+
   return chunks;
 }
 
-// ── Structured block conversion ────────────────────────────────────────────
-// Converts a raw Notion API block into our schema, preserving all formatting
-function blockToStructured(block) {
+function blockToText(block) {
   const type = block?.type;
-  if (!type) return null;
+  if (!type || !block[type]) return "";
 
-  const data = block[type] || {};
-  const base = {
-    type,
-    rich_text: richTextToAnnotated(data.rich_text),
-    children: [] // filled by fetchBlocksRecursive
-  };
-
-  switch (type) {
-    case "to_do":
-      base.checked = !!data.checked;
-      break;
-    case "callout":
-      base.icon = data.icon?.emoji || data.icon?.external?.url || null;
-      base.color = data.color || null;
-      break;
-    case "code":
-      base.language = data.language || "plain text";
-      break;
-    case "image":
-      base.url = data.type === "external" ? data.external?.url : data.file?.url || null;
-      base.expiry = data.type === "file" ? data.file?.expiry_time || null : null;
-      base.caption = richTextToAnnotated(data.caption || []);
-      base.rich_text = base.caption; // caption is the displayable rich text
-      break;
-    case "video":
-      base.url = data.type === "external" ? data.external?.url : data.file?.url || null;
-      base.caption = richTextToAnnotated(data.caption || []);
-      break;
-    case "embed":
-    case "bookmark":
-      base.url = data.url || null;
-      base.caption = richTextToAnnotated(data.caption || []);
-      break;
-    case "file":
-      base.url = data.type === "external" ? data.external?.url : data.file?.url || null;
-      base.name = data.name || null;
-      break;
-    case "table":
-      base.hasColumnHeader = !!data.has_column_header;
-      base.hasRowHeader = !!data.has_row_header;
-      base.tableWidth = data.table_width || 0;
-      break;
-    case "table_row":
-      base.cells = (data.cells || []).map((cell) => richTextToAnnotated(cell));
-      break;
-    case "column_list":
-    case "column":
-      // children hold the content
-      break;
-    case "synced_block":
-      // synced_from: null means this is the source block
-      base.syncedFrom = data.synced_from?.block_id || null;
-      break;
-    case "link_preview":
-      base.url = data.url || null;
-      break;
+  const data = block[type];
+  if (data.rich_text) {
+    const text = richTextToPlain(data.rich_text);
+    if (!text) return "";
+    if (type === "heading_1") return `# ${text}\n`;
+    if (type === "heading_2") return `## ${text}\n`;
+    if (type === "heading_3") return `### ${text}\n`;
+    if (type === "bulleted_list_item") return `- ${text}\n`;
+    if (type === "numbered_list_item") return `1. ${text}\n`;
+    return text + "\n";
   }
 
-  return base;
+  if (type === "divider") return "\n---\n";
+  return "";
 }
 
-// ── Recursive block fetcher ────────────────────────────────────────────────
-// Fetches children for any block that has_children, up to depth 4
-async function fetchBlocksRecursive(pageId, depth = 0) {
-  if (depth > 4) return [];
-  const rawBlocks = await fetchPageBlocks(pageId);
-  const structured = [];
+// Extract image URLs from page blocks (uploaded files + external images)
+function extractImageUrls(blocks) {
+  const urls = [];
+  for (const block of blocks) {
+    if (block?.type !== "image") continue;
+    const img = block.image;
+    if (!img) continue;
+    // Uploaded file (expires after 1 hour — Notion limitation; use external links instead)
+    if (img.type === "file" && img.file?.url) urls.push(img.file.url);
+    // External image URL (permanent)
+    if (img.type === "external" && img.external?.url) urls.push(img.external.url);
+  }
+  return urls;
+}
 
-  for (const block of rawBlocks) {
-    const s = blockToStructured(block);
-    if (!s) continue;
+// Also grab page cover image (a great place to put the hero photo)
+function getCoverImage(page) {
+  const cover = page?.cover;
+  if (!cover) return null;
+  if (cover.type === "external" && cover.external?.url) return cover.external.url;
+  if (cover.type === "file" && cover.file?.url) return cover.file.url;
+  return null;
+}
 
-    if (block.has_children && depth < 4) {
-      try {
-        s.children = await fetchBlocksRecursive(block.id, depth + 1);
-      } catch {
-        s.children = [];
-      }
+// Extract SpotifyURL from a URL or rich_text property named "Spotify", "SpotifyURL", "spotify_url" etc.
+function getSpotifyUrlProperty(properties) {
+  for (const [name, value] of Object.entries(properties || {})) {
+    const lname = name.toLowerCase().replace(/[_\s-]/g, "");
+    if (!lname.includes("spotify")) continue;
+    if (value?.type === "url" && value?.url) return value.url;
+    if (value?.type === "rich_text") {
+      const text = richTextToPlain(value.rich_text);
+      if (text) return text;
     }
-
-    structured.push(s);
   }
-
-  return structured;
+  return null;
 }
 
-// ── Plain text fallback (for summary generation) ──────────────────────────
-function blocksToPlainText(blocks) {
-  if (!blocks || blocks.length === 0) return "";
-  const lines = blocks.map((b) => {
-    const text = (b.rich_text || []).map((r) => r.text).join("").trim();
-    if (b.type === "divider") return "---";
-    if (!text && (!b.children || b.children.length === 0)) return "";
-    const childText = b.children?.length ? "\n" + blocksToPlainText(b.children) : "";
-    return text + childText;
-  });
-  return lines.filter(Boolean).join("\n").replace(/\n{3,}/g, "\n\n").trim();
+function cleanBody(raw) {
+  return raw.replace(/\n{3,}/g, "\n\n").trim();
 }
 
 function summarize(text, max = 280) {
-  const plain = (text || "").replace(/\s+/g, " ").trim();
+  const plain = text.replace(/\s+/g, " ").trim();
   if (plain.length <= max) return plain;
   return `${plain.slice(0, max - 1)}…`;
 }
 
-// ── Main ────────────────────────────────────────────────────────────────────
 async function main() {
   assertEnv();
 
@@ -300,7 +257,7 @@ async function main() {
     for (const page of data.results || []) {
       totalPagesSeen += 1;
       const properties = page.properties || {};
-      const publish = getShowStatusProperty(properties);
+      const publish = getPublishedProperty(properties);
       if (!publish.isPublished) {
         skippedUnpublished += 1;
         skipReasons[publish.reason] = (skipReasons[publish.reason] || 0) + 1;
@@ -312,6 +269,7 @@ async function main() {
       const section = getSectionProperty(properties);
       const author = getAuthorProperty(properties);
       const tags = getTagsProperty(properties);
+      const spotifyUrl = getSpotifyUrlProperty(properties);
 
       if (DEBUG_PROPERTIES) {
         for (const [name, value] of Object.entries(properties)) {
@@ -321,13 +279,15 @@ async function main() {
         }
       }
 
-      // Fetch full block tree with annotations preserved
-      const blocks = await fetchBlocksRecursive(page.id);
+      const blocks = await fetchPageBlocks(page.id);
+      const bodyText = cleanBody(blocks.map(blockToText).filter(Boolean).join(""));
 
-      // Plain text body for backward compat + summary generation
-      const bodyText = blocksToPlainText(blocks);
+      // Collect images: page cover first, then any image blocks in body
+      const coverUrl = getCoverImage(page);
+      const blockImages = extractImageUrls(blocks);
+      const images = [...(coverUrl ? [coverUrl] : []), ...blockImages];
 
-      entries.push({
+      const entry = {
         id: Number.parseInt(page.id.replace(/-/g, "").slice(0, 12), 16),
         notionPageId: page.id,
         title,
@@ -335,14 +295,15 @@ async function main() {
         section,
         author,
         tags,
-        // blocks: full structured tree — used by App.jsx renderer for exact Notion layout
-        blocks: blocks.length > 0 ? blocks : null,
-        // body: plain text fallback for old-style rendering + summary
         body: bodyText || "(No content yet)",
         summary: summarize(bodyText || ""),
-        images: [],
+        images,
         attachments: []
-      });
+      };
+
+      if (spotifyUrl) entry.spotifyUrl = spotifyUrl;
+
+      entries.push(entry);
     }
 
     cursor = data.has_more ? data.next_cursor : undefined;
@@ -356,7 +317,7 @@ async function main() {
   if (Object.keys(skipReasons).length > 0) {
     console.log("Skip reasons:");
     for (const [reason, count] of Object.entries(skipReasons)) {
-      console.log(`  ${reason}: ${count}`);
+      console.log(`- ${reason}: ${count}`);
     }
   }
 
@@ -376,6 +337,7 @@ async function main() {
       console.log(`  [${type}] ${name}`);
     }
     console.log("========================================\n");
+    console.log("To use these in your site, update the script with property extractors.");
   }
 }
 

@@ -11,7 +11,7 @@ const TRANSLATIONS = {
     nav: {
       info: "About", professional: "Work", personal: "Life",
       projects: "Projects", share: "Thoughts", hobbies: "Fun",
-      about: "About", tech: "Legal AI Lab", law: "Law", investment: "Investment", essays: "Essays",
+      about: "About", tech: "AI Lab", law: "Law", investment: "Investment", essays: "Essays",
       music: "Music", photography: "Photos", contact: "Contact",
       taglineLaw: "Law", taglineTech: "Technology", taglineIdeas: "Ideas",
       techSub: "Legal AI · Tools",
@@ -106,7 +106,7 @@ const TRANSLATIONS = {
     nav: {
       info: "关于", professional: "工作", personal: "生活",
       projects: "项目", share: "想法", hobbies: "趣味",
-      about: "关于", tech: "法律AI实验室", law: "法律", investment: "投资", essays: "文章",
+      about: "关于", tech: "AI 实验室", law: "法律", investment: "投资", essays: "文章",
       music: "音乐", photography: "照片", contact: "联系",
       techSub: "法律AI · 工具",
       lawSub: "法律研究",
@@ -494,7 +494,6 @@ function App() {
               </button>
               <span style={styles.pillNavDivider}>|</span>
               {[
-                { id: "about",    label: T.nav.info     },
                 { id: "projects", label: T.nav.projects  },
                 { id: "share",    label: T.nav.share     },
                 { id: "hobbies",  label: T.nav.hobbies   },
@@ -540,48 +539,28 @@ function App() {
         <nav style={{ ...styles.mobileSidePanel, transform: menuOpen ? "translateX(0)" : "translateX(100%)" }}>
           <button style={styles.mobilePanelClose} onClick={() => setMenuOpen(false)}>✕</button>
           <div style={styles.mobilePanelContent}>
-            <div style={styles.mobilePanelGroup}>
-              <div style={styles.mobilePanelGroupHeader}>{T.nav.info}</div>
-              <button style={{ ...styles.mobilePanelItem, ...(activeSection === "about" ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection("about"); setView("grid"); setMenuOpen(false); }}>
-                👋 {T.nav.about}
+            {/* Fukun → About */}
+            <button
+              style={{ ...styles.mobilePanelItem, fontSize: 20, fontFamily: "'Fascinate', cursive", fontStyle: "normal", paddingBottom: 20, borderBottom: "1px solid rgba(255,255,255,0.1)" }}
+              onClick={() => { setActiveSection("about"); setView("grid"); setMenuOpen(false); }}
+            >
+              Fukun
+            </button>
+            {/* Main nav items */}
+            {[
+              { id: "projects", label: T.nav.projects, icon: "🛠️" },
+              { id: "share",    label: T.nav.share,    icon: "✍️" },
+              { id: "hobbies",  label: T.nav.hobbies,  icon: "🎵" },
+            ].map(item => (
+              <button
+                key={item.id}
+                style={{ ...styles.mobilePanelItem, ...(activeSection === item.id ? styles.mobilePanelItemActive : {}) }}
+                onClick={() => { setActiveSection(item.id); setView("grid"); setMenuOpen(false); }}
+              >
+                <span>{item.icon}</span>
+                <span>{item.label}</span>
               </button>
-            </div>
-            <div style={styles.mobilePanelGroup}>
-              <div style={styles.mobilePanelGroupHeader}>{T.nav.projects}</div>
-              {SECTIONS.filter((s) => s.type === "projects").map((section) => {
-                const label = T.nav[section.id] || section.name;
-                return (
-                  <button key={section.id} style={{ ...styles.mobilePanelItem, ...(activeSection === section.id ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}>
-                    <span>{section.icon}</span>
-                    <span style={styles.mobilePanelItemText}>{label}</span>
-                  </button>
-                );
-              })}
-            </div>
-            <div style={styles.mobilePanelGroup}>
-              <div style={styles.mobilePanelGroupHeader}>{T.nav.writing}</div>
-              {SECTIONS.filter((s) => s.type === "writing").map((section) => {
-                const label = T.nav[section.id] || section.name;
-                return (
-                  <button key={section.id} style={{ ...styles.mobilePanelItem, ...(activeSection === section.id ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}>
-                    <span>{section.icon}</span>
-                    <span style={styles.mobilePanelItemText}>{label}</span>
-                  </button>
-                );
-              })}
-            </div>
-            <div style={styles.mobilePanelGroup}>
-              <div style={styles.mobilePanelGroupHeader}>{T.nav.hobbies}</div>
-              {SECTIONS.filter((s) => s.type === "hobbies").map((section) => {
-                const label = T.nav[section.id] || section.name;
-                return (
-                  <button key={section.id} style={{ ...styles.mobilePanelItem, ...(activeSection === section.id ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}>
-                    <span>{section.icon}</span>
-                    <span style={styles.mobilePanelItemText}>{label}</span>
-                  </button>
-                );
-              })}
-            </div>
+            ))}
             <div style={styles.mobilePanelLang}>
               <button style={styles.mobilePanelLangBtn} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
                 {T.langToggle}
@@ -671,8 +650,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
       {
         key: "legal-ai-lab",
         category: lang === "zh" ? "项目" : "Projects",
-        label: lang === "zh" ? "法律AI实验室" : "Legal AI Lab",
-        sub: lang === "zh" ? "法律科技工具" : "Tools at the frontier of law & AI",
+        label: lang === "zh" ? "AI 实验室" : "AI Lab",
+        sub: lang === "zh" ? "我开发的AI工具" : "AI tools I've been building",
         onClick: () => { setActiveSection("projects"); setView("grid"); },
       },
       {
@@ -714,7 +693,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
 
     const isNarrow = typeof window !== "undefined" && window.innerWidth <= 860;
     return (
-      <div style={{ maxWidth: 1100, margin: "0 auto", padding: isNarrow ? "0 0 60px" : "0 0 88px" }}>
+      <div style={{ maxWidth: 1100, margin: "0 auto", padding: "0" }}>
 
         {/* ── Garden Hero Card (Chester intro-section style) ── */}
         <div style={{ ...styles.gardenHero, padding: isNarrow ? "44px 28px 40px" : "64px 60px 60px", minHeight: isNarrow ? "auto" : 290 }}>
@@ -725,14 +704,12 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </div>
           )}
           <div style={isNarrow ? {} : styles.gardenHeroTextCol}>
-            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 48 : 76 }}>
+            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 28 : 52 }}>
               {lang === "zh" ? <>你好,{"\n"}我是 Fukun.</> : <>Hey,{"\n"}I'm Fukun.</>}
             </h1>
             <div style={styles.gardenHeroDash} />
             <p style={styles.gardenHeroSub}>
-              {lang === "zh"
-                ? "法律 · 科技 · 思想 · 趣味"
-                : "Law · Technology · Ideas · Fun"}
+              welcome to my domain · 应似飞鸿踏雪泥
             </p>
           </div>
         </div>
@@ -792,8 +769,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
         </div>
 
         {/* ── Let's connect — bottom of page ── */}
-        <div id="hub-connect" style={{ marginTop: 64, paddingTop: 40, borderTop: "1px solid rgba(43,80,84,0.1)" }}>
-          <p style={{ fontFamily: "'DM Serif Display', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 16px" }}>
+        <div id="hub-connect" style={{ marginTop: 40, paddingTop: 32, borderTop: "1px solid rgba(43,80,84,0.1)" }}>
+          <p style={{ fontFamily: "'Fascinate', cursive", fontStyle: "normal", fontSize: 18, color: "#2B5054", margin: "0 0 16px" }}>
             {lang === "zh" ? "欢迎联系~" : "Let's connect!"}
           </p>
           <div style={styles.hubConnectLinks}>
@@ -839,8 +816,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     ];
     return (
       <div style={styles.chesterPage}>
-        <p style={{ fontFamily: "'DM Serif Display', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 8px" }}>
-          {lang === "zh" ? "我开发的几个工具。" : "A couple of things I've built."}
+        <p style={{ fontFamily: "'Cormorant Garamond', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 8px" }}>
+          {lang === "zh" ? "我用AI搭建的一些小工具。" : "A few AI tools I've built."}
         </p>
         <div style={{ width: 44, height: 4, background: "#C8A96E", borderRadius: 2, margin: "0 0 32px" }} />
         <div style={styles.chesterGrid}>
@@ -877,7 +854,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     };
     return (
       <div style={styles.chesterPage}>
-        <p style={{ fontFamily: "'DM Serif Display', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 8px" }}>
+        <p style={{ fontFamily: "'Cormorant Garamond', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 8px" }}>
           {lang === "zh" ? "法律、科技与随笔。" : "Law, technology, and everything in between."}
         </p>
         <div style={{ width: 44, height: 4, background: "#C8A96E", borderRadius: 2, margin: "0 0 32px" }} />
@@ -932,7 +909,11 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                     <span style={styles.chesterCardArrowIcon}>→</span>
                   </div>
                   {entry.images && entry.images[0]
-                    ? <img src={entry.images[0]} alt={entry.title} style={styles.chesterPhotoImg} />
+                    ? <img
+                        src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data}
+                        alt={entry.title}
+                        style={styles.chesterPhotoImg}
+                      />
                     : <div style={styles.chesterPhotoPlaceholder}>📷</div>
                   }
                   <div style={{ padding: "10px 14px 14px" }}>
@@ -950,21 +931,46 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
           <div style={styles.chesterHobbiesSection}>
             <p style={styles.chesterSectionHeading}>🎵 {lang === "zh" ? "音乐" : "Music"}</p>
             <div style={styles.chesterMusicGrid}>
-              {musicEntries.map((entry, i) => (
-                <button key={i} style={styles.chesterMusicCard} onClick={() => onOpenPost(entry)}>
-                  <div style={styles.chesterCardMeta}>
-                    <span style={styles.chesterCardLabel}>Hobbies · Music</span>
-                    <span style={styles.chesterCardArrowIcon}>→</span>
-                  </div>
-                  <div style={styles.chesterMusicBody}>
-                    <span style={styles.chesterMusicNote}>♪</span>
-                    <div>
-                      <p style={{ ...styles.chesterPostTitle, fontSize: 16, margin: "0 0 4px" }}>{entry.title}</p>
+              {musicEntries.map((entry, i) => {
+                // Convert Spotify track URL → embed URL
+                // handles: open.spotify.com/track/ID, open.spotify.com/intl-xx/track/ID
+                const spotifyEmbedUrl = (() => {
+                  if (!entry.spotifyUrl) return null;
+                  const m = entry.spotifyUrl.match(/spotify\.com(?:\/intl-[a-z]+)?\/track\/([A-Za-z0-9]+)/);
+                  return m ? `https://open.spotify.com/embed/track/${m[1]}?utm_source=generator&theme=0` : null;
+                })();
+                return (
+                  <div key={i} style={styles.chesterMusicCard}>
+                    <div style={styles.chesterCardMeta}>
+                      <span style={styles.chesterCardLabel}>{lang === "zh" ? "趣味 · 音乐" : "Fun · Music"}</span>
+                      <button style={{ background: "none", border: "none", cursor: "pointer", fontSize: 13, color: "#ccc", padding: 0 }} onClick={() => onOpenPost(entry)}>→</button>
+                    </div>
+                    {spotifyEmbedUrl ? (
+                      <iframe
+                        src={spotifyEmbedUrl}
+                        width="100%"
+                        height="80"
+                        frameBorder="0"
+                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                        loading="lazy"
+                        style={{ display: "block", borderRadius: "0 0 4px 4px" }}
+                      />
+                    ) : (
+                      <div style={styles.chesterMusicBody}>
+                        <span style={styles.chesterMusicNote}>♪</span>
+                        <div>
+                          <p style={{ ...styles.chesterPostTitle, fontSize: 14, margin: "0 0 4px" }}>{entry.title}</p>
+                          <span style={styles.chesterPostDate}>{entry.date}</span>
+                        </div>
+                      </div>
+                    )}
+                    <div style={{ padding: "8px 18px 14px" }}>
+                      <p style={{ ...styles.chesterPostTitle, fontSize: 13, margin: "0 0 4px" }}>{entry.title}</p>
                       <span style={styles.chesterPostDate}>{entry.date}</span>
                     </div>
                   </div>
-                </button>
-              ))}
+                );
+              })}
             </div>
           </div>
         )}
@@ -1102,7 +1108,7 @@ function EntryCard({ entry, onEdit, onDelete, onOpenPost, T, lang }) {
     <article style={styles.card}>
       {entry.images && entry.images.length > 0 && (
         <div style={styles.cardCover}>
-          <img src={entry.images[0].data} alt={entry.title} style={styles.cardCoverImg} />
+          <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.cardCoverImg} />
           <div style={styles.cardCoverOverlay} />
         </div>
       )}
@@ -1137,7 +1143,7 @@ function EntryCard({ entry, onEdit, onDelete, onOpenPost, T, lang }) {
         {entry.images && entry.images.length > 1 && (
           <div style={styles.cardGallery}>
             {entry.images.slice(1).map((img, i) => (
-              <img key={i} src={img.data} alt={img.name} style={styles.galleryImg} />
+              <img key={i} src={typeof img === "string" ? img : img.data} alt={typeof img === "string" ? "" : img.name} style={styles.galleryImg} />
             ))}
           </div>
         )}
@@ -1399,7 +1405,7 @@ function PostView({ entry, onBack, T, lang }) {
 
       {entry.images && entry.images.length > 0 && (
         <div style={styles.postHero}>
-          <img src={entry.images[0].data} alt={entry.title} style={styles.postHeroImg} />
+          <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.postHeroImg} />
         </div>
       )}
 
@@ -1434,7 +1440,7 @@ function PostView({ entry, onBack, T, lang }) {
           <h3 style={styles.postSectionTitle}>{galleryLabel}</h3>
           <div style={styles.postGallery}>
             {entry.images.slice(1).map((img, i) => (
-              <img key={i} src={img.data} alt={img.name} style={styles.postGalleryImg} />
+              <img key={i} src={typeof img === "string" ? img : img.data} alt={typeof img === "string" ? "" : img.name} style={styles.postGalleryImg} />
             ))}
           </div>
         </section>
@@ -1857,15 +1863,15 @@ const styles = {
     gap: 0,
   },
   pillNavBrand: {
-    fontFamily: "'Newsreader', serif",
-    fontSize: 17,
-    fontWeight: 600,
+    fontFamily: "'Fascinate', cursive",
+    fontSize: 15,
+    fontWeight: 400,
     color: "#2B5054",
     background: "none",
     border: "none",
     cursor: "pointer",
     padding: 0,
-    letterSpacing: "-0.2px",
+    letterSpacing: "0px",
   },
   pillNavDivider: {
     color: "rgba(0,0,0,0.18)",
@@ -1971,7 +1977,7 @@ const styles = {
     display: "flex",
     alignItems: "center",
     gap: 14,
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 15,
     fontWeight: 400,
     fontStyle: "italic",
@@ -2007,7 +2013,7 @@ const styles = {
     padding: "7px 16px",
     borderRadius: 20,
     cursor: "pointer",
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontWeight: 400,
     fontStyle: "italic",
     letterSpacing: "0.5px",
@@ -2025,7 +2031,7 @@ const styles = {
     padding: "8px 16px",
     borderRadius: 8,
     cursor: "pointer",
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontStyle: "italic",
     transition: "all 0.2s",
   },
@@ -2074,7 +2080,7 @@ const styles = {
     gap: 4,
   },
   mobilePanelGroupHeader: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 11,
     color: "rgba(255,255,255,0.5)",
     letterSpacing: "1.5px",
@@ -2095,7 +2101,7 @@ const styles = {
     display: "flex",
     alignItems: "center",
     gap: 12,
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 16,
     fontWeight: 400,
     fontStyle: "italic",
@@ -2132,7 +2138,7 @@ const styles = {
     padding: "10px 16px",
     borderRadius: 20,
     cursor: "pointer",
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontStyle: "italic",
     width: "100%",
   },
@@ -2243,7 +2249,7 @@ const styles = {
     color: "#7B8F92",
   },
   newsTitleLink: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 15,
     color: "#2F3F42",
     textDecoration: "none",
@@ -2316,10 +2322,10 @@ const styles = {
     opacity: 0.8,
   },
   sectionTitle: {
-    fontFamily: "'DM Serif Display', 'Newsreader', serif",
-    fontSize: "clamp(28px, 4vw, 46px)",
+    fontFamily: "'Fascinate', cursive",
+    fontSize: "clamp(20px, 3vw, 32px)",
     fontWeight: 400,
-    fontStyle: "italic",
+    fontStyle: "normal",
     margin: 0,
     color: "#2B5054",
     letterSpacing: "-0.3px",
@@ -2391,7 +2397,7 @@ const styles = {
     marginBottom: 10,
   },
   cardTitle: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: "clamp(20px, 2.8vw, 28px)",
     fontWeight: 500,
     fontStyle: "italic",
@@ -2488,7 +2494,7 @@ const styles = {
     marginBottom: 16,
   },
   postTitle: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: "clamp(20px, 2.5vw, 26px)",
     fontWeight: 500,
     fontStyle: "italic",
@@ -2527,13 +2533,13 @@ const styles = {
     letterSpacing: "0.3px",
   },
   postBody: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 20,
     lineHeight: 1.9,
     color: "#2f3335",
   },
   postParagraph: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 20,
     lineHeight: 1.9,
     color: "#2f3335",
@@ -2541,7 +2547,7 @@ const styles = {
     whiteSpace: "pre-wrap",
   },
   postH1: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: "clamp(24px, 3vw, 32px)",
     fontWeight: 500,
     fontStyle: "italic",
@@ -2551,7 +2557,7 @@ const styles = {
     letterSpacing: "-0.3px",
   },
   postH2: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: "clamp(20px, 2.5vw, 26px)",
     fontWeight: 500,
     fontStyle: "italic",
@@ -2569,7 +2575,7 @@ const styles = {
     textTransform: "uppercase",
   },
   postQuote: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 21,
     fontStyle: "italic",
     color: "#35666a",
@@ -2592,7 +2598,7 @@ const styles = {
     paddingLeft: 28,
   },
   postLi: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 20,
     lineHeight: 1.9,
     color: "#2f3335",
@@ -2617,7 +2623,7 @@ const styles = {
     borderRadius: 4,
     padding: "12px 16px",
     margin: "16px 0",
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 19,
     lineHeight: 1.75,
     color: "#2f3335",
@@ -2776,7 +2782,7 @@ const styles = {
     transition: "border-color 0.2s",
   },
   textarea: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 15,
     lineHeight: 1.8,
     padding: "14px",
@@ -2971,7 +2977,7 @@ const styles = {
     textTransform: "uppercase",
   },
   aboutText: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 18,
     lineHeight: 1.8,
     color: "#444",
@@ -2998,7 +3004,7 @@ const styles = {
     gap: 32,
   },
   contactIntro: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 24,
     color: "#2B5054",
     margin: 0,
@@ -3049,7 +3055,7 @@ const styles = {
     padding: "36px 0 0",
   },
   laiHeroHeadline: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 44,
     fontWeight: 600,
     fontStyle: "italic",
@@ -3059,7 +3065,7 @@ const styles = {
     letterSpacing: "-0.5px",
   },
   laiHeroSub: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 18,
     lineHeight: 1.85,
     color: "#4F6669",
@@ -3075,7 +3081,7 @@ const styles = {
     margin: "0 auto",
   },
   laiAboutText: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 17,
     lineHeight: 1.9,
     color: "#4B5E61",
@@ -3116,7 +3122,7 @@ const styles = {
     marginTop: 3,
   },
   laiPillarTitle: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 20,
     fontWeight: 600,
     fontStyle: "italic",
@@ -3124,7 +3130,7 @@ const styles = {
     margin: "0 0 10px",
   },
   laiPillarText: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 15,
     lineHeight: 1.82,
     color: "#4F6669",
@@ -3152,7 +3158,7 @@ const styles = {
     letterSpacing: "0.3px",
   },
   laiToolDesc: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 13,
     color: "#7B8F92",
     fontStyle: "italic",
@@ -3168,7 +3174,7 @@ const styles = {
     padding: "0 0 48px",
   },
   laiCtaText: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 18,
     lineHeight: 1.8,
     color: "#4B5E61",
@@ -3216,7 +3222,7 @@ const styles = {
     alignItems: "flex-start",
   },
   toolCardName: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 20,
     fontWeight: 700,
     color: "#ffffff",
@@ -3294,12 +3300,13 @@ const styles = {
     zIndex: 1,
   },
   gardenHeroHeading: {
-    fontFamily: "'DM Serif Display', serif",
-    fontSize: 76,
+    fontFamily: "'Fascinate', cursive",
+    fontSize: 52,
     fontWeight: 400,
+    fontStyle: "normal",
     color: "#faf7f3",
-    letterSpacing: "-2.5px",
-    lineHeight: 1.05,
+    letterSpacing: "0px",
+    lineHeight: 1.15,
     margin: "0 0 28px",
     whiteSpace: "pre-line",
   },
@@ -3311,11 +3318,11 @@ const styles = {
     margin: "0 0 22px",
   },
   gardenHeroSub: {
-    fontFamily: "'Public Sans', sans-serif",
-    fontSize: 11,
-    color: "rgba(250,247,243,0.55)",
-    letterSpacing: "2.2px",
-    textTransform: "uppercase",
+    fontFamily: "'Fascinate Inline', cursive",
+    fontStyle: "normal",
+    fontSize: 12,
+    color: "rgba(250,247,243,0.70)",
+    letterSpacing: "0.5px",
     margin: 0,
   },
   gardenHeroPortraitWrap: {
@@ -3343,7 +3350,7 @@ const styles = {
     padding: "22px 24px 20px",
   },
   bentoCardNameFeatured: {
-    fontFamily: "'DM Serif Display', serif",
+    fontFamily: "'Cormorant Garamond', serif",
     fontStyle: "italic",
     fontSize: 22,
     fontWeight: 400,
@@ -3372,7 +3379,7 @@ const styles = {
     paddingTop: 6,
   },
   aboutHero: {
-    fontFamily: "'DM Serif Display', 'Newsreader', serif",
+    fontFamily: "'Cormorant Garamond', serif",
     fontSize: 52,
     fontWeight: 400,
     lineHeight: 1.18,
@@ -3425,7 +3432,7 @@ const styles = {
     marginTop: -1,
   },
   bentoCardName: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 17,
     fontWeight: 500,
     color: "#1c1c1c",
@@ -3495,7 +3502,7 @@ const styles = {
     flexShrink: 0,
   },
   chesterToolTagline: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontStyle: "italic",
     fontSize: 14,
     color: "rgba(255,255,255,0.75)",
@@ -3518,8 +3525,8 @@ const styles = {
     flex: 1,
   },
   chesterToolTitle: {
-    fontFamily: "'DM Serif Display', serif",
-    fontSize: 24,
+    fontFamily: "'Fascinate', cursive",
+    fontSize: 18,
     fontWeight: 400,
     color: "#1c1c1c",
     margin: "0 0 8px",
@@ -3551,11 +3558,11 @@ const styles = {
     width: "100%",
   },
   chesterPostTitle: {
-    fontFamily: "'Newsreader', serif",
-    fontSize: 18,
-    fontWeight: 500,
+    fontFamily: "'Fascinate', cursive",
+    fontSize: 14,
+    fontWeight: 400,
     color: "#1c1c1c",
-    lineHeight: 1.35,
+    lineHeight: 1.4,
     margin: "0 0 8px",
   },
   chesterPostExcerpt: {
@@ -3578,8 +3585,8 @@ const styles = {
     marginBottom: 52,
   },
   chesterSectionHeading: {
-    fontFamily: "'DM Serif Display', 'Newsreader', serif",
-    fontSize: 28,
+    fontFamily: "'Fascinate', cursive",
+    fontSize: 20,
     fontWeight: 400,
     fontStyle: "italic",
     color: "#2B5054",
@@ -3725,7 +3732,7 @@ const styles = {
     transition: "opacity 0.15s",
   },
   hubTileRowName: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 22,
     fontWeight: 400,
     fontStyle: "italic",
@@ -3746,7 +3753,7 @@ const styles = {
     letterSpacing: "0.3px",
   },
   hubTileArrow: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 18,
     color: "#2B5054",
     opacity: 0.5,
@@ -3758,7 +3765,7 @@ const styles = {
     paddingBottom: 16,
   },
   hubConnectHeading: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 20,
     fontStyle: "italic",
     color: "#2B5054",
@@ -3792,7 +3799,7 @@ const styles = {
 // ═══════════════════════════════════════════════════════════════════════════
 (function () {
   const link = document.createElement("link");
-  link.href = "https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Public+Sans:wght@400;500;600;700&display=swap";
+  link.href = "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=Public+Sans:wght@400;500;600;700&family=Limelight&family=Fascinate&family=Fascinate+Inline&display=swap";
   link.rel = "stylesheet";
   document.head.appendChild(link);
 
