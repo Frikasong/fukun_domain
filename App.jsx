@@ -10,7 +10,7 @@ const TRANSLATIONS = {
     langToggle: "中文",
     nav: {
       info: "About", professional: "Work", personal: "Life",
-      projects: "Projects", share: "Share", hobbies: "Hobbies",
+      projects: "Projects", share: "Thoughts", hobbies: "Fun",
       about: "About", tech: "Legal AI Lab", law: "Law", investment: "Investment", essays: "Essays",
       music: "Music", photography: "Photos", contact: "Contact",
       taglineLaw: "Law", taglineTech: "Technology", taglineIdeas: "Ideas",
@@ -105,7 +105,7 @@ const TRANSLATIONS = {
     langToggle: "EN",
     nav: {
       info: "关于", professional: "工作", personal: "生活",
-      projects: "项目", share: "分享", hobbies: "爱好",
+      projects: "项目", share: "想法", hobbies: "趣味",
       about: "关于", tech: "法律AI实验室", law: "法律", investment: "投资", essays: "文章",
       music: "音乐", photography: "照片", contact: "联系",
       techSub: "法律AI · 工具",
@@ -679,7 +679,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
       },
       {
         key: "share",
-        category: lang === "zh" ? "分享" : "Share",
+        category: lang === "zh" ? "想法" : "Thoughts",
         label: lang === "zh" ? "文章与洞见" : "Writing & Insights",
         sub: lang === "zh" ? "法律 · 科技 · 随笔" : "Law · Tech · Essays",
         onClick: () => { setActiveSection("share"); setView("grid"); },
@@ -693,21 +693,21 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
       },
       {
         key: "music",
-        category: lang === "zh" ? "爱好" : "Hobbies",
+        category: lang === "zh" ? "趣味" : "Fun",
         label: lang === "zh" ? "音乐" : "Music",
         sub: lang === "zh" ? "每周精选" : "Weekly picks",
         onClick: () => { setActiveSection("hobbies"); setView("grid"); },
       },
       {
         key: "photos",
-        category: lang === "zh" ? "爱好" : "Hobbies",
+        category: lang === "zh" ? "趣味" : "Fun",
         label: lang === "zh" ? "照片" : "Photos",
         sub: lang === "zh" ? "摄影" : "Photography",
         onClick: () => { setActiveSection("hobbies"); setView("grid"); },
       },
       {
         key: "essays",
-        category: lang === "zh" ? "分享" : "Share",
+        category: lang === "zh" ? "想法" : "Thoughts",
         label: lang === "zh" ? "随笔" : "Essays",
         sub: lang === "zh" ? "思考与记录" : "Thoughts & reflections",
         onClick: () => { setActiveSection("share"); setView("grid"); },
@@ -716,39 +716,49 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
 
     const isNarrow = typeof window !== "undefined" && window.innerWidth <= 860;
     return (
-      <div style={styles.aboutHub}>
-        <div style={{ ...styles.aboutTwoCol, flexDirection: isNarrow ? "column" : "row" }}>
+      <div style={{ maxWidth: 1100, margin: "0 auto", padding: isNarrow ? "0 0 60px" : "0 0 88px" }}>
 
-          {/* ── Left column: hero text + bio + portrait + connect ── */}
-          <div style={isNarrow ? { width: "100%" } : styles.aboutLeft}>
-
-            {/* Hero greeting */}
-            <h1 style={{ ...styles.aboutHero, fontSize: isNarrow ? 38 : 52 }}>
-              {lang === "zh" ? (
-                <>嗨，我是{"\n"}<span style={styles.aboutHeroAccent}>Fukun</span> 👋</>
-              ) : (
-                <>Hey there, I'm{"\n"}<span style={styles.aboutHeroAccent}>Fukun</span> 👋</>
-              )}
+        {/* ── Garden Hero Card (Chester intro-section style) ── */}
+        <div style={{ ...styles.gardenHero, padding: isNarrow ? "44px 28px 40px" : "64px 60px 60px", minHeight: isNarrow ? "auto" : 290 }}>
+          {/* Portrait floats at bottom-right (desktop only) */}
+          {!isNarrow && (
+            <div style={styles.gardenHeroPortraitWrap}>
+              <img src="portrait.jpg?v=7" alt="Fukun Yang" style={styles.gardenHeroPortraitImg} />
+            </div>
+          )}
+          <div style={isNarrow ? {} : styles.gardenHeroTextCol}>
+            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 48 : 76 }}>
+              {lang === "zh" ? <>你好,{"\n"}我是 Fukun.</> : <>Hey,{"\n"}I'm Fukun.</>}
             </h1>
+            <div style={styles.gardenHeroDash} />
+            <p style={styles.gardenHeroSub}>
+              {lang === "zh"
+                ? "法律 · 科技 · 思想 · 趣味"
+                : "Law · Technology · Ideas · Fun"}
+            </p>
+          </div>
+        </div>
 
-            {/* Bio paragraphs */}
+        {/* ── Two-column content below hero ── */}
+        <div style={{ ...styles.aboutTwoCol, flexDirection: isNarrow ? "column" : "row", marginTop: 44 }}>
+
+          {/* Left: bio + interests + connect */}
+          <div style={isNarrow ? { width: "100%" } : styles.aboutLeft}>
+            {/* Portrait on mobile (below hero, above bio) */}
+            {isNarrow && (
+              <div style={{ ...styles.aboutPortraitCard, width: 120, marginBottom: 22, borderRadius: 12 }}>
+                <img src="portrait.jpg?v=7" alt="Fukun Yang" style={{ ...styles.aboutPortraitImg, aspectRatio: "3/4", objectPosition: "center 22%" }} />
+                <div style={styles.aboutPortraitGlass} />
+              </div>
+            )}
             <p style={styles.aboutText}>{T.about.bg1}</p>
             <p style={{ ...styles.aboutText, marginBottom: 28 }}>{T.about.bg2}</p>
-
-            {/* Portrait */}
-            <div style={{ ...styles.aboutPortraitCard, width: 185, marginBottom: 28, borderRadius: 16 }}>
-              <img src="portrait.jpg?v=7" alt="Fukun Yang" style={{ ...styles.aboutPortraitImg, aspectRatio: "3/4", objectPosition: "center 22%" }} />
-              <div style={styles.aboutPortraitGlass} />
-            </div>
-
-            {/* Interests */}
             <p style={styles.aboutText}>{T.about.int1}</p>
             <p style={{ ...styles.aboutText, marginBottom: 36 }}>
               {T.about.int2}{' '}
               <span className="about-connect-sp" style={styles.aboutConnectLink} onClick={scrollToConnect}>{T.about.connect}</span>!
             </p>
-
-            {/* Connect links */}
+            {/* Connect */}
             <div id="hub-connect" style={{ marginTop: 4 }}>
               <p style={{ fontFamily: "'DM Serif Display', serif", fontStyle: "italic", fontSize: 20, color: "#2B5054", margin: "0 0 14px" }}>
                 {lang === "zh" ? "欢迎联系~" : "Let's connect!"}
@@ -767,37 +777,34 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </div>
           </div>
 
-          {/* ── Right column: bento section cards ── */}
+          {/* Right: bento grid — first card is featured (full-width) */}
           <div style={isNarrow ? { width: "100%", marginTop: 48 } : styles.aboutRight}>
             <div style={styles.bentoGrid}>
-              {tiles.map((tile) =>
-                tile.href ? (
-                  <a
-                    key={tile.key}
-                    href={tile.href}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="bento-card-el"
-                    style={styles.bentoCard}
-                  >
+              {tiles.map((tile, idx) => {
+                const isFeatured = idx === 0;
+                const cardStyle = isFeatured
+                  ? { ...styles.bentoCard, ...styles.bentoCardFeatured }
+                  : styles.bentoCard;
+                return tile.href ? (
+                  <a key={tile.key} href={tile.href} target="_blank" rel="noopener noreferrer" className="bento-card-el" style={cardStyle}>
                     <div style={styles.bentoCardTop}>
                       <span style={styles.bentoCardCategory}>{tile.category}</span>
                       <span style={styles.bentoCardArrow}>↗</span>
                     </div>
-                    <p style={styles.bentoCardName}>{tile.label}</p>
+                    <p style={isFeatured ? styles.bentoCardNameFeatured : styles.bentoCardName}>{tile.label}</p>
                     <p style={styles.bentoCardDesc}>{tile.sub}</p>
                   </a>
                 ) : (
-                  <button key={tile.key} className="bento-card-el" style={styles.bentoCard} onClick={tile.onClick}>
+                  <button key={tile.key} className="bento-card-el" style={cardStyle} onClick={tile.onClick}>
                     <div style={styles.bentoCardTop}>
                       <span style={styles.bentoCardCategory}>{tile.category}</span>
-                      <span style={styles.bentoCardArrow}>→</span>
+                      <span style={styles.bentoCardArrow}>{isFeatured ? "→" : "→"}</span>
                     </div>
-                    <p style={styles.bentoCardName}>{tile.label}</p>
+                    <p style={isFeatured ? styles.bentoCardNameFeatured : styles.bentoCardName}>{tile.label}</p>
                     <p style={styles.bentoCardDesc}>{tile.sub}</p>
                   </button>
-                )
-              )}
+                );
+              })}
             </div>
           </div>
 
@@ -832,6 +839,10 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     ];
     return (
       <div style={styles.chesterPage}>
+        <p style={{ fontFamily: "'DM Serif Display', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 8px" }}>
+          {lang === "zh" ? "我开发的几个工具。" : "A couple of things I've built."}
+        </p>
+        <div style={{ width: 44, height: 4, background: "#C8A96E", borderRadius: 2, margin: "0 0 32px" }} />
         <div style={styles.chesterGrid}>
           {tools.map(tool => (
             <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" className="chester-tool-a" style={styles.chesterToolCard}>
@@ -866,6 +877,10 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     };
     return (
       <div style={styles.chesterPage}>
+        <p style={{ fontFamily: "'DM Serif Display', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 8px" }}>
+          {lang === "zh" ? "法律、科技与随笔。" : "Law, technology, and everything in between."}
+        </p>
+        <div style={{ width: 44, height: 4, background: "#C8A96E", borderRadius: 2, margin: "0 0 32px" }} />
         {entries.length === 0 ? (
           <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
         ) : (
@@ -878,14 +893,13 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                 <button
                   key={`${entry.notionPageId || entry.id}-${i}`}
                   className="chester-post-btn"
-                  style={styles.chesterPostCard}
+                  style={{ ...styles.chesterPostCard, borderLeft: `3px solid ${meta.color}` }}
                   onClick={() => onOpenPost(entry)}
                 >
                   <div style={styles.chesterCardMeta}>
-                    <span style={{ ...styles.chesterCardLabel, color: meta.color }}>Share · {meta.label}</span>
+                    <span style={{ ...styles.chesterCardLabel, color: meta.color }}>{lang === "zh" ? "想法" : "Thoughts"} · {meta.label}</span>
                     <span style={styles.chesterCardArrowIcon}>→</span>
                   </div>
-                  <div style={{ height: 3, background: meta.color, margin: "0 18px 0", borderRadius: 2 }} />
                   <div style={styles.chesterCardBody}>
                     <h3 style={styles.chesterPostTitle}>{entry.title}</h3>
                     {excerpt && <p style={styles.chesterPostExcerpt}>{excerpt}{entry.body?.length > 110 ? "…" : ""}</p>}
@@ -3266,6 +3280,76 @@ const styles = {
     fontSize: 14,
     color: "#8EA1A4",
     fontStyle: "italic",
+  },
+  // ── Digital Garden Hero Card ──────────────────────────────────────────────
+  gardenHero: {
+    background: "#2B5054",
+    borderRadius: 20,
+    position: "relative",
+    overflow: "hidden",
+  },
+  gardenHeroTextCol: {
+    maxWidth: "54%",
+    position: "relative",
+    zIndex: 1,
+  },
+  gardenHeroHeading: {
+    fontFamily: "'DM Serif Display', serif",
+    fontSize: 76,
+    fontWeight: 400,
+    color: "#faf7f3",
+    letterSpacing: "-2.5px",
+    lineHeight: 1.05,
+    margin: "0 0 28px",
+    whiteSpace: "pre-line",
+  },
+  gardenHeroDash: {
+    width: 52,
+    height: 5,
+    background: "#C8A96E",
+    borderRadius: 2,
+    margin: "0 0 22px",
+  },
+  gardenHeroSub: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 11,
+    color: "rgba(250,247,243,0.55)",
+    letterSpacing: "2.2px",
+    textTransform: "uppercase",
+    margin: 0,
+  },
+  gardenHeroPortraitWrap: {
+    position: "absolute",
+    right: 52,
+    bottom: 0,
+    zIndex: 0,
+    display: "flex",
+    alignItems: "flex-end",
+  },
+  gardenHeroPortraitImg: {
+    width: 195,
+    height: 272,
+    objectFit: "cover",
+    objectPosition: "center 22%",
+    borderRadius: "14px 14px 0 0",
+    opacity: 1,
+    display: "block",
+  },
+  // Bento featured card (first card, full width)
+  bentoCardFeatured: {
+    gridColumn: "1 / -1",
+    background: "linear-gradient(135deg, rgba(43,80,84,0.07) 0%, rgba(43,80,84,0.02) 100%)",
+    borderColor: "rgba(43,80,84,0.18)",
+    padding: "22px 24px 20px",
+  },
+  bentoCardNameFeatured: {
+    fontFamily: "'DM Serif Display', serif",
+    fontStyle: "italic",
+    fontSize: 22,
+    fontWeight: 400,
+    color: "#1c1c1c",
+    lineHeight: 1.25,
+    margin: 0,
   },
   // Hub (About page) — chester.how two-column layout
   aboutHub: {
