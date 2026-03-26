@@ -710,7 +710,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             <div style={styles.gardenHeroDash} />
             <p style={styles.gardenHeroSub}>
               welcome to my domain{" "}
-              <span style={{ fontFamily: "'Zhi Mang Xing', cursive", fontSize: 20, letterSpacing: "1px" }}>欢迎来到我的飞鸿雪泥</span>
+              <span style={{ fontFamily: "'Noto Serif SC', serif", fontSize: 15, fontWeight: 400, letterSpacing: "2px" }}>欢迎来到我的飞鸿雪泥</span>
             </p>
           </div>
         </div>
@@ -1828,7 +1828,7 @@ function EditorView({
 // Start of styles
 const styles = {
   root: {
-    fontFamily: "'Public Sans', sans-serif",
+    fontFamily: "'Public Sans', 'Noto Serif SC', sans-serif",
     minHeight: "100vh",
     background: "#faf7f3",
     color: "#1c1c1c",
@@ -2998,7 +2998,7 @@ const styles = {
     textTransform: "uppercase",
   },
   aboutText: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Lora', 'Noto Serif SC', serif",
     fontSize: 18,
     lineHeight: 1.8,
     color: "#444",
@@ -3321,9 +3321,9 @@ const styles = {
     zIndex: 1,
   },
   gardenHeroHeading: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Playfair Display', serif",
     fontSize: 72,
-    fontWeight: 700,
+    fontWeight: 600,
     fontStyle: "normal",
     color: "#faf7f3",
     letterSpacing: "-0.5px",
@@ -3371,10 +3371,10 @@ const styles = {
     padding: "22px 24px 20px",
   },
   bentoCardNameFeatured: {
-    fontFamily: "'Cormorant Garamond', serif",
-    fontStyle: "italic",
+    fontFamily: "'Lora', serif",
+    fontStyle: "normal",
     fontSize: 22,
-    fontWeight: 400,
+    fontWeight: 700,
     color: "#1c1c1c",
     lineHeight: 1.25,
     margin: 0,
@@ -3820,7 +3820,7 @@ const styles = {
 // ═══════════════════════════════════════════════════════════════════════════
 (function () {
   const link = document.createElement("link");
-  link.href = "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=Public+Sans:wght@400;500;600;700&family=Fascinate&family=Zhi+Mang+Xing&display=swap";
+  link.href = "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=Playfair+Display:wght@600&family=Noto+Serif+SC:wght@400;500;700&family=Public+Sans:wght@400;500;600;700&family=Fascinate&display=swap";
   link.rel = "stylesheet";
   document.head.appendChild(link);
 
