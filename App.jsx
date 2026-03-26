@@ -704,7 +704,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </div>
           )}
           <div style={isNarrow ? {} : styles.gardenHeroTextCol}>
-            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 28 : 48 }}>
+            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 44 : 72 }}>
               {lang === "zh" ? <>你好,{"\n"}我是 Fukun.</> : <>Hey,{"\n"}I'm Fukun.</>}
             </h1>
             <div style={styles.gardenHeroDash} />
@@ -3321,13 +3321,13 @@ const styles = {
     zIndex: 1,
   },
   gardenHeroHeading: {
-    fontFamily: "'Fascinate', cursive",
-    fontSize: 48,
-    fontWeight: 400,
+    fontFamily: "'Lora', serif",
+    fontSize: 72,
+    fontWeight: 700,
     fontStyle: "normal",
     color: "#faf7f3",
-    letterSpacing: "6px",
-    lineHeight: 1.18,
+    letterSpacing: "-0.5px",
+    lineHeight: 1.08,
     margin: "0 0 28px",
     whiteSpace: "pre-line",
   },
