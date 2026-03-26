@@ -704,12 +704,12 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </div>
           )}
           <div style={isNarrow ? {} : styles.gardenHeroTextCol}>
-            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 28 : 52 }}>
+            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 48 : 82 }}>
               {lang === "zh" ? <>你好,{"\n"}我是 Fukun.</> : <>Hey,{"\n"}I'm Fukun.</>}
             </h1>
             <div style={styles.gardenHeroDash} />
             <p style={styles.gardenHeroSub}>
-              welcome to my domain · 应似飞鸿踏雪泥
+              welcome to my domain 欢迎来到我的飞鸿雪泥
             </p>
           </div>
         </div>
@@ -1424,6 +1424,26 @@ function PostView({ entry, onBack, T, lang }) {
           ))}
         </div>
       )}
+
+      {(() => {
+        if (!entry.spotifyUrl) return null;
+        const m = entry.spotifyUrl.match(/spotify\.com(?:\/intl-[a-z]+)?\/track\/([A-Za-z0-9]+)/);
+        if (!m) return null;
+        const embedUrl = `https://open.spotify.com/embed/track/${m[1]}?utm_source=generator&theme=0`;
+        return (
+          <div style={{ margin: "24px 0" }}>
+            <iframe
+              src={embedUrl}
+              width="100%"
+              height="152"
+              frameBorder="0"
+              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+              loading="lazy"
+              style={{ borderRadius: 12, display: "block" }}
+            />
+          </div>
+        );
+      })()}
 
       <div style={styles.postBody}>
         {lang === "zh" && translating && (
@@ -2322,10 +2342,10 @@ const styles = {
     opacity: 0.8,
   },
   sectionTitle: {
-    fontFamily: "'Fascinate', cursive",
-    fontSize: "clamp(20px, 3vw, 32px)",
+    fontFamily: "'Cormorant Garamond', serif",
+    fontSize: "clamp(28px, 4vw, 46px)",
     fontWeight: 400,
-    fontStyle: "normal",
+    fontStyle: "italic",
     margin: 0,
     color: "#2B5054",
     letterSpacing: "-0.3px",
@@ -3300,13 +3320,13 @@ const styles = {
     zIndex: 1,
   },
   gardenHeroHeading: {
-    fontFamily: "'Fascinate', cursive",
-    fontSize: 52,
-    fontWeight: 400,
-    fontStyle: "normal",
+    fontFamily: "'Cormorant Garamond', serif",
+    fontSize: 82,
+    fontWeight: 500,
+    fontStyle: "italic",
     color: "#faf7f3",
-    letterSpacing: "0px",
-    lineHeight: 1.15,
+    letterSpacing: "-1.5px",
+    lineHeight: 1.02,
     margin: "0 0 28px",
     whiteSpace: "pre-line",
   },
@@ -3318,11 +3338,11 @@ const styles = {
     margin: "0 0 22px",
   },
   gardenHeroSub: {
-    fontFamily: "'Fascinate Inline', cursive",
-    fontStyle: "normal",
-    fontSize: 12,
-    color: "rgba(250,247,243,0.70)",
-    letterSpacing: "0.5px",
+    fontFamily: "'Cormorant Garamond', serif",
+    fontStyle: "italic",
+    fontSize: 15,
+    color: "rgba(250,247,243,0.62)",
+    letterSpacing: "0.3px",
     margin: 0,
   },
   gardenHeroPortraitWrap: {
@@ -3525,8 +3545,8 @@ const styles = {
     flex: 1,
   },
   chesterToolTitle: {
-    fontFamily: "'Fascinate', cursive",
-    fontSize: 18,
+    fontFamily: "'Cormorant Garamond', serif",
+    fontSize: 24,
     fontWeight: 400,
     color: "#1c1c1c",
     margin: "0 0 8px",
@@ -3558,11 +3578,11 @@ const styles = {
     width: "100%",
   },
   chesterPostTitle: {
-    fontFamily: "'Fascinate', cursive",
-    fontSize: 14,
-    fontWeight: 400,
+    fontFamily: "'Lora', serif",
+    fontSize: 18,
+    fontWeight: 500,
     color: "#1c1c1c",
-    lineHeight: 1.4,
+    lineHeight: 1.35,
     margin: "0 0 8px",
   },
   chesterPostExcerpt: {
@@ -3585,8 +3605,8 @@ const styles = {
     marginBottom: 52,
   },
   chesterSectionHeading: {
-    fontFamily: "'Fascinate', cursive",
-    fontSize: 20,
+    fontFamily: "'Cormorant Garamond', serif",
+    fontSize: 28,
     fontWeight: 400,
     fontStyle: "italic",
     color: "#2B5054",
