@@ -98,7 +98,7 @@ const TRANSLATIONS = {
     },
     common: { readMore: "Read more", showLess: "Show less" },
     grid: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post", by: "by" },
-    footer: "© 2026 Fukun · All Rights Reserved",
+    footer: "© 2026 Fukun · made with curiosity",
   },
   zh: {
     site: { name: "Fukun", tagline: "法律 · 科技 · 思想" },
@@ -193,7 +193,7 @@ const TRANSLATIONS = {
     },
     common: { readMore: "阅读更多", showLess: "收起" },
     grid: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇", by: "作者" },
-    footer: "© 2026 Fukun · 版权所有",
+    footer: "© 2026 Fukun · 用好奇心做的",
   },
 };
 
@@ -704,12 +704,14 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </div>
           )}
           <div style={isNarrow ? {} : styles.gardenHeroTextCol}>
-            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 28 : 52 }}>
+            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 26 : 46 }}>
               {lang === "zh" ? <>你好,{"\n"}我是 Fukun.</> : <>Hey,{"\n"}I'm Fukun.</>}
             </h1>
             <div style={styles.gardenHeroDash} />
-            <p style={styles.gardenHeroSub}>
-              welcome to my domain · 应似飞鸿踏雪泥
+            <p style={{ margin: 0, lineHeight: 1.7 }}>
+              <span style={{ fontFamily: "'Fascinate', cursive", fontSize: 10, color: "rgba(250,247,243,0.60)", letterSpacing: "1.5px", display: "inline" }}>welcome to my domain</span>
+              {"  "}
+              <span style={{ fontFamily: "'Long Cang', cursive", fontSize: 20, color: "rgba(250,247,243,0.78)", letterSpacing: "4px" }}>欢迎来到我的飞鸿雪泥</span>
             </p>
           </div>
         </div>
@@ -740,9 +742,17 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             <div style={styles.bentoGrid}>
               {tiles.map((tile, idx) => {
                 const isFeatured = idx === 0;
+                const tileAccent = {
+                  "legal-ai-lab": "#2B5054",
+                  "share":        "#7a5c42",
+                  "tech-brew":    "#35666a",
+                  "music":        "#5a6b8a",
+                  "photos":       "#8a6a55",
+                  "essays":       "#6b7a5a",
+                }[tile.key] || "#2B5054";
                 const cardStyle = isFeatured
-                  ? { ...styles.bentoCard, ...styles.bentoCardFeatured }
-                  : styles.bentoCard;
+                  ? { ...styles.bentoCard, ...styles.bentoCardFeatured, borderLeft: `3px solid ${tileAccent}` }
+                  : { ...styles.bentoCard, borderLeft: `3px solid ${tileAccent}` };
                 return tile.href ? (
                   <a key={tile.key} href={tile.href} target="_blank" rel="noopener noreferrer" className="bento-card-el" style={cardStyle}>
                     <div style={styles.bentoCardTop}>
@@ -816,30 +826,109 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     ];
     return (
       <div style={styles.chesterPage}>
-        <p style={{ fontFamily: "'Cormorant Garamond', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 8px" }}>
-          {lang === "zh" ? "我用AI搭建的一些小工具。" : "A few AI tools I've built."}
-        </p>
-        <div style={{ width: 44, height: 4, background: "#C8A96E", borderRadius: 2, margin: "0 0 32px" }} />
-        <div style={styles.chesterGrid}>
-          {tools.map(tool => (
-            <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" className="chester-tool-a" style={styles.chesterToolCard}>
+        <div style={{ borderLeft: "3px solid #C8A96E", paddingLeft: 16, margin: "0 0 32px" }}>
+          <p style={{ fontFamily: "'Stroma', serif", fontStyle: "italic", fontSize: 22, fontWeight: 700, color: "#2B5054", margin: "0 0 4px" }}>
+            {lang === "zh" ? "创造是人类的本性。" : "Creating is a human nature."}
+          </p>
+        </div>
+        {/* Garden grid — asymmetric cols so each card breathes differently */}
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(12, 1fr)", gap: 16 }}>
+          {tools.map((tool, toolIdx) => {
+            const gardenColSpans = ["span 7", "span 5", "span 6", "span 4", "span 8"];
+            const gc = gardenColSpans[toolIdx] || "span 6";
+            return (
+            <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" className="chester-tool-a" style={{ ...styles.chesterToolCard, gridColumn: gc }}>
               <div style={styles.chesterCardMeta}>
                 <span style={styles.chesterCardLabel}>{tool.label}</span>
                 <span style={styles.chesterCardArrowIcon}>↗</span>
               </div>
-              <div style={{ ...styles.chesterToolPreview, background: tool.grad }}>
-                <span style={styles.chesterToolEmoji}>{tool.emoji}</span>
-                <div>
-                  <p style={styles.chesterToolTagline}>{tool.tagline}</p>
-                  <span style={styles.chesterToolLiveBadge}>{lang === "zh" ? "已上线" : "Live"}</span>
+
+              {/* ── Housekeeper UI mockup ── */}
+              {tool.id === "housekeeper" && (
+                <div style={{ height: 200, background: "#f0f2f5", overflow: "hidden", userSelect: "none" }}>
+                  {/* Navy header */}
+                  <div style={{ background: "#1e2d4a", padding: "7px 14px", display: "flex", alignItems: "center", justifyContent: "space-between" }}>
+                    <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+                      <div style={{ width: 24, height: 24, background: "#C8A96E", borderRadius: 5, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 12 }}>⚖️</div>
+                      <div>
+                        <div style={{ color: "#fff", fontSize: 11, fontWeight: 700, lineHeight: 1.2, fontFamily: "sans-serif" }}>Housekeeper</div>
+                        <div style={{ color: "rgba(255,255,255,0.45)", fontSize: 7.5, fontFamily: "sans-serif" }}>Landlord and Tenant Board — Hearing Preparation Tool</div>
+                      </div>
+                    </div>
+                    <div style={{ display: "flex", gap: 5 }}>
+                      {["About","Contact"].map(b => <div key={b} style={{ border: "1px solid rgba(255,255,255,0.3)", borderRadius: 12, padding: "2px 7px", color: "rgba(255,255,255,0.8)", fontSize: 7.5, fontFamily: "sans-serif" }}>{b}</div>)}
+                    </div>
+                  </div>
+                  {/* Step bar */}
+                  <div style={{ background: "#fff", borderBottom: "2px solid #e8e8e8", padding: "6px 14px", display: "flex", gap: 18, alignItems: "center" }}>
+                    {[["1","Case Information",true],["2","Upload Files",false],["3","Arrange Tabs",false],["4","Review & Generate",false]].map(([n,s,active]) => (
+                      <div key={n} style={{ display: "flex", alignItems: "center", gap: 4, borderBottom: active ? "2px solid #C8A96E" : "2px solid transparent", paddingBottom: 3 }}>
+                        <div style={{ width: 14, height: 14, borderRadius: "50%", background: active ? "#1e2d4a" : "#cdd2db", display: "flex", alignItems: "center", justifyContent: "center" }}>
+                          <span style={{ color: "#fff", fontSize: 7, fontWeight: 700 }}>{n}</span>
+                        </div>
+                        <span style={{ fontSize: 8, color: active ? "#1e2d4a" : "#9aa0ab", fontWeight: active ? 700 : 400, fontFamily: "sans-serif" }}>{s}</span>
+                      </div>
+                    ))}
+                  </div>
+                  {/* Content area */}
+                  <div style={{ padding: "8px 12px" }}>
+                    <div style={{ background: "#fff", borderRadius: 6, padding: "8px 10px", border: "1px solid #e5e7eb" }}>
+                      <div style={{ fontFamily: "sans-serif", fontSize: 10, fontWeight: 700, color: "#1e2d4a", marginBottom: 5 }}>Case Information</div>
+                      <div style={{ background: "#eef2f8", borderRadius: 4, padding: "6px 8px", marginBottom: 5, borderLeft: "3px solid #4a6fa5" }}>
+                        <div style={{ fontSize: 8, fontWeight: 600, color: "#4a6fa5", fontFamily: "sans-serif", marginBottom: 3 }}>ℹ What is an Evidence Brief?</div>
+                        <div style={{ width: "95%", height: 4, background: "#c8d3e8", borderRadius: 2, marginBottom: 2 }} />
+                        <div style={{ width: "80%", height: 4, background: "#c8d3e8", borderRadius: 2 }} />
+                      </div>
+                      <div style={{ display: "flex", alignItems: "center", gap: 6 }}>
+                        <div style={{ width: 22, height: 22, background: "#f5f5f5", borderRadius: "50%", fontSize: 13, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>🐭</div>
+                        <div style={{ background: "#e8edf5", borderRadius: 10, padding: "4px 8px", flex: 1 }}>
+                          <div style={{ fontSize: 7.5, color: "#4a5568", fontFamily: "sans-serif" }}>Hi, I'm Alex the Mouse! Enter the party and file details...</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
-              </div>
+              )}
+
+              {/* ── Auto News Radar UI mockup ── */}
+              {tool.id === "radar" && (
+                <div style={{ height: 200, background: "#0d1824", overflow: "hidden", userSelect: "none" }}>
+                  {/* Header */}
+                  <div style={{ background: "#152030", padding: "7px 14px", borderBottom: "1px solid rgba(255,255,255,0.07)", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+                    <div style={{ color: "#fff", fontSize: 11, fontWeight: 700, fontFamily: "sans-serif" }}>📡 Auto News Radar</div>
+                    <div style={{ display: "flex", gap: 4 }}>
+                      {[["NA",true],["CN",false]].map(([t,active]) => (
+                        <div key={t} style={{ background: active ? "#2B5054" : "transparent", border: "1px solid rgba(255,255,255,0.2)", borderRadius: 3, padding: "2px 7px", color: active ? "#fff" : "rgba(255,255,255,0.5)", fontSize: 8, fontFamily: "sans-serif" }}>{t}</div>
+                      ))}
+                    </div>
+                  </div>
+                  {/* Category tabs */}
+                  <div style={{ background: "#1a2a3a", padding: "4px 10px", display: "flex", gap: 8, borderBottom: "1px solid rgba(255,255,255,0.05)" }}>
+                    {[["Tools","#2B5054",true],["Skills","#35666a",false],["Articles","#7a5c42",false],["Updates","#5a6b8a",false]].map(([t,c,active]) => (
+                      <div key={t} style={{ fontSize: 7.5, color: active ? c : "rgba(255,255,255,0.35)", fontWeight: active ? 700 : 400, fontFamily: "sans-serif", borderBottom: active ? `2px solid ${c}` : "2px solid transparent", paddingBottom: 2 }}>{t}</div>
+                    ))}
+                  </div>
+                  {/* News items */}
+                  <div style={{ padding: "6px 10px", display: "flex", flexDirection: "column", gap: 4 }}>
+                    {[["#2B5054","85%"],["#2B5054","70%"],["#35666a","90%"],["#7a5c42","65%"],["#5a6b8a","78%"]].map(([c,w],i) => (
+                      <div key={i} style={{ background: "rgba(255,255,255,0.035)", borderRadius: 4, padding: "5px 8px", display: "flex", alignItems: "center", gap: 8, borderLeft: `2px solid ${c}` }}>
+                        <div style={{ width: 28, height: 4, background: c, opacity: 0.7, borderRadius: 2, flexShrink: 0 }} />
+                        <div style={{ height: 4, background: "rgba(255,255,255,0.12)", borderRadius: 2, width: w, flex: 1 }} />
+                        <div style={{ width: 20, height: 14, background: "rgba(255,255,255,0.07)", borderRadius: 2, flexShrink: 0 }} />
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
               <div style={styles.chesterCardBody}>
                 <h3 style={styles.chesterToolTitle}>{tool.name}</h3>
                 <p style={styles.chesterToolDesc}>{tool.desc}</p>
+                <span style={{ ...styles.chesterToolLiveBadge, background: "#2B5054", color: "#fff", display: "inline-block", marginTop: 10, padding: "3px 10px", borderRadius: 20, fontSize: 10 }}>{lang === "zh" ? "已上线" : "Live"}</span>
               </div>
             </a>
-          ))}
+            );
+          })}
         </div>
       </div>
     );
@@ -854,38 +943,58 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     };
     return (
       <div style={styles.chesterPage}>
-        <p style={{ fontFamily: "'Cormorant Garamond', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 8px" }}>
-          {lang === "zh" ? "法律、科技与随笔。" : "Law, technology, and everything in between."}
-        </p>
-        <div style={{ width: 44, height: 4, background: "#C8A96E", borderRadius: 2, margin: "0 0 32px" }} />
+        <div style={{ borderLeft: "3px solid #C8A96E", paddingLeft: 16, margin: "0 0 32px" }}>
+          <p style={{ fontFamily: "'Stroma', serif", fontStyle: "italic", fontSize: 22, fontWeight: 700, color: "#2B5054", margin: "0 0 4px" }}>
+            {lang === "zh" ? "法律、科技，以及一切在之间的事。" : "Law, technology, and everything in between."}
+          </p>
+        </div>
         {entries.length === 0 ? (
           <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
         ) : (
-          <div style={styles.chesterPostGrid}>
-            {entries.map((entry, i) => {
-              const sid = SECTION_MAP[entry.section] || entry.section;
-              const meta = sectionMeta[sid] || { label: "Share", color: "#2B5054" };
-              const excerpt = entry.body ? entry.body.replace(/[#*`\[\]]/g, "").trim().slice(0, 110) : "";
-              return (
-                <button
-                  key={`${entry.notionPageId || entry.id}-${i}`}
-                  className="chester-post-btn"
-                  style={{ ...styles.chesterPostCard, borderLeft: `3px solid ${meta.color}` }}
-                  onClick={() => onOpenPost(entry)}
-                >
-                  <div style={styles.chesterCardMeta}>
-                    <span style={{ ...styles.chesterCardLabel, color: meta.color }}>{lang === "zh" ? "想法" : "Thoughts"} · {meta.label}</span>
-                    <span style={styles.chesterCardArrowIcon}>→</span>
-                  </div>
-                  <div style={styles.chesterCardBody}>
-                    <h3 style={styles.chesterPostTitle}>{entry.title}</h3>
-                    {excerpt && <p style={styles.chesterPostExcerpt}>{excerpt}{entry.body?.length > 110 ? "…" : ""}</p>}
-                    <span style={styles.chesterPostDate}>{entry.date}</span>
-                  </div>
-                </button>
-              );
-            })}
-          </div>
+          // Garden grid — 3 cols, irregular spans, dense packing for organic feel
+          (() => {
+            const tGarden = [3, 1, 2, 1, 1, 2, 3, 2, 1, 1, 2, 1, 1, 3, 1, 2];
+            return (
+              <div style={{ display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: 14, gridAutoFlow: "dense" }}>
+                {entries.map((entry, i) => {
+                  const sid = SECTION_MAP[entry.section] || entry.section;
+                  const meta = sectionMeta[sid] || { label: "Share", color: "#2B5054" };
+                  const bodyLen = (entry.body || "").replace(/[#*`\[\]]/g, "").trim().length;
+                  const size = i === 0 ? "hero" : bodyLen > 500 ? "large" : bodyLen > 150 ? "medium" : "small";
+                  // Garden col spans — cycle through pattern, override for big content
+                  let cols = tGarden[i % tGarden.length];
+                  if (size === "hero") cols = 3;
+                  if (size === "large" && cols < 2) cols = 2;
+                  const maxExcerpt = cols === 3 ? 240 : cols === 2 ? 150 : size === "small" ? 55 : 100;
+                  const excerpt = entry.body ? entry.body.replace(/[#*`\[\]]/g, "").trim().slice(0, maxExcerpt) : "";
+                  const titleSize = cols === 3 ? 22 : cols === 2 ? 18 : size === "small" ? 14 : 16;
+                  return (
+                    <button
+                      key={`${entry.notionPageId || entry.id}-${i}`}
+                      className="chester-post-btn"
+                      style={{
+                        ...styles.chesterPostCard,
+                        borderLeft: `3px solid ${meta.color}`,
+                        gridColumn: `span ${cols}`,
+                        padding: size === "small" && cols === 1 ? "14px 16px 16px" : cols === 3 ? "26px 28px 24px" : "20px 22px 20px",
+                      }}
+                      onClick={() => onOpenPost(entry)}
+                    >
+                      <div style={styles.chesterCardMeta}>
+                        <span style={{ ...styles.chesterCardLabel, color: meta.color }}>{lang === "zh" ? "想法" : "Thoughts"} · {meta.label}</span>
+                        <span style={styles.chesterCardArrowIcon}>→</span>
+                      </div>
+                      <div style={styles.chesterCardBody}>
+                        <h3 style={{ ...styles.chesterPostTitle, fontSize: titleSize }}>{entry.title}</h3>
+                        {excerpt && <p style={{ ...styles.chesterPostExcerpt, fontSize: cols === 1 ? 12 : 13 }}>{excerpt}{bodyLen > maxExcerpt ? "…" : ""}</p>}
+                        <span style={styles.chesterPostDate}>{entry.date}</span>
+                      </div>
+                    </button>
+                  );
+                })}
+              </div>
+            );
+          })()
         )}
       </div>
     );
@@ -897,32 +1006,59 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     const musicEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "music");
     return (
       <div style={styles.chesterPage}>
+        <div style={{ borderLeft: "3px solid #C8A96E", paddingLeft: 16, margin: "0 0 32px" }}>
+          <p style={{ fontFamily: "'Stroma', serif", fontStyle: "italic", fontSize: 22, fontWeight: 700, color: "#2B5054", margin: "0 0 4px" }}>
+            {lang === "zh" ? "生来就是要快乐的。" : "I'm born to have fun."}
+          </p>
+        </div>
         {/* Photos */}
         {photoEntries.length > 0 && (
           <div style={styles.chesterHobbiesSection}>
             <p style={styles.chesterSectionHeading}>📷 {lang === "zh" ? "照片" : "Photos"}</p>
-            <div style={styles.chesterPhotoGrid}>
-              {photoEntries.map((entry, i) => (
-                <button key={i} style={styles.chesterPhotoCard} onClick={() => onOpenPost(entry)}>
-                  <div style={{ ...styles.chesterCardMeta, paddingBottom: 8 }}>
-                    <span style={styles.chesterCardLabel}>Hobbies · Photos</span>
-                    <span style={styles.chesterCardArrowIcon}>→</span>
-                  </div>
-                  {entry.images && entry.images[0]
-                    ? <img
-                        src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data}
-                        alt={entry.title}
-                        style={styles.chesterPhotoImg}
-                      />
-                    : <div style={styles.chesterPhotoPlaceholder}>📷</div>
-                  }
-                  <div style={{ padding: "10px 14px 14px" }}>
-                    <p style={{ ...styles.chesterPostTitle, fontSize: 15, margin: 0 }}>{entry.title}</p>
-                    <span style={styles.chesterPostDate}>{entry.date}</span>
-                  </div>
-                </button>
-              ))}
-            </div>
+            {/* Garden photo mosaic — 4-col dense grid, variable col+row spans */}
+            {(() => {
+              const photoGarden = [
+                { col: "span 2", row: "span 2" },
+                { col: "span 1", row: "span 1" },
+                { col: "span 1", row: "span 2" },
+                { col: "span 2", row: "span 1" },
+                { col: "span 1", row: "span 1" },
+                { col: "span 1", row: "span 1" },
+                { col: "span 2", row: "span 2" },
+                { col: "span 1", row: "span 1" },
+                { col: "span 1", row: "span 2" },
+                { col: "span 2", row: "span 1" },
+                { col: "span 1", row: "span 1" },
+                { col: "span 3", row: "span 1" },
+              ];
+              return (
+                <div style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gridAutoRows: "188px", gap: 10, gridAutoFlow: "dense" }}>
+                  {photoEntries.map((entry, i) => {
+                    const s = photoGarden[i % photoGarden.length];
+                    return (
+                      <button
+                        key={i}
+                        style={{ ...styles.chesterPhotoCard, gridColumn: s.col, gridRow: s.row, height: "100%", overflow: "hidden", display: "flex", flexDirection: "column" }}
+                        onClick={() => onOpenPost(entry)}
+                      >
+                        {entry.images && entry.images[0]
+                          ? <img
+                              src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data}
+                              alt={entry.title}
+                              style={{ ...styles.chesterPhotoImg, flex: 1, height: 0, width: "100%", objectFit: "cover" }}
+                            />
+                          : <div style={{ ...styles.chesterPhotoPlaceholder, flex: 1 }}>📷</div>
+                        }
+                        <div style={{ padding: "8px 12px 10px", flexShrink: 0, background: "#fff" }}>
+                          <p style={{ fontFamily: "'Lora', serif", fontSize: 12, fontWeight: 500, margin: "0 0 2px", color: "#1c1c1c", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{entry.title}</p>
+                          <span style={styles.chesterPostDate}>{entry.date}</span>
+                        </div>
+                      </button>
+                    );
+                  })}
+                </div>
+              );
+            })()}
           </div>
         )}
 
@@ -930,8 +1066,11 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
         {musicEntries.length > 0 && (
           <div style={styles.chesterHobbiesSection}>
             <p style={styles.chesterSectionHeading}>🎵 {lang === "zh" ? "音乐" : "Music"}</p>
-            <div style={styles.chesterMusicGrid}>
+            {/* Garden music grid — wider cards cycle: [2,1,1,2,1,2,3,1] */}
+            <div style={{ display: "grid", gridTemplateColumns: "repeat(6, 1fr)", gap: 12, gridAutoFlow: "dense" }}>
               {musicEntries.map((entry, i) => {
+                const mGarden = [2, 1, 1, 2, 1, 3, 2, 1, 1, 2, 3, 1];
+                const mCol = mGarden[i % mGarden.length];
                 // Convert Spotify track URL → embed URL
                 // handles: open.spotify.com/track/ID, open.spotify.com/intl-xx/track/ID
                 const spotifyEmbedUrl = (() => {
@@ -940,7 +1079,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                   return m ? `https://open.spotify.com/embed/track/${m[1]}?utm_source=generator&theme=0` : null;
                 })();
                 return (
-                  <div key={i} style={styles.chesterMusicCard}>
+                  <div key={i} style={{ ...styles.chesterMusicCard, gridColumn: `span ${mCol}` }}>
                     <div style={styles.chesterCardMeta}>
                       <span style={styles.chesterCardLabel}>{lang === "zh" ? "趣味 · 音乐" : "Fun · Music"}</span>
                       <button style={{ background: "none", border: "none", cursor: "pointer", fontSize: 13, color: "#ccc", padding: 0 }} onClick={() => onOpenPost(entry)}>→</button>
@@ -1425,6 +1564,26 @@ function PostView({ entry, onBack, T, lang }) {
         </div>
       )}
 
+      {(() => {
+        if (!entry.spotifyUrl) return null;
+        const m = entry.spotifyUrl.match(/spotify\.com(?:\/intl-[a-z]+)?\/track\/([A-Za-z0-9]+)/);
+        if (!m) return null;
+        const embedUrl = `https://open.spotify.com/embed/track/${m[1]}?utm_source=generator&theme=0`;
+        return (
+          <div style={{ margin: "24px 0" }}>
+            <iframe
+              src={embedUrl}
+              width="100%"
+              height="152"
+              frameBorder="0"
+              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+              loading="lazy"
+              style={{ borderRadius: 12, display: "block" }}
+            />
+          </div>
+        );
+      })()}
+
       <div style={styles.postBody}>
         {lang === "zh" && translating && (
           <p style={{color:"#888",fontStyle:"normal",fontSize:16}}>翻译中…</p>
@@ -1807,7 +1966,7 @@ function EditorView({
 // Start of styles
 const styles = {
   root: {
-    fontFamily: "'Public Sans', sans-serif",
+    fontFamily: "'Public Sans', 'Noto Serif SC', sans-serif",
     minHeight: "100vh",
     background: "#faf7f3",
     color: "#1c1c1c",
@@ -1819,10 +1978,12 @@ const styles = {
     left: 0,
     width: "100%",
     height: "100%",
-    background: `
+    backgroundImage: `
       radial-gradient(circle at 18% 20%, rgba(255,248,244,0.8) 0%, transparent 52%),
-      radial-gradient(circle at 84% 78%, rgba(201,131,106,0.05) 0%, transparent 50%)
+      radial-gradient(circle at 84% 78%, rgba(201,131,106,0.05) 0%, transparent 50%),
+      radial-gradient(rgba(43,80,84,0.055) 1px, transparent 1px)
     `,
+    backgroundSize: "auto, auto, 26px 26px",
     pointerEvents: "none",
     zIndex: 0,
   },
@@ -2322,9 +2483,9 @@ const styles = {
     opacity: 0.8,
   },
   sectionTitle: {
-    fontFamily: "'Fascinate', cursive",
-    fontSize: "clamp(20px, 3vw, 32px)",
-    fontWeight: 400,
+    fontFamily: "'Lora', serif",
+    fontSize: "clamp(22px, 3vw, 34px)",
+    fontWeight: 500,
     fontStyle: "normal",
     margin: 0,
     color: "#2B5054",
@@ -2977,7 +3138,7 @@ const styles = {
     textTransform: "uppercase",
   },
   aboutText: {
-    fontFamily: "'Lora', serif",
+    fontFamily: "'Lora', 'Noto Serif SC', serif",
     fontSize: 18,
     lineHeight: 1.8,
     color: "#444",
@@ -3301,12 +3462,12 @@ const styles = {
   },
   gardenHeroHeading: {
     fontFamily: "'Fascinate', cursive",
-    fontSize: 52,
+    fontSize: 46,
     fontWeight: 400,
     fontStyle: "normal",
     color: "#faf7f3",
-    letterSpacing: "0px",
-    lineHeight: 1.15,
+    letterSpacing: "4px",
+    lineHeight: 1.2,
     margin: "0 0 28px",
     whiteSpace: "pre-line",
   },
@@ -3318,11 +3479,11 @@ const styles = {
     margin: "0 0 22px",
   },
   gardenHeroSub: {
-    fontFamily: "'Fascinate Inline', cursive",
-    fontStyle: "normal",
-    fontSize: 12,
-    color: "rgba(250,247,243,0.70)",
-    letterSpacing: "0.5px",
+    fontFamily: "'Cormorant Garamond', serif",
+    fontStyle: "italic",
+    fontSize: 15,
+    color: "rgba(250,247,243,0.62)",
+    letterSpacing: "0.3px",
     margin: 0,
   },
   gardenHeroPortraitWrap: {
@@ -3350,10 +3511,10 @@ const styles = {
     padding: "22px 24px 20px",
   },
   bentoCardNameFeatured: {
-    fontFamily: "'Cormorant Garamond', serif",
+    fontFamily: "'Stroma', serif",
     fontStyle: "italic",
     fontSize: 22,
-    fontWeight: 400,
+    fontWeight: 700,
     color: "#1c1c1c",
     lineHeight: 1.25,
     margin: 0,
@@ -3525,9 +3686,9 @@ const styles = {
     flex: 1,
   },
   chesterToolTitle: {
-    fontFamily: "'Fascinate', cursive",
-    fontSize: 18,
-    fontWeight: 400,
+    fontFamily: "'Lora', serif",
+    fontSize: 20,
+    fontWeight: 500,
     color: "#1c1c1c",
     margin: "0 0 8px",
     letterSpacing: "-0.2px",
@@ -3547,10 +3708,10 @@ const styles = {
   },
   chesterPostCard: {
     background: "#fff",
-    borderRadius: 14,
+    borderRadius: 12,
     overflow: "hidden",
-    border: "1px solid rgba(0,0,0,0.07)",
-    boxShadow: "0 2px 8px rgba(0,0,0,0.04)",
+    border: "1px solid rgba(0,0,0,0.06)",
+    boxShadow: "0 1px 6px rgba(0,0,0,0.05)",
     cursor: "pointer",
     textAlign: "left",
     display: "flex",
@@ -3558,11 +3719,11 @@ const styles = {
     width: "100%",
   },
   chesterPostTitle: {
-    fontFamily: "'Fascinate', cursive",
-    fontSize: 14,
-    fontWeight: 400,
+    fontFamily: "'Lora', serif",
+    fontSize: 18,
+    fontWeight: 500,
     color: "#1c1c1c",
-    lineHeight: 1.4,
+    lineHeight: 1.35,
     margin: "0 0 8px",
   },
   chesterPostExcerpt: {
@@ -3585,9 +3746,9 @@ const styles = {
     marginBottom: 52,
   },
   chesterSectionHeading: {
-    fontFamily: "'Fascinate', cursive",
-    fontSize: 20,
-    fontWeight: 400,
+    fontFamily: "'Lora', serif",
+    fontSize: 22,
+    fontWeight: 500,
     fontStyle: "italic",
     color: "#2B5054",
     margin: "0 0 18px",
@@ -3799,7 +3960,7 @@ const styles = {
 // ═══════════════════════════════════════════════════════════════════════════
 (function () {
   const link = document.createElement("link");
-  link.href = "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=Public+Sans:wght@400;500;600;700&family=Limelight&family=Fascinate&family=Fascinate+Inline&display=swap";
+  link.href = "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=Playfair+Display:wght@600&family=Noto+Serif+SC:wght@400;500;700&family=Long+Cang&family=Stroma&family=Public+Sans:wght@400;500;600;700&family=Fascinate&display=swap";
   link.rel = "stylesheet";
   document.head.appendChild(link);
 
