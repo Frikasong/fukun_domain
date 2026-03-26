@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-03-26T01:28:58.511Z",
+  "generatedAt": "2026-03-26T06:59:46.830Z",
   "topicCounts": {
     "legal-tech": 85,
-    "tech": 78,
-    "compliance": 29,
     "ai": 95,
-    "fintech": 17
+    "tech": 79,
+    "fintech": 17,
+    "compliance": 29
   },
   "highlights": {
     "na": [],
@@ -13,25 +13,6 @@
   },
   "panels": {
     "na": [
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/24/newmod-soxton-acquires-cipher-security-company",
-        "title": "NewMod Soxton Acquires Cipher Security Company",
-        "url": "https://www.artificiallawyer.com/2026/03/24/newmod-soxton-acquires-cipher-security-company/",
-        "source": "Artificial Lawyer",
-        "sourceTags": [
-          "legal-tech",
-          "ai"
-        ],
-        "publishedAt": "2026-03-24T13:00:00.000Z",
-        "summary": "Soxton, an AI-powered, NewMod law firm focused on startups, has acquired Cipher, a security company designed for agentic applications. The move provides ‘advanced protection for ...",
-        "category": "tools",
-        "topics": [
-          "legal-tech",
-          "tech",
-          "compliance"
-        ],
-        "region": "na"
-      },
       {
         "id": "LawSites:www.lawnext.com/2026/01/zebraworks-launches-dataq-ai-to-help-law-firms-accelerate-cash-flow-through-ai-driven-revenue-analytics.html",
         "title": "Zebraworks Launches DataQ AI to Help Law Firms Accelerate Cash Flow Through AI-Driven Revenue Analytics",
@@ -48,6 +29,25 @@
           "ai",
           "tech",
           "fintech"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/24/newmod-soxton-acquires-cipher-security-company",
+        "title": "NewMod Soxton Acquires Cipher Security Company",
+        "url": "https://www.artificiallawyer.com/2026/03/24/newmod-soxton-acquires-cipher-security-company/",
+        "source": "Artificial Lawyer",
+        "sourceTags": [
+          "legal-tech",
+          "ai"
+        ],
+        "publishedAt": "2026-03-24T13:00:00.000Z",
+        "summary": "Soxton, an AI-powered, NewMod law firm focused on startups, has acquired Cipher, a security company designed for agentic applications. The move provides ‘advanced protection for ...",
+        "category": "tools",
+        "topics": [
+          "legal-tech",
+          "tech",
+          "compliance"
         ],
         "region": "na"
       },
@@ -103,24 +103,6 @@
         "topics": [
           "legal-tech",
           "ai"
-        ],
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/03/centerbase-launches-native-ndmax-integration-connecting-practice-management-to-ai-powered-document-workflows.html",
-        "title": "Centerbase Launches Native ndMAX Integration, Connecting Practice Management to AI-Powered Document Workflows",
-        "url": "https://www.lawnext.com/2026/03/centerbase-launches-native-ndmax-integration-connecting-practice-management-to-ai-powered-document-workflows.html",
-        "source": "LawSites",
-        "sourceTags": [
-          "legal-tech"
-        ],
-        "publishedAt": "2026-03-24T12:30:20.000Z",
-        "summary": "Centerbase, a practice management platform for midsized law firms, is announcing today an enhanced native integration with NetDocuments that makes it the first practice management platform to natively connect matter data with ndMAX, NetDocuments&#8217; AI-powe",
-        "category": "tools",
-        "topics": [
-          "legal-tech",
-          "tech",
-          "compliance"
         ],
         "region": "na"
       },
@@ -319,6 +301,24 @@
           "legal-tech",
           "ai",
           "tech"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/03/centerbase-launches-native-ndmax-integration-connecting-practice-management-to-ai-powered-document-workflows.html",
+        "title": "Centerbase Launches Native ndMAX Integration, Connecting Practice Management to AI-Powered Document Workflows",
+        "url": "https://www.lawnext.com/2026/03/centerbase-launches-native-ndmax-integration-connecting-practice-management-to-ai-powered-document-workflows.html",
+        "source": "LawSites",
+        "sourceTags": [
+          "legal-tech"
+        ],
+        "publishedAt": "2026-03-24T12:30:20.000Z",
+        "summary": "Centerbase, a practice management platform for midsized law firms, is announcing today an enhanced native integration with NetDocuments that makes it the first practice management platform to natively connect matter data with ndMAX, NetDocuments&#8217; AI-powe",
+        "category": "tools",
+        "topics": [
+          "legal-tech",
+          "tech",
+          "compliance"
         ],
         "region": "na"
       },
@@ -601,23 +601,6 @@
         "region": "na"
       },
       {
-        "id": "Above the Law:abovethelaw.com/2026/03/13-legal-ai-tools-to-improve-productivity-and-client-service",
-        "title": "13 Legal AI Tools To Improve Productivity And Client Service",
-        "url": "https://abovethelaw.com/2026/03/13-legal-ai-tools-to-improve-productivity-and-client-service/",
-        "source": "Above the Law",
-        "sourceTags": [
-          "legal"
-        ],
-        "publishedAt": "2026-03-25T16:02:00.000Z",
-        "summary": "[Sponsored] We explore how you can choose the best options for your practice. The post 13 Legal AI Tools To Improve Productivity And Client Service appeared first on Above the Law .",
-        "category": "tools",
-        "topics": [
-          "legal-tech",
-          "ai"
-        ],
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/introducing-evmbench",
         "title": "Introducing EVMbench",
         "url": "https://openai.com/index/introducing-evmbench",
@@ -635,20 +618,19 @@
         "region": "na"
       },
       {
-        "id": "TechCrunch AI:techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down",
-        "title": "Harvey confirms $11B valuation: Sequoia triples down",
-        "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
-        "source": "TechCrunch AI",
+        "id": "Above the Law:abovethelaw.com/2026/03/13-legal-ai-tools-to-improve-productivity-and-client-service",
+        "title": "13 Legal AI Tools To Improve Productivity And Client Service",
+        "url": "https://abovethelaw.com/2026/03/13-legal-ai-tools-to-improve-productivity-and-client-service/",
+        "source": "Above the Law",
         "sourceTags": [
-          "ai",
-          "tech"
+          "legal"
         ],
-        "publishedAt": "2026-03-25T15:27:15.000Z",
-        "summary": "Investors like Sequoia, Andreessen Horowitz, Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey.",
-        "category": "updates",
+        "publishedAt": "2026-03-25T16:02:00.000Z",
+        "summary": "[Sponsored] We explore how you can choose the best options for your practice. The post 13 Legal AI Tools To Improve Productivity And Client Service appeared first on Above the Law .",
+        "category": "tools",
         "topics": [
           "legal-tech",
-          "tech"
+          "ai"
         ],
         "region": "na"
       },
@@ -1096,23 +1078,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/24/thomson-is-coming-trs-own-legally-trained-llm",
-        "title": "Thomson Is Coming, TR’s Own Legally-Trained LLM",
-        "url": "https://www.artificiallawyer.com/2026/03/24/thomson-is-coming-trs-own-legally-trained-llm/",
-        "source": "Artificial Lawyer",
-        "sourceTags": [
-          "legal-tech",
-          "ai"
-        ],
-        "publishedAt": "2026-03-24T07:40:00.000Z",
-        "summary": "Thomson Reuters (TR) is getting ready to launch ‘Thomson’ its own legally-trained LLM this summer, built using opensource models, their huge data store, and its ...",
-        "category": "tools",
-        "topics": [
-          "ai"
-        ],
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/bbva-collaboration-expansion",
         "title": "BBVA and OpenAI collaborate to transform global banking",
         "url": "https://openai.com/index/bbva-collaboration-expansion",
@@ -1127,6 +1092,41 @@
           "ai",
           "compliance",
           "fintech"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "TechCrunch AI:techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down",
+        "title": "Harvey confirms $11B valuation: Sequoia triples down",
+        "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
+        "source": "TechCrunch AI",
+        "sourceTags": [
+          "ai",
+          "tech"
+        ],
+        "publishedAt": "2026-03-25T15:27:15.000Z",
+        "summary": "Investors like Sequoia, Andreessen Horowitz, Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey.",
+        "category": "updates",
+        "topics": [
+          "legal-tech",
+          "tech"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/24/thomson-is-coming-trs-own-legally-trained-llm",
+        "title": "Thomson Is Coming, TR’s Own Legally-Trained LLM",
+        "url": "https://www.artificiallawyer.com/2026/03/24/thomson-is-coming-trs-own-legally-trained-llm/",
+        "source": "Artificial Lawyer",
+        "sourceTags": [
+          "legal-tech",
+          "ai"
+        ],
+        "publishedAt": "2026-03-24T07:40:00.000Z",
+        "summary": "Thomson Reuters (TR) is getting ready to launch ‘Thomson’ its own legally-trained LLM this summer, built using opensource models, their huge data store, and its ...",
+        "category": "tools",
+        "topics": [
+          "ai"
         ],
         "region": "na"
       },
@@ -1472,23 +1472,6 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/our-approach-to-the-model-spec",
-        "title": "Inside our approach to the Model Spec",
-        "url": "https://openai.com/index/our-approach-to-the-model-spec",
-        "source": "OpenAI News",
-        "sourceTags": [
-          "ai"
-        ],
-        "publishedAt": "2026-03-25T10:00:00.000Z",
-        "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
-        "category": "tools",
-        "topics": [
-          "ai",
-          "tech"
-        ],
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/hibob",
         "title": "Growing impact and scale with ChatGPT",
         "url": "https://openai.com/index/hibob",
@@ -1543,17 +1526,16 @@
         "region": "na"
       },
       {
-        "id": "Google AI Blog:blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers",
-        "title": "Build with Lyria 3, our newest music generation model",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
-        "source": "Google AI Blog",
+        "id": "OpenAI News:openai.com/index/our-approach-to-the-model-spec",
+        "title": "Inside our approach to the Model Spec",
+        "url": "https://openai.com/index/our-approach-to-the-model-spec",
+        "source": "OpenAI News",
         "sourceTags": [
-          "ai",
-          "tech"
+          "ai"
         ],
-        "publishedAt": "2026-03-25T16:00:00.000Z",
-        "summary": "Lyria 3 is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
-        "category": "articles",
+        "publishedAt": "2026-03-25T10:00:00.000Z",
+        "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+        "category": "tools",
         "topics": [
           "ai",
           "tech"
@@ -1574,106 +1556,6 @@
         "topics": [
           "ai",
           "tech"
-        ],
-        "region": "na"
-      },
-      {
-        "id": "TechCrunch AI:techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce",
-        "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
-        "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
-        "source": "TechCrunch AI",
-        "sourceTags": [
-          "ai",
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:30:00.000Z",
-        "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
-        "category": "skills",
-        "topics": [
-          "ai"
-        ],
-        "region": "na"
-      },
-      {
-        "id": "MIT Technology Review:www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math",
-        "title": "This startup wants to change how mathematicians do math",
-        "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-        "source": "MIT Technology Review",
-        "sourceTags": [
-          "tech",
-          "ai"
-        ],
-        "publishedAt": "2026-03-25T13:59:17.000Z",
-        "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing ",
-        "category": "tools",
-        "topics": [
-          "ai",
-          "tech"
-        ],
-        "region": "na"
-      },
-      {
-        "id": "Above the Law:abovethelaw.com/2026/03/susman-godfrey-ditches-giving-1ls-exploding-offers-see-also",
-        "title": "Susman Godfrey Ditches Giving 1Ls Exploding Offers &#8212; See Also",
-        "url": "https://abovethelaw.com/2026/03/susman-godfrey-ditches-giving-1ls-exploding-offers-see-also/",
-        "source": "Above the Law",
-        "sourceTags": [
-          "legal"
-        ],
-        "publishedAt": "2026-03-25T23:00:00.000Z",
-        "summary": "Proper Evaluation Takes Time : The firm has enough sense to not force 1Ls to rush their careers . Bill Barred From Executive Privilege At Airport : Stand in line like everybody else ! You Can't Juggle It All : Biglaw partner shares refreshingly honest story ab",
-        "category": "tools",
-        "topics": [
-          "legal-tech"
-        ],
-        "region": "na"
-      },
-      {
-        "id": "Above the Law:abovethelaw.com/2026/03/2025-was-a-good-year-to-move-law-firms",
-        "title": "2025 Was A Good Year To Move Law Firms",
-        "url": "https://abovethelaw.com/2026/03/2025-was-a-good-year-to-move-law-firms/",
-        "source": "Above the Law",
-        "sourceTags": [
-          "legal"
-        ],
-        "publishedAt": "2026-03-25T22:30:00.000Z",
-        "summary": "Like, historically good. The post 2025 Was A Good Year To Move Law Firms appeared first on Above the Law .",
-        "category": "tools",
-        "topics": [
-          "legal-tech"
-        ],
-        "region": "na"
-      },
-      {
-        "id": "TechCrunch AI:techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead",
-        "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
-        "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
-        "source": "TechCrunch AI",
-        "sourceTags": [
-          "ai",
-          "tech"
-        ],
-        "publishedAt": "2026-03-25T21:44:13.000Z",
-        "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
-        "category": "updates",
-        "topics": [
-          "ai"
-        ],
-        "region": "na"
-      },
-      {
-        "id": "Above the Law:abovethelaw.com/2026/03/ai-training-is-a-must-at-this-biglaw-firm-but-lawyers-wont-receive-any-billable-hours-for-it",
-        "title": "AI Training Is A Must At This Biglaw Firm, But Lawyers Won&#8217;t Receive Any Billable Hours For It",
-        "url": "https://abovethelaw.com/2026/03/ai-training-is-a-must-at-this-biglaw-firm-but-lawyers-wont-receive-any-billable-hours-for-it/",
-        "source": "Above the Law",
-        "sourceTags": [
-          "legal"
-        ],
-        "publishedAt": "2026-03-25T20:57:00.000Z",
-        "summary": "Firm leadership emphasizes AI fluency while declining to treat it as billable work. The post AI Training Is A Must At This Biglaw Firm, But Lawyers Won&#8217;t Receive Any Billable Hours For It appeared first on Above the Law .",
-        "category": "tools",
-        "topics": [
-          "legal-tech"
         ],
         "region": "na"
       },
@@ -1987,15 +1869,50 @@
         "region": "na"
       },
       {
-        "id": "Above the Law:abovethelaw.com/2026/03/top-biglaw-firms-are-offering-50k-stipends-to-1ls-to-secure-2l-summer-spots",
-        "title": "Top Biglaw Firms Are Offering $50K Stipends To 1Ls To Secure 2L Summer Spots",
-        "url": "https://abovethelaw.com/2026/03/top-biglaw-firms-are-offering-50k-stipends-to-1ls-to-secure-2l-summer-spots/",
+        "id": "Google AI Blog:blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers",
+        "title": "Build with Lyria 3, our newest music generation model",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+        "source": "Google AI Blog",
+        "sourceTags": [
+          "ai",
+          "tech"
+        ],
+        "publishedAt": "2026-03-25T16:00:00.000Z",
+        "summary": "Lyria 3 is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+        "category": "articles",
+        "topics": [
+          "ai",
+          "tech"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "TechCrunch AI:techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce",
+        "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+        "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+        "source": "TechCrunch AI",
+        "sourceTags": [
+          "ai",
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T00:30:00.000Z",
+        "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
+        "category": "skills",
+        "topics": [
+          "ai"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "Above the Law:abovethelaw.com/2026/03/susman-godfrey-ditches-giving-1ls-exploding-offers-see-also",
+        "title": "Susman Godfrey Ditches Giving 1Ls Exploding Offers &#8212; See Also",
+        "url": "https://abovethelaw.com/2026/03/susman-godfrey-ditches-giving-1ls-exploding-offers-see-also/",
         "source": "Above the Law",
         "sourceTags": [
           "legal"
         ],
-        "publishedAt": "2026-03-25T17:06:54.000Z",
-        "summary": "Just a ridiculous amount of money. The post Top Biglaw Firms Are Offering $50K Stipends To 1Ls To Secure 2L Summer Spots appeared first on Above the Law .",
+        "publishedAt": "2026-03-25T23:00:00.000Z",
+        "summary": "Proper Evaluation Takes Time : The firm has enough sense to not force 1Ls to rush their careers . Bill Barred From Executive Privilege At Airport : Stand in line like everybody else ! You Can't Juggle It All : Biglaw partner shares refreshingly honest story ab",
         "category": "tools",
         "topics": [
           "legal-tech"
@@ -2003,19 +1920,69 @@
         "region": "na"
       },
       {
-        "id": "TechCrunch AI:techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model",
-        "title": "Google launches Lyria 3 Pro music generation model",
-        "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+        "id": "MIT Technology Review:www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math",
+        "title": "This startup wants to change how mathematicians do math",
+        "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+        "source": "MIT Technology Review",
+        "sourceTags": [
+          "tech",
+          "ai"
+        ],
+        "publishedAt": "2026-03-25T13:59:17.000Z",
+        "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing ",
+        "category": "tools",
+        "topics": [
+          "ai",
+          "tech"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "Above the Law:abovethelaw.com/2026/03/2025-was-a-good-year-to-move-law-firms",
+        "title": "2025 Was A Good Year To Move Law Firms",
+        "url": "https://abovethelaw.com/2026/03/2025-was-a-good-year-to-move-law-firms/",
+        "source": "Above the Law",
+        "sourceTags": [
+          "legal"
+        ],
+        "publishedAt": "2026-03-25T22:30:00.000Z",
+        "summary": "Like, historically good. The post 2025 Was A Good Year To Move Law Firms appeared first on Above the Law .",
+        "category": "tools",
+        "topics": [
+          "legal-tech"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "TechCrunch AI:techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead",
+        "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+        "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
         "source": "TechCrunch AI",
         "sourceTags": [
           "ai",
           "tech"
         ],
-        "publishedAt": "2026-03-25T16:37:43.000Z",
-        "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
-        "category": "tools",
+        "publishedAt": "2026-03-25T21:44:13.000Z",
+        "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+        "category": "updates",
         "topics": [
           "ai"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "Above the Law:abovethelaw.com/2026/03/ai-training-is-a-must-at-this-biglaw-firm-but-lawyers-wont-receive-any-billable-hours-for-it",
+        "title": "AI Training Is A Must At This Biglaw Firm, But Lawyers Won&#8217;t Receive Any Billable Hours For It",
+        "url": "https://abovethelaw.com/2026/03/ai-training-is-a-must-at-this-biglaw-firm-but-lawyers-wont-receive-any-billable-hours-for-it/",
+        "source": "Above the Law",
+        "sourceTags": [
+          "legal"
+        ],
+        "publishedAt": "2026-03-25T20:57:00.000Z",
+        "summary": "Firm leadership emphasizes AI fluency while declining to treat it as billable work. The post AI Training Is A Must At This Biglaw Firm, But Lawyers Won&#8217;t Receive Any Billable Hours For It appeared first on Above the Law .",
+        "category": "tools",
+        "topics": [
+          "legal-tech"
         ],
         "region": "na"
       },
@@ -2121,101 +2088,35 @@
         "region": "na"
       },
       {
-        "id": "TechCrunch AI:techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app",
-        "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-        "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+        "id": "Above the Law:abovethelaw.com/2026/03/top-biglaw-firms-are-offering-50k-stipends-to-1ls-to-secure-2l-summer-spots",
+        "title": "Top Biglaw Firms Are Offering $50K Stipends To 1Ls To Secure 2L Summer Spots",
+        "url": "https://abovethelaw.com/2026/03/top-biglaw-firms-are-offering-50k-stipends-to-1ls-to-secure-2l-summer-spots/",
+        "source": "Above the Law",
+        "sourceTags": [
+          "legal"
+        ],
+        "publishedAt": "2026-03-25T17:06:54.000Z",
+        "summary": "Just a ridiculous amount of money. The post Top Biglaw Firms Are Offering $50K Stipends To 1Ls To Secure 2L Summer Spots appeared first on Above the Law .",
+        "category": "tools",
+        "topics": [
+          "legal-tech"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "TechCrunch AI:techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model",
+        "title": "Google launches Lyria 3 Pro music generation model",
+        "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
         "source": "TechCrunch AI",
         "sourceTags": [
           "ai",
           "tech"
         ],
-        "publishedAt": "2026-03-25T14:48:40.000Z",
-        "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
+        "publishedAt": "2026-03-25T16:37:43.000Z",
+        "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
         "category": "tools",
         "topics": [
           "ai"
-        ],
-        "region": "na"
-      },
-      {
-        "id": "TechCrunch AI:techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook",
-        "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
-        "url": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
-        "source": "TechCrunch AI",
-        "sourceTags": [
-          "ai",
-          "tech"
-        ],
-        "publishedAt": "2026-03-25T14:16:17.000Z",
-        "summary": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps.",
-        "category": "tools",
-        "topics": [
-          "ai"
-        ],
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/safety-bug-bounty",
-        "title": "Introducing the OpenAI Safety Bug Bounty program",
-        "url": "https://openai.com/index/safety-bug-bounty",
-        "source": "OpenAI News",
-        "sourceTags": [
-          "ai"
-        ],
-        "publishedAt": "2026-03-25T00:00:00.000Z",
-        "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
-        "category": "tools",
-        "topics": [
-          "ai"
-        ],
-        "region": "na"
-      },
-      {
-        "id": "MIT Technology Review:www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns",
-        "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
-        "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
-        "source": "MIT Technology Review",
-        "sourceTags": [
-          "tech",
-          "ai"
-        ],
-        "publishedAt": "2026-03-25T12:47:44.000Z",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain&#160; L. Stephen&#160;Coles’s&#",
-        "category": "updates",
-        "topics": [
-          "ai"
-        ],
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/24/eudia-launches-expert-digital-twins-partners-with-servicenow",
-        "title": "Eudia Launches Expert Digital Twins, Partners With ServiceNow",
-        "url": "https://www.artificiallawyer.com/2026/03/24/eudia-launches-expert-digital-twins-partners-with-servicenow/",
-        "source": "Artificial Lawyer",
-        "sourceTags": [
-          "legal-tech",
-          "ai"
-        ],
-        "publishedAt": "2026-03-24T17:45:00.000Z",
-        "summary": "Eudia has launched what it’s calling Expert Digital Twins, which are ‘governed replicas of how an organization’s best subject matter experts make decisions, [then] deployed ...",
-        "category": "tools",
-        "topics": [],
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-        "title": "Helping developers build safer AI experiences for teens",
-        "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-        "source": "OpenAI News",
-        "sourceTags": [
-          "ai"
-        ],
-        "publishedAt": "2026-03-24T11:00:00.000Z",
-        "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
-        "category": "tools",
-        "topics": [
-          "ai",
-          "tech"
         ],
         "region": "na"
       },
@@ -2305,37 +2206,85 @@
         "region": "na"
       },
       {
-        "id": "MIT Technology Review:www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war",
-        "title": "The AI Hype Index: AI goes to war",
-        "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-        "source": "MIT Technology Review",
+        "id": "TechCrunch AI:techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app",
+        "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+        "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+        "source": "TechCrunch AI",
         "sourceTags": [
-          "tech",
-          "ai"
+          "ai",
+          "tech"
         ],
-        "publishedAt": "2026-03-25T09:00:00.000Z",
-        "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest p",
-        "category": "skills",
+        "publishedAt": "2026-03-25T14:48:40.000Z",
+        "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
+        "category": "tools",
         "topics": [
           "ai"
         ],
         "region": "na"
       },
       {
-        "id": "TechCrunch AI:techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction",
-        "title": "Bernie Sanders and AOC propose a ban on data center construction",
-        "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+        "id": "TechCrunch AI:techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook",
+        "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
+        "url": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
         "source": "TechCrunch AI",
         "sourceTags": [
           "ai",
           "tech"
         ],
-        "publishedAt": "2026-03-25T17:15:50.000Z",
-        "summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
+        "publishedAt": "2026-03-25T14:16:17.000Z",
+        "summary": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps.",
+        "category": "tools",
+        "topics": [
+          "ai"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/safety-bug-bounty",
+        "title": "Introducing the OpenAI Safety Bug Bounty program",
+        "url": "https://openai.com/index/safety-bug-bounty",
+        "source": "OpenAI News",
+        "sourceTags": [
+          "ai"
+        ],
+        "publishedAt": "2026-03-25T00:00:00.000Z",
+        "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+        "category": "tools",
+        "topics": [
+          "ai"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "MIT Technology Review:www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns",
+        "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+        "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+        "source": "MIT Technology Review",
+        "sourceTags": [
+          "tech",
+          "ai"
+        ],
+        "publishedAt": "2026-03-25T12:47:44.000Z",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain&#160; L. Stephen&#160;Coles’s&#",
         "category": "updates",
         "topics": [
-          "compliance"
+          "ai"
         ],
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/24/eudia-launches-expert-digital-twins-partners-with-servicenow",
+        "title": "Eudia Launches Expert Digital Twins, Partners With ServiceNow",
+        "url": "https://www.artificiallawyer.com/2026/03/24/eudia-launches-expert-digital-twins-partners-with-servicenow/",
+        "source": "Artificial Lawyer",
+        "sourceTags": [
+          "legal-tech",
+          "ai"
+        ],
+        "publishedAt": "2026-03-24T17:45:00.000Z",
+        "summary": "Eudia has launched what it’s calling Expert Digital Twins, which are ‘governed replicas of how an organization’s best subject matter experts make decisions, [then] deployed ...",
+        "category": "tools",
+        "topics": [],
         "region": "na"
       },
       {
@@ -2383,6 +2332,57 @@
         "publishedAt": "2026-02-03T13:37:30.000Z",
         "summary": "In 2013, the Legal Services Corporation published the landmark study, Report of The Summit on the Use of Technology to Expand Access to Justice. The report forcefully made the case that technology could be a powerful – indeed, essential – tool in narrowing the",
         "category": "tools",
+        "topics": [
+          "compliance"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+        "title": "Helping developers build safer AI experiences for teens",
+        "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+        "source": "OpenAI News",
+        "sourceTags": [
+          "ai"
+        ],
+        "publishedAt": "2026-03-24T11:00:00.000Z",
+        "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+        "category": "tools",
+        "topics": [
+          "ai",
+          "tech"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "MIT Technology Review:www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war",
+        "title": "The AI Hype Index: AI goes to war",
+        "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+        "source": "MIT Technology Review",
+        "sourceTags": [
+          "tech",
+          "ai"
+        ],
+        "publishedAt": "2026-03-25T09:00:00.000Z",
+        "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest p",
+        "category": "skills",
+        "topics": [
+          "ai"
+        ],
+        "region": "na"
+      },
+      {
+        "id": "TechCrunch AI:techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction",
+        "title": "Bernie Sanders and AOC propose a ban on data center construction",
+        "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+        "source": "TechCrunch AI",
+        "sourceTags": [
+          "ai",
+          "tech"
+        ],
+        "publishedAt": "2026-03-25T17:15:50.000Z",
+        "summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
+        "category": "updates",
         "topics": [
           "compliance"
         ],
@@ -2578,6 +2578,23 @@
     ],
     "cn": [
       {
+        "id": "36Kr:36kr.com/p/3738062628962563",
+        "title": "第二期：百融云创、每日互动等AI大模型公司招聘大语言模型算法工程师等岗位｜人才留言板",
+        "url": "https://36kr.com/p/3738062628962563?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T03:00:00.000Z",
+        "summary": "图源:36kr 每周精选 30 + 优质岗位，覆盖 AI 大模型、具身智能、量子计算、3D 打印、半导体等领域，帮你找到下一个职业爆发点。 本期合作企业：国资背景 AI、上市科技龙头、全球独角兽、前沿硬科技新锐｜B 轮及以上占比超 60% 本期亮点速览 图源:36kr 精选岗位 | 中城交科技 · 天使轮 · 交通大模型 一句话卖点： 上海首家国资背景交通垂类大模型公司，千亿级数据资产，双引擎技术体系 地点： 北京/上海 招聘职位： 后端研发工程师（FastAPI/向量数据库/AI流程编排｜3年以上｜薪资面议） 产",
+        "category": "skills",
+        "topics": [
+          "ai",
+          "tech"
+        ],
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3739006287216903",
         "title": "8点1氪丨张雪峰医疗文件疑似泄露，苏州卫生健康委回应；黄仁勋谈死亡：希望在工作中突然离世；OpenAI将停止Sora视频生成服务，精简产品线",
         "url": "https://36kr.com/p/3739006287216903?f=rss",
@@ -2595,15 +2612,16 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3739044438343940",
-        "title": "人工智能初创公司Isara：OpenAI以6.5亿美元的估值对该公司进行了注资",
-        "url": "https://36kr.com/newsflashes/3739044438343940?f=rss",
-        "source": "36Kr",
+        "id": "InfoQ China:www.infoq.cn/article/rnszizy7ns5tdbalhyge",
+        "title": "京东公布最新AI进展：推出“龙虾天团”，首次开源大模型JoyAI-LLM Flash",
+        "url": "https://www.infoq.cn/article/RNszIZY7Ns5tdBAlhyGE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
         "sourceTags": [
-          "tech"
+          "tech",
+          "dev"
         ],
-        "publishedAt": "2026-03-26T00:32:41.000Z",
-        "summary": "人工智能初创公司Isara表示，OpenAI以6.5亿美元的估值对该公司进行了注资。（财联社）",
+        "publishedAt": "2026-03-26T10:20:11.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "topics": [
           "ai"
@@ -2652,7 +2670,7 @@
           "tech"
         ],
         "publishedAt": "2026-03-25T11:49:36.000Z",
-        "summary": "大公司： 斯里兰卡国家支付网络LankaPay宣布：40万商户已支持微信支付 36氪获悉，3月24日，斯里兰卡国家支付网络LankaPay宣布正式接入微信支付。即日起，中国游客可在斯里兰卡全岛超过40万家支持LANKAQR二维码的商户中，直接使用微信支付进行消费。目前，微信跨境支付已覆盖全球78个国家和地区，支持36种货币，覆盖餐饮、百货、商超便利、交通出行、景点购票、留学缴费等丰富场景。 拼多多官宣“新拼姆”方案：开启品牌自营，一期已注资150亿 36氪获悉，3月25日，拼多多集团正式宣布组建“新拼姆”，未来三年",
+        "summary": "大公司： 斯里兰卡国家支付网络LankaPay宣布：40万商户已支持微信支付 36氪获悉，3月24日，斯里兰卡国家支付网络LankaPay宣布正式接入微信支付。即日起，中国游客可在斯里兰卡全岛超过40万家支持LANKAQR二维码的商户中，直接使用微信支付进行消费。目前，微信跨境支付已覆盖全球78个国家和地区，支持36种货币，覆盖餐饮、百货、商超便利、交通出行、景点购票、留学缴费等丰富���景。 拼多多官宣“新拼姆”方案：开启品牌自营，一期已注资150亿 36氪获悉，3月25日，拼多多集团正式宣布组建“新拼姆”，未来",
         "category": "updates",
         "topics": [
           "ai"
@@ -2677,6 +2695,317 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3739420057583618",
+        "title": "宁德时代在成都成立科技新公司，注册资本1000万元",
+        "url": "https://36kr.com/newsflashes/3739420057583618?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T06:54:47.000Z",
+        "summary": "36氪获悉，爱企查App显示，近日，成都时代电服科技有限公司成立，法定代表人为张永灿，注册资本1000万元人民币，经营范围包括软件开发、新能源汽车换电设施销售、电动汽车充电基础设施运营等。股东信息显示，该公司由宁德时代旗下时代电服科技有限公司全资持股。",
+        "category": "tools",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739412101840900",
+        "title": "上海市农业农村委员会：今年将研究制定支持涉农科技型企业发展的专项政策文件",
+        "url": "https://36kr.com/newsflashes/3739412101840900?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T06:46:41.000Z",
+        "summary": "3月26日，上海市农业农村委员会副主任张秩通在上海市政府新闻发布会上表示，涉农科技领军企业是突破关键核心技术、发展农业新质生产力的主力军。今年将研究制定支持涉农科技型企业发展的专项政策文件，以企业需求为导向，强化企业的创新主体地位。（上证报）",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739404757385481",
+        "title": "欧洲央行管委内格尔：4月加息只是一个选项",
+        "url": "https://36kr.com/newsflashes/3739404757385481?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T06:39:13.000Z",
+        "summary": "欧洲央行管委内格尔：随着时间一天天推移，通胀风险正在不断上升。到4月份我们将掌握足够数据，以决定是需要采取行动，还是可以再等等再看。4月加息当然是一个选项，但只是一个选项。（新浪财经）",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739397811322889",
+        "title": "顶固集创独家完成对“星途氦能”的数千万元天使轮投资",
+        "url": "https://36kr.com/newsflashes/3739397811322889?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T06:32:09.000Z",
+        "summary": "3月26日，顶固集创独家完成对“星途氦能”的数千万元天使轮投资。这是顶固集创第三次布局商业航天赛道，旨在切入月球氦-3商业化开采，持续完善其航天产业链布局。",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vxbho3qrozgw3ii7fb2b",
+        "title": "Cloudera：备份与安全，本质是AI经济学问题",
+        "url": "https://www.infoq.cn/article/vXbhO3QrOZGw3ii7FB2B?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "sourceTags": [
+          "tech",
+          "dev"
+        ],
+        "publishedAt": "2026-03-26T11:01:49.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "topics": [
+          "tech"
+        ],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739386578927873",
+        "title": "斯柯达将退出中国，大众中国回应：销售到年中，持续提供售后",
+        "url": "https://36kr.com/newsflashes/3739386578927873?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T06:20:44.000Z",
+        "summary": "据媒体报道，针对斯柯达品牌推出中国市场传闻，大众中国方面回应称：斯柯达汽车在中国的销售将持续到2026年年中，此后仍将为车主持续提供得全面的保修和售后服务支持。大众中国方面表示，斯柯达汽车对全球战略进行了调整，将重点聚焦印度、东盟等高增长市场。同时，大众中国再次强调，中国始终是大众汽车集团全球战略的核心。集团在华建有近40座工厂，服务超5000万名客户，同时设立了德国总部外规模最大的研发中心——大众汽车（中国）科技有限公司（VCTC），以持续推进智能网联汽车技术的开发。（财联社）",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739382103687427",
+        "title": "汉王科技刘卫红：嗅觉数字化正成为人工智能迈向多模态感知的关键突破",
+        "url": "https://36kr.com/newsflashes/3739382103687427?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T06:16:10.000Z",
+        "summary": "36氪获悉，3月25日，2026中关村论坛年会正式开幕。在中关村论坛开放麦ZGC Tech-Show上，汉王科技智能感知技术首席科学家刘卫红指出，嗅觉数字化正成为人工智能迈向多模态感知的关键突破。目前机器嗅觉正从单一识别、静态识别向通用型识别、空间感知识别升级。汉王全自研通用型嗅觉感知平台以“鼻细胞芯片 + AI 算法”作为技术基石，实现了对复杂气味的快速响应识别与量化分析，已经成功应用于食品、饮料、日化等七大生活场景。",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739373892731145",
+        "title": "爱立信将在日本扩建并升级软银的核心网络",
+        "url": "https://36kr.com/newsflashes/3739373892731145?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T06:07:49.000Z",
+        "summary": "爱立信将在日本扩建并升级软银的核心网络。（财联社）",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739373168902147",
+        "title": "微盟集团成为巨量本地推综合代理商、星图代理商",
+        "url": "https://36kr.com/newsflashes/3739373168902147?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T06:07:05.000Z",
+        "summary": "36氪获悉， 近日，微盟集团宣布正式成为巨量本地推综合代理商、巨量星图代理商。此次成为本地推综合代理商，意味着微盟升级为抖音本地生活生态的核心服务伙伴。",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739368032862469",
+        "title": "稳中有进，今年2月中国企业信用指数为162.09",
+        "url": "https://36kr.com/newsflashes/3739368032862469?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T06:01:52.000Z",
+        "summary": "记者今天（26日）从市场监管总局了解到，2026年2月中国企业信用指数为162.09，延续了稳中有进的发展态势。2026年2月，排名前五的行业分别为金融业、电力热力燃气及水生产和供应业、教育、水利环境和公共设施管理业、制造业。其中，金融业、电力热力燃气及水生产和供应业指数增幅较为明显，已实现连续3个月正增长，信用韧性持续增强。科学研究和技术服务业、卫生和社会工作指数排名分别较上月上升3位和2位，信用发展态势向好。（央视新闻）",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739364460199942",
+        "title": "视源股份旗下医疗管理公司注册资本增至5亿元",
+        "url": "https://36kr.com/newsflashes/3739364460199942?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T05:58:14.000Z",
+        "summary": "36氪获悉，爱企查App显示，近日，广州市视和医疗管理有限公司发生工商变更，注册资本由2.5亿元人民币增至5亿元人民币，增幅100%。 该公司成立于2023年5月，法定代表人为简卓为，经营范围包括医院管理、医疗服务、医学研究和试验发展等，股东信息显示，该公司由广州视源电子科技股份有限公司全资持股。",
+        "category": "tools",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739364059021312",
+        "title": "现货黄金日内跌幅扩大至1%",
+        "url": "https://36kr.com/newsflashes/3739364059021312?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T05:57:49.000Z",
+        "summary": "36氪获悉，现货黄金日内跌幅扩大至1%，报4459.96美元/盎司。",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739359611617283",
+        "title": "三星、SK等韩国企业实施车辆限行等节能措施，响应政府节能政策",
+        "url": "https://36kr.com/newsflashes/3739359611617283?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T05:53:18.000Z",
+        "summary": "据报道，以三星和SK为首的韩国各大企业集团已推出一系列节能措施，包括关闭办公区照明以及对驾车上班的员工实施车辆限行等，以响应韩国政府的节能政策。三星宣布从26日起在所有国内业务场所实施车辆限行制度，为期十天，该制度规定车牌尾号与日期尾号相同的车辆限制使用停车场，但电动车、氢燃料车、孕妇和残疾人车辆除外。（财联社）",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739350849208323",
+        "title": "沪深两市成交额突破1.5万亿",
+        "url": "https://36kr.com/newsflashes/3739350849208323?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T05:44:23.000Z",
+        "summary": "36氪获悉，沪深两市成交额突破1.5万亿。",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3739345671962626",
+        "title": "业绩快报丨古茗2025年售出饮品19亿杯，“下沉之王”质效双增",
+        "url": "https://36kr.com/p/3739345671962626?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T05:41:19.000Z",
+        "summary": "3月25日，古茗发布2025年度业绩报告，收入及利润均呈现稳定增长。 财报显示，2025年，古茗实现总收入约129亿元，同比增长46.9%；经调整利润（非国际财务报告准则计量）约人民币25.75亿元，同比增长66.9%。 截至2025年底，古茗门店数达到13554家。2025年新开门店4292家，净增门店3640家。门店网络覆盖全国超过200个不同级别的城市，在二线及以下的占比为82%，乡镇门店占比增长至44%，进一步强化了在低线市场的布局，成为当之无愧的“下沉之王”。 保证门店规模后，古茗的店铺经营效率也有很大提",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739342695727109",
+        "title": "淘天集团推出“AI生产力计划”，向实习生全员开放",
+        "url": "https://36kr.com/newsflashes/3739342695727109?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T05:36:05.000Z",
+        "summary": "36氪获悉，淘天集团正式推出“AI生产力计划”，向实习生全员开放。实习生享有的所有权限、额度、流程与正式员工一致。据了解，阿里巴巴淘天集团员工可免费使用悟空、Qoder系列等付费AI工具，用于技术研发和通用办公，公司向员工提供Token额度。此外，员工购买百炼Coding Plan会员或外部AI开发工具，可申请报销。早前开启的2027届实习生招聘，AI也是淘天的关键词，技术岗占比90%、新增三类AI岗位。",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739337927983361",
+        "title": "现货白银短线跳水跌超1%",
+        "url": "https://36kr.com/newsflashes/3739337927983361?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T05:31:14.000Z",
+        "summary": "36氪获悉，现货白银短线跳水跌超1%，报70.51美元/盎司。",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739334411255817",
+        "title": "恒生科技指数跌3%",
+        "url": "https://36kr.com/newsflashes/3739334411255817?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T05:27:40.000Z",
+        "summary": "36氪获悉，恒生科技指数跌3%，恒生指数跌1.85%。",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739330346434816",
+        "title": "A股三大股指午后均跌超1%",
+        "url": "https://36kr.com/newsflashes/3739330346434816?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T05:23:31.000Z",
+        "summary": "36氪获悉，A股三大股指午后均跌超1%，北证50指数跌超1%。",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739313143332866",
+        "title": "韩国宣布紧急回购5万亿韩元国债以稳定债券市场",
+        "url": "https://36kr.com/newsflashes/3739313143332866?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T05:06:01.000Z",
+        "summary": "韩国财政部周四表示，政府将紧急回购5万亿韩元（约合33亿美元）的国债，以稳定近期波动加剧的国债市场。此次回购将分两天进行，周五回购2.5万亿韩元，下周三再回购2.5万亿韩元。（新浪财经）",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739273793143049",
+        "title": "报告：2025年国内消费级AI/AR市场销量增幅109%，雷鸟夺冠",
+        "url": "https://36kr.com/newsflashes/3739273793143049?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T04:54:54.000Z",
+        "summary": "36氪获悉，CINNO Research最新数据显示，2025年国内消费级AI/AR市场迎来历史性突破——全年销量达69.6万台，同比激增109%，雷鸟、小米、XREAL、Rokid等品牌凭借创新产品矩阵成为核心增长引擎。其中，2025年雷鸟以32%市场份额居首，销量同比暴涨125%。预计2026年国内消费级市场销量同比增长65%，甚至更高。",
+        "category": "articles",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3739264784367619",
+        "title": "我国电子营业执照日均应用量突破120万次",
+        "url": "https://36kr.com/newsflashes/3739264784367619?f=rss",
+        "source": "36Kr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T04:46:51.000Z",
+        "summary": "市场监管总局今天（3月26日）公布了我国电子营业执照签发、应用与服务创新情况。截至2025年12月底，全国已有1.11亿家经营主体下载电子营业执照4.63亿次，累计使用电子营业执照办理身份认证、在线登录、电子签章等业务超10.02亿次，日均应用量达120多万次，各地区各部门已有1900多个业务系统实现电子营业执照的应用对接。（央视新闻）",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/djj5va96fqtppiks6gst",
         "title": "Java近期资讯：JDK 26、LibericaJDK、Payara Platform、GlassFish里程碑版本和ClawRunr",
         "url": "https://www.infoq.cn/article/Djj5va96FQTPPiKs6gsT?utm_source=rss&utm_medium=article",
@@ -2694,267 +3023,15 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3739097920585731",
-        "title": "A股三大指数集体低开，半导体板块领跌",
-        "url": "https://36kr.com/newsflashes/3739097920585731?f=rss",
+        "id": "36Kr:36kr.com/p/3738226479874304",
+        "title": "36氪独家｜红杉中国、Monolith领投AI健康硬件公司「Odyss」，金额近2亿元",
+        "url": "https://36kr.com/p/3738226479874304?f=rss",
         "source": "36Kr",
         "sourceTags": [
           "tech"
         ],
-        "publishedAt": "2026-03-26T01:27:05.000Z",
-        "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.17%，深成指低开0.32%，创业板指低开0.54%；半导体、电工电网、通信设备板块领跌，瑞斯康达跌5%，首航新能跌超4%，兆易创新跌超3%；林木、航天军工、汽车零部件板块走强，四创电子涨超3%，山子高科涨超2%，康欣新材涨超1%。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739093576106246",
-        "title": "央行今日开展2240亿元7天逆回购操作",
-        "url": "https://36kr.com/newsflashes/3739093576106246?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T01:22:40.000Z",
-        "summary": "36氪获悉，央行今日开展2240亿元7天逆回购操作，操作利率为1.40%，与此前持平。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739093331607813",
-        "title": "恒指开盘跌0.27%，恒生科技指数跌0.68%",
-        "url": "https://36kr.com/newsflashes/3739093331607813?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T01:22:25.000Z",
-        "summary": "36氪获悉，恒指开盘跌0.27%，恒生科技指数跌0.68%；传媒、耐用消费品、软件服务板块领跌，快手跌超9%，B站、携程集团、泡泡玛特跌超1%；医药生物、机械、能源板块走强乐普生物涨超6%，三一国际涨超2%，中石化油服涨超1%。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739087654076672",
-        "title": "人民币兑美元中间价报6.9056",
-        "url": "https://36kr.com/newsflashes/3739087654076672?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T01:16:39.000Z",
-        "summary": "36氪获悉，人民币兑美元中间价报6.9056，下调145点；上一交易日中间价6.8911，上一交易日官方收盘价6.8977，上日夜盘报收6.8986。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739070077059074",
-        "title": "双枪科技：竹基禾塑材料处于内部测试阶段，暂无直接出售原材料计划",
-        "url": "https://36kr.com/newsflashes/3739070077059074?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:58:46.000Z",
-        "summary": "36氪获悉，双枪科技在互动平台表示，目前公司的竹基禾塑材料处于内部测试阶段，暂无直接出售原材料的计划。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739059761758468",
-        "title": "两市融资余额增加31.73亿元",
-        "url": "https://36kr.com/newsflashes/3739059761758468?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:48:16.000Z",
-        "summary": "36氪获悉，截至3月25日，上交所融资余额报13217.59亿元，较前一交易日减少1.37亿元；深交所融资余额报12697.1亿元，较前一交易日增加33.1亿元；两市合计25914.69亿元，较前一交易日增加31.73亿元。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739057525096709",
-        "title": "易点天下网络科技股份有限公司向港交所提交上市申请书",
-        "url": "https://36kr.com/newsflashes/3739057525096709?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:46:00.000Z",
-        "summary": "36氪获悉，据港交所，易点天下网络科技股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739054090977539",
-        "title": "日本2月服务业通胀率升至2.7%",
-        "url": "https://36kr.com/newsflashes/3739054090977539?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:42:30.000Z",
-        "summary": "周四公布的数据显示，日本2月份服务业通胀关键指标同比上涨2.7%，进一步印证了日本央行的观点，即劳动力市场紧张正迫使企业将成本上涨转嫁给消费者。（新浪财经）",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739048734671106",
-        "title": "中信建投：医疗器械板块拐点来临",
-        "url": "https://36kr.com/newsflashes/3739048734671106?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:37:03.000Z",
-        "summary": "36氪获悉，中信建投指出，医疗器械板块拐点来临，2026年业绩改善个股存在业绩估值修复机会。重点关注2026年比2025年加速增长的公司，未来有望实现业绩估值双击。2026年医疗器械A股建议重点关注业绩修复和出海相关的投资机会，港股重点关注多家医疗器械优质企业上市带来的板块效应，以及多家医疗器械细分龙头公司逐步释放利润和低估值的布局机会。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739044003545095",
-        "title": "现货白银日内涨1%",
-        "url": "https://36kr.com/newsflashes/3739044003545095?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:32:14.000Z",
-        "summary": "36氪获悉，现货白银日内涨1%，现报71.94美元/盎司。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739041731133699",
-        "title": "国泰海通：油价刺激海外新能源汽车需求，看好自主品牌出海",
-        "url": "https://36kr.com/newsflashes/3739041731133699?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:29:56.000Z",
-        "summary": "36氪获悉，国泰海通证券研报称，本轮油价周期下HEV（油电混合动力）、PHEV（插电式混合动力）、BEV（纯电动汽车）经济性优势扩大，有望驱动其在高油价地区渗透率提升，自主品牌或迎出口机遇。根据中汽协数据，2026年1-2月我国乘用车出口量同比增长53.3%，新能源汽车出口量同比增长约110%，伴随3月全球油价高企催化，全年新能源出口预期有望上修。推荐自主品牌中具备出��α的核心标的。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739038809391106",
-        "title": "华泰证券：地产市场底部渐明，关注优质房企以及物管企业投资机遇",
-        "url": "https://36kr.com/newsflashes/3739038809391106?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:26:57.000Z",
-        "summary": "36氪获悉，华泰证券研报认为，节后新房成交同比下行，但二手房市场迎来三年以来最强“小阳春”，房价节前整体趋稳，一线城市表现相对坚挺。前瞻指标显示，二手房需求热度尚在高位，业主挂牌心态趋稳，但买卖双方议价率走阔，价格预期修复仍需时日，针对性楼市支持政策的有效性得以验证，小户型成交占比显著提升，价格有望率先筑底，同时打通置换链条的第一环，为楼市企稳积累势能。当前地产市场底部渐明，关注优质房企以及物管企业投资机遇。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739036683468801",
-        "title": "韩国4月商业信心大幅下跌",
-        "url": "https://36kr.com/newsflashes/3739036683468801?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:24:48.000Z",
-        "summary": "周四公布的一项调查显示，受中东危机持续影响，韩国4月份企业信心指数转为负面。韩国工业联合会（FKI）的月度调查显示，韩国销售额排名前600位的企业4月份的商业信心指数（BSI）为85.1，较3月份的102.7大幅下降。（新浪财经）",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739034180944130",
-        "title": "中信建投：证券板块三重边际向好，2026年业绩超预期可期",
-        "url": "https://36kr.com/newsflashes/3739034180944130?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:22:15.000Z",
-        "summary": "36氪获悉，中信建投研报称，证券板块三重边际向好，2026年业绩超预期可期。1.上半年交投活跃度同比大增趋势确立，全年增长或超预期；2.年初新开户数据亮眼，散户增量资金蓄势待发；3.券商发债融资规模边际大幅扩张，有望驱动杠杆提升、突破行业ROE高点。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739029922054400",
-        "title": "中信证券：新能源行业有望迎来戴维斯双击",
-        "url": "https://36kr.com/newsflashes/3739029922054400?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:17:55.000Z",
-        "summary": "36氪获悉，中信证券研报称，短期看，在油气价格大幅上涨的背景下，新能源行业有望受益于灵活配置属性和经济性优势提升，迎来需求加速放量；中长期看，中国、欧洲及亚太等地存在油气资源短板，能源结构存在脆弱性隐患，清洁能源发展将由低碳转型的可选路径升级为能源安全的必选战略。因此，结合新能源需求趋势性增长以及地缘冲突等事件性催化共振，预计行业有望迎来戴维斯双击。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739026546671880",
-        "title": "从3000亿狂欢到发行降温，公募银行共创FOF模式遇业绩分化考验",
-        "url": "https://36kr.com/newsflashes/3739026546671880?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:14:29.000Z",
-        "summary": "Wind数据显示，截至日前，全市场年内已有超44只FOF（基金中基金）新品成立，合计募集规模达651.25亿元。随着新发资金持续涌入，FOF基金总规模于3月中旬正式突破3000亿元大关，迈上全新历史台阶。然而，火爆行情背后亦现分化端倪。受A股市场近期震荡调整影响，股票型FOF上周收益大幅度下降，风险警示意义凸显。业内人士认为，在这场由头部商业银行主导的“造星”运动中，FOF正从单纯的代销产品升级为财富管理的战略“压舱石”，但持续性的考验才刚刚开始。（经济参考报）",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739025275519236",
-        "title": "中信证券：氢能综合应用补贴方案出台，疏通产业发展堵点卡点",
-        "url": "https://36kr.com/newsflashes/3739025275519236?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:13:11.000Z",
-        "summary": "36氪获悉，中信证券研报称，工信部、财政部、国家发改委联合发布氢能综合应用试点工作通知，将以“揭榜挂帅”方式，遴选产业基础好、场景丰富、氢源保障能力强、产业链完整的城市群开展先行试点。试点将推动氢能应用场景从燃料电池汽车向交通、工业等多元领域拓展，提升清洁低碳氢供给能力，攻克氢能应用技术堵点、突破产业瓶颈，最终形成可复制的商业化应用模式，构建高效的氢能综合应用体系，推动“制储输用”全产业链一体化发展，完善产业政策环境、打造优质产业生态。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739023984787461",
-        "title": "国金证券：长期来看黄金有望开启新一轮大牛市",
-        "url": "https://36kr.com/newsflashes/3739023984787461?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:11:53.000Z",
-        "summary": "36氪获悉，国金证券指出，历史经验显示滞胀环境下黄金通常具备较好表现，但本轮市场前期集中定价通胀因素而忽略经济“滞”的压力。美国经济已显露增长乏力迹象，高油价可能进一步加速衰退到来。若经济停滞与资本市场下行形成共振，流动性预期差有望成为黄金反弹的触发因素。长期来看，美国综合国力由盛转衰成为市场共识，黄金有望开启新一轮大牛市。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3739020603965704",
-        "title": "算力突围撬动应用爆发，上市公司迎来AI红利兑现期",
-        "url": "https://36kr.com/newsflashes/3739020603965704?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-26T00:08:26.000Z",
-        "summary": "近期，上市公���密集发布的2025年年报与业绩预告显示，人工智能对上市公司业绩的催化，正从梦想照进现实。从支撑大模型训练的算力基础设施，到赋能各行各业的应用解决方案，再到提升内部运营效率的降本增效工具，AI技术正沿着产业链条层层渗透，成为驱动企业营收增长与盈利改善的核心引擎。（中证网）",
+        "publishedAt": "2026-03-26T02:00:58.000Z",
+        "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，AI健康硬件公司「OdyssLife」（以下简称“Odyss”）已于近期连续完成多轮融资，总金额近2亿元人民币。本次融资由红杉中国、Monolith分别领投，老股东线性资本、Creekstone继续加注。 本轮融资金将主要用于产品软硬件研发、全球市场营销以及团队扩张。 在AI硬件赛道备受资本追捧的当下，Odyss切入的是一个高频且尚未被数字化充分改造的场景——饮食健康监测。 Odyss首款产品Odyss N1是全球首款的Always-On智能项链，集图像、音频、动作等多",
         "category": "updates",
         "topics": [],
         "region": "cn"
@@ -2974,20 +3051,93 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:xie.infoq.cn/article/f1352043312ee4f4928bcb966",
-        "title": "漏洞管理进入智能时代！OC社区率先发布AI Agent增强的漏洞动态分级标准",
-        "url": "https://xie.infoq.cn/article/f1352043312ee4f4928bcb966?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/pwtfyxdv4yjlbnss8w3j",
+        "title": "AWS扩展Aurora DSQL，新增Playground、工具集成和驱动连接器",
+        "url": "https://www.infoq.cn/article/PwtFyXdv4YJLbNsS8w3j?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "sourceTags": [
           "tech",
           "dev"
         ],
-        "publishedAt": "2026-03-24T19:10:50.000Z",
-        "summary": "突破静态评估局限，构建动态漏洞治理体系 点击查看原文>",
+        "publishedAt": "2026-03-26T14:00:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
-        "topics": [
-          "ai"
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/tmy3gacurubemme0wwav",
+        "title": "微信龙虾只活2天：一次更新干崩全生态，OpenClaw 撞上 Vibe Coding 天花板",
+        "url": "https://www.infoq.cn/article/tMy3gaCUrUBemME0wWaV?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "sourceTags": [
+          "tech",
+          "dev"
         ],
+        "publishedAt": "2026-03-26T13:02:41.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/7cecgja5gv01bx6ue4d3",
+        "title": "Harness推出全新的制品仓库，重新构想DevSecOps的制品管理",
+        "url": "https://www.infoq.cn/article/7CeCgJa5gv01bx6ue4D3?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "sourceTags": [
+          "tech",
+          "dev"
+        ],
+        "publishedAt": "2026-03-26T11:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/a3rcqid6a6qukwzeay8v",
+        "title": "苹果优化其基础模型的上下文窗口管理能力",
+        "url": "https://www.infoq.cn/article/a3RCQID6a6QukWzeAY8v?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "sourceTags": [
+          "tech",
+          "dev"
+        ],
+        "publishedAt": "2026-03-26T10:10:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/pqlj5b0gkcc9771eby8g",
+        "title": "Stripe工程师部署了自主智能体Minions，每周生成数千个拉取请求",
+        "url": "https://www.infoq.cn/article/PqlJ5b0GKCC9771Eby8G?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "sourceTags": [
+          "tech",
+          "dev"
+        ],
+        "publishedAt": "2026-03-26T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/usmukc9hh5fddmkofo1b",
+        "title": "让推理引擎可被“看见”：大模型推理端到端 Token 级可观测工程实践｜QCon北京",
+        "url": "https://www.infoq.cn/article/UsmUkC9hH5FDdmkofO1b?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "sourceTags": [
+          "tech",
+          "dev"
+        ],
+        "publishedAt": "2026-03-26T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "topics": [],
         "region": "cn"
       },
       {
@@ -3003,22 +3153,6 @@
         "category": "updates",
         "topics": [
           "ai"
-        ],
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3737724614213639",
-        "title": "拓竹和泡泡玛特和解，免费打印大牌IP的日子正在倒计时",
-        "url": "https://36kr.com/p/3737724614213639?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-25T02:13:38.000Z",
-        "summary": "作者 | 张子怡 编辑 | 袁斯来 在野蛮增长几年后，3D打印赛道玩家们一直没有直面的“灰犀牛”，终于冲入大门。 3月中旬，3D打印企业拓竹科技（Bambu Lab）发布声明，就旗下MakerWorld平台存在的IP侵权问题向潮玩巨头泡泡玛特致歉，双方达成和解，相关未经授权的LABUBU等模型被全面下架。 这场原定于4月对簿公堂的诉讼以“闪电和解”告终，不过，它为整个消费级3D打印行业敲响的版权警钟，才刚开始回荡。 这并非拓竹第一次面对侵权纠纷。罗小黑工作室（公司名：北京寒木春华动画技术有限公司）曾于2025年底向",
-        "category": "updates",
-        "topics": [
-          "tech"
         ],
         "region": "cn"
       },
@@ -3115,20 +3249,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3737850679377927",
-        "title": "瑞识科技实现二维可寻址VCSEL芯片量产，已落地车载激光雷达与智能机器人｜最前线",
-        "url": "https://36kr.com/p/3737850679377927?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-25T04:19:42.000Z",
-        "summary": "作者｜乔钰杰 编辑｜袁斯来 据悉，国内化合物半导体厂商深圳瑞识智能科技有限公司（下称“瑞识科技”）近期实现二维可寻址VCSEL（垂直腔面发射激光器）芯片的大规模量产。该类产品此前长期受制于良率、成本及可靠性等问题，产业化进展缓慢，瑞识科技的量产落地，意味着这一技术路线开始进入实际应用阶段。 作为光芯片领域的重要分支，VCSEL芯片被广泛应用于3D传感、面部识别以及激光雷达测距与成像等场景。相较于传统边发射激光器，其在功耗、调制速度以及阵列化集成方面具备优势，更适配需要大规模光阵输出的感知系统，能够以更高效率支撑复杂",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/d1zifebcxohvovp8oz87",
         "title": "“聊天干活”只需扫个码：微信ClawBot官配WorkBuddy，自家出品就是快",
         "url": "https://www.infoq.cn/article/D1ZIFEbcxoHVOvp8oZ87?utm_source=rss&utm_medium=article",
@@ -3144,20 +3264,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3737788251799561",
-        "title": "富力10年前买下的万达酒店，快卖光了",
-        "url": "https://36kr.com/p/3737788251799561?f=rss",
-        "source": "36Kr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-25T03:15:35.000Z",
-        "summary": "2026年3月初，北京银行在银行业信贷资产登记流转中心挂牌转让一笔总额9.3亿元的不良贷款债权。其中，核心债权本金为8亿元，累计孳生利息1.3亿元。 该笔借款的主体为上海众弘置业发展有限公司。经过股权穿透， 上海众弘置业由富力地产的旗下两家子公司100%控股。 这笔借款的核心抵押物是 富力地产在上海虹桥商务区的标杆项目上海富力环球中心，包括了写字楼、丽思卡尔顿五星级酒店、AC四星级酒店及约3万㎡地下商业广场， 和这些资产被一起抵押的还有上海众弘置业的1亿元实缴出资股权。 这笔借款并未逾期，但北京银行认为上海众弘置业",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/3ldh6qh3yeh29horrwbl",
         "title": "Snowflake 的 AI 驱动预测性维护 ｜ 技术实践",
         "url": "https://www.infoq.cn/article/3LDH6Qh3yeH29hORrwbl?utm_source=rss&utm_medium=article",
@@ -3168,6 +3274,20 @@
         ],
         "publishedAt": "2026-03-25T16:22:45.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
+        "id": "iFanr:www.ifanr.com/1659735",
+        "title": "一篇论文引发存储芯片股暴跌，Google 的「DeepSeek 时刻」来了？",
+        "url": "https://www.ifanr.com/1659735?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "iFanr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T05:41:43.000Z",
+        "summary": "到底在怕什么？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
         "category": "updates",
         "topics": [],
         "region": "cn"
@@ -3233,6 +3353,20 @@
         "region": "cn"
       },
       {
+        "id": "iFanr:www.ifanr.com/1659802",
+        "title": "我们都误解了折叠屏｜明日后视镜",
+        "url": "https://www.ifanr.com/1659802?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "source": "iFanr",
+        "sourceTags": [
+          "tech"
+        ],
+        "publishedAt": "2026-03-26T02:45:37.000Z",
+        "summary": "8×1 > 4×2 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "category": "updates",
+        "topics": [],
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/je6efe8rxqabgmkf2cfq",
         "title": "Spring近期资讯：Boot、Security、Integration、AI和AMQP的第三个里程碑版本发布",
         "url": "https://www.infoq.cn/article/JE6EFe8RxQAbGMkf2CFq?utm_source=rss&utm_medium=article",
@@ -3263,66 +3397,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/bkgl1j8uu1wrqaj9uukj",
-        "title": "上市2年狂招大批应届生、不用坐班！Reddit CEO：“AI 原生一代”太有价值了，竞争异常激烈",
-        "url": "https://www.infoq.cn/article/bkgl1j8Uu1wrQaj9UukJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "sourceTags": [
-          "tech",
-          "dev"
-        ],
-        "publishedAt": "2026-03-25T11:01:26.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mtzxayqu6j3r77qqiz8v",
-        "title": ".NET 11 Preview 2 带来了性能提升、经改进的地图功能以及 OpenTelemetry 原生支持",
-        "url": "https://www.infoq.cn/article/MtzxaYQU6J3R77qQiZ8V?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "sourceTags": [
-          "tech",
-          "dev"
-        ],
-        "publishedAt": "2026-03-25T11:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "articles",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/7aahopvd5xlr7ovxo4el",
-        "title": "给 Agent 做“CT”：大规模 Agent 的可观测与质量保障体系｜QCon北京",
-        "url": "https://www.infoq.cn/article/7aAHoPVD5XlR7oVxO4el?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "sourceTags": [
-          "tech",
-          "dev"
-        ],
-        "publishedAt": "2026-03-25T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/eu4vzqjqsuxv3hseoio9",
-        "title": "人类在 AI 辅助软件开发中应扮演何种角色？",
-        "url": "https://www.infoq.cn/article/eu4vZqJqSuXv3hsEoIo9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "sourceTags": [
-          "tech",
-          "dev"
-        ],
-        "publishedAt": "2026-03-25T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
         "id": "iFanr:www.ifanr.com/1659732",
         "title": "智能化全面升级！新一代迈巴赫 S 级亮相，还有一台全新 MPV",
         "url": "https://www.ifanr.com/1659732?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -3332,51 +3406,6 @@
         ],
         "publishedAt": "2026-03-25T09:41:52.000Z",
         "summary": "老钱的体面，新贵的玩具。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mq9xmgqr7xrsbd8yu6tw",
-        "title": "GTC解读：当我们谈论AI推理的KV Cache，我们在做什么？",
-        "url": "https://www.infoq.cn/article/MQ9xMgqr7XrSbD8yu6Tw?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "sourceTags": [
-          "tech",
-          "dev"
-        ],
-        "publishedAt": "2026-03-24T19:59:40.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/yc7p7kfkmuayhrd3z5dy",
-        "title": "基于 Snowflake 的 MONAI 分布式医学影像处理 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/yc7p7KfKMuayhRD3z5dY?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "sourceTags": [
-          "tech",
-          "dev"
-        ],
-        "publishedAt": "2026-03-24T19:48:46.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/rlwioyyglhxoqd1zbmbt",
-        "title": "现代化零售银行分析：信贷与贷款组合的对话智能 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/RLWiOyYglhxoqD1zbMBt?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "sourceTags": [
-          "tech",
-          "dev"
-        ],
-        "publishedAt": "2026-03-24T19:41:46.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "topics": [],
         "region": "cn"
@@ -3573,34 +3602,6 @@
         ],
         "publishedAt": "2026-03-24T00:22:00.000Z",
         "summary": "· 曝扎克伯格正打造 CEO Agent 替自己干活 · 苹果地图或加搜索广告 · 三星 Galaxy S26 本周支持 AirDrop #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "iFanr:www.ifanr.com/1659363",
-        "title": "迈向银河文明的又一步？马斯克要自己造芯片了",
-        "url": "https://www.ifanr.com/1659363?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "source": "iFanr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-23T13:10:34.000Z",
-        "summary": "坐在地下想上天。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-        "category": "updates",
-        "topics": [],
-        "region": "cn"
-      },
-      {
-        "id": "iFanr:www.ifanr.com/1656512",
-        "title": "OpenClaw 让每个聊天软件都有机会变成微信",
-        "url": "https://www.ifanr.com/1656512?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "source": "iFanr",
-        "sourceTags": [
-          "tech"
-        ],
-        "publishedAt": "2026-03-23T12:59:13.000Z",
-        "summary": "从Telegram到飞书，聊天软件的超级接口之争 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
         "category": "updates",
         "topics": [],
         "region": "cn"
@@ -3883,23 +3884,6 @@
         "region": "eu"
       },
       {
-        "id": "Tech.eu:tech.eu/2026/03/25/pave-space-secures-40m-to-fast-track-satellite-deployment",
-        "title": "PAVE Space secures $40M to fast-track satellite deployment",
-        "url": "https://tech.eu/2026/03/25/pave-space-secures-40m-to-fast-track-satellite-deployment/",
-        "source": "Tech.eu",
-        "sourceTags": [
-          "tech",
-          "ai"
-        ],
-        "publishedAt": "2026-03-25T11:00:00.000Z",
-        "summary": "PAVE Space, a Swiss spaceinfrastructure company, has raised $40 million in seed funding to develop a newgeneration of spacecraft designed to move satellites rapidly between orbits.The round was led by...",
-        "category": "updates",
-        "topics": [
-          "tech"
-        ],
-        "region": "eu"
-      },
-      {
         "id": "Tech.eu:tech.eu/2026/03/25/deeptech-startup-renasens-lands-eur10m-to-scale-textile-recycling-in-europe",
         "title": "Deeptech startup Renasens lands €10M to scale textile recycling in Europe",
         "url": "https://tech.eu/2026/03/25/deeptech-startup-renasens-lands-eur10m-to-scale-textile-recycling-in-europe/",
@@ -3910,6 +3894,23 @@
         ],
         "publishedAt": "2026-03-25T11:00:00.000Z",
         "summary": "Renasens,a Stockholm-based deeptech company developing textile recycling technology, hasraised €10 million in a seed funding round led by Extantia, with participationfrom Course Corrected VC and conti...",
+        "category": "updates",
+        "topics": [
+          "tech"
+        ],
+        "region": "eu"
+      },
+      {
+        "id": "Tech.eu:tech.eu/2026/03/25/pave-space-secures-40m-to-fast-track-satellite-deployment",
+        "title": "PAVE Space secures $40M to fast-track satellite deployment",
+        "url": "https://tech.eu/2026/03/25/pave-space-secures-40m-to-fast-track-satellite-deployment/",
+        "source": "Tech.eu",
+        "sourceTags": [
+          "tech",
+          "ai"
+        ],
+        "publishedAt": "2026-03-25T11:00:00.000Z",
+        "summary": "PAVE Space, a Swiss spaceinfrastructure company, has raised $40 million in seed funding to develop a newgeneration of spacecraft designed to move satellites rapidly between orbits.The round was led by...",
         "category": "updates",
         "topics": [
           "tech"
@@ -3968,23 +3969,6 @@
         "region": "eu"
       },
       {
-        "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/25/alibaba_damo_xuantie_c950_chip",
-        "title": "Alibaba delivers RISC-V server chip optimized to run China’s top AI models",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/alibaba_damo_xuantie_c950_chip/",
-        "source": "The Register",
-        "sourceTags": [
-          "tech",
-          "compliance"
-        ],
-        "publishedAt": "2026-03-25T03:52:48.000Z",
-        "summary": "Claims its set performance records but looks to be years behind western fare Alibaba has revealed a new server chip that it says is the most powerful processor ever to use the RISC-V instruction set.…",
-        "category": "updates",
-        "topics": [
-          "ai"
-        ],
-        "region": "eu"
-      },
-      {
         "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/24/trivy_compromise_litellm",
         "title": "LiteLLM loses game of Trivy pursuit, gets compromised",
         "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/trivy_compromise_litellm/",
@@ -4003,6 +3987,23 @@
         "region": "eu"
       },
       {
+        "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/25/alibaba_damo_xuantie_c950_chip",
+        "title": "Alibaba delivers RISC-V server chip optimized to run China’s top AI models",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/alibaba_damo_xuantie_c950_chip/",
+        "source": "The Register",
+        "sourceTags": [
+          "tech",
+          "compliance"
+        ],
+        "publishedAt": "2026-03-25T03:52:48.000Z",
+        "summary": "Claims its set performance records but looks to be years behind western fare Alibaba has revealed a new server chip that it says is the most powerful processor ever to use the RISC-V instruction set.…",
+        "category": "updates",
+        "topics": [
+          "ai"
+        ],
+        "region": "eu"
+      },
+      {
         "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/24/mozilla_introduces_cq_stack_overflow",
         "title": "Mozilla introduces cq, describing it as 'Stack Overflow for agents'",
         "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/mozilla_introduces_cq_stack_overflow/",
@@ -4014,6 +4015,24 @@
         "publishedAt": "2026-03-24T17:17:49.000Z",
         "summary": "A knowledge database where AI agents read, add and score the items – what could go wrong? Mozilla is building cq - described by staff engineer Peter Wilson as \"Stack Overflow for agents\" - as an open source project to enable AI agents to discover and share col",
         "category": "updates",
+        "topics": [
+          "ai",
+          "tech"
+        ],
+        "region": "eu"
+      },
+      {
+        "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/24/datadog_revising_custom_model",
+        "title": "Datadog bets DIY AI will mean it dodges the SaaSpocalypse",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/datadog_revising_custom_model/",
+        "source": "The Register",
+        "sourceTags": [
+          "tech",
+          "compliance"
+        ],
+        "publishedAt": "2026-03-24T16:08:07.000Z",
+        "summary": "The theory is that its domain-specific model will beat generalist LLMs on results and economics Datadog is close to releasing an updated AI model that it thinks will help it avoid the so-called SaaSpocalypse – customers using AI to build their own tools.…",
+        "category": "tools",
         "topics": [
           "ai",
           "tech"
@@ -4038,35 +4057,17 @@
         "region": "eu"
       },
       {
-        "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/24/datadog_revising_custom_model",
-        "title": "Datadog bets DIY AI will mean it dodges the SaaSpocalypse",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/datadog_revising_custom_model/",
+        "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/26/india_pakistan_cctv",
+        "title": "Indian government probes CCTV espionage operation linked to Pakistan",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/india_pakistan_cctv/",
         "source": "The Register",
         "sourceTags": [
           "tech",
           "compliance"
         ],
-        "publishedAt": "2026-03-24T16:08:07.000Z",
-        "summary": "The theory is that its domain-specific model will beat generalist LLMs on results and economics Datadog is close to releasing an updated AI model that it thinks will help it avoid the so-called SaaSpocalypse – customers using AI to build their own tools.…",
-        "category": "tools",
-        "topics": [
-          "ai",
-          "tech"
-        ],
-        "region": "eu"
-      },
-      {
-        "id": "Tech.eu:tech.eu/2026/03/24/nanozymex-secures-venture-kick-backing-to-advance-lipid-nanoparticle-enzyme-therapies-for-rare-diseases",
-        "title": "NanoZymeX secures €160K to advance lipid nanoparticle enzyme therapies for rare diseases",
-        "url": "https://tech.eu/2026/03/24/nanozymex-secures-venture-kick-backing-to-advance-lipid-nanoparticle-enzyme-therapies-for-rare-diseases/",
-        "source": "Tech.eu",
-        "sourceTags": [
-          "tech",
-          "ai"
-        ],
-        "publishedAt": "2026-03-24T15:38:50.000Z",
-        "summary": "Biotech startup NanoZymeX has obtained €160,000 (CHF 150,000) from Venture Kick to advance a new platform for enzyme replacement therapy using lipid nanoparticles. Spun out of research at the Univers...",
-        "category": "tools",
+        "publishedAt": "2026-03-26T03:18:01.000Z",
+        "summary": "Police found cameras pointing at infrastructure Indian authorities have reportedly ordered an audit of the nation’s CCTV cameras, after police uncovered what they claim was a Pakistan-backed surveillance operation.…",
+        "category": "articles",
         "topics": [
           "tech"
         ],
@@ -4083,6 +4084,23 @@
         ],
         "publishedAt": "2026-03-26T00:58:00.000Z",
         "summary": "Shifting production from automotive to compute and working on supercapacitors as another way to protect workloads Major memory makers have already sold all the kit they can make this year, creating shortages and price increases. Datacenter infrastructure buyer",
+        "category": "tools",
+        "topics": [
+          "tech"
+        ],
+        "region": "eu"
+      },
+      {
+        "id": "Tech.eu:tech.eu/2026/03/24/nanozymex-secures-venture-kick-backing-to-advance-lipid-nanoparticle-enzyme-therapies-for-rare-diseases",
+        "title": "NanoZymeX secures €160K to advance lipid nanoparticle enzyme therapies for rare diseases",
+        "url": "https://tech.eu/2026/03/24/nanozymex-secures-venture-kick-backing-to-advance-lipid-nanoparticle-enzyme-therapies-for-rare-diseases/",
+        "source": "Tech.eu",
+        "sourceTags": [
+          "tech",
+          "ai"
+        ],
+        "publishedAt": "2026-03-24T15:38:50.000Z",
+        "summary": "Biotech startup NanoZymeX has obtained €160,000 (CHF 150,000) from Venture Kick to advance a new platform for enzyme replacement therapy using lipid nanoparticles. Spun out of research at the Univers...",
         "category": "tools",
         "topics": [
           "tech"
@@ -4107,20 +4125,18 @@
         "region": "eu"
       },
       {
-        "id": "Tech.eu:tech.eu/2026/03/24/climatetech-platform-zevero-raises-7m-amid-growing-global-demand-for-carbon-data",
-        "title": "Climatetech platform Zevero raises $7M amid growing global demand for carbon data",
-        "url": "https://tech.eu/2026/03/24/climatetech-platform-zevero-raises-7m-amid-growing-global-demand-for-carbon-data/",
-        "source": "Tech.eu",
+        "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/26/honda_sony_jv_hits_pause",
+        "title": "Go for a walk, man: Sony's drive to create a car parked by partner Honda",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/honda_sony_jv_hits_pause/",
+        "source": "The Register",
         "sourceTags": [
           "tech",
-          "ai"
+          "compliance"
         ],
-        "publishedAt": "2026-03-24T12:40:00.000Z",
-        "summary": "Zevero,a carbon management platform, has secured $7 million in newfunding, bringing its total capital raised to $14 million. The round includesparticipation from Spiral Capital, Gazelle Capital, and D...",
+        "publishedAt": "2026-03-26T06:24:36.000Z",
+        "summary": "CarStation/PlayMobile won’t hit the road after pile-up of tax and competition issues in China and the USA Sony and Honda have broken up, meaning their joint vision to deliver a revolutionary electric vehicle won’t happen.…",
         "category": "tools",
-        "topics": [
-          "tech"
-        ],
+        "topics": [],
         "region": "eu"
       },
       {
@@ -4190,6 +4206,23 @@
         "region": "eu"
       },
       {
+        "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/24/ai_models_persona_prompting",
+        "title": "Telling an AI model that it’s an expert programmer makes it a worse programmer",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/ai_models_persona_prompting/",
+        "source": "The Register",
+        "sourceTags": [
+          "tech",
+          "compliance"
+        ],
+        "publishedAt": "2026-03-24T00:20:29.000Z",
+        "summary": "Researchers say persona-based prompting can improve works for safety but not for facts Many people start their work with AI by prompting the machine to imagine it is an expert at the task they want it to perform, a technique that boffins have found may be futi",
+        "category": "skills",
+        "topics": [
+          "ai"
+        ],
+        "region": "eu"
+      },
+      {
         "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/25/open_source_bill_opinion",
         "title": "Open source isn't a tip jar – it's time to charge for access",
         "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/open_source_bill_opinion/",
@@ -4249,40 +4282,6 @@
         "summary": "Insiders say single-bidder process left little room for negotiation The UK's tax collection agency has awarded Amazon Web Services – the only remaining bidder – a contract worth nearly £500 million to migrate services from three Fujitsu-run datacenters and hos",
         "category": "updates",
         "topics": [],
-        "region": "eu"
-      },
-      {
-        "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/24/ai_models_persona_prompting",
-        "title": "Telling an AI model that it’s an expert programmer makes it a worse programmer",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/ai_models_persona_prompting/",
-        "source": "The Register",
-        "sourceTags": [
-          "tech",
-          "compliance"
-        ],
-        "publishedAt": "2026-03-24T00:20:29.000Z",
-        "summary": "Researchers say persona-based prompting can improve works for safety but not for facts Many people start their work with AI by prompting the machine to imagine it is an expert at the task they want it to perform, a technique that boffins have found may be futi",
-        "category": "skills",
-        "topics": [
-          "ai"
-        ],
-        "region": "eu"
-      },
-      {
-        "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/23/claude_attacks_rorschach_rsac_rob_joyce",
-        "title": "Claude attacks were 'Rorschach test' for infosec community, scaring former NSA boss",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/claude_attacks_rorschach_rsac_rob_joyce/",
-        "source": "The Register",
-        "sourceTags": [
-          "tech",
-          "compliance"
-        ],
-        "publishedAt": "2026-03-23T22:50:21.000Z",
-        "summary": "'It freakin' worked' says Rob Joyce - and shows how relentless AI agents can find holes humans miss RSAC 2026 The now-infamous Anthropic report about Chinese cyberspies abusing Claude AI to automate cyberattacks was a Rorschach test for the infosec community, ",
-        "category": "articles",
-        "topics": [
-          "ai"
-        ],
         "region": "eu"
       },
       {
@@ -4483,21 +4482,6 @@
         "region": "eu"
       },
       {
-        "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/24/eff_nicole_ozer_new_chief_interview",
-        "title": "EFF has a new boss to lead the fight against privacy-sucking forces of doom",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/eff_nicole_ozer_new_chief_interview/",
-        "source": "The Register",
-        "sourceTags": [
-          "tech",
-          "compliance"
-        ],
-        "publishedAt": "2026-03-24T22:44:45.000Z",
-        "summary": "Cyber rights org retools for the days of AI and unrestrained government interview The Electronic Frontier Foundation (EFF) on Tuesday appointed Nicole Ozer to succeed Cindy Cohn as the cyber rights group's executive director when Cohn departs this summer.…",
-        "category": "tools",
-        "topics": [],
-        "region": "eu"
-      },
-      {
         "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/24/hackerone_supplier_breach",
         "title": "HackerOne slams supplier for delayed breach notice after staff data exposed",
         "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/hackerone_supplier_breach/",
@@ -4512,6 +4496,21 @@
         "topics": [
           "tech"
         ],
+        "region": "eu"
+      },
+      {
+        "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/24/eff_nicole_ozer_new_chief_interview",
+        "title": "EFF has a new boss to lead the fight against privacy-sucking forces of doom",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/eff_nicole_ozer_new_chief_interview/",
+        "source": "The Register",
+        "sourceTags": [
+          "tech",
+          "compliance"
+        ],
+        "publishedAt": "2026-03-24T22:44:45.000Z",
+        "summary": "Cyber rights org retools for the days of AI and unrestrained government interview The Electronic Frontier Foundation (EFF) on Tuesday appointed Nicole Ozer to succeed Cindy Cohn as the cyber rights group's executive director when Cohn departs this summer.…",
+        "category": "tools",
+        "topics": [],
         "region": "eu"
       },
       {
@@ -4695,21 +4694,6 @@
         "publishedAt": "2026-03-24T04:35:48.000Z",
         "summary": "‘People don’t like wearing things on their faces and don’t trust those who do’ Science fiction author Neal Stephenson, who coined the term “metaverse” in his 1992 novel Snow Crash , has argued he and others who believed immersive environments would require hea",
         "category": "tools",
-        "topics": [],
-        "region": "eu"
-      },
-      {
-        "id": "The Register:go.theregister.com/feed/www.theregister.com/2026/03/23/rsa_panel_china_threat_collaboration_call",
-        "title": "Public-private partnerships vital in disrupting China's Typhoons, says RSA panel with no government speakers",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/rsa_panel_china_threat_collaboration_call/",
-        "source": "The Register",
-        "sourceTags": [
-          "tech",
-          "compliance"
-        ],
-        "publishedAt": "2026-03-23T22:46:01.000Z",
-        "summary": "Washington content to be represented by actual empty chairs RSAC 2026 Back in the day (circa 2023) when cybercrime group Scattered Spider and its help-desk voice-phishing calls were a relatively new threat, the feds considered pulling the government's top cybe",
-        "category": "updates",
         "topics": [],
         "region": "eu"
       }
