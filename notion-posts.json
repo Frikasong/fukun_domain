@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T17:16:10.701Z",
+  "generatedAt": "2026-03-26T17:29:52.487Z",
   "source": "notion",
   "entries": [
     {
@@ -19,7 +19,7 @@
       "body": "(No content yet)",
       "summary": "",
       "images": [
-        "https://prod-files-secure.s3.us-west-2.amazonaws.com/1ed1171f-d9ca-4009-80fb-e83fd51fb56c/87509880-5c2e-4957-b253-b6400a2819d0/grdr_2025-12-10_35634.716_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XTYHODJG%2F20260326%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260326T171551Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAAaCXVzLXdlc3QtMiJHMEUCIQDLxQUqONPMqYvLDHNAJXrjz9%2BvuBAeSlB6iqe0%2FLH6nAIgah%2B0gsjy98zZXz%2Fl5GOFgTfxAzwYjoKCCG7dxnYIoJUqiAQIyf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDHd3u8mQJwQHNTBfICrcA6IPjI9%2BTSL%2BoiQWW07FNAYhlBm0UNKN3%2BmsuwNK7la64BDMmukN6CFcNEbTizl1yl%2BE9UlwlOaeAG1rN8S62%2BiWFTby6UkGUxzE%2BNcAUGb0lJb017KF4HJ%2BeFGsb5ZBuGdYld7tV%2BniPEdOcODEdYPRd30vbjk7xCNaeIhFAUm6Fw8yvdcl3drgoCg%2F5VHfWl8WtAjlu1fBDJMmyosAkK45Yd7BQH0Id5K4XZMSgE08K4o8ANyltR5ovLP3ukDp1YPRXTOOo2B1iY5ss9qNAOC5bEaT3g8ToX8ZThF6gO5ZoboQIafHAZB1QDWhcx7ZoEps3NzwIR8KPhDMU590g3Gt%2FYOzrGe%2F%2FPCT3AtUxSbmkjAovhRSkEj1CQ81kur6PGwxZa4eQ0Q28qOEcV%2FkNHTo5Fiub1n5PBdEgLJfsQu5U2S8gOXU3wm%2FuJ2dSMMldqLbTlYAPd2Niq6Z9HHCerRHvJK8FvFfG5s3Qj7OaguSlLvyNz05LaopYdC0IX2D5Yb%2BRB7M7BJilhm38%2FoGueQcC9dg0Lj7gZNa78tiG%2F%2BR1esmO5wGF4I7KiB%2Bp%2BjPUnUREyjTL3e76fR08OjkbqvPjNbLPMWZgzftINKsSxmRV5MX6C0iiCDecckNMNuwlc4GOqUBAa4DSmfvz2tEyjSZBHy76c1QM2PR8dVCYsS731eyNYRCCGp0IOkbOR52ynu0yoBzf04W9vD3DRPgAhc4P0XmiJTcCOkchiBh7qSAKNVRIu1JSxfu62uT10oItcoP0%2FeOOxpYtHPHF%2BnXK7mgZOZ8u%2FIhl%2B9E%2Frn70lmIEeHWVBgfsXycy1Jbt6PHJ9vc1q%2FYU%2BDvgRcwQZLSqAX0Ap56B9WukRVw&X-Amz-Signature=c29d477966e9a2fb468c14ddf27fb05ea7a86b806b96909711332918ed7d0a71&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        "https://prod-files-secure.s3.us-west-2.amazonaws.com/1ed1171f-d9ca-4009-80fb-e83fd51fb56c/87509880-5c2e-4957-b253-b6400a2819d0/grdr_2025-12-10_35634.716_PM.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RJYYTZZE%2F20260326%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260326T172936Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAIaCXVzLXdlc3QtMiJHMEUCIQCpFBQUee5%2F9PvxFmsTrn6dyiTzSswveh8GOqoCMxmVYgIgIF%2FFpKgVTfbvwa%2BOOjxCjsccgofqNoBiJJDFhwXYgFcqiAQIy%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDKJofhD7%2FEoBWi5aTSrcA005%2BkqozDFe8yLOyccljOQWwFOZepNv9I6RHsu794a%2B%2FlY34bz0lC3dmRDekv1E%2Bds4crKw228SWPE6ThW8E8X7UhWBcq0tTYsYookxMosQyRmuNuaGoc8FlXuvLWJE4g5ymCu4UbjydvBma%2BBMCsclmBvW5eZZi8CBQ6Qxq74vsPLN%2BM1aOQxbKBng77bUAf1LJS%2FNmig26QpWfO%2FcDj6H7bUm9k7AQY69RbOx%2F63KE5wtzhRQI%2BCbqJXdNsnENsPo7Wy7TYHkJ%2BBFq518cvRJ3esgIWvUm7KjHxcsdJN03WTEGjzqGTRQ%2Fg8LUhoGq2O1lwSjLfKTUXryFDafNk6xQm%2BYdpUBtuis%2FX3ZY13OnWuA%2Fh8D1pnfw%2Fat95Tov3SFEUiV9d%2BNuekOS3TOVpIh%2BN4cFBX%2FXVWLFhGpTZmNTeSu0MD2EH7R1n%2FoCFdwiVlcTZt3OXV7DOo6XmDPr%2FIXb4klgb%2F%2F0RGT1DSx4ndLelYbWI%2BNHjyD9jDmoSF4Q3ER2hQ9%2B3C9Me2ME9ySq6k8VPn2q0OlakFbdL9Fw5JyXkbn6ytiW%2FH41HGzVInmGXfHI6g64va7ecgWtr3y8PoEwljl3hLk2oOz0%2BPNFiXsY%2F%2FlcmXg6FGUHHoGMOjYlc4GOqUB8TJZfDr2gJV4ceLsVmrXNMKDY53q7JWruhaEf1apoZQF%2B5myhWZFo2rTVHyaPT%2FpiiE%2F08t0LNDSh%2BDGhlOo3SvZmOKWaZsRoI%2BAvq%2F4X7sh4X7qJgNlkexYwdv2Osw0DNzh4WEcFf1u2fA%2BnUGSac4%2BYXVIjCZACc4%2FL3oNxmKn2QYvRP8z22%2FZAcITE8ZXiVwAFd6qmbbhtIsYjEAkP%2BBpcK9Y&X-Amz-Signature=fd29d91e9cccf98fc6e1037ca7a84adf6fe8399c7b311a2aeef86ea898495d48&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
       ],
       "attachments": []
     },
@@ -351,7 +351,24 @@
       "body": "(No content yet)",
       "summary": "",
       "images": [
-        "https://prod-files-secure.s3.us-west-2.amazonaws.com/1ed1171f-d9ca-4009-80fb-e83fd51fb56c/2c71c2a7-e407-452a-a4f1-be11f5cd9519/DSC06776.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZGGI5VFM%2F20260326%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260326T171551Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAAaCXVzLXdlc3QtMiJIMEYCIQDoer2YlM5BG9fOKC1jEeDOsblFi%2Fg7M7o90iedO0B33AIhAIuFEI506DoenM%2FKb%2BXqTATnTeZ55hcZ1tYrzCd4z1nDKogECMn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwX%2FcYahWqRj8FHmEsq3APsg9L41C67OkHodHcNRUbBtY321kE07BwslkcXlGhlDZjiTS2uaIkdhvLTRCAGzT8qICAN3y2pCym05mi3LwWsg%2FYId2eVYD8g4%2B3y8a6gdZEzNramccEh4YSxRnShcgVFehJ6baP40jzErNkUglt%2BGNG%2BVSI%2FeO4JCnXVGGrCSzgXfSOCpSQKLXVK1lOisePeamBu4cEbJ4pwx8t%2BL8eHJxzW4wcwo7e%2BoBjSmrPFFFvGYn9U2IzAszEhLFVll2ZaO%2BXstKB17c%2BubxCkvBgXaov2vd34k1%2BY4XOtHHb8oRfCfPp227i5HXJnSt%2F1ATDw5Lpz2PjREYpo4EuHmHsIJwGxXESgMgrjz4NKGq2nevF4j4wRga33Tl1IS4gHsiWG%2FnL7uiK55SQY7cM%2B2%2BmG%2FmH1Ig%2FKY8pvhdun%2FOBx1ga9ArMXZTPcMdwTojx1s4ERSJQRTOZYRegHq2tf2BGzf6rAUc3Hf0uWHKs3T8xYh%2BgXhPRYX6IocNlXouVquhlFhJ1pGDnBhP2LeCBFrkW5nXc3slbXxDOb1m04aNRqqiTIZvjkrarWBDYodqLPns1AnjxlF6sQLN%2FIBU00PENkJuu4VAG1V71dkGPPLpYHMOvSxrUkJVnwI%2BVxrDCyr5XOBjqkATI%2FYiKZO8yKhOnio2RnY4J2RtAyj%2B2z4D51PeAqleXJG9r%2F5TS3Z%2B8FMQqo%2FcsejikejAAB8G6kVyeXJoegaX9eIrEA0KB1rp191wovmS8iR6bzyfSpZo4qaX9%2Fsdcvm6Ha7MlZCRv46MHxYBwfZ%2Bq60LnW5zgfoqfEO4a%2BsIKUJhjWjDN3DDBGTqHw0fYPkz8E3cDijhLt9yy%2F5GfVGg6Ykhue&X-Amz-Signature=7563a1080e51364f7c329186dc3b84f2357bcb47eb93fa13bc09c3d7adab2baf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+        "https://prod-files-secure.s3.us-west-2.amazonaws.com/1ed1171f-d9ca-4009-80fb-e83fd51fb56c/2c71c2a7-e407-452a-a4f1-be11f5cd9519/DSC06776.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VQRUJRQW%2F20260326%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260326T172937Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAIaCXVzLXdlc3QtMiJHMEUCIDoFzecCxEc9dIVSsdzf6XRhl6SszeL8bXsLp5gSmmzZAiEArUTRpuMfo5w%2FpNK0dBd0HA%2BnkP%2BzdCBByZ7A6YuxU%2FYqiAQIyv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDKTn7Ncp20NpURYqvircA%2F0Y4aXaWqFW9QfPuqnEDb6ss0%2Fcbb7Al8REIhc6RK4It1oekdFPgvNk7RFIEUQ51TMOgMQAQhREd3vaStUpT9cDiA09aoNjuM%2Faw7x0K%2Bg16gTRmSoM1i6qb2LB9GQCjSHfsfLZQpKCIt%2FJl7Js07r5CUSwDbLQxsKgKxenSNlgAQ1xi9zyBKav1AdiMFh%2B6lH2tfbYO0Vx8oLs8%2Fr0mNYz3Ptp3ZX%2FvQq4smJIEtJYhmNp%2B%2BwaJeYgn4ZTTKnyi87wyoz%2BpE4pYbveVn3MnVlufvqMmh5YmST5rbWRDfyvrWQneVd8T42vZOU4qJszuP4UMFb5Bp5yBgMR%2BRJwFVkOQ%2FRKBCo%2FPprv%2FUASx56uK5OxB%2B7e%2Ffjfy2wpNcAcpCDLJtSW7Sn%2BDPnRELhcbUVGfTUqiUBL%2FYGt%2F7GoemRusp1G%2FwUl6vKj0eKlTfpuTfG2HDE0zsBvFp5HNkLZY%2F%2FlHm3%2FCY4J2A0LdfzaR%2FQ%2FilUMO4XFXkQfUxPaJ4AvEQTP%2BjUEhyWghuyh3fCeIPixjwVpIfF0ps3ThJDwuYa9BAgOQstuaFuxkUPJPRN9OXw95utLs%2FcXk%2Brb71MJICAnbzhaS3c6zt9G8mlVJvSrSzFiJuS9%2BLks3L3AMK3Ylc4GOqUB2QPOaLfAA5AC6swbhNGSCLtxm%2B9DlDYQB%2FM68Jb0PhWWLl6BrSIE9xpFgMekWgtzdBoblJrDkiAPezsr%2BCJuAdvG2EMDUjQZy80M59NJtSlasCPk1bSO64iV3WBDb71KdHwPwIOCRVWDV%2BYzdfcTq90DkIbfD42xujWZhNES9xkL6rKVYzSsIjWxw%2BL83bSMPFi3SSA%2FHF6BbzZYooqOekFbPKyn&X-Amz-Signature=6fd5bd365767baa07849ea8cabbe165efaedbb27067f6ed966327de8e791d40d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
+      ],
+      "attachments": []
+    },
+    {
+      "id": 56057375284319,
+      "notionPageId": "32fbdff0-dc5f-8094-bf78-f4be3a6013c3",
+      "title": "sunset at evisu, Tokyo",
+      "date": "2025-12-17",
+      "section": "photography",
+      "author": [
+        "Fukun"
+      ],
+      "tags": null,
+      "body": "(No content yet)",
+      "summary": "",
+      "images": [
+        "https://prod-files-secure.s3.us-west-2.amazonaws.com/1ed1171f-d9ca-4009-80fb-e83fd51fb56c/df0ccd73-082d-4422-96a6-2ca724f505dc/DSC06724.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZY4II56I%2F20260326%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260326T172935Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAIaCXVzLXdlc3QtMiJIMEYCIQDhy1Fq%2FaUKdOACeYGf2d%2BN%2BzvF5hIfrjnROIovzj2pewIhAIuDngn8jmEQbSHR6dzAoRLB1m%2B11ftKM1uv2Hzz9psoKogECMv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwIbPO3aO02GzDnULsq3ANp72ULOXR%2BgkJyYDIFlVLvzt9cWfHM5QC4%2FwAmRchcldMFxU8tWW1U%2BKiXBzjeiDOslT7zAOgoDupNYKo9OPp8NiY9vIhd3AE3QZ%2FxtjJKhgXWkJzKRDqPbUAbb38riO5oSrH6udQlo6cUTaD7zO09QYuj1HSxZ1URjqovD2RKwfcbmeKgiO7gdYC28qnLGLP2QoY1vaZWYCvoeAopDlInmBa%2FojZQj4GW%2BuSJGJ2Tq45PSTLy7eipb5mK2RaoXjLkf4ZjQgqAcn6OL8lsnTPNXFYSdZiO9dvbDg2RO2XSgTxKByvO1FlyFHHHlUwwH09epCuKinOKVQyodSREaVwwLXSp1RuYitLP41DJO%2BW0XHSkkxXlqzdC%2FSZBiWAPDhM%2FPoCrDyavbECLSWaO9euv7CpNoHCi5MVSUzItJspIx%2FaZzwfOQsFTLN3jiy0WMRn2RVIT31Ul5nGvVdVBWvUTpJSkfy2QSPZwVke4JbvtmTB2ctaZfpx93Uuylzf%2BT6N62JbqCz2EeCvFYav09N%2FlM2MXpavOqqjBmgkuKJW47T%2BMD0VIS7x1yykNpZj656B8czTNrud%2Bmg%2BjKp26G9Rj%2Fa9EK%2FZwWe7YQX7ELLiMi8XhqoZAvzT%2BMxSFEjDF2JXOBjqkAfAbf%2Bu2N1H5OLJX1SNJ908fgfSqe%2BcBGf%2FCmbqZ0N33njezxb07J35MlAMWs0%2FNe8Et4wYsVmbY1SWuf1GSbS57Qeb0%2FtDJYCqbw%2FN9bKGRzN0cdOpEtkMWZ5HY9JKh1lgE7hG2EtgM2Nr7euj6sVBVjk%2BZ7nMdKRWSTQBb7tMHUkbqraKdvJuCqj6SRraM7fXEF1SqlpnGDINRIClXPAMOdMNg&X-Amz-Signature=ad730b638725053e1d52d3480454b55dc1b91b1c153d2e07b24334dbc310f804&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"
       ],
       "attachments": []
     },
@@ -370,7 +387,8 @@
       "body": "Risky, Ryuichi Sakamato, 1987\nFrom his early stage of music life, Sakamoto’s NEO GEO is a rather interesting experiment of okinawa folk song and electronic music. Risky features Iggy Pop, with thought provoking lyrics.",
       "summary": "Risky, Ryuichi Sakamato, 1987 From his early stage of music life, Sakamoto’s NEO GEO is a rather interesting experiment of okinawa folk song and electronic music. Risky features Iggy Pop, with thought provoking lyrics.",
       "images": [],
-      "attachments": []
+      "attachments": [],
+      "spotifyUrl": "https://open.spotify.com/track/5jaIzNx1uRoDzNTyVYD0e8?si=564901a47d764edc"
     }
   ]
 }
