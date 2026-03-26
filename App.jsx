@@ -1015,50 +1015,30 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
         {photoEntries.length > 0 && (
           <div style={styles.chesterHobbiesSection}>
             <p style={styles.chesterSectionHeading}>📷 {lang === "zh" ? "照片" : "Photos"}</p>
-            {/* Garden photo mosaic — 4-col dense grid, variable col+row spans */}
-            {(() => {
-              const photoGarden = [
-                { col: "span 2", row: "span 2" },
-                { col: "span 1", row: "span 1" },
-                { col: "span 1", row: "span 2" },
-                { col: "span 2", row: "span 1" },
-                { col: "span 1", row: "span 1" },
-                { col: "span 1", row: "span 1" },
-                { col: "span 2", row: "span 2" },
-                { col: "span 1", row: "span 1" },
-                { col: "span 1", row: "span 2" },
-                { col: "span 2", row: "span 1" },
-                { col: "span 1", row: "span 1" },
-                { col: "span 3", row: "span 1" },
-              ];
-              return (
-                <div style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gridAutoRows: "188px", gap: 10, gridAutoFlow: "dense" }}>
-                  {photoEntries.map((entry, i) => {
-                    const s = photoGarden[i % photoGarden.length];
-                    return (
-                      <button
-                        key={i}
-                        style={{ ...styles.chesterPhotoCard, gridColumn: s.col, gridRow: s.row, height: "100%", overflow: "hidden", display: "flex", flexDirection: "column" }}
-                        onClick={() => onOpenPost(entry)}
-                      >
-                        {entry.images && entry.images[0]
-                          ? <img
-                              src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data}
-                              alt={entry.title}
-                              style={{ ...styles.chesterPhotoImg, flex: 1, height: 0, width: "100%", objectFit: "cover" }}
-                            />
-                          : <div style={{ ...styles.chesterPhotoPlaceholder, flex: 1 }}>📷</div>
-                        }
-                        <div style={{ padding: "8px 12px 10px", flexShrink: 0, background: "#fff" }}>
-                          <p style={{ fontFamily: "'Lora', serif", fontSize: 12, fontWeight: 500, margin: "0 0 2px", color: "#1c1c1c", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{entry.title}</p>
-                          <span style={styles.chesterPostDate}>{entry.date}</span>
-                        </div>
-                      </button>
-                    );
-                  })}
-                </div>
-              );
-            })()}
+            {/* Garden photo mosaic — CSS columns masonry, natural aspect ratios, no gaps */}
+            <div style={{ columns: isMobile ? 2 : isTablet ? 3 : 4, columnGap: 8 }}>
+              {photoEntries.map((entry, i) => {
+                const imgSrc = entry.images && entry.images[0]
+                  ? (typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data)
+                  : null;
+                return (
+                  <div
+                    key={i}
+                    onClick={() => onOpenPost(entry)}
+                    className="photo-mosaic-tile"
+                    style={{ breakInside: "avoid", marginBottom: 8, cursor: "pointer", borderRadius: 10, overflow: "hidden", position: "relative", background: "#f0ede8" }}
+                  >
+                    {imgSrc
+                      ? <img src={imgSrc} alt={entry.title} style={{ width: "100%", height: "auto", display: "block", borderRadius: 10 }} />
+                      : <div style={{ aspectRatio: "4/3", background: "#f0ede8", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 32, borderRadius: 10 }}>📷</div>
+                    }
+                    <div className="photo-mosaic-caption" style={{ position: "absolute", bottom: 0, left: 0, right: 0, background: "linear-gradient(transparent, rgba(0,0,0,0.52))", padding: "22px 10px 8px", borderRadius: "0 0 10px 10px", opacity: 0, transition: "opacity 0.2s" }}>
+                      <p style={{ color: "#fff", fontSize: 11, margin: 0, fontFamily: "'Lora', serif", letterSpacing: "0.3px" }}>{entry.title}</p>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
           </div>
         )}
 
@@ -1071,13 +1051,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
               {musicEntries.map((entry, i) => {
                 const mGarden = [2, 1, 1, 2, 1, 3, 2, 1, 1, 2, 3, 1];
                 const mCol = mGarden[i % mGarden.length];
-                // Convert Spotify track URL → embed URL
-                // handles: open.spotify.com/track/ID, open.spotify.com/intl-xx/track/ID
-                const spotifyEmbedUrl = (() => {
-                  if (!entry.spotifyUrl) return null;
-                  const m = entry.spotifyUrl.match(/spotify\.com(?:\/intl-[a-z]+)?\/track\/([A-Za-z0-9]+)/);
-                  return m ? `https://open.spotify.com/embed/track/${m[1]}?utm_source=generator&theme=0` : null;
-                })();
+                // Try dedicated property → blocks hrefs → body text
+                const spotifyEmbedUrl = spotifyToEmbedUrl(extractSpotifyUrl(entry));
                 return (
                   <div key={i} style={{ ...styles.chesterMusicCard, gridColumn: `span ${mCol}` }}>
                     <div style={styles.chesterCardMeta}>
@@ -1085,15 +1060,21 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                       <button style={{ background: "none", border: "none", cursor: "pointer", fontSize: 13, color: "#ccc", padding: 0 }} onClick={() => onOpenPost(entry)}>→</button>
                     </div>
                     {spotifyEmbedUrl ? (
-                      <iframe
-                        src={spotifyEmbedUrl}
-                        width="100%"
-                        height="80"
-                        frameBorder="0"
-                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-                        loading="lazy"
-                        style={{ display: "block", borderRadius: "0 0 4px 4px" }}
-                      />
+                      <>
+                        <iframe
+                          src={spotifyEmbedUrl}
+                          width="100%"
+                          height="80"
+                          frameBorder="0"
+                          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                          loading="lazy"
+                          style={{ display: "block" }}
+                        />
+                        <div style={{ padding: "8px 18px 10px" }}>
+                          <p style={{ ...styles.chesterPostTitle, fontSize: 13, margin: "0 0 2px" }}>{entry.title}</p>
+                          <span style={styles.chesterPostDate}>{entry.date}</span>
+                        </div>
+                      </>
                     ) : (
                       <div style={styles.chesterMusicBody}>
                         <span style={styles.chesterMusicNote}>♪</span>
@@ -1103,10 +1084,6 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                         </div>
                       </div>
                     )}
-                    <div style={{ padding: "8px 18px 14px" }}>
-                      <p style={{ ...styles.chesterPostTitle, fontSize: 13, margin: "0 0 4px" }}>{entry.title}</p>
-                      <span style={styles.chesterPostDate}>{entry.date}</span>
-                    </div>
                   </div>
                 );
               })}
@@ -1231,6 +1208,29 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
       )}
     </div>
   );
+}
+
+// ─── Spotify URL extraction helper ─────────────────────────────────────────
+// Tries 3 sources: dedicated spotifyUrl property → blocks rich_text hrefs → body text
+function extractSpotifyUrl(entry) {
+  if (entry.spotifyUrl) return entry.spotifyUrl;
+  for (const b of (entry.blocks || [])) {
+    for (const r of (b.rich_text || [])) {
+      const candidate = r.href || r.text || "";
+      if (/spotify\.com/.test(candidate)) return candidate;
+    }
+  }
+  if (entry.body) {
+    const m = entry.body.match(/https?:\/\/(?:open\.)?spotify\.com\/[^\s)"']*/);
+    if (m) return m[0];
+  }
+  return null;
+}
+
+function spotifyToEmbedUrl(raw) {
+  if (!raw) return null;
+  const m = raw.match(/spotify\.com(?:\/intl-[a-z]+)?\/track\/([A-Za-z0-9]+)/);
+  return m ? `https://open.spotify.com/embed/track/${m[1]}?utm_source=generator&theme=0` : null;
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -1565,10 +1565,8 @@ function PostView({ entry, onBack, T, lang }) {
       )}
 
       {(() => {
-        if (!entry.spotifyUrl) return null;
-        const m = entry.spotifyUrl.match(/spotify\.com(?:\/intl-[a-z]+)?\/track\/([A-Za-z0-9]+)/);
-        if (!m) return null;
-        const embedUrl = `https://open.spotify.com/embed/track/${m[1]}?utm_source=generator&theme=0`;
+        const embedUrl = spotifyToEmbedUrl(extractSpotifyUrl(entry));
+        if (!embedUrl) return null;
         return (
           <div style={{ margin: "24px 0" }}>
             <iframe
@@ -1584,15 +1582,22 @@ function PostView({ entry, onBack, T, lang }) {
         );
       })()}
 
-      <div style={styles.postBody}>
-        {lang === "zh" && translating && (
-          <p style={{color:"#888",fontStyle:"normal",fontSize:16}}>翻译中…</p>
-        )}
-        {lang === "zh" && translatedLines
+      {(() => {
+        // For photo entries, skip empty body — the images are the content
+        const isPhotoEntry = (SECTION_MAP[entry.section] || entry.section) === "photography";
+        const bodyContent = lang === "zh" && translatedLines
           ? translatedLines.map((line, i) => <p key={i} style={styles.postParagraph}>{line}</p>)
-          : (!translating && (entry.blocks ? renderBlocks(entry.blocks) : renderBody(entry.body)))
-        }
-      </div>
+          : (!translating && (entry.blocks ? renderBlocks(entry.blocks) : renderBody(entry.body)));
+        if (isPhotoEntry && !bodyContent) return null;
+        return (
+          <div style={styles.postBody}>
+            {lang === "zh" && translating && (
+              <p style={{color:"#888",fontStyle:"normal",fontSize:16}}>翻译中…</p>
+            )}
+            {bodyContent}
+          </div>
+        );
+      })()}
 
       {entry.images && entry.images.length > 1 && (
         <section style={styles.postSection}>
@@ -4044,6 +4049,11 @@ const styles = {
       text-underline-offset: 3px;
       border-bottom-color: transparent !important;
     }
+
+    /* ── Photo mosaic: caption fade-in on hover ── */
+    .photo-mosaic-tile { transition: opacity 0.15s !important; }
+    .photo-mosaic-tile:hover .photo-mosaic-caption { opacity: 1 !important; }
+    .photo-mosaic-tile:hover { opacity: 0.93 !important; }
   `;
   document.head.appendChild(css);
 })();
