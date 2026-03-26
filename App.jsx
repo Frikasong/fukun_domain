@@ -10,8 +10,9 @@ const TRANSLATIONS = {
     langToggle: "中文",
     nav: {
       info: "About", professional: "Work", personal: "Life",
-      about: "Info", tech: "Tech", law: "Law", investment: "Investment", essays: "Essays",
-      music: "Weekly Music", photography: "Photos", contact: "Contact",
+      projects: "Projects", share: "Thoughts", hobbies: "Fun",
+      about: "About", tech: "AI Lab", law: "Law", investment: "Investment", essays: "Essays",
+      music: "Music", photography: "Photos", contact: "Contact",
       taglineLaw: "Law", taglineTech: "Technology", taglineIdeas: "Ideas",
       techSub: "Legal AI · Tools",
       lawSub: "Legal Research",
@@ -103,9 +104,10 @@ const TRANSLATIONS = {
     site: { name: "Fukun", tagline: "法律 · 科技 · 思想" },
     langToggle: "EN",
     nav: {
-      info: "信息", professional: "工作", personal: "生活",
-      about: "关于", tech: "科技", law: "法律", investment: "投资", essays: "文章",
-      music: "每周音乐", photography: "照片", contact: "联系",
+      info: "关于", professional: "工作", personal: "生活",
+      projects: "项目", share: "想法", hobbies: "趣味",
+      about: "关于", tech: "AI 实验室", law: "法律", investment: "投资", essays: "文章",
+      music: "音乐", photography: "照片", contact: "联系",
       techSub: "法律AI · 工具",
       lawSub: "法律研究",
       investmentSub: "市场分析",
@@ -197,15 +199,20 @@ const TRANSLATIONS = {
 
 // ─── Section Configuration ──────────────────────────────────────────────────
 const SECTIONS = [
-  { id: "about", name: "About", icon: "👋", type: "info" },
-  { id: "insights", name: "Insights", icon: "💡", type: "hidden" },
-  { id: "tech", name: "Tech", subtitle: "Legal AI · Tools", icon: "💻", type: "professional" },
-  { id: "law", name: "Law", subtitle: "Legal Research", icon: "⚖️", type: "professional" },
-  { id: "investment", name: "Investment", subtitle: "Market Analysis", icon: "📈", type: "professional" },
-  { id: "essays", name: "Essays", subtitle: "Writing", icon: "✍️", type: "personal" },
-  { id: "music", name: "Weekly Music", icon: "🎵", type: "personal" },
-  { id: "photography", name: "Photos", icon: "📷", type: "personal" },
-  { id: "contact", name: "Contact", icon: "📧", type: "info" },
+  // Top-level nav pages
+  { id: "about",    name: "About",    icon: "👋", type: "nav" },
+  { id: "projects", name: "Projects", icon: "🛠️", type: "nav" },
+  { id: "share",    name: "Share",    icon: "✍️", type: "nav" },
+  { id: "hobbies",  name: "Hobbies",  icon: "🎵", type: "nav" },
+  // Internal data sections (not in main nav, used for entry tagging)
+  { id: "tech",        name: "Legal AI Lab", icon: "⚖️", type: "hidden" },
+  { id: "law",         name: "Law",          icon: "📚", type: "hidden" },
+  { id: "investment",  name: "Investment",   icon: "📈", type: "hidden" },
+  { id: "essays",      name: "Essays",       icon: "✍️", type: "hidden" },
+  { id: "music",       name: "Music",        icon: "🎵", type: "hidden" },
+  { id: "photography", name: "Photos",       icon: "📷", type: "hidden" },
+  { id: "insights",    name: "Insights",     icon: "💡", type: "hidden" },
+  { id: "contact",     name: "Contact",      icon: "📧", type: "hidden" },
 ];
 
 // Maps old section IDs to new consolidated sections (for localStorage backwards compat)
@@ -437,17 +444,34 @@ function App() {
     setForm((prev) => ({ ...prev, attachments: prev.attachments.filter((_, i) => i !== index) }));
   };
 
-  // Filtered entries
-  const sectionEntries = activeSection === "insights"
-    ? (() => {
-        const seen = new Set();
-        return entries.filter((e) => {
-          const s = SECTION_MAP[e.section] || e.section;
-          if ((s === "tech" || s === "law") && !seen.has(e.id)) { seen.add(e.id); return true; }
-          return false;
-        }).sort((a, b) => new Date(b.date) - new Date(a.date));
-      })()
-    : entries.filter((e) => e.section === activeSection || SECTION_MAP[e.section] === activeSection);
+  // Filtered entries per nav page
+  const sectionEntries = (() => {
+    if (activeSection === "share") {
+      const seen = new Set();
+      return entries.filter((e) => {
+        const s = SECTION_MAP[e.section] || e.section;
+        const k = e.notionPageId || e.id;
+        if (["tech", "law", "essays"].includes(s) && !seen.has(k)) { seen.add(k); return true; }
+        return false;
+      }).sort((a, b) => new Date(b.date) - new Date(a.date));
+    }
+    if (activeSection === "hobbies") {
+      return entries.filter((e) => {
+        const s = SECTION_MAP[e.section] || e.section;
+        return ["music", "photography"].includes(s);
+      }).sort((a, b) => new Date(b.date) - new Date(a.date));
+    }
+    if (activeSection === "insights") {
+      const seen = new Set();
+      return entries.filter((e) => {
+        const s = SECTION_MAP[e.section] || e.section;
+        const k = e.notionPageId || e.id;
+        if ((s === "tech" || s === "law") && !seen.has(k)) { seen.add(k); return true; }
+        return false;
+      }).sort((a, b) => new Date(b.date) - new Date(a.date));
+    }
+    return entries.filter((e) => e.section === activeSection || SECTION_MAP[e.section] === activeSection);
+  })();
   const currentSection = SECTIONS.find((s) => s.id === activeSection);
 
   return (
@@ -458,146 +482,52 @@ function App() {
       {/* Background */}
       <div style={styles.bgPattern} />
 
-      {/* Header */}
-      <header style={{ ...styles.header, padding: isMobile ? "16px 16px 20px" : (isTablet ? "20px 24px 14px" : "22px 32px 16px") }}>
-        <div style={{ ...styles.headerContent, maxWidth: isWideDesktop ? 1600 : 1280 }}>
-          {/* Logo */}
-          <div style={styles.headerLogoArea}>
-            <div style={styles.headerLogoWrap} onClick={() => { setView("grid"); setActiveSection("about"); }}>
-              {!logoFailed && (
-                <img
-                  src="logo.png"
-                  alt={T.site.name}
-                  style={{ ...styles.siteLogo, height: isMobile ? 52 : 60 }}
-                  onError={() => setLogoFailed(true)}
-                />
-              )}
-            </div>
-            {/* Tagline links below logo */}
-              <div style={styles.tagline}>
+      {/* Header — chester.how pill nav */}
+      <header style={{ ...styles.header, padding: isMobile ? "12px 16px" : "13px 32px" }}>
+        <div style={styles.headerContent}>
+
+          {/* Left: pill nav (desktop) or brand (mobile) */}
+          {!isMobile ? (
+            <nav style={styles.pillNav}>
+              <button style={styles.pillNavBrand} onClick={() => { setView("grid"); setActiveSection("about"); }}>
+                Fukun
+              </button>
+              <span style={styles.pillNavDivider}>|</span>
+              {[
+                { id: "projects", label: T.nav.projects  },
+                { id: "share",    label: T.nav.share     },
+                { id: "hobbies",  label: T.nav.hobbies   },
+              ].map(item => (
                 <button
-                  style={styles.taglineBtn}
-                  onClick={() => { setActiveSection("law"); setView("grid"); }}
+                  key={item.id}
+                  className="pill-nav-btn"
+                  style={{ ...styles.pillNavLink, ...(activeSection === item.id ? styles.pillNavLinkActive : {}) }}
+                  onClick={() => { setActiveSection(item.id); setView("grid"); }}
                 >
-                  {T.nav.taglineLaw}
+                  {item.label}
                 </button>
-                <span style={styles.taglineDot}>·</span>
-                <button
-                  style={styles.taglineBtn}
-                  onClick={() => { setActiveSection("tech"); setView("grid"); }}
-                >
-                  {T.nav.taglineTech}
-                </button>
-                <span style={styles.taglineDot}>·</span>
-                <button
-                  style={styles.taglineBtn}
-                  onClick={() => { setActiveSection("essays"); setView("grid"); }}
-                >
-                  {T.nav.taglineIdeas}
-                </button>
-              </div>
-          </div>
-          {/* Lang toggle */}
-          {!isMobile && (
-            <div style={styles.headerLang}>
-              <button style={{ ...styles.langToggle, ...(lang === "en" ? styles.langToggleNormal : {}) }} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
+              ))}
+            </nav>
+          ) : (
+            <button style={styles.pillNavBrand} onClick={() => { setView("grid"); setActiveSection("about"); }}>
+              Fukun
+            </button>
+          )}
+
+          {/* Right: links + lang (desktop) / hamburger (mobile) */}
+          {!isMobile ? (
+            <div style={styles.headerRight}>
+              <button style={styles.langToggleNew} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
                 {T.langToggle}
               </button>
             </div>
-          )}
-          {isMobile && (
+          ) : (
             <button style={styles.menuToggle} onClick={() => setMenuOpen(!menuOpen)}>
               {menuOpen ? "✕" : "☰"}
             </button>
           )}
         </div>
       </header>
-
-      {/* Nav bar below header */}
-      {!isMobile && (
-        <div style={styles.navBar}>
-          <nav style={{ ...styles.navBarInner, maxWidth: isWideDesktop ? 1600 : 1280 }}>
-            <div
-              style={styles.navDropdownWrap}
-              onMouseEnter={() => setHoveredGroup("info")}
-              onMouseLeave={() => setHoveredGroup(null)}
-            >
-              <button style={{ ...styles.navItem, ...(activeSection === "about" || activeSection === "contact" ? styles.navItemActive : {}) }}>
-                {T.nav.info} ▾
-              </button>
-              {hoveredGroup === "info" && (
-                <div style={styles.navDropdown}>
-                  <button
-                    style={{ ...styles.navDropdownItem, ...(activeSection === "about" ? styles.navDropdownItemActive : {}) }}
-                    onClick={() => { setActiveSection("about"); setView("grid"); setHoveredGroup(null); }}
-                  >
-                    <span>👋</span>
-                    <span style={styles.navDropdownItemText}>{T.nav.about}</span>
-                  </button>
-                </div>
-              )}
-            </div>
-
-            <div
-              style={styles.navDropdownWrap}
-              onMouseEnter={() => setHoveredGroup("professional")}
-              onMouseLeave={() => setHoveredGroup(null)}
-            >
-              <button style={{ ...styles.navItem, ...(activeSection === "tech" || activeSection === "law" || activeSection === "investment" ? styles.navItemActive : {}) }}>
-                {T.nav.professional} ▾
-              </button>
-              {hoveredGroup === "professional" && (
-                <div style={styles.navDropdown}>
-                  {SECTIONS.filter((s) => s.type === "professional").map((section) => {
-                    const label = T.nav[section.id] || section.name;
-                    const subtitle = T.nav[section.id + "Sub"];
-                    return (
-                      <button
-                        key={section.id}
-                        style={{ ...styles.navDropdownItem, ...(activeSection === section.id ? styles.navDropdownItemActive : {}) }}
-                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
-                      >
-                        <span>{section.icon}</span>
-                        <span style={styles.navDropdownItemText}>
-                          {label}
-                          {subtitle && <span style={styles.navDropdownItemSub}>{subtitle}</span>}
-                        </span>
-                      </button>
-                    );
-                  })}
-                </div>
-              )}
-            </div>
-
-            <div
-              style={styles.navDropdownWrap}
-              onMouseEnter={() => setHoveredGroup("personal")}
-              onMouseLeave={() => setHoveredGroup(null)}
-            >
-              <button style={{ ...styles.navItem, ...(activeSection === "essays" || activeSection === "music" || activeSection === "photography" ? styles.navItemActive : {}) }}>
-                {T.nav.personal} ▾
-              </button>
-              {hoveredGroup === "personal" && (
-                <div style={styles.navDropdown}>
-                  {SECTIONS.filter((s) => s.type === "personal").map((section) => {
-                    const label = T.nav[section.id] || section.name;
-                    return (
-                      <button
-                        key={section.id}
-                        style={{ ...styles.navDropdownItem, ...(activeSection === section.id ? styles.navDropdownItemActive : {}) }}
-                        onClick={() => { setActiveSection(section.id); setView("grid"); setHoveredGroup(null); }}
-                      >
-                        <span>{section.icon}</span>
-                        <span style={styles.navDropdownItemText}>{label}</span>
-                      </button>
-                    );
-                  })}
-                </div>
-              )}
-            </div>
-          </nav>
-        </div>
-      )}
 
       {/* Nav backdrop */}
       {isMobile && menuOpen && (
@@ -609,40 +539,28 @@ function App() {
         <nav style={{ ...styles.mobileSidePanel, transform: menuOpen ? "translateX(0)" : "translateX(100%)" }}>
           <button style={styles.mobilePanelClose} onClick={() => setMenuOpen(false)}>✕</button>
           <div style={styles.mobilePanelContent}>
-            <div style={styles.mobilePanelGroup}>
-              <div style={styles.mobilePanelGroupHeader}>{T.nav.info}</div>
-              <button style={{ ...styles.mobilePanelItem, ...(activeSection === "about" ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection("about"); setView("grid"); setMenuOpen(false); }}>
-                👋 {T.nav.about}
+            {/* Fukun → About */}
+            <button
+              style={{ ...styles.mobilePanelItem, fontSize: 20, fontFamily: "'Fascinate', cursive", fontStyle: "normal", paddingBottom: 20, borderBottom: "1px solid rgba(255,255,255,0.1)" }}
+              onClick={() => { setActiveSection("about"); setView("grid"); setMenuOpen(false); }}
+            >
+              Fukun
+            </button>
+            {/* Main nav items */}
+            {[
+              { id: "projects", label: T.nav.projects, icon: "🛠️" },
+              { id: "share",    label: T.nav.share,    icon: "✍️" },
+              { id: "hobbies",  label: T.nav.hobbies,  icon: "🎵" },
+            ].map(item => (
+              <button
+                key={item.id}
+                style={{ ...styles.mobilePanelItem, ...(activeSection === item.id ? styles.mobilePanelItemActive : {}) }}
+                onClick={() => { setActiveSection(item.id); setView("grid"); setMenuOpen(false); }}
+              >
+                <span>{item.icon}</span>
+                <span>{item.label}</span>
               </button>
-            </div>
-            <div style={styles.mobilePanelGroup}>
-              <div style={styles.mobilePanelGroupHeader}>{T.nav.professional}</div>
-              {SECTIONS.filter((s) => s.type === "professional").map((section) => {
-                const label = T.nav[section.id] || section.name;
-                const subtitle = T.nav[section.id + "Sub"];
-                return (
-                  <button key={section.id} style={{ ...styles.mobilePanelItem, ...(activeSection === section.id ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}>
-                    <span>{section.icon}</span>
-                    <span style={styles.mobilePanelItemText}>
-                      {label}
-                      {subtitle && <span style={styles.mobilePanelItemSub}>{subtitle}</span>}
-                    </span>
-                  </button>
-                );
-              })}
-            </div>
-            <div style={styles.mobilePanelGroup}>
-              <div style={styles.mobilePanelGroupHeader}>{T.nav.personal}</div>
-              {SECTIONS.filter((s) => s.type === "personal").map((section) => {
-                const label = T.nav[section.id] || section.name;
-                return (
-                  <button key={section.id} style={{ ...styles.mobilePanelItem, ...(activeSection === section.id ? styles.mobilePanelItemActive : {}) }} onClick={() => { setActiveSection(section.id); setView("grid"); setMenuOpen(false); }}>
-                    <span>{section.icon}</span>
-                    <span style={styles.mobilePanelItemText}>{label}</span>
-                  </button>
-                );
-              })}
-            </div>
+            ))}
             <div style={styles.mobilePanelLang}>
               <button style={styles.mobilePanelLangBtn} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
                 {T.langToggle}
@@ -706,7 +624,7 @@ function App() {
       <footer style={styles.footer}>
         <div style={{ ...styles.footerContent, flexDirection: isMobile ? "column" : "row", alignItems: isMobile ? "flex-start" : "center", gap: isMobile ? 10 : 0 }}>
           <span>{T.footer}</span>
-          <a href="mailto:frikasong@gmail.com" style={styles.footerLink}>
+          <a href="mailto:frikasong@gmail.com" className="footer-link-a" style={styles.footerLink}>
             frikasong@gmail.com
           </a>
         </div>
@@ -731,118 +649,335 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     const tiles = [
       {
         key: "legal-ai-lab",
-        label: lang === "zh" ? "法律AI实验室" : "Legal AI Lab",
-        sub: lang === "zh" ? "工具与研究" : "Tools & Research",
-        onClick: () => { setActiveSection("tech"); setView("grid"); setTechTab("lab"); },
+        category: lang === "zh" ? "项目" : "Projects",
+        label: lang === "zh" ? "AI 实验室" : "AI Lab",
+        sub: lang === "zh" ? "我开发的AI工具" : "AI tools I've been building",
+        onClick: () => { setActiveSection("projects"); setView("grid"); },
+      },
+      {
+        key: "share",
+        category: lang === "zh" ? "想法" : "Thoughts",
+        label: lang === "zh" ? "文章与洞见" : "Writing & Insights",
+        sub: lang === "zh" ? "法律 · 科技 · 随笔" : "Law · Tech · Essays",
+        onClick: () => { setActiveSection("share"); setView("grid"); },
       },
       {
         key: "tech-brew",
-        label: lang === "zh" ? "科技资讯" : "Tech Updates Brew",
+        category: lang === "zh" ? "项目" : "Projects",
+        label: lang === "zh" ? "科技资讯" : "Tech Updates",
         sub: lang === "zh" ? "自动新闻雷达" : "Auto news radar",
         href: "news-radar.html",
       },
       {
-        key: "insights",
-        label: lang === "zh" ? "洞见" : "Insights",
-        sub: lang === "zh" ? "法律 · 科技 · 分析" : "Law · Tech · Analysis",
-        onClick: () => { setActiveSection("insights"); setView("grid"); },
-      },
-      {
         key: "music",
+        category: lang === "zh" ? "趣味" : "Fun",
         label: lang === "zh" ? "音乐" : "Music",
         sub: lang === "zh" ? "每周精选" : "Weekly picks",
-        onClick: () => { setActiveSection("music"); setView("grid"); },
+        onClick: () => { setActiveSection("hobbies"); setView("grid"); },
       },
       {
         key: "photos",
+        category: lang === "zh" ? "趣味" : "Fun",
         label: lang === "zh" ? "照片" : "Photos",
         sub: lang === "zh" ? "摄影" : "Photography",
-        onClick: () => { setActiveSection("photography"); setView("grid"); },
+        onClick: () => { setActiveSection("hobbies"); setView("grid"); },
       },
       {
-        key: "shares",
-        label: lang === "zh" ? "分享" : "Shares",
-        sub: lang === "zh" ? "随笔与思考" : "Essays & thoughts",
-        onClick: () => { setActiveSection("essays"); setView("grid"); },
+        key: "essays",
+        category: lang === "zh" ? "想法" : "Thoughts",
+        label: lang === "zh" ? "随笔" : "Essays",
+        sub: lang === "zh" ? "思考与记录" : "Thoughts & reflections",
+        onClick: () => { setActiveSection("share"); setView("grid"); },
       },
     ];
 
+    const isNarrow = typeof window !== "undefined" && window.innerWidth <= 860;
     return (
-      <div style={styles.aboutHub}>
-        {/* Bio + Portrait — portrait left, text right */}
-        <div style={styles.aboutBioRow}>
-          {/* Glass portrait card */}
-          <div style={styles.aboutPortraitCard}>
-            <img src="portrait.jpg?v=7" alt="Fukun Yang" style={styles.aboutPortraitImg} />
-            <div style={styles.aboutPortraitGlass} />
-          </div>
-          <div style={styles.aboutBioText}>
-            <p style={styles.aboutSectionLabel}>{T.about.bg}</p>
-            <p style={styles.aboutText}>{T.about.bg1}</p>
-            <p style={styles.aboutText}>{T.about.bg2}</p>
+      <div style={{ maxWidth: 1100, margin: "0 auto", padding: "0" }}>
+
+        {/* ── Garden Hero Card (Chester intro-section style) ── */}
+        <div style={{ ...styles.gardenHero, padding: isNarrow ? "44px 28px 40px" : "64px 60px 60px", minHeight: isNarrow ? "auto" : 290 }}>
+          {/* Portrait floats at bottom-right (desktop only) */}
+          {!isNarrow && (
+            <div style={styles.gardenHeroPortraitWrap}>
+              <img src="portrait.jpg?v=7" alt="Fukun Yang" style={styles.gardenHeroPortraitImg} />
+            </div>
+          )}
+          <div style={isNarrow ? {} : styles.gardenHeroTextCol}>
+            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 28 : 52 }}>
+              {lang === "zh" ? <>你好,{"\n"}我是 Fukun.</> : <>Hey,{"\n"}I'm Fukun.</>}
+            </h1>
+            <div style={styles.gardenHeroDash} />
+            <p style={styles.gardenHeroSub}>
+              welcome to my domain · 应似飞鸿踏雪泥
+            </p>
           </div>
         </div>
 
-        <div style={styles.aboutBioSection}>
-          <p style={styles.aboutSectionLabel}>{T.about.interests}</p>
-          <p style={styles.aboutText}>{T.about.int1}</p>
-          <p style={styles.aboutText}>
-            {T.about.int2}{' '}
-            <span style={styles.aboutConnectLink} onClick={scrollToConnect}>
-              {T.about.connect}
-            </span>!
-          </p>
-        </div>
+        {/* ── Two-column content below hero ── */}
+        <div style={{ ...styles.aboutTwoCol, flexDirection: isNarrow ? "column" : "row", marginTop: 44 }}>
 
-        {/* Explore — full-width list rows */}
-        <div style={styles.hubDivider} />
-        <div style={styles.hubTilesSection}>
-          <p style={styles.hubTilesLabel}>{lang === "zh" ? "探索" : "Explore"}</p>
-          <div style={styles.hubTilesList}>
-            {tiles.map((tile) =>
-              tile.href ? (
-                <a
-                  key={tile.key}
-                  href={tile.href}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  style={styles.hubTileRow}
-                >
-                  <span style={styles.hubTileRowName}>{tile.label}</span>
-                  <span style={styles.hubTileRowRight}>
-                    <span style={styles.hubTileRowSub}>{tile.sub}</span>
-                    <span style={styles.hubTileArrow}>→</span>
-                  </span>
-                </a>
-              ) : (
-                <button key={tile.key} style={styles.hubTileRow} onClick={tile.onClick}>
-                  <span style={styles.hubTileRowName}>{tile.label}</span>
-                  <span style={styles.hubTileRowRight}>
-                    <span style={styles.hubTileRowSub}>{tile.sub}</span>
-                    <span style={styles.hubTileArrow}>→</span>
-                  </span>
-                </button>
-              )
+          {/* Left: bio + interests + connect */}
+          <div style={isNarrow ? { width: "100%" } : styles.aboutLeft}>
+            {/* Portrait on mobile (below hero, above bio) */}
+            {isNarrow && (
+              <div style={{ ...styles.aboutPortraitCard, width: 120, marginBottom: 22, borderRadius: 12 }}>
+                <img src="portrait.jpg?v=7" alt="Fukun Yang" style={{ ...styles.aboutPortraitImg, aspectRatio: "3/4", objectPosition: "center 22%" }} />
+                <div style={styles.aboutPortraitGlass} />
+              </div>
             )}
+            <p style={styles.aboutText}>{T.about.bg1}</p>
+            <p style={{ ...styles.aboutText, marginBottom: 28 }}>{T.about.bg2}</p>
+            <p style={styles.aboutText}>{T.about.int1}</p>
+            <p style={{ ...styles.aboutText, marginBottom: 0 }}>
+              {T.about.int2}{' '}
+              <span className="about-connect-sp" style={styles.aboutConnectLink} onClick={scrollToConnect}>{T.about.connect}</span>!
+            </p>
+          </div>
+
+          {/* Right: bento grid — first card is featured (full-width) */}
+          <div style={isNarrow ? { width: "100%", marginTop: 48 } : styles.aboutRight}>
+            <div style={styles.bentoGrid}>
+              {tiles.map((tile, idx) => {
+                const isFeatured = idx === 0;
+                const cardStyle = isFeatured
+                  ? { ...styles.bentoCard, ...styles.bentoCardFeatured }
+                  : styles.bentoCard;
+                return tile.href ? (
+                  <a key={tile.key} href={tile.href} target="_blank" rel="noopener noreferrer" className="bento-card-el" style={cardStyle}>
+                    <div style={styles.bentoCardTop}>
+                      <span style={styles.bentoCardCategory}>{tile.category}</span>
+                      <span style={styles.bentoCardArrow}>↗</span>
+                    </div>
+                    <p style={isFeatured ? styles.bentoCardNameFeatured : styles.bentoCardName}>{tile.label}</p>
+                    <p style={styles.bentoCardDesc}>{tile.sub}</p>
+                  </a>
+                ) : (
+                  <button key={tile.key} className="bento-card-el" style={cardStyle} onClick={tile.onClick}>
+                    <div style={styles.bentoCardTop}>
+                      <span style={styles.bentoCardCategory}>{tile.category}</span>
+                      <span style={styles.bentoCardArrow}>{isFeatured ? "→" : "→"}</span>
+                    </div>
+                    <p style={isFeatured ? styles.bentoCardNameFeatured : styles.bentoCardName}>{tile.label}</p>
+                    <p style={styles.bentoCardDesc}>{tile.sub}</p>
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+
+        </div>
+
+        {/* ── Let's connect — bottom of page ── */}
+        <div id="hub-connect" style={{ marginTop: 40, paddingTop: 32, borderTop: "1px solid rgba(43,80,84,0.1)" }}>
+          <p style={{ fontFamily: "'Fascinate', cursive", fontStyle: "normal", fontSize: 18, color: "#2B5054", margin: "0 0 16px" }}>
+            {lang === "zh" ? "欢迎联系~" : "Let's connect!"}
+          </p>
+          <div style={styles.hubConnectLinks}>
+            <a href="mailto:frikasong@gmail.com" className="hub-link" style={styles.hubConnectLink}>{T.contact.email}</a>
+            <span style={styles.hubConnectDot}>·</span>
+            <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.github}</a>
+            <span style={styles.hubConnectDot}>·</span>
+            <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.linkedin}</a>
+            <span style={styles.hubConnectDot}>·</span>
+            <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.instagram}</a>
+            <span style={styles.hubConnectDot}>·</span>
+            <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.rednote}</a>
           </div>
         </div>
 
-        {/* Connect — simple text links */}
-        <div style={styles.hubDivider} />
-        <div id="hub-connect" style={styles.hubConnect}>
-          <p style={styles.hubConnectHeading}>{T.contact.intro}</p>
-          <div style={styles.hubConnectLinks}>
-            <a href="mailto:frikasong@gmail.com" style={styles.hubConnectLink}>{T.contact.email}</a>
-            <span style={styles.hubConnectDot}>·</span>
-            <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.linkedin}</a>
-            <span style={styles.hubConnectDot}>·</span>
-            <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.instagram}</a>
-            <span style={styles.hubConnectDot}>·</span>
-            <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.github}</a>
-            <span style={styles.hubConnectDot}>·</span>
-            <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" style={styles.hubConnectLink}>{T.contact.rednote}</a>
-          </div>
+      </div>
+    );
+  }
+
+  // ── PROJECTS page — chester card gallery with the two tools ──
+  if (section.id === "projects") {
+    const tools = [
+      {
+        id: "housekeeper",
+        label: lang === "zh" ? "项目 · 工具" : "Projects · Tools",
+        name: "Housekeeper",
+        tagline: T.tech.housekeeper.tagline,
+        desc: T.tech.housekeeper.desc,
+        href: "https://housekeeper-2kp7.onrender.com/",
+        emoji: "🏛️",
+        grad: "linear-gradient(145deg, #0f2e31 0%, #2B5054 100%)",
+      },
+      {
+        id: "radar",
+        label: lang === "zh" ? "项目 · 工具" : "Projects · Tools",
+        name: T.tech.radarTool.name,
+        tagline: T.tech.radarTool.tagline,
+        desc: T.tech.radarTool.desc,
+        href: "news-radar.html",
+        emoji: "📡",
+        grad: "linear-gradient(145deg, #1a3e42 0%, #35666a 100%)",
+      },
+    ];
+    return (
+      <div style={styles.chesterPage}>
+        <p style={{ fontFamily: "'Cormorant Garamond', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 8px" }}>
+          {lang === "zh" ? "我用AI搭建的一些小工具。" : "A few AI tools I've built."}
+        </p>
+        <div style={{ width: 44, height: 4, background: "#C8A96E", borderRadius: 2, margin: "0 0 32px" }} />
+        <div style={styles.chesterGrid}>
+          {tools.map(tool => (
+            <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" className="chester-tool-a" style={styles.chesterToolCard}>
+              <div style={styles.chesterCardMeta}>
+                <span style={styles.chesterCardLabel}>{tool.label}</span>
+                <span style={styles.chesterCardArrowIcon}>↗</span>
+              </div>
+              <div style={{ ...styles.chesterToolPreview, background: tool.grad }}>
+                <span style={styles.chesterToolEmoji}>{tool.emoji}</span>
+                <div>
+                  <p style={styles.chesterToolTagline}>{tool.tagline}</p>
+                  <span style={styles.chesterToolLiveBadge}>{lang === "zh" ? "已上线" : "Live"}</span>
+                </div>
+              </div>
+              <div style={styles.chesterCardBody}>
+                <h3 style={styles.chesterToolTitle}>{tool.name}</h3>
+                <p style={styles.chesterToolDesc}>{tool.desc}</p>
+              </div>
+            </a>
+          ))}
         </div>
+      </div>
+    );
+  }
+
+  // ── SHARE page — chester post cards (law + tech + essays combined) ──
+  if (section.id === "share") {
+    const sectionMeta = {
+      law:    { label: lang === "zh" ? "法律"   : "Law",   color: "#2B5054" },
+      tech:   { label: lang === "zh" ? "科技"   : "Tech",  color: "#35666a" },
+      essays: { label: lang === "zh" ? "随笔"   : "Essays",color: "#7a5c42" },
+    };
+    return (
+      <div style={styles.chesterPage}>
+        <p style={{ fontFamily: "'Cormorant Garamond', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 8px" }}>
+          {lang === "zh" ? "法律、科技与随笔。" : "Law, technology, and everything in between."}
+        </p>
+        <div style={{ width: 44, height: 4, background: "#C8A96E", borderRadius: 2, margin: "0 0 32px" }} />
+        {entries.length === 0 ? (
+          <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
+        ) : (
+          <div style={styles.chesterPostGrid}>
+            {entries.map((entry, i) => {
+              const sid = SECTION_MAP[entry.section] || entry.section;
+              const meta = sectionMeta[sid] || { label: "Share", color: "#2B5054" };
+              const excerpt = entry.body ? entry.body.replace(/[#*`\[\]]/g, "").trim().slice(0, 110) : "";
+              return (
+                <button
+                  key={`${entry.notionPageId || entry.id}-${i}`}
+                  className="chester-post-btn"
+                  style={{ ...styles.chesterPostCard, borderLeft: `3px solid ${meta.color}` }}
+                  onClick={() => onOpenPost(entry)}
+                >
+                  <div style={styles.chesterCardMeta}>
+                    <span style={{ ...styles.chesterCardLabel, color: meta.color }}>{lang === "zh" ? "想法" : "Thoughts"} · {meta.label}</span>
+                    <span style={styles.chesterCardArrowIcon}>→</span>
+                  </div>
+                  <div style={styles.chesterCardBody}>
+                    <h3 style={styles.chesterPostTitle}>{entry.title}</h3>
+                    {excerpt && <p style={styles.chesterPostExcerpt}>{excerpt}{entry.body?.length > 110 ? "…" : ""}</p>}
+                    <span style={styles.chesterPostDate}>{entry.date}</span>
+                  </div>
+                </button>
+              );
+            })}
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  // ── HOBBIES page — photos gallery + music cards ──
+  if (section.id === "hobbies") {
+    const photoEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "photography");
+    const musicEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "music");
+    return (
+      <div style={styles.chesterPage}>
+        {/* Photos */}
+        {photoEntries.length > 0 && (
+          <div style={styles.chesterHobbiesSection}>
+            <p style={styles.chesterSectionHeading}>📷 {lang === "zh" ? "照片" : "Photos"}</p>
+            <div style={styles.chesterPhotoGrid}>
+              {photoEntries.map((entry, i) => (
+                <button key={i} style={styles.chesterPhotoCard} onClick={() => onOpenPost(entry)}>
+                  <div style={{ ...styles.chesterCardMeta, paddingBottom: 8 }}>
+                    <span style={styles.chesterCardLabel}>Hobbies · Photos</span>
+                    <span style={styles.chesterCardArrowIcon}>→</span>
+                  </div>
+                  {entry.images && entry.images[0]
+                    ? <img
+                        src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data}
+                        alt={entry.title}
+                        style={styles.chesterPhotoImg}
+                      />
+                    : <div style={styles.chesterPhotoPlaceholder}>📷</div>
+                  }
+                  <div style={{ padding: "10px 14px 14px" }}>
+                    <p style={{ ...styles.chesterPostTitle, fontSize: 15, margin: 0 }}>{entry.title}</p>
+                    <span style={styles.chesterPostDate}>{entry.date}</span>
+                  </div>
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* Music */}
+        {musicEntries.length > 0 && (
+          <div style={styles.chesterHobbiesSection}>
+            <p style={styles.chesterSectionHeading}>🎵 {lang === "zh" ? "音乐" : "Music"}</p>
+            <div style={styles.chesterMusicGrid}>
+              {musicEntries.map((entry, i) => {
+                // Convert Spotify track URL → embed URL
+                // handles: open.spotify.com/track/ID, open.spotify.com/intl-xx/track/ID
+                const spotifyEmbedUrl = (() => {
+                  if (!entry.spotifyUrl) return null;
+                  const m = entry.spotifyUrl.match(/spotify\.com(?:\/intl-[a-z]+)?\/track\/([A-Za-z0-9]+)/);
+                  return m ? `https://open.spotify.com/embed/track/${m[1]}?utm_source=generator&theme=0` : null;
+                })();
+                return (
+                  <div key={i} style={styles.chesterMusicCard}>
+                    <div style={styles.chesterCardMeta}>
+                      <span style={styles.chesterCardLabel}>{lang === "zh" ? "趣味 · 音乐" : "Fun · Music"}</span>
+                      <button style={{ background: "none", border: "none", cursor: "pointer", fontSize: 13, color: "#ccc", padding: 0 }} onClick={() => onOpenPost(entry)}>→</button>
+                    </div>
+                    {spotifyEmbedUrl ? (
+                      <iframe
+                        src={spotifyEmbedUrl}
+                        width="100%"
+                        height="80"
+                        frameBorder="0"
+                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                        loading="lazy"
+                        style={{ display: "block", borderRadius: "0 0 4px 4px" }}
+                      />
+                    ) : (
+                      <div style={styles.chesterMusicBody}>
+                        <span style={styles.chesterMusicNote}>♪</span>
+                        <div>
+                          <p style={{ ...styles.chesterPostTitle, fontSize: 14, margin: "0 0 4px" }}>{entry.title}</p>
+                          <span style={styles.chesterPostDate}>{entry.date}</span>
+                        </div>
+                      </div>
+                    )}
+                    <div style={{ padding: "8px 18px 14px" }}>
+                      <p style={{ ...styles.chesterPostTitle, fontSize: 13, margin: "0 0 4px" }}>{entry.title}</p>
+                      <span style={styles.chesterPostDate}>{entry.date}</span>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        )}
+
+        {entries.length === 0 && (
+          <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
+        )}
       </div>
     );
   }
@@ -973,7 +1108,7 @@ function EntryCard({ entry, onEdit, onDelete, onOpenPost, T, lang }) {
     <article style={styles.card}>
       {entry.images && entry.images.length > 0 && (
         <div style={styles.cardCover}>
-          <img src={entry.images[0].data} alt={entry.title} style={styles.cardCoverImg} />
+          <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.cardCoverImg} />
           <div style={styles.cardCoverOverlay} />
         </div>
       )}
@@ -1008,7 +1143,7 @@ function EntryCard({ entry, onEdit, onDelete, onOpenPost, T, lang }) {
         {entry.images && entry.images.length > 1 && (
           <div style={styles.cardGallery}>
             {entry.images.slice(1).map((img, i) => (
-              <img key={i} src={img.data} alt={img.name} style={styles.galleryImg} />
+              <img key={i} src={typeof img === "string" ? img : img.data} alt={typeof img === "string" ? "" : img.name} style={styles.galleryImg} />
             ))}
           </div>
         )}
@@ -1270,7 +1405,7 @@ function PostView({ entry, onBack, T, lang }) {
 
       {entry.images && entry.images.length > 0 && (
         <div style={styles.postHero}>
-          <img src={entry.images[0].data} alt={entry.title} style={styles.postHeroImg} />
+          <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.postHeroImg} />
         </div>
       )}
 
@@ -1305,7 +1440,7 @@ function PostView({ entry, onBack, T, lang }) {
           <h3 style={styles.postSectionTitle}>{galleryLabel}</h3>
           <div style={styles.postGallery}>
             {entry.images.slice(1).map((img, i) => (
-              <img key={i} src={img.data} alt={img.name} style={styles.postGalleryImg} />
+              <img key={i} src={typeof img === "string" ? img : img.data} alt={typeof img === "string" ? "" : img.name} style={styles.postGalleryImg} />
             ))}
           </div>
         </section>
@@ -1674,8 +1809,8 @@ const styles = {
   root: {
     fontFamily: "'Public Sans', sans-serif",
     minHeight: "100vh",
-    background: "#f9f9f9",
-    color: "#1f2325",
+    background: "#faf7f3",
+    color: "#1c1c1c",
     position: "relative",
   },
   bgPattern: {
@@ -1685,119 +1820,136 @@ const styles = {
     width: "100%",
     height: "100%",
     background: `
-      radial-gradient(circle at 22% 24%, rgba(255,255,255,0.55) 0%, transparent 58%),
-      radial-gradient(circle at 82% 74%, rgba(20,35,38,0.04) 0%, transparent 56%)
+      radial-gradient(circle at 18% 20%, rgba(255,248,244,0.8) 0%, transparent 52%),
+      radial-gradient(circle at 84% 78%, rgba(201,131,106,0.05) 0%, transparent 50%)
     `,
     pointerEvents: "none",
     zIndex: 0,
   },
-  // Header
+  // Header — chester.how-inspired pill nav
   header: {
-    background: "rgba(43, 80, 84, 0.82)",
-    backdropFilter: "blur(24px)",
+    background: "rgba(250,247,243,0.95)",
+    backdropFilter: "blur(14px)",
+    WebkitBackdropFilter: "blur(14px)",
     position: "sticky",
     top: 0,
     zIndex: 100,
-    borderBottom: "none",
+    borderBottom: "1px solid rgba(0,0,0,0.07)",
   },
   headerContent: {
-    maxWidth: 1600,
+    maxWidth: 1200,
     margin: "0 auto",
     display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
-    position: "relative",
-  },
-  headerLogoArea: {
-    display: "flex",
-    flexDirection: "column",
-    alignItems: "center",
-    textAlign: "center",
-  },
-  headerLogoWrap: {
-    cursor: "pointer",
-  },
-  headerLang: {
-    position: "absolute",
-    right: 0,
-    top: "50%",
-    transform: "translateY(-50%)",
-  },
-  mobileControls: {
-    position: "absolute",
-    right: 0,
-    top: "50%",
-    transform: "translateY(-50%)",
-    display: "flex",
-    gap: 8,
+    justifyContent: "space-between",
     alignItems: "center",
   },
-  siteLogo: {
-    height: 52,
-    width: "auto",
-    display: "block",
-  },
-  tagline: {
+  headerLogoArea: { display: "none" },
+  headerLogoWrap: { display: "none" },
+  headerLang: { display: "none" },
+  mobileControls: { display: "none" },
+  siteLogo: { display: "none" },
+  tagline: { display: "none" },
+  taglineBtn: { display: "none" },
+  taglineDot: { display: "none" },
+  // Pill nav
+  pillNav: {
     display: "flex",
     alignItems: "center",
-    justifyContent: "center",
-    gap: 6,
-    marginTop: 6,
-  },
-  taglineBtn: {
-    background: "none",
-    border: "none",
-    color: "rgba(255,255,255,0.72)",
-    cursor: "pointer",
-    fontFamily: "'Newsreader', serif",
-    fontSize: 12,
-    fontStyle: "italic",
-    fontWeight: 400,
-    letterSpacing: "1.5px",
-    textTransform: "uppercase",
-    padding: "2px 4px",
-    transition: "color 0.2s",
-  },
-  taglineDot: {
-    color: "rgba(255,255,255,0.38)",
-    fontFamily: "'Newsreader', serif",
-    fontStyle: "italic",
-    fontSize: 11,
-    userSelect: "none",
-  },
-  navBar: {
-    background: "rgba(43, 80, 84, 0.9)",
-    backdropFilter: "blur(16px)",
-    borderBottom: "1px solid rgba(255,255,255,0.06)",
-    position: "sticky",
-    top: 0,
-    zIndex: 99,
-  },
-  navBarInner: {
-    margin: "0 auto",
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
+    background: "rgba(255,255,255,0.88)",
+    border: "1px solid rgba(0,0,0,0.09)",
+    borderRadius: 50,
+    padding: "5px 8px 5px 18px",
+    boxShadow: "0 1px 6px rgba(0,0,0,0.06)",
     gap: 0,
   },
-  navItem: {
-    background: "transparent",
-    border: "none",
-    color: "rgba(255,255,255,0.72)",
-    padding: "16px 32px",
-    cursor: "pointer",
-    fontFamily: "'Newsreader', serif",
+  pillNavBrand: {
+    fontFamily: "'Fascinate', cursive",
     fontSize: 15,
     fontWeight: 400,
-    fontStyle: "italic",
-    letterSpacing: "0.3px",
-    transition: "all 0.2s",
-    borderBottom: "2px solid transparent",
+    color: "#2B5054",
+    background: "none",
+    border: "none",
+    cursor: "pointer",
+    padding: 0,
+    letterSpacing: "0px",
   },
-  navItemActive: {
-    color: "#ffffff",
-    borderBottom: "2px solid rgba(255,255,255,0.5)",
+  pillNavDivider: {
+    color: "rgba(0,0,0,0.18)",
+    fontSize: 13,
+    margin: "0 10px",
+    userSelect: "none",
   },
+  pillNavLink: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 14,
+    fontWeight: 500,
+    color: "#666",
+    background: "none",
+    border: "none",
+    cursor: "pointer",
+    padding: "5px 12px",
+    borderRadius: 30,
+    transition: "background 0.15s, color 0.15s",
+    position: "relative",
+  },
+  pillNavLinkActive: {
+    color: "#fff",
+    background: "#2B5054",
+    fontWeight: 600,
+  },
+  pillNavDropdown: {
+    position: "absolute",
+    top: "calc(100% + 8px)",
+    left: "50%",
+    transform: "translateX(-50%)",
+    background: "#fff",
+    borderRadius: 12,
+    boxShadow: "0 12px 40px rgba(0,0,0,0.11), 0 4px 10px rgba(0,0,0,0.06)",
+    border: "1px solid rgba(0,0,0,0.07)",
+    padding: "8px 0",
+    minWidth: 190,
+    zIndex: 200,
+  },
+  pillNavDropItem: {
+    display: "block",
+    width: "100%",
+    background: "none",
+    border: "none",
+    padding: "10px 20px",
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 14,
+    color: "#333",
+    textAlign: "left",
+    cursor: "pointer",
+  },
+  headerRight: {
+    display: "flex",
+    alignItems: "center",
+    gap: 20,
+  },
+  headerRightLink: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 13,
+    color: "#888",
+    textDecoration: "none",
+    letterSpacing: "0.1px",
+    transition: "color 0.15s",
+  },
+  langToggleNew: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 13,
+    color: "#888",
+    background: "none",
+    border: "1px solid rgba(0,0,0,0.14)",
+    borderRadius: 20,
+    padding: "4px 12px",
+    cursor: "pointer",
+  },
+  // navBar hidden — nav integrated into header pill
+  navBar: { display: "none" },
+  navBarInner: { display: "none" },
+  navItem: { display: "none" },
+  navItemActive: {},
   navDropdownWrap: {
     position: "relative",
   },
@@ -1825,7 +1977,7 @@ const styles = {
     display: "flex",
     alignItems: "center",
     gap: 14,
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 15,
     fontWeight: 400,
     fontStyle: "italic",
@@ -1861,7 +2013,7 @@ const styles = {
     padding: "7px 16px",
     borderRadius: 20,
     cursor: "pointer",
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontWeight: 400,
     fontStyle: "italic",
     letterSpacing: "0.5px",
@@ -1879,7 +2031,7 @@ const styles = {
     padding: "8px 16px",
     borderRadius: 8,
     cursor: "pointer",
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontStyle: "italic",
     transition: "all 0.2s",
   },
@@ -1928,7 +2080,7 @@ const styles = {
     gap: 4,
   },
   mobilePanelGroupHeader: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 11,
     color: "rgba(255,255,255,0.5)",
     letterSpacing: "1.5px",
@@ -1949,7 +2101,7 @@ const styles = {
     display: "flex",
     alignItems: "center",
     gap: 12,
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 16,
     fontWeight: 400,
     fontStyle: "italic",
@@ -1986,7 +2138,7 @@ const styles = {
     padding: "10px 16px",
     borderRadius: 20,
     cursor: "pointer",
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontStyle: "italic",
     width: "100%",
   },
@@ -1999,19 +2151,20 @@ const styles = {
     display: "flex",
     alignItems: "center",
     gap: 6,
-    padding: "8px 16px",
-    border: "1px solid rgba(192, 200, 201, 0.2)",
-    borderRadius: 6,
-    background: "#fff",
-    color: "#666",
+    padding: "7px 18px",
+    border: "1px solid rgba(43,80,84,0.18)",
+    borderRadius: 30,
+    background: "rgba(250,247,243,0.9)",
+    color: "#2B5054",
+    fontFamily: "'Public Sans', sans-serif",
     fontSize: 13,
-    fontWeight: 500,
+    fontWeight: 600,
     cursor: "pointer",
     transition: "all 0.2s",
   },
   techSubTabActive: {
-    background: "linear-gradient(135deg, #12393d 0%, #2b5054 100%)",
-    borderColor: "rgba(192, 200, 201, 0.2)",
+    background: "#2B5054",
+    borderColor: "#2B5054",
     color: "#fff",
   },
   newsBlock: {
@@ -2096,7 +2249,7 @@ const styles = {
     color: "#7B8F92",
   },
   newsTitleLink: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 15,
     color: "#2F3F42",
     textDecoration: "none",
@@ -2169,14 +2322,14 @@ const styles = {
     opacity: 0.8,
   },
   sectionTitle: {
-    fontFamily: "'Newsreader', serif",
-    fontSize: "clamp(28px, 4.2vw, 42px)",
+    fontFamily: "'Fascinate', cursive",
+    fontSize: "clamp(20px, 3vw, 32px)",
     fontWeight: 400,
-    fontStyle: "italic",
+    fontStyle: "normal",
     margin: 0,
-    color: "#111416",
-    letterSpacing: "-0.5px",
-    lineHeight: 0.88,
+    color: "#2B5054",
+    letterSpacing: "-0.3px",
+    lineHeight: 1.1,
   },
   noItalic: {
     fontStyle: "normal",
@@ -2244,7 +2397,7 @@ const styles = {
     marginBottom: 10,
   },
   cardTitle: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: "clamp(20px, 2.8vw, 28px)",
     fontWeight: 500,
     fontStyle: "italic",
@@ -2341,7 +2494,7 @@ const styles = {
     marginBottom: 16,
   },
   postTitle: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: "clamp(20px, 2.5vw, 26px)",
     fontWeight: 500,
     fontStyle: "italic",
@@ -2380,13 +2533,13 @@ const styles = {
     letterSpacing: "0.3px",
   },
   postBody: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 20,
     lineHeight: 1.9,
     color: "#2f3335",
   },
   postParagraph: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 20,
     lineHeight: 1.9,
     color: "#2f3335",
@@ -2394,7 +2547,7 @@ const styles = {
     whiteSpace: "pre-wrap",
   },
   postH1: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: "clamp(24px, 3vw, 32px)",
     fontWeight: 500,
     fontStyle: "italic",
@@ -2404,7 +2557,7 @@ const styles = {
     letterSpacing: "-0.3px",
   },
   postH2: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: "clamp(20px, 2.5vw, 26px)",
     fontWeight: 500,
     fontStyle: "italic",
@@ -2422,7 +2575,7 @@ const styles = {
     textTransform: "uppercase",
   },
   postQuote: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 21,
     fontStyle: "italic",
     color: "#35666a",
@@ -2445,7 +2598,7 @@ const styles = {
     paddingLeft: 28,
   },
   postLi: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 20,
     lineHeight: 1.9,
     color: "#2f3335",
@@ -2470,7 +2623,7 @@ const styles = {
     borderRadius: 4,
     padding: "12px 16px",
     margin: "16px 0",
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 19,
     lineHeight: 1.75,
     color: "#2f3335",
@@ -2629,7 +2782,7 @@ const styles = {
     transition: "border-color 0.2s",
   },
   textarea: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 15,
     lineHeight: 1.8,
     padding: "14px",
@@ -2779,27 +2932,27 @@ const styles = {
   },
   // Footer
   footer: {
-    borderTop: "none",
-    background: "rgba(248, 252, 255, 0.5)",
-    padding: 24,
+    borderTop: "1px solid rgba(0,0,0,0.07)",
+    background: "transparent",
+    padding: "24px 32px",
     marginTop: 80,
   },
   footerContent: {
-    maxWidth: 1400,
+    maxWidth: 1200,
     margin: "0 auto",
     display: "flex",
     justifyContent: "space-between",
     alignItems: "center",
     fontFamily: "'Public Sans', sans-serif",
     fontSize: 12,
-    color: "#7B8F92",
-    fontWeight: 500,
+    color: "#aaa",
+    fontWeight: 400,
   },
   footerLink: {
-    color: "#12393d",
+    color: "#888",
     textDecoration: "none",
-    borderBottom: "2px solid rgba(53, 102, 106, 0.7)",
-    fontWeight: 600,
+    borderBottom: "1px solid rgba(0,0,0,0.2)",
+    fontWeight: 500,
     paddingBottom: 1,
   },
   // About Section
@@ -2824,7 +2977,7 @@ const styles = {
     textTransform: "uppercase",
   },
   aboutText: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 18,
     lineHeight: 1.8,
     color: "#444",
@@ -2851,7 +3004,7 @@ const styles = {
     gap: 32,
   },
   contactIntro: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 24,
     color: "#2B5054",
     margin: 0,
@@ -2902,7 +3055,7 @@ const styles = {
     padding: "36px 0 0",
   },
   laiHeroHeadline: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 44,
     fontWeight: 600,
     fontStyle: "italic",
@@ -2912,7 +3065,7 @@ const styles = {
     letterSpacing: "-0.5px",
   },
   laiHeroSub: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 18,
     lineHeight: 1.85,
     color: "#4F6669",
@@ -2928,7 +3081,7 @@ const styles = {
     margin: "0 auto",
   },
   laiAboutText: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 17,
     lineHeight: 1.9,
     color: "#4B5E61",
@@ -2942,11 +3095,11 @@ const styles = {
   },
   laiLabel: {
     fontFamily: "'Public Sans', sans-serif",
-    fontSize: 11,
+    fontSize: 10,
     fontWeight: 700,
-    letterSpacing: "2.5px",
-    color: "#8EA1A4",
+    letterSpacing: "1.5px",
     textTransform: "uppercase",
+    color: "#2B5054",
   },
   laiPillars: {
     display: "flex",
@@ -2969,7 +3122,7 @@ const styles = {
     marginTop: 3,
   },
   laiPillarTitle: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 20,
     fontWeight: 600,
     fontStyle: "italic",
@@ -2977,7 +3130,7 @@ const styles = {
     margin: "0 0 10px",
   },
   laiPillarText: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 15,
     lineHeight: 1.82,
     color: "#4F6669",
@@ -3005,7 +3158,7 @@ const styles = {
     letterSpacing: "0.3px",
   },
   laiToolDesc: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 13,
     color: "#7B8F92",
     fontStyle: "italic",
@@ -3021,7 +3174,7 @@ const styles = {
     padding: "0 0 48px",
   },
   laiCtaText: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 18,
     lineHeight: 1.8,
     color: "#4B5E61",
@@ -3069,7 +3222,7 @@ const styles = {
     alignItems: "flex-start",
   },
   toolCardName: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 20,
     fontWeight: 700,
     color: "#ffffff",
@@ -3134,11 +3287,369 @@ const styles = {
     color: "#8EA1A4",
     fontStyle: "italic",
   },
-  // Hub (About page)
+  // ── Digital Garden Hero Card ──────────────────────────────────────────────
+  gardenHero: {
+    background: "#2B5054",
+    borderRadius: 20,
+    position: "relative",
+    overflow: "hidden",
+  },
+  gardenHeroTextCol: {
+    maxWidth: "54%",
+    position: "relative",
+    zIndex: 1,
+  },
+  gardenHeroHeading: {
+    fontFamily: "'Fascinate', cursive",
+    fontSize: 52,
+    fontWeight: 400,
+    fontStyle: "normal",
+    color: "#faf7f3",
+    letterSpacing: "0px",
+    lineHeight: 1.15,
+    margin: "0 0 28px",
+    whiteSpace: "pre-line",
+  },
+  gardenHeroDash: {
+    width: 52,
+    height: 5,
+    background: "#C8A96E",
+    borderRadius: 2,
+    margin: "0 0 22px",
+  },
+  gardenHeroSub: {
+    fontFamily: "'Fascinate Inline', cursive",
+    fontStyle: "normal",
+    fontSize: 12,
+    color: "rgba(250,247,243,0.70)",
+    letterSpacing: "0.5px",
+    margin: 0,
+  },
+  gardenHeroPortraitWrap: {
+    position: "absolute",
+    right: 52,
+    bottom: 0,
+    zIndex: 0,
+    display: "flex",
+    alignItems: "flex-end",
+  },
+  gardenHeroPortraitImg: {
+    width: 195,
+    height: 272,
+    objectFit: "cover",
+    objectPosition: "center 22%",
+    borderRadius: "14px 14px 0 0",
+    opacity: 1,
+    display: "block",
+  },
+  // Bento featured card (first card, full width)
+  bentoCardFeatured: {
+    gridColumn: "1 / -1",
+    background: "linear-gradient(135deg, rgba(43,80,84,0.07) 0%, rgba(43,80,84,0.02) 100%)",
+    borderColor: "rgba(43,80,84,0.18)",
+    padding: "22px 24px 20px",
+  },
+  bentoCardNameFeatured: {
+    fontFamily: "'Cormorant Garamond', serif",
+    fontStyle: "italic",
+    fontSize: 22,
+    fontWeight: 400,
+    color: "#1c1c1c",
+    lineHeight: 1.25,
+    margin: 0,
+  },
+  // Hub (About page) — chester.how two-column layout
   aboutHub: {
-    maxWidth: 640,
+    maxWidth: 1100,
     margin: "0 auto",
-    padding: "32px 0 48px",
+    padding: "60px 0 88px",
+  },
+  aboutTwoCol: {
+    display: "flex",
+    gap: 60,
+    alignItems: "flex-start",
+  },
+  aboutLeft: {
+    flex: "0 0 52%",
+    maxWidth: "52%",
+  },
+  aboutRight: {
+    flex: 1,
+    minWidth: 0,
+    paddingTop: 6,
+  },
+  aboutHero: {
+    fontFamily: "'Cormorant Garamond', serif",
+    fontSize: 52,
+    fontWeight: 400,
+    lineHeight: 1.18,
+    color: "#1c1c1c",
+    margin: "0 0 30px",
+    letterSpacing: "-0.5px",
+    whiteSpace: "pre-line",
+  },
+  aboutHeroAccent: {
+    borderBottom: "2.5px solid #2B5054",
+    paddingBottom: 2,
+  },
+  // Bento section cards (chester.how style)
+  bentoGrid: {
+    display: "grid",
+    gridTemplateColumns: "1fr 1fr",
+    gap: 10,
+  },
+  bentoCard: {
+    background: "#ffffff",
+    borderRadius: 14,
+    padding: "18px 20px 16px",
+    border: "1px solid rgba(0,0,0,0.06)",
+    boxShadow: "0 2px 8px rgba(0,0,0,0.04)",
+    cursor: "pointer",
+    textDecoration: "none",
+    display: "flex",
+    flexDirection: "column",
+    gap: 8,
+    textAlign: "left",
+    transition: "box-shadow 0.18s, transform 0.18s",
+    width: "100%",
+  },
+  bentoCardTop: {
+    display: "flex",
+    justifyContent: "space-between",
+    alignItems: "flex-start",
+  },
+  bentoCardCategory: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 10,
+    fontWeight: 700,
+    color: "#2B5054",
+    textTransform: "uppercase",
+    letterSpacing: "1px",
+  },
+  bentoCardArrow: {
+    fontSize: 13,
+    color: "#ccc",
+    marginTop: -1,
+  },
+  bentoCardName: {
+    fontFamily: "'Lora', serif",
+    fontSize: 17,
+    fontWeight: 500,
+    color: "#1c1c1c",
+    lineHeight: 1.3,
+    margin: 0,
+  },
+  bentoCardDesc: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 12,
+    color: "#999",
+    lineHeight: 1.5,
+    margin: 0,
+  },
+
+  // ── Chester gallery card styles ───────────────────────────────────────────
+  chesterPage: {
+    maxWidth: 1100,
+    margin: "0 auto",
+    padding: "8px 0 64px",
+  },
+  // 2-col grid for tool cards
+  chesterGrid: {
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fill, minmax(360px, 1fr))",
+    gap: 16,
+  },
+  chesterToolCard: {
+    background: "#fff",
+    borderRadius: 16,
+    overflow: "hidden",
+    border: "1px solid rgba(0,0,0,0.07)",
+    boxShadow: "0 2px 14px rgba(0,0,0,0.06)",
+    textDecoration: "none",
+    display: "flex",
+    flexDirection: "column",
+    cursor: "pointer",
+  },
+  chesterCardMeta: {
+    display: "flex",
+    justifyContent: "space-between",
+    alignItems: "center",
+    padding: "13px 18px 10px",
+  },
+  chesterCardLabel: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 10,
+    fontWeight: 700,
+    color: "#2B5054",
+    textTransform: "uppercase",
+    letterSpacing: "0.8px",
+  },
+  chesterCardArrowIcon: {
+    fontSize: 14,
+    color: "#ccc",
+  },
+  chesterToolPreview: {
+    height: 190,
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: 20,
+    padding: "0 28px",
+    flexShrink: 0,
+  },
+  chesterToolEmoji: {
+    fontSize: 40,
+    flexShrink: 0,
+  },
+  chesterToolTagline: {
+    fontFamily: "'Lora', serif",
+    fontStyle: "italic",
+    fontSize: 14,
+    color: "rgba(255,255,255,0.75)",
+    margin: "0 0 10px",
+    lineHeight: 1.5,
+  },
+  chesterToolLiveBadge: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 10,
+    fontWeight: 700,
+    color: "#fff",
+    background: "rgba(255,255,255,0.18)",
+    borderRadius: 20,
+    padding: "3px 10px",
+    letterSpacing: "0.8px",
+    textTransform: "uppercase",
+  },
+  chesterCardBody: {
+    padding: "14px 18px 20px",
+    flex: 1,
+  },
+  chesterToolTitle: {
+    fontFamily: "'Fascinate', cursive",
+    fontSize: 18,
+    fontWeight: 400,
+    color: "#1c1c1c",
+    margin: "0 0 8px",
+    letterSpacing: "-0.2px",
+  },
+  chesterToolDesc: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 13,
+    color: "#888",
+    lineHeight: 1.65,
+    margin: 0,
+  },
+  // Post cards (Share page)
+  chesterPostGrid: {
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fill, minmax(270px, 1fr))",
+    gap: 12,
+  },
+  chesterPostCard: {
+    background: "#fff",
+    borderRadius: 14,
+    overflow: "hidden",
+    border: "1px solid rgba(0,0,0,0.07)",
+    boxShadow: "0 2px 8px rgba(0,0,0,0.04)",
+    cursor: "pointer",
+    textAlign: "left",
+    display: "flex",
+    flexDirection: "column",
+    width: "100%",
+  },
+  chesterPostTitle: {
+    fontFamily: "'Fascinate', cursive",
+    fontSize: 14,
+    fontWeight: 400,
+    color: "#1c1c1c",
+    lineHeight: 1.4,
+    margin: "0 0 8px",
+  },
+  chesterPostExcerpt: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 12,
+    color: "#aaa",
+    lineHeight: 1.6,
+    margin: "0 0 12px",
+  },
+  chesterPostDate: {
+    fontFamily: "'Public Sans', sans-serif",
+    fontSize: 11,
+    color: "#bbb",
+    fontWeight: 500,
+    letterSpacing: "0.3px",
+    display: "block",
+  },
+  // Hobbies page
+  chesterHobbiesSection: {
+    marginBottom: 52,
+  },
+  chesterSectionHeading: {
+    fontFamily: "'Fascinate', cursive",
+    fontSize: 20,
+    fontWeight: 400,
+    fontStyle: "italic",
+    color: "#2B5054",
+    margin: "0 0 18px",
+  },
+  chesterPhotoGrid: {
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fill, minmax(210px, 1fr))",
+    gap: 12,
+  },
+  chesterPhotoCard: {
+    background: "#fff",
+    borderRadius: 14,
+    overflow: "hidden",
+    border: "1px solid rgba(0,0,0,0.07)",
+    boxShadow: "0 2px 8px rgba(0,0,0,0.04)",
+    cursor: "pointer",
+    textAlign: "left",
+    display: "flex",
+    flexDirection: "column",
+    width: "100%",
+  },
+  chesterPhotoImg: {
+    width: "100%",
+    height: 180,
+    objectFit: "cover",
+    display: "block",
+  },
+  chesterPhotoPlaceholder: {
+    height: 150,
+    background: "#f0ede8",
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    fontSize: 32,
+  },
+  chesterMusicGrid: {
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fill, minmax(280px, 1fr))",
+    gap: 10,
+  },
+  chesterMusicCard: {
+    background: "#fff",
+    borderRadius: 12,
+    overflow: "hidden",
+    border: "1px solid rgba(0,0,0,0.07)",
+    cursor: "pointer",
+    textAlign: "left",
+    display: "flex",
+    flexDirection: "column",
+    width: "100%",
+  },
+  chesterMusicBody: {
+    display: "flex",
+    alignItems: "center",
+    gap: 14,
+    padding: "10px 18px 16px",
+  },
+  chesterMusicNote: {
+    fontSize: 28,
+    color: "#2B5054",
+    flexShrink: 0,
+    lineHeight: 1,
   },
   aboutBioRow: {
     display: "flex",
@@ -3197,9 +3708,9 @@ const styles = {
     fontFamily: "'Public Sans', sans-serif",
     fontSize: 10,
     fontWeight: 700,
-    color: "#8EA1A4",
-    letterSpacing: "2.5px",
+    color: "#2B5054",
     textTransform: "uppercase",
+    letterSpacing: "1.5px",
     margin: "0 0 4px 0",
   },
   hubTilesList: {
@@ -3221,7 +3732,7 @@ const styles = {
     transition: "opacity 0.15s",
   },
   hubTileRowName: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 22,
     fontWeight: 400,
     fontStyle: "italic",
@@ -3242,7 +3753,7 @@ const styles = {
     letterSpacing: "0.3px",
   },
   hubTileArrow: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 18,
     color: "#2B5054",
     opacity: 0.5,
@@ -3254,7 +3765,7 @@ const styles = {
     paddingBottom: 16,
   },
   hubConnectHeading: {
-    fontFamily: "'Newsreader', serif",
+    fontFamily: "'Lora', serif",
     fontSize: 20,
     fontStyle: "italic",
     color: "#2B5054",
@@ -3284,13 +3795,96 @@ const styles = {
   },
 };
 
-// FONTS
+// FONTS + HOVER CSS
 // ═══════════════════════════════════════════════════════════════════════════
 (function () {
   const link = document.createElement("link");
-  link.href = "https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Public+Sans:wght@400;500;600;700&display=swap";
+  link.href = "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=Public+Sans:wght@400;500;600;700&family=Limelight&family=Fascinate&family=Fascinate+Inline&display=swap";
   link.rel = "stylesheet";
   document.head.appendChild(link);
+
+  const css = document.createElement("style");
+  css.textContent = `
+    /* ── Nav pill link hover ── */
+    .pill-nav-btn:not([style*="background: rgb(43"]):hover {
+      color: #2B5054 !important;
+      background: rgba(43,80,84,0.07) !important;
+    }
+
+    /* ── Header links: animated sliding underline ── */
+    .hdr-link {
+      position: relative;
+      text-decoration: none !important;
+    }
+    .hdr-link::after {
+      content: "";
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 0;
+      height: 1.5px;
+      background: #2B5054;
+      transition: width 0.22s ease;
+    }
+    .hdr-link:hover { color: #2B5054 !important; }
+    .hdr-link:hover::after { width: 100%; }
+
+    /* ── About connect inline link: wavy underline ── */
+    .about-connect-sp:hover {
+      text-decoration: underline wavy #2B5054 !important;
+      text-underline-offset: 3px;
+      border-bottom-color: transparent !important;
+    }
+
+    /* ── Hub connect links: morph to wavy on hover ── */
+    .hub-link { text-decoration: none !important; }
+    .hub-link:hover {
+      color: #12393d !important;
+      text-decoration: underline wavy #2B5054 !important;
+      text-underline-offset: 4px;
+      border-bottom-color: transparent !important;
+    }
+
+    /* ── Bento cards: lift + teal border ── */
+    .bento-card-el {
+      transition: box-shadow 0.18s, transform 0.18s, border-color 0.18s !important;
+    }
+    .bento-card-el:hover {
+      transform: translateY(-3px) !important;
+      box-shadow: 0 10px 28px rgba(43,80,84,0.13) !important;
+      border-color: rgba(43,80,84,0.28) !important;
+    }
+
+    /* ── Chester tool cards: lift + teal glow ── */
+    .chester-tool-a {
+      transition: box-shadow 0.2s, border-color 0.2s, transform 0.2s !important;
+    }
+    .chester-tool-a:hover {
+      transform: translateY(-4px) !important;
+      box-shadow: 0 14px 40px rgba(43,80,84,0.18) !important;
+      border-color: rgba(43,80,84,0.3) !important;
+    }
+
+    /* ── Chester post cards: soft lift ── */
+    .chester-post-btn {
+      transition: box-shadow 0.15s, border-color 0.15s, transform 0.15s !important;
+    }
+    .chester-post-btn:hover {
+      transform: translateY(-2px) !important;
+      box-shadow: 0 6px 20px rgba(43,80,84,0.12) !important;
+      border-color: rgba(43,80,84,0.22) !important;
+    }
+
+    /* ── Footer link: wavy underline on hover ── */
+    .footer-link-a { transition: color 0.15s !important; }
+    .footer-link-a:hover {
+      color: #2B5054 !important;
+      text-decoration: underline wavy #2B5054 !important;
+      text-underline-offset: 3px;
+      border-bottom-color: transparent !important;
+    }
+  `;
+  document.head.appendChild(css);
 })();
 
 // ─── Mount ────────────────────────────────────────────────────────────────────
