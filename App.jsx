@@ -21,11 +21,11 @@ const TRANSLATIONS = {
     },
     about: {
       bg: "Background",
-      bg1: "Fukun is a J.D. student at Osgoode Hall Law School, Class of 2027. She is interested in the intersection of law and technology, especially the rapid development of legal tech. She is also keen on investing and broader technology topics.",
-      bg2: "She graduated from Tsinghua University with a Bachelor of Science in Psychology and a Juris Master degree. She has also worked on legal matters at a private equity firm.",
-      interests: "Interests",
-      int1: "In her spare time, she enjoys tennis, listening to all kinds of music (especially jazz), photography, reading, and pottery.",
-      int2: "She is always happy to connect with people from different backgrounds, so feel free to",
+      bg1: "I'm a J.D. candidate at Osgoode Hall Law School (Class of 2027), thinking about how law and technology shape each other — especially as AI starts changing what lawyers actually do.",
+      bg2: "Before law school: Psychology + Jurisprudence at Tsinghua University, and legal work at a private equity firm. I've been moving between Beijing and Toronto for a while now.",
+      interests: "Outside the books",
+      int1: "Tennis, jazz (and most music, honestly), photography, reading slowly, pottery. I find that the best thinking happens away from the desk.",
+      int2: "Always glad to hear from people doing interesting things — feel free to",
       connect: "connect",
     },
     tech: {
@@ -98,7 +98,7 @@ const TRANSLATIONS = {
     },
     common: { readMore: "Read more", showLess: "Show less" },
     grid: { newPost: "+ New Post", empty: "No posts yet in this section", createFirst: "Create First Post", by: "by" },
-    footer: "© 2026 Fukun · All Rights Reserved",
+    footer: "© 2026 Fukun · made with curiosity",
   },
   zh: {
     site: { name: "Fukun", tagline: "法律 · 科技 · 思想" },
@@ -116,11 +116,11 @@ const TRANSLATIONS = {
     },
     about: {
       bg: "背景",
-      bg1: "Fukun是Osgoode Hall Law School 2027届法律博士（J.D.）在读生，专注于法律与科技的交叉领域，尤其关注法律科技的前沿发展，同时热衷于投资与通用科技议题。",
-      bg2: "她毕业于清华大学，获心理学理学学士及法律硕士学位，并曾在私募股权机构从事法务工作。",
-      interests: "兴趣爱好",
-      int1: "业余时间，她热爱网球、各类音乐（尤钟爵士乐）、摄影、阅读与陶艺。",
-      int2: "她非常乐意与来自不同背景的人交流，欢迎随时",
+      bg1: "Osgoode Hall Law School 2027届J.D.在读，主要在想：法律和科技到底如何互相塑造——尤其是AI开始真正改变律师工作方式的现在。",
+      bg2: "法学院之前：清华大学心理学+法学，以及在私募股权机构做过一段法务。这些年在北京和多伦多之间来回。",
+      interests: "课本以外",
+      int1: "网球、爵士乐（以及大多数音乐）、摄影、慢慢读书、陶艺。好的想法通常不在书桌前产生。",
+      int2: "很喜欢认识做有意思事情的人，随时欢迎",
       connect: "联系她",
     },
     tech: {
@@ -193,7 +193,7 @@ const TRANSLATIONS = {
     },
     common: { readMore: "阅读更多", showLess: "收起" },
     grid: { newPost: "+ 新建文章", empty: "此栏目暂无文章", createFirst: "创建第一篇", by: "作者" },
-    footer: "© 2026 Fukun · 版权所有",
+    footer: "© 2026 Fukun · 用好奇心做的",
   },
 };
 
@@ -708,9 +708,10 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
               {lang === "zh" ? <>你好,{"\n"}我是 Fukun.</> : <>Hey,{"\n"}I'm Fukun.</>}
             </h1>
             <div style={styles.gardenHeroDash} />
-            <p style={styles.gardenHeroSub}>
-              welcome to my domain{" "}
-              <span style={{ fontFamily: "'Noto Serif SC', serif", fontSize: 15, fontWeight: 400, letterSpacing: "2px" }}>欢迎来到我的飞鸿雪泥</span>
+            <p style={{ margin: 0, lineHeight: 1.7 }}>
+              <span style={{ fontFamily: "'Fascinate', cursive", fontSize: 10, color: "rgba(250,247,243,0.60)", letterSpacing: "1.5px", display: "inline" }}>welcome to my domain</span>
+              {"  "}
+              <span style={{ fontFamily: "'Long Cang', cursive", fontSize: 20, color: "rgba(250,247,243,0.78)", letterSpacing: "4px" }}>欢迎来到我的飞鸿雪泥</span>
             </p>
           </div>
         </div>
@@ -741,9 +742,17 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             <div style={styles.bentoGrid}>
               {tiles.map((tile, idx) => {
                 const isFeatured = idx === 0;
+                const tileAccent = {
+                  "legal-ai-lab": "#2B5054",
+                  "share":        "#7a5c42",
+                  "tech-brew":    "#35666a",
+                  "music":        "#5a6b8a",
+                  "photos":       "#8a6a55",
+                  "essays":       "#6b7a5a",
+                }[tile.key] || "#2B5054";
                 const cardStyle = isFeatured
-                  ? { ...styles.bentoCard, ...styles.bentoCardFeatured }
-                  : styles.bentoCard;
+                  ? { ...styles.bentoCard, ...styles.bentoCardFeatured, borderLeft: `3px solid ${tileAccent}` }
+                  : { ...styles.bentoCard, borderLeft: `3px solid ${tileAccent}` };
                 return tile.href ? (
                   <a key={tile.key} href={tile.href} target="_blank" rel="noopener noreferrer" className="bento-card-el" style={cardStyle}>
                     <div style={styles.bentoCardTop}>
@@ -817,10 +826,11 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     ];
     return (
       <div style={styles.chesterPage}>
-        <p style={{ fontFamily: "'Cormorant Garamond', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 8px" }}>
-          {lang === "zh" ? "我用AI搭建的一些小工具。" : "A few AI tools I've built."}
-        </p>
-        <div style={{ width: 44, height: 4, background: "#C8A96E", borderRadius: 2, margin: "0 0 32px" }} />
+        <div style={{ borderLeft: "3px solid #C8A96E", paddingLeft: 16, margin: "0 0 32px" }}>
+          <p style={{ fontFamily: "'Cormorant Garamond', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 4px" }}>
+            {lang === "zh" ? "我用AI搭建的一些小工具。" : "Tools I've built — mostly to make legal work less painful."}
+          </p>
+        </div>
         <div style={styles.chesterGrid}>
           {tools.map(tool => (
             <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" className="chester-tool-a" style={styles.chesterToolCard}>
@@ -855,23 +865,33 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     };
     return (
       <div style={styles.chesterPage}>
-        <p style={{ fontFamily: "'Cormorant Garamond', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 8px" }}>
-          {lang === "zh" ? "法律、科技与随笔。" : "Law, technology, and everything in between."}
-        </p>
-        <div style={{ width: 44, height: 4, background: "#C8A96E", borderRadius: 2, margin: "0 0 32px" }} />
+        <div style={{ borderLeft: "3px solid #C8A96E", paddingLeft: 16, margin: "0 0 32px" }}>
+          <p style={{ fontFamily: "'Cormorant Garamond', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 4px" }}>
+            {lang === "zh" ? "法律、科技，以及我正在摸索的一切。" : "Law, technology, and everything I'm still figuring out."}
+          </p>
+        </div>
         {entries.length === 0 ? (
           <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
         ) : (
-          <div style={styles.chesterPostGrid}>
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(2, 1fr)", gap: 14 }}>
             {entries.map((entry, i) => {
               const sid = SECTION_MAP[entry.section] || entry.section;
               const meta = sectionMeta[sid] || { label: "Share", color: "#2B5054" };
-              const excerpt = entry.body ? entry.body.replace(/[#*`\[\]]/g, "").trim().slice(0, 110) : "";
+              const bodyLen = (entry.body || "").replace(/[#*`\[\]]/g, "").trim().length;
+              const size = i === 0 ? "hero" : bodyLen > 500 ? "large" : bodyLen > 150 ? "medium" : "small";
+              const maxExcerpt = size === "hero" ? 220 : size === "large" ? 160 : size === "medium" ? 100 : 55;
+              const excerpt = entry.body ? entry.body.replace(/[#*`\[\]]/g, "").trim().slice(0, maxExcerpt) : "";
+              const isWide = size === "hero" || size === "large";
               return (
                 <button
                   key={`${entry.notionPageId || entry.id}-${i}`}
                   className="chester-post-btn"
-                  style={{ ...styles.chesterPostCard, borderLeft: `3px solid ${meta.color}` }}
+                  style={{
+                    ...styles.chesterPostCard,
+                    borderLeft: `3px solid ${meta.color}`,
+                    gridColumn: isWide ? "1 / -1" : "span 1",
+                    padding: size === "small" ? "14px 16px 16px" : size === "hero" ? "26px 28px 24px" : "20px 22px 20px",
+                  }}
                   onClick={() => onOpenPost(entry)}
                 >
                   <div style={styles.chesterCardMeta}>
@@ -879,8 +899,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                     <span style={styles.chesterCardArrowIcon}>→</span>
                   </div>
                   <div style={styles.chesterCardBody}>
-                    <h3 style={styles.chesterPostTitle}>{entry.title}</h3>
-                    {excerpt && <p style={styles.chesterPostExcerpt}>{excerpt}{entry.body?.length > 110 ? "…" : ""}</p>}
+                    <h3 style={{ ...styles.chesterPostTitle, fontSize: size === "hero" ? 22 : size === "small" ? 14 : 18 }}>{entry.title}</h3>
+                    {excerpt && <p style={{ ...styles.chesterPostExcerpt, fontSize: size === "small" ? 12 : 13 }}>{excerpt}{bodyLen > maxExcerpt ? "…" : ""}</p>}
                     <span style={styles.chesterPostDate}>{entry.date}</span>
                   </div>
                 </button>
@@ -902,27 +922,28 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
         {photoEntries.length > 0 && (
           <div style={styles.chesterHobbiesSection}>
             <p style={styles.chesterSectionHeading}>📷 {lang === "zh" ? "照片" : "Photos"}</p>
-            <div style={styles.chesterPhotoGrid}>
-              {photoEntries.map((entry, i) => (
-                <button key={i} style={styles.chesterPhotoCard} onClick={() => onOpenPost(entry)}>
-                  <div style={{ ...styles.chesterCardMeta, paddingBottom: 8 }}>
-                    <span style={styles.chesterCardLabel}>Hobbies · Photos</span>
-                    <span style={styles.chesterCardArrowIcon}>→</span>
-                  </div>
-                  {entry.images && entry.images[0]
-                    ? <img
-                        src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data}
-                        alt={entry.title}
-                        style={styles.chesterPhotoImg}
-                      />
-                    : <div style={styles.chesterPhotoPlaceholder}>📷</div>
-                  }
-                  <div style={{ padding: "10px 14px 14px" }}>
-                    <p style={{ ...styles.chesterPostTitle, fontSize: 15, margin: 0 }}>{entry.title}</p>
-                    <span style={styles.chesterPostDate}>{entry.date}</span>
-                  </div>
-                </button>
-              ))}
+            <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))", gap: 12 }}>
+              {photoEntries.map((entry, i) => {
+                const heights = [260, 200, 230, 180, 250, 210, 190, 240];
+                const imgH = heights[i % heights.length];
+                const isWide = i % 5 === 0; // every 5th photo spans 2 cols
+                return (
+                  <button key={i} style={{ ...styles.chesterPhotoCard, gridColumn: isWide ? "span 2" : "span 1" }} onClick={() => onOpenPost(entry)}>
+                    {entry.images && entry.images[0]
+                      ? <img
+                          src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data}
+                          alt={entry.title}
+                          style={{ ...styles.chesterPhotoImg, height: imgH }}
+                        />
+                      : <div style={{ ...styles.chesterPhotoPlaceholder, height: imgH }}>📷</div>
+                    }
+                    <div style={{ padding: "10px 14px 14px" }}>
+                      <p style={{ fontFamily: "'Lora', serif", fontSize: 13, fontWeight: 500, margin: "0 0 2px", color: "#1c1c1c" }}>{entry.title}</p>
+                      <span style={styles.chesterPostDate}>{entry.date}</span>
+                    </div>
+                  </button>
+                );
+              })}
             </div>
           </div>
         )}
@@ -1840,10 +1861,12 @@ const styles = {
     left: 0,
     width: "100%",
     height: "100%",
-    background: `
+    backgroundImage: `
       radial-gradient(circle at 18% 20%, rgba(255,248,244,0.8) 0%, transparent 52%),
-      radial-gradient(circle at 84% 78%, rgba(201,131,106,0.05) 0%, transparent 50%)
+      radial-gradient(circle at 84% 78%, rgba(201,131,106,0.05) 0%, transparent 50%),
+      radial-gradient(rgba(43,80,84,0.055) 1px, transparent 1px)
     `,
+    backgroundSize: "auto, auto, 26px 26px",
     pointerEvents: "none",
     zIndex: 0,
   },
@@ -3371,8 +3394,8 @@ const styles = {
     padding: "22px 24px 20px",
   },
   bentoCardNameFeatured: {
-    fontFamily: "'Lora', serif",
-    fontStyle: "normal",
+    fontFamily: "'Stroma', serif",
+    fontStyle: "italic",
     fontSize: 22,
     fontWeight: 700,
     color: "#1c1c1c",
@@ -3568,10 +3591,10 @@ const styles = {
   },
   chesterPostCard: {
     background: "#fff",
-    borderRadius: 14,
+    borderRadius: 12,
     overflow: "hidden",
-    border: "1px solid rgba(0,0,0,0.07)",
-    boxShadow: "0 2px 8px rgba(0,0,0,0.04)",
+    border: "1px solid rgba(0,0,0,0.06)",
+    boxShadow: "0 1px 6px rgba(0,0,0,0.05)",
     cursor: "pointer",
     textAlign: "left",
     display: "flex",
@@ -3820,7 +3843,7 @@ const styles = {
 // ═══════════════════════════════════════════════════════════════════════════
 (function () {
   const link = document.createElement("link");
-  link.href = "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=Playfair+Display:wght@600&family=Noto+Serif+SC:wght@400;500;700&family=Public+Sans:wght@400;500;600;700&family=Fascinate&display=swap";
+  link.href = "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=Playfair+Display:wght@600&family=Noto+Serif+SC:wght@400;500;700&family=Long+Cang&family=Stroma&family=Public+Sans:wght@400;500;600;700&family=Fascinate&display=swap";
   link.rel = "stylesheet";
   document.head.appendChild(link);
 
