@@ -1004,6 +1004,9 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
   if (section.id === "hobbies") {
     const photoEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "photography");
     const musicEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "music");
+    const vw = typeof window !== "undefined" ? window.innerWidth : 1280;
+    // columnCount is used instead of CSS shorthand 'columns' — React treats numeric shorthand as px
+    const colCount = vw <= 640 ? 2 : vw < 1100 ? 3 : 4;
     return (
       <div style={styles.chesterPage}>
         <div style={{ borderLeft: "3px solid #C8A96E", paddingLeft: 16, margin: "0 0 32px" }}>
@@ -1016,7 +1019,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
           <div style={styles.chesterHobbiesSection}>
             <p style={styles.chesterSectionHeading}>📷 {lang === "zh" ? "照片" : "Photos"}</p>
             {/* Garden photo mosaic — CSS columns masonry, natural aspect ratios, no gaps */}
-            <div style={{ columns: isMobile ? 2 : isTablet ? 3 : 4, columnGap: 8 }}>
+            <div style={{ columnCount: colCount, columnGap: "8px" }}>
               {photoEntries.map((entry, i) => {
                 const imgSrc = entry.images && entry.images[0]
                   ? (typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data)
