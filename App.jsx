@@ -831,9 +831,13 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             {lang === "zh" ? "创造是人类的本性。" : "Creating is a human nature."}
           </p>
         </div>
-        <div style={styles.chesterGrid}>
-          {tools.map(tool => (
-            <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" className="chester-tool-a" style={styles.chesterToolCard}>
+        {/* Garden grid — asymmetric cols so each card breathes differently */}
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(12, 1fr)", gap: 16 }}>
+          {tools.map((tool, toolIdx) => {
+            const gardenColSpans = ["span 7", "span 5", "span 6", "span 4", "span 8"];
+            const gc = gardenColSpans[toolIdx] || "span 6";
+            return (
+            <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" className="chester-tool-a" style={{ ...styles.chesterToolCard, gridColumn: gc }}>
               <div style={styles.chesterCardMeta}>
                 <span style={styles.chesterCardLabel}>{tool.label}</span>
                 <span style={styles.chesterCardArrowIcon}>↗</span>
@@ -923,7 +927,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                 <span style={{ ...styles.chesterToolLiveBadge, background: "#2B5054", color: "#fff", display: "inline-block", marginTop: 10, padding: "3px 10px", borderRadius: 20, fontSize: 10 }}>{lang === "zh" ? "已上线" : "Live"}</span>
               </div>
             </a>
-          ))}
+            );
+          })}
         </div>
       </div>
     );
@@ -946,40 +951,50 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
         {entries.length === 0 ? (
           <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
         ) : (
-          <div style={{ display: "grid", gridTemplateColumns: "repeat(2, 1fr)", gap: 14 }}>
-            {entries.map((entry, i) => {
-              const sid = SECTION_MAP[entry.section] || entry.section;
-              const meta = sectionMeta[sid] || { label: "Share", color: "#2B5054" };
-              const bodyLen = (entry.body || "").replace(/[#*`\[\]]/g, "").trim().length;
-              const size = i === 0 ? "hero" : bodyLen > 500 ? "large" : bodyLen > 150 ? "medium" : "small";
-              const maxExcerpt = size === "hero" ? 220 : size === "large" ? 160 : size === "medium" ? 100 : 55;
-              const excerpt = entry.body ? entry.body.replace(/[#*`\[\]]/g, "").trim().slice(0, maxExcerpt) : "";
-              const isWide = size === "hero" || size === "large";
-              return (
-                <button
-                  key={`${entry.notionPageId || entry.id}-${i}`}
-                  className="chester-post-btn"
-                  style={{
-                    ...styles.chesterPostCard,
-                    borderLeft: `3px solid ${meta.color}`,
-                    gridColumn: isWide ? "1 / -1" : "span 1",
-                    padding: size === "small" ? "14px 16px 16px" : size === "hero" ? "26px 28px 24px" : "20px 22px 20px",
-                  }}
-                  onClick={() => onOpenPost(entry)}
-                >
-                  <div style={styles.chesterCardMeta}>
-                    <span style={{ ...styles.chesterCardLabel, color: meta.color }}>{lang === "zh" ? "想法" : "Thoughts"} · {meta.label}</span>
-                    <span style={styles.chesterCardArrowIcon}>→</span>
-                  </div>
-                  <div style={styles.chesterCardBody}>
-                    <h3 style={{ ...styles.chesterPostTitle, fontSize: size === "hero" ? 22 : size === "small" ? 14 : 18 }}>{entry.title}</h3>
-                    {excerpt && <p style={{ ...styles.chesterPostExcerpt, fontSize: size === "small" ? 12 : 13 }}>{excerpt}{bodyLen > maxExcerpt ? "…" : ""}</p>}
-                    <span style={styles.chesterPostDate}>{entry.date}</span>
-                  </div>
-                </button>
-              );
-            })}
-          </div>
+          // Garden grid — 3 cols, irregular spans, dense packing for organic feel
+          (() => {
+            const tGarden = [3, 1, 2, 1, 1, 2, 3, 2, 1, 1, 2, 1, 1, 3, 1, 2];
+            return (
+              <div style={{ display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: 14, gridAutoFlow: "dense" }}>
+                {entries.map((entry, i) => {
+                  const sid = SECTION_MAP[entry.section] || entry.section;
+                  const meta = sectionMeta[sid] || { label: "Share", color: "#2B5054" };
+                  const bodyLen = (entry.body || "").replace(/[#*`\[\]]/g, "").trim().length;
+                  const size = i === 0 ? "hero" : bodyLen > 500 ? "large" : bodyLen > 150 ? "medium" : "small";
+                  // Garden col spans — cycle through pattern, override for big content
+                  let cols = tGarden[i % tGarden.length];
+                  if (size === "hero") cols = 3;
+                  if (size === "large" && cols < 2) cols = 2;
+                  const maxExcerpt = cols === 3 ? 240 : cols === 2 ? 150 : size === "small" ? 55 : 100;
+                  const excerpt = entry.body ? entry.body.replace(/[#*`\[\]]/g, "").trim().slice(0, maxExcerpt) : "";
+                  const titleSize = cols === 3 ? 22 : cols === 2 ? 18 : size === "small" ? 14 : 16;
+                  return (
+                    <button
+                      key={`${entry.notionPageId || entry.id}-${i}`}
+                      className="chester-post-btn"
+                      style={{
+                        ...styles.chesterPostCard,
+                        borderLeft: `3px solid ${meta.color}`,
+                        gridColumn: `span ${cols}`,
+                        padding: size === "small" && cols === 1 ? "14px 16px 16px" : cols === 3 ? "26px 28px 24px" : "20px 22px 20px",
+                      }}
+                      onClick={() => onOpenPost(entry)}
+                    >
+                      <div style={styles.chesterCardMeta}>
+                        <span style={{ ...styles.chesterCardLabel, color: meta.color }}>{lang === "zh" ? "想法" : "Thoughts"} · {meta.label}</span>
+                        <span style={styles.chesterCardArrowIcon}>→</span>
+                      </div>
+                      <div style={styles.chesterCardBody}>
+                        <h3 style={{ ...styles.chesterPostTitle, fontSize: titleSize }}>{entry.title}</h3>
+                        {excerpt && <p style={{ ...styles.chesterPostExcerpt, fontSize: cols === 1 ? 12 : 13 }}>{excerpt}{bodyLen > maxExcerpt ? "…" : ""}</p>}
+                        <span style={styles.chesterPostDate}>{entry.date}</span>
+                      </div>
+                    </button>
+                  );
+                })}
+              </div>
+            );
+          })()
         )}
       </div>
     );
@@ -1000,29 +1015,50 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
         {photoEntries.length > 0 && (
           <div style={styles.chesterHobbiesSection}>
             <p style={styles.chesterSectionHeading}>📷 {lang === "zh" ? "照片" : "Photos"}</p>
-            <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))", gap: 12 }}>
-              {photoEntries.map((entry, i) => {
-                const heights = [260, 200, 230, 180, 250, 210, 190, 240];
-                const imgH = heights[i % heights.length];
-                const isWide = i % 5 === 0; // every 5th photo spans 2 cols
-                return (
-                  <button key={i} style={{ ...styles.chesterPhotoCard, gridColumn: isWide ? "span 2" : "span 1" }} onClick={() => onOpenPost(entry)}>
-                    {entry.images && entry.images[0]
-                      ? <img
-                          src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data}
-                          alt={entry.title}
-                          style={{ ...styles.chesterPhotoImg, height: imgH }}
-                        />
-                      : <div style={{ ...styles.chesterPhotoPlaceholder, height: imgH }}>📷</div>
-                    }
-                    <div style={{ padding: "10px 14px 14px" }}>
-                      <p style={{ fontFamily: "'Lora', serif", fontSize: 13, fontWeight: 500, margin: "0 0 2px", color: "#1c1c1c" }}>{entry.title}</p>
-                      <span style={styles.chesterPostDate}>{entry.date}</span>
-                    </div>
-                  </button>
-                );
-              })}
-            </div>
+            {/* Garden photo mosaic — 4-col dense grid, variable col+row spans */}
+            {(() => {
+              const photoGarden = [
+                { col: "span 2", row: "span 2" },
+                { col: "span 1", row: "span 1" },
+                { col: "span 1", row: "span 2" },
+                { col: "span 2", row: "span 1" },
+                { col: "span 1", row: "span 1" },
+                { col: "span 1", row: "span 1" },
+                { col: "span 2", row: "span 2" },
+                { col: "span 1", row: "span 1" },
+                { col: "span 1", row: "span 2" },
+                { col: "span 2", row: "span 1" },
+                { col: "span 1", row: "span 1" },
+                { col: "span 3", row: "span 1" },
+              ];
+              return (
+                <div style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gridAutoRows: "188px", gap: 10, gridAutoFlow: "dense" }}>
+                  {photoEntries.map((entry, i) => {
+                    const s = photoGarden[i % photoGarden.length];
+                    return (
+                      <button
+                        key={i}
+                        style={{ ...styles.chesterPhotoCard, gridColumn: s.col, gridRow: s.row, height: "100%", overflow: "hidden", display: "flex", flexDirection: "column" }}
+                        onClick={() => onOpenPost(entry)}
+                      >
+                        {entry.images && entry.images[0]
+                          ? <img
+                              src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data}
+                              alt={entry.title}
+                              style={{ ...styles.chesterPhotoImg, flex: 1, height: 0, width: "100%", objectFit: "cover" }}
+                            />
+                          : <div style={{ ...styles.chesterPhotoPlaceholder, flex: 1 }}>📷</div>
+                        }
+                        <div style={{ padding: "8px 12px 10px", flexShrink: 0, background: "#fff" }}>
+                          <p style={{ fontFamily: "'Lora', serif", fontSize: 12, fontWeight: 500, margin: "0 0 2px", color: "#1c1c1c", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{entry.title}</p>
+                          <span style={styles.chesterPostDate}>{entry.date}</span>
+                        </div>
+                      </button>
+                    );
+                  })}
+                </div>
+              );
+            })()}
           </div>
         )}
 
@@ -1030,8 +1066,11 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
         {musicEntries.length > 0 && (
           <div style={styles.chesterHobbiesSection}>
             <p style={styles.chesterSectionHeading}>🎵 {lang === "zh" ? "音乐" : "Music"}</p>
-            <div style={styles.chesterMusicGrid}>
+            {/* Garden music grid — wider cards cycle: [2,1,1,2,1,2,3,1] */}
+            <div style={{ display: "grid", gridTemplateColumns: "repeat(6, 1fr)", gap: 12, gridAutoFlow: "dense" }}>
               {musicEntries.map((entry, i) => {
+                const mGarden = [2, 1, 1, 2, 1, 3, 2, 1, 1, 2, 3, 1];
+                const mCol = mGarden[i % mGarden.length];
                 // Convert Spotify track URL → embed URL
                 // handles: open.spotify.com/track/ID, open.spotify.com/intl-xx/track/ID
                 const spotifyEmbedUrl = (() => {
@@ -1040,7 +1079,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                   return m ? `https://open.spotify.com/embed/track/${m[1]}?utm_source=generator&theme=0` : null;
                 })();
                 return (
-                  <div key={i} style={styles.chesterMusicCard}>
+                  <div key={i} style={{ ...styles.chesterMusicCard, gridColumn: `span ${mCol}` }}>
                     <div style={styles.chesterCardMeta}>
                       <span style={styles.chesterCardLabel}>{lang === "zh" ? "趣味 · 音乐" : "Fun · Music"}</span>
                       <button style={{ background: "none", border: "none", cursor: "pointer", fontSize: 13, color: "#ccc", padding: 0 }} onClick={() => onOpenPost(entry)}>→</button>
