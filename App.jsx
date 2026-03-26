@@ -21,11 +21,11 @@ const TRANSLATIONS = {
     },
     about: {
       bg: "Background",
-      bg1: "I'm a J.D. candidate at Osgoode Hall Law School (Class of 2027), thinking about how law and technology shape each other — especially as AI starts changing what lawyers actually do.",
-      bg2: "Before law school: Psychology + Jurisprudence at Tsinghua University, and legal work at a private equity firm. I've been moving between Beijing and Toronto for a while now.",
-      interests: "Outside the books",
-      int1: "Tennis, jazz (and most music, honestly), photography, reading slowly, pottery. I find that the best thinking happens away from the desk.",
-      int2: "Always glad to hear from people doing interesting things — feel free to",
+      bg1: "Fukun is a J.D. student at Osgoode Hall Law School, Class of 2027. She is interested in the intersection of law and technology, especially the rapid development of legal tech. She is also keen on investing and broader technology topics.",
+      bg2: "She graduated from Tsinghua University with a Bachelor of Science in Psychology and a Juris Master degree. She has also worked on legal matters at a private equity firm.",
+      interests: "Interests",
+      int1: "In her spare time, she enjoys tennis, listening to all kinds of music (especially jazz), photography, reading, and pottery.",
+      int2: "She is always happy to connect with people from different backgrounds, so feel free to",
       connect: "connect",
     },
     tech: {
@@ -116,11 +116,11 @@ const TRANSLATIONS = {
     },
     about: {
       bg: "背景",
-      bg1: "Osgoode Hall Law School 2027届J.D.在读，主要在想：法律和科技到底如何互相塑造——尤其是AI开始真正改变律师工作方式的现在。",
-      bg2: "法学院之前：清华大学心理学+法学，以及在私募股权机构做过一段法务。这些年在北京和多伦多之间来回。",
-      interests: "课本以外",
-      int1: "网球、爵士乐（以及大多数音乐）、摄影、慢慢读书、陶艺。好的想法通常不在书桌前产生。",
-      int2: "很喜欢认识做有意思事情的人，随时欢迎",
+      bg1: "Fukun是Osgoode Hall Law School 2027届法律博士（J.D.）在读生，专注于法律与科技的交叉领域，尤其关注法律科技的前沿发展，同时热衷于投资与通用科技议题。",
+      bg2: "她毕业于清华大学，获心理学理学学士及法律硕士学位，并曾在私募股权机构从事法务工作。",
+      interests: "兴趣爱好",
+      int1: "业余时间，她热爱网球、各类音乐（尤钟爵士乐）、摄影、阅读与陶艺。",
+      int2: "她非常乐意与来自不同背景的人交流，欢迎随时",
       connect: "联系她",
     },
     tech: {
@@ -704,7 +704,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </div>
           )}
           <div style={isNarrow ? {} : styles.gardenHeroTextCol}>
-            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 44 : 72 }}>
+            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 26 : 46 }}>
               {lang === "zh" ? <>你好,{"\n"}我是 Fukun.</> : <>Hey,{"\n"}I'm Fukun.</>}
             </h1>
             <div style={styles.gardenHeroDash} />
@@ -827,8 +827,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     return (
       <div style={styles.chesterPage}>
         <div style={{ borderLeft: "3px solid #C8A96E", paddingLeft: 16, margin: "0 0 32px" }}>
-          <p style={{ fontFamily: "'Cormorant Garamond', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 4px" }}>
-            {lang === "zh" ? "我用AI搭建的一些小工具。" : "Tools I've built — mostly to make legal work less painful."}
+          <p style={{ fontFamily: "'Stroma', serif", fontStyle: "italic", fontSize: 22, fontWeight: 700, color: "#2B5054", margin: "0 0 4px" }}>
+            {lang === "zh" ? "创造是人类的本性。" : "Creating is a human nature."}
           </p>
         </div>
         <div style={styles.chesterGrid}>
@@ -838,16 +838,89 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                 <span style={styles.chesterCardLabel}>{tool.label}</span>
                 <span style={styles.chesterCardArrowIcon}>↗</span>
               </div>
-              <div style={{ ...styles.chesterToolPreview, background: tool.grad }}>
-                <span style={styles.chesterToolEmoji}>{tool.emoji}</span>
-                <div>
-                  <p style={styles.chesterToolTagline}>{tool.tagline}</p>
-                  <span style={styles.chesterToolLiveBadge}>{lang === "zh" ? "已上线" : "Live"}</span>
+
+              {/* ── Housekeeper UI mockup ── */}
+              {tool.id === "housekeeper" && (
+                <div style={{ height: 200, background: "#f0f2f5", overflow: "hidden", userSelect: "none" }}>
+                  {/* Navy header */}
+                  <div style={{ background: "#1e2d4a", padding: "7px 14px", display: "flex", alignItems: "center", justifyContent: "space-between" }}>
+                    <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+                      <div style={{ width: 24, height: 24, background: "#C8A96E", borderRadius: 5, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 12 }}>⚖️</div>
+                      <div>
+                        <div style={{ color: "#fff", fontSize: 11, fontWeight: 700, lineHeight: 1.2, fontFamily: "sans-serif" }}>Housekeeper</div>
+                        <div style={{ color: "rgba(255,255,255,0.45)", fontSize: 7.5, fontFamily: "sans-serif" }}>Landlord and Tenant Board — Hearing Preparation Tool</div>
+                      </div>
+                    </div>
+                    <div style={{ display: "flex", gap: 5 }}>
+                      {["About","Contact"].map(b => <div key={b} style={{ border: "1px solid rgba(255,255,255,0.3)", borderRadius: 12, padding: "2px 7px", color: "rgba(255,255,255,0.8)", fontSize: 7.5, fontFamily: "sans-serif" }}>{b}</div>)}
+                    </div>
+                  </div>
+                  {/* Step bar */}
+                  <div style={{ background: "#fff", borderBottom: "2px solid #e8e8e8", padding: "6px 14px", display: "flex", gap: 18, alignItems: "center" }}>
+                    {[["1","Case Information",true],["2","Upload Files",false],["3","Arrange Tabs",false],["4","Review & Generate",false]].map(([n,s,active]) => (
+                      <div key={n} style={{ display: "flex", alignItems: "center", gap: 4, borderBottom: active ? "2px solid #C8A96E" : "2px solid transparent", paddingBottom: 3 }}>
+                        <div style={{ width: 14, height: 14, borderRadius: "50%", background: active ? "#1e2d4a" : "#cdd2db", display: "flex", alignItems: "center", justifyContent: "center" }}>
+                          <span style={{ color: "#fff", fontSize: 7, fontWeight: 700 }}>{n}</span>
+                        </div>
+                        <span style={{ fontSize: 8, color: active ? "#1e2d4a" : "#9aa0ab", fontWeight: active ? 700 : 400, fontFamily: "sans-serif" }}>{s}</span>
+                      </div>
+                    ))}
+                  </div>
+                  {/* Content area */}
+                  <div style={{ padding: "8px 12px" }}>
+                    <div style={{ background: "#fff", borderRadius: 6, padding: "8px 10px", border: "1px solid #e5e7eb" }}>
+                      <div style={{ fontFamily: "sans-serif", fontSize: 10, fontWeight: 700, color: "#1e2d4a", marginBottom: 5 }}>Case Information</div>
+                      <div style={{ background: "#eef2f8", borderRadius: 4, padding: "6px 8px", marginBottom: 5, borderLeft: "3px solid #4a6fa5" }}>
+                        <div style={{ fontSize: 8, fontWeight: 600, color: "#4a6fa5", fontFamily: "sans-serif", marginBottom: 3 }}>ℹ What is an Evidence Brief?</div>
+                        <div style={{ width: "95%", height: 4, background: "#c8d3e8", borderRadius: 2, marginBottom: 2 }} />
+                        <div style={{ width: "80%", height: 4, background: "#c8d3e8", borderRadius: 2 }} />
+                      </div>
+                      <div style={{ display: "flex", alignItems: "center", gap: 6 }}>
+                        <div style={{ width: 22, height: 22, background: "#f5f5f5", borderRadius: "50%", fontSize: 13, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>🐭</div>
+                        <div style={{ background: "#e8edf5", borderRadius: 10, padding: "4px 8px", flex: 1 }}>
+                          <div style={{ fontSize: 7.5, color: "#4a5568", fontFamily: "sans-serif" }}>Hi, I'm Alex the Mouse! Enter the party and file details...</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
-              </div>
+              )}
+
+              {/* ── Auto News Radar UI mockup ── */}
+              {tool.id === "radar" && (
+                <div style={{ height: 200, background: "#0d1824", overflow: "hidden", userSelect: "none" }}>
+                  {/* Header */}
+                  <div style={{ background: "#152030", padding: "7px 14px", borderBottom: "1px solid rgba(255,255,255,0.07)", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+                    <div style={{ color: "#fff", fontSize: 11, fontWeight: 700, fontFamily: "sans-serif" }}>📡 Auto News Radar</div>
+                    <div style={{ display: "flex", gap: 4 }}>
+                      {[["NA",true],["CN",false]].map(([t,active]) => (
+                        <div key={t} style={{ background: active ? "#2B5054" : "transparent", border: "1px solid rgba(255,255,255,0.2)", borderRadius: 3, padding: "2px 7px", color: active ? "#fff" : "rgba(255,255,255,0.5)", fontSize: 8, fontFamily: "sans-serif" }}>{t}</div>
+                      ))}
+                    </div>
+                  </div>
+                  {/* Category tabs */}
+                  <div style={{ background: "#1a2a3a", padding: "4px 10px", display: "flex", gap: 8, borderBottom: "1px solid rgba(255,255,255,0.05)" }}>
+                    {[["Tools","#2B5054",true],["Skills","#35666a",false],["Articles","#7a5c42",false],["Updates","#5a6b8a",false]].map(([t,c,active]) => (
+                      <div key={t} style={{ fontSize: 7.5, color: active ? c : "rgba(255,255,255,0.35)", fontWeight: active ? 700 : 400, fontFamily: "sans-serif", borderBottom: active ? `2px solid ${c}` : "2px solid transparent", paddingBottom: 2 }}>{t}</div>
+                    ))}
+                  </div>
+                  {/* News items */}
+                  <div style={{ padding: "6px 10px", display: "flex", flexDirection: "column", gap: 4 }}>
+                    {[["#2B5054","85%"],["#2B5054","70%"],["#35666a","90%"],["#7a5c42","65%"],["#5a6b8a","78%"]].map(([c,w],i) => (
+                      <div key={i} style={{ background: "rgba(255,255,255,0.035)", borderRadius: 4, padding: "5px 8px", display: "flex", alignItems: "center", gap: 8, borderLeft: `2px solid ${c}` }}>
+                        <div style={{ width: 28, height: 4, background: c, opacity: 0.7, borderRadius: 2, flexShrink: 0 }} />
+                        <div style={{ height: 4, background: "rgba(255,255,255,0.12)", borderRadius: 2, width: w, flex: 1 }} />
+                        <div style={{ width: 20, height: 14, background: "rgba(255,255,255,0.07)", borderRadius: 2, flexShrink: 0 }} />
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
               <div style={styles.chesterCardBody}>
                 <h3 style={styles.chesterToolTitle}>{tool.name}</h3>
                 <p style={styles.chesterToolDesc}>{tool.desc}</p>
+                <span style={{ ...styles.chesterToolLiveBadge, background: "#2B5054", color: "#fff", display: "inline-block", marginTop: 10, padding: "3px 10px", borderRadius: 20, fontSize: 10 }}>{lang === "zh" ? "已上线" : "Live"}</span>
               </div>
             </a>
           ))}
@@ -866,8 +939,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     return (
       <div style={styles.chesterPage}>
         <div style={{ borderLeft: "3px solid #C8A96E", paddingLeft: 16, margin: "0 0 32px" }}>
-          <p style={{ fontFamily: "'Cormorant Garamond', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 4px" }}>
-            {lang === "zh" ? "法律、科技，以及我正在摸索的一切。" : "Law, technology, and everything I'm still figuring out."}
+          <p style={{ fontFamily: "'Stroma', serif", fontStyle: "italic", fontSize: 22, fontWeight: 700, color: "#2B5054", margin: "0 0 4px" }}>
+            {lang === "zh" ? "法律、科技，以及一切在之间的事。" : "Law, technology, and everything in between."}
           </p>
         </div>
         {entries.length === 0 ? (
@@ -918,6 +991,11 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     const musicEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "music");
     return (
       <div style={styles.chesterPage}>
+        <div style={{ borderLeft: "3px solid #C8A96E", paddingLeft: 16, margin: "0 0 32px" }}>
+          <p style={{ fontFamily: "'Stroma', serif", fontStyle: "italic", fontSize: 22, fontWeight: 700, color: "#2B5054", margin: "0 0 4px" }}>
+            {lang === "zh" ? "生来就是要快乐的。" : "I'm born to have fun."}
+          </p>
+        </div>
         {/* Photos */}
         {photoEntries.length > 0 && (
           <div style={styles.chesterHobbiesSection}>
@@ -3344,13 +3422,13 @@ const styles = {
     zIndex: 1,
   },
   gardenHeroHeading: {
-    fontFamily: "'Playfair Display', serif",
-    fontSize: 72,
-    fontWeight: 600,
+    fontFamily: "'Fascinate', cursive",
+    fontSize: 46,
+    fontWeight: 400,
     fontStyle: "normal",
     color: "#faf7f3",
-    letterSpacing: "-0.5px",
-    lineHeight: 1.08,
+    letterSpacing: "4px",
+    lineHeight: 1.2,
     margin: "0 0 28px",
     whiteSpace: "pre-line",
   },
