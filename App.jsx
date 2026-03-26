@@ -518,8 +518,6 @@ function App() {
           {/* Right: links + lang (desktop) / hamburger (mobile) */}
           {!isMobile ? (
             <div style={styles.headerRight}>
-              <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" className="hdr-link" style={styles.headerRightLink}>LinkedIn</a>
-              <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" className="hdr-link" style={styles.headerRightLink}>GitHub</a>
               <button style={styles.langToggleNew} onClick={() => setLang(lang === "en" ? "zh" : "en")}>
                 {T.langToggle}
               </button>
@@ -754,27 +752,10 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             <p style={styles.aboutText}>{T.about.bg1}</p>
             <p style={{ ...styles.aboutText, marginBottom: 28 }}>{T.about.bg2}</p>
             <p style={styles.aboutText}>{T.about.int1}</p>
-            <p style={{ ...styles.aboutText, marginBottom: 36 }}>
+            <p style={{ ...styles.aboutText, marginBottom: 0 }}>
               {T.about.int2}{' '}
               <span className="about-connect-sp" style={styles.aboutConnectLink} onClick={scrollToConnect}>{T.about.connect}</span>!
             </p>
-            {/* Connect */}
-            <div id="hub-connect" style={{ marginTop: 4 }}>
-              <p style={{ fontFamily: "'DM Serif Display', serif", fontStyle: "italic", fontSize: 20, color: "#2B5054", margin: "0 0 14px" }}>
-                {lang === "zh" ? "欢迎联系~" : "Let's connect!"}
-              </p>
-              <div style={styles.hubConnectLinks}>
-                <a href="mailto:frikasong@gmail.com" className="hub-link" style={styles.hubConnectLink}>{T.contact.email}</a>
-                <span style={styles.hubConnectDot}>·</span>
-                <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.linkedin}</a>
-                <span style={styles.hubConnectDot}>·</span>
-                <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.instagram}</a>
-                <span style={styles.hubConnectDot}>·</span>
-                <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.github}</a>
-                <span style={styles.hubConnectDot}>·</span>
-                <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.rednote}</a>
-              </div>
-            </div>
           </div>
 
           {/* Right: bento grid — first card is featured (full-width) */}
@@ -809,6 +790,25 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
           </div>
 
         </div>
+
+        {/* ── Let's connect — bottom of page ── */}
+        <div id="hub-connect" style={{ marginTop: 64, paddingTop: 40, borderTop: "1px solid rgba(43,80,84,0.1)" }}>
+          <p style={{ fontFamily: "'DM Serif Display', serif", fontStyle: "italic", fontSize: 22, color: "#2B5054", margin: "0 0 16px" }}>
+            {lang === "zh" ? "欢迎联系~" : "Let's connect!"}
+          </p>
+          <div style={styles.hubConnectLinks}>
+            <a href="mailto:frikasong@gmail.com" className="hub-link" style={styles.hubConnectLink}>{T.contact.email}</a>
+            <span style={styles.hubConnectDot}>·</span>
+            <a href="https://github.com/Frikasong" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.github}</a>
+            <span style={styles.hubConnectDot}>·</span>
+            <a href="https://www.linkedin.com/in/fukun-y-7753a5176/" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.linkedin}</a>
+            <span style={styles.hubConnectDot}>·</span>
+            <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.instagram}</a>
+            <span style={styles.hubConnectDot}>·</span>
+            <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.rednote}</a>
+          </div>
+        </div>
+
       </div>
     );
   }
