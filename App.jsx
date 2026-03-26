@@ -704,12 +704,13 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </div>
           )}
           <div style={isNarrow ? {} : styles.gardenHeroTextCol}>
-            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 48 : 82 }}>
+            <h1 style={{ ...styles.gardenHeroHeading, fontSize: isNarrow ? 28 : 48 }}>
               {lang === "zh" ? <>你好,{"\n"}我是 Fukun.</> : <>Hey,{"\n"}I'm Fukun.</>}
             </h1>
             <div style={styles.gardenHeroDash} />
             <p style={styles.gardenHeroSub}>
-              welcome to my domain 欢迎来到我的飞鸿雪泥
+              welcome to my domain{" "}
+              <span style={{ fontFamily: "'Zhi Mang Xing', cursive", fontSize: 20, letterSpacing: "1px" }}>欢迎来到我的飞鸿雪泥</span>
             </p>
           </div>
         </div>
@@ -2342,10 +2343,10 @@ const styles = {
     opacity: 0.8,
   },
   sectionTitle: {
-    fontFamily: "'Cormorant Garamond', serif",
-    fontSize: "clamp(28px, 4vw, 46px)",
-    fontWeight: 400,
-    fontStyle: "italic",
+    fontFamily: "'Lora', serif",
+    fontSize: "clamp(22px, 3vw, 34px)",
+    fontWeight: 500,
+    fontStyle: "normal",
     margin: 0,
     color: "#2B5054",
     letterSpacing: "-0.3px",
@@ -3320,13 +3321,13 @@ const styles = {
     zIndex: 1,
   },
   gardenHeroHeading: {
-    fontFamily: "'Cormorant Garamond', serif",
-    fontSize: 82,
-    fontWeight: 500,
-    fontStyle: "italic",
+    fontFamily: "'Fascinate', cursive",
+    fontSize: 48,
+    fontWeight: 400,
+    fontStyle: "normal",
     color: "#faf7f3",
-    letterSpacing: "-1.5px",
-    lineHeight: 1.02,
+    letterSpacing: "6px",
+    lineHeight: 1.18,
     margin: "0 0 28px",
     whiteSpace: "pre-line",
   },
@@ -3545,9 +3546,9 @@ const styles = {
     flex: 1,
   },
   chesterToolTitle: {
-    fontFamily: "'Cormorant Garamond', serif",
-    fontSize: 24,
-    fontWeight: 400,
+    fontFamily: "'Lora', serif",
+    fontSize: 20,
+    fontWeight: 500,
     color: "#1c1c1c",
     margin: "0 0 8px",
     letterSpacing: "-0.2px",
@@ -3605,9 +3606,9 @@ const styles = {
     marginBottom: 52,
   },
   chesterSectionHeading: {
-    fontFamily: "'Cormorant Garamond', serif",
-    fontSize: 28,
-    fontWeight: 400,
+    fontFamily: "'Lora', serif",
+    fontSize: 22,
+    fontWeight: 500,
     fontStyle: "italic",
     color: "#2B5054",
     margin: "0 0 18px",
@@ -3819,7 +3820,7 @@ const styles = {
 // ═══════════════════════════════════════════════════════════════════════════
 (function () {
   const link = document.createElement("link");
-  link.href = "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=Public+Sans:wght@400;500;600;700&family=Limelight&family=Fascinate&family=Fascinate+Inline&display=swap";
+  link.href = "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=Public+Sans:wght@400;500;600;700&family=Fascinate&family=Zhi+Mang+Xing&display=swap";
   link.rel = "stylesheet";
   document.head.appendChild(link);
 
