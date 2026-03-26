@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T18:52:42.494Z",
+  "generatedAt": "2026-03-26T18:55:41.661Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,102 +8,262 @@
   "panels": {
     "na": [
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
-        "title": "Federal judges speak out about threats becoming &#8216;ordinary&#8217;",
-        "url": "https://www.abajournal.com/news/article/federal&#45;judges&#45;speak&#45;out&#45;about&#45;threats&#45;becoming&#45;ordinary/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "LawSites:www.lawnext.com/2026/03/ai-that-listens-like-a-lawyer-a-side-by-side-comparison-of-general-ai-notetakers-and-legal-conversational-intelligence.html",
+        "title": "AI That Listens Like a Lawyer: A Side-by-Side Comparison of General AI Notetakers and Legal Conversational Intelligence",
+        "url": "https://www.lawnext.com/2026/03/ai-that-listens-like-a-lawyer-a-side-by-side-comparison-of-general-ai-notetakers-and-legal-conversational-intelligence.html",
+        "source": "LawSites",
+        "publishedAt": "2026-03-26T18:15:49.000Z",
+        "summary": "AI That Listens Like a Lawyer: Courts Are Exposing the Gap Between What AI Notetakers Promise and What Their Contracts Permit. Purpose-Built Legal Conversational Intelligence™ Tools, Such as Querious®, Offer Attorneys a ",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/jordon&",
+        "title": "In ABA Techshow keynote, Jordan Furlong says lawyers need to level up to survive in post-AI world",
+        "url": "https://www.abajournal.com/web/article/jordon&#45;furlong&#45;lays&#45;out&#45;plan&#45;for&#45;lawyering&#45;in&#45;post&#45;ai&#45;world/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-03-20T19:32:00.000Z",
+        "publishedAt": "2026-03-26T16:27:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/california&",
-        "title": "Lawyer among 3 people charged in alleged attack on 2 Jewish men",
-        "url": "https://www.abajournal.com/news/article/california&#45;lawyer&#45;charged&#45;in&#45;attack&#45;on&#45;two&#45;jewish&#45;men/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "ABA Journal:www.abajournal.com/news/article/where&",
+        "title": "Where can 1Ls get five-figure signing bonuses?",
+        "url": "https://www.abajournal.com/news/article/where&#45;can&#45;1ls&#45;get&#45;five&#45;figure&#45;signing&#45;bonuses/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-03-20T19:06:00.000Z",
+        "publishedAt": "2026-03-26T15:47:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/the&",
-        "title": "The Burton Book Review: &#8216;Lawless&#8217; by Leah Litman",
-        "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;lawless&#45;by&#45;leah&#45;litman/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "ABA Journal:www.abajournal.com/web/article/children&",
+        "title": "Children&#8217;s futures at stake in Supreme Court birthright citizen case",
+        "url": "https://www.abajournal.com/web/article/children&#45;future&#45;at&#45;stake&#45;in&#45;supreme&#45;court&#45;birthright&#45;citizen&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-03-20T18:18:00.000Z",
+        "publishedAt": "2026-03-26T15:24:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/fake&",
-        "title": "Fake lawyer who used real bar number to practice law pleads guilty",
-        "url": "https://www.abajournal.com/news/article/fake&#45;lawyer&#45;uses&#45;real&#45;bar&#45;number&#45;to&#45;practice/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "ABA Journal:www.abajournal.com/news/article/law&",
+        "title": "Law firms see more cyberattacks, ransomware threats, new report says",
+        "url": "https://www.abajournal.com/news/article/law&#45;firms&#45;see&#45;more&#45;cyberattacks&#45;ransomware&#45;threats&#45;report&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-03-20T17:31:00.000Z",
+        "publishedAt": "2026-03-26T15:17:00.000Z",
         "summary": "",
-        "category": "updates",
+        "category": "articles",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/statement&",
-        "title": "Statement of ABA President Michelle A. Behnke Re: Protecting the judiciary from personal attacks",
-        "url": "https://www.abajournal.com/news/article/statement&#45;of&#45;aba&#45;president&#45;michelle&#45;a&#45;behnke&#45;re&#45;protecting&#45;the&#45;judiciary&#45;from&#45;personal&#45;attacks/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-20T16:09:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/20/claude-legal-prompt-shock-legalon-gpt-5-4-review-legal-innovators",
-        "title": "Claude Legal Prompt Shock, LegalOn GPT 5.4 Review, Legal Innovators +",
-        "url": "https://www.artificiallawyer.com/2026/03/20/claude-legal-prompt-shock-legalon-gpt-5-4-review-legal-innovators/",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/26/ai-first-keith-bags-2m-for-property-work",
+        "title": "AI-First &#8216;Keith&#8217; Bags £2m For Property Work",
+        "url": "https://www.artificiallawyer.com/2026/03/26/ai-first-keith-bags-2m-for-property-work/",
         "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-20T08:26:12.000Z",
-        "summary": "We start this week’s Wrap with a real shocker! A chap on Twitter named Nav Toor, (see images), published 12 quite detailed legal prompts for ...",
-        "category": "skills",
+        "publishedAt": "2026-03-26T14:47:11.000Z",
+        "summary": "There is another NewMod, AI-first &#8216;law firm&#8217; in town. In this case it’s called Keith and will focus on residential property sales in the UK, ...",
+        "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/milwaukees&",
-        "title": "AG Bondi gives ousted interim federal prosecutor new title, same duties",
-        "url": "https://www.abajournal.com/news/article/milwaukees&#45;ousted&#45;us&#45;attorney&#45;general&#45;gets&#45;new&#45;title&#45;same&#45;duties/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "ABA Journal:www.abajournal.com/news/article/big&",
+        "title": "BigLaw&#8217;s share of litigation funding dropped in 2025",
+        "url": "https://www.abajournal.com/news/article/big&#45;laws&#45;share&#45;of&#45;the&#45;litigation&#45;funding&#45;drops&#45;in&#45;2025/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-03-19T19:56:00.000Z",
+        "publishedAt": "2026-03-26T14:38:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/jury&",
-        "title": "Jury rules for Afroman in case over &#8216;Lemon Pound Cake&#8217; video that used home raid surveillance footage",
-        "url": "https://www.abajournal.com/news/article/jury&#45;rules&#45;for&#45;afroman&#45;case&#45;over&#45;lemon&#45;pound&#45;cake&#45;video/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/26/steno-raises-49m-hits-150m-total-funding",
+        "title": "Steno Raises $49m, Hits $150m Total Funding",
+        "url": "https://www.artificiallawyer.com/2026/03/26/steno-raises-49m-hits-150m-total-funding/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-26T13:00:03.000Z",
+        "summary": "Steno, the court reporting and litigation support company, has raised $49m in an all equity C round, following $46m raised in 2024. The round was ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/tool&",
+        "title": "AI-powered bill collector program takes top spot at ABA Techshow&#8217;s Startup Alley",
+        "url": "https://www.abajournal.com/web/article/tool&#45;that&#45;gets&#45;lawyers&#45;paid&#45;takes&#45;top&#45;spot&#45;at&#45;techshows&#45;startup&#45;alley/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-03-19T18:49:00.000Z",
+        "publishedAt": "2026-03-26T12:05:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/kirkland&",
-        "title": "Kirkland holds steady as world’s highest-grossing firm",
-        "url": "https://www.abajournal.com/news/article/kirkland&#45;holds&#45;steady&#45;as&#45;worlds&#45;highest&#45;grossing&#45;firm/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/26/legora-partners-with-jus-mundi-for-arbitration-needs",
+        "title": "Legora Partners With Jus Mundi For Arbitration Needs",
+        "url": "https://www.artificiallawyer.com/2026/03/26/legora-partners-with-jus-mundi-for-arbitration-needs/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-26T09:23:16.000Z",
+        "summary": "Jus Mundi and Legora have formed a partnership that will integrate the Jus AI tool within the wider genAI platform to help with international arbitration ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/26/newmod-general-legal-hits-11-5m-funding-in-3-months",
+        "title": "NewMod General Legal Hits $11.5m Funding in 3 Months",
+        "url": "https://www.artificiallawyer.com/2026/03/26/newmod-general-legal-hits-11-5m-funding-in-3-months/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-26T08:12:14.000Z",
+        "summary": "NewMod, AI-native law firm General Legal has announced it has hit $11.5m in Seed and pre-Seed funding since launching officially just three months ago. Co-founder, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/georgia&",
+        "title": "Woman faces murder charge after allegedly taking abortion medication",
+        "url": "https://www.abajournal.com/news/article/georgia&#45;woman&#45;faces&#45;murder&#45;charge&#45;after&#45;taking&#45;abortion&#45;medication/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-03-19T16:56:00.000Z",
+        "publishedAt": "2026-03-25T20:17:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/fail&",
-        "title": "Fail the bar exam? Retake might be an entirely different test",
-        "url": "https://www.abajournal.com/web/article/fail&#45;the&#45;bar&#45;exam&#45;retake&#45;might&#45;be&#45;an&#45;entirely&#45;different&#45;test/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "ABA Journal:www.abajournal.com/web/article/coming&",
+        "title": "Coming to the Bridge and Crossing It: At annual event remembering Bloody Sunday, lawyers share stories",
+        "url": "https://www.abajournal.com/web/article/coming&#45;to&#45;the&#45;bridge&#45;and&#45;crossing&#45;it/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-03-19T16:31:00.000Z",
+        "publishedAt": "2026-03-25T19:41:00.000Z",
         "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
+        "title": "DOJ guts program helping immigrants receive affordable legal representation",
+        "url": "https://www.abajournal.com/news/article/doj&#45;guts&#45;program&#45;helping&#45;indigent&#45;immigrants&#45;with&#45;affordable&#45;legal&#45;representation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-25T19:02:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/1&",
+        "title": "1 in 3 GCs who left Fortune 500 companies were in role less than 3 years, new report says",
+        "url": "https://www.abajournal.com/news/article/1&#45;in&#45;3&#45;gcs&#45;leaving&#45;fortune&#45;500&#45;companies&#45;were&#45;in&#45;role&#45;less&#45;than&#45;3&#45;years&#45;report&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-25T14:42:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/03/exclusive-smokeball-and-thomson-reuters-partner-to-integrate-cocounsel-legal-ai-with-practice-management-platform.html",
+        "title": "Exclusive: Smokeball and Thomson Reuters Partner to Integrate CoCounsel Legal AI with Practice Management Platform",
+        "url": "https://www.lawnext.com/2026/03/exclusive-smokeball-and-thomson-reuters-partner-to-integrate-cocounsel-legal-ai-with-practice-management-platform.html",
+        "source": "LawSites",
+        "publishedAt": "2026-03-25T14:00:43.000Z",
+        "summary": "Smokeball, the cloud-based practice management platform serving small to mid-sized law firms, and Thomson Reuters announced a strategic partnership today that will embed Thomson Reuters&#8217; CoCounsel Legal AI into Smo",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/03/legal-industry-reaches-ai-tipping-point-majority-of-lawyers-now-using-gen-ai-despite-persistent-reliability-concerns.html",
+        "title": "Legal Industry Reaches AI Tipping Point: Majority of Lawyers Now Using Gen AI Despite Persistent Reliability Concerns",
+        "url": "https://www.lawnext.com/2026/03/legal-industry-reaches-ai-tipping-point-majority-of-lawyers-now-using-gen-ai-despite-persistent-reliability-concerns.html",
+        "source": "LawSites",
+        "publishedAt": "2026-03-25T13:00:50.000Z",
+        "summary": "The legal profession crossed a significant threshold in 2025: For the first time, more lawyers are using generative AI than not, even as firm leaders express widespread concern about the technology&#8217;s reliability, a",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/24/eudia-launches-expert-digital-twins-partners-with-servicenow",
+        "title": "Eudia Launches Expert Digital Twins, Partners With ServiceNow",
+        "url": "https://www.artificiallawyer.com/2026/03/24/eudia-launches-expert-digital-twins-partners-with-servicenow/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-24T17:45:00.000Z",
+        "summary": "Eudia has launched what it’s calling Expert Digital Twins, which are ‘governed replicas of how an organization’s best subject matter experts make decisions, [then] deployed ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/24/newmod-soxton-acquires-cipher-security-company",
+        "title": "NewMod Soxton Acquires Cipher Security Company",
+        "url": "https://www.artificiallawyer.com/2026/03/24/newmod-soxton-acquires-cipher-security-company/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-24T13:00:00.000Z",
+        "summary": "Soxton, an AI-powered, NewMod law firm focused on startups, has acquired Cipher, a security company designed for agentic applications. The move provides ‘advanced protection for ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/03/centerbase-launches-native-ndmax-integration-connecting-practice-management-to-ai-powered-document-workflows.html",
+        "title": "Centerbase Launches Native ndMAX Integration, Connecting Practice Management to AI-Powered Document Workflows",
+        "url": "https://www.lawnext.com/2026/03/centerbase-launches-native-ndmax-integration-connecting-practice-management-to-ai-powered-document-workflows.html",
+        "source": "LawSites",
+        "publishedAt": "2026-03-24T12:30:20.000Z",
+        "summary": "Centerbase, a practice management platform for midsized law firms, is announcing today an enhanced native integration with NetDocuments that makes it the first practice management platform to natively connect matter data",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/24/thomson-is-coming-trs-own-legally-trained-llm",
+        "title": "Thomson Is Coming, TR’s Own Legally-Trained LLM",
+        "url": "https://www.artificiallawyer.com/2026/03/24/thomson-is-coming-trs-own-legally-trained-llm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-24T07:40:00.000Z",
+        "summary": "Thomson Reuters (TR) is getting ready to launch ‘Thomson’ its own legally-trained LLM this summer, built using opensource models, their huge data store, and its ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/23/relativity-confirms-ipo-but-is-this-a-good-time",
+        "title": "Relativity Confirms Proposed IPO Registration, But Is This A Good Time?",
+        "url": "https://www.artificiallawyer.com/2026/03/23/relativity-confirms-ipo-but-is-this-a-good-time/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-23T15:55:11.000Z",
+        "summary": "eDiscovery pioneer Relativity has confirmed that it has &#8216;confidentially submitted a draft registration statement on Form S-1 to the Securities and Exchange Commission relating to ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/23/pointone-raises-16m-10xs-revenue",
+        "title": "PointOne Raises $16m, 10Xs Revenue",
+        "url": "https://www.artificiallawyer.com/2026/03/23/pointone-raises-16m-10xs-revenue/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-23T15:25:32.000Z",
+        "summary": "PointOne, the time entry startup, has raised a $16m Series A, led by 8VC, with continued participation from Bessemer Venture Partners, General Catalyst, and Y ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/03/how-two-litigators-spent-five-years-in-stealth-building-what-they-say-is-the-most-comprehensive-litigation-platform-on-the-market.html",
+        "title": "How Two Litigators Spent Five Years in Stealth Building What They Say Is the Most Comprehensive Litigation Platform on the Market",
+        "url": "https://www.lawnext.com/2026/03/how-two-litigators-spent-five-years-in-stealth-building-what-they-say-is-the-most-comprehensive-litigation-platform-on-the-market.html",
+        "source": "LawSites",
+        "publishedAt": "2026-03-23T14:11:30.000Z",
+        "summary": "At the recent Legalweek conference in New York, I sat down with the cofounders of Syllo, a legal technology company that has taken a uniquely ambitious approach to developing technology for litigators. Rather than focus ",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/23/harvey-hires-gibson-dunn-partner-as-cso",
+        "title": "Harvey Hires Gibson Dunn Partner As CSO",
+        "url": "https://www.artificiallawyer.com/2026/03/23/harvey-hires-gibson-dunn-partner-as-cso/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-23T13:15:03.000Z",
+        "summary": "Harvey has hired Keith Enright, most recently a partner at Gibson Dunn &#38; Crutcher, and previously Chief Privacy Officer at Google, to be its Chief ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/03/data-intelligence-company-relativity-confidentially-files-for-ipo-would-be-first-in-legal-tech-since-2021.html",
+        "title": "Data Intelligence Company Relativity Confidentially Files for IPO; Would Be First In Legal Tech Since 2021",
+        "url": "https://www.lawnext.com/2026/03/data-intelligence-company-relativity-confidentially-files-for-ipo-would-be-first-in-legal-tech-since-2021.html",
+        "source": "LawSites",
+        "publishedAt": "2026-03-23T12:40:14.000Z",
+        "summary": "The legal data intelligence company Relativity says it has confidentially submitted a draft registration statement with the U.S. Securities and Exchange Commission for a proposed initial public offering of its Class A co",
         "category": "updates",
         "region": "na"
       },
@@ -115,36 +275,6 @@
         "publishedAt": "2026-03-19T15:22:44.000Z",
         "summary": "For the final installment of our LawNext on Location series, all recorded during my trip to San Francisco, I head across the bay to Oakland, to the headquarters of e-discovery company Everlaw, where I sit down with found",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/19/eve-webinar-3x-attorney-capacity-with-eve-ai-agents",
-        "title": "Eve Webinar: 3x Attorney Capacity with Eve AI Agents",
-        "url": "https://www.artificiallawyer.com/2026/03/19/eve-webinar-3x-attorney-capacity-with-eve-ai-agents/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-19T10:07:19.000Z",
-        "summary": "Eve Webinar: &#8216;3x Attorney Capacity with Eve AI Agents&#8217;. &#8216;How fast would your firm grow if your attorneys never took a break and could work ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/19/kim-launches-enterprise-ai-execution-layer",
-        "title": "Kim Launches Enterprise AI Execution Layer",
-        "url": "https://www.artificiallawyer.com/2026/03/19/kim-launches-enterprise-ai-execution-layer/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-19T09:42:25.000Z",
-        "summary": "Kim, the company created by legal tech and ALSP pioneer Karl Chapman, has launched an execution layer for enterprises that ‘translates AI-generated requests into deterministic ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/19/bird-bird-lawyer-creates-buntool-free-legal-bundle-maker",
-        "title": "Bird &#038; Bird Lawyer Creates BunTool, Free Legal Bundle Maker",
-        "url": "https://www.artificiallawyer.com/2026/03/19/bird-bird-lawyer-creates-buntool-free-legal-bundle-maker/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-19T07:55:57.000Z",
-        "summary": "Bird &#38; Bird lawyer, Tristan Sherliker, has launched BunTool, which makes PDF bundles for court and other legal settings. The product is free, works off ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -168,36 +298,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/18/see-you-in-paris-legal-innovators-breakfast-march-25",
-        "title": "See You in Paris! Legal Innovators Breakfast – March 25",
-        "url": "https://www.artificiallawyer.com/2026/03/18/see-you-in-paris-legal-innovators-breakfast-march-25/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-18T09:40:24.000Z",
-        "summary": "Paris in the Spring. Some legal tech. Some legal innovators. And an amazing breakfast at one of the most famous restaurants in the City of ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/18/the-two-sources-of-legal-intelligence-market-data-and-firm-experience",
-        "title": "The Two Sources of Legal Intelligence: Market Data and Firm Experience",
-        "url": "https://www.artificiallawyer.com/2026/03/18/the-two-sources-of-legal-intelligence-market-data-and-firm-experience/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-18T08:42:17.000Z",
-        "summary": "By Will Seaton, Chief Customer Officer, Draftwise. Every lawyer can now analyze the market in seconds. Legal AI surfaces external trends, case law patterns, and ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/18/product-walk-through-translegal",
-        "title": "Product Walk Through: TransLegal",
-        "url": "https://www.artificiallawyer.com/2026/03/18/product-walk-through-translegal/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-18T07:41:56.000Z",
-        "summary": "This week’s AL TV Product Walk Through is with TransLegal, a pioneering multi-language translator designed specifically for the complexities of cross-border legal work. Taking us ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/03/pro-bono-net-the-a2j-technology-pioneer-rebrands-as-scale-justice-to-reflect-its-evolving-mission.html",
         "title": "Pro Bono Net, the A2J Technology Pioneer, Rebrands As &#8216;Scale Justice&#8217; to Reflect Its Evolving Mission",
         "url": "https://www.lawnext.com/2026/03/pro-bono-net-the-a2j-technology-pioneer-rebrands-as-scale-justice-to-reflect-its-evolving-mission.html",
@@ -218,56 +318,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/17/will-anthropics-claude-partner-network-impact-legal-tech",
-        "title": "Will Anthropic’s Claude Partner Network Impact Legal Tech?",
-        "url": "https://www.artificiallawyer.com/2026/03/17/will-anthropics-claude-partner-network-impact-legal-tech/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-17T10:56:21.000Z",
-        "summary": "Anthropic has launched a new ‘Claude Partner Network’, a program designed to help enterprises adopt Claude, which includes $100m in funding to help those AI ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/17/newcode-raises-6-5m-maged-helmy-interview",
-        "title": "Newcode Raises $6.5m + Maged Helmy Interview",
-        "url": "https://www.artificiallawyer.com/2026/03/17/newcode-raises-6-5m-maged-helmy-interview/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-17T10:31:26.000Z",
-        "summary": "Norway-based legal AI platform Newcode has raised $6.5m, with a range of law firms as well as The Legal Tech Fund and Alliance VC taking ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/17/legal-ai-vendors-go-extreme-low-ball-for-market-supremacy",
-        "title": "Legal AI Vendors Go Extreme Low-Ball For Market Supremacy",
-        "url": "https://www.artificiallawyer.com/2026/03/17/legal-ai-vendors-go-extreme-low-ball-for-market-supremacy/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-17T08:24:30.000Z",
-        "summary": "Legal AI companies are resorting to ‘brutal’ low-ball tactics in order to win customers as the battle for market share becomes increasingly intense, Artificial Lawyer ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/ai-legal-document-summarizer",
-        "title": "How to Summarize Legal Documents With AI: Tools, Risks, and Workflow Best Practices",
-        "url": "https://www.clio.com/blog/ai-legal-document-summarizer/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-03-16T19:49:45.000Z",
-        "summary": "Learn how to summarize legal documents with AI, compare tools, manage risk, and build a scalable workflow using matter-aware AI in your firm.",
-        "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/law-firm-collections-best-practices",
-        "title": "Why Clients Delay Paying Law Firms (and How to Prevent It)",
-        "url": "https://www.clio.com/blog/law-firm-collections-best-practices/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-03-16T16:10:42.000Z",
-        "summary": "Improve cash flow with proven law firm collections best practices. Learn how to prevent late payments using billing software, transparency, and payment plans.",
-        "category": "skills",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/03/hand-arendall-harrison-sale-transforms-document-workflows-and-sees-immediate-roi-with-literas-ai-powered-drafting-and-compare.html",
         "title": "Hand Arendall Harrison Sale Transforms Document Workflows and Sees Immediate ROI with Litera&#8217;s AI-Powered Drafting and Compare",
         "url": "https://www.lawnext.com/2026/03/hand-arendall-harrison-sale-transforms-document-workflows-and-sees-immediate-roi-with-literas-ai-powered-drafting-and-compare.html",
@@ -284,26 +334,6 @@
         "source": "LawSites",
         "publishedAt": "2026-03-16T12:34:12.000Z",
         "summary": "Last week, Law.com Legalweek pulled off something genuinely impressive: It moved. After 39 years at the New York Hilton Midtown, one of the world&#8217;s leading legal technology conferences relocated to the Jacob K. Jav",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/geo-for-law-firms",
-        "title": "GEO for Law Firms: How to Stay Visible When AI Changes the Rules",
-        "url": "https://www.clio.com/blog/geo-for-law-firms/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-03-13T17:54:20.000Z",
-        "summary": "GEO for law firms is the new frontier of legal marketing. Learn how to stay visible as AI-powered search changes how clients find attorneys.",
-        "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/common-ai-myths-lawyers",
-        "title": "Debunking AI Myths Legal Professionals Still Believe",
-        "url": "https://www.clio.com/blog/common-ai-myths-lawyers/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-03-12T23:13:46.000Z",
-        "summary": "Many lawyers still hesitate to adopt AI because of persistent myths. Learn what the data actually shows about AI in legal work.",
         "category": "updates",
         "region": "na"
       },
@@ -355,16 +385,6 @@
         "publishedAt": "2026-03-06T14:48:54.000Z",
         "summary": "Continuing my on-location interview tour of San Francisco, I head an hour north to Santa Rosa to sit down with Nathan Walter, cofounder and CEO of Briefpoint, over a bottle of red wine at Paradise Ridge Winery, a spot li",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/ai-disclosure-lawyers",
-        "title": "AI Disclosure Template for Lawyers: When to Disclose, What to Say, and How to Stay Compliant",
-        "url": "https://www.clio.com/blog/ai-disclosure-lawyers/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-03-05T23:24:30.000Z",
-        "summary": "This guide covers when AI use should be disclosed, how ethical duties apply, and how to explain AI to clients effectively (free template included).",
-        "category": "skills",
         "region": "na"
       },
       {
@@ -458,16 +478,6 @@
         "region": "na"
       },
       {
-        "id": "Clio Blog:www.clio.com/blog/legal-ai-assistant",
-        "title": "Why You Should Have a Legal AI Assistant in Your Firm",
-        "url": "https://www.clio.com/blog/legal-ai-assistant/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-02-26T20:14:11.000Z",
-        "summary": "Legal AI assistants are changing how law firms work. Learn what they do, why they matter, and how Clio helps you adopt AI with confidence.",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/02/exclusive-confido-legal-raises-9-million-to-expand-embedded-payments-and-disbursements-for-law-firms.html",
         "title": "Exclusive: Confido Legal Raises $9 Million to Expand Embedded Payments and Disbursements for Law Firms",
         "url": "https://www.lawnext.com/2026/02/exclusive-confido-legal-raises-9-million-to-expand-embedded-payments-and-disbursements-for-law-firms.html",
@@ -475,16 +485,6 @@
         "publishedAt": "2026-02-26T13:30:58.000Z",
         "summary": "Confido Legal, an embedded payments platform built specifically for law firms and the legal technology companies that serve them, has raised $9 million in financing across two rounds, the company told LawNext in an exclu",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/future-of-legal-ai",
-        "title": "Anthropic’s Legal AI Move: Why Workflows Matter More Than Features",
-        "url": "https://www.clio.com/blog/future-of-legal-ai/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-02-24T22:02:21.000Z",
-        "summary": "As AI-generated text becomes commoditized, legal AI is evolving from drafting tools to intelligent workflow platforms.",
-        "category": "skills",
         "region": "na"
       },
       {
@@ -518,26 +518,6 @@
         "region": "na"
       },
       {
-        "id": "Clio Blog:www.clio.com/blog/ai-attorney-client-privilege-heppner",
-        "title": "Does Using AI Waive Attorney-Client Privilege? Breaking Down the United States v. Heppner Case",
-        "url": "https://www.clio.com/blog/ai-attorney-client-privilege-heppner/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-02-24T02:00:43.000Z",
-        "summary": "Did Heppner upend AI and attorney-client privilege? Not quite. Here's what the ruling actually holds and what it means for your practice.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/ai-employees-law-firm",
-        "title": "From Missed Calls to More Clients: How AI Employees Help Law Firms Scale Service and Revenue",
-        "url": "https://www.clio.com/blog/ai-employees-law-firm/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-02-23T21:11:34.000Z",
-        "summary": "Learn how AI employees support law firm teams, improve operational efficiency, and help firms grow revenue while delivering better client experiences.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/02/sirion-completes-majority-investment-from-haveli-aiming-to-accelerate-ai-push-in-clm-market.html",
         "title": "Sirion Completes Majority Investment from Haveli, Aiming to Accelerate AI Push in CLM Market",
         "url": "https://www.lawnext.com/2026/02/sirion-completes-majority-investment-from-haveli-aiming-to-accelerate-ai-push-in-clm-market.html",
@@ -545,16 +525,6 @@
         "publishedAt": "2026-02-23T14:00:35.000Z",
         "summary": "Sirion, an AI-native contract lifecycle management platform, has completed a majority investment from Austin-based private equity firm Haveli Investments, the companies announced today. With Haveli&#8217;s partnership, S",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Clio Blog:www.clio.com/blog/death-of-the-billable-hour-legal-ai",
-        "title": "Will AI Mean the Death of the Billable Hour in Legal?",
-        "url": "https://www.clio.com/blog/death-of-the-billable-hour-legal-ai/",
-        "source": "Clio Blog",
-        "publishedAt": "2026-02-22T04:42:31.000Z",
-        "summary": "AI is reshaping legal work and how it should be priced. Learn why hourly billing falls short and how law firms can shift pricing models.",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,168 +1176,198 @@
         "summary": "The long-running copyright litigation between Thomson Reuters and ROSS Intelligence is now pending in the 3rd U.S. Circuit Court of Appeals for an interlocutory appeal of the trial judge’s rulings in favor of TR. Recentl",
         "category": "updates",
         "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2025/12/agiloft-launches-ai-powered-obligation-management-system-for-contract-lifecycle.html",
+        "title": "Agiloft Launches AI-Powered Obligation Management System for Contract Lifecycle",
+        "url": "https://www.lawnext.com/2025/12/agiloft-launches-ai-powered-obligation-management-system-for-contract-lifecycle.html",
+        "source": "LawSites",
+        "publishedAt": "2025-12-08T14:00:39.000Z",
+        "summary": "Contract lifecycle management company Agiloft today released Obligation Management, a new feature that uses artificial intelligence to automatically extract and track commitments from contracts. The feature is designed t",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/gpt-5-cursor",
+        "title": "How Cursor uses GPT-5",
+        "url": "https://openai.com/index/gpt-5-cursor",
+        "source": "OpenAI News",
+        "publishedAt": "2025-08-07T00:00:00.000Z",
+        "summary": "Learn how Cursor uses GPT-5.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/color-health",
+        "title": "Using GPT-4o reasoning to transform cancer care",
+        "url": "https://openai.com/index/color-health",
+        "source": "OpenAI News",
+        "publishedAt": "2024-06-17T04:15:00.000Z",
+        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/uo9qdplcoext95xug8n4",
-        "title": "Cursor 新模型被指就是Kimi K2.5，联创回应：确实是，下次我们会说清楚",
-        "url": "https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/khsph0t42ji5crffhzo9",
+        "title": "谷歌迎来“DeepSeek时刻”！TurboQuant引爆AI圈、全球开发者疯狂复现：6倍无损压缩，内存股集体暴跌",
+        "url": "https://www.infoq.cn/article/kHSpH0T42Ji5CrFfHzO9?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-03-21T18:00:00.000Z",
+        "publishedAt": "2026-03-26T18:39:28.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/vgttepwpcd101iwm9wqi",
-        "title": "AI Agent 的记忆中间件：火山 Mem0 架构拆解及落地实践｜QCon北京",
-        "url": "https://www.infoq.cn/article/VGTtEPwPCd101Iwm9wQi?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/5cbck86jkchjvuibwguc",
+        "title": "具身智能中的 VLA 技术及其应用",
+        "url": "https://www.infoq.cn/article/5cBCK86jKCHjvuIbWgUC?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-03-21T09:54:00.000Z",
+        "publishedAt": "2026-03-26T17:35:37.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3732458131783689",
-        "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
-        "url": "https://36kr.com/newsflashes/3732458131783689?f=rss",
+        "id": "36Kr:36kr.com/p/3739769424593154",
+        "title": "浙大博士造出「机器人界的F1」：不卷脑子卷身体，要比博尔特跑得快",
+        "url": "https://36kr.com/p/3739769424593154?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-21T08:52:45.000Z",
-        "summary": "3月20日，国家人工智能应用中试基地（能源领域电力方向）2026年联盟工作会议暨首期生态活动在广州举行。南网数字集团人工智能研究中心、华为、中兴、百度等8家企业机构，作为首批代表正式入驻中试基地。第一财经记者了解到，作为电力人工智能领域的“桥梁型平台”，中试基地已成功连接100多家不同领域单位，推动资源高效共享与协同拓展。此次首批入驻的8家企业机构，还包括天合科技、南瑞信通、天数智芯、泰豪软件等。（第一财经）",
+        "publishedAt": "2026-03-26T14:33:08.000Z",
+        "summary": "最大的瓶颈不在算法，而在硬件的响应能力。 撰文 | 巴芮 编辑 | 薇薇子 封面图源 | 受访者提供 镜识科技仿佛人形机器人行业里的\"反共识之王\"。 这家2024年5月成立的公司，在不到两年的时间里，做了一连串与行业主流截然相反的选择—— 别人已经在追求让机器人变聪明，他们却专注于让机器人跑得快； 小人形受资本偏爱又出货快，但他们偏要做全尺寸； 明知选VLA（视觉-语言-动作模型）路线能更好融资，也更指向终局，但他们选遥操作； 别人挤着",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3732456438481157",
-        "title": "亚马逊正开发整合AI能力且与其语音助手Alexa同步的智能手机",
-        "url": "https://36kr.com/newsflashes/3732456438481157?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3739779078520840",
+        "title": "五一视界：2025年营收3.48亿元，同比增长21%",
+        "url": "https://36kr.com/newsflashes/3739779078520840?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-21T08:51:01.000Z",
-        "summary": "据媒体周五（3月20日）援引知情人士消息报道，亚马逊正在开发一款整合人工智能能力并能与公司语音助手Alexa同步的智能手机。该项目内部代号为“Transformer”，由亚马逊设备与服务部门负责研发，定位为一款高度个性化的移动设备。该手机的核心在于通过AI技术简化用户操作，可能无需传统应用商店即可使用功能，旨在让用户更便捷地使用亚马逊购物、Prime Video和Grubhub等服务。（新浪财经）",
+        "publishedAt": "2026-03-26T13:00:00.000Z",
+        "summary": "36氪获悉，五一视界召开2025年度业绩发布暨物理AI新品发布会。截至2025年12月31日，公司实现营收3.48亿元，同比增长21%。发布会上，五一视界全球首发51World Model，同步亮相的，还有专为具身智能打造的Agent底座系统51Claw。目前，51World Model已覆盖智能驾驶、具身机器人、低空经济、数字工厂、智慧基建、应急防灾六大物理AI核心应用场景，面向全球客户提供API接口与SDK接入服务。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3732204385501448",
-        "title": "网易云音乐接入OpenClaw",
-        "url": "https://36kr.com/newsflashes/3732204385501448?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3739751214202887",
+        "title": "人工智能无人机公司SHIELD AI融资20亿美元，估值达127亿美元",
+        "url": "https://36kr.com/newsflashes/3739751214202887?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-21T04:51:30.000Z",
-        "summary": "36氪获悉，3月21日，网易云音乐宣布全面接入OpenClaw，并将其音乐推荐、音乐搜索等基础能力封装成一系列标准化CLI（标准接口）及自动化Skill，成为业内首个向AI Agent开放核心音乐服务能力的平台。",
+        "publishedAt": "2026-03-26T12:31:39.000Z",
+        "summary": "人工智能无人机公司SHIELD AI融资20亿美元，估值达127亿美元。（财联社）",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3732100232298503",
-        "title": "“我的前额叶罢工了”，年轻人争相确诊“网红病”？",
-        "url": "https://36kr.com/p/3732100232298503?f=rss",
+        "id": "36Kr:36kr.com/p/3739636054999040",
+        "title": "StoReel获3400万美元融资：用AI重构故事生产，打造工具社区与平台双轮驱动的内容生态｜涌现新项目",
+        "url": "https://36kr.com/p/3739636054999040?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-21T02:51:33.000Z",
-        "summary": "当代年轻人对待病的态度，像薛定谔的猫一般充满矛盾。 有时讳疾忌医，不敢看自己的体检报告，对报告里已确诊的小结节、轻度脂肪肝、胃炎装聋作哑，安慰自己没啥大事。 有时又上赶着帮自己“确诊”新疾病：“我说我怎么天天活人微死还犯懒呢，原来我是前额叶受损啊。” 网友疯传的前额叶梗图。（图/社交平台截图） 最近，又轮到了前额叶。 这个原本常见于神经科学教科书中的专业术语，近期一跃成为了热搜常客。 与ADHD、PUA、躁郁症等专业名词刚刚走红时的状况",
+        "publishedAt": "2026-03-26T12:14:29.000Z",
+        "summary": "文｜王欣逸 编辑｜王毓婵 一句话介绍 StoReel是一家全球化AI原生娱乐内容平台，核心产品分别是AI剧集平台StoReel App以及AI剧集工具社区StoReel Canvas，致力于打造系列化剧集内容的创作、发行和变现体系。 公司由海外市场短剧赛道转化而来，自2024年底至2025年初开始系统性地探索AI在短剧生产和内容创作中的应用。 融资进展 近期，StoReel已获得3400万美元增长资金支持，本轮融资包括由Play Ven",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3732001538490631",
-        "title": "9点1氪：傅盛凌晨开撕周鸿祎称“被欠1个亿”，360回应；字节跳动413亿元卖掉沐瞳科技；伊朗战事持续或致油价升至180美元",
-        "url": "https://36kr.com/p/3732001538490631?f=rss",
+        "id": "36Kr:36kr.com/p/3739460842078470",
+        "title": "氪星晚报｜淘天集团推出“AI生产力计划”，向实习生全员开放;过去五年北京已牵头制定国际标准超500项；欧洲议会表决通过欧美贸易协议",
+        "url": "https://36kr.com/p/3739460842078470?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-21T01:13:44.000Z",
-        "summary": "今日热点导览 商务部部长王文涛会见苹果公司首席执行官库克 贾国龙起家的西贝首店将缩减一半经营面积 特斯拉计划采购中国光伏设备？企业回应：确有此事 针对“漂白鸡爪”等“3·15”晚会曝光问题，多地立案溯源打击 中国学生平均留学预算超60万 TOP3大新闻 傅盛微信群里开撕周鸿祎称“欠钱不还”，360回应 3月20日，社交媒体流传的截图显示，当天凌晨，猎豹移动董事长兼CEO傅盛在微信聊天群里“开撕”360创始人周鸿祎，指责周鸿祎“欠钱不还，",
+        "publishedAt": "2026-03-26T12:00:31.000Z",
+        "summary": "大公司： 三星、SK等韩国企业实施车辆限行等节能措施，响应政府节能政策 据报道，以三星和SK为首的韩国各大企业集团已推出一系列节能措施，包括关闭办公区照明以及对驾车上班的员工实施车辆限行等，以响应韩国政府的节能政策。三星宣布从26日起在所有国内业务场所实施车辆限行制度，为期十天，该制度规定车牌尾号与日期尾号相同的车辆限制使用停车场，但电动车、氢燃料车、孕妇和残疾人车辆除外。（财联社） 北京人形机器人创新中心发布开源开放生态计划 3月26",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/mptlqz7oj5lfliozibhe",
-        "title": "Claude Code、Cursor 可能都躲不过一次“大重写”，但 OpenCode 也许是例外",
-        "url": "https://www.infoq.cn/article/mpTLQz7Oj5lfLIoZiBhE?utm_source=rss&utm_medium=article",
+        "id": "36Kr:36kr.com/p/3739712915816457",
+        "title": "速腾聚创首次实现单季盈利，2025年机器人产品销量激增25倍｜最前线",
+        "url": "https://36kr.com/p/3739712915816457?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-26T11:58:27.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 3月25日，速腾聚创（02498.HK）公布2025年第四季度及全年业绩报告。 财报显示，2025年全年，速腾聚创实现营收约19.41亿元，激光雷达总销量约91.2万台，毛利约5.14亿元，同比增长81.3%。第四季度表现尤为突出，单季度实现经营利润1.30亿元，净利润1.04亿元，首次实现单季度盈利。第四季度综合毛利率达28.5%，同比提升6.4个百分点；机器人领域毛利率达41.5%。 可以看到，公司“车载+",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3739641264177155",
+        "title": "AI首次进入微信首页，Clawbot想在你的工作流里占座",
+        "url": "https://36kr.com/p/3739641264177155?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-26T10:41:30.000Z",
+        "summary": "作者 | 肖思佳 编辑 | 乔芊 2026年3月，或许可以被命名为“互联网龙虾月”。 年前由OpenClaw引发的热潮，在春节过后不仅没有降温，反而愈演愈烈。进入3月，多家互联网与科技公司，要么推出自有“龙虾”产品，要么开放接口加速接入。连一向谨慎克制的腾讯微信也首次下场，在首页推出插件Clawbot，作为各类“龙虾”产品的接入通道入口。 尽管目前Clawbot的技术能力，仍存在诸多不足——例如无法主动推送消息、Markdown显示效果",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/rnszizy7ns5tdbalhyge",
+        "title": "京东公布最新AI进展：推出“龙虾天团”，首次开源大模型JoyAI-LLM Flash",
+        "url": "https://www.infoq.cn/article/RNszIZY7Ns5tdBAlhyGE?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-03-20T17:55:35.000Z",
+        "publishedAt": "2026-03-26T10:20:11.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/sbmemgzadmeydruwzswi",
-        "title": "Cursor自研新模型反超Opus 4.6，价格还“打一折”！网友实测：只有它写完应用能一次跑通",
-        "url": "https://www.infoq.cn/article/sbMemGzadMeYDRuwZSWi?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/usmukc9hh5fddmkofo1b",
+        "title": "让推理引擎可被“看见”：大模型推理端到端 Token 级可观测工程实践｜QCon北京",
+        "url": "https://www.infoq.cn/article/UsmUkC9hH5FDdmkofO1b?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-03-20T16:20:07.000Z",
+        "publishedAt": "2026-03-26T10:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/gret2ljeoa4wqm35qmid",
-        "title": "Claude挖出22个Firefox漏洞",
-        "url": "https://www.infoq.cn/article/GRET2LJeoa4WQm35qmiD?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-20T15:45:23.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ci5daafmzha1iwn2z6zd",
-        "title": "深圳 17 岁高中生回应成 Kimi 论文第一作者：不要造神，成果属于团队",
-        "url": "https://www.infoq.cn/article/CI5daAFmzhA1IWN2Z6zD?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-20T10:39:02.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3730996090192130",
-        "title": "求购Anthropic老股份额；求购多家机器人公司老股份额｜资情留言板第181期",
-        "url": "https://36kr.com/p/3730996090192130?f=rss",
+        "id": "36Kr:36kr.com/p/3739583156961285",
+        "title": "企业健管高增40%，平安好医生解锁中国版管理式医疗新范式",
+        "url": "https://36kr.com/p/3739583156961285?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-20T08:06:48.000Z",
-        "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。 本文是这个栏目的第181期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com） 一、本月新增 1、求购Anthropi",
+        "publishedAt": "2026-03-26T09:41:02.000Z",
+        "summary": "3月24日，平安好医生（1833.HK）公布了2025年全年业绩。 财报显示，平安好医生在2025实现收入54.68亿元，同比增长13.7%。受益于医险协同战略的不断深化，叠加企业健管业务的强劲增长，公司在2025年实现业务收入双位数增长，且相比2024年增长明显加速，业务结构亦得到进一步优化。 利润方面，公司在2025年实现归母净利润3.8亿元，同比增长366.1%，同期经调整净利润录得4.14亿元，同比增长161.3%。公司净利润在",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3730644353286150",
-        "title": "从能力到商品：Skills市场正在重塑开发者的生产方式",
-        "url": "https://36kr.com/p/3730644353286150?f=rss",
+        "id": "36Kr:36kr.com/p/3738062628962563",
+        "title": "拓竹招人！SHEIN招人！10+好公司一起招人！｜人才留言板第二期",
+        "url": "https://36kr.com/p/3738062628962563?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-20T02:19:20.000Z",
-        "summary": "技能是产业竞争力的重要体现方式之一 。在上海，一场 AI 时代的技能革命也在悄然展开——进入 2026 年，新赛季的竞争不再是大模型间的参数比拼，而是谁能真正走进工厂、实验室和写字楼，变成“会做事”的生产力工具。开源项目 OpenClaw 的迅速走红，折射出以 Skills 市场等形式的开放共享的新趋势——或许正是那把撬开这场 Agent 变革的锁钥。 简言之， Skills 市场是智能体的“技能商店”：开发者将专业能力封装为标准化模块",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3729647028960903",
-        "title": "港中文95后博士、OPPO员工做了款AI可穿戴硬件，要成为用户全天候情感导师｜硬氪首发",
-        "url": "https://36kr.com/p/3729647028960903?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-20T01:20:00.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，深圳十镜科技有限公司（以下简称“十镜科技”）近日完成数千万元天使轮融资，本轮由元禾原点投资，融资资金将主要用于核心技术研发、产品结构迭代优化及小批量量产落地。首款产品Spiro计划于 2026年4月在北美独立站上线、6月量产。 十镜科技成立于2025年7月，创始人兼CEO赵之赫是一名95后连续创业者，博士毕业于香港中文大学，他曾出任智能穿戴硬件企业物启科技CEO，并推出全球首款AI情绪吊坠Nuna。联",
-        "category": "articles",
+        "publishedAt": "2026-03-26T03:00:00.000Z",
+        "summary": "图源:36kr 每周精选 30 + 优质岗位，覆盖 AI 大模型、具身智能、量子计算、3D 打印、半导体等领域，帮你找到下一个职业爆发点。 本期合作企业：国资背景 AI、上市科技龙头、全球独角兽、前沿硬科技新锐｜B 轮及以上占比超 60% 本期亮点速览 图源:36kr 精选岗位 | 中城交科技 · 天使轮 · 交通大模型 一句话卖点： 上海首家国资背景交通垂类大模型公司，千亿级数据资产，双引擎技术体系 地点： 北京/上海 招聘职位： 后",
+        "category": "skills",
         "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/tech/blockchain/article/3347286/will-hong-kongs-regulatory-clarity-crypto-forge-path-global-hub-status",
-        "title": "Will Hong Kong’s ‘regulatory clarity’ on crypto forge a path to global hub status?",
-        "url": "https://www.scmp.com/tech/blockchain/article/3347286/will-hong-kongs-regulatory-clarity-crypto-forge-path-global-hub-status?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3348038/googles-turboquant-ai-advance-dents-memory-chip-stocks-analysts-say-buy-dip",
+        "title": "Google’s TurboQuant AI advance dents memory-chip stocks, but analysts say ‘buy the dip’",
+        "url": "https://www.scmp.com/tech/big-tech/article/3348038/googles-turboquant-ai-advance-dents-memory-chip-stocks-analysts-say-buy-dip?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-03-21T04:00:08.000Z",
-        "summary": "In late 2022, Syed Musheer Ahmed packed his bags and departed Hong Kong. The founder of fintech advisory firm FinStep Asia headed for Dubai, where he joined the founding team of the Gulf city’s new digital-asset regulato",
+        "publishedAt": "2026-03-26T13:24:11.000Z",
+        "summary": "A new artificial intelligence algorithm developed by Google that could reduce demand for memory chips triggered a slump in global memory stocks, but analysts said it presented an opportunity for investors to “buy the dip",
         "category": "updates",
         "region": "cn_en"
       },
       {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3346994/lobster-fever-grips-china-tencent-makes-openclaw-based-tool-available-wechat",
-        "title": "As ‘lobster fever’ grips China, Tencent makes OpenClaw-based tool available on WeChat",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3346994/lobster-fever-grips-china-tencent-makes-openclaw-based-tool-available-wechat?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3348026/chinas-pony-ai-launch-robotaxi-service-europe-uber-local-start",
+        "title": "China’s Pony AI to launch robotaxi service in Europe with Uber, local start-up",
+        "url": "https://www.scmp.com/business/china-business/article/3348026/chinas-pony-ai-launch-robotaxi-service-europe-uber-local-start?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-03-18T06:58:57.000Z",
-        "summary": "Chinese tech giant Tencent Holdings has integrated its QClaw AI agent as a mini-program in its flagship WeChat app as it pushes to expand adoption of its OpenClaw-based tool. It said QClaw was now accessible as a mini-pr",
+        "publishedAt": "2026-03-26T11:31:20.000Z",
+        "summary": "Chinese self-driving technology firm Pony AI plans to launch robotaxi services with partners Uber Technologies and Verne in Zagreb, Croatia, spearheading commercialisation of autonomous cabs in Europe amid an accelerated",
+        "category": "tools",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3347747/chinas-weride-eyes-hong-kong-singapore-roads-robotaxis-self-driving-giants-expand",
+        "title": "China’s WeRide eyes Hong Kong, Singapore roads for robotaxis as self-driving giants expand",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3347747/chinas-weride-eyes-hong-kong-singapore-roads-robotaxis-self-driving-giants-expand?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-03-24T14:15:08.000Z",
+        "summary": "Chinese self-driving technology developers continue to expand outside the mainland as WeRide seeks to launch robotaxi services this year in Hong Kong and Singapore, according to an executive. WeRide’s planned entry into ",
         "category": "tools",
         "region": "cn_en"
       },
@@ -1376,7 +1376,7 @@
         "title": "Love in the Time of Algorithms: What Chatbot Romances Reveal About Connection",
         "url": "https://www.sixthtone.com/news/1018314/Love%20in%20the%20Time%20of%20Algorithms:%20What%20Chatbot%20Romances%20Reveal%20About%20Connection",
         "source": "Sixth Tone",
-        "publishedAt": "2026-03-17T04:00:00.000Z",
+        "publishedAt": "2026-03-17T00:00:00.000Z",
         "summary": "When OpenAI announced that it would retire its ChatGPT model GPT-4o, it sent shockwaves across the internet and an outpouring of grief. Yet the real question is: What void was 4o filling to begin with?",
         "category": "updates",
         "region": "cn_en"
