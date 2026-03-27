@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T12:44:03.395Z",
+  "generatedAt": "2026-03-27T18:45:15.005Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/opinion&",
+        "title": "Opinion fining lawyer $10,000 for citing hallucinated cases breaks down how errors occurred",
+        "url": "https://www.abajournal.com/news/article/opinion&#45;fining&#45;lawyer&#45;10000&#45;for&#45;citing&#45;hallucinated&#45;cases&#45;breaks&#45;down&#45;how&#45;errors&#45;occurred/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-27T14:55:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/law&",
+        "title": "Law firm diversity benchmark sees drop in participation",
+        "url": "https://www.abajournal.com/news/article/law&#45;firm&#45;diversity&#45;benchmark&#45;sees&#45;drop&#45;in&#45;participation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-27T14:02:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/tech&",
+        "title": "How trial lawyers can utilize tech to give them an edge in the courtroom",
+        "url": "https://www.abajournal.com/news/article/tech&#45;on&#45;trial&#45;winning&#45;a&#45;jury&#45;in&#45;a&#45;digital&#45;and&#45;visual&#45;age/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-27T14:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/white&",
+        "title": "White & Case employee claims he was stripped naked and photographed at firm party",
+        "url": "https://www.abajournal.com/news/article/white&#45;case&#45;employee&#45;claims&#45;he&#45;was&#45;stripped&#45;naked&#45;and&#45;photographed&#45;at&#45;firm&#45;party/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-27T13:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/27/clausul-harvey-docusign-legal-innovators-europe",
         "title": "Clausul, Harvey, Docusign, Legal Innovators Europe +",
@@ -23,16 +63,6 @@
         "url": "https://www.abajournal.com/web/article/deepfakes_techshow_expert_up/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-03-26T22:31:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/tech&",
-        "title": "What lawyers should keep in mind when choosing the right technology tools for their practices",
-        "url": "https://www.abajournal.com/news/article/tech&#45;stack&#45;how&#45;to&#45;evaluate&#45;compare&#45;and&#45;choose&#45;the&#45;right&#45;tools/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-26T21:20:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -88,26 +118,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/children&",
-        "title": "Children&#8217;s futures at stake in Supreme Court birthright citizen case",
-        "url": "https://www.abajournal.com/web/article/children&#45;future&#45;at&#45;stake&#45;in&#45;supreme&#45;court&#45;birthright&#45;citizen&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-26T15:24:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/law&",
-        "title": "Law firms see more cyberattacks, ransomware threats, new report says",
-        "url": "https://www.abajournal.com/news/article/law&#45;firms&#45;see&#45;more&#45;cyberattacks&#45;ransomware&#45;threats&#45;report&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-26T15:17:00.000Z",
-        "summary": "",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/26/ai-first-keith-bags-2m-for-property-work",
         "title": "AI-First &#8216;Keith&#8217; Bags £2m For Property Work",
         "url": "https://www.artificiallawyer.com/2026/03/26/ai-first-keith-bags-2m-for-property-work/",
@@ -118,32 +128,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/big&",
-        "title": "BigLaw&#8217;s share of litigation funding dropped in 2025",
-        "url": "https://www.abajournal.com/news/article/big&#45;laws&#45;share&#45;of&#45;the&#45;litigation&#45;funding&#45;drops&#45;in&#45;2025/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-26T14:38:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/26/steno-raises-49m-hits-150m-total-funding",
         "title": "Steno Raises $49m, Hits $150m Total Funding",
         "url": "https://www.artificiallawyer.com/2026/03/26/steno-raises-49m-hits-150m-total-funding/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-03-26T13:00:03.000Z",
         "summary": "Steno, the court reporting and litigation support company, has raised $49m in an all equity C round, following $46m raised in 2024. The round was ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/tool&",
-        "title": "AI-powered bill collector program takes top spot at ABA Techshow&#8217;s Startup Alley",
-        "url": "https://www.abajournal.com/web/article/tool&#45;that&#45;gets&#45;lawyers&#45;paid&#45;takes&#45;top&#45;spot&#45;at&#45;techshows&#45;startup&#45;alley/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-26T12:05:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1206,45 +1196,25 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/cuhameysqw3doyhw1p8a",
-        "title": "非营利组织上线首个“AI 失业补助”：每月发 1000 美元，持续 1 年",
-        "url": "https://www.infoq.cn/article/cuHaMeYSqw3dOYHW1P8A?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-27T18:52:19.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/huwhl1y4s0k0fnxm7iv0",
-        "title": "传月之暗面考虑赴香港进行 IPO，内部人员证实去年底已启动成本核算",
-        "url": "https://www.infoq.cn/article/HUWHl1y4s0K0fNxm7iv0?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-27T18:48:55.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/wryxxgbqwkb29rkoxulo",
         "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
         "url": "https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-27T18:30:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/f8r89eppsxmroiahukqw",
-        "title": "不是路演，是看火箭发射！马斯克亲自为 SpaceX IPO 写剧本：散户和粉丝先上桌",
-        "url": "https://www.infoq.cn/article/F8R89EPpSXmROiaHUKqW?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-27T18:16:09.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1286,16 +1256,6 @@
         "source": "36Kr",
         "publishedAt": "2026-03-27T11:48:29.000Z",
         "summary": "大公司： 日本ispace公司将美国国家航空航天局（NASA）资助的登月任务推迟至2030年 日本航天器初创企业ispace周五表示，在两次登月着陆器任务失败后，公司进行战略调整，将把一项由美国政府资助的月球探测任务再度推迟至2030年，并裁减全球员工。此次公告凸显出该企业前景不明朗。当前美国正联合商业及国际伙伴重组太空任务。（新浪财经） 菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议 36氪获悉，今日菜鸟集团与泰国正大集团",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3741090740781320",
-        "title": "曹操出行：2025年营收同比增长38%至202亿元，首次调整后Q4盈利",
-        "url": "https://36kr.com/newsflashes/3741090740781320?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-27T11:14:17.000Z",
-        "summary": "3月27日，曹操出行发布2025年业绩公告。报告期内，公司实现收入202亿元，同比增长38%；毛利率提升至9.4%，增加1.3个百分点；经营现金流净额同比增长60.3%；公司于在2025年第四季度首次实现调整后净利润转正，标志着公司步入盈利性增长轨道。同时Robotaxi转型全面提速，完全定制Robotaxi计划于今年亮相。",
         "category": "updates",
         "region": "cn"
       },
