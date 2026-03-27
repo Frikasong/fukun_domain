@@ -211,6 +211,8 @@ const SECTIONS = [
   { id: "essays",      name: "Essays",       icon: "✍️", type: "hidden" },
   { id: "music",       name: "Music",        icon: "🎵", type: "hidden" },
   { id: "photography", name: "Photos",       icon: "📷", type: "hidden" },
+  { id: "pottery",     name: "Pottery",      icon: "🏺", type: "hidden" },
+  { id: "video",       name: "Video",        icon: "🎬", type: "hidden" },
   { id: "insights",    name: "Insights",     icon: "💡", type: "hidden" },
   { id: "contact",     name: "Contact",      icon: "📧", type: "hidden" },
 ];
@@ -458,7 +460,7 @@ function App() {
     if (activeSection === "hobbies") {
       return entries.filter((e) => {
         const s = SECTION_MAP[e.section] || e.section;
-        return ["music", "photography"].includes(s);
+        return ["music", "photography", "pottery", "video"].includes(s);
       }).sort((a, b) => new Date(b.date) - new Date(a.date));
     }
     if (activeSection === "insights") {
@@ -709,9 +711,11 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </h1>
             <div style={styles.gardenHeroDash} />
             <p style={{ margin: 0, lineHeight: 1.7 }}>
-              <span style={{ fontFamily: "'Fascinate', cursive", fontSize: 10, color: "rgba(250,247,243,0.60)", letterSpacing: "1.5px", display: "inline" }}>welcome to my domain</span>
-              {"  "}
-              <span style={{ fontFamily: "'Long Cang', cursive", fontSize: 20, color: "rgba(250,247,243,0.78)", letterSpacing: "4px" }}>欢迎来到我的飞鸿雪泥</span>
+              {lang === "zh" ? (
+                <span style={{ fontFamily: "'Long Cang', cursive", fontSize: 22, color: "rgba(250,247,243,0.82)", letterSpacing: "4px" }}>欢迎来到我的飞鸿雪泥</span>
+              ) : (
+                <span style={{ fontFamily: "'Fascinate', cursive", fontSize: 13, color: "rgba(250,247,243,0.65)", letterSpacing: "1.5px" }}>welcome to my domain</span>
+              )}
             </p>
           </div>
         </div>
@@ -1000,13 +1004,11 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     );
   }
 
-  // ── HOBBIES page — photos gallery + music cards ──
+  // ── HOBBIES page — seamless garden: music, photos, pottery, video all interleaved ──
   if (section.id === "hobbies") {
-    const photoEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "photography");
-    const musicEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "music");
     const vw = typeof window !== "undefined" ? window.innerWidth : 1280;
-    // columnCount is used instead of CSS shorthand 'columns' — React treats numeric shorthand as px
-    const colCount = vw <= 640 ? 2 : vw < 1100 ? 3 : 4;
+    const colCount = vw <= 640 ? 1 : vw < 1100 ? 2 : 3;
+
     return (
       <div style={styles.chesterPage}>
         <div style={{ borderLeft: "3px solid #C8A96E", paddingLeft: 16, margin: "0 0 32px" }}>
@@ -1014,88 +1016,133 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             {lang === "zh" ? "生来就是要快乐的。" : "I'm born to have fun."}
           </p>
         </div>
-        {/* Photos */}
-        {photoEntries.length > 0 && (
-          <div style={styles.chesterHobbiesSection}>
-            <p style={styles.chesterSectionHeading}>📷 {lang === "zh" ? "照片" : "Photos"}</p>
-            {/* Garden photo mosaic — CSS columns masonry, natural aspect ratios, no gaps */}
-            <div style={{ columnCount: colCount, columnGap: "8px" }}>
-              {photoEntries.map((entry, i) => {
-                const imgSrc = entry.images && entry.images[0]
-                  ? (typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data)
-                  : null;
+
+        {entries.length === 0 ? (
+          <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
+        ) : (
+          // Unified garden — all types in one CSS-columns masonry, sorted by date
+          <div style={{ columnCount: colCount, columnGap: "10px" }}>
+            {entries.map((entry, i) => {
+              const type = SECTION_MAP[entry.section] || entry.section;
+              const imgSrc = entry.images && entry.images[0]
+                ? (typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data)
+                : null;
+
+              // ── Photo tile ──
+              if (type === "photography") {
                 return (
                   <div
                     key={i}
                     onClick={() => onOpenPost(entry)}
                     className="photo-mosaic-tile"
-                    style={{ breakInside: "avoid", marginBottom: 8, cursor: "pointer", borderRadius: 10, overflow: "hidden", position: "relative", background: "#f0ede8" }}
+                    style={{ breakInside: "avoid", marginBottom: 10, cursor: "pointer", borderRadius: 12, overflow: "hidden", position: "relative", background: "#f0ede8" }}
                   >
                     {imgSrc
-                      ? <img src={imgSrc} alt={entry.title} style={{ width: "100%", height: "auto", display: "block", borderRadius: 10 }} />
-                      : <div style={{ aspectRatio: "4/3", background: "#f0ede8", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 32, borderRadius: 10 }}>📷</div>
+                      ? <img src={imgSrc} alt={entry.title} style={{ width: "100%", height: "auto", display: "block" }} />
+                      : <div style={{ aspectRatio: "4/3", background: "#f0ede8", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 36 }}>📷</div>
                     }
-                    <div className="photo-mosaic-caption" style={{ position: "absolute", bottom: 0, left: 0, right: 0, background: "linear-gradient(transparent, rgba(0,0,0,0.52))", padding: "22px 10px 8px", borderRadius: "0 0 10px 10px", opacity: 0, transition: "opacity 0.2s" }}>
+                    <div className="photo-mosaic-caption" style={{ position: "absolute", bottom: 0, left: 0, right: 0, background: "linear-gradient(transparent, rgba(0,0,0,0.55))", padding: "28px 12px 10px", opacity: 0, transition: "opacity 0.2s" }}>
                       <p style={{ color: "#fff", fontSize: 11, margin: 0, fontFamily: "'Lora', serif", letterSpacing: "0.3px" }}>{entry.title}</p>
                     </div>
                   </div>
                 );
-              })}
-            </div>
-          </div>
-        )}
+              }
 
-        {/* Music */}
-        {musicEntries.length > 0 && (
-          <div style={styles.chesterHobbiesSection}>
-            <p style={styles.chesterSectionHeading}>🎵 {lang === "zh" ? "音乐" : "Music"}</p>
-            {/* Garden music grid — wider cards cycle: [2,1,1,2,1,2,3,1] */}
-            <div style={{ display: "grid", gridTemplateColumns: "repeat(6, 1fr)", gap: 12, gridAutoFlow: "dense" }}>
-              {musicEntries.map((entry, i) => {
-                const mGarden = [2, 1, 1, 2, 1, 3, 2, 1, 1, 2, 3, 1];
-                const mCol = mGarden[i % mGarden.length];
-                // Try dedicated property → blocks hrefs → body text
+              // ── Pottery tile ──
+              if (type === "pottery") {
+                return (
+                  <div
+                    key={i}
+                    onClick={() => onOpenPost(entry)}
+                    className="photo-mosaic-tile"
+                    style={{ breakInside: "avoid", marginBottom: 10, cursor: "pointer", borderRadius: 12, overflow: "hidden", position: "relative", background: "#f5efe8" }}
+                  >
+                    {imgSrc
+                      ? <img src={imgSrc} alt={entry.title} style={{ width: "100%", height: "auto", display: "block" }} />
+                      : <div style={{ aspectRatio: "4/3", background: "#e8ddd0", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 44 }}>🏺</div>
+                    }
+                    <div style={{ position: "absolute", top: 8, left: 8, background: "rgba(139,100,72,0.82)", borderRadius: 20, padding: "2px 10px", fontSize: 10, color: "#fff", fontFamily: "sans-serif", letterSpacing: "0.5px" }}>
+                      {lang === "zh" ? "🏺 陶艺" : "🏺 Pottery"}
+                    </div>
+                    <div className="photo-mosaic-caption" style={{ position: "absolute", bottom: 0, left: 0, right: 0, background: "linear-gradient(transparent, rgba(0,0,0,0.55))", padding: "28px 12px 10px", opacity: 0, transition: "opacity 0.2s" }}>
+                      <p style={{ color: "#fff", fontSize: 11, margin: 0, fontFamily: "'Lora', serif" }}>{entry.title}</p>
+                    </div>
+                  </div>
+                );
+              }
+
+              // ── Music tile ──
+              if (type === "music") {
                 const spotifyEmbedUrl = spotifyToEmbedUrl(extractSpotifyUrl(entry));
                 return (
-                  <div key={i} style={{ ...styles.chesterMusicCard, gridColumn: `span ${mCol}` }}>
-                    <div style={styles.chesterCardMeta}>
-                      <span style={styles.chesterCardLabel}>{lang === "zh" ? "趣味 · 音乐" : "Fun · Music"}</span>
-                      <button style={{ background: "none", border: "none", cursor: "pointer", fontSize: 13, color: "#ccc", padding: 0 }} onClick={() => onOpenPost(entry)}>→</button>
+                  <div key={i} style={{ breakInside: "avoid", marginBottom: 10, borderRadius: 12, overflow: "hidden", background: "#16213e", border: "1px solid rgba(255,255,255,0.07)" }}>
+                    <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "8px 14px 4px" }}>
+                      <span style={{ fontSize: 10, color: "rgba(255,255,255,0.38)", fontFamily: "sans-serif", letterSpacing: "0.8px", textTransform: "uppercase" }}>{lang === "zh" ? "音乐" : "Music"}</span>
+                      <button style={{ background: "none", border: "none", cursor: "pointer", fontSize: 12, color: "rgba(255,255,255,0.38)", padding: 0 }} onClick={() => onOpenPost(entry)}>→</button>
                     </div>
                     {spotifyEmbedUrl ? (
                       <>
-                        <iframe
-                          src={spotifyEmbedUrl}
-                          width="100%"
-                          height="80"
-                          frameBorder="0"
+                        <iframe src={spotifyEmbedUrl} width="100%" height="80" frameBorder="0"
                           allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-                          loading="lazy"
-                          style={{ display: "block" }}
-                        />
-                        <div style={{ padding: "8px 18px 10px" }}>
-                          <p style={{ ...styles.chesterPostTitle, fontSize: 13, margin: "0 0 2px" }}>{entry.title}</p>
-                          <span style={styles.chesterPostDate}>{entry.date}</span>
+                          loading="lazy" style={{ display: "block" }} />
+                        <div style={{ padding: "6px 14px 12px" }}>
+                          <p style={{ color: "#fff", fontSize: 12, margin: "0 0 2px", fontFamily: "'Lora', serif" }}>{entry.title}</p>
+                          <span style={{ fontSize: 10, color: "rgba(255,255,255,0.35)", fontFamily: "sans-serif" }}>{entry.date}</span>
                         </div>
                       </>
                     ) : (
-                      <div style={styles.chesterMusicBody}>
-                        <span style={styles.chesterMusicNote}>♪</span>
+                      <div style={{ display: "flex", alignItems: "center", gap: 12, padding: "12px 14px 16px" }}>
+                        <span style={{ fontSize: 28, flexShrink: 0 }}>♪</span>
                         <div>
-                          <p style={{ ...styles.chesterPostTitle, fontSize: 14, margin: "0 0 4px" }}>{entry.title}</p>
-                          <span style={styles.chesterPostDate}>{entry.date}</span>
+                          <p style={{ color: "#fff", fontSize: 13, margin: "0 0 3px", fontFamily: "'Lora', serif" }}>{entry.title}</p>
+                          <span style={{ fontSize: 10, color: "rgba(255,255,255,0.35)", fontFamily: "sans-serif" }}>{entry.date}</span>
                         </div>
                       </div>
                     )}
                   </div>
                 );
-              })}
-            </div>
-          </div>
-        )}
+              }
 
-        {entries.length === 0 && (
-          <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
+              // ── Video tile ──
+              if (type === "video") {
+                const vid = extractVideoUrl(entry);
+                return (
+                  <div key={i} style={{ breakInside: "avoid", marginBottom: 10, borderRadius: 12, overflow: "hidden", background: "#f0ede8" }}>
+                    {vid && vid.type === "youtube" ? (
+                      <iframe
+                        src={`https://www.youtube.com/embed/${vid.id}`}
+                        width="100%"
+                        style={{ aspectRatio: "16/9", display: "block", border: "none" }}
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen
+                      />
+                    ) : (
+                      <div style={{ aspectRatio: "16/9", background: "#e8ddd0", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: 8 }}>
+                        <span style={{ fontSize: 36 }}>🎬</span>
+                        {vid && vid.type === "rednote" && (
+                          <a href={vid.url} target="_blank" rel="noopener noreferrer" style={{ fontSize: 11, color: "#8B3A3A", fontFamily: "sans-serif" }}>
+                            {lang === "zh" ? "在小红书观看 →" : "Watch on RedNote →"}
+                          </a>
+                        )}
+                      </div>
+                    )}
+                    <div style={{ padding: "8px 12px 12px" }}>
+                      <p style={{ fontSize: 12, color: "#444", margin: "0 0 2px", fontFamily: "'Lora', serif" }}>{entry.title}</p>
+                      <span style={{ fontSize: 10, color: "#999", fontFamily: "sans-serif" }}>{entry.date}</span>
+                    </div>
+                  </div>
+                );
+              }
+
+              // ── Fallback tile ──
+              return (
+                <div key={i} onClick={() => onOpenPost(entry)} style={{ breakInside: "avoid", marginBottom: 10, borderRadius: 12, background: "#f8f5f0", padding: "16px", cursor: "pointer" }}>
+                  <p style={{ fontSize: 13, color: "#333", margin: "0 0 4px", fontFamily: "'Lora', serif" }}>{entry.title}</p>
+                  <span style={{ fontSize: 10, color: "#999", fontFamily: "sans-serif" }}>{entry.date}</span>
+                </div>
+              );
+            })}
+          </div>
         )}
       </div>
     );
@@ -1235,6 +1282,19 @@ function spotifyToEmbedUrl(raw) {
   // Support track, playlist, album, episode
   const m = raw.match(/spotify\.com(?:\/intl-[a-z]+)?\/(track|playlist|album|episode)\/([A-Za-z0-9]+)/);
   return m ? `https://open.spotify.com/embed/${m[1]}/${m[2]}?utm_source=generator&theme=0` : null;
+}
+
+// Extracts a video URL (YouTube or RedNote) from an entry's body/blocks
+function extractVideoUrl(entry) {
+  const sources = [
+    entry.body || "",
+    ...(entry.blocks || []).flatMap(b => [(b.url || ""), ...(b.rich_text || []).map(r => r.href || r.text || "")]),
+  ].join(" ");
+  const yt = sources.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([A-Za-z0-9_-]{11})/);
+  if (yt) return { type: "youtube", id: yt[1] };
+  const xhs = sources.match(/https?:\/\/(?:www\.)?xiaohongshu\.com\/[^\s"'<>)]+/);
+  if (xhs) return { type: "rednote", url: xhs[0] };
+  return null;
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
