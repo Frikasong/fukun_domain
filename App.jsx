@@ -583,6 +583,7 @@ function App() {
           <GridView
             section={currentSection}
             entries={sectionEntries}
+            allEntries={entries}
             onNew={openNew}
             onEdit={openEdit}
             onDelete={deleteEntry}
@@ -640,7 +641,7 @@ function App() {
 // ═══════════════════════════════════════════════════════════════════════════
 // GRID VIEW
 // ═══════════════════════════════════════════════════════════════════════════
-function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setActiveSection, setView, setTechTab, techTab, T, lang }) {
+function GridView({ section, entries, allEntries, onNew, onEdit, onDelete, onOpenPost, setActiveSection, setView, setTechTab, techTab, T, lang }) {
   const sectionLabel = T.nav[section.id] || section.name;
   const sectionSub = T.nav[section.id + "Sub"] || section.subtitle;
 
@@ -649,51 +650,6 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     const scrollToConnect = () => {
       document.getElementById("hub-connect")?.scrollIntoView({ behavior: "smooth" });
     };
-
-    const tiles = [
-      {
-        key: "legal-ai-lab",
-        category: lang === "zh" ? "项目" : "Projects",
-        label: lang === "zh" ? "AI 实验室" : "AI Lab",
-        sub: lang === "zh" ? "我开发的AI工具" : "AI tools I've been building",
-        onClick: () => { setActiveSection("projects"); setView("grid"); },
-      },
-      {
-        key: "share",
-        category: lang === "zh" ? "想法" : "Thoughts",
-        label: lang === "zh" ? "文章与洞见" : "Writing & Insights",
-        sub: lang === "zh" ? "法律 · 科技 · 随笔" : "Law · Tech · Essays",
-        onClick: () => { setActiveSection("share"); setView("grid"); },
-      },
-      {
-        key: "tech-brew",
-        category: lang === "zh" ? "项目" : "Projects",
-        label: lang === "zh" ? "科技资讯" : "Tech Updates",
-        sub: lang === "zh" ? "自动新闻雷达" : "Auto news radar",
-        href: "news-radar.html",
-      },
-      {
-        key: "music",
-        category: lang === "zh" ? "趣味" : "Fun",
-        label: lang === "zh" ? "音乐" : "Music",
-        sub: lang === "zh" ? "每周精选" : "Weekly picks",
-        onClick: () => { setActiveSection("hobbies"); setView("grid"); },
-      },
-      {
-        key: "photos",
-        category: lang === "zh" ? "趣味" : "Fun",
-        label: lang === "zh" ? "照片" : "Photos",
-        sub: lang === "zh" ? "摄影" : "Photography",
-        onClick: () => { setActiveSection("hobbies"); setView("grid"); },
-      },
-      {
-        key: "essays",
-        category: lang === "zh" ? "想法" : "Thoughts",
-        label: lang === "zh" ? "随笔" : "Essays",
-        sub: lang === "zh" ? "思考与记录" : "Thoughts & reflections",
-        onClick: () => { setActiveSection("share"); setView("grid"); },
-      },
-    ];
 
     const isNarrow = typeof window !== "undefined" && window.innerWidth <= 860;
     return (
@@ -715,22 +671,21 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             <div style={styles.gardenHeroDash} />
             <p style={{ margin: 0, lineHeight: 1.7 }}>
               {lang === "zh" ? (
-                <span style={{ fontFamily: "'Long Cang', cursive", fontSize: 22, color: "rgba(250,247,243,0.82)", letterSpacing: "4px" }}>欢迎来到我的飞鸿雪泥</span>
+                <span style={{ fontFamily: "'Long Cang', cursive", fontSize: 26, color: "rgba(250,247,243,0.85)", letterSpacing: "5px" }}>欢迎来到我的飞鸿雪泥</span>
               ) : (
-                <span style={{ fontFamily: "'Fascinate', cursive", fontSize: 13, color: "rgba(250,247,243,0.65)", letterSpacing: "1.5px" }}>welcome to my domain</span>
+                <span style={{ fontFamily: "'Fascinate', cursive", fontSize: isNarrow ? 14 : 17, color: "rgba(250,247,243,0.72)", letterSpacing: "2px" }}>welcome to my domain</span>
               )}
             </p>
           </div>
         </div>
         </ScrollReveal>
 
-        {/* ── Two-column content below hero ── */}
+        {/* ── Bio (left) + Pick a path (right) two-column ── */}
         <ScrollReveal delay={0.15}>
-        <div style={{ ...styles.aboutTwoCol, flexDirection: isNarrow ? "column" : "row", marginTop: 44 }}>
+        <div style={{ display: "flex", flexDirection: isNarrow ? "column" : "row", gap: isNarrow ? 40 : 48, marginTop: 44, alignItems: "flex-start" }}>
 
-          {/* Left: bio + interests + connect */}
-          <div style={isNarrow ? { width: "100%" } : styles.aboutLeft}>
-            {/* Portrait on mobile (below hero, above bio) */}
+          {/* Left: bio */}
+          <div style={{ flex: "0 0 auto", width: isNarrow ? "100%" : "56%" }}>
             {isNarrow && (
               <div style={{ ...styles.aboutPortraitCard, width: 120, marginBottom: 22, borderRadius: 12 }}>
                 <img src="portrait.jpg?v=7" alt="Fukun Yang" style={{ ...styles.aboutPortraitImg, aspectRatio: "3/4", objectPosition: "center 22%" }} />
@@ -746,38 +701,37 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </p>
           </div>
 
-          {/* Right: bento grid — first card is featured (full-width) */}
-          <div style={isNarrow ? { width: "100%", marginTop: 48 } : styles.aboutRight}>
+          {/* Right: Pick a path + bento tiles */}
+          <div style={{ flex: 1, minWidth: 0 }}>
+            <h2 style={{ fontFamily: "'Fascinate', cursive", fontSize: isNarrow ? 15 : 18, fontWeight: 400, color: "#2B5054", margin: "0 0 6px", letterSpacing: "0.5px" }}>
+              {lang === "zh" ? "选择一条路" : "Pick a path"}
+            </h2>
+            <p style={{ fontFamily: "'Lora', serif", fontStyle: "italic", fontSize: 12.5, color: "#a09080", margin: "0 0 18px", lineHeight: 1.5 }}>
+              {lang === "zh" ? "进入我正在创造和学习的世界" : "Different doors into what I am making and learning."}
+            </p>
             <div style={styles.bentoGrid}>
-              {tiles.map((tile, idx) => {
+              {[
+                { key: "legal-ai-lab", category: lang === "zh" ? "项目" : "Projects", label: lang === "zh" ? "AI 实验室" : "AI Lab", sub: lang === "zh" ? "我开发的AI工具" : "AI tools I've been building", accent: "#2B5054", onClick: () => { setActiveSection("projects"); setView("grid"); } },
+                { key: "share", category: lang === "zh" ? "想法" : "Thoughts", label: lang === "zh" ? "文章与洞见" : "Writing & Insights", sub: lang === "zh" ? "法律 · 科技 · 随笔" : "Law · Tech · Essays", accent: "#7a5c42", onClick: () => { setActiveSection("share"); setView("grid"); } },
+                { key: "tech-brew", category: lang === "zh" ? "项目" : "Projects", label: lang === "zh" ? "科技资讯" : "Tech Updates", sub: lang === "zh" ? "自动新闻雷达" : "Auto news radar", accent: "#35666a", href: "news-radar.html" },
+                { key: "music", category: lang === "zh" ? "趣味" : "Fun", label: lang === "zh" ? "音乐" : "Music", sub: lang === "zh" ? "每周精选" : "Weekly picks", accent: "#5a6b8a", onClick: () => { setActiveSection("hobbies"); setView("grid"); } },
+                { key: "photos", category: lang === "zh" ? "趣味" : "Fun", label: lang === "zh" ? "照片" : "Photos", sub: lang === "zh" ? "摄影" : "Photography", accent: "#8a6a55", onClick: () => { setActiveSection("hobbies"); setView("grid"); } },
+                { key: "essays", category: lang === "zh" ? "想法" : "Thoughts", label: lang === "zh" ? "随笔" : "Essays", sub: lang === "zh" ? "思考与记录" : "Thoughts & reflections", accent: "#6b7a5a", onClick: () => { setActiveSection("share"); setView("grid"); } },
+              ].map((tile, idx) => {
                 const isFeatured = idx === 0;
-                const tileAccent = {
-                  "legal-ai-lab": "#2B5054",
-                  "share":        "#7a5c42",
-                  "tech-brew":    "#35666a",
-                  "music":        "#5a6b8a",
-                  "photos":       "#8a6a55",
-                  "essays":       "#6b7a5a",
-                }[tile.key] || "#2B5054";
                 const cardStyle = isFeatured
-                  ? { ...styles.bentoCard, ...styles.bentoCardFeatured, borderLeft: `3px solid ${tileAccent}` }
-                  : { ...styles.bentoCard, borderLeft: `3px solid ${tileAccent}` };
-                const staggerStyle = { ...cardStyle, animationDelay: `${idx * 0.09}s` };
+                  ? { ...styles.bentoCard, ...styles.bentoCardFeatured, borderLeft: `3px solid ${tile.accent}` }
+                  : { ...styles.bentoCard, borderLeft: `3px solid ${tile.accent}` };
                 return tile.href ? (
-                  <a key={tile.key} href={tile.href} target="_blank" rel="noopener noreferrer" className="bento-card-el sr-grid-item" style={staggerStyle}>
-                    <div style={styles.bentoCardTop}>
-                      <span style={styles.bentoCardCategory}>{tile.category}</span>
-                      <span style={styles.bentoCardArrow}>↗</span>
-                    </div>
+                  <a key={tile.key} href={tile.href} target="_blank" rel="noopener noreferrer"
+                     className="bento-card-el sr-grid-item" style={{ ...cardStyle, animationDelay: `${idx * 0.08}s` }}>
+                    <div style={styles.bentoCardTop}><span style={styles.bentoCardCategory}>{tile.category}</span><span style={styles.bentoCardArrow}>↗</span></div>
                     <p style={isFeatured ? styles.bentoCardNameFeatured : styles.bentoCardName}>{tile.label}</p>
                     <p style={styles.bentoCardDesc}>{tile.sub}</p>
                   </a>
                 ) : (
-                  <button key={tile.key} className="bento-card-el sr-grid-item" style={staggerStyle} onClick={tile.onClick}>
-                    <div style={styles.bentoCardTop}>
-                      <span style={styles.bentoCardCategory}>{tile.category}</span>
-                      <span style={styles.bentoCardArrow}>{isFeatured ? "→" : "→"}</span>
-                    </div>
+                  <button key={tile.key} className="bento-card-el sr-grid-item" style={{ ...cardStyle, animationDelay: `${idx * 0.08}s` }} onClick={tile.onClick}>
+                    <div style={styles.bentoCardTop}><span style={styles.bentoCardCategory}>{tile.category}</span><span style={styles.bentoCardArrow}>→</span></div>
                     <p style={isFeatured ? styles.bentoCardNameFeatured : styles.bentoCardName}>{tile.label}</p>
                     <p style={styles.bentoCardDesc}>{tile.sub}</p>
                   </button>
@@ -787,9 +741,94 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
           </div>
 
         </div>
+        </ScrollReveal>
 
-        {/* ── Let's connect — bottom of page ── */}
-        <div id="hub-connect" style={{ marginTop: 40, paddingTop: 32, borderTop: "1px solid rgba(43,80,84,0.1)" }}>
+        {/* ═══════════════════════════════════════════════════════
+            LATEST SEEDS
+        ═══════════════════════════════════════════════════════ */}
+        {(() => {
+          const recent = [...(allEntries || [])]
+            .sort((a, b) => new Date(b.date) - new Date(a.date))
+            .slice(0, 3);
+          if (!recent.length) return null;
+          const seedSectionLabel = (e) => {
+            const s = SECTION_MAP[e.section] || e.section;
+            const map = { tech: "Tech", law: "Law", essays: "Essays", photography: "Photography", music: "Music", pottery: "Pottery", video: "Video" };
+            return map[s] || s;
+          };
+          return (
+            <ScrollReveal delay={0.05}>
+            <div style={{ marginTop: 52, marginBottom: 12 }}>
+              {/* Header row */}
+              <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: 28, gap: 16 }}>
+                <h2 style={{ fontFamily: "'Fascinate', cursive", fontSize: isNarrow ? 16 : 20, fontWeight: 400, color: "#2B5054", margin: 0, letterSpacing: "0.5px" }}>
+                  {lang === "zh" ? "最新种子" : "Latest seeds"}
+                </h2>
+                <span style={{ fontFamily: "'Lora', serif", fontStyle: "italic", fontSize: 13, color: "#a09080", whiteSpace: "nowrap" }}>
+                  {lang === "zh" ? "最近播种在这里的东西。" : "Things recently planted in this garden."}
+                </span>
+              </div>
+              {/* Seed rows — elegant borderless list */}
+              <div style={{ display: "grid", gridTemplateColumns: isNarrow ? "1fr" : "repeat(3, 1fr)", gap: isNarrow ? 0 : 2 }}>
+                {recent.map((entry, si) => {
+                  const label = seedSectionLabel(entry);
+                  const rawBody = (entry.body || "").replace(/[#*`\[\]-]/g, "").trim();
+                  const isPlaceholder = !rawBody || rawBody === "(No content yet)";
+                  const excerpt = isPlaceholder ? null : rawBody.slice(0, 90);
+                  const isLast = si === recent.length - 1;
+                  return (
+                    <button
+                      key={entry.notionPageId || entry.id}
+                      className="sr-grid-item"
+                      onClick={() => onOpenPost(entry)}
+                      style={{
+                        background: "none",
+                        border: "none",
+                        borderTop: si === 0 || isNarrow ? "1px solid rgba(43,80,84,0.13)" : "none",
+                        borderLeft: isNarrow ? "none" : (si > 0 ? "1px solid rgba(43,80,84,0.13)" : "none"),
+                        borderBottom: isLast || !isNarrow ? "1px solid rgba(43,80,84,0.13)" : "none",
+                        padding: isNarrow ? "20px 4px" : "20px 20px 22px",
+                        cursor: "pointer",
+                        textAlign: "left",
+                        display: "flex",
+                        flexDirection: "column",
+                        gap: 6,
+                        borderRadius: 0,
+                        animationDelay: `${si * 0.09}s`,
+                        transition: "background 0.15s",
+                      }}
+                      onMouseEnter={e => { e.currentTarget.style.background = "rgba(43,80,84,0.04)"; }}
+                      onMouseLeave={e => { e.currentTarget.style.background = "none"; }}
+                    >
+                      <span style={{ fontFamily: "'Lora', serif", fontSize: 10, letterSpacing: "2px", color: "#C8A96E", textTransform: "uppercase", fontWeight: 600 }}>
+                        {entry.date} · {label}
+                      </span>
+                      <h3 style={{ fontFamily: "'Lora', serif", fontSize: 16, fontWeight: 700, color: "#2B5054", margin: 0, lineHeight: 1.3 }}>
+                        {entry.title}
+                      </h3>
+                      {isPlaceholder ? (
+                        <p style={{ fontFamily: "'Lora', serif", fontSize: 12.5, color: "#b0a090", margin: 0, lineHeight: 1.6, fontStyle: "italic" }}>
+                          growing…
+                        </p>
+                      ) : excerpt ? (
+                        <p style={{ fontFamily: "'Lora', serif", fontSize: 12.5, color: "#7a6a58", margin: 0, lineHeight: 1.6 }}>
+                          {excerpt}{rawBody.length > 90 ? "…" : ""}
+                        </p>
+                      ) : null}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+            </ScrollReveal>
+          );
+        })()}
+
+        {/* ═══════════════════════════════════════════════════════
+            LET'S CONNECT
+        ═══════════════════════════════════════════════════════ */}
+        <ScrollReveal delay={0.05}>
+        <div id="hub-connect" style={{ marginTop: 56, paddingTop: 36, borderTop: "1px solid rgba(43,80,84,0.1)" }}>
           <p style={{ fontFamily: "'Fascinate', cursive", fontStyle: "normal", fontSize: 18, color: "#2B5054", margin: "0 0 16px" }}>
             {lang === "zh" ? "欢迎联系~" : "Let's connect!"}
           </p>
@@ -3627,7 +3666,7 @@ const styles = {
   },
   gardenHeroPortraitWrap: {
     position: "absolute",
-    right: 52,
+    right: 120,
     bottom: 0,
     zIndex: 0,
     display: "flex",
