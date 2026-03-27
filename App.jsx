@@ -1232,8 +1232,9 @@ function extractSpotifyUrl(entry) {
 
 function spotifyToEmbedUrl(raw) {
   if (!raw) return null;
-  const m = raw.match(/spotify\.com(?:\/intl-[a-z]+)?\/track\/([A-Za-z0-9]+)/);
-  return m ? `https://open.spotify.com/embed/track/${m[1]}?utm_source=generator&theme=0` : null;
+  // Support track, playlist, album, episode
+  const m = raw.match(/spotify\.com(?:\/intl-[a-z]+)?\/(track|playlist|album|episode)\/([A-Za-z0-9]+)/);
+  return m ? `https://open.spotify.com/embed/${m[1]}/${m[2]}?utm_source=generator&theme=0` : null;
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -1545,11 +1546,15 @@ function PostView({ entry, onBack, T, lang }) {
     <article style={styles.postWrap}>
       <button style={styles.postBackBtn} onClick={onBack}>{T.editor.back}</button>
 
-      {entry.images && entry.images.length > 0 && (
-        <div style={styles.postHero}>
-          <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.postHeroImg} />
-        </div>
-      )}
+      {(() => {
+        const isPhotoEntry = (SECTION_MAP[entry.section] || entry.section) === "photography";
+        if (isPhotoEntry || !entry.images || entry.images.length === 0) return null;
+        return (
+          <div style={styles.postHero}>
+            <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.postHeroImg} />
+          </div>
+        );
+      })()}
 
       <header style={styles.postHeader}>
         <h1 style={{ ...styles.postTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{lang === "zh" && translatedTitle ? translatedTitle : entry.title}</h1>
@@ -1586,12 +1591,30 @@ function PostView({ entry, onBack, T, lang }) {
       })()}
 
       {(() => {
-        // For photo entries, skip empty body — the images are the content
         const isPhotoEntry = (SECTION_MAP[entry.section] || entry.section) === "photography";
+        if (isPhotoEntry) {
+          // Photos: show all images as main masonry content, no body text
+          if (!entry.images || entry.images.length === 0) return null;
+          const vw = typeof window !== "undefined" ? window.innerWidth : 1280;
+          const colCount = vw <= 640 ? 1 : vw < 900 ? 2 : 3;
+          return (
+            <div style={{ columnCount: colCount, columnGap: "10px", margin: "24px 0" }}>
+              {entry.images.map((img, i) => (
+                <img
+                  key={i}
+                  src={typeof img === "string" ? img : img.data}
+                  alt={entry.title}
+                  style={{ width: "100%", height: "auto", display: "block", marginBottom: 10, borderRadius: 8 }}
+                />
+              ))}
+            </div>
+          );
+        }
+        // Non-photo entries: render body text
         const bodyContent = lang === "zh" && translatedLines
           ? translatedLines.map((line, i) => <p key={i} style={styles.postParagraph}>{line}</p>)
           : (!translating && (entry.blocks ? renderBlocks(entry.blocks) : renderBody(entry.body)));
-        if (isPhotoEntry && !bodyContent) return null;
+        if (!bodyContent) return null;
         return (
           <div style={styles.postBody}>
             {lang === "zh" && translating && (
@@ -1602,16 +1625,20 @@ function PostView({ entry, onBack, T, lang }) {
         );
       })()}
 
-      {entry.images && entry.images.length > 1 && (
-        <section style={styles.postSection}>
-          <h3 style={styles.postSectionTitle}>{galleryLabel}</h3>
-          <div style={styles.postGallery}>
-            {entry.images.slice(1).map((img, i) => (
-              <img key={i} src={typeof img === "string" ? img : img.data} alt={typeof img === "string" ? "" : img.name} style={styles.postGalleryImg} />
-            ))}
-          </div>
-        </section>
-      )}
+      {(() => {
+        const isPhotoEntry = (SECTION_MAP[entry.section] || entry.section) === "photography";
+        if (isPhotoEntry || !entry.images || entry.images.length <= 1) return null;
+        return (
+          <section style={styles.postSection}>
+            <h3 style={styles.postSectionTitle}>{galleryLabel}</h3>
+            <div style={styles.postGallery}>
+              {entry.images.slice(1).map((img, i) => (
+                <img key={i} src={typeof img === "string" ? img : img.data} alt={typeof img === "string" ? "" : img.name} style={styles.postGalleryImg} />
+              ))}
+            </div>
+          </section>
+        );
+      })()}
 
       {entry.attachments && entry.attachments.length > 0 && (
         <section style={styles.postSection}>

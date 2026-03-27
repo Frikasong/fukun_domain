@@ -210,6 +210,27 @@ function getCoverImage(page) {
   return null;
 }
 
+// Extract Spotify URL from page body blocks (bookmark, embed, link_preview, paragraph hrefs)
+function extractSpotifyFromBlocks(blocks) {
+  for (const block of blocks) {
+    const type = block?.type;
+    if (!type) continue;
+    // bookmark / embed / link_preview blocks store URL directly
+    if (["bookmark", "embed", "link_preview"].includes(type)) {
+      const url = block[type]?.url;
+      if (url && /spotify\.com/.test(url)) return url;
+    }
+    // paragraph / callout / quote — check rich_text for linked hrefs
+    if (block[type]?.rich_text) {
+      for (const r of block[type].rich_text) {
+        const href = r.href || r.text?.link?.url || "";
+        if (/spotify\.com/.test(href)) return href;
+      }
+    }
+  }
+  return null;
+}
+
 // Extract SpotifyURL from a URL or rich_text property named "Spotify", "SpotifyURL", "spotify_url" etc.
 function getSpotifyUrlProperty(properties) {
   for (const [name, value] of Object.entries(properties || {})) {
@@ -287,6 +308,9 @@ async function main() {
       const blockImages = extractImageUrls(blocks);
       const images = [...(coverUrl ? [coverUrl] : []), ...blockImages];
 
+      // Spotify: try DB property first, fall back to scanning blocks
+      const resolvedSpotifyUrl = spotifyUrl || extractSpotifyFromBlocks(blocks);
+
       const entry = {
         id: Number.parseInt(page.id.replace(/-/g, "").slice(0, 12), 16),
         notionPageId: page.id,
@@ -301,7 +325,7 @@ async function main() {
         attachments: []
       };
 
-      if (spotifyUrl) entry.spotifyUrl = spotifyUrl;
+      if (resolvedSpotifyUrl) entry.spotifyUrl = resolvedSpotifyUrl;
 
       entries.push(entry);
     }
