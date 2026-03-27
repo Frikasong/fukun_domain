@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T01:29:07.697Z",
+  "generatedAt": "2026-03-27T06:58:25.872Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,42 +1210,112 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3740482596372487",
-        "title": "中金：音乐板块长期增长逻辑不改 行业具备估值修复潜力",
-        "url": "https://36kr.com/newsflashes/3740482596372487?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-27T01:12:34.000Z",
-        "summary": "36氪获悉，中金公司研报称，2025年下半年至今，音乐板块的估值经历了深度调整，市场核心担忧主要集中在：订阅业务长期增长空间与增速承压、汽水音乐依托抖音生态与AI翻唱音乐带来竞争冲击、AIGC对正版内容与平台商业价值的影响等方面。近期，腾讯音乐与网易云音乐均已发布2025年业绩。中金公司认为，音乐板块长期增长逻辑不改，多元化收入具潜力，行业具备估值修复潜力。",
+        "id": "InfoQ China:www.infoq.cn/article/nejgb71roxr8xvcyutml",
+        "title": "堆推理链全错了！林俊旸离职首曝：曾在阿里 Qwen 踩中一个“致命”技术误区",
+        "url": "https://www.infoq.cn/article/NeJgB71rOXr8XvCYUTML?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-27T14:14:55.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3740462420918533",
-        "title": "苹果向iPhone设计师发放罕见奖金，应对AI企业挖角",
-        "url": "https://36kr.com/newsflashes/3740462420918533?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-27T00:50:53.000Z",
-        "summary": "苹果公司本周向iPhone硬件设计师发放罕见奖金，以防他们流向OpenAI等正在开发自有设备的人工智能（AI）初创公司。知情人士透露，公司向iPhone产品设计团队的多名成员发放了价值数十万美元的特别奖金。苹果管理层日益担心潜在竞争对手挖走工程师。OpenAI已成为尤其突出的威胁，该公司邀请前苹果设计主管Jony Ive帮助设计新一代以AI为核心的产品。（新浪财经）",
+        "id": "InfoQ China:www.infoq.cn/article/jzgyxouq01prrkoduget",
+        "title": "AI 编码助手并未加快交付速度，因为编码从来都不是瓶颈",
+        "url": "https://www.infoq.cn/article/jZgYXoUQ01pRrKODUgeT?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-27T14:00:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3740449933639938",
-        "title": "OpenAI称ChatGPT广告试点仅六周年化收入突破1亿美元",
-        "url": "https://36kr.com/newsflashes/3740449933639938?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-27T00:39:21.000Z",
-        "summary": "OpenAI一位发言人表示，该公司在美国推出的ChatGPT广告试点项目在短短六周内年化收入就突破了1亿美元大关，这表明市场对这家人工智能初创公司新兴的广告业务有着强劲的早期需求。（新浪财经）",
+        "id": "InfoQ China:www.infoq.cn/article/bdhrwhvkqigaad3ldh53",
+        "title": "让外部知识“长入”模型：动态化与参数化 RAG 技术探索",
+        "url": "https://www.infoq.cn/article/bdHrWhvKqigAAd3ldh53?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-27T13:36:29.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3740448601260288",
-        "title": "“龙虾热”激活AI全产业链，大模型企业有望迎来业绩拐点",
-        "url": "https://36kr.com/newsflashes/3740448601260288?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/afl3mhpmjigb6mzx5dv1",
+        "title": "aiXcoder全新推出代码变更应用模型aiX-apply-4B，效果比肩DeepSeek-V3.2，推理效率提升15倍",
+        "url": "https://www.infoq.cn/article/aFl3mHPMjIGb6mZX5Dv1?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-27T10:51:09.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/4odfuxhhci9maeyepxy0",
+        "title": "用得越多、失业越快？GitHub 大改 Copilot 规则：默认拿个人代码训练 AI，还搬出 Anthropic 挡枪！",
+        "url": "https://www.infoq.cn/article/4ODfuXhhcI9mAeYepXY0?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-27T10:08:44.000Z",
+        "summary": "点击查看原文>",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3740793313050630",
+        "title": "前阿里千问负责人林俊旸离职后首发长文：从训练模型转向训练智能体",
+        "url": "https://36kr.com/newsflashes/3740793313050630?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-27T00:35:00.000Z",
-        "summary": "“龙虾”AI智能体（开源AI智能体框架“OpenClaw”，中文戏称为“龙虾”）的爆火，掀起了全民“养虾”的产业热潮。百度、字节跳动、腾讯等一众科技大厂也集中推出各类“龙虾”智能体。但随着热度逐渐散去，人工智能产业，特别是大模型企业商业化前景却逐渐明朗。MiniMax、智谱、滴普科技等布局大模型港股企业则有望迎来业绩拐点。（证券时报）",
+        "publishedAt": "2026-03-27T06:11:44.000Z",
+        "summary": "3月26日，原阿里通义千问（Qwen）技术负责人林俊旸（Justin Lin）在社交平台上发布了一篇题为“From ‘Reasoning’ Thinking to‘Agentic’ Thinking（从推理式思考到智能体思考）的文章长文。这是他自本月初从阿里辞职之后发布的第一篇长文。在这篇文章中，林俊旸系统性地复盘了推理模型阶段的特征，并探讨了AI未来的发展方向：从训练模型转向训练智能体。（澎湃）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3740754845565184",
+        "title": "智己LS8正式开启预售，25.98万元起售",
+        "url": "https://36kr.com/newsflashes/3740754845565184?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-27T05:32:36.000Z",
+        "summary": "3月26日，智己LS8正式开启预售，新车提供大五座和大六座版本，起售价分别为25.98万元和30.98万元。新车全系标配灵蜥数字底盘3.0及双向24°智慧后轮转向系统，搭载英伟达Thor芯片与520线激光雷达，配备IM AD辅助驾驶系统，支持城市与高速场景辅助驾驶。座舱搭载IM Ultra Agent 1.0，并接入千问大模型，打通阿里全场景生活服务生态。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3740722848268288",
+        "title": "深度机智发布全新具身通用智能大模型",
+        "url": "https://36kr.com/newsflashes/3740722848268288?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-27T05:00:03.000Z",
+        "summary": "36氪获悉，3月27日，在中关村论坛活动现场，由北京中关村学院与中关村人工智能研究院孵化的首家具身智能企业——深度机智，正式发布首个以人类学习范式构建的PhysBrain 1.0具身通用智能基座模型。PhysBrain 1.0采用多模态大模型架构，将物理常识内化于参数之中，让模型具备对物理世界理解的时空一致性，在有限数据下实现真正的泛化能力。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3740653824540676",
+        "title": "智云在深圳成立科技新公司，含AI及卫星相关业务",
+        "url": "https://36kr.com/newsflashes/3740653824540676?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-27T04:38:09.000Z",
+        "summary": "36氪获悉，爱企查App显示，近日，深圳市慧达智云科技有限公司成立，法定代表人为冯彬，注册资本为1500万元人民币，经营范围包括人工智能应用软件开发、人工智能理论与算法软件开发、物联网设备制造、卫星技术综合应用系统集成、半导体器件专用设备制造等。股东信息显示，该公司由大连智云自动化装备股份有限公司全资持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3740650843193345",
+        "title": "美团发布原生多模态 LongCat-Next",
+        "url": "https://36kr.com/newsflashes/3740650843193345?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-27T04:16:39.000Z",
+        "summary": "36氪获悉，3月27日，美团发布并全面开源原生多模态大模型LongCat-Next及其核心组件——离散原生分辨率视觉分词器（dNaViT）。该模型打破了当前大模型以“语言为中心”的传统拼凑式架构，将图像、语音与文本统一映射为同源的离散Token。通过纯粹的“下一个Token预测”（Next Token Prediction，NTP）范式，LongCat-Next让视觉与语音成为AI的“原生母语”。 HK美团-W-4.72%",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3740569636962566",
+        "title": "目标氢能及液流电池市场，实现AEM材料性能突破，「志青博材」获融科储能领投千万元天使+轮融资 | 36氪首发",
+        "url": "https://36kr.com/p/3740569636962566?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-27T02:26:56.000Z",
+        "summary": "文 | 张冰冰 编辑 | 阿至 36氪获悉，苏州市志青博材科技有限公司（以下简称「志青博材」） 近日宣布完成千万元天使+轮融资，由大连融科储能集团股份有限公司领投，老股东熔拓资本跟投 ，资金将主要用于核心材料研发及工程化推进。 「志青博材」成立于2023年6月，致力于推进氢能、液流电池等长周期储能领域中核心材料——阴离子交换膜（AEM）的全国产化研发与量产。目前，「志青博材」已打通从树脂合成到膜材料制备的完整技术链条，拥有多项自主知识产",
         "category": "updates",
         "region": "cn"
       },
@@ -1318,46 +1388,6 @@
         "summary": "作者｜黄楠 编辑｜袁斯来 3月25日，速腾聚创（02498.HK）公布2025年第四季度及全年业绩报告。 财报显示，2025年全年，速腾聚创实现营收约19.41亿元，激光雷达总销量约91.2万台，毛利约5.14亿元，同比增长81.3%。第四季度表现尤为突出，单季度实现经营利润1.30亿元，净利润1.04亿元，首次实现单季度盈利。第四季度综合毛利率达28.5%，同比提升6.4个百分点；机器人领域毛利率达41.5%。 可以看到，公司“车载+",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3739641264177155",
-        "title": "AI首次进入微信首页，Clawbot想在你的工作流里占座",
-        "url": "https://36kr.com/p/3739641264177155?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-26T10:41:30.000Z",
-        "summary": "作者 | 肖思佳 编辑 | 乔芊 2026年3月，或许可以被命名为“互联网龙虾月”。 年前由OpenClaw引发的热潮，在春节过后不仅没有降温，反而愈演愈烈。进入3月，多家互联网与科技公司，要么推出自有“龙虾”产品，要么开放接口加速接入。连一向谨慎克制的腾讯微信也首次下场，在首页推出插件Clawbot，作为各类“龙虾”产品的接入通道入口。 尽管目前Clawbot的技术能力，仍存在诸多不足——例如无法主动推送消息、Markdown显示效果",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/rnszizy7ns5tdbalhyge",
-        "title": "京东公布最新AI进展：推出“龙虾天团”，首次开源大模型JoyAI-LLM Flash",
-        "url": "https://www.infoq.cn/article/RNszIZY7Ns5tdBAlhyGE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-26T10:20:11.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/usmukc9hh5fddmkofo1b",
-        "title": "让推理引擎可被“看见”：大模型推理端到端 Token 级可观测工程实践｜QCon北京",
-        "url": "https://www.infoq.cn/article/UsmUkC9hH5FDdmkofO1b?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-26T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3739583156961285",
-        "title": "企业健管高增40%，平安好医生解锁中国版管理式医疗新范式",
-        "url": "https://36kr.com/p/3739583156961285?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-26T09:41:02.000Z",
-        "summary": "3月24日，平安好医生（1833.HK）公布了2025年全年业绩。 财报显示，平安好医生在2025实现收入54.68亿元，同比增长13.7%。受益于医险协同战略的不断深化，叠加企业健管业务的强劲增长，公司在2025年实现业务收入双位数增长，且相比2024年增长明显加速，业务结构亦得到进一步优化。 利润方面，公司在2025年实现归母净利润3.8亿元，同比增长366.1%，同期经调整净利润录得4.14亿元，同比增长161.3%。公司净利润在",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
@@ -1368,16 +1398,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-03-26T11:31:20.000Z",
         "summary": "Chinese self-driving technology firm Pony AI plans to launch robotaxi services with partners Uber Technologies and Verne in Zagreb, Croatia, spearheading commercialisation of autonomous cabs in Europe amid an accelerated",
-        "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3347747/chinas-weride-eyes-hong-kong-singapore-roads-robotaxis-self-driving-giants-expand",
-        "title": "China’s WeRide eyes Hong Kong, Singapore roads for robotaxis as self-driving giants expand",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3347747/chinas-weride-eyes-hong-kong-singapore-roads-robotaxis-self-driving-giants-expand?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-03-24T14:15:08.000Z",
-        "summary": "Chinese self-driving technology developers continue to expand outside the mainland as WeRide seeks to launch robotaxi services this year in Hong Kong and Singapore, according to an executive. WeRide’s planned entry into ",
         "category": "tools",
         "region": "cn_en"
       },
