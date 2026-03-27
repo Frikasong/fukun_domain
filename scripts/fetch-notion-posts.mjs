@@ -18,7 +18,18 @@ const sectionMap = {
   essays: "essays",
   photography: "photography",
   photos: "photography",
-  music: "music"
+  photo: "photography",
+  music: "music",
+  pottery: "pottery",
+  ceramics: "pottery",
+  ceramic: "pottery",
+  陶艺: "pottery",
+  video: "video",
+  videos: "video",
+  film: "video",
+  films: "video",
+  youtube: "video",
+  小红书: "video",
 };
 
 function assertEnv() {

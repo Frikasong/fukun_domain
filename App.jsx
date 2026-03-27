@@ -578,6 +578,7 @@ function App() {
         maxWidth: isMobile ? "100%" : (isWideDesktop ? 1600 : 1280),
         padding: isMobile ? "28px 14px 44px" : (isTablet ? "40px 18px 56px" : "56px 24px 68px")
       }}>
+        <div key={`${view}__${activeSection}__${selectedEntry && selectedEntry.id}`} className="page-enter">
         {view === "grid" ? (
           <GridView
             section={currentSection}
@@ -620,6 +621,7 @@ function App() {
             T={T}
           />
         )}
+        </div>
       </main>
 
       {/* Footer */}
@@ -698,6 +700,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
       <div style={{ maxWidth: 1100, margin: "0 auto", padding: "0" }}>
 
         {/* ── Garden Hero Card (Chester intro-section style) ── */}
+        <ScrollReveal delay={0}>
         <div style={{ ...styles.gardenHero, padding: isNarrow ? "44px 28px 40px" : "64px 60px 60px", minHeight: isNarrow ? "auto" : 290 }}>
           {/* Portrait floats at bottom-right (desktop only) */}
           {!isNarrow && (
@@ -719,8 +722,10 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </p>
           </div>
         </div>
+        </ScrollReveal>
 
         {/* ── Two-column content below hero ── */}
+        <ScrollReveal delay={0.15}>
         <div style={{ ...styles.aboutTwoCol, flexDirection: isNarrow ? "column" : "row", marginTop: 44 }}>
 
           {/* Left: bio + interests + connect */}
@@ -757,8 +762,9 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                 const cardStyle = isFeatured
                   ? { ...styles.bentoCard, ...styles.bentoCardFeatured, borderLeft: `3px solid ${tileAccent}` }
                   : { ...styles.bentoCard, borderLeft: `3px solid ${tileAccent}` };
+                const staggerStyle = { ...cardStyle, animationDelay: `${idx * 0.09}s` };
                 return tile.href ? (
-                  <a key={tile.key} href={tile.href} target="_blank" rel="noopener noreferrer" className="bento-card-el" style={cardStyle}>
+                  <a key={tile.key} href={tile.href} target="_blank" rel="noopener noreferrer" className="bento-card-el sr-grid-item" style={staggerStyle}>
                     <div style={styles.bentoCardTop}>
                       <span style={styles.bentoCardCategory}>{tile.category}</span>
                       <span style={styles.bentoCardArrow}>↗</span>
@@ -767,7 +773,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                     <p style={styles.bentoCardDesc}>{tile.sub}</p>
                   </a>
                 ) : (
-                  <button key={tile.key} className="bento-card-el" style={cardStyle} onClick={tile.onClick}>
+                  <button key={tile.key} className="bento-card-el sr-grid-item" style={staggerStyle} onClick={tile.onClick}>
                     <div style={styles.bentoCardTop}>
                       <span style={styles.bentoCardCategory}>{tile.category}</span>
                       <span style={styles.bentoCardArrow}>{isFeatured ? "→" : "→"}</span>
@@ -799,6 +805,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.rednote}</a>
           </div>
         </div>
+        </ScrollReveal>
 
       </div>
     );
@@ -841,7 +848,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             const gardenColSpans = ["span 7", "span 5", "span 6", "span 4", "span 8"];
             const gc = gardenColSpans[toolIdx] || "span 6";
             return (
-            <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" className="chester-tool-a" style={{ ...styles.chesterToolCard, gridColumn: gc }}>
+            <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" className="chester-tool-a sr-grid-item" style={{ ...styles.chesterToolCard, gridColumn: gc, animationDelay: `${toolIdx * 0.12}s` }}>
               <div style={styles.chesterCardMeta}>
                 <span style={styles.chesterCardLabel}>{tool.label}</span>
                 <span style={styles.chesterCardArrowIcon}>↗</span>
@@ -965,7 +972,6 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                   const meta = sectionMeta[sid] || { label: "Share", color: "#2B5054" };
                   const bodyLen = (entry.body || "").replace(/[#*`\[\]]/g, "").trim().length;
                   const size = i === 0 ? "hero" : bodyLen > 500 ? "large" : bodyLen > 150 ? "medium" : "small";
-                  // Garden col spans — cycle through pattern, override for big content
                   let cols = tGarden[i % tGarden.length];
                   if (size === "hero") cols = 3;
                   if (size === "large" && cols < 2) cols = 2;
@@ -975,12 +981,13 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                   return (
                     <button
                       key={`${entry.notionPageId || entry.id}-${i}`}
-                      className="chester-post-btn"
+                      className="chester-post-btn sr-grid-item"
                       style={{
                         ...styles.chesterPostCard,
                         borderLeft: `3px solid ${meta.color}`,
                         gridColumn: `span ${cols}`,
                         padding: size === "small" && cols === 1 ? "14px 16px 16px" : cols === 3 ? "26px 28px 24px" : "20px 22px 20px",
+                        animationDelay: `${Math.min(i, 8) * 0.07}s`,
                       }}
                       onClick={() => onOpenPost(entry)}
                     >
@@ -1028,14 +1035,16 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                 ? (typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data)
                 : null;
 
+              const tileDelay = `${Math.min(i, 10) * 0.06}s`;
+
               // ── Photo tile ──
               if (type === "photography") {
                 return (
                   <div
                     key={i}
                     onClick={() => onOpenPost(entry)}
-                    className="photo-mosaic-tile"
-                    style={{ breakInside: "avoid", marginBottom: 10, cursor: "pointer", borderRadius: 12, overflow: "hidden", position: "relative", background: "#f0ede8" }}
+                    className="photo-mosaic-tile sr-col-item"
+                    style={{ breakInside: "avoid", marginBottom: 10, cursor: "pointer", borderRadius: 12, overflow: "hidden", position: "relative", background: "#f0ede8", animationDelay: tileDelay }}
                   >
                     {imgSrc
                       ? <img src={imgSrc} alt={entry.title} style={{ width: "100%", height: "auto", display: "block" }} />
@@ -1054,8 +1063,8 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                   <div
                     key={i}
                     onClick={() => onOpenPost(entry)}
-                    className="photo-mosaic-tile"
-                    style={{ breakInside: "avoid", marginBottom: 10, cursor: "pointer", borderRadius: 12, overflow: "hidden", position: "relative", background: "#f5efe8" }}
+                    className="photo-mosaic-tile sr-col-item"
+                    style={{ breakInside: "avoid", marginBottom: 10, cursor: "pointer", borderRadius: 12, overflow: "hidden", position: "relative", background: "#f5efe8", animationDelay: tileDelay }}
                   >
                     {imgSrc
                       ? <img src={imgSrc} alt={entry.title} style={{ width: "100%", height: "auto", display: "block" }} />
@@ -1075,7 +1084,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
               if (type === "music") {
                 const spotifyEmbedUrl = spotifyToEmbedUrl(extractSpotifyUrl(entry));
                 return (
-                  <div key={i} style={{ breakInside: "avoid", marginBottom: 10, borderRadius: 12, overflow: "hidden", background: "#16213e", border: "1px solid rgba(255,255,255,0.07)" }}>
+                  <div key={i} className="sr-col-item" style={{ breakInside: "avoid", marginBottom: 10, borderRadius: 12, overflow: "hidden", background: "#16213e", border: "1px solid rgba(255,255,255,0.07)", animationDelay: tileDelay }}>
                     <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "8px 14px 4px" }}>
                       <span style={{ fontSize: 10, color: "rgba(255,255,255,0.38)", fontFamily: "sans-serif", letterSpacing: "0.8px", textTransform: "uppercase" }}>{lang === "zh" ? "音乐" : "Music"}</span>
                       <button style={{ background: "none", border: "none", cursor: "pointer", fontSize: 12, color: "rgba(255,255,255,0.38)", padding: 0 }} onClick={() => onOpenPost(entry)}>→</button>
@@ -1107,7 +1116,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
               if (type === "video") {
                 const vid = extractVideoUrl(entry);
                 return (
-                  <div key={i} style={{ breakInside: "avoid", marginBottom: 10, borderRadius: 12, overflow: "hidden", background: "#f0ede8" }}>
+                  <div key={i} className="sr-col-item" style={{ breakInside: "avoid", marginBottom: 10, borderRadius: 12, overflow: "hidden", background: "#f0ede8", animationDelay: tileDelay }}>
                     {vid && vid.type === "youtube" ? (
                       <iframe
                         src={`https://www.youtube.com/embed/${vid.id}`}
@@ -1282,6 +1291,41 @@ function spotifyToEmbedUrl(raw) {
   // Support track, playlist, album, episode
   const m = raw.match(/spotify\.com(?:\/intl-[a-z]+)?\/(track|playlist|album|episode)\/([A-Za-z0-9]+)/);
   return m ? `https://open.spotify.com/embed/${m[1]}/${m[2]}?utm_source=generator&theme=0` : null;
+}
+
+// ─── ScrollReveal component ─────────────────────────────────────────────────
+// Wraps any child and fades it in (opacity + translateY + blur) when scrolled into view.
+// Pass a numeric delay (seconds) for staggered lists.
+function ScrollReveal({ children, delay = 0, style }) {
+  const ref = useRef(null);
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    // Already visible (above fold) — reveal immediately with a tiny offset
+    const rect = el.getBoundingClientRect();
+    if (rect.top < window.innerHeight - 20) {
+      el.style.transitionDelay = `${delay}s`;
+      el.classList.add("sr-visible");
+      return;
+    }
+    const obs = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          el.style.transitionDelay = `${delay}s`;
+          el.classList.add("sr-visible");
+          obs.unobserve(el);
+        }
+      },
+      { threshold: 0.08, rootMargin: "0px 0px -32px 0px" }
+    );
+    obs.observe(el);
+    return () => obs.disconnect();
+  }, [delay]);
+  return (
+    <div ref={ref} className="sr-item" style={style}>
+      {children}
+    </div>
+  );
 }
 
 // Extracts a video URL (YouTube or RedNote) from an entry's body/blocks
@@ -4144,6 +4188,44 @@ const styles = {
     .photo-mosaic-tile { transition: opacity 0.15s !important; }
     .photo-mosaic-tile:hover .photo-mosaic-caption { opacity: 1 !important; }
     .photo-mosaic-tile:hover { opacity: 0.93 !important; }
+
+    /* ── Page transition: fade + rise + blur ── */
+    @keyframes pageEnter {
+      from { opacity: 0; transform: translateY(16px); filter: blur(6px); }
+      to   { opacity: 1; transform: translateY(0);    filter: blur(0);   }
+    }
+    .page-enter {
+      animation: pageEnter 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+    }
+
+    /* ── Scroll reveal: materialise on scroll ── */
+    .sr-item {
+      opacity: 0;
+      transform: translateY(28px);
+      filter: blur(6px);
+      transition:
+        opacity  0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+        transform 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+        filter   0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+      will-change: opacity, transform, filter;
+    }
+    .sr-item.sr-visible {
+      opacity: 1;
+      transform: translateY(0);
+      filter: blur(0);
+    }
+
+    /* ── Grid/column items: stagger via animation-delay set inline ── */
+    @keyframes srFadeUp {
+      from { opacity: 0; transform: translateY(24px); filter: blur(5px); }
+      to   { opacity: 1; transform: translateY(0);    filter: blur(0);   }
+    }
+    .sr-grid-item {
+      animation: srFadeUp 0.65s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+    }
+    .sr-col-item {
+      animation: srFadeUp 0.65s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+    }
   `;
   document.head.appendChild(css);
 })();
