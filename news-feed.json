@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T06:58:25.872Z",
+  "generatedAt": "2026-03-27T12:44:03.395Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/27/clausul-harvey-docusign-legal-innovators-europe",
+        "title": "Clausul, Harvey, Docusign, Legal Innovators Europe +",
+        "url": "https://www.artificiallawyer.com/2026/03/27/clausul-harvey-docusign-legal-innovators-europe/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-27T08:34:44.000Z",
+        "summary": "Welcome to this week’s AL Wrap, and let’s start with Clausul, a new legal tech startup out of Stockholm Sweden, that is redesigning the world ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/deepfakes_techshow_expert_up",
         "title": "Deepfakes mean &#8216;everyone will have to expert up&#8217; for employment and divorce cases, panelists say",
@@ -245,16 +255,6 @@
         "publishedAt": "2026-03-23T14:11:30.000Z",
         "summary": "At the recent Legalweek conference in New York, I sat down with the cofounders of Syllo, a legal technology company that has taken a uniquely ambitious approach to developing technology for litigators. Rather than focus ",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/23/harvey-hires-gibson-dunn-partner-as-cso",
-        "title": "Harvey Hires Gibson Dunn Partner As CSO",
-        "url": "https://www.artificiallawyer.com/2026/03/23/harvey-hires-gibson-dunn-partner-as-cso/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-23T13:15:03.000Z",
-        "summary": "Harvey has hired Keith Enright, most recently a partner at Gibson Dunn &#38; Crutcher, and previously Chief Privacy Officer at Google, to be its Chief ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,6 +1210,56 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/cuhameysqw3doyhw1p8a",
+        "title": "非营利组织上线首个“AI 失业补助”：每月发 1000 美元，持续 1 年",
+        "url": "https://www.infoq.cn/article/cuHaMeYSqw3dOYHW1P8A?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-27T18:52:19.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/huwhl1y4s0k0fnxm7iv0",
+        "title": "传月之暗面考虑赴香港进行 IPO，内部人员证实去年底已启动成本核算",
+        "url": "https://www.infoq.cn/article/HUWHl1y4s0K0fNxm7iv0?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-27T18:48:55.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wryxxgbqwkb29rkoxulo",
+        "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
+        "url": "https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-27T18:30:30.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/f8r89eppsxmroiahukqw",
+        "title": "不是路演，是看火箭发射！马斯克亲自为 SpaceX IPO 写剧本：散户和粉丝先上桌",
+        "url": "https://www.infoq.cn/article/F8R89EPpSXmROiaHUKqW?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-27T18:16:09.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/9okvpt7uhxxyjbkkyyrf",
+        "title": "当数据库的主要用户不再是人类：我们在 AI Agent 场景下的架构实践与思考",
+        "url": "https://www.infoq.cn/article/9OKvpT7uHXxYJBkKYyrf?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-27T16:14:09.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/nejgb71roxr8xvcyutml",
         "title": "堆推理链全错了！林俊旸离职首曝：曾在阿里 Qwen 踩中一个“致命”技术误区",
         "url": "https://www.infoq.cn/article/NeJgB71rOXr8XvCYUTML?utm_source=rss&utm_medium=article",
@@ -1220,22 +1270,32 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/jzgyxouq01prrkoduget",
-        "title": "AI 编码助手并未加快交付速度，因为编码从来都不是瓶颈",
-        "url": "https://www.infoq.cn/article/jZgYXoUQ01pRrKODUgeT?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-27T14:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3741168187736072",
+        "title": "钉钉CLI以Apache-2.0协议开源",
+        "url": "https://36kr.com/newsflashes/3741168187736072?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-27T12:33:04.000Z",
+        "summary": "36氪获悉，3月27日，钉钉CLI开源项目上架Github社区，项目以Apache-2.0协议开源，首批开放AI表格、日历、日志、待办、机器人、通讯录、DING消息、考勤、开放平台文档、工作台共10项核心产品能力，原生支持Claude Code、Cursor等主流AI编程与Agent执行环境。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/bdhrwhvkqigaad3ldh53",
-        "title": "让外部知识“长入”模型：动态化与参数化 RAG 技术探索",
-        "url": "https://www.infoq.cn/article/bdHrWhvKqigAAd3ldh53?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-27T13:36:29.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/p/3737878513844224",
+        "title": "氪星晚报｜菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议；平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片；猎户星空推出AI Agent服务机器人",
+        "url": "https://36kr.com/p/3737878513844224?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-27T11:48:29.000Z",
+        "summary": "大公司： 日本ispace公司将美国国家航空航天局（NASA）资助的登月任务推迟至2030年 日本航天器初创企业ispace周五表示，在两次登月着陆器任务失败后，公司进行战略调整，将把一项由美国政府资助的月球探测任务再度推迟至2030年，并裁减全球员工。此次公告凸显出该企业前景不明朗。当前美国正联合商业及国际伙伴重组太空任务。（新浪财经） 菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议 36氪获悉，今日菜鸟集团与泰国正大集团",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3741090740781320",
+        "title": "曹操出行：2025年营收同比增长38%至202亿元，首次调整后Q4盈利",
+        "url": "https://36kr.com/newsflashes/3741090740781320?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-27T11:14:17.000Z",
+        "summary": "3月27日，曹操出行发布2025年业绩公告。报告期内，公司实现收入202亿元，同比增长38%；毛利率提升至9.4%，增加1.3个百分点；经营现金流净额同比增长60.3%；公司于在2025年第四季度首次实现调整后净利润转正，标志着公司步入盈利性增长轨道。同时Robotaxi转型全面提速，完全定制Robotaxi计划于今年亮相。",
         "category": "updates",
         "region": "cn"
       },
@@ -1260,133 +1320,43 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3740793313050630",
-        "title": "前阿里千问负责人林俊旸离职后首发长文：从训练模型转向训练智能体",
-        "url": "https://36kr.com/newsflashes/3740793313050630?f=rss",
+        "id": "36Kr:36kr.com/p/3740850993037312",
+        "title": "从单季到全年盈利，知乎迎来估值重估",
+        "url": "https://36kr.com/p/3740850993037312?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-27T06:11:44.000Z",
-        "summary": "3月26日，原阿里通义千问（Qwen）技术负责人林俊旸（Justin Lin）在社交平台上发布了一篇题为“From ‘Reasoning’ Thinking to‘Agentic’ Thinking（从推理式思考到智能体思考）的文章长文。这是他自本月初从阿里辞职之后发布的第一篇长文。在这篇文章中，林俊旸系统性地复盘了推理模型阶段的特征，并探讨了AI未来的发展方向：从训练模型转向训练智能体。（澎湃）",
+        "publishedAt": "2026-03-27T08:02:11.000Z",
+        "summary": "作者 | 黄绎达 编辑 | 张帆 3月25日，知乎（证券代码：ZH.N；2039.HK）发布了2025年全年业绩。 知乎2025年财报最核心的亮点， 是首次实现全年非公认会计准则（Non-GAAP）盈利， 对应的全年经调整净利润为3790万元。分季度来看，2024Q4~2025Q2，知乎连续三个季度实现单季度Non-GAAP盈利；其中，2025Q2表现最佳，实现了首次单季度盈利，该季度净利润录得7248万元，同期Non-GAAP净利润为",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3740754845565184",
-        "title": "智己LS8正式开启预售，25.98万元起售",
-        "url": "https://36kr.com/newsflashes/3740754845565184?f=rss",
+        "id": "36Kr:36kr.com/p/3740899945136130",
+        "title": "对标英伟达EgoScale数据路径，清华系孵化星忆科技拿到首轮融资",
+        "url": "https://36kr.com/p/3740899945136130?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-27T05:32:36.000Z",
-        "summary": "3月26日，智己LS8正式开启预售，新车提供大五座和大六座版本，起售价分别为25.98万元和30.98万元。新车全系标配灵蜥数字底盘3.0及双向24°智慧后轮转向系统，搭载英伟达Thor芯片与520线激光雷达，配备IM AD辅助驾驶系统，支持城市与高速场景辅助驾驶。座舱搭载IM Ultra Agent 1.0，并接入千问大模型，打通阿里全场景生活服务生态。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3740722848268288",
-        "title": "深度机智发布全新具身通用智能大模型",
-        "url": "https://36kr.com/newsflashes/3740722848268288?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-27T05:00:03.000Z",
-        "summary": "36氪获悉，3月27日，在中关村论坛活动现场，由北京中关村学院与中关村人工智能研究院孵化的首家具身智能企业——深度机智，正式发布首个以人类学习范式构建的PhysBrain 1.0具身通用智能基座模型。PhysBrain 1.0采用多模态大模型架构，将物理常识内化于参数之中，让模型具备对物理世界理解的时空一致性，在有限数据下实现真正的泛化能力。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3740653824540676",
-        "title": "智云在深圳成立科技新公司，含AI及卫星相关业务",
-        "url": "https://36kr.com/newsflashes/3740653824540676?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-27T04:38:09.000Z",
-        "summary": "36氪获悉，爱企查App显示，近日，深圳市慧达智云科技有限公司成立，法定代表人为冯彬，注册资本为1500万元人民币，经营范围包括人工智能应用软件开发、人工智能理论与算法软件开发、物联网设备制造、卫星技术综合应用系统集成、半导体器件专用设备制造等。股东信息显示，该公司由大连智云自动化装备股份有限公司全资持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3740650843193345",
-        "title": "美团发布原生多模态 LongCat-Next",
-        "url": "https://36kr.com/newsflashes/3740650843193345?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-27T04:16:39.000Z",
-        "summary": "36氪获悉，3月27日，美团发布并全面开源原生多模态大模型LongCat-Next及其核心组件——离散原生分辨率视觉分词器（dNaViT）。该模型打破了当前大模型以“语言为中心”的传统拼凑式架构，将图像、语音与文本统一映射为同源的离散Token。通过纯粹的“下一个Token预测”（Next Token Prediction，NTP）范式，LongCat-Next让视觉与语音成为AI的“原生母语”。 HK美团-W-4.72%",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3740569636962566",
-        "title": "目标氢能及液流电池市场，实现AEM材料性能突破，「志青博材」获融科储能领投千万元天使+轮融资 | 36氪首发",
-        "url": "https://36kr.com/p/3740569636962566?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-27T02:26:56.000Z",
-        "summary": "文 | 张冰冰 编辑 | 阿至 36氪获悉，苏州市志青博材科技有限公司（以下简称「志青博材」） 近日宣布完成千万元天使+轮融资，由大连融科储能集团股份有限公司领投，老股东熔拓资本跟投 ，资金将主要用于核心材料研发及工程化推进。 「志青博材」成立于2023年6月，致力于推进氢能、液流电池等长周期储能领域中核心材料——阴离子交换膜（AEM）的全国产化研发与量产。目前，「志青博材」已打通从树脂合成到膜材料制备的完整技术链条，拥有多项自主知识产",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3740427947426049",
-        "title": "8点1氪丨雷军辞去金山云董事长；苹果回应iPhone半夜自动打电话；速效救心丸成交额同比增长超10倍",
-        "url": "https://36kr.com/p/3740427947426049?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-27T00:04:17.000Z",
-        "summary": "今日热点导览 春秋航空发通知：国内航线燃油附加费确定4月5日上涨 “老头乐”起诉小米汽车，当事企业称已和解 广东多地优化调整住房公积金政策措施 斯柯达将退出中国，大众中国回应：销售到年中，持续提供售后 特朗普称将在5月中旬访华，外交部：中美此事保持着沟通 TOP3大新闻 雷军辞任金山云董事长 3月25日晚间，金山云控股有限公司（以下简称“金山云”，03896.HK）发布公告称，雷军因其他工作安排，已辞任非执行董事，自3月25日生效，辞任",
+        "publishedAt": "2026-03-27T08:00:35.000Z",
+        "summary": "文｜ 任倩 具身数据层的全球竞赛正在迅速升温。NVIDIA Research在2026年发布EgoScale数据与训练框架，在Ego-centric人类操作视频上训练VLA模型，用 20,854小时带动作标注的第一人称人类视频，观察到数据规模和验证损失之间接近对数线性的scaling law。1X收集人类第一视角及家庭行为数据，通过 Sunday项目采集百万小时级家庭场景视频。光轮智能采用仿真合成数据和人类视频数据（EgoSuite）的",
         "category": "articles",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/khsph0t42ji5crffhzo9",
-        "title": "谷歌迎来“DeepSeek时刻”！TurboQuant引爆AI圈、全球开发者疯狂复现：6倍无损压缩，内存股集体暴跌",
-        "url": "https://www.infoq.cn/article/kHSpH0T42Ji5CrFfHzO9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-26T18:39:28.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/5cbck86jkchjvuibwguc",
-        "title": "具身智能中的 VLA 技术及其应用",
-        "url": "https://www.infoq.cn/article/5cBCK86jKCHjvuIbWgUC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-26T17:35:37.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3739769424593154",
-        "title": "浙大博士造出「机器人界的F1」：不卷脑子卷身体，要比博尔特跑得快",
-        "url": "https://36kr.com/p/3739769424593154?f=rss",
+        "id": "36Kr:36kr.com/p/3740893801824512",
+        "title": "杨植麟/张鹏/夏立雪/罗福莉/黄超，谈龙虾，谈“Token经济学”",
+        "url": "https://36kr.com/p/3740893801824512?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-26T14:33:08.000Z",
-        "summary": "最大的瓶颈不在算法，而在硬件的响应能力。 撰文 | 巴芮 编辑 | 薇薇子 封面图源 | 受访者提供 镜识科技仿佛人形机器人行业里的\"反共识之王\"。 这家2024年5月成立的公司，在不到两年的时间里，做了一连串与行业主流截然相反的选择—— 别人已经在追求让机器人变聪明，他们却专注于让机器人跑得快； 小人形受资本偏爱又出货快，但他们偏要做全尺寸； 明知选VLA（视觉-语言-动作模型）路线能更好融资，也更指向终局，但他们选遥操作； 别人挤着",
-        "category": "updates",
+        "publishedAt": "2026-03-27T07:54:53.000Z",
+        "summary": "文｜周鑫雨 王欣逸 钟楚笛 编辑｜周鑫雨 Token，在技术语境下，是模型处理文本时的最小单位；在商业语境下，则成了AI服务最主流的计费方式。 近期，让Token被黄仁勋、吴泳铭等人，拔高到“经济学”概念的导火索，是当下全球最火的开源Agent框架——俗称为“龙虾”的OpenClaw。 它第一次让Agent的概念突破极客圈层，走向普罗大众；同时，运行龙虾庞大的Token消耗，也让习惯使用免费ChatBot的普通用户，第一次感知到： 智能",
+        "category": "articles",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3739636054999040",
-        "title": "StoReel获3400万美元融资：用AI重构故事生产，打造工具社区与平台双轮驱动的内容生态｜涌现新项目",
-        "url": "https://36kr.com/p/3739636054999040?f=rss",
+        "id": "36Kr:36kr.com/p/3740888543412228",
+        "title": "「龙虾」火热，硬件掘金，这里有10个最新的硬件项目",
+        "url": "https://36kr.com/p/3740888543412228?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-26T12:14:29.000Z",
-        "summary": "文｜王欣逸 编辑｜王毓婵 一句话介绍 StoReel是一家全球化AI原生娱乐内容平台，核心产品分别是AI剧集平台StoReel App以及AI剧集工具社区StoReel Canvas，致力于打造系列化剧集内容的创作、发行和变现体系。 公司由海外市场短剧赛道转化而来，自2024年底至2025年初开始系统性地探索AI在短剧生产和内容创作中的应用。 融资进展 近期，StoReel已获得3400万美元增长资金支持，本轮融资包括由Play Ven",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3739460842078470",
-        "title": "氪星晚报｜淘天集团推出“AI生产力计划”，向实习生全员开放;过去五年北京已牵头制定国际标准超500项；欧洲议会表决通过欧美贸易协议",
-        "url": "https://36kr.com/p/3739460842078470?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-26T12:00:31.000Z",
-        "summary": "大公司： 三星、SK等韩国企业实施车辆限行等节能措施，响应政府节能政策 据报道，以三星和SK为首的韩国各大企业集团已推出一系列节能措施，包括关闭办公区照明以及对驾车上班的员工实施车辆限行等，以响应韩国政府的节能政策。三星宣布从26日起在所有国内业务场所实施车辆限行制度，为期十天，该制度规定车牌尾号与日期尾号相同的车辆限制使用停车场，但电动车、氢燃料车、孕妇和残疾人车辆除外。（财联社） 北京人形机器人创新中心发布开源开放生态计划 3月26",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3739712915816457",
-        "title": "速腾聚创首次实现单季盈利，2025年机器人产品销量激增25倍｜最前线",
-        "url": "https://36kr.com/p/3739712915816457?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-26T11:58:27.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 3月25日，速腾聚创（02498.HK）公布2025年第四季度及全年业绩报告。 财报显示，2025年全年，速腾聚创实现营收约19.41亿元，激光雷达总销量约91.2万台，毛利约5.14亿元，同比增长81.3%。第四季度表现尤为突出，单季度实现经营利润1.30亿元，净利润1.04亿元，首次实现单季度盈利。第四季度综合毛利率达28.5%，同比提升6.4个百分点；机器人领域毛利率达41.5%。 可以看到，公司“车载+",
-        "category": "updates",
+        "publishedAt": "2026-03-27T07:50:56.000Z",
+        "summary": "文｜周鑫雨 钟楚笛 编辑｜周鑫雨 若是在春节后来到深圳华强北，你大概率会撞上这样一幕： 在赛格电子世界大厦的二手设备批发档口，短短十几分钟，就有3、4位操着不同口音的客户，询问是否有适配“龙虾”的硬件。一台部署好“龙虾”的一体机，雅称“虾缸”，售价近期一路从1000元出头，涨到2000元。 华强北，是观察科技行业创业风向的窗口。AI眼镜、录音笔、玩偶……在这里，万物皆可适配“龙虾”。一名科技从业者对我们表示：“出现在华强北，说明做到消费",
+        "category": "skills",
         "region": "cn"
       }
     ],
