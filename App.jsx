@@ -1085,10 +1085,15 @@ function GridView({ section, entries, allEntries, onNew, onEdit, onDelete, onOpe
                     className="photo-mosaic-tile sr-col-item"
                     style={{ breakInside: "avoid", marginBottom: 10, cursor: "pointer", borderRadius: 12, overflow: "hidden", position: "relative", background: "#f0ede8", animationDelay: tileDelay }}
                   >
-                    {imgSrc
-                      ? <img src={imgSrc} alt={entry.title} style={{ width: "100%", height: "auto", display: "block" }} />
-                      : <div style={{ aspectRatio: "4/3", background: "#f0ede8", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 36 }}>📷</div>
-                    }
+                    {imgSrc ? (
+                      <>
+                        <img src={imgSrc} alt={entry.title} style={{ width: "100%", height: "auto", display: "block" }}
+                          onError={e => { e.currentTarget.style.display = "none"; e.currentTarget.nextElementSibling.style.display = "flex"; }} />
+                        <div style={{ display: "none", aspectRatio: "4/3", background: "#f0ede8", alignItems: "center", justifyContent: "center", fontSize: 36 }}>📷</div>
+                      </>
+                    ) : (
+                      <div style={{ aspectRatio: "4/3", background: "#f0ede8", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 36 }}>📷</div>
+                    )}
                     <div className="photo-mosaic-caption" style={{ position: "absolute", bottom: 0, left: 0, right: 0, background: "linear-gradient(transparent, rgba(0,0,0,0.55))", padding: "28px 12px 10px", opacity: 0, transition: "opacity 0.2s" }}>
                       <p style={{ color: "#fff", fontSize: 11, margin: 0, fontFamily: "'Lora', serif", letterSpacing: "0.3px" }}>{entry.title}</p>
                     </div>
@@ -1105,10 +1110,15 @@ function GridView({ section, entries, allEntries, onNew, onEdit, onDelete, onOpe
                     className="photo-mosaic-tile sr-col-item"
                     style={{ breakInside: "avoid", marginBottom: 10, cursor: "pointer", borderRadius: 12, overflow: "hidden", position: "relative", background: "#f5efe8", animationDelay: tileDelay }}
                   >
-                    {imgSrc
-                      ? <img src={imgSrc} alt={entry.title} style={{ width: "100%", height: "auto", display: "block" }} />
-                      : <div style={{ aspectRatio: "4/3", background: "#e8ddd0", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 44 }}>🏺</div>
-                    }
+                    {imgSrc ? (
+                      <>
+                        <img src={imgSrc} alt={entry.title} style={{ width: "100%", height: "auto", display: "block" }}
+                          onError={e => { e.currentTarget.style.display = "none"; e.currentTarget.nextElementSibling.style.display = "flex"; }} />
+                        <div style={{ display: "none", aspectRatio: "4/3", background: "#e8ddd0", alignItems: "center", justifyContent: "center", fontSize: 44 }}>🏺</div>
+                      </>
+                    ) : (
+                      <div style={{ aspectRatio: "4/3", background: "#e8ddd0", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 44 }}>🏺</div>
+                    )}
                     <div style={{ position: "absolute", top: 8, left: 8, background: "rgba(139,100,72,0.82)", borderRadius: 20, padding: "2px 10px", fontSize: 10, color: "#fff", fontFamily: "sans-serif", letterSpacing: "0.5px" }}>
                       {lang === "zh" ? "🏺 陶艺" : "🏺 Pottery"}
                     </div>
@@ -1394,7 +1404,8 @@ function EntryCard({ entry, onEdit, onDelete, onOpenPost, T, lang }) {
     <article style={styles.card}>
       {entry.images && entry.images.length > 0 && (
         <div style={styles.cardCover}>
-          <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.cardCoverImg} />
+          <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.cardCoverImg}
+            onError={e => { e.currentTarget.closest("div[style]").style.display = "none"; }} />
           <div style={styles.cardCoverOverlay} />
         </div>
       )}
@@ -1666,20 +1677,9 @@ function PostView({ entry, onBack, T, lang }) {
         continue;
       }
 
-      // paragraph
-      const paragraphs = [];
-      while (i < lines.length) {
-        const t2 = lines[i].trim();
-        if (!t2) break;
-        if (t2 === "---" || t2 === "\u00a7\u00a7DIVIDER\u00a7\u00a7") break;
-        if (/^\u00a7\u00a7(H1|H2|H3|QUOTE|BULLET|NUMBER)\u00a7\u00a7/.test(t2)) break;
-        if (t2.startsWith("# ") || t2.startsWith("## ") || t2.startsWith("### ") || t2.startsWith("> ")) break;
-        if (isListLine(t2)) break;
-        paragraphs.push(lines[i]); i++;
-      }
-      if (paragraphs.length > 0) {
-        els.push(<p key={i} style={styles.postParagraph}>{paragraphs.join(" ")}</p>);
-      }
+      // paragraph — each non-empty, non-special line is its own <p>
+      els.push(<p key={i} style={styles.postParagraph}>{trimmed}</p>);
+      i++;
     }
 
     return els.length > 0 ? els : null;
@@ -1694,7 +1694,8 @@ function PostView({ entry, onBack, T, lang }) {
         if (isPhotoEntry || !entry.images || entry.images.length === 0) return null;
         return (
           <div style={styles.postHero}>
-            <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.postHeroImg} />
+            <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.postHeroImg}
+              onError={e => { e.currentTarget.parentElement.style.display = "none"; }} />
           </div>
         );
       })()}
@@ -1748,6 +1749,7 @@ function PostView({ entry, onBack, T, lang }) {
                   src={typeof img === "string" ? img : img.data}
                   alt={entry.title}
                   style={{ width: "100%", height: "auto", display: "block", marginBottom: 10, borderRadius: 8 }}
+                  onError={e => { e.currentTarget.style.display = "none"; }}
                 />
               ))}
             </div>

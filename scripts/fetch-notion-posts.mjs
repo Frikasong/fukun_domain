@@ -260,6 +260,43 @@ function cleanBody(raw) {
   return raw.replace(/\n{3,}/g, "\n\n").trim();
 }
 
+// Convert raw Notion blocks into the lightweight format that renderBlocks() in App.jsx expects
+function processBlocksForFrontend(blocks) {
+  return blocks.map(block => {
+    const type = block?.type;
+    if (!type) return null;
+    const data = block[type] || {};
+
+    const rt = (data.rich_text || []).map(r => ({
+      text: r.plain_text || "",
+      bold: r.annotations?.bold || false,
+      italic: r.annotations?.italic || false,
+      code: r.annotations?.code || false,
+      strike: r.annotations?.strikethrough || false,
+      underline: r.annotations?.underline || false,
+      href: r.href || r.text?.link?.url || null,
+    })).filter(r => r.text);
+
+    const processed = { type };
+    if (rt.length > 0) processed.rich_text = rt;
+
+    if (type === "image") {
+      processed.url = data.external?.url || data.file?.url || null;
+    }
+    if (type === "callout") {
+      processed.icon = data.icon?.emoji || null;
+    }
+    if (type === "to_do") {
+      processed.checked = !!data.checked;
+    }
+    if (type === "code") {
+      processed.language = data.language || "plain";
+    }
+
+    return processed;
+  }).filter(Boolean);
+}
+
 function summarize(text, max = 280) {
   const plain = text.replace(/\s+/g, " ").trim();
   if (plain.length <= max) return plain;
@@ -322,6 +359,8 @@ async function main() {
       // Spotify: try DB property first, fall back to scanning blocks
       const resolvedSpotifyUrl = spotifyUrl || extractSpotifyFromBlocks(blocks);
 
+      const processedBlocks = processBlocksForFrontend(blocks);
+
       const entry = {
         id: Number.parseInt(page.id.replace(/-/g, "").slice(0, 12), 16),
         notionPageId: page.id,
@@ -333,6 +372,7 @@ async function main() {
         body: bodyText || "(No content yet)",
         summary: summarize(bodyText || ""),
         images,
+        blocks: processedBlocks,
         attachments: []
       };
 
