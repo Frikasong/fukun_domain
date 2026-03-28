@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T01:22:37.824Z",
+  "generatedAt": "2026-03-28T06:49:36.164Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/ai&",
+        "title": "Nilay Patel: AI is rewriting the rules, but law will always need humanity",
+        "url": "https://www.abajournal.com/web/article/ai&#45;should&#45;enhance&#45;the&#45;humanity&#45;of&#45;lawyers&#45;work&#45;nilay&#45;patel&#45;said&#45;in&#45;second&#45;aba&#45;techshow&#45;keynote/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-27T23:45:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/judges&",
         "title": "Judges encourage lawyers to ask more questions about their electronic evidence",
@@ -19,7 +29,7 @@
       },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/wired&",
-        "title": "Ready to wear: Portable smart and augmented reality devices can supercharge lawyers&#8217; practices",
+        "title": "Ready to Wear: Portable smart and augmented reality devices can supercharge lawyers&#8217; practices",
         "url": "https://www.abajournal.com/web/article/wired&#45;for&#45;justice&#45;wearable&#45;and&#45;augmented&#45;tech&#45;for&#45;a&#45;law&#45;practice/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-03-27T22:00:00.000Z",
@@ -93,16 +103,6 @@
         "url": "https://www.abajournal.com/web/article/deepfakes_techshow_expert_up/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-03-26T22:31:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/techshow&",
-        "title": "Techshow attendees dig deeper into AI uses and capabilities",
-        "url": "https://www.abajournal.com/web/article/techshow&#45;attendees&#45;dig&#45;deeper&#45;into&#45;ai&#45;uses&#45;and&#45;capabilities/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-26T19:58:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,12 +1210,32 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3741915021393926",
-        "title": "适用人工智能领域 教育部、国家语委发布两项语言文字新规范",
-        "url": "https://36kr.com/newsflashes/3741915021393926?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/ffa1jsebh45yzqrdfssw",
+        "title": "AWS Load Balancer Controller 正式发布，带来 Kubernetes Gateway API 支持",
+        "url": "https://www.infoq.cn/article/FFA1jSeBh45YZQRdFSSW?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-28T11:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3742010320044035",
+        "title": "三大运营商算力收入提升 Token服务逐渐成为经营主线",
+        "url": "https://36kr.com/newsflashes/3742010320044035?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-28T01:21:53.000Z",
-        "summary": "为积极回应人工智能时代对语言文字的现实需求，推进语言文字规范标准体系建设，近日，教育部、国家语言文字工作委员会发布《机器合成普通话水平测评等级标准及测评大纲》和《人工智能 语料库 基础术语》两项语言文字规范。两项规范由教育部语言文字应用研究所（国家语委普通话与文字应用培训测试中心）组织研制，经国家语委语言文字规范（标准）审定委员会审定通过，目前已由语文出版社正式出版。（央视新闻）",
+        "publishedAt": "2026-03-28T04:13:59.000Z",
+        "summary": "近日，三大电信运营商2025年年报陆续出炉。总的来看，运营商主要业绩指标高位运行，但就总量而言，增长乏力的状况并没有显著改善，算力服务、创新业务、国际业务等结构性收入增长仍是主要亮点。2025年，三大运营商基础资源投入重点继续向算力方向倾斜。记者注意到，根据公布的资本开支计划，算力相关投入仍是运营商今年的重点方向。当然，智算基础设施的落脚点还要围绕如何变现。从三家运营商的表态来看，Token（词元）经营将逐渐成为主线。（人民财讯）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3741924007461128",
+        "title": "9点1氪｜“华人神探”李昌钰去世；罗技为“一降价你像狗一样跑来”广告语道歉；寿司郎就餐需出示手机SIM卡尾号",
+        "url": "https://36kr.com/p/3741924007461128?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-28T01:24:38.000Z",
+        "summary": "今日热点导览 前阿里千问负责人林俊旸离职后首发长文：从训练模型转向训练智能体 九号公司：与泡泡玛特达成合作，联名电动车将于4月推出 苹果公司或将改变战略，向外部人工智能助手开放Siri 多位即将卸任的CEO将人工智能列为决定离职的原因之一 英国将对限制青少年使用社交媒体展开试点 TOP3大新闻 美籍华裔刑事鉴识专家李昌钰逝世，享年87岁 美国康涅狄格州纽黑文大学27日发布公告说，美籍华裔刑事鉴识专家李昌钰当天在位于内华达州的家中逝世，享",
         "category": "updates",
         "region": "cn"
       },
@@ -1260,16 +1280,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3741168187736072",
-        "title": "钉钉CLI以Apache-2.0协议开源",
-        "url": "https://36kr.com/newsflashes/3741168187736072?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-27T12:33:04.000Z",
-        "summary": "36氪获悉，3月27日，钉钉CLI开源项目上架Github社区，项目以Apache-2.0协议开源，首批开放AI表格、日历、日志、待办、机器人、通讯录、DING消息、考勤、开放平台文档、工作台共10项核心产品能力，原生支持Claude Code、Cursor等主流AI编程与Agent执行环境。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3737878513844224",
         "title": "氪星晚报｜菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议；平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片；猎户星空推出AI Agent服务机器人",
         "url": "https://36kr.com/p/3737878513844224?f=rss",
@@ -1290,16 +1300,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/4odfuxhhci9maeyepxy0",
-        "title": "用得越多、失业越快？GitHub 大改 Copilot 规则：默认拿个人代码训练 AI，还搬出 Anthropic 挡枪！",
-        "url": "https://www.infoq.cn/article/4ODfuXhhcI9mAeYepXY0?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-27T10:08:44.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3740850993037312",
         "title": "从单季到全年盈利，知乎迎来估值重估",
         "url": "https://36kr.com/p/3740850993037312?f=rss",
@@ -1315,7 +1315,7 @@
         "url": "https://36kr.com/p/3740899945136130?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-03-27T08:00:35.000Z",
-        "summary": "文｜ 任倩 具身数据层的全球竞赛正在迅速升温。NVIDIA Research在2026年发布EgoScale数据与训练框架，在Ego-centric人类操作视频上训练VLA模型，用 20,854小时带动作标注的第一人称人类视频，观察到数据规模和验证损失之间接近对数线性的scaling law。1X收集人类第一视角及家庭行为数据，通过 Sunday项目采集百万小时级家庭场景视频。光轮智能采用仿真合成数据和人类视频数据（EgoSuite）的",
+        "summary": "文｜ 任倩 具身数据层的全球竞赛正在迅速升温。NVIDIA Research在2026年发布EgoScale数据与训练框架，在Ego-centric人类操作视频上训练VLA模型，用 20,854小时带动作标注的第一人称人类视频，观察到数据规模和验证损失之间接近对数线性的scaling law。1X收集人类第一视角及家庭行为数据���通过 Sunday项目采集百万小时级家庭场景视频。光轮智能采用仿真合成数据和人类视频数据（EgoSuite",
         "category": "articles",
         "region": "cn"
       },
