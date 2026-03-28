@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T18:45:15.005Z",
+  "generatedAt": "2026-03-28T01:22:37.824Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/judges&",
+        "title": "Judges encourage lawyers to ask more questions about their electronic evidence",
+        "url": "https://www.abajournal.com/web/article/judges&#45;encourage&#45;lawyers&#45;to&#45;ask&#45;more&#45;questions&#45;about&#45;their&#45;electronic&#45;evidence/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-27T23:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/wired&",
+        "title": "Ready to wear: Portable smart and augmented reality devices can supercharge lawyers&#8217; practices",
+        "url": "https://www.abajournal.com/web/article/wired&#45;for&#45;justice&#45;wearable&#45;and&#45;augmented&#45;tech&#45;for&#45;a&#45;law&#45;practice/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-27T22:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/dont&",
+        "title": "&#8216;Don&#8217;t blame your associate&#8217; for your AI mistakes or hallucinations",
+        "url": "https://www.abajournal.com/web/article/dont&#45;blame&#45;your&#45;associate&#45;for&#45;your&#45;ai&#45;mistakes&#45;aba&#45;techshow&#45;panelists&#45;say/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-27T20:19:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/opinion&",
         "title": "Opinion fining lawyer $10,000 for citing hallucinated cases breaks down how errors occurred",
@@ -78,42 +108,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/check&",
-        "title": "Check out the best swag from ABA Techshow 2026 (photo gallery)",
-        "url": "https://www.abajournal.com/web/article/check&#45;out&#45;the&#45;best&#45;swag&#45;from&#45;aba&#45;techshow&#45;2026&#45;photo&#45;gallery/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-26T19:15:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/03/ai-that-listens-like-a-lawyer-a-side-by-side-comparison-of-general-ai-notetakers-and-legal-conversational-intelligence.html",
         "title": "AI That Listens Like a Lawyer: A Side-by-Side Comparison of General AI Notetakers and Legal Conversational Intelligence",
         "url": "https://www.lawnext.com/2026/03/ai-that-listens-like-a-lawyer-a-side-by-side-comparison-of-general-ai-notetakers-and-legal-conversational-intelligence.html",
         "source": "LawSites",
         "publishedAt": "2026-03-26T18:15:49.000Z",
         "summary": "AI That Listens Like a Lawyer: Courts Are Exposing the Gap Between What AI Notetakers Promise and What Their Contracts Permit. Purpose-Built Legal Conversational Intelligence™ Tools, Such as Querious®, Offer Attorneys a ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/jordon&",
-        "title": "In ABA Techshow keynote, Jordan Furlong says lawyers need to level up to survive in post-AI world",
-        "url": "https://www.abajournal.com/web/article/jordon&#45;furlong&#45;lays&#45;out&#45;plan&#45;for&#45;lawyering&#45;in&#45;post&#45;ai&#45;world/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-26T16:27:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/where&",
-        "title": "Where can 1Ls get five-figure signing bonuses?",
-        "url": "https://www.abajournal.com/news/article/where&#45;can&#45;1ls&#45;get&#45;five&#45;figure&#45;signing&#45;bonuses/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-26T15:47:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1209,6 +1209,26 @@
       }
     ],
     "cn": [
+      {
+        "id": "36Kr:36kr.com/newsflashes/3741915021393926",
+        "title": "适用人工智能领域 教育部、国家语委发布两项语言文字新规范",
+        "url": "https://36kr.com/newsflashes/3741915021393926?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-28T01:21:53.000Z",
+        "summary": "为积极回应人工智能时代对语言文字的现实需求，推进语言文字规范标准体系建设，近日，教育部、国家语言文字工作委员会发布《机器合成普通话水平测评等级标准及测评大纲》和《人工智能 语料库 基础术语》两项语言文字规范。两项规范由教育部语言文字应用研究所（国家语委普通话与文字应用培训测试中心）组织研制，经国家语委语言文字规范（标准）审定委员会审定通过，目前已由语文出版社正式出版。（央视新闻）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3741142695117059",
+        "title": "曹操出行2025年业绩：首次调整后Q4盈利，迈向盈利性增长新阶段",
+        "url": "https://36kr.com/p/3741142695117059?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-28T00:19:02.000Z",
+        "summary": "3月27日，曹操出行公布了2025年全年业绩。数据显示，公司业务范围已覆盖全国195座城市，2025年全年实现营收202亿元，同比增长38%；毛利率提升至9.4%，增加1.3个百分点。 更值得关注的是第四季度的财务数据——期内公司经调整净利润转正，历史性地首次实现单季扭亏为盈。 与此同时，现金流指标也释放出积极信号，公司全年经营活动净现金流同比增长60.3%。这意味着，曹操出行已经彻底摆脱了依赖外部输血的阶段，真正具备了自我造血与内生增",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/wryxxgbqwkb29rkoxulo",
         "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
