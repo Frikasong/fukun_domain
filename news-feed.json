@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T18:29:30.969Z",
+  "generatedAt": "2026-03-29T01:45:11.346Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/techshows&",
+        "title": "Techshow&#8217;s &#8216;60 in 60&#8217; features mix of tips and tools for lawyers",
+        "url": "https://www.abajournal.com/web/article/techshows&#45;60&#45;in&#45;60&#45;features&#45;mix&#45;of&#45;tips&#45;and&#45;tools&#45;for&#45;lawyers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-28T18:30:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/aba&",
         "title": "ABA presidents&#8217; panel strongly defends rule of law and calls on all lawyers to defend it",
@@ -104,16 +114,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-03-27T08:34:44.000Z",
         "summary": "Welcome to this week’s AL Wrap, and let’s start with Clausul, a new legal tech startup out of Stockholm Sweden, that is redesigning the world ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/deepfakes_techshow_expert_up",
-        "title": "Deepfakes mean &#8216;everyone will have to expert up&#8217; for employment and divorce cases, panelists say",
-        "url": "https://www.abajournal.com/web/article/deepfakes_techshow_expert_up/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-26T22:31:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "36Kr:36kr.com/p/3743360666566919",
+        "title": "36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum",
+        "url": "https://36kr.com/p/3743360666566919?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-29T01:43:38.000Z",
+        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，合肥幺正量子科技有限公司（以下简称“幺正量子”）近日已完成数亿元Pre A轮融资。本轮由蚂蚁集团和吉利资本联合领投，混沌投资、英飞尼迪、中博聚力、国元基金等跟投，老股东顺为资本追加投资，云岫资本担任本轮独家财务顾问。资金将主要用于加速QCCD离子阱量子计算路线的核心技术研发。 幺正量子成立于2022年，是目前国内唯一基于QCCD（量子电荷耦合架构）离子阱技术路线的量子计算公司。 公司孵化自郭光灿院士创",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/ffa1jsebh45yzqrdfssw",
         "title": "AWS Load Balancer Controller 正式发布，带来 Kubernetes Gateway API 支持",
         "url": "https://www.infoq.cn/article/FFA1jSeBh45YZQRdFSSW?utm_source=rss&utm_medium=article",
@@ -1246,16 +1256,6 @@
         "source": "36Kr",
         "publishedAt": "2026-03-28T07:17:19.000Z",
         "summary": "全球开发者先锋大会3月27日至3月29日在沪举行。大会期间，上海市人工智能行业协会秘书长钟俊浩在接受证券时报记者采访时表示，“养龙虾”热潮，表明AI正实现从生产工具到生产力的进阶。当前AI智能体技术仍在快速迭代，行业处于“在前行中探索，在探索中前行”的阶段。对待AI安全和规范议题，既不能因噎废食，也不能忽视风险，需依托既有网络安全管理体系，结合大模型内生安全建设，逐步规范行业发展。（证券时报）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3742010320044035",
-        "title": "三大运营商算力收入提升 Token服务逐渐成为经营主线",
-        "url": "https://36kr.com/newsflashes/3742010320044035?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-28T04:13:59.000Z",
-        "summary": "近日，三大电信运营商2025年年报陆续出炉。总的来看，运营商主要业绩指标高位运行，但就总量而言，增长乏力的状况并没有显著改善，算力服务、创新业务、国际业务等结构性收入增长仍是主要亮点。2025年，三大运营商基础资源投入重点继续向算力方向倾斜。记者注意到，根据公布的资本开支计划，算力相关投入仍是运营商今年的重点方向。当然，智算基础设施的落脚点还要围绕如何变现。从三家运营商的表态来看，Token（词元）经营将逐渐成为主线。（人民财讯）",
         "category": "updates",
         "region": "cn"
       },
@@ -1338,29 +1338,9 @@
         "summary": "文｜ 任倩 具身数据层的全球竞赛正在迅速升温。NVIDIA Research在2026年发布EgoScale数据与训练框架，在Ego-centric人类操作视频上训练VLA模型，用 20,854小时带动作标注的第一人称人类视频，观察到数据规模和验证损失之间接近对数线性的scaling law。1X收集人类第一视角及家庭行为数据，通过 Sunday项目采集百万小时级家庭场景视频。光轮智能采用仿真合成数据和人类视频数据（EgoSuite）的",
         "category": "articles",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3740893801824512",
-        "title": "杨植麟/张鹏/夏立雪/罗福莉/黄超，谈龙虾，谈“Token经济学”",
-        "url": "https://36kr.com/p/3740893801824512?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-27T07:54:53.000Z",
-        "summary": "文｜周鑫雨 王欣逸 钟楚笛 编辑｜周鑫雨 Token，在技术语境下，是模型处理文本时的最小单位；在商业语境下，则成了AI服务最主流的计费方式。 近期，让Token被黄仁勋、吴泳铭等人，拔高到“经济学”概念的导火索，是当下全球最火的开源Agent框架——俗称为“龙虾”的OpenClaw。 它第一次让Agent的概念突破极客圈层，走向普罗大众；同时，运行龙虾庞大的Token消耗，也让习惯使用免费ChatBot的普通用户，第一次感知到： 智能",
-        "category": "articles",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3348026/chinas-pony-ai-launch-robotaxi-service-europe-uber-local-start",
-        "title": "China’s Pony AI to launch robotaxi service in Europe with Uber, local start-up",
-        "url": "https://www.scmp.com/business/china-business/article/3348026/chinas-pony-ai-launch-robotaxi-service-europe-uber-local-start?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-03-26T11:31:20.000Z",
-        "summary": "Chinese self-driving technology firm Pony AI plans to launch robotaxi services with partners Uber Technologies and Verne in Zagreb, Croatia, spearheading commercialisation of autonomous cabs in Europe amid an accelerated",
-        "category": "tools",
-        "region": "cn_en"
-      },
       {
         "id": "Sixth Tone:www.sixthtone.com/news/1018314/love%20in%20the%20time%20of%20algorithms:%20what%20chatbot%20romances%20reveal%20about%20connection",
         "title": "Love in the Time of Algorithms: What Chatbot Romances Reveal About Connection",
