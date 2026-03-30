@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T12:59:46.316Z",
+  "generatedAt": "2026-03-30T18:50:01.807Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/former&",
+        "title": "Former prosecutor sentenced after making online threats against LGBTQ+ event and others",
+        "url": "https://www.abajournal.com/news/article/former&#45;illinois&#45;prosecutor&#45;sentenced&#45;after&#45;making&#45;threats&#45;against&#45;lgbtq&#45;event&#45;and&#45;other&#45;groups/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-30T17:04:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/the&",
+        "title": "The Burton Book Review: &#8216;Charles Sumner: Conscience of a Nation&#8217;",
+        "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;charles&#45;sumner&#45;conscience&#45;of&#45;a&#45;nation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-30T14:45:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/law&",
+        "title": "Law firms fight DOJ effort to revive &#8216;draconian&#8217; executive orders",
+        "url": "https://www.abajournal.com/news/article/law&#45;firms&#45;fight&#45;doj&#45;effort&#45;to&#45;revive&#45;draconian&#45;executive&#45;orders/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-30T14:01:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/03/survey-finds-majority-of-federal-judges-have-used-ai-in-their-work-but-daily-use-remains-rare.html",
         "title": "Survey Finds Majority of Federal Judges Have Used AI in Their Work, But Daily Use Remains Rare",
@@ -93,46 +123,6 @@
         "url": "https://www.abajournal.com/web/article/dont&#45;blame&#45;your&#45;associate&#45;for&#45;your&#45;ai&#45;mistakes&#45;aba&#45;techshow&#45;panelists&#45;say/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-03-27T20:19:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/opinion&",
-        "title": "Opinion fining lawyer $10,000 for citing hallucinated cases breaks down how errors occurred",
-        "url": "https://www.abajournal.com/news/article/opinion&#45;fining&#45;lawyer&#45;10000&#45;for&#45;citing&#45;hallucinated&#45;cases&#45;breaks&#45;down&#45;how&#45;errors&#45;occurred/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-27T14:55:00.000Z",
-        "summary": "",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/law&",
-        "title": "Law firm diversity benchmark sees drop in participation",
-        "url": "https://www.abajournal.com/news/article/law&#45;firm&#45;diversity&#45;benchmark&#45;sees&#45;drop&#45;in&#45;participation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-27T14:02:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/tech&",
-        "title": "How trial lawyers can utilize tech to give them an edge in the courtroom",
-        "url": "https://www.abajournal.com/news/article/tech&#45;on&#45;trial&#45;winning&#45;a&#45;jury&#45;in&#45;a&#45;digital&#45;and&#45;visual&#45;age/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-27T14:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/white&",
-        "title": "White & Case employee claims he was stripped naked and photographed at firm party",
-        "url": "https://www.abajournal.com/news/article/white&#45;case&#45;employee&#45;claims&#45;he&#45;was&#45;stripped&#45;naked&#45;and&#45;photographed&#45;at&#45;firm&#45;party/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-27T13:07:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1206,29 +1196,19 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mestumq8xab0ip3ztlsw",
-        "title": "利用 Snowflake Cortex AI 能力，打造高效 IPO 研究智能体 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/MesTUMq8XAB0Ip3ZTlSw?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-30T19:30:01.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zzvotdkhdckeowshigag",
-        "title": "Snowpark Connect 完全指南：PySpark 作业执行与生产数据管道构建 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/zZvotDKHDCKeoWShIGAg?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-30T18:42:50.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/d8e3q93kbviq8z8mu0ao",
         "title": "OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
