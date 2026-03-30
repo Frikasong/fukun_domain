@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T07:17:43.755Z",
+  "generatedAt": "2026-03-30T12:59:46.316Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/03/survey-finds-majority-of-federal-judges-have-used-ai-in-their-work-but-daily-use-remains-rare.html",
+        "title": "Survey Finds Majority of Federal Judges Have Used AI in Their Work, But Daily Use Remains Rare",
+        "url": "https://www.lawnext.com/2026/03/survey-finds-majority-of-federal-judges-have-used-ai-in-their-work-but-daily-use-remains-rare.html",
+        "source": "LawSites",
+        "publishedAt": "2026-03-30T12:50:13.000Z",
+        "summary": "A first-of-its-kind random-sample survey of federal judges has found that more than 60% have used generative artificial intelligence tools in their judicial work, though fewer than one in four use these tools on a daily ",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/30/ai-native-law-firm-directory-launches",
+        "title": "AI-Native Law Firm Directory Launches",
+        "url": "https://www.artificiallawyer.com/2026/03/30/ai-native-law-firm-directory-launches/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-30T08:32:43.000Z",
+        "summary": "Matt Pollins, the co-founder of Lupl and also previously a partner at CMS, has launched a directory of AI-native law firms, which keeps tabs on ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/30/autopilots-can-absorb-60bn-of-legal-work-sequoia",
         "title": "Autopilots Can Absorb $60bn of Legal Work &#8211; Sequoia",
@@ -235,16 +255,6 @@
         "publishedAt": "2026-03-24T07:40:00.000Z",
         "summary": "Thomson Reuters (TR) is getting ready to launch ‘Thomson’ its own legally-trained LLM this summer, built using opensource models, their huge data store, and its ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/23/relativity-confirms-ipo-but-is-this-a-good-time",
-        "title": "Relativity Confirms Proposed IPO Registration, But Is This A Good Time?",
-        "url": "https://www.artificiallawyer.com/2026/03/23/relativity-confirms-ipo-but-is-this-a-good-time/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-23T15:55:11.000Z",
-        "summary": "eDiscovery pioneer Relativity has confirmed that it has &#8216;confidentially submitted a draft registration statement on Form S-1 to the Securities and Exchange Commission relating to ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1178,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2025/12/agiloft-launches-ai-powered-obligation-management-system-for-contract-lifecycle.html",
-        "title": "Agiloft Launches AI-Powered Obligation Management System for Contract Lifecycle",
-        "url": "https://www.lawnext.com/2025/12/agiloft-launches-ai-powered-obligation-management-system-for-contract-lifecycle.html",
-        "source": "LawSites",
-        "publishedAt": "2025-12-08T14:00:39.000Z",
-        "summary": "Contract lifecycle management company Agiloft today released Obligation Management, a new feature that uses artificial intelligence to automatically extract and track commitments from contracts. The feature is designed t",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,21 +1210,41 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/lrjjhcf8qhoq1vbsacnz",
-        "title": "OpenAI扩展Responses API，为自主智能体提供基础设施",
-        "url": "https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/mestumq8xab0ip3ztlsw",
+        "title": "利用 Snowflake Cortex AI 能力，打造高效 IPO 研究智能体 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/MesTUMq8XAB0Ip3ZTlSw?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-03-30T15:00:00.000Z",
+        "publishedAt": "2026-03-30T19:30:01.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ldsm9byztpz2qhhaoqpo",
-        "title": ".NET 11预览版2更新MAUI，带来性能提升和平台优化",
-        "url": "https://www.infoq.cn/article/ldsM9ByZTPz2qhHAOqPO?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/zzvotdkhdckeowshigag",
+        "title": "Snowpark Connect 完全指南：PySpark 作业执行与生产数据管道构建 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/zZvotDKHDCKeoWShIGAg?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-03-30T14:00:00.000Z",
+        "publishedAt": "2026-03-30T18:42:50.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/d8e3q93kbviq8z8mu0ao",
+        "title": "OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
+        "url": "https://www.infoq.cn/article/D8E3q93kBviq8Z8mu0Ao?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-30T17:48:24.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/lrjjhcf8qhoq1vbsacnz",
+        "title": "OpenAI扩展Responses API，为自主智能体提供基础设施",
+        "url": "https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-30T15:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1240,12 +1260,32 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3745372464497158",
+        "title": "Mistral筹集8.3亿美元在欧洲建设英伟达芯片驱动的AI中心",
+        "url": "https://36kr.com/newsflashes/3745372464497158?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-30T11:49:53.000Z",
+        "summary": "3月30日，法国人工智能初创公司Mistral AI宣布，已获得8.3亿美元的债务融资，用于在巴黎郊外建设数据中心项目。Mistral表示，这笔资金将用于从英伟达公司购买13,800个GB300芯片，用于在法国建设数据中心，该数据中心将于2026年第二季度投入运营。Mistral计划到2027年底，在欧洲各地提供200兆瓦的数据中心容量。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/xqbrhe3bteb7wqjkihi1",
         "title": "全网疯传！Claude最新模型意外曝光：全面碾压Opus 4.6，强到让Anthropic不敢发布",
         "url": "https://www.infoq.cn/article/xqbRhE3BteB7wqJKIhI1?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-30T10:46:08.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3745267391103239",
+        "title": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+        "url": "https://36kr.com/p/3745267391103239?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-30T10:05:42.000Z",
+        "summary": "大公司： 全国首个万卡级全栈自主可控智算集群点亮 深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。 特斯拉：TERAFAB项目正式发布，预计将实现每年超1太瓦算力产出 36氪获悉，据TeslaAI微博消息，TERAFAB项目正式发布，预计将实现每年超过1太瓦",
         "category": "updates",
         "region": "cn"
       },
@@ -1266,26 +1306,6 @@
         "source": "36Kr",
         "publishedAt": "2026-03-30T06:40:27.000Z",
         "summary": "文｜富充 编辑｜苏建勋 创业满一年，唐文斌的身上依旧保留着旷视时期的印记，在和我们的对话中，他时常说到 “本质” 这个词——那是旷视内部的一个“流行词”。 清华“姚班”毕业之后，唐文斌和同学印奇、杨沐在2011年创办了旷视科技。在这家AI 1.0标志性企业中，人们喜欢追问“本质”。 创业旷视的14年里，唐文斌经历了AI 1.0浪潮的完整起伏。从高歌猛进的业务扩展，到屡次与上市失之交臂，这些经历也打磨着他对“本质”的理解。 关于对旷视最重",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3745013883240710",
-        "title": "ClawBench：智谱、字节、小米共有4款模型跻身全球前十",
-        "url": "https://36kr.com/newsflashes/3745013883240710?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-30T05:45:07.000Z",
-        "summary": "36氪获悉，评测机构ClawBench发布了最新大型模型榜单。北京人工智能企业智谱、字节、小米共有4款模型跻身全球前十。其中，智谱GLM-5-Turbo以93.9分的成绩登顶榜首；字节Doubao-Seed-2.0-lite位居第二，使用成本为全榜最低；小米MiMo-V2-Omni位列第9，运行速度最快。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3745002198401282",
-        "title": "全国首个万卡级全栈自主可控智算集群点亮",
-        "url": "https://36kr.com/newsflashes/3745002198401282?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-30T05:33:14.000Z",
-        "summary": "深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。（深圳特区报）",
         "category": "updates",
         "region": "cn"
       },
@@ -1348,36 +1368,6 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3738258350817540",
-        "title": "「一人一天一部剧」时代降临，但AI短剧供给过剩不是末日｜专访巨日禄杰夫",
-        "url": "https://36kr.com/p/3738258350817540?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-28T09:55:35.000Z",
-        "summary": "2026春节前，由字节跳动旗下视频生成模型Seedance2.0掀起的巨浪，正推动AI剧走向规模化落地。身在这场巨变中的短剧公司，或惊恐、焦虑，抑或面对新的机会热情高涨。 AI短剧创作平台巨日禄创始人杰夫预判，3—4月将成为行业关键节点，“一人一天一部剧”的生产能力成为现实，商业化标准的短剧制作成本将被大幅压缩，随之而来的是成本结构的彻底倒挂：人力成本占比从8成骤降至2成，算力与Token成为核心成本。供给过剩将在两三个月后如期而至，但",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3741924007461128",
-        "title": "9点1氪｜“华人神探”李昌钰去世；罗技为“一降价你像狗一样跑来”广告语道歉；寿司郎就餐需出示手机SIM卡尾号",
-        "url": "https://36kr.com/p/3741924007461128?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-28T01:24:38.000Z",
-        "summary": "今日热点导览 前阿里千问负责人林俊旸离职后首发长文：从训练模型转向训练智能体 九号公司：与泡泡玛特达成合作，联名电动车将于4月推出 苹果公司或将改变战略，向外部人工智能助手开放Siri 多位即将卸任的CEO将人工智能列为决定离职的原因之一 英国将对限制青少年使用社交媒体展开试点 TOP3大新闻 美籍华裔刑事鉴识专家李昌钰逝世，享年87岁 美国康涅狄格州纽黑文大学27日发布公告说，美籍华裔刑事鉴识专家李昌钰当天在位于内华达州的家中逝世，享",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wryxxgbqwkb29rkoxulo",
-        "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
-        "url": "https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-27T18:30:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
@@ -1388,16 +1378,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-03-30T03:41:43.000Z",
         "summary": "Chinese artificial intelligence start-up DeepSeek suffered a prolonged outage overnight that extended into early Monday morning, disrupting service for hundreds of millions of users, according to a company notice and use",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3348311/what-makes-yuanjie-chinese-optical-chip-star-and-hong-kong-ipo-candidate-stand-out",
-        "title": "What makes Yuanjie – a Chinese optical chip star and Hong Kong IPO candidate – stand out?",
-        "url": "https://www.scmp.com/tech/article/3348311/what-makes-yuanjie-chinese-optical-chip-star-and-hong-kong-ipo-candidate-stand-out?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-03-30T02:00:06.000Z",
-        "summary": "Yuanjie Semiconductor Technology, a Chinese maker of laser chips for optical communications, has emerged as one of the mainland exchanges’ biggest beneficiaries of the artificial intelligence infrastructure boom – with i",
         "category": "updates",
         "region": "cn_en"
       },
