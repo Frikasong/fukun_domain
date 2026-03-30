@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T18:30:46.799Z",
+  "generatedAt": "2026-03-30T01:47:39.822Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,36 @@
     ],
     "cn": [
       {
+        "id": "36Kr:36kr.com/newsflashes/3744780146344192",
+        "title": "企业微信CLI正式开源，向AI开放消息、日程、文档等核心能力",
+        "url": "https://36kr.com/newsflashes/3744780146344192?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-30T01:47:21.000Z",
+        "summary": "36氪获悉，3月30日，企业微信CLI开源项目上架GitHub社区，开放消息、日程、文档、智能表、会议、待办、通讯录等七大核心产品能力，支持主流AI Agent （如Claude Code、Codex、WorkBuddy、QClaw等）调用。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3744666471088389",
+        "title": "「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作平台 | 36氪首发",
+        "url": "https://36kr.com/p/3744666471088389?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-30T00:00:00.000Z",
+        "summary": "36氪获悉，2026年3月，「微元合成」完成3亿元A+轮融资，由河南投资集团汇融基金和谭瑞清先生参与投资。本轮融资将助力微元合成拓宽AI生物计算应用边界，加大核心技术研发投入与场景化落地。 据介绍，此前，河南投资集团已完成AI基础设施产业的深度布局，从投资芯片、控股超大规模算力，到全面整合HALO资产，为AI场景应用的落地提供了电力与算力支持。值得关注的是，本轮投资人谭瑞清为复旦大学校董及化学系校友会会长、A股知名上市公司龙佰集团联合创",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3744669439508484",
+        "title": "8点1氪丨全国猪价跌破5元创历史新低；雀巢12吨巧克力被盗；起诉小米汽车的“老头乐”企业致歉",
+        "url": "https://36kr.com/p/3744669439508484?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-29T23:56:55.000Z",
+        "summary": "今日热点导览 美副总统称无意滞留伊朗，将很快撤出 国际民航组织新规：每位乘客最多携带两块移动电源 王云鹤离职，曾任华为诺亚方舟实验室主任 遭中国学界集体“拉黑”后，NeurIPS道歉 索尼游戏主机PS5官宣涨价 TOP3大新闻 全国猪价跌破5元创历史新低，全国瘦肉型生猪交易均价为9.71元/公斤 3月23日，卓创资讯监测全国瘦肉型生猪交易均价为9.71元/公斤（即跌破5元/斤），创历史新低。与此同时，生猪期货主力合约在3月27日盘中跌至",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3743855989587971",
         "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
         "url": "https://36kr.com/p/3743855989587971?f=rss",
@@ -1220,52 +1250,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3743854538899714",
-        "title": "“AI未来论坛”在京举办，红杉中国、高瓴创投等6家投资机构集中签约",
-        "url": "https://36kr.com/newsflashes/3743854538899714?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-29T10:05:46.000Z",
-        "summary": "36氪获悉，3月29日，2026中关村论坛年会“人工智能主题日”特色专题论坛“AI未来论坛：跃迁·投资·共生”成功举办。活动现场，中关村科学城国际创新服务集聚区迎来重要时刻，红杉中国、高瓴创投、经纬创投、五源资本、金沙江创投、真知创投6家投资机构作为投资生态伙伴集中签约。集聚区是海淀区为系统性集聚全球顶尖创投与科创服务资源而建，旨在打造全球前沿科技的创投中心，构建“人才-技术-场景-资本”高效协同生态，最大化加速创新。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/dl0kkexki8psdb6xp53b",
         "title": "面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京",
         "url": "https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-03-29T10:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3743771820490752",
-        "title": "北京启动智能网联新能源汽车商业保险开发应用",
-        "url": "https://36kr.com/newsflashes/3743771820490752?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-29T08:59:33.000Z",
-        "summary": "记者今天（29日）从北京金融监管局了解到，北京已在全国率先启动智能网联新能源汽车商业保险产品开发应用。据介绍，近年来随着智能网联汽车产业发展迅速，智能驾驶等前沿技术广泛应用，改变了交通事故风险因素、场景及损失形态等，现有商业机动车辆保险难以精准适配智能网联汽车独有的特定致损原因、使用场景和特有的软硬件设备损失等情况。为适应产业发展和消费者的新需求，北京金融监管局在金融监管总局的指导和北京市委市政府的支持下，以先行先试的方式，在全国率先开",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3743644863889416",
-        "title": "宇树科技王兴兴：具身智能GPT时刻大概还需两到三年",
-        "url": "https://36kr.com/newsflashes/3743644863889416?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-29T06:59:17.000Z",
-        "summary": "宇树科技创始人、CEO王兴兴亮相2026中国网络媒体论坛，以《当机器人刷屏》为题发表演讲。他个人定义具身智能的“GPT时刻”为：带一台机器人到陌生场景，通过语音指令，机器人能完成80%到90%的任务。王兴兴表示，具身智能的“GPT时刻大概还要两到三年到来。“可能很快，也可能慢一点，但今年或明年一定会有非常大的技术进步在等待着大家。” （大河财立方）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3743533154107399",
-        "title": "OpenAI早期投资者称人工智能领域需要全面改革所得税制度",
-        "url": "https://36kr.com/newsflashes/3743533154107399?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-29T05:00:40.000Z",
-        "summary": "OpenAI早期投资者称人工智能领域需要全面改革所得税制度。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1358,19 +1348,19 @@
         "summary": "大公司： 日本ispace公司将美国国家航空航天局（NASA）资助的登月任务推迟至2030年 日本航天器初创企业ispace周五表示，在两次登月着陆器任务失败后，公司进行战略调整，将把一项由美国政府资助的月球探测任务再度推迟至2030年，并裁减全球员工。此次公告凸显出该企业前景不明朗。当前美国正联合商业及国际伙伴重组太空任务。（新浪财经） 菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议 36氪获悉，今日菜鸟集团与泰国正大集团",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3740850993037312",
-        "title": "从单季到全年盈利，知乎迎来估值重估",
-        "url": "https://36kr.com/p/3740850993037312?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-27T08:02:11.000Z",
-        "summary": "作者 | 黄绎达 编辑 | 张帆 3月25日，知乎（证券代码：ZH.N；2039.HK）发布了2025年全年业绩。 知乎2025年财报最核心的亮点， 是首次实现全年非公认会计准则（Non-GAAP）盈利， 对应的全年经调整净利润为3790万元。分季度来看，2024Q4~2025Q2，知乎连续三个季度实现单季度Non-GAAP盈利；其中，2025Q2表现最佳，实现了首次单季度盈利，该季度净利润录得7248万元，同期Non-GAAP净利润为",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3348333/hong-kong-listed-insilico-medicine-signs-ai-drug-development-deal-eli-lilly",
+        "title": "Hong Kong-listed Insilico Medicine signs AI drug development deal with Eli Lilly",
+        "url": "https://www.scmp.com/business/china-business/article/3348333/hong-kong-listed-insilico-medicine-signs-ai-drug-development-deal-eli-lilly?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-03-30T01:24:48.000Z",
+        "summary": "Insilico Medicine has signed a potential multibillion-dollar deal with Eli Lilly to license out an early-stage drug pipeline and provide its artificial intelligence platform services in research and development collabora",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "Sixth Tone:www.sixthtone.com/news/1018314/love%20in%20the%20time%20of%20algorithms:%20what%20chatbot%20romances%20reveal%20about%20connection",
         "title": "Love in the Time of Algorithms: What Chatbot Romances Reveal About Connection",
