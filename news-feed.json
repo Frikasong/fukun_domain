@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T01:47:39.822Z",
+  "generatedAt": "2026-03-30T07:17:43.755Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/30/autopilots-can-absorb-60bn-of-legal-work-sequoia",
+        "title": "Autopilots Can Absorb $60bn of Legal Work &#8211; Sequoia",
+        "url": "https://www.artificiallawyer.com/2026/03/30/autopilots-can-absorb-60bn-of-legal-work-sequoia/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-30T07:10:21.000Z",
+        "summary": "One of the leading tech investment funds in the world, Sequoia, estimates that around $60 billion worth of externally handled legal work – across transactions ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/techshows&",
         "title": "Techshow&#8217;s &#8216;60 in 60&#8217; features mix of tips and tools for lawyers",
@@ -234,16 +244,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-03-23T15:55:11.000Z",
         "summary": "eDiscovery pioneer Relativity has confirmed that it has &#8216;confidentially submitted a draft registration statement on Form S-1 to the Securities and Exchange Commission relating to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/23/pointone-raises-16m-10xs-revenue",
-        "title": "PointOne Raises $16m, 10Xs Revenue",
-        "url": "https://www.artificiallawyer.com/2026/03/23/pointone-raises-16m-10xs-revenue/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-23T15:25:32.000Z",
-        "summary": "PointOne, the time entry startup, has raised a $16m Series A, led by 8VC, with continued participation from Bessemer Venture Partners, General Catalyst, and Y ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,12 +1210,82 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3744780146344192",
-        "title": "企业微信CLI正式开源，向AI开放消息、日程、文档等核心能力",
-        "url": "https://36kr.com/newsflashes/3744780146344192?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/lrjjhcf8qhoq1vbsacnz",
+        "title": "OpenAI扩展Responses API，为自主智能体提供基础设施",
+        "url": "https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-30T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ldsm9byztpz2qhhaoqpo",
+        "title": ".NET 11预览版2更新MAUI，带来性能提升和平台优化",
+        "url": "https://www.infoq.cn/article/ldsM9ByZTPz2qhHAOqPO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-30T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/sxxieeo332f2st6i1rwc",
+        "title": "记忆驱动的 DevOps Agent：从经验沉淀到自动化技能进化的工程实践｜QCon北京",
+        "url": "https://www.infoq.cn/article/sxxIEeo332F2st6I1RwC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-30T11:56:30.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/xqbrhe3bteb7wqjkihi1",
+        "title": "全网疯传！Claude最新模型意外曝光：全面碾压Opus 4.6，强到让Anthropic不敢发布",
+        "url": "https://www.infoq.cn/article/xqbRhE3BteB7wqJKIhI1?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-30T10:46:08.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/eogsq765xry9bjddtzhp",
+        "title": "DeepSeek 崩溃超12小时，工程师连夜抢修，现已恢复正常",
+        "url": "https://www.infoq.cn/article/EoGsQ765xrY9bJDDTzhP?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-30T10:03:26.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3745064614494211",
+        "title": "对话原力灵机唐文斌：我不喜欢讲我不信的话，也无法成为我不想成为的人",
+        "url": "https://36kr.com/p/3745064614494211?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-30T01:47:21.000Z",
-        "summary": "36氪获悉，3月30日，企业微信CLI开源项目上架GitHub社区，开放消息、日程、文档、智能表、会议、待办、通讯录等七大核心产品能力，支持主流AI Agent （如Claude Code、Codex、WorkBuddy、QClaw等）调用。",
+        "publishedAt": "2026-03-30T06:40:27.000Z",
+        "summary": "文｜富充 编辑｜苏建勋 创业满一年，唐文斌的身上依旧保留着旷视时期的印记，在和我们的对话中，他时常说到 “本质” 这个词——那是旷视内部的一个“流行词”。 清华“姚班”毕业之后，唐文斌和同学印奇、杨沐在2011年创办了旷视科技。在这家AI 1.0标志性企业中，人们喜欢追问“本质”。 创业旷视的14年里，唐文斌经历了AI 1.0浪潮的完整起伏。从高歌猛进的业务扩展，到屡次与上市失之交臂，这些经历也打磨着他对“本质”的理解。 关于对旷视最重",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3745013883240710",
+        "title": "ClawBench：智谱、字节、小米共有4款模型跻身全球前十",
+        "url": "https://36kr.com/newsflashes/3745013883240710?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-30T05:45:07.000Z",
+        "summary": "36氪获悉，评测机构ClawBench发布了最新大型模型榜单。北京人工智能企业智谱、字节、小米共有4款模型跻身全球前十。其中，智谱GLM-5-Turbo以93.9分的成绩登顶榜首；字节Doubao-Seed-2.0-lite位居第二，使用成本为全榜最低；小米MiMo-V2-Omni位列第9，运行速度最快。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3745002198401282",
+        "title": "全国首个万卡级全栈自主可控智算集群点亮",
+        "url": "https://36kr.com/newsflashes/3745002198401282?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-30T05:33:14.000Z",
+        "summary": "深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。（深圳特区报）",
         "category": "updates",
         "region": "cn"
       },
@@ -1300,16 +1370,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3741142695117059",
-        "title": "曹操出行2025年业绩：首次调整后Q4盈利，迈向盈利性增长新阶段",
-        "url": "https://36kr.com/p/3741142695117059?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-28T00:19:02.000Z",
-        "summary": "3月27日，曹操出行公布了2025年全年业绩。数据显示，公司业务范围已覆盖全国195座城市，2025年全年实现营收202亿元，同比增长38%；毛利率提升至9.4%，增加1.3个百分点。 更值得关注的是第四季度的财务数据——期内公司经调整净利润转正，历史性地首次实现单季扭亏为盈。 与此同时，现金流指标也释放出积极信号，公司全年经营活动净现金流同比增长60.3%。这意味着，曹操出行已经彻底摆脱了依赖外部输血的阶段，真正具备了自我造血与内生增",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/wryxxgbqwkb29rkoxulo",
         "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
         "url": "https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&utm_medium=article",
@@ -1318,47 +1378,27 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/9okvpt7uhxxyjbkkyyrf",
-        "title": "当数据库的主要用户不再是人类：我们在 AI Agent 场景下的架构实践与思考",
-        "url": "https://www.infoq.cn/article/9OKvpT7uHXxYJBkKYyrf?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-27T16:14:09.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/nejgb71roxr8xvcyutml",
-        "title": "堆推理链全错了！林俊旸离职首曝：曾在阿里 Qwen 踩中一个“致命”技术误区",
-        "url": "https://www.infoq.cn/article/NeJgB71rOXr8XvCYUTML?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-27T14:14:55.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3737878513844224",
-        "title": "氪星晚报｜菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议；平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片；猎户星空推出AI Agent服务机器人",
-        "url": "https://36kr.com/p/3737878513844224?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-27T11:48:29.000Z",
-        "summary": "大公司： 日本ispace公司将美国国家航空航天局（NASA）资助的登月任务推迟至2030年 日本航天器初创企业ispace周五表示，在两次登月着陆器任务失败后，公司进行战略调整，将把一项由美国政府资助的月球探测任务再度推迟至2030年，并裁减全球员工。此次公告凸显出该企业前景不明朗。当前美国正联合商业及国际伙伴重组太空任务。（新浪财经） 菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议 36氪获悉，今日菜鸟集团与泰国正大集团",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3348333/hong-kong-listed-insilico-medicine-signs-ai-drug-development-deal-eli-lilly",
-        "title": "Hong Kong-listed Insilico Medicine signs AI drug development deal with Eli Lilly",
-        "url": "https://www.scmp.com/business/china-business/article/3348333/hong-kong-listed-insilico-medicine-signs-ai-drug-development-deal-eli-lilly?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3348345/deepseek-outage-leaves-millions-cut-and-sparks-complaints-rivals-gain-ground",
+        "title": "DeepSeek 12-hour outage leaves millions cut off, sparks complaints as rivals gain ground",
+        "url": "https://www.scmp.com/tech/big-tech/article/3348345/deepseek-outage-leaves-millions-cut-and-sparks-complaints-rivals-gain-ground?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-03-30T01:24:48.000Z",
-        "summary": "Insilico Medicine has signed a potential multibillion-dollar deal with Eli Lilly to license out an early-stage drug pipeline and provide its artificial intelligence platform services in research and development collabora",
-        "category": "tools",
+        "publishedAt": "2026-03-30T03:41:43.000Z",
+        "summary": "Chinese artificial intelligence start-up DeepSeek suffered a prolonged outage overnight that extended into early Monday morning, disrupting service for hundreds of millions of users, according to a company notice and use",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/article/3348311/what-makes-yuanjie-chinese-optical-chip-star-and-hong-kong-ipo-candidate-stand-out",
+        "title": "What makes Yuanjie – a Chinese optical chip star and Hong Kong IPO candidate – stand out?",
+        "url": "https://www.scmp.com/tech/article/3348311/what-makes-yuanjie-chinese-optical-chip-star-and-hong-kong-ipo-candidate-stand-out?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-03-30T02:00:06.000Z",
+        "summary": "Yuanjie Semiconductor Technology, a Chinese maker of laser chips for optical communications, has emerged as one of the mainland exchanges’ biggest beneficiaries of the artificial intelligence infrastructure boom – with i",
+        "category": "updates",
         "region": "cn_en"
       },
       {
