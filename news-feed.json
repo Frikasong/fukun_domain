@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T07:04:14.065Z",
+  "generatedAt": "2026-03-31T12:57:44.199Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/31/le-paris-saint-germain-accueille-harvey-comme-partenaire-officiel",
+        "title": "Le Paris Saint-Germain Accueille Harvey Comme Partenaire Officiel",
+        "url": "https://www.artificiallawyer.com/2026/03/31/le-paris-saint-germain-accueille-harvey-comme-partenaire-officiel/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-31T09:49:13.000Z",
+        "summary": "Le Paris Saint-Germain et Harvey, plateforme d’IA de référence pour les services juridiques, annoncent aujourd’hui la signature d’un partenariat pluriannuel faisant de Harvey le partenaire ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/31/despite-the-whale-you-can-see-legal-ai-roi",
+        "title": "Despite The Whale, You Can See Legal AI ROI",
+        "url": "https://www.artificiallawyer.com/2026/03/31/despite-the-whale-you-can-see-legal-ai-roi/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-31T09:00:31.000Z",
+        "summary": "A survey for Legora by Ari Kaplan has sought to address the legal AI ROI visibility problem experienced by law firms. It found that despite ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/31/how-do-ai-native-law-firms-work",
+        "title": "How Do AI-Native Law Firms Work?",
+        "url": "https://www.artificiallawyer.com/2026/03/31/how-do-ai-native-law-firms-work/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-31T07:34:04.000Z",
+        "summary": "You’ve probably heard a lot about how AI-native, NewMod law firms are changing the game. But how do they work? How do you make a ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/31/the-general-counsel-is-the-new-cfo",
         "title": "The General Counsel is the New CFO",
@@ -188,16 +218,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/26/newmod-general-legal-hits-11-5m-funding-in-3-months",
-        "title": "NewMod General Legal Hits $11.5m Funding in 3 Months",
-        "url": "https://www.artificiallawyer.com/2026/03/26/newmod-general-legal-hits-11-5m-funding-in-3-months/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-26T08:12:14.000Z",
-        "summary": "NewMod, AI-native law firm General Legal has announced it has hit $11.5m in Seed and pre-Seed funding since launching officially just three months ago. Co-founder, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/03/exclusive-smokeball-and-thomson-reuters-partner-to-integrate-cocounsel-legal-ai-with-practice-management-platform.html",
         "title": "Exclusive: Smokeball and Thomson Reuters Partner to Integrate CoCounsel Legal AI with Practice Management Platform",
         "url": "https://www.lawnext.com/2026/03/exclusive-smokeball-and-thomson-reuters-partner-to-integrate-cocounsel-legal-ai-with-practice-management-platform.html",
@@ -215,26 +235,6 @@
         "publishedAt": "2026-03-25T13:00:50.000Z",
         "summary": "The legal profession crossed a significant threshold in 2025: For the first time, more lawyers are using generative AI than not, even as firm leaders express widespread concern about the technology&#8217;s reliability, a",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/24/eudia-launches-expert-digital-twins-partners-with-servicenow",
-        "title": "Eudia Launches Expert Digital Twins, Partners With ServiceNow",
-        "url": "https://www.artificiallawyer.com/2026/03/24/eudia-launches-expert-digital-twins-partners-with-servicenow/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-24T17:45:00.000Z",
-        "summary": "Eudia has launched what it’s calling Expert Digital Twins, which are ‘governed replicas of how an organization’s best subject matter experts make decisions, [then] deployed ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/24/newmod-soxton-acquires-cipher-security-company",
-        "title": "NewMod Soxton Acquires Cipher Security Company",
-        "url": "https://www.artificiallawyer.com/2026/03/24/newmod-soxton-acquires-cipher-security-company/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-24T13:00:00.000Z",
-        "summary": "Soxton, an AI-powered, NewMod law firm focused on startups, has acquired Cipher, a security company designed for agentic applications. The move provides ‘advanced protection for ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,22 +1210,32 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/xsbt0gvhvfom2odbooyh",
-        "title": "OpenClaw 火了之后，企业真正缺的不是更聪明的龙虾，而是一套上岗体系",
-        "url": "https://www.infoq.cn/article/XSBT0gvHvFom2OdbOoYH?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/z8omad2yjfblxaa0yfij",
+        "title": "通义实验室推出CoPaw，更适合打工人的国产龙虾来了",
+        "url": "https://www.infoq.cn/article/Z8OmAd2YjFBlxaA0yfij?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-03-31T14:52:40.000Z",
+        "publishedAt": "2026-03-31T20:49:03.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/e1wx7iizhzespm5rb1jz",
-        "title": "构建大规模自治体系",
-        "url": "https://www.infoq.cn/article/E1wx7iizhZeSpM5Rb1jz?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/5pyujnxpqhs9zd3kb67m",
+        "title": "昨夜，Claude 接管电脑狂飙代码！OpenAI 发布最“阴险”插件截胡",
+        "url": "https://www.infoq.cn/article/5PyUjNXpqHs9Zd3kB67m?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-03-31T14:00:00.000Z",
+        "publishedAt": "2026-03-31T17:14:25.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3746654452187648",
+        "title": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
+        "url": "https://36kr.com/p/3746654452187648?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-31T10:00:05.000Z",
+        "summary": "大公司： 韩国摄像头公司从供货iPhone向人形机器人拓展 韩国LG Innotek计划加速转型，减少对iPhone销售的依赖，成为AI和机器人解决方案的领先提供商；该公司已开始向波士顿动力供应摄像头模块，并计划共同开发机器人组件。视觉系统是人形机器人中的重要感知部分，除了特斯拉之外，其他公司都采用了多传感器融合的模式。 B站官宣将下线猜你喜欢算法 36氪获悉，哔哩哔哩宣布：从明天零点起，B站将下线猜你喜欢算法，不再根据你的喜好来推荐主",
         "category": "updates",
         "region": "cn"
       },
@@ -1240,22 +1250,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3746413765427973",
-        "title": "瑞银：中国市场调整或已过度，优质AI股票迎来布局窗口",
-        "url": "https://36kr.com/newsflashes/3746413765427973?f=rss",
+        "id": "36Kr:36kr.com/p/3746575157658368",
+        "title": "营收三年增16倍，壁仞科技迎来业绩兑现期",
+        "url": "https://36kr.com/p/3746575157658368?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-31T05:29:09.000Z",
-        "summary": "瑞银财富管理投资总监办公室（CIO）发表机构观点，认为当前中国市场的调整可能已过度，投资者有机会以较低估值增持优质中国AI股票。中国互联网行业目前12个月远期市盈率约为13倍，已接近DeepSeek发布前的水平，当前估值尚未充分反映过去一年AI投资及变现带来的收益。瑞银财富管理预计，MSCI中国指数今年EPS增速约为13%，科技板块盈利增速有望达到20%至25%。并且政策仍然积极支持AI发展和科技创新，随着市场情绪及基本面改善，盈利、估",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3746303131992584",
-        "title": "网易云音乐发布OpenClaw专属使用教程",
-        "url": "https://36kr.com/newsflashes/3746303131992584?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-31T04:45:29.000Z",
-        "summary": "36氪获悉，近日，网易云音乐宣布全面接入OpenClaw，并将其音乐推荐、音乐搜索等基础能力封装成一系列标准化CLI（标准接口）及自动化Skill。3月30日，网易云音乐进一步发布OpenClaw专属使用教程，向开发者介绍AI Agent对音乐交互场景的切实价值，并梳理了网易云音乐CLI的多种使用方式。据了解，开发者可以通过OpenClaw调用网易云音乐标准化CLI，完全个性化组装网易云音乐的核心音乐服务能力。",
+        "publishedAt": "2026-03-31T08:22:11.000Z",
+        "summary": "3月30日港股盘后，壁仞科技发布上市后的首份财务报告。 数据显示，2025年，公司实现营业收入10.35亿元，同比增长207.2%；同期毛利达5.57亿元，同比增长210.8%，对应毛利率为53.8%。 2025年以来，模型的持续迭代、智能体的全面爆发叠加上地缘政治冲突的升温，共同驱动国产算力行业进入快速爆发期。而芯片作为核心基座，受益于行业爆发红利，实现了从技术突破到规模化落地的关键拐点。 作为国产算力芯片的头部企业，壁仞科技此次发布",
         "category": "updates",
         "region": "cn"
       },
@@ -1267,16 +1267,6 @@
         "publishedAt": "2026-03-31T00:30:00.000Z",
         "summary": "文｜胡香赟 编辑｜海若镜 AI制药领域，再现200亿人民币级交易。 3月29日晚，英矽智能（HK:03696）公告了与礼来和合作：首付款1.15亿美元、总价27.5亿美元，另包含产品上市后的潜在销售分成。交易核心是一款临床前口服GLP-1药物；此外，基于英矽智能Pharma AI技术平台，双方未来还将开展多项“围绕礼来选定靶点”的研发合作。 同日，英矽智能年报显示，2025年总收入5620万美元，截止报告期的BD授权合同总价为21.74",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3746104816943617",
-        "title": "8点1氪丨伊朗议会批准对海峡征收通行费；多品牌电动车将涨价；名创优品回应买盲盒需要会员",
-        "url": "https://36kr.com/p/3746104816943617?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-31T00:17:24.000Z",
-        "summary": "今日热点导览 曝iPhoneFold将成史上最大改款，有媒体称其设计革新超iPhone X 泡泡玛特乐园迎来新区域开放，门票将涨价 蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复 DeepSeek公告服务出现重大中断，12小时未修复引发热议 俞敏洪：东方甄选首家线下门店将于4月在北京中关村开业 TOP3大新闻 伊朗议会批准对海峡征收通行费，需以伊朗本币支付 当地时间周一，伊朗议会通过一项法案，拟对通过霍尔木兹海峡的船只征",
-        "category": "tools",
         "region": "cn"
       },
       {
@@ -1298,59 +1288,29 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/sxxieeo332f2st6i1rwc",
-        "title": "记忆驱动的 DevOps Agent：从经验沉淀到自动化技能进化的工程实践｜QCon北京",
-        "url": "https://www.infoq.cn/article/sxxIEeo332F2st6I1RwC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-30T11:56:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/xqbrhe3bteb7wqjkihi1",
-        "title": "全网疯传！Claude最新模型意外曝光：全面碾压Opus 4.6，强到让Anthropic不敢发布",
-        "url": "https://www.infoq.cn/article/xqbRhE3BteB7wqJKIhI1?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-30T10:46:08.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3745267391103239",
-        "title": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
-        "url": "https://36kr.com/p/3745267391103239?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-30T10:05:42.000Z",
-        "summary": "大公司： 全国首个万卡级全栈自主可控智算集群点亮 深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。 特斯拉：TERAFAB项目正式发布，预计将实现每年超1太瓦算力产出 36氪获悉，据TeslaAI微博消息，TERAFAB项目正式发布，预计将实现每年超过1太瓦",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/eogsq765xry9bjddtzhp",
-        "title": "DeepSeek 崩溃超12小时，工程师连夜抢修，现已恢复正常",
-        "url": "https://www.infoq.cn/article/EoGsQ765xrY9bJDDTzhP?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-30T10:03:26.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3745064614494211",
-        "title": "对话原力灵机唐文斌：我不喜欢讲我不信的话，也无法成为我不想成为的人",
-        "url": "https://36kr.com/p/3745064614494211?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-30T06:40:27.000Z",
-        "summary": "文｜富充 编辑｜苏建勋 创业满一年，唐文斌的身上依旧保留着旷视时期的印记，在和我们的对话中，他时常说到 “本质” 这个词——那是旷视内部的一个“流行词”。 清华“姚班”毕业之后，唐文斌和同学印奇、杨沐在2011年创办了旷视科技。在这家AI 1.0标志性企业中，人们喜欢追问“本质”。 创业旷视的14年里，唐文斌经历了AI 1.0浪潮的完整起伏。从高歌猛进的业务扩展，到屡次与上市失之交臂，这些经历也打磨着他对“本质”的理解。 关于对旷视最重",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3348536/hong-kong-retains-global-ipo-crown-first-quarter-faces-us-mega-listings",
+        "title": "Hong Kong retains global IPO crown in first quarter but faces US mega listings",
+        "url": "https://www.scmp.com/business/banking-finance/article/3348536/hong-kong-retains-global-ipo-crown-first-quarter-faces-us-mega-listings?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-03-31T11:30:12.000Z",
+        "summary": "Hong Kong has retained its top position in terms of initial public offering (IPO) funds raised in the first quarter of this year but industry experts said the city could lose its lead to the US over the full year given t",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/policy/article/3348527/apples-accidental-ai-feature-roll-out-china-risks-regulatory-backlash-expert-says",
+        "title": "Apple’s accidental AI feature roll-out in China risks regulatory backlash, expert says",
+        "url": "https://www.scmp.com/tech/policy/article/3348527/apples-accidental-ai-feature-roll-out-china-risks-regulatory-backlash-expert-says?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-03-31T10:00:39.000Z",
+        "summary": "Apple’s accidental roll-out on Tuesday of its highly anticipated Apple Intelligence feature in mainland China – which has yet to receive regulatory approval – before swiftly pulling it could raise the ire of regulators a",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3348345/deepseek-outage-leaves-millions-cut-and-sparks-complaints-rivals-gain-ground",
         "title": "DeepSeek 12-hour outage leaves millions cut off, sparks complaints as rivals gain ground",
