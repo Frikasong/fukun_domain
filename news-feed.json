@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T12:57:44.199Z",
+  "generatedAt": "2026-03-31T18:51:14.469Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,86 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
+        "title": "DOJ dropped over 23K criminal investigations in shift to immigration",
+        "url": "https://www.abajournal.com/news/article/doj&#45;dropped&#45;criminal&#45;investigations&#45;in&#45;immigration&#45;shift/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-31T18:36:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/iowa&",
+        "title": "Law students can get a clue to close reading in fantasy card game-inspired class",
+        "url": "https://www.abajournal.com/web/article/iowa&#45;law&#45;students&#45;can&#45;get&#45;a&#45;clue&#45;to&#45;close&#45;reading&#45;in&#45;magic&#45;the&#45;gathering&#45;class/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-31T17:25:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/winning&",
+        "title": "Winning From Losing: Attorney who lost Gideon looks back on landmark case and how it reshaped his career",
+        "url": "https://www.abajournal.com/web/article/winning&#45;from&#45;losing/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-31T16:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/white&",
+        "title": "Expelled white student’s discrimination claims against law school tossed",
+        "url": "https://www.abajournal.com/news/article/white&#45;students&#45;discrimination&#45;claims&#45;against&#45;howard&#45;law&#45;tossed/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-31T16:02:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ai&",
+        "title": "AI use by federal judges is broad but infrequent, new study shows",
+        "url": "https://www.abajournal.com/news/article/ai&#45;use&#45;by&#45;federal&#45;judges&#45;is&#45;broad&#45;but&#45;infrequent&#45;new&#45;study&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-31T14:28:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/03/a-new-legal-research-conference-coming-soon-and-last-day-before-ticket-prices-increase.html",
+        "title": "A New Legal Research Conference Coming Soon &#8212; And Last Day Before Ticket Prices Increase",
+        "url": "https://www.lawnext.com/2026/03/a-new-legal-research-conference-coming-soon-and-last-day-before-ticket-prices-increase.html",
+        "source": "LawSites",
+        "publishedAt": "2026-03-31T14:14:26.000Z",
+        "summary": "I have been meaning to write about the new Law Firm Research &#38; Innovation Conference taking place April 28 in New York, and then I realized there is now some urgency to it, as ticket prices go up tomorrow, April 1. T",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/former&",
+        "title": "Former prosecutor charged with allegedly scamming clients out of tens of thousands of dollars",
+        "url": "https://www.abajournal.com/news/article/former&#45;new&#45;jersey&#45;prosecutor&#45;charged&#45;with&#45;scamming&#45;clients&#45;out&#45;tens&#45;of&#45;thousands&#45;of&#45;dollars/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-03-31T14:06:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/03/collbox-wins-10th-annual-startup-alley-pitch-competition-at-aba-techshow.html",
+        "title": "CollBox Wins 10th Annual Startup Alley Pitch Competition At ABA Techshow",
+        "url": "https://www.lawnext.com/2026/03/collbox-wins-10th-annual-startup-alley-pitch-competition-at-aba-techshow.html",
+        "source": "LawSites",
+        "publishedAt": "2026-03-31T13:06:28.000Z",
+        "summary": "CollBox, a company that helps law firms get paid more quickly, won the 10th annual Startup Alley pitch competition at ABA Techshow last week in Chicago. Second place went to Candle AI, an email assistant that helps small",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/31/le-paris-saint-germain-accueille-harvey-comme-partenaire-officiel",
         "title": "Le Paris Saint-Germain Accueille Harvey Comme Partenaire Officiel",
@@ -88,36 +168,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former prosecutor sentenced after making online threats against LGBTQ+ event and others",
-        "url": "https://www.abajournal.com/news/article/former&#45;illinois&#45;prosecutor&#45;sentenced&#45;after&#45;making&#45;threats&#45;against&#45;lgbtq&#45;event&#45;and&#45;other&#45;groups/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-30T17:04:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/the&",
-        "title": "The Burton Book Review: &#8216;Charles Sumner: Conscience of a Nation&#8217;",
-        "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;charles&#45;sumner&#45;conscience&#45;of&#45;a&#45;nation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-30T14:45:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/law&",
-        "title": "Law firms fight DOJ effort to revive &#8216;draconian&#8217; executive orders",
-        "url": "https://www.abajournal.com/news/article/law&#45;firms&#45;fight&#45;doj&#45;effort&#45;to&#45;revive&#45;draconian&#45;executive&#45;orders/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-30T14:01:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/03/survey-finds-majority-of-federal-judges-have-used-ai-in-their-work-but-daily-use-remains-rare.html",
         "title": "Survey Finds Majority of Federal Judges Have Used AI in Their Work, But Daily Use Remains Rare",
         "url": "https://www.lawnext.com/2026/03/survey-finds-majority-of-federal-judges-have-used-ai-in-their-work-but-daily-use-remains-rare.html",
@@ -144,26 +194,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-03-30T07:10:21.000Z",
         "summary": "One of the leading tech investment funds in the world, Sequoia, estimates that around $60 billion worth of externally handled legal work – across transactions ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/techshows&",
-        "title": "Techshow&#8217;s &#8216;60 in 60&#8217; features mix of tips and tools for lawyers",
-        "url": "https://www.abajournal.com/web/article/techshows&#45;60&#45;in&#45;60&#45;features&#45;mix&#45;of&#45;tips&#45;and&#45;tools&#45;for&#45;lawyers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-28T18:30:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/aba&",
-        "title": "ABA presidents&#8217; panel strongly defends rule of law and calls on all lawyers to defend it",
-        "url": "https://www.abajournal.com/web/article/aba&#45;presidents&#45;panel&#45;rule&#45;of&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-28T16:00:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1158,26 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2025/12/lexisnexis-unveils-the-next-generation-of-its-protege-general-ai-callling-it-the-most-integrated-legal-ai-workflow-solution.html",
-        "title": "LexisNexis Unveils the &#8216;Next Generation&#8217; of Its Protégé General AI, Callling It the &#8216;Most Integrated Legal AI Workflow Solution&#8217;",
-        "url": "https://www.lawnext.com/2025/12/lexisnexis-unveils-the-next-generation-of-its-protege-general-ai-callling-it-the-most-integrated-legal-ai-workflow-solution.html",
-        "source": "LawSites",
-        "publishedAt": "2025-12-10T13:12:13.000Z",
-        "summary": "Following the preview release in August and the commercial release in October of its Protégé General AI, LexisNexis Legal &#38; Professional today rolled out what it is calling the product&#8217;s next generation, expand",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2025/12/film-studios-news-media-and-even-competitor-lexisnexis-among-the-nine-amicus-briefs-supporting-thomson-reuters-copyright-case-against-ross.html",
-        "title": "Film Studios, News Media and Even Competitor LexisNexis Among the 12 Amicus Briefs Supporting Thomson Reuters&#8217; Copyright Case Against ROSS",
-        "url": "https://www.lawnext.com/2025/12/film-studios-news-media-and-even-competitor-lexisnexis-among-the-nine-amicus-briefs-supporting-thomson-reuters-copyright-case-against-ross.html",
-        "source": "LawSites",
-        "publishedAt": "2025-12-08T17:34:25.000Z",
-        "summary": "The long-running copyright litigation between Thomson Reuters and ROSS Intelligence is now pending in the 3rd U.S. Circuit Court of Appeals for an interlocutory appeal of the trial judge’s rulings in favor of TR. Recentl",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1194,16 +1204,6 @@
         "source": "OpenAI News",
         "publishedAt": "2024-06-17T04:15:00.000Z",
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
       }
@@ -1226,6 +1226,16 @@
         "source": "InfoQ China",
         "publishedAt": "2026-03-31T17:14:25.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3746889894461960",
+        "title": "四家机器人厂商，一起投了一家数据公司丨涌现新项目",
+        "url": "https://36kr.com/p/3746889894461960?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-31T13:37:04.000Z",
+        "summary": "文｜邱晓芬 编辑｜苏建勋 一句话介绍 「智域基石」是一家致力于构建具身智能时代数据入口与训练输入基础设施的公司，其核心使命是将海量、杂乱的原始物理世界数据，精准编译成直接面向机器人任务成功率的高质量训练输入。 团队介绍 「智域基石」CEO杨哲轩为前PingCAP核心成员，拥有大规模分布式系统与底层架构设计的背景，也是连续创业者，负责多家公司商业化业务。 「智域基石」CTO徐良威有着腾讯、小鹏机器人的从业背景，是实战经验丰富的机器人软硬件",
         "category": "updates",
         "region": "cn"
       },
@@ -1258,59 +1268,9 @@
         "summary": "3月30日港股盘后，壁仞科技发布上市后的首份财务报告。 数据显示，2025年，公司实现营业收入10.35亿元，同比增长207.2%；同期毛利达5.57亿元，同比增长210.8%，对应毛利率为53.8%。 2025年以来，模型的持续迭代、智能体的全面爆发叠加上地缘政治冲突的升温，共同驱动国产算力行业进入快速爆发期。而芯片作为核心基座，受益于行业爆发红利，实现了从技术突破到规模化落地的关键拐点。 作为国产算力芯片的头部企业，壁仞科技此次发布",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3745377703608832",
-        "title": "“医药界英伟达”，花200亿买中国AI公司的减重药",
-        "url": "https://36kr.com/p/3745377703608832?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-31T00:30:00.000Z",
-        "summary": "文｜胡香赟 编辑｜海若镜 AI制药领域，再现200亿人民币级交易。 3月29日晚，英矽智能（HK:03696）公告了与礼来和合作：首付款1.15亿美元、总价27.5亿美元，另包含产品上市后的潜在销售分成。交易核心是一款临床前口服GLP-1药物；此外，基于英矽智能Pharma AI技术平台，双方未来还将开展多项“围绕礼来选定靶点”的研发合作。 同日，英矽智能年报显示，2025年总收入5620万美元，截止报告期的BD授权合同总价为21.74",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/d8e3q93kbviq8z8mu0ao",
-        "title": "OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
-        "url": "https://www.infoq.cn/article/D8E3q93kBviq8Z8mu0Ao?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-30T17:48:24.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/lrjjhcf8qhoq1vbsacnz",
-        "title": "OpenAI扩展Responses API，为自主智能体提供基础设施",
-        "url": "https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-30T15:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3348536/hong-kong-retains-global-ipo-crown-first-quarter-faces-us-mega-listings",
-        "title": "Hong Kong retains global IPO crown in first quarter but faces US mega listings",
-        "url": "https://www.scmp.com/business/banking-finance/article/3348536/hong-kong-retains-global-ipo-crown-first-quarter-faces-us-mega-listings?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-03-31T11:30:12.000Z",
-        "summary": "Hong Kong has retained its top position in terms of initial public offering (IPO) funds raised in the first quarter of this year but industry experts said the city could lose its lead to the US over the full year given t",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/policy/article/3348527/apples-accidental-ai-feature-roll-out-china-risks-regulatory-backlash-expert-says",
-        "title": "Apple’s accidental AI feature roll-out in China risks regulatory backlash, expert says",
-        "url": "https://www.scmp.com/tech/policy/article/3348527/apples-accidental-ai-feature-roll-out-china-risks-regulatory-backlash-expert-says?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-03-31T10:00:39.000Z",
-        "summary": "Apple’s accidental roll-out on Tuesday of its highly anticipated Apple Intelligence feature in mainland China – which has yet to receive regulatory approval – before swiftly pulling it could raise the ire of regulators a",
-        "category": "tools",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3348345/deepseek-outage-leaves-millions-cut-and-sparks-complaints-rivals-gain-ground",
         "title": "DeepSeek 12-hour outage leaves millions cut off, sparks complaints as rivals gain ground",
