@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T01:44:10.715Z",
+  "generatedAt": "2026-03-31T07:04:14.065Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/31/the-general-counsel-is-the-new-cfo",
+        "title": "The General Counsel is the New CFO",
+        "url": "https://www.artificiallawyer.com/2026/03/31/the-general-counsel-is-the-new-cfo/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-03-31T06:39:48.000Z",
+        "summary": "By Jennifer Hill, CEO, ThoughtRiver. There is a pattern in how business functions earn strategic relevance. It tends to start with a data problem. One ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/d.c&",
         "title": "Law firm targets businesses for allegedly misleading &#8216;sale&#8217; prices",
@@ -234,16 +244,6 @@
         "source": "LawSites",
         "publishedAt": "2026-03-24T12:30:20.000Z",
         "summary": "Centerbase, a practice management platform for midsized law firms, is announcing today an enhanced native integration with NetDocuments that makes it the first practice management platform to natively connect matter data",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/24/thomson-is-coming-trs-own-legally-trained-llm",
-        "title": "Thomson Is Coming, TR’s Own Legally-Trained LLM",
-        "url": "https://www.artificiallawyer.com/2026/03/24/thomson-is-coming-trs-own-legally-trained-llm/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-24T07:40:00.000Z",
-        "summary": "Thomson Reuters (TR) is getting ready to launch ‘Thomson’ its own legally-trained LLM this summer, built using opensource models, their huge data store, and its ...",
         "category": "tools",
         "region": "na"
       },
@@ -1210,22 +1210,52 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3746161161601542",
-        "title": "两部门：推动人工智能、脑机接口等与医疗装备融合创新",
-        "url": "https://36kr.com/newsflashes/3746161161601542?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-31T01:12:11.000Z",
-        "summary": "36氪获悉，3月27日，推进医疗装备发展应用领导小组工作会议在重庆召开。会议强调，“十四五”时期，我国医疗装备发展应用取得显著成效，产业规模稳步扩大，技术创新不断突破，一批产品投入临床、惠及民生。“十五五”时期，要坚持统筹推进，滚动实施制造业重点产业链高质量发展行动，持续提升医疗装备产业链韧性和安全水平。要坚持需求导向，推动人工智能、脑机接口等与医疗装备融合创新，培育新的增长点。要坚持医工协同，全链条推进技术攻关、成果应用，提升软硬一体",
+        "id": "InfoQ China:www.infoq.cn/article/xsbt0gvhvfom2odbooyh",
+        "title": "OpenClaw 火了之后，企业真正缺的不是更聪明的龙虾，而是一套上岗体系",
+        "url": "https://www.infoq.cn/article/XSBT0gvHvFom2OdbOoYH?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-31T14:52:40.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3746134857728519",
-        "title": "中信证券：存力升级为当前智能体推理核心需求，坚定看好存储成长趋势",
-        "url": "https://36kr.com/newsflashes/3746134857728519?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/e1wx7iizhzespm5rb1jz",
+        "title": "构建大规模自治体系",
+        "url": "https://www.infoq.cn/article/E1wx7iizhZeSpM5Rb1jz?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-31T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ay5ud3jsqh1u8cvccw13",
+        "title": "阶跃星辰安全研发专家李昌昊确认出席QCon北京站，分享构建 AI Agent 从推理到执行的全链路无侵入可观测体系",
+        "url": "https://www.infoq.cn/article/aY5ud3jSqH1U8cvCCW13?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-03-31T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3746413765427973",
+        "title": "瑞银：中国市场调整或已过度，优质AI股票迎来布局窗口",
+        "url": "https://36kr.com/newsflashes/3746413765427973?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-03-31T00:45:26.000Z",
-        "summary": "36氪获悉，中信证券研报称，AI从“简单对话”向“智能体（Agent）”演进，驱动上下文长度激增。据Epoch AI数据，最长上下文窗口约每年增长30x，KV Cache显存容量和上下文长度呈线性增长关系，远超硬件配置增速。目前大模型厂商、硬件厂商主要通过量化、分层存储、模型架构优化的方式解决存力瓶颈，但仍不改显存需求爆发。中信证券认为，显存优化有望降低单Token生成成本，进而刺激用户开启更高并发与更长上下文，总存力需求将不减反增，存",
+        "publishedAt": "2026-03-31T05:29:09.000Z",
+        "summary": "瑞银财富管理投资总监办公室（CIO）发表机构观点，认为当前中国市场的调整可能已过度，投资者有机会以较低估值增持优质中国AI股票。中国互联网行业目前12个月远期市盈率约为13倍，已接近DeepSeek发布前的水平，当前估值尚未充分反映过去一年AI投资及变现带来的收益。瑞银财富管理预计，MSCI中国指数今年EPS增速约为13%，科技板块盈利增速有望达到20%至25%。并且政策仍然积极支持AI发展和科技创新，随着市场情绪及基本面改善，盈利、估",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3746303131992584",
+        "title": "网易云音乐发布OpenClaw专属使用教程",
+        "url": "https://36kr.com/newsflashes/3746303131992584?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-03-31T04:45:29.000Z",
+        "summary": "36氪获悉，近日，网易云音乐宣布全面接入OpenClaw，并将其音乐推荐、音乐搜索等基础能力封装成一系列标准化CLI（标准接口）及自动化Skill。3月30日，网易云音乐进一步发布OpenClaw专属使用教程，向开发者介绍AI Agent对音乐交互场景的切实价值，并梳理了网易云音乐CLI的多种使用方式。据了解，开发者可以通过OpenClaw调用网易云音乐标准化CLI，完全个性化组装网易云音乐的核心音乐服务能力。",
         "category": "updates",
         "region": "cn"
       },
@@ -1316,26 +1346,6 @@
         "source": "36Kr",
         "publishedAt": "2026-03-30T06:40:27.000Z",
         "summary": "文｜富充 编辑｜苏建勋 创业满一年，唐文斌的身上依旧保留着旷视时期的印记，在和我们的对话中，他时常说到 “本质” 这个词——那是旷视内部的一个“流行词”。 清华“姚班”毕业之后，唐文斌和同学印奇、杨沐在2011年创办了旷视科技。在这家AI 1.0标志性企业中，人们喜欢追问“本质”。 创业旷视的14年里，唐文斌经历了AI 1.0浪潮的完整起伏。从高歌猛进的业务扩展，到屡次与上市失之交臂，这些经历也打磨着他对“本质”的理解。 关于对旷视最重",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/dl0kkexki8psdb6xp53b",
-        "title": "面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京",
-        "url": "https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-29T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ffa1jsebh45yzqrdfssw",
-        "title": "AWS Load Balancer Controller 正式发布，带来 Kubernetes Gateway API 支持",
-        "url": "https://www.infoq.cn/article/FFA1jSeBh45YZQRdFSSW?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-28T11:00:00.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
