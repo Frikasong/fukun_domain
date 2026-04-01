@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T13:00:26.043Z",
+  "generatedAt": "2026-04-01T18:50:24.050Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/rethinking&",
+        "title": "Rethinking the Legal Talent Pipeline: Why convenience is costing firms opportunity",
+        "url": "https://www.abajournal.com/voice/article/rethinking&#45;the&#45;legal&#45;talent&#45;pipeline&#45;why&#45;convenience&#45;is&#45;costing&#45;firms&#45;opportunity/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-01T17:18:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/firm&",
+        "title": "Firm hiring of associates with AI experience up 106% since last year, new report says",
+        "url": "https://www.abajournal.com/news/article/firm&#45;hiring&#45;of&#45;associates&#45;with&#45;ai&#45;experience&#45;up&#45;106&#45;since&#45;last&#45;year&#45;report&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-01T15:01:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/jones&",
+        "title": "Jones Day adds 4 SCOTUS clerks from October 2024 term as associates",
+        "url": "https://www.abajournal.com/news/article/jones&#45;day&#45;adds&#45;four&#45;us&#45;supreme&#45;court&#45;clerks&#45;from&#45;october&#45;2024&#45;term/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-01T14:46:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/04/in-ai-powered-brand-deal-harvey-partners-with-yet-another-harvey-you-know-its-other-namesake.html",
         "title": "In AI-Powered Brand Deal, Harvey Partners with Yet Another Harvey &#8212; You Know, Its Other Namesake",
@@ -44,16 +74,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-01T06:41:17.000Z",
         "summary": "(As you have all no doubt guessed by now, this is an April Fools piece.) The Ministry of Justice in the UK is to ban ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/gradient-labs",
-        "title": "Gradient Labs gives every bank customer an AI account manager",
-        "url": "https://openai.com/index/gradient-labs",
-        "source": "OpenAI News",
-        "publishedAt": "2026-04-01T02:00:00.000Z",
-        "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
         "category": "updates",
         "region": "na"
       },
@@ -138,16 +158,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former prosecutor charged with allegedly scamming clients out of tens of thousands of dollars",
-        "url": "https://www.abajournal.com/news/article/former&#45;new&#45;jersey&#45;prosecutor&#45;charged&#45;with&#45;scamming&#45;clients&#45;out&#45;tens&#45;of&#45;thousands&#45;of&#45;dollars/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-31T14:06:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/03/collbox-wins-10th-annual-startup-alley-pitch-competition-at-aba-techshow.html",
         "title": "CollBox Wins 10th Annual Startup Alley Pitch Competition At ABA Techshow",
         "url": "https://www.lawnext.com/2026/03/collbox-wins-10th-annual-startup-alley-pitch-competition-at-aba-techshow.html",
@@ -194,36 +204,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-03-31T06:39:48.000Z",
         "summary": "By Jennifer Hill, CEO, ThoughtRiver. There is a pattern in how business functions earn strategic relevance. It tends to start with a data problem. One ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/d.c&",
-        "title": "Law firm targets businesses for allegedly misleading &#8216;sale&#8217; prices",
-        "url": "https://www.abajournal.com/web/article/d.c&#45;law&#45;firm&#45;targets&#45;businesses&#45;for&#45;allegedly&#45;misleading&#45;sale&#45;prices/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-30T19:46:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/federal&",
-        "title": "Federal case may curtail journalists’ rights to keep sources confidential",
-        "url": "https://www.abajournal.com/web/article/federal&#45;case&#45;may&#45;curtail&#45;journalists&#45;rights&#45;to&#45;keep&#45;sources&#45;confidential/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-30T19:28:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/multistate&",
-        "title": "Multistate Bar Examination mean score inches up for February exam",
-        "url": "https://www.abajournal.com/web/article/multistate&#45;bar&#45;examination&#45;mean&#45;score&#45;inches&#45;up&#45;for&#45;february&#45;exam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-30T19:21:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1206,19 +1186,29 @@
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/color-health",
+        "title": "Using GPT-4o reasoning to transform cancer care",
+        "url": "https://openai.com/index/color-health",
+        "source": "OpenAI News",
+        "publishedAt": "2024-06-17T04:15:00.000Z",
+        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/rbhmv1nbhaspmk2akgr8",
-        "title": "深化 AI 与开源协同，构建开放共赢生态 —— 太湖共识",
-        "url": "https://www.infoq.cn/article/rBHMv1NbHASpMK2akGr8?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-01T20:14:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/kylqaekpkvrh3tjwmgiw",
         "title": "Claude Code 已经过度设计？OpenClaw 背后的 Pi 给出了一个极简答案",
