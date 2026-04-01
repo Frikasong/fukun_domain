@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T07:10:32.961Z",
+  "generatedAt": "2026-04-01T13:00:26.043Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,12 +8,52 @@
   "panels": {
     "na": [
       {
+        "id": "LawSites:www.lawnext.com/2026/04/in-ai-powered-brand-deal-harvey-partners-with-yet-another-harvey-you-know-its-other-namesake.html",
+        "title": "In AI-Powered Brand Deal, Harvey Partners with Yet Another Harvey &#8212; You Know, Its Other Namesake",
+        "url": "https://www.lawnext.com/2026/04/in-ai-powered-brand-deal-harvey-partners-with-yet-another-harvey-you-know-its-other-namesake.html",
+        "source": "LawSites",
+        "publishedAt": "2026-04-01T12:30:51.000Z",
+        "summary": "Following its February news that it had entered into a brand partnership withj Gabriel Macht, who played Harvey Specter in the TV series Suits, the legal AI company Harvey said today that it has entered into another such",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/01/webinar-the-15m-verdict-how-to-win-big-with-ai",
+        "title": "Webinar: The $15m Verdict &#8211; How to Win Big with AI",
+        "url": "https://www.artificiallawyer.com/2026/04/01/webinar-the-15m-verdict-how-to-win-big-with-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-01T11:35:24.000Z",
+        "summary": "CLE-Eligible Webinar: The $15m Verdict &#8211; How to Win Big with AI What’s the biggest verdict your firm’s seen with no surgery or death involved? ...",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/01/clawbot-takes-over-global-law-firm-partners-love-it",
+        "title": "ClawBot Takes Over Global Law Firm – Partners Love It",
+        "url": "https://www.artificiallawyer.com/2026/04/01/clawbot-takes-over-global-law-firm-partners-love-it/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-01T07:11:15.000Z",
+        "summary": "(As you have all no doubt guessed by now, this is an April Fools piece.) In surprising news, Artificial Lawyer can reveal that a ClawBot, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/01/courts-to-ban-guilty-verdict-as-it-upsets-criminals",
         "title": "Courts To Ban Guilty Verdict As It ‘Upsets’ Criminals",
         "url": "https://www.artificiallawyer.com/2026/04/01/courts-to-ban-guilty-verdict-as-it-upsets-criminals/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-01T06:41:17.000Z",
-        "summary": "The Ministry of Justice in the UK is to ban the guilty verdict as it may ‘upset’ criminals and cause them ‘emotional distress’. The move ...",
+        "summary": "(As you have all no doubt guessed by now, this is an April Fools piece.) The Ministry of Justice in the UK is to ban ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/gradient-labs",
+        "title": "Gradient Labs gives every bank customer an AI account manager",
+        "url": "https://openai.com/index/gradient-labs",
+        "source": "OpenAI News",
+        "publishedAt": "2026-04-01T02:00:00.000Z",
+        "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
         "category": "updates",
         "region": "na"
       },
@@ -234,26 +274,6 @@
         "source": "LawSites",
         "publishedAt": "2026-03-26T18:15:49.000Z",
         "summary": "AI That Listens Like a Lawyer: Courts Are Exposing the Gap Between What AI Notetakers Promise and What Their Contracts Permit. Purpose-Built Legal Conversational Intelligence™ Tools, Such as Querious®, Offer Attorneys a ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/26/ai-first-keith-bags-2m-for-property-work",
-        "title": "AI-First &#8216;Keith&#8217; Bags £2m For Property Work",
-        "url": "https://www.artificiallawyer.com/2026/03/26/ai-first-keith-bags-2m-for-property-work/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-26T14:47:11.000Z",
-        "summary": "There is another NewMod, AI-first &#8216;law firm&#8217; in town. In this case it’s called Keith and will focus on residential property sales in the UK, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/26/steno-raises-49m-hits-150m-total-funding",
-        "title": "Steno Raises $49m, Hits $150m Total Funding",
-        "url": "https://www.artificiallawyer.com/2026/03/26/steno-raises-49m-hits-150m-total-funding/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-26T13:00:03.000Z",
-        "summary": "Steno, the court reporting and litigation support company, has raised $49m in an all equity C round, following $46m raised in 2024. The round was ...",
         "category": "updates",
         "region": "na"
       },
@@ -1178,16 +1198,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2025/12/harvey-cofounders-answer-tough-questions-in-reddit-ama-valuation-competition-and-the-future-of-legal-ai.html",
-        "title": "Harvey Cofounders Answer Tough Questions in Reddit AMA: Valuation, Competition and the Future of Legal AI",
-        "url": "https://www.lawnext.com/2025/12/harvey-cofounders-answer-tough-questions-in-reddit-ama-valuation-competition-and-the-future-of-legal-ai.html",
-        "source": "LawSites",
-        "publishedAt": "2025-12-10T22:34:31.000Z",
-        "summary": "In a rare public forum appearance, Harvey co-founders Winston Weinberg, its CEO, and Gabriel Pereyra, its president, spent over two hours answering questions from the legal tech community in a Reddit AMA earlier today, a",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1196,19 +1206,19 @@
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/rbhmv1nbhaspmk2akgr8",
+        "title": "深化 AI 与开源协同，构建开放共赢生态 —— 太湖共识",
+        "url": "https://www.infoq.cn/article/rBHMv1NbHASpMK2akGr8?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-01T20:14:35.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/kylqaekpkvrh3tjwmgiw",
         "title": "Claude Code 已经过度设计？OpenClaw 背后的 Pi 给出了一个极简答案",
@@ -1230,13 +1240,13 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/9dbzdtqbw2ptctletcya",
-        "title": "“随选随配”的自定义区域：Cloudflare 推出细粒度数据驻留控制",
-        "url": "https://www.infoq.cn/article/9dbzdTQbw2ptCTlEtcyA?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-01T14:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
+        "id": "36Kr:36kr.com/p/3748233045541637",
+        "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
+        "url": "https://36kr.com/p/3748233045541637?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-01T12:21:23.000Z",
+        "summary": "文｜邱晓芬 编辑｜苏建勋 一家成立12年的两轮电动车厂商，在成功经历过中国的锂电化、智能化浪潮，并在纳斯达克上市后，决定加入AI时代全新的竞争。造AI时代的智能两轮电动车——被小牛电动称为：“下一个十年的护城河”。 在小牛电动不久前的发布会上，他们展示了初步的成果——在新发布的电动车NXT2和NX2上，搭载了自研的小牛灵犀AIOS、以及首个面向骑行的AI智能体。 当你开车上路时，小牛灵犀AIOS和智能体的搭配，将让你的电动车变成“会看路",
+        "category": "skills",
         "region": "cn"
       },
       {
@@ -1246,6 +1256,16 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-01T10:10:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3748061455778311",
+        "title": "氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image",
+        "url": "https://36kr.com/p/3748061455778311?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-01T10:02:13.000Z",
+        "summary": "大公司： 李亚鹏名下公司成立麋鹿咖啡公司 36氪获悉，爱企查App显示，近日，云南麋鹿咖啡有限公司成立，法定代表人为杨凝，注册资本100万元人民币，经营范围包括咖啡豆种植、食用农产品批发、食用农产品零售、食品互联网销售等。股权穿透图显示，该公司由李亚鹏名下北京艺莲文化科技有限公司、罗毓藻分别持股90%、10%。 特斯拉正式停产Model S和Model X两款车型 据媒体报道，马斯克4月1日在X平台发文，宣布特斯拉正式停产Model S",
         "category": "updates",
         "region": "cn"
       },
@@ -1260,12 +1280,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3747896876335880",
-        "title": "联想集团CFO称战略目标是未来两年实现净利润率翻倍",
-        "url": "https://36kr.com/newsflashes/3747896876335880?f=rss",
+        "id": "36Kr:36kr.com/p/3747976260174341",
+        "title": "四个大脑、三条路线、一种「天真」｜36氪离线聚会第零期",
+        "url": "https://36kr.com/p/3747976260174341?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-01T06:37:51.000Z",
-        "summary": "36氪获悉，4月1日，联想集团2026/27财年誓师大会在北京举行。联想集团首席财务官郑孝明在会上披露，公司战略目标为两年后营收突破1000亿美元，净利润率达到5%以上，并全面转型为AI原生公司。联想集团2025/26财年Q3报告显示其经调整后净利润率约为2.7%（报告口径净利润率约2.5%）。这意味着，未来两年联想集团的净利润率可能实现翻倍提升。",
+        "publishedAt": "2026-04-01T08:02:20.000Z",
+        "summary": "现场拍摄 文 | 阿至 我们似乎比以往任何时候都更相信技术本身的力量。 过去3年，在这场由AI所掀起的创业浪潮中，技术正以前所未有的速度，被赋予创造一切、解决一切的宏大叙事。参数在迭代，估值在飙升，钱的流动此起彼伏。 然而在这种高速的，甚至有些喧嚣的确定性之外， 那些勇敢做出选择、推动改变发生的、具体的人，才是创造变革的原点。 基于这一原点，我们组织了一场「离线聚会」 。作为36氪全新的超轻量线下沙龙IP，我们想做一次尝试，不要路演话术",
         "category": "updates",
         "region": "cn"
       },
@@ -1286,16 +1306,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-01T05:26:15.000Z",
         "summary": "近日，大众对“心源性猝死”这一沉重话题的关注度格外高。 “每年中国心源性猝死的人数约54万。没有原因的突然心脏停跳很少见，一般是先发生室速或室颤。”近日中国科学院院士、复旦大学附属中山医院葛均波在接受36氪等媒体访谈时指出：40岁到55岁期间是人体的“易损期”，这个阶段反而容易发生心源性猝死。 在临床专家看来，突发的心源性猝死、逐步进展的心力衰竭等问题，除遗传因素外，时常与长期的不良生活习惯相连。 “现代人长期工作压力大、饮食习惯高盐高",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3747793856987656",
-        "title": "如祺出行：2025年公司总收入大增114.6%，毛利增长395.3%",
-        "url": "https://36kr.com/newsflashes/3747793856987656?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T04:53:03.000Z",
-        "summary": "36氪获悉，如祺出行发布2025年全年业绩报告，显示公司总收入大增114.6%，毛利增长395.3%，毛利率11.9%，利润改善48.1%，多个核心财务指标全面录得大幅增长。业绩增长同时，公司第二增长曲线“Robotaxi+”战略加速落地。公开信息显示，如祺出行2026年第一季度Robotaxi车队规模已扩至约600辆，运力2025年年底接近翻倍，公司计划在未来构建超万辆Robotaxi车队并推进百城运营。",
         "category": "updates",
         "region": "cn"
       },
@@ -1330,26 +1340,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3739823544205314",
-        "title": "36氪首发丨东南亚二手电商「Kitar」完成Pre-A轮超千万美元融资，今年 GMV 将达1亿美金",
-        "url": "https://36kr.com/p/3739823544205314?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T01:00:00.000Z",
-        "summary": "东南亚虽是电商竞争的焦灼之地，但仍有蓝海。 36氪获悉，东南亚二手电商平台「Kitar」近日完成 Pre-A 轮超千万美元融资。本轮融资由源码律动领投，山行资本超额跟投，Mindworks 概念资本跟投，银橡资本担任独家财务顾问。本轮融资完成后，「Kitar」将加大在 AI 能力建设、质检与供应链基础设施、线下回收网络以及区域化运营体系上的投入，继续深耕印尼市场，并加快向东南亚更广泛市场扩展。 「Kitar」创始人Frank Zhou毕",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3747503534899976",
-        "title": "8点1氪丨Patagonia客服回应收取“地球使用费”；美国佛罗里达州一机场更名为“唐纳德·特朗普国际机场”；清明节有商家推出AI大模型纸扎",
-        "url": "https://36kr.com/p/3747503534899976?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T00:01:06.000Z",
-        "summary": "今日热点导览 苹果官方称“锁定模式”至今无人攻破 红果回应普通人形象被AI短剧盗脸，涉事角色部分画面已替换 国内航线燃油附加费上涨通知被撤回 达美乐比萨任命Nicola Frampton为CEO 美国太空探索技术公司一颗“星链”卫星失联 澳洲联储宣布10月起取消银行卡支付的附加费 TOP3大新闻 Patagonia客服回应收取“地球使用费”：属实，计划试行一个月 近日，户外运动品牌Patagonia近期因在天猫旗舰店推出\"地球使用费\"政",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/z8omad2yjfblxaa0yfij",
         "title": "通义实验室推出CoPaw，更适合打工人的国产龙虾来了",
         "url": "https://www.infoq.cn/article/Z8OmAd2YjFBlxaA0yfij?utm_source=rss&utm_medium=article",
@@ -1366,16 +1356,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-03-31T17:14:25.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3746889894461960",
-        "title": "四家机器人厂商，一起投了一家数据公司丨涌现新项目",
-        "url": "https://36kr.com/p/3746889894461960?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-31T13:37:04.000Z",
-        "summary": "文｜邱晓芬 编辑｜苏建勋 一句话介绍 「智域基石」是一家致力于构建具身智能时代数据入口与训练输入基础设施的公司，其核心使命是将海量、杂乱的原始物理世界数据，精准编译成直接面向机器人任务成功率的高质量训练输入。 团队介绍 「智域基石」CEO杨哲轩为前PingCAP核心成员，拥有大规模分布式系统与底层架构设计的背景，也是连续创业者，负责多家公司商业化业务。 「智域基石」CTO徐良威有着腾讯、小鹏机器人的从业背景，是实战经验丰富的机器人软硬件",
         "category": "updates",
         "region": "cn"
       }
