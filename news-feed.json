@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T01:51:32.328Z",
+  "generatedAt": "2026-04-01T07:10:32.961Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/01/courts-to-ban-guilty-verdict-as-it-upsets-criminals",
+        "title": "Courts To Ban Guilty Verdict As It ‘Upsets’ Criminals",
+        "url": "https://www.artificiallawyer.com/2026/04/01/courts-to-ban-guilty-verdict-as-it-upsets-criminals/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-01T06:41:17.000Z",
+        "summary": "The Ministry of Justice in the UK is to ban the guilty verdict as it may ‘upset’ criminals and cause them ‘emotional distress’. The move ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/03/on-lawnext-mary-technology-wants-to-solve-litigations-fact-chaos-problem.html",
         "title": "On LawNext: Mary Technology Wants to Solve Litigation&#8217;s &#8216;Fact Chaos&#8217; Problem",
@@ -245,16 +255,6 @@
         "publishedAt": "2026-03-26T13:00:03.000Z",
         "summary": "Steno, the court reporting and litigation support company, has raised $49m in an all equity C round, following $46m raised in 2024. The round was ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/26/legora-partners-with-jus-mundi-for-arbitration-needs",
-        "title": "Legora Partners With Jus Mundi For Arbitration Needs",
-        "url": "https://www.artificiallawyer.com/2026/03/26/legora-partners-with-jus-mundi-for-arbitration-needs/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-26T09:23:16.000Z",
-        "summary": "Jus Mundi and Legora have formed a partnership that will integrate the Jus AI tool within the wider genAI platform to help with international arbitration ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1210,12 +1210,102 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3747604605436420",
-        "title": "“PathFinder”近日完成数千万元天使轮融资",
-        "url": "https://36kr.com/newsflashes/3747604605436420?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/kylqaekpkvrh3tjwmgiw",
+        "title": "Claude Code 已经过度设计？OpenClaw 背后的 Pi 给出了一个极简答案",
+        "url": "https://www.infoq.cn/article/KyLqAEKpkvrH3tJwMgiw?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-01T14:47:50.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ccaes2wpcxmxcovmsfcl",
+        "title": "Claude Code 意外“开源”，51 万行源码曝光，但真正的秘密没有泄露",
+        "url": "https://www.infoq.cn/article/cCAes2WpcXMxcovMSFCl?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-01T14:20:45.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/9dbzdtqbw2ptctletcya",
+        "title": "“随选随配”的自定义区域：Cloudflare 推出细粒度数据驻留控制",
+        "url": "https://www.infoq.cn/article/9dbzdTQbw2ptCTlEtcyA?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-01T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/0dyuuymxfhckj0fp51fn",
+        "title": "实验性 Web Install API 试图改进应用发现与分发方式",
+        "url": "https://www.infoq.cn/article/0dYUUYMXFhckJ0fp51FN?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-01T10:10:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ritrbokcqqtb2zg5dcwf",
+        "title": "Claude 顶不住了：先限额，再封号，最贵那批用户开始被清退",
+        "url": "https://www.infoq.cn/article/RitrBOkcQQtB2zG5dcWf?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-01T09:48:24.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3747896876335880",
+        "title": "联想集团CFO称战略目标是未来两年实现净利润率翻倍",
+        "url": "https://36kr.com/newsflashes/3747896876335880?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-01T01:40:32.000Z",
-        "summary": "36氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。",
+        "publishedAt": "2026-04-01T06:37:51.000Z",
+        "summary": "36氪获悉，4月1日，联想集团2026/27财年誓师大会在北京举行。联想集团首席财务官郑孝明在会上披露，公司战略目标为两年后营收突破1000亿美元，净利润率达到5%以上，并全面转型为AI原生公司。联想集团2025/26财年Q3报告显示其经调整后净利润率约为2.7%（报告口径净利润率约2.5%）。这意味着，未来两年联想集团的净利润率可能实现翻倍提升。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3747870039147016",
+        "title": "36氪首发 | 半导体设备老兵创业晶圆键合公司，元禾璞华领投新一轮融资",
+        "url": "https://36kr.com/p/3747870039147016?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-01T06:11:45.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，今日，矽赫微科技（上海）有限公司（以下简称“SHW”）宣布完成新一轮融资，由元禾璞华领投，合肥产投、哇牛资本、君子兰资本、萨珊资本、曦晨资本、苏高新、东方嘉富以及江苏大摩半导体等众多知名投资机构和产业方投资。 SHW成立于2023年，总部位于上海，是一家聚焦晶圆永久键合技术及设备的半导体装备企业。公司致力于为先进封装、化合物半导体及新型衬底制造等领域提供高精度晶圆键合设备与配套解决方案。 团",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3747703171383810",
+        "title": "从急救困局到AI预警，如何守住心血管疾病的“最后战场”？",
+        "url": "https://36kr.com/p/3747703171383810?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-01T05:26:15.000Z",
+        "summary": "近日，大众对“心源性猝死”这一沉重话题的关注度格外高。 “每年中国心源性猝死的人数约54万。没有原因的突然心脏停跳很少见，一般是先发生室速或室颤。”近日中国科学院院士、复旦大学附属中山医院葛均波在接受36氪等媒体访谈时指出：40岁到55岁期间是人体的“易损期”，这个阶段反而容易发生心源性猝死。 在临床专家看来，突发的心源性猝死、逐步进展的心力衰竭等问题，除遗传因素外，时常与长期的不良生活习惯相连。 “现代人长期工作压力大、饮食习惯高盐高",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3747793856987656",
+        "title": "如祺出行：2025年公司总收入大增114.6%，毛利增长395.3%",
+        "url": "https://36kr.com/newsflashes/3747793856987656?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-01T04:53:03.000Z",
+        "summary": "36氪获悉，如祺出行发布2025年全年业绩报告，显示公司总收入大增114.6%，毛利增长395.3%，毛利率11.9%，利润改善48.1%，多个核心财务指标全面录得大幅增长。业绩增长同时，公司第二增长曲线“Robotaxi+”战略加速落地。公开信息显示，如祺出行2026年第一季度Robotaxi车队规模已扩至约600辆，运力2025年年底接近翻倍，公司计划在未来构建超万辆Robotaxi车队并推进百城运营。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3747662784332289",
+        "title": "36氪企业全情报：AI 舆情大数据，让投资决策快人一步",
+        "url": "https://36kr.com/p/3747662784332289?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-01T02:40:44.000Z",
+        "summary": "信息爆炸时代，炒股最怕 消息滞后、真假难辨、抓不住涨跌核心 。刷遍新闻、研报、股吧，仍看不清市场全貌？36 氪重磅推出 企业全情报微信小程序 ，以 AI 大模型 + 独家舆情大数据，为普通投资者打造机构级情报工具，一键看透股价逻辑、精准把握投资先机36氪。 一、硬核实力：机构级数据，普通人也能用 小程序由 36 氪联合 红麦聚信 倾力打造，依托 17 年大数据技术沉淀，实现 全网 7×24 小时实时数据采集 ，覆盖权威媒体、社交平台、行",
         "category": "updates",
         "region": "cn"
       },
@@ -1240,62 +1330,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3747573392359938",
-        "title": "曹操出行Robotaxi迈入无安全员智能网联汽车道路测试阶段",
-        "url": "https://36kr.com/newsflashes/3747573392359938?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T01:08:47.000Z",
-        "summary": "4月1日，曹操出行宣布获得相关管理部门批准，成为杭州市首家可开展无安全员智能网联汽车道路测试的企业。这标志着曹操出行Robotaxi技术能力取得里程碑式突破，开启无人化运营新阶段。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3739823544205314",
         "title": "36氪首发丨东南亚二手电商「Kitar」完成Pre-A轮超千万美元融资，今年 GMV 将达1亿美金",
         "url": "https://36kr.com/p/3739823544205314?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-01T01:00:00.000Z",
         "summary": "东南亚虽是电商竞争的焦灼之地，但仍有蓝海。 36氪获悉，东南亚二手电商平台「Kitar」近日完成 Pre-A 轮超千万美元融资。本轮融资由源码律动领投，山行资本超额跟投，Mindworks 概念资本跟投，银橡资本担任独家财务顾问。本轮融资完成后，「Kitar」将加大在 AI 能力建设、质检与供应链基础设施、线下回收网络以及区域化运营体系上的投入，继续深耕印尼市场，并加快向东南亚更广泛市场扩展。 「Kitar」创始人Frank Zhou毕",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3747563294769673",
-        "title": "微盟推出Work Claw",
-        "url": "https://36kr.com/newsflashes/3747563294769673?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T00:58:31.000Z",
-        "summary": "36氪获悉，4月1日，微盟正式发布“一键养虾”智能体产品Work Claw。微盟方面表示，Work Claw聚焦泛办公人群，具备“零配置、多兼容、高安全”等核心优势，3分钟即可完成配置，无需API 与复杂搭建。可手机远程控电脑，多Agent协同办公，本地运行数据更安全，深度适配办公场景，高效释放生产力。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3747524129505795",
-        "title": "中信证券：用电增速回归常态，结构变化重塑需求",
-        "url": "https://36kr.com/newsflashes/3747524129505795?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T00:18:40.000Z",
-        "summary": "36氪获悉，中信证券研报称，2025年我国全社会用电量同比增长5%，较2024年回落1.8ppts，GDP用电弹性系数自2020年以来首次回落至1.0，结构性因素是用电需求放缓的主要原因。传统高耗能行业景气度持续下行，新兴高端制造业增速出现阶段性回落，但二产整体用电仍然具备较强韧性；在新能源汽车充换电服务与算力基础设施扩张的带动下，三产用电需求增长基本稳定。预计GDP用电弹性系数有望再度回升，预计2026—2028年全社会用电量增速分别",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3747522659091209",
-        "title": "谷歌或将推出无屏幕可穿戴设备",
-        "url": "https://36kr.com/newsflashes/3747522659091209?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T00:17:11.000Z",
-        "summary": "据报道，谷歌正在开发自己的健身手环，旨在与Whoop和Oura等新兴公司推出的无屏幕可穿戴设备展开竞争。谷歌一直在以Fitbit品牌开发这款新产品，并计划于今年晚些时候发布。此次发布还将与Fitbit全新改版应用程序中的人工智能个人健康教练功能相结合。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3747521357693449",
-        "title": "中信证券：DeepSeek下一代新模型有望延续高性价比开源模型路线",
-        "url": "https://36kr.com/newsflashes/3747521357693449?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T00:15:51.000Z",
-        "summary": "36氪获悉，中信证券研报指出，2026年以来，国产大模型厂商聚焦Agent及代码能力升级，竞相发布新模型。即将发布的DeepSeek下一代新模型有望延续高性价比开源模型路线，在能力上实现更强记忆功能与超长上下文处理，精进代码、Agent能力的同时并补齐多模态短板，带来模型原厂、AI应用、AI 基础设施方向的新投资机遇。",
         "category": "updates",
         "region": "cn"
       },
@@ -1336,36 +1376,6 @@
         "source": "36Kr",
         "publishedAt": "2026-03-31T13:37:04.000Z",
         "summary": "文｜邱晓芬 编辑｜苏建勋 一句话介绍 「智域基石」是一家致力于构建具身智能时代数据入口与训练输入基础设施的公司，其核心使命是将海量、杂乱的原始物理世界数据，精准编译成直接面向机器人任务成功率的高质量训练输入。 团队介绍 「智域基石」CEO杨哲轩为前PingCAP核心成员，拥有大规模分布式系统与底层架构设计的背景，也是连续创业者，负责多家公司商业化业务。 「智域基石」CTO徐良威有着腾讯、小鹏机器人的从业背景，是实战经验丰富的机器人软硬件",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3746654452187648",
-        "title": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
-        "url": "https://36kr.com/p/3746654452187648?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-31T10:00:05.000Z",
-        "summary": "大公司： 韩国摄像头公司从供货iPhone向人形机器人拓展 韩国LG Innotek计划加速转型，减少对iPhone销售的依赖，成为AI和机器人解决方案的领先提供商；该公司已开始向波士顿动力供应摄像头模块，并计划共同开发机器人组件。视觉系统是人形机器人中的重要感知部分，除了特斯拉之外，其他公司都采用了多传感器融合的模式。 B站官宣将下线猜你喜欢算法 36氪获悉，哔哩哔哩宣布：从明天零点起，B站将下线猜你喜欢算法，不再根据你的喜好来推荐主",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ay5ud3jsqh1u8cvccw13",
-        "title": "阶跃星辰安全研发专家李昌昊确认出席QCon北京站，分享构建 AI Agent 从推理到执行的全链路无侵入可观测体系",
-        "url": "https://www.infoq.cn/article/aY5ud3jSqH1U8cvCCW13?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-31T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3746575157658368",
-        "title": "营收三年增16倍，壁仞科技迎来业绩兑现期",
-        "url": "https://36kr.com/p/3746575157658368?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-03-31T08:22:11.000Z",
-        "summary": "3月30日港股盘后，壁仞科技发布上市后的首份财务报告。 数据显示，2025年，公司实现营业收入10.35亿元，同比增长207.2%；同期毛利达5.57亿元，同比增长210.8%，对应毛利率为53.8%。 2025年以来，模型的持续迭代、智能体的全面爆发叠加上地缘政治冲突的升温，共同驱动国产算力行业进入快速爆发期。而芯片作为核心基座，受益于行业爆发红利，实现了从技术突破到规模化落地的关键拐点。 作为国产算力芯片的头部企业，壁仞科技此次发布",
         "category": "updates",
         "region": "cn"
       }
