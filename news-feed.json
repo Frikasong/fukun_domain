@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T07:02:47.403Z",
+  "generatedAt": "2026-04-02T12:54:28.130Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators",
+        "title": "Crosby on Big Law R&#038;D, Legora 100, TR + HotShot, Legal Innovators +",
+        "url": "https://www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-02T07:54:59.000Z",
+        "summary": "NewMod, AI-first law firm, Crosby, has just raised $60m with backing that includes Bain Capital and Sequoia, which is impressive – but what stood out ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india",
         "title": "Why Native Legal AI is Required for India",
@@ -234,16 +244,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-03-30T08:32:43.000Z",
         "summary": "Matt Pollins, the co-founder of Lupl and also previously a partner at CMS, has launched a directory of AI-native law firms, which keeps tabs on ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/30/autopilots-can-absorb-60bn-of-legal-work-sequoia",
-        "title": "Autopilots Can Absorb $60bn of Legal Work &#8211; Sequoia",
-        "url": "https://www.artificiallawyer.com/2026/03/30/autopilots-can-absorb-60bn-of-legal-work-sequoia/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-30T07:10:21.000Z",
-        "summary": "One of the leading tech investment funds in the world, Sequoia, estimates that around $60 billion worth of externally handled legal work – across transactions ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,56 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/xnfsebiwged1hbcisswd",
+        "title": "一个周末 + 1100 美元，干完 5 人 6 个月的活：Cloudflare 用 AI“复刻”Next.js，已跑进生产环境",
+        "url": "https://www.infoq.cn/article/XNfsebiwgEd1hbcissWd?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-02T19:07:02.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/oyztkc9iqugumoox6imt",
+        "title": "从数据留底到隐身进开源，Claude Code 泄露的代码里，处处写着：这家公司人品不行",
+        "url": "https://www.infoq.cn/article/oyztKc9IQUguMOOx6imT?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-02T18:53:27.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vh9j9d6cechvul80vlg4",
+        "title": "AI 原生时代，如何提供可用、易用、高效的算力服务？",
+        "url": "https://www.infoq.cn/article/vh9j9d6ceChVul80VLG4?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-02T18:43:27.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/umpfzoyaipsvqbioetr1",
+        "title": "五大赛道齐亮相！第四届世界科学智能大赛启动报名，首设人文科学赛道",
+        "url": "https://www.infoq.cn/article/UMPFZoYAiPsvqbIoETR1?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-02T18:43:01.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/sf95yjdfgawk9vdhza2i",
+        "title": "豆包日均Token使用量突破120万亿，Seedance2.0API开启公测",
+        "url": "https://www.infoq.cn/article/SF95yJdFgaWk9vDhZa2I?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-02T15:08:34.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/lou1d22q6qom0qp5ifxp",
         "title": "“奥特曼拉来多少万亿都没用”！UML之父判断：大模型不会真正思考，从架构上就是死胡同",
         "url": "https://www.infoq.cn/article/lOu1d22q6Qom0qp5ifxP?utm_source=rss&utm_medium=article",
@@ -1220,42 +1270,22 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3749309028499971",
-        "title": "AI大模型产品“奇趣”完成千万级融资",
-        "url": "https://36kr.com/newsflashes/3749309028499971?f=rss",
+        "id": "36Kr:36kr.com/p/3749518049739271",
+        "title": "36氪晚报｜AI大模型产品“奇趣”完成千万级融资；阶跃星辰上线Step 3.5 Flash 2603模型；沃尔沃汽车第一季度全球销量同比下降11%",
+        "url": "https://36kr.com/p/3749518049739271?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-02T06:34:22.000Z",
-        "summary": "36氪获悉，近日，MOVA生态链企业奇点玩家（深圳）科技有限公司自研AI大模型产品“奇趣”完成千万级融资。本次融资将用于“奇趣”原生AI基座深化研究，以及“奇趣”大模型自身业务运营，团队扩张等需求。",
+        "publishedAt": "2026-04-02T10:10:59.000Z",
+        "summary": "大公司： 滴滴租车推出“无车必赔”机制，无车率下降15% 为提升履约确定性，滴滴租车推出“无车必赔”机制：因商家原因导致无法用车，平台将协调升级车型，或全额退款并赔付三倍日租金。规则实施后，无车率同期下降15%，平台共赔付预约无车订单三百余次。针对车损纠纷和线下乱收费情况，平台提供免费第三方定损及先行赔付，费用全程线上公示，统一收款，严禁线下加价，违规收费先行赔付，线下乱收费投诉量下降50%。目前超95%的订单实现“无投诉、无纠纷”。 ",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3749297143710211",
-        "title": "彩讯股份拟收购基智智能100%股权",
-        "url": "https://36kr.com/newsflashes/3749297143710211?f=rss",
+        "id": "36Kr:36kr.com/p/3748118174335747",
+        "title": "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家",
+        "url": "https://36kr.com/p/3748118174335747?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-02T06:22:16.000Z",
-        "summary": "36氪获悉，彩讯股份宣布拟收购生成式AI语音智能体企业基智智能100%股权。目前，基智智能已在金融、汽车、教育等对转化率要求较高的垂直行业建立了客户基础。彩讯股份此次收购基智智能，可视为该战略蓝图在AI应用端的实质性落地。根据业绩承诺，基智智能2026–2028年累计实现净利润将不低于8400万元。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3749292553798406",
-        "title": "广州：加强算力基础设施建设统筹",
-        "url": "https://36kr.com/newsflashes/3749292553798406?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-02T06:17:36.000Z",
-        "summary": "36氪获悉，广州市发展改革委就《广州市现代化基础设施发展“十五五”规划（征求意见稿）》公开征求意见。其中提到，加强算力基础设施建设统筹，构建以智能算力为主，通用算力、超级算力、边缘算力协同布局，与超大城市经济发展相适配的高质量、高弹性算力供给体系。提升智能算力建设供需匹配度，推动中国移动粤港澳（广州）通信机楼二期工程等项目建设，增强广州人工智能公共算力中心、琶洲智算中心等普适普惠服务能力，打造综合服务型算力集聚区。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3749274892812805",
-        "title": "沪指跌逾1%",
-        "url": "https://36kr.com/newsflashes/3749274892812805?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-02T05:59:38.000Z",
-        "summary": "36氪获悉，指数午后继续走弱，沪指下挫跌逾1%，深成指跌1.84%，创业板指跌2.62%。算力、贵金属、游戏传媒、半导体等方向跌幅居前，沪深京三市下跌个股近4600只。",
+        "publishedAt": "2026-04-02T08:10:46.000Z",
+        "summary": "图源视觉中国 文｜肖漫 编辑｜李勤、杨轩 36氪汽车独家获悉，轻舟智航、元戎启行已向香港交易所秘密递交上市材料，计划于今年年内在港交所挂牌。 一位投资行业人士告诉我们，元戎启行在2025年年底就已提交上市资料，比Momenta递表的时间还早两个月。 港股IPO从递表到挂牌需经历递表审核、聆讯、路演与招股等关键阶段，顺利情况下全周期约6-9个月。也就是说，包含轻舟智航、元戎启行和Momenta在内的这批自动驾驶算法公司极有可能在今年下半年",
         "category": "updates",
         "region": "cn"
       },
@@ -1310,16 +1340,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/0dyuuymxfhckj0fp51fn",
-        "title": "实验性 Web Install API 试图改进应用发现与分发方式",
-        "url": "https://www.infoq.cn/article/0dYUUYMXFhckJ0fp51FN?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-01T10:10:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3748061455778311",
         "title": "氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image",
         "url": "https://36kr.com/p/3748061455778311?f=rss",
@@ -1328,59 +1348,9 @@
         "summary": "大公司： 李亚鹏名下公司成立麋鹿咖啡公司 36氪获悉，爱企查App显示，近日，云南麋鹿咖啡有限公司成立，法定代表人为杨凝，注册资本100万元人民币，经营范围包括咖啡豆种植、食用农产品批发、食用农产品零售、食品互联网销售等。股权穿透图显示，该公司由李亚鹏名下北京艺莲文化科技有限公司、罗毓藻分别持股90%、10%。 特斯拉正式停产Model S和Model X两款车型 据媒体报道，马斯克4月1日在X平台发文，宣布特斯拉正式停产Model S",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ritrbokcqqtb2zg5dcwf",
-        "title": "Claude 顶不住了：先限额，再封号，最贵那批用户开始被清退",
-        "url": "https://www.infoq.cn/article/RitrBOkcQQtB2zG5dcWf?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-01T09:48:24.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3747976260174341",
-        "title": "四个大脑、三条路线、一种「天真」｜36氪离线聚会第零期",
-        "url": "https://36kr.com/p/3747976260174341?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T08:02:20.000Z",
-        "summary": "现场拍摄 文 | 阿至 我们似乎比以往任何时候都更相信技术本身的力量。 过去3年，在这场由AI所掀起的创业浪潮中，技术正以前所未有的速度，被赋予创造一切、解决一切的宏大叙事。参数在迭代，估值在飙升，钱的流动此起彼伏。 然而在这种高速的，甚至有些喧嚣的确定性之外， 那些勇敢做出选择、推动改变发生的、具体的人，才是创造变革的原点。 基于这一原点，我们组织了一场「离线聚会」 。作为36氪全新的超轻量线下沙龙IP，我们想做一次尝试，不要路演话术",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3747870039147016",
-        "title": "36氪首发 | 半导体设备老兵创业晶圆键合公司，元禾璞华领投新一轮融资",
-        "url": "https://36kr.com/p/3747870039147016?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T06:11:45.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，今日，矽赫微科技（上海）有限公司（以下简称“SHW”）宣布完成新一轮融资，由元禾璞华领投，合肥产投、哇牛资本、君子兰资本、萨珊资本、曦晨资本、苏高新、东方嘉富以及江苏大摩半导体等众多知名投资机构和产业方投资。 SHW成立于2023年，总部位于上海，是一家聚焦晶圆永久键合技术及设备的半导体装备企业。公司致力于为先进封装、化合物半导体及新型衬底制造等领域提供高精度晶圆键合设备与配套解决方案。 团",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/z8omad2yjfblxaa0yfij",
-        "title": "通义实验室推出CoPaw，更适合打工人的国产龙虾来了",
-        "url": "https://www.infoq.cn/article/Z8OmAd2YjFBlxaA0yfij?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-03-31T20:49:03.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3348699/what-zhipu-and-minimaxs-first-post-ipo-earnings-say-about-2-chinese-ai-start-ups",
-        "title": "What Zhipu and MiniMax’s first post-IPO earnings say about the 2 Chinese AI start-ups",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3348699/what-zhipu-and-minimaxs-first-post-ipo-earnings-say-about-2-chinese-ai-start-ups?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-02T02:00:09.000Z",
-        "summary": "Chinese artificial intelligence start-ups Zhipu AI and MiniMax have shown early signs of sustainable commercialisation of their AI models, analysts said, as investors continue to pump up their Hong Kong stocks despite wi",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3348345/deepseek-outage-leaves-millions-cut-and-sparks-complaints-rivals-gain-ground",
         "title": "DeepSeek 12-hour outage leaves millions cut off, sparks complaints as rivals gain ground",
