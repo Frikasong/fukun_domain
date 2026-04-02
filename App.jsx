@@ -343,7 +343,37 @@ function App() {
   const attachmentInputRef = useRef(null);
 
   useEffect(() => {
-    loadEntries().then(setEntries);
+    loadEntries().then(all => {
+      setEntries(all);
+      // On load, open post if URL contains #/post/{id}
+      const hash = window.location.hash;
+      const m = hash.match(/^#\/post\/(.+)$/);
+      if (m) {
+        const id = m[1];
+        const target = all.find(e => String(e.notionPageId) === id || String(e.id) === id);
+        if (target) { setSelectedEntry(target); setView("post"); }
+      }
+    });
+  }, []);
+
+  // Handle browser back/forward navigation
+  useEffect(() => {
+    const onHashChange = () => {
+      const hash = window.location.hash;
+      const m = hash.match(/^#\/post\/(.+)$/);
+      if (m) {
+        const id = m[1];
+        setEntries(prev => {
+          const target = prev.find(e => String(e.notionPageId) === id || String(e.id) === id);
+          if (target) { setSelectedEntry(target); setView("post"); }
+          return prev;
+        });
+      } else {
+        setView("grid");
+      }
+    };
+    window.addEventListener("hashchange", onHashChange);
+    return () => window.removeEventListener("hashchange", onHashChange);
   }, []);
 
   useEffect(() => {
@@ -377,6 +407,8 @@ function App() {
   const openPost = (entry) => {
     setSelectedEntry(entry);
     setView("post");
+    const id = entry.notionPageId || entry.id;
+    if (id) window.location.hash = `/post/${id}`;
   };
 
   const saveEntry = async () => {
@@ -598,7 +630,7 @@ function App() {
         ) : view === "post" ? (
           <PostView
             entry={selectedEntry}
-            onBack={() => setView("grid")}
+            onBack={() => { setView("grid"); history.pushState("", document.title, window.location.pathname + window.location.search); }}
             T={T}
             lang={lang}
           />
@@ -1464,6 +1496,30 @@ function buildTranslateUrl(url, lang, region) {
   return `https://translate.google.com/translate?sl=auto&tl=${encodeURIComponent(targetLang)}&u=${encodeURIComponent(url)}`;
 }
 
+function CopyLinkButton({ entry, lang }) {
+  const [copied, setCopied] = useState(false);
+  const id = entry && (entry.notionPageId || entry.id);
+  if (!id) return null;
+  const url = `${window.location.origin}${window.location.pathname}#/post/${id}`;
+  const handleCopy = () => {
+    navigator.clipboard.writeText(url).then(() => {
+      setCopied(true);
+      setTimeout(() => setCopied(false), 1800);
+    });
+  };
+  return (
+    <button
+      onClick={handleCopy}
+      title={lang === "zh" ? "复制链接" : "Copy link"}
+      style={{ background: "none", border: "1px solid #ccc", borderRadius: 8, padding: "4px 10px", fontSize: 12, cursor: "pointer", color: "#666", fontFamily: "sans-serif", display: "flex", alignItems: "center", gap: 5, transition: "all 0.15s" }}
+    >
+      {copied
+        ? (lang === "zh" ? "✓ 已复制" : "✓ Copied!")
+        : (lang === "zh" ? "🔗 复制链接" : "🔗 Copy link")}
+    </button>
+  );
+}
+
 function PostView({ entry, onBack, T, lang }) {
   const [translatedLines, setTranslatedLines] = useState(null);
   const [translatedTitle, setTranslatedTitle] = useState(null);
@@ -1687,7 +1743,10 @@ function PostView({ entry, onBack, T, lang }) {
 
   return (
     <article style={styles.postWrap}>
-      <button style={styles.postBackBtn} onClick={onBack}>{T.editor.back}</button>
+      <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 4 }}>
+        <button style={styles.postBackBtn} onClick={onBack}>{T.editor.back}</button>
+        <CopyLinkButton entry={entry} lang={lang} />
+      </div>
 
       {(() => {
         const isPhotoEntry = (SECTION_MAP[entry.section] || entry.section) === "photography";
