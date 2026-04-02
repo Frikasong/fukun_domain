@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T18:50:24.050Z",
+  "generatedAt": "2026-04-02T01:27:31.251Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/ftc&",
+        "title": "Florida&#8217;s move to end ABA council as state&#8217;s sole law school accreditor applauded by FTC",
+        "url": "https://www.abajournal.com/web/article/ftc&#45;applauds&#45;floridas&#45;move&#45;to&#45;end&#45;aba&#45;council&#45;as&#45;states&#45;sole&#45;law&#45;school&#45;accreditor/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-01T19:44:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/voice/article/rethinking&",
         "title": "Rethinking the Legal Talent Pipeline: Why convenience is costing firms opportunity",
@@ -68,6 +78,26 @@
         "region": "na"
       },
       {
+        "id": "ABA Journal:www.abajournal.com/magazine/article/stolen&",
+        "title": "Stolen Treasures: A lawyer and a Holocaust survivor help families find items that Nazis seized decades ago",
+        "url": "https://www.abajournal.com/magazine/article/stolen&#45;treasures/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-01T06:50:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/magazine/article/exodus",
+        "title": "Exodus: Thousands of federal lawyers left their jobs by choice or by force in 2025",
+        "url": "https://www.abajournal.com/magazine/article/exodus/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-01T06:45:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/01/courts-to-ban-guilty-verdict-as-it-upsets-criminals",
         "title": "Courts To Ban Guilty Verdict As It ‘Upsets’ Criminals",
         "url": "https://www.artificiallawyer.com/2026/04/01/courts-to-ban-guilty-verdict-as-it-upsets-criminals/",
@@ -78,72 +108,42 @@
         "region": "na"
       },
       {
+        "id": "ABA Journal:www.abajournal.com/magazine/article/250th&",
+        "title": "250th anniversary of the Declaration of Independence",
+        "url": "https://www.abajournal.com/magazine/article/250th&#45;anniversary&#45;of&#45;the&#45;declaration&#45;of&#45;independence/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-01T06:40:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/magazine/article/letters&",
+        "title": "Letters From Our Readers: Courting AI",
+        "url": "https://www.abajournal.com/magazine/article/letters&#45;from&#45;our&#45;readers&#45;courting&#45;ai/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-01T06:35:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/magazine/article/indiana&",
+        "title": "Indiana is looking at expanding nonlawyer practice and developing nonprofit firms",
+        "url": "https://www.abajournal.com/magazine/article/indiana&#45;is&#45;looking&#45;at&#45;expanding&#45;nonlawyer&#45;practice&#45;and&#45;developing&#45;nonprofit&#45;firms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-01T06:30:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/03/on-lawnext-mary-technology-wants-to-solve-litigations-fact-chaos-problem.html",
         "title": "On LawNext: Mary Technology Wants to Solve Litigation&#8217;s &#8216;Fact Chaos&#8217; Problem",
         "url": "https://www.lawnext.com/2026/03/on-lawnext-mary-technology-wants-to-solve-litigations-fact-chaos-problem.html",
         "source": "LawSites",
         "publishedAt": "2026-03-31T21:33:43.000Z",
         "summary": "E-discovery platforms have gotten great at narrowing millions of documents down to manageable sets. But what happens next — the grueling work of extracting facts, organizing them, and building a reliable case narrative —",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/taylor&",
-        "title": "Taylor Swift in legal showdown over &#8216;The Life of a Showgirl&#8217; album title use",
-        "url": "https://www.abajournal.com/news/article/taylor&#45;swifts&#45;legal&#45;showdown&#45;over&#45;the&#45;life&#45;of&#45;a&#45;showgirl&#45;use/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-31T19:46:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
-        "title": "DOJ dropped over 23K criminal investigations in shift to immigration",
-        "url": "https://www.abajournal.com/news/article/doj&#45;dropped&#45;criminal&#45;investigations&#45;in&#45;immigration&#45;shift/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-31T18:36:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/iowa&",
-        "title": "Law students can get a clue to close reading in fantasy card game-inspired class",
-        "url": "https://www.abajournal.com/web/article/iowa&#45;law&#45;students&#45;can&#45;get&#45;a&#45;clue&#45;to&#45;close&#45;reading&#45;in&#45;magic&#45;the&#45;gathering&#45;class/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-31T17:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/winning&",
-        "title": "Winning From Losing: Attorney who lost Gideon looks back on landmark case and how it reshaped his career",
-        "url": "https://www.abajournal.com/web/article/winning&#45;from&#45;losing/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-31T16:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/white&",
-        "title": "Expelled white student’s discrimination claims against law school tossed",
-        "url": "https://www.abajournal.com/news/article/white&#45;students&#45;discrimination&#45;claims&#45;against&#45;howard&#45;law&#45;tossed/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-31T16:02:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ai&",
-        "title": "AI use by federal judges is broad but infrequent, new study shows",
-        "url": "https://www.abajournal.com/news/article/ai&#45;use&#45;by&#45;federal&#45;judges&#45;is&#45;broad&#45;but&#45;infrequent&#45;new&#45;study&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-03-31T14:28:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,46 @@
     ],
     "cn": [
       {
+        "id": "36Kr:36kr.com/newsflashes/3748973242155528",
+        "title": "脑动极光：成为北京前沿脑机接口研究院战略合作单位，携手推进脑机接口关键技术临床转化",
+        "url": "https://36kr.com/newsflashes/3748973242155528?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-02T00:52:47.000Z",
+        "summary": "36氪获悉，脑动极光在港交所公告，集团已于近期正式成为北京前沿脑机接口研究院的战略合作单位。3月27日，公司子公司浙江脑动极光医疗科技有限公司与北京前沿脑机接口研究院现场签署战略合作协议。双方同意，围绕脑机接口领域，联合推进关键产品的研发与临床验证。集团将与研究院及其他战略合作企业共同推进多模态神经疾病数据库、神经电生理大模型及闭环神经调控类脑机接口产品等关键方向的联合研发，构建医工交叉、产学融合的创新生态。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3748939377771264",
+        "title": "国有六大行2025年金融科技投入超1300亿元",
+        "url": "https://36kr.com/newsflashes/3748939377771264?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-02T00:28:20.000Z",
+        "summary": "截至3月31日，工商银行、农业银行、中国银行、建设银行、交通银行、邮储银行等六大国有银行2025年年报已全部披露完毕。作为服务实体经济压舱石，六大行经营业绩实现稳健增长，并延续“加大科技投入、深化AI应用、服务实体经济”主线，金融科技投入规模合计超过1300亿元。在AI（人工智能）技术布局方面，国有大行致力于加强AI基础设施建设、构建AI生态体系、推进AI大规模场景应用等，进而驱动业务提质增效，构建核心竞争力。（证券日报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3748943753347590",
+        "title": "横店东磁：预计2026年光伏、锂电、磁材器件三大板块营收同比均增长",
+        "url": "https://36kr.com/newsflashes/3748943753347590?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-02T00:22:47.000Z",
+        "summary": "36氪获悉，横店东磁近日在业绩电话会议上表示，2026年，公司预计光伏、锂电、磁材器件三大板块的营收同比均能实现增长。其中，光伏板块虽面临美国新一轮AD/CVD调查、出口退税取消、银浆等材料价格高位波动、以及后续部分友商海外库存去化对市场的扰动，但公司凭借差异化产品策略去解决一些市场端的痛点，再叠加自身长期形成的经营韧性，从一季度看，仍能保持合理的盈利，预计全年亦能保持稳健的发展态势；磁材与器件板块将依托成本优化及海外基地的双重优势，加",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3748927500387072",
+        "title": "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元",
+        "url": "https://36kr.com/p/3748927500387072?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-02T00:09:25.000Z",
+        "summary": "今日热点导览 宇树科技被抽中首发企业现场检查 国家税务总局：2025年个税汇算已超7000万人申请退税 原特斯拉中国区高管孔艳双入职小米 特斯拉正式停产Model S和Model X两款车型 美国纽约市宣布撤销政府设备使用TikTok禁令 TOP 3大新闻 甲骨文凌晨6点突发邮件裁员3万人，约占全球员工总数的18% 全球软件巨头甲骨文（Oracle）于当地时间3月31日凌晨向员工群发邮件，宣布启动新一轮大规模裁员。多名收到通知的员工在社",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/kylqaekpkvrh3tjwmgiw",
         "title": "Claude Code 已经过度设计？OpenClaw 背后的 Pi 给出了一个极简答案",
         "url": "https://www.infoq.cn/article/KyLqAEKpkvrH3tJwMgiw?utm_source=rss&utm_medium=article",
@@ -1296,36 +1336,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-01T05:26:15.000Z",
         "summary": "近日，大众对“心源性猝死”这一沉重话题的关注度格外高。 “每年中国心源性猝死的人数约54万。没有原因的突然心脏停跳很少见，一般是先发生室速或室颤。”近日中国科学院院士、复旦大学附属中山医院葛均波在接受36氪等媒体访谈时指出：40岁到55岁期间是人体的“易损期”，这个阶段反而容易发生心源性猝死。 在临床专家看来，突发的心源性猝死、逐步进展的心力衰竭等问题，除遗传因素外，时常与长期的不良生活习惯相连。 “现代人长期工作压力大、饮食习惯高盐高",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3747662784332289",
-        "title": "36氪企业全情报：AI 舆情大数据，让投资决策快人一步",
-        "url": "https://36kr.com/p/3747662784332289?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T02:40:44.000Z",
-        "summary": "信息爆炸时代，炒股最怕 消息滞后、真假难辨、抓不住涨跌核心 。刷遍新闻、研报、股吧，仍看不清市场全貌？36 氪重磅推出 企业全情报微信小程序 ，以 AI 大模型 + 独家舆情大数据，为普通投资者打造机构级情报工具，一键看透股价逻辑、精准把握投资先机36氪。 一、硬核实力：机构级数据，普通人也能用 小程序由 36 氪联合 红麦聚信 倾力打造，依托 17 年大数据技术沉淀，实现 全网 7×24 小时实时数据采集 ，覆盖权威媒体、社交平台、行",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3746252355535622",
-        "title": "宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
-        "url": "https://36kr.com/p/3746252355535622?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T01:33:24.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.（以下简称“PathFinder”）近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。 PathFinder成立于2024年，聚焦运动领域AI Agent及智能终端的研发，以高尔夫场景为切口，为用户提供适配专业运动场景的智能装备与解决方案。 创始人陈弈及其",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3746892878480132",
-        "title": "AI agent入口的最短路径，全球首款AI笔记戒指 Vocci Ring开启预售|最前线",
-        "url": "https://36kr.com/p/3746892878480132?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T01:30:43.000Z",
-        "summary": "CES 2026 期间，Vocci Ring作为全球首款 AI 笔记戒指正式亮相，获得 4 项行业大奖。 在智能戒指赛道长期拥挤在心率、睡眠等健康监测领域的背景下，Vocci Ring 的出现展示另一条路线：从生理数据采集转移到声学交互与生产力工具属性上。这种垂直化的取舍，使其在特定细分市场，如记者、律师、金融从业者及创意工作者中，具有比通用型可穿戴设备更强的工具属性。 全球首款AI笔记戒指Vocci Ring Gyges labs有着",
         "category": "updates",
         "region": "cn"
       },
