@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T18:44:33.229Z",
+  "generatedAt": "2026-04-03T01:29:16.198Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
+        "title": "ABA amicus brief supports law firms targeted by executive orders",
+        "url": "https://www.abajournal.com/news/article/aba&#45;amicus&#45;brief&#45;supports&#45;law&#45;firms&#45;targeted&#45;by&#45;executive&#45;orders/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-02T20:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/university&",
+        "title": "University of New Mexico students present heavyweight boxer Muhammad Ali as legal champion",
+        "url": "https://www.abajournal.com/web/article/university&#45;of&#45;new&#45;mexico&#45;students&#45;present&#45;muhammad&#45;ali&#45;as&#45;legal&#45;champion/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-02T19:15:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/04/universal-migrator-releases-scripts-that-migrate-quickbooks-lexipi-and-ins-zoom-to-clio-mycase-litify-and-lawmatics.html",
+        "title": "Universal Migrator Releases scripts that migrate Quickbooks, LexiPi, and INS Zoom to Clio, MyCase, Litify and Lawmatics",
+        "url": "https://www.lawnext.com/2026/04/universal-migrator-releases-scripts-that-migrate-quickbooks-lexipi-and-ins-zoom-to-clio-mycase-litify-and-lawmatics.html",
+        "source": "LawSites",
+        "publishedAt": "2026-04-02T19:02:37.000Z",
+        "summary": "Universal Migrator has released new data migration scripts that help legal technology consultants migrate law firms from Quickbooks, LexiPi, and INS Zoom into major practice management tools Clio, MyCase, Litify, and Law",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/04/clio-adds-agentic-ai-capabilities-to-clio-work-also-launches-vincent-mobile-app.html",
         "title": "Clio Adds Agentic AI Capabilities to Clio Work, Also Launches Vincent Mobile App",
@@ -103,16 +133,6 @@
         "url": "https://www.abajournal.com/web/article/ftc&#45;applauds&#45;floridas&#45;move&#45;to&#45;end&#45;aba&#45;council&#45;as&#45;states&#45;sole&#45;law&#45;school&#45;accreditor/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-04-01T19:44:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/voice/article/rethinking&",
-        "title": "Rethinking the Legal Talent Pipeline: Why convenience is costing firms opportunity",
-        "url": "https://www.abajournal.com/voice/article/rethinking&#45;the&#45;legal&#45;talent&#45;pipeline&#45;why&#45;convenience&#45;is&#45;costing&#45;firms&#45;opportunity/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-01T17:18:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1148,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2025/12/clearbrief-launches-cite-check-report-to-give-law-firm-partners-an-audit-trail-against-ai-hallucinations.html",
-        "title": "Clearbrief Launches Cite Check Report to Give Law Firm Partners an Audit Trail Against AI Hallucinations",
-        "url": "https://www.lawnext.com/2025/12/clearbrief-launches-cite-check-report-to-give-law-firm-partners-an-audit-trail-against-ai-hallucinations.html",
-        "source": "LawSites",
-        "publishedAt": "2025-12-16T13:39:28.000Z",
-        "summary": "With more than 650 documented cases of AI hallucinations appearing in court filings, and courts imposing sanctions ranging from tens of thousands of dollars to removal from client representations, law firm partners face ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1196,19 +1206,79 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "36Kr:36kr.com/newsflashes/3750402883715591",
+        "title": "搭载黑芝麻智能华山A1000，东风奕派007闪现版正式上市",
+        "url": "https://36kr.com/newsflashes/3750402883715591?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-03T01:07:06.000Z",
+        "summary": "近日，东风奕派007闪现版正式上市。该车型搭载基于黑芝麻智能华山A1000芯片的智能驾驶解决方案，支持高速NOA导航辅助驾驶、LAPA记忆泊车辅助，并集成eπPILOT 20余项驾驶辅助功能。此次奕派007闪现版的量产上市，标志着黑芝麻智能与东风的合作正不断深化，华山A1000在高阶辅助驾驶领域的量产实力也再获验证。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3750376475247107",
+        "title": "中信证券：射频电源国产替代持续加速",
+        "url": "https://36kr.com/newsflashes/3750376475247107?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-03T00:48:15.000Z",
+        "summary": "36氪获悉，中信证券研报称，随着国内先进晶圆厂持续扩产，国内半导体设备及零部件市场保持快速增长。其中射频电源属于核心关键零部件，技术壁垒和加工难度极高。2024年全球射频电源市场规模达53美元，国内市场超120亿元，但是由于技术难度高，国内射频电源长期依赖进口，且主要由美国公司垄断，国产化率仅为12%。随着美国对华半导体出口限制逐渐增强，国内公司在射频电源行业正在逐步追赶全球竞争对手主流水平，国产替代持续加速。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3750368381469444",
+        "title": "中标多订单旺，上市公司增长动能强劲",
+        "url": "https://36kr.com/newsflashes/3750368381469444?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-03T00:32:00.000Z",
+        "summary": "2026年以来，多家A股上市公司披露订单签约及项目中标公告，整体呈现强劲增长势头。根据Wind资讯数据统计，截至4月2日，从订单与中标规模看，今年以来上市公司单笔金额覆盖千万元级、亿元级乃至百亿元级，订单披露频次较去年同期亦显著提升。从覆盖领域看，订单和中标项目呈现“传统产业稳根基、新兴产业领增长”的格局，新能源、人工智能配套等领域占比较大。（证券日报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3749811482297090",
+        "title": "AI开发者请就位！第二届“数龙杯”新增智能体赛道，你的“龙虾”准备好了吗？",
+        "url": "https://36kr.com/p/3749811482297090?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-03T00:30:48.000Z",
+        "summary": "文 | 刘士武 近日，由世纪华通主办的第二届「数龙杯全球AI创新大赛」宣布将于4月初正式启动，并在参赛项目类型方面进行了全面升级。除了各类AI游戏与AI应用以外，本届大赛专门新增了AI智能体赛道，希望挖掘在这个领域真正有创造力、能解决实际问题的优秀项目。 第二届「数龙杯全球AI创新大赛」（文末附报名入口） 这一举措的背景，呼应了2026开年OpenClaw将AI行业发展推向的新高潮。 “小龙虾”不仅能自己规划任务、执行操作，还能像养电子",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3750367191925512",
+        "title": "谷歌发布Gemma 4开源大模型",
+        "url": "https://36kr.com/newsflashes/3750367191925512?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-03T00:30:47.000Z",
+        "summary": "当地时间4月2日，谷歌正式推出Gemma 4大模型，包括四种规格的Gemma 4通用模型：高效20亿参数版（E2B）、高效40亿参数版（E4B）、260亿混合专家模型（MoE）与310亿稠密模型（31B）。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3750366535320067",
+        "title": "中信建投：看好2026年Agent快速落地，关注Agent自我迭代进化",
+        "url": "https://36kr.com/newsflashes/3750366535320067?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-03T00:30:07.000Z",
+        "summary": "36氪获悉，中信建投研报称，AI应用行业方面，坚定看好产业趋势下的投资机会，回调后逐渐出现合适买点。本周OpenRouter token调用预计环比增长11%，高速增长中。Agent的任务交付能力变得越来越强，除模型能力提升外，Agent Harness（让模型能力被结构化地应用）是重要驱动。看好2026年Agent快速落地，关注Agent自我迭代进化。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3750345334292999",
+        "title": "8点1氪丨张雪回应陈光标赠1300万元劳斯莱斯；与辉同行曾带货优思益，销售额超千万；马斯克回应OpenAI股票在二级市场遇冷",
+        "url": "https://36kr.com/p/3750345334292999?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-03T00:12:22.000Z",
+        "summary": "今日热点导览 抖音生活服务组织架构大调整 杭州市场监管部门对索象等公司立案调查 伊朗：霍尔木兹海峡对敌人将永远关闭 飞天茅台原箱批价涨至1730元/瓶 礼来口服GLP-1药物在美获批用于减肥 TOP3大新闻 张雪回应陈光标赠1300万元劳斯莱斯 4月1日，陈光标在社交平台发布视频称，将赠予张雪机车创始人张雪一台价值1300万元的劳斯莱斯。4月2日凌晨，张雪回应称：“那我收了，顺便招募一位附近的2手车商（信任度权威的）上门8折收了。款捐赠",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/oyztkc9iqugumoox6imt",
         "title": "从数据留底到隐身进开源，Claude Code 泄露的代码里，处处写着：这家公司人品不行",
@@ -1306,26 +1376,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-01T14:20:45.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3748233045541637",
-        "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
-        "url": "https://36kr.com/p/3748233045541637?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T12:21:23.000Z",
-        "summary": "文｜邱晓芬 编辑｜苏建勋 一家成立12年的两轮电动车厂商，在成功经历过中国的锂电化、智能化浪潮，并在纳斯达克上市后，决定加入AI时代全新的竞争。造AI时代的智能两轮电动车——被小牛电动称为：“下一个十年的护城河”。 在小牛电动不久前的发布会上，他们展示了初步的成果——在新发布的电动车NXT2和NX2上，搭载了自研的小牛灵犀AIOS、以及首个面向骑行的AI智能体。 当你开车上路时，小牛灵犀AIOS和智能体的搭配，将让你的电动车变成“会看路",
-        "category": "skills",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3748061455778311",
-        "title": "氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image",
-        "url": "https://36kr.com/p/3748061455778311?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-01T10:02:13.000Z",
-        "summary": "大公司： 李亚鹏名下公司成立麋鹿咖啡公司 36氪获悉，爱企查App显示，近日，云南麋鹿咖啡有限公司成立，法定代表人为杨凝，注册资本100万元人民币，经营范围包括咖啡豆种植、食用农产品批发、食用农产品零售、食品互联网销售等。股权穿透图显示，该公司由李亚鹏名下北京艺莲文化科技有限公司、罗毓藻分别持股90%、10%。 特斯拉正式停产Model S和Model X两款车型 据媒体报道，马斯克4月1日在X平台发文，宣布特斯拉正式停产Model S",
         "category": "updates",
         "region": "cn"
       }
