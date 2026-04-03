@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T12:43:38.085Z",
+  "generatedAt": "2026-04-03T18:36:33.758Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
+        "title": "Blake Lively&#8217;s sexual harassment claims against Justin Baldoni face legal setback",
+        "url": "https://www.abajournal.com/news/article/judge&#45;dismisses&#45;sexual&#45;harassment&#45;claims&#45;only&#45;of&#45;blake&#45;lively&#45;lawsuit&#45;against&#45;justin&#45;baldoni/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-03T16:38:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/tiktoker&",
+        "title": "TikTok creator sued by immigration firm, accused of making defamatory comments online",
+        "url": "https://www.abajournal.com/news/article/tiktoker&#45;being&#45;sued&#45;by&#45;immigration&#45;firm&#45;accused&#45;of&#45;making&#45;defamatory&#45;comments&#45;online/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-03T15:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/baja&",
+        "title": "15 attorney killings remain unsolved, Baja California Bar Association says",
+        "url": "https://www.abajournal.com/news/article/baja&#45;bar&#45;says&#45;15&#45;attorney&#45;killings&#45;remain&#45;unsolved/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-03T14:37:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/03/harveys-spectre-agent-points-to-law-firm-world-model",
         "title": "Harvey’s Spectre Agent Points to ‘Law Firm World Model’",
@@ -88,36 +118,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/2&",
-        "title": "2 government attorneys resign over use of fake AI citations",
-        "url": "https://www.abajournal.com/news/article/2&#45;new&#45;orleans&#45;government&#45;attorneys&#45;resign&#45;over&#45;use&#45;of&#45;fake&#45;ai&#45;citations/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-02T14:43:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/potomac&",
-        "title": "Potomac Power Play: Annual charity hockey game pits lobbyists against lawmakers",
-        "url": "https://www.abajournal.com/web/article/potomac&#45;power&#45;play/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-02T14:15:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/chemerinsky&",
-        "title": "Chemerinsky: Breaking down the issues in the birthright citizenship case",
-        "url": "https://www.abajournal.com/columns/article/chemerinsky&#45;breaking&#45;down&#45;the&#45;issues&#45;in&#45;the&#45;birthright&#45;citizenship&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-02T14:09:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators",
         "title": "Crosby on Big Law R&#038;D, Legora 100, TR + HotShot, Legal Innovators +",
         "url": "https://www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators/",
@@ -135,16 +135,6 @@
         "publishedAt": "2026-04-02T06:40:24.000Z",
         "summary": "By Deepak Kapoor, CEO, Manupatra. AI is rapidly transforming legal research and workflows across the world. However, the Indian legal system presents unique complexities that ...",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/ftc&",
-        "title": "Florida&#8217;s move to end ABA council as state&#8217;s sole law school accreditor applauded by FTC",
-        "url": "https://www.abajournal.com/web/article/ftc&#45;applauds&#45;floridas&#45;move&#45;to&#45;end&#45;aba&#45;council&#45;as&#45;states&#45;sole&#45;law&#45;school&#45;accreditor/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-01T19:44:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,19 +1196,19 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/bmcmklf4x5adxqk8pzxz",
-        "title": "真实用户“龙虾点评榜”来了！元气Bot、ArkClaw、DuClaw冲进前三",
-        "url": "https://www.infoq.cn/article/BmCMklF4x5ADXqK8PZxZ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-03T19:01:38.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/kwmoqshv5lx0tslybo3j",
         "title": "KubeVirt v1.8 为 Kubernetes 带来多虚拟机管理程序和机密计算功能",
@@ -1339,16 +1329,6 @@
         "publishedAt": "2026-04-03T12:00:09.000Z",
         "summary": "Tencent Holdings has launched a new OpenClaw tool for enterprises that promises easy deployment of the artificial intelligence agent as part of the Chinese internet giant’s efforts to capitalise on the “lobster” frenzy i",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3348897/manulife-hsbc-barclays-among-big-finance-firms-pushing-ai-adoption-hong-kong",
-        "title": "Manulife, HSBC, Barclays among big finance firms pushing AI adoption in Hong Kong",
-        "url": "https://www.scmp.com/business/banking-finance/article/3348897/manulife-hsbc-barclays-among-big-finance-firms-pushing-ai-adoption-hong-kong?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-03T09:00:08.000Z",
-        "summary": "Manulife, HSBC Holdings and Barclays are among the big financial firms that have announced plans to boost their adoption of artificial intelligence, in line with the Hong Kong government’s efforts to promote the use of t",
-        "category": "updates",
         "region": "cn_en"
       },
       {
