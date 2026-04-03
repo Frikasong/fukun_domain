@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T06:59:20.962Z",
+  "generatedAt": "2026-04-03T12:43:38.085Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/03/harveys-spectre-agent-points-to-law-firm-world-model",
+        "title": "Harvey’s Spectre Agent Points to ‘Law Firm World Model’",
+        "url": "https://www.artificiallawyer.com/2026/04/03/harveys-spectre-agent-points-to-law-firm-world-model/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-03T08:05:52.000Z",
+        "summary": "Harvey has unveiled details about Spectre, its company agent that is starting to autonomously handle a range of tasks inside the business. It points to ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/aba&",
         "title": "ABA amicus brief supports law firms targeted by executive orders",
@@ -254,16 +264,6 @@
         "source": "LawSites",
         "publishedAt": "2026-03-30T12:50:13.000Z",
         "summary": "A first-of-its-kind random-sample survey of federal judges has found that more than 60% have used generative artificial intelligence tools in their judicial work, though fewer than one in four use these tools on a daily ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/30/ai-native-law-firm-directory-launches",
-        "title": "AI-Native Law Firm Directory Launches",
-        "url": "https://www.artificiallawyer.com/2026/03/30/ai-native-law-firm-directory-launches/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-30T08:32:43.000Z",
-        "summary": "Matt Pollins, the co-founder of Lupl and also previously a partner at CMS, has launched a directory of AI-native law firms, which keeps tabs on ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,12 +1210,52 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/bmcmklf4x5adxqk8pzxz",
+        "title": "真实用户“龙虾点评榜”来了！元气Bot、ArkClaw、DuClaw冲进前三",
+        "url": "https://www.infoq.cn/article/BmCMklF4x5ADXqK8PZxZ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-03T19:01:38.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/kwmoqshv5lx0tslybo3j",
+        "title": "KubeVirt v1.8 为 Kubernetes 带来多虚拟机管理程序和机密计算功能",
+        "url": "https://www.infoq.cn/article/kwmoqShV5lx0TslYbo3j?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-03T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/x1c6zllztrqhgeioyrbr",
         "title": "谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决",
         "url": "https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-04-03T14:40:36.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3751084860949252",
+        "title": "强一股份：一季度净利同比预增655%-762%",
+        "url": "https://36kr.com/newsflashes/3751084860949252?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-03T12:40:50.000Z",
+        "summary": "36氪获悉，强一股份公告，预计2026年第一季度实现归属于上市公司股东的净利润为1.06亿元-1.21亿元，同比增加654.79%-761.60%。本期业绩同比大幅增长，主要系AI算力需求爆发及行业景气度上行，成熟产品订单放量；前期已发货未确认收入订单在本期确认；以及客户结构优化与规模效应显现共同作用所致。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3751046517129735",
+        "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
+        "url": "https://36kr.com/p/3751046517129735?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-03T12:08:53.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 神州数码（000034.SZ）2025年全年业绩报告近日发布。 财报显示，公司全年实现营业收入1438亿元，同比增长12%，营收规模连续三年稳步攀升。其中，AI相关业务成为核心增长引擎，全年收入达330亿元，同比增长了48%，正式迈入规模化落地期，成为与传统分销业务并重的当期增长极。 具体到业务板块，高价值战略业务呈现爆发式增长。以神州问学为核心的AI软件及服务业务营收1.1亿元，同比增长了165.4%，企业级",
         "category": "updates",
         "region": "cn"
       },
@@ -1240,32 +1280,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3750718674436608",
-        "title": "谷歌更新Gemini API定价，按推理使用分档计费",
-        "url": "https://36kr.com/newsflashes/3750718674436608?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-03T06:28:20.000Z",
-        "summary": "谷歌近日对Gemini API的计费档位进行更新，优化方案与定价均基于实际推理使用需求制定。本次新增的推理服务档位包括：标准（Standard）、弹性（Flex）、优先（Priority）、批量（Batch）和缓存（Caching）版。其中，弹性推理档位通过利用非高峰闲置算力资源，提供标准价格五折优惠，目标延迟为1至15分钟，但不提供延迟保证。批量API档位同样提供标准费率五折优惠，延迟最长可达24小时。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3750704146072326",
         "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
         "url": "https://36kr.com/p/3750704146072326?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-03T06:15:06.000Z",
         "summary": "如今内容行业风头正盛的莫过于AI拟真人剧。 它是从AI漫剧这一赛道中生长出来的内容形态，也是视频生成大模型飞跃式进步下的产物。 早在2025年下半年的时候，这一内容形态就已经崭露头角。彼时有一批从业者认为，AI拟真人剧的天花板相当于整个传统影视行业，要高于AI漫剧，于是在诸多技术问题尚未被解决的时候就决定入局。 今年1月以来，字节旗下Seedance2.0、生数科技Vidu Q3的发布则彻底引爆了这一赛道。人物表情的恐怖谷效应、角色难以",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3750614232695305",
-        "title": "Xiaomi MiMo Token Plan正式上线",
-        "url": "https://36kr.com/newsflashes/3750614232695305?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-03T04:42:05.000Z",
-        "summary": "36氪获悉，据小米技术消息，Xiaomi MiMo Token Plan正式上线。据介绍，Xiaomi MiMo Token Plan是面向个人用户与开发者的小米自研大模型调用套餐。",
         "category": "updates",
         "region": "cn"
       },
@@ -1290,16 +1310,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3750345334292999",
-        "title": "8点1氪丨张雪回应陈光标赠1300万元劳斯莱斯；与辉同行曾带货优思益，销售额超千万；马斯克回应OpenAI股票在二级市场遇冷",
-        "url": "https://36kr.com/p/3750345334292999?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-03T00:12:22.000Z",
-        "summary": "今日热点导览 抖音生活服务组织架构大调整 杭州市场监管部门对索象等公司立案调查 伊朗：霍尔木兹海峡对敌人将永远关闭 飞天茅台原箱批价涨至1730元/瓶 礼来口服GLP-1药物在美获批用于减肥 TOP3大新闻 张雪回应陈光标赠1300万元劳斯莱斯 4月1日，陈光标在社交平台发布视频称，将赠予张雪机车创始人张雪一台价值1300万元的劳斯莱斯。4月2日凌晨，张雪回应称：“那我收了，顺便招募一位附近的2手车商（信任度权威的）上门8折收了。款捐赠",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/oyztkc9iqugumoox6imt",
         "title": "从数据留底到隐身进开源，Claude Code 泄露的代码里，处处写着：这家公司人品不行",
         "url": "https://www.infoq.cn/article/oyztKc9IQUguMOOx6imT?utm_source=rss&utm_medium=article",
@@ -1318,29 +1328,29 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/sf95yjdfgawk9vdhza2i",
-        "title": "豆包日均Token使用量突破120万亿，Seedance2.0API开启公测",
-        "url": "https://www.infoq.cn/article/SF95yJdFgaWk9vDhZa2I?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-02T15:08:34.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/lou1d22q6qom0qp5ifxp",
-        "title": "“奥特曼拉来多少万亿都没用”！UML之父判断：大模型不会真正思考，从架构上就是死胡同",
-        "url": "https://www.infoq.cn/article/lOu1d22q6Qom0qp5ifxP?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-02T12:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/article/3348942/tencent-expands-openclaw-suite-enterprise-tool-amid-chinas-lobster-craze",
+        "title": "Tencent expands OpenClaw suite with enterprise tool amid China’s ‘lobster’ craze",
+        "url": "https://www.scmp.com/tech/article/3348942/tencent-expands-openclaw-suite-enterprise-tool-amid-chinas-lobster-craze?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-03T12:00:09.000Z",
+        "summary": "Tencent Holdings has launched a new OpenClaw tool for enterprises that promises easy deployment of the artificial intelligence agent as part of the Chinese internet giant’s efforts to capitalise on the “lobster” frenzy i",
+        "category": "tools",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3348897/manulife-hsbc-barclays-among-big-finance-firms-pushing-ai-adoption-hong-kong",
+        "title": "Manulife, HSBC, Barclays among big finance firms pushing AI adoption in Hong Kong",
+        "url": "https://www.scmp.com/business/banking-finance/article/3348897/manulife-hsbc-barclays-among-big-finance-firms-pushing-ai-adoption-hong-kong?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-03T09:00:08.000Z",
+        "summary": "Manulife, HSBC Holdings and Barclays are among the big financial firms that have announced plans to boost their adoption of artificial intelligence, in line with the Hong Kong government’s efforts to promote the use of t",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3348345/deepseek-outage-leaves-millions-cut-and-sparks-complaints-rivals-gain-ground",
         "title": "DeepSeek 12-hour outage leaves millions cut off, sparks complaints as rivals gain ground",
