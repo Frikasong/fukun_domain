@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T01:29:16.198Z",
+  "generatedAt": "2026-04-03T06:59:20.962Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,32 +1210,72 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3750402883715591",
-        "title": "搭载黑芝麻智能华山A1000，东风奕派007闪现版正式上市",
-        "url": "https://36kr.com/newsflashes/3750402883715591?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-03T01:07:06.000Z",
-        "summary": "近日，东风奕派007闪现版正式上市。该车型搭载基于黑芝麻智能华山A1000芯片的智能驾驶解决方案，支持高速NOA导航辅助驾驶、LAPA记忆泊车辅助，并集成eπPILOT 20余项驾驶辅助功能。此次奕派007闪现版的量产上市，标志着黑芝麻智能与东风的合作正不断深化，华山A1000在高阶辅助驾驶领域的量产实力也再获验证。",
+        "id": "InfoQ China:www.infoq.cn/article/x1c6zllztrqhgeioyrbr",
+        "title": "谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决",
+        "url": "https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-03T14:40:36.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3750376475247107",
-        "title": "中信证券：射频电源国产替代持续加速",
-        "url": "https://36kr.com/newsflashes/3750376475247107?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-03T00:48:15.000Z",
-        "summary": "36氪获悉，中信证券研报称，随着国内先进晶圆厂持续扩产，国内半导体设备及零部件市场保持快速增长。其中射频电源属于核心关键零部件，技术壁垒和加工难度极高。2024年全球射频电源市场规模达53美元，国内市场超120亿元，但是由于技术难度高，国内射频电源长期依赖进口，且主要由美国公司垄断，国产化率仅为12%。随着美国对华半导体出口限制逐渐增强，国内公司在射频电源行业正在逐步追赶全球竞争对手主流水平，国产替代持续加速。",
+        "id": "InfoQ China:www.infoq.cn/article/8lbrc9hodxymcvku85fy",
+        "title": "Cloudflare 在边缘部署了主动式 API 漏洞扫描功能",
+        "url": "https://www.infoq.cn/article/8LBRc9hODxYmCvKU85fy?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-03T10:30:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3750368381469444",
-        "title": "中标多订单旺，上市公司增长动能强劲",
-        "url": "https://36kr.com/newsflashes/3750368381469444?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/zqsez5txquwgcbk2fwdl",
+        "title": "微软推出 Azure Copilot Migration Agent，加速云迁移规划",
+        "url": "https://www.infoq.cn/article/ZQsEz5TXqUWGcbk2FWDL?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-03T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3750718674436608",
+        "title": "谷歌更新Gemini API定价，按推理使用分档计费",
+        "url": "https://36kr.com/newsflashes/3750718674436608?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-03T00:32:00.000Z",
-        "summary": "2026年以来，多家A股上市公司披露订单签约及项目中标公告，整体呈现强劲增长势头。根据Wind资讯数据统计，截至4月2日，从订单与中标规模看，今年以来上市公司单笔金额覆盖千万元级、亿元级乃至百亿元级，订单披露频次较去年同期亦显著提升。从覆盖领域看，订单和中标项目呈现“传统产业稳根基、新兴产业领增长”的格局，新能源、人工智能配套等领域占比较大。（证券日报）",
+        "publishedAt": "2026-04-03T06:28:20.000Z",
+        "summary": "谷歌近日对Gemini API的计费档位进行更新，优化方案与定价均基于实际推理使用需求制定。本次新增的推理服务档位包括：标准（Standard）、弹性（Flex）、优先（Priority）、批量（Batch）和缓存（Caching）版。其中，弹性推理档位通过利用非高峰闲置算力资源，提供标准价格五折优惠，目标延迟为1至15分钟，但不提供延迟保证。批量API档位同样提供标准费率五折优惠，延迟最长可达24小时。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3750704146072326",
+        "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+        "url": "https://36kr.com/p/3750704146072326?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-03T06:15:06.000Z",
+        "summary": "如今内容行业风头正盛的莫过于AI拟真人剧。 它是从AI漫剧这一赛道中生长出来的内容形态，也是视频生成大模型飞跃式进步下的产物。 早在2025年下半年的时候，这一内容形态就已经崭露头角。彼时有一批从业者认为，AI拟真人剧的天花板相当于整个传统影视行业，要高于AI漫剧，于是在诸多技术问题尚未被解决的时候就决定入局。 今年1月以来，字节旗下Seedance2.0、生数科技Vidu Q3的发布则彻底引爆了这一赛道。人物表情的恐怖谷效应、角色难以",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3750614232695305",
+        "title": "Xiaomi MiMo Token Plan正式上线",
+        "url": "https://36kr.com/newsflashes/3750614232695305?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-03T04:42:05.000Z",
+        "summary": "36氪获悉，据小米技术消息，Xiaomi MiMo Token Plan正式上线。据介绍，Xiaomi MiMo Token Plan是面向个人用户与开发者的小米自研大模型调用套餐。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3750417621795588",
+        "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
+        "url": "https://36kr.com/p/3750417621795588?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-03T04:00:00.000Z",
+        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，北京戴纳实验科技股份有限公司（下称“戴纳科技”）已于近日完成近亿元B+轮融资。本轮由顺禧基金管理的北京市新材料产业投资基金（以下简称“北京新材料基金”）和北京市丰台区丰泽志远产业培育基金（以下简称“丰泽基金”）共同投资。资金将主要用于核心技术迭代、产能扩张，以及与北京化工大学联合搭建全球首个新材料CRO平台，加速AI+新材料研发服务的产业化落地。 戴纳科技成立于2011年，是国内首家提出并100%成功",
         "category": "updates",
         "region": "cn"
       },
@@ -1246,26 +1286,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-03T00:30:48.000Z",
         "summary": "文 | 刘士武 近日，由世纪华通主办的第二届「数龙杯全球AI创新大赛」宣布将于4月初正式启动，并在参赛项目类型方面进行了全面升级。除了各类AI游戏与AI应用以外，本届大赛专门新增了AI智能体赛道，希望挖掘在这个领域真正有创造力、能解决实际问题的优秀项目。 第二届「数龙杯全球AI创新大赛」（文末附报名入口） 这一举措的背景，呼应了2026开年OpenClaw将AI行业发展推向的新高潮。 “小龙虾”不仅能自己规划任务、执行操作，还能像养电子",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3750367191925512",
-        "title": "谷歌发布Gemma 4开源大模型",
-        "url": "https://36kr.com/newsflashes/3750367191925512?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-03T00:30:47.000Z",
-        "summary": "当地时间4月2日，谷歌正式推出Gemma 4大模型，包括四种规格的Gemma 4通用模型：高效20亿参数版（E2B）、高效40亿参数版（E4B）、260亿混合专家模型（MoE）与310亿稠密模型（31B）。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3750366535320067",
-        "title": "中信建投：看好2026年Agent快速落地，关注Agent自我迭代进化",
-        "url": "https://36kr.com/newsflashes/3750366535320067?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-03T00:30:07.000Z",
-        "summary": "36氪获悉，中信建投研报称，AI应用行业方面，坚定看好产业趋势下的投资机会，回调后逐渐出现合适买点。本周OpenRouter token调用预计环比增长11%，高速增长中。Agent的任务交付能力变得越来越强，除模型能力提升外，Agent Harness（让模型能力被结构化地应用）是重要驱动。看好2026年Agent快速落地，关注Agent自我迭代进化。",
         "category": "updates",
         "region": "cn"
       },
@@ -1315,66 +1335,6 @@
         "url": "https://www.infoq.cn/article/lOu1d22q6Qom0qp5ifxP?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-04-02T12:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3749518049739271",
-        "title": "36氪晚报｜AI大模型产品“奇趣”完成千万级融资；阶跃星辰上线Step 3.5 Flash 2603模型；沃尔沃汽车第一季度全球销量同比下降11%",
-        "url": "https://36kr.com/p/3749518049739271?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-02T10:10:59.000Z",
-        "summary": "大公司： 滴滴租车推出“无车必赔”机制，无车率下降15% 为提升履约确定性，滴滴租车推出“无车必赔”机制：因商家原因导致无法用车，平台将协调升级车型，或全额退款并赔付三倍日租金。规则实施后，无车率同期下降15%，平台共赔付预约无车订单三百余次。针对车损纠纷和线下乱收费情况，平台提供免费第三方定损及先行赔付，费用全程线上公示，统一收款，严禁线下加价，违规收费先行赔付，线下乱收费投诉量下降50%。目前超95%的订单实现“无投诉、无纠纷”。 ",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3748118174335747",
-        "title": "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家",
-        "url": "https://36kr.com/p/3748118174335747?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-02T08:10:46.000Z",
-        "summary": "图源视觉中国 文｜肖漫 编辑｜李勤、杨轩 36氪汽车独家获悉，轻舟智航、元戎启行已向香港交易所秘密递交上市材料，计划于今年年内在港交所挂牌。 一位投资行业人士告诉我们，元戎启行在2025年年底就已提交上市资料，比Momenta递表的时间还早两个月。 港股IPO从递表到挂牌需经历递表审核、聆讯、路演与招股等关键阶段，顺利情况下全周期约6-9个月。也就是说，包含轻舟智航、元戎启行和Momenta在内的这批自动驾驶算法公司极有可能在今年下半年",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3749149674439169",
-        "title": "获韶音投资，一家AI公司做了“硬件版OpenClaw” | 36氪独家",
-        "url": "https://36kr.com/p/3749149674439169?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-02T04:25:33.000Z",
-        "summary": "文｜邓咏仪 编辑｜苏建勋 当OpenClaw风暴席卷全球之时，无界方舟创始人曾晓东的反应不是兴奋，而是一种“终于被看见”的感觉。 “OpenClaw本质上是一个Agent框架，底层是一个会写代码的Agent，放在云端服务器或者电脑上。”他对《智能涌现》说，“我们的AIOS本质上也是一个Agent框架，但它是放在硬件端侧的OpenClaw——机器人、耳机、眼镜，都可以在这套OS上运行。” 无界方舟从2024年成立起，就在做这件事。曾晓东给",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3748927500387072",
-        "title": "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元",
-        "url": "https://36kr.com/p/3748927500387072?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-02T00:09:25.000Z",
-        "summary": "今日热点导览 宇树科技被抽中首发企业现场检查 国家税务总局：2025年个税汇算已超7000万人申请退税 原特斯拉中国区高管孔艳双入职小米 特斯拉正式停产Model S和Model X两款车型 美国纽约市宣布撤销政府设备使用TikTok禁令 TOP 3大新闻 甲骨文凌晨6点突发邮件裁员3万人，约占全球员工总数的18% 全球软件巨头甲骨文（Oracle）于当地时间3月31日凌晨向员工群发邮件，宣布启动新一轮大规模裁员。多名收到通知的员工在社",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/kylqaekpkvrh3tjwmgiw",
-        "title": "Claude Code 已经过度设计？OpenClaw 背后的 Pi 给出了一个极简答案",
-        "url": "https://www.infoq.cn/article/KyLqAEKpkvrH3tJwMgiw?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-01T14:47:50.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ccaes2wpcxmxcovmsfcl",
-        "title": "Claude Code 意外“开源”，51 万行源码曝光，但真正的秘密没有泄露",
-        "url": "https://www.infoq.cn/article/cCAes2WpcXMxcovMSFCl?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-01T14:20:45.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
