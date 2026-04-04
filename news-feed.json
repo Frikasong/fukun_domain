@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T06:50:59.690Z",
+  "generatedAt": "2026-04-04T12:36:32.461Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,16 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/udlhy0p8iddibtltfv35",
-        "title": "智能体 AI 模式强化软件工程规范性",
-        "url": "https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-04T14:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/bfjypqwfujc9jihk1iij",
         "title": "Kubernetes自动扩展功能需要新的可观测性关注点，而不局限于供应商工具",
