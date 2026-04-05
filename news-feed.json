@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T06:56:25.626Z",
+  "generatedAt": "2026-04-05T12:38:45.487Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,12 +1210,12 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3753563457831433",
-        "title": "新型AI模型可通过血检识别多种神经退行性疾病",
-        "url": "https://36kr.com/newsflashes/3753563457831433?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3753639574848256",
+        "title": "富士康3月营收8037.4亿新台币，同比增长45.6%",
+        "url": "https://36kr.com/newsflashes/3753639574848256?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-05T06:42:12.000Z",
-        "summary": "斯德哥尔摩消息：瑞典隆德大学日前宣布，该校参与研发出一种新型人工智能（AI）模型，可通过单次血液检测辅助识别多种神经退行性疾病，为相关疾病早期筛查和辅助诊断提供新思路。隆德大学发布的新闻公报说，不同神经退行性疾病在早期往往表现出相似症状，与年龄相关的认知功能下降成因也较为复杂，患者大脑中还可能同时存在多种相互重叠的病理过程，进一步增加了临床诊断难度。（新华社）",
+        "publishedAt": "2026-04-05T07:59:37.000Z",
+        "summary": "4月5日，富士康3月营收8037.4亿新台币，同比增长45.6%，一季度营收同比增长29.7%。富士康称，根据当前可见前景，预计第二季度运营业绩将实现环比及同比双增长，人工智能服务器机架预计将保持持续增长的态势。（财联社）",
         "category": "updates",
         "region": "cn"
       },
@@ -1226,16 +1226,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-05T06:05:09.000Z",
         "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，矿石AI智能分选设备企业——北京霍里思特科技有限公司（下称“霍里思特”）已完成近2亿元C轮融资，由招商局资本领投，京国瑞、大兴产投、北创投、开源思创及初辉资本跟投。本轮资金将主要用于核心技术研发、全球化业务拓展及团队建设。 霍里思特成立于2010年，是国内在全矿种（有色、黑色、非金属、放射性及煤矿）均有智能分选大量落地应用的设备供应商。公司核心团队源自清华大学精密仪器系国家重点实验室，创始人郭劲为清华",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3753419658806022",
-        "title": "香港财政司司长陈茂波：目前轮候来港上市申请个案已超过500宗",
-        "url": "https://36kr.com/newsflashes/3753419658806022?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-05T04:15:55.000Z",
-        "summary": "香港特区政府财政司司长陈茂波发表网志称，新股上市方面，香港今年首季IPO市场延续去年强势，截至3月27日，集资额已超过1030亿港元，全球排行第一；连同后续融资等，筹资总规模约2370亿港元。更重要的是，来港上市企业愈来愈多属新兴产业——人工智能、半导体、机械人、自动驾驶、生物科技等。目前轮候来港上市的申请个案已超过500宗。可以说，当外围环境愈不明朗，更多企业视香港为融资与“出海”发展的重要窗口。",
         "category": "updates",
         "region": "cn"
       },
@@ -1256,16 +1246,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-04T06:11:10.000Z",
         "summary": "2026年3月29日下午5点，在我们抵达深圳科创学院四楼时，参加“全球首届具身智能开发者大会”的20组选手，已经在这里持续开发了60个小时。 现场弥漫着一股咖啡混合着冷气的味道，随处可见没吃完的奶茶和果切，楼道里和墙角支着一个个帐篷，有选手在里面补觉，“前一天熬到凌晨4点”。 图片由智能涌现拍摄 和开发应用/软件的黑客松不同，在这场具身智能开发者大会上，看得见的，有近百台高性能六轴机械臂；看不见的，背后还有100+ PFLOPs的算力支",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3751993972802307",
-        "title": "Anthropic宣布正式封杀OpenClaw",
-        "url": "https://36kr.com/newsflashes/3751993972802307?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-04T04:49:28.000Z",
-        "summary": "美国大模型头部公司Anthropic旗下AI编程工具Claude Code负责人Boris Cherny发文称，美国西部时间4月4日中午12点起，Claude订阅服务将不再包含对OpenClaw等第三方工具的使用额度。团队一直在努力满足Claude需求的增长，而订阅并非为这些第三方工具的使用模式设计。容量是团队谨慎管理的资源，会优先考虑客户使用产品和API。（第一财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1342,6 +1322,16 @@
     ],
     "cn_en": [
       {
+        "id": "SCMP China Business:www.scmp.com/tech/policy/article/3348956/chinese-firms-trail-us-peers-ai-adoption-due-corporate-culture-ex-openai-executive",
+        "title": "Chinese firms trail US peers in AI adoption due to corporate culture: ex-OpenAI executive",
+        "url": "https://www.scmp.com/tech/policy/article/3348956/chinese-firms-trail-us-peers-ai-adoption-due-corporate-culture-ex-openai-executive?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-05T11:00:08.000Z",
+        "summary": "Traditional corporate culture and hierarchies are slowing down artificial intelligence adoption in Chinese enterprises, leaving them trailing their US peers, even as China’s savvy consumers embrace AI agents at a breakne",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
         "id": "SCMP China Business:www.scmp.com/tech/article/3348942/tencent-expands-openclaw-suite-enterprise-tool-amid-chinas-lobster-craze",
         "title": "Tencent expands OpenClaw suite with enterprise tool amid China’s ‘lobster’ craze",
         "url": "https://www.scmp.com/tech/article/3348942/tencent-expands-openclaw-suite-enterprise-tool-amid-chinas-lobster-craze?utm_source=rss_feed",
@@ -1349,16 +1339,6 @@
         "publishedAt": "2026-04-03T12:00:09.000Z",
         "summary": "Tencent Holdings has launched a new OpenClaw tool for enterprises that promises easy deployment of the artificial intelligence agent as part of the Chinese internet giant’s efforts to capitalise on the “lobster” frenzy i",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3348345/deepseek-outage-leaves-millions-cut-and-sparks-complaints-rivals-gain-ground",
-        "title": "DeepSeek 12-hour outage leaves millions cut off, sparks complaints as rivals gain ground",
-        "url": "https://www.scmp.com/tech/big-tech/article/3348345/deepseek-outage-leaves-millions-cut-and-sparks-complaints-rivals-gain-ground?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-03-30T03:41:43.000Z",
-        "summary": "Chinese artificial intelligence start-up DeepSeek suffered a prolonged outage overnight that extended into early Monday morning, disrupting service for hundreds of millions of users, according to a company notice and use",
-        "category": "updates",
         "region": "cn_en"
       },
       {
