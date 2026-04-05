@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T18:30:30.523Z",
+  "generatedAt": "2026-04-05T01:46:55.765Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -263,7 +263,7 @@
         "url": "https://www.lawnext.com/2026/03/ai-that-listens-like-a-lawyer-a-side-by-side-comparison-of-general-ai-notetakers-and-legal-conversational-intelligence.html",
         "source": "LawSites",
         "publishedAt": "2026-03-26T18:15:49.000Z",
-        "summary": "AI That Listens Like a Lawyer: Courts Are Exposing the Gap Between What AI Notetakers Promise and What Their Contracts Permit. Purpose-Built Legal Conversational Intelligence™ Tools, Such as Querious®, Offer Attorneys a ",
+        "summary": "AI That Listens Like a Lawyer: Courts Are Exposing the Gap Between What AI Notetakers Promise and What Their Contracts Permit. Purpose-Built Legal Conversational Intelligenceᵀᴹ Tools, Such as Querious®, Offer Attorneys a",
         "category": "updates",
         "region": "na"
       },
@@ -1236,16 +1236,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-04T04:49:28.000Z",
         "summary": "美国大模型头部公司Anthropic旗下AI编程工具Claude Code负责人Boris Cherny发文称，美国西部时间4月4日中午12点起，Claude订阅服务将不再包含对OpenClaw等第三方工具的使用额度。团队一直在努力满足Claude需求的增长，而订阅并非为这些第三方工具的使用模式设计。容量是团队谨慎管理的资源，会优先考虑客户使用产品和API。（第一财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3751946475242243",
-        "title": "千问3.6Plus大模型登顶全球模型调用排行榜首",
-        "url": "https://36kr.com/newsflashes/3751946475242243?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-04T03:17:19.000Z",
-        "summary": "36氪获悉，4月4日，发布仅1天的千问新模型Qwen3.6-Plus，冲上全球大模型API调用平台OpenRouter的日榜榜首，成为当下最受企业和开发者热捧的大模型。OpenRouter官方数据显示，Qwen3.6-Plus的日调用量突破1.4万亿Token，打破了该平台的单日单模型调用量的全球纪录。",
         "category": "updates",
         "region": "cn"
       },
