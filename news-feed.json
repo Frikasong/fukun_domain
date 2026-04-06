@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T12:52:43.621Z",
+  "generatedAt": "2026-04-06T18:45:35.344Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/irs&",
+        "title": "IRS can collect $371M from former tax lawyer, appeals court rules",
+        "url": "https://www.abajournal.com/news/article/irs&#45;can&#45;collect&#45;371&#45;million&#45;from&#45;ex&#45;tax&#45;lawyer&#45;appeals&#45;court&#45;rules/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-06T16:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/judiciary&",
+        "title": "Judiciary seeks more security funding amid increase in threats",
+        "url": "https://www.abajournal.com/news/article/judiciary&#45;seeks&#45;more&#45;security&#45;funding&#45;amid&#45;threat&#45;increase/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-06T14:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/need&",
+        "title": "Need extra time for the bar exam? You&#8217;re not alone",
+        "url": "https://www.abajournal.com/news/article/need&#45;extra&#45;time&#45;for&#45;the&#45;bar&#45;exam&#45;youre&#45;not&#45;alone/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-06T14:39:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/upstate&",
+        "title": "Judge removed from bench amid charges of lying, assisting landlords on evictions",
+        "url": "https://www.abajournal.com/news/article/upstate&#45;ny&#45;judge&#45;removed&#45;from&#45;bench&#45;amid&#45;charges&#45;of&#45;lying&#45;assisting&#45;landlords&#45;on&#45;evictions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-06T14:21:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/judge&",
         "title": "Blake Lively&#8217;s sexual harassment claims against Justin Baldoni face legal setback",
@@ -85,36 +125,6 @@
         "publishedAt": "2026-04-02T17:51:32.000Z",
         "summary": "Clio today announced two notable updates to its AI product line: the addition of agentic capabilities to Clio Work, and the launch of a standalone Vincent by Clio mobile app for iOS and Android. Agentic Clio Work When Cl",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/legal&",
-        "title": "Legal industry is expanding its office footprint, new report finds",
-        "url": "https://www.abajournal.com/news/article/legal&#45;industry&#45;expanding&#45;office&#45;footprint/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-02T16:26:00.000Z",
-        "summary": "",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Disbarred lawyer convicted of stealing $275K from impaired client",
-        "url": "https://www.abajournal.com/news/article/former&#45;new&#45;hampshire&#45;lawyer&#45;convicted&#45;of&#45;theft&#45;from&#45;impaired&#45;client/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-02T16:02:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/sanctions&",
-        "title": "Sanctions ramping up in cases involving AI hallucinations",
-        "url": "https://www.abajournal.com/news/article/sanctions&#45;ramping&#45;up&#45;in&#45;cases&#45;involving&#45;ai&#45;hallucinations/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-02T15:01:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1195,16 +1205,6 @@
         "publishedAt": "2024-01-31T08:00:00.000Z",
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
         "region": "na"
       }
     ],
