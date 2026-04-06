@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T01:47:48.999Z",
+  "generatedAt": "2026-04-06T07:19:47.199Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,46 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/v42v65ej884wfppldx1a",
+        "title": "自动驾驶优化：从复杂性到实时工程",
+        "url": "https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-06T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3754812277998083",
+        "title": "众筹300万美元的Agent盒子，想彻底解决你的算力焦虑",
+        "url": "https://36kr.com/p/3754812277998083?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-06T03:53:43.000Z",
+        "summary": "作者 | 张子怡 编辑 | 袁斯来 AI硬件赛道，似乎一夜之间跨入新世界。 上一个月，投资人还在打听硬件大厂高P创始人，这一个月，他们已经开始寻觅“下一个Mac mini”。 狂欢的起点，来自开源智能体框架OpenClaw（圈子里称为：龙虾）。从抢购大内存的Mac mini到各类软硬大厂的联名主机，FOMO恐惧症席卷着所有人。承载AI的硬件，如今成了不可错失的入口。 此前更多在极客圈子里风行的Agent Box忽然被推到前台。简单说，A",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3754746077921799",
+        "title": "中国AI大模型周调用量增31.48%，连续五周超美国",
+        "url": "https://36kr.com/newsflashes/3754746077921799?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-06T03:29:06.000Z",
+        "summary": "根据OpenRouter最新数据测算，上周（3月30日至4月5日）全球AI大模型总调用量为27万亿Token，环比增长18.9%。其中，上榜的AI大模型中，中国AI大模型的周调用量上升至12.96万亿Token，较此前一周上涨31.48%；美国AI大模型周调用量为3.03万亿Token，环比增长0.76%。中国AI大模型周调用量连续五周增长，且连续五周超越美国。（每日经济新闻）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3754713105957637",
+        "title": "商务部等6部门：发展“人工智能+电商”，引导电商企业加强人工智能大模型等技术研发应用",
+        "url": "https://36kr.com/newsflashes/3754713105957637?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-06T02:11:41.000Z",
+        "summary": "据商务部网站，商务部等6部门发布关于更好服务实体经济、推进电子商务高质量发展的指导意见。意见提出，加快技术创新应用。支持头部电商企业加大研发投入，加强重点领域核心技术攻关，构建“产研协同、学用转化”创新生态。发展“人工智能+电商”，引导电商企业加强人工智能大模型等技术研发应用，优化消费体验、降低运营成本、提升流通效能。鼓励电商企业科技向善，统筹各方利益优化算法规则。加强电商领域技术成果司法保护，探索建立证据披露、证据妨碍排除等规则，适当",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3753526848897792",
         "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
         "url": "https://36kr.com/p/3753526848897792?f=rss",
@@ -1267,26 +1307,6 @@
         "publishedAt": "2026-04-03T12:08:53.000Z",
         "summary": "作者｜黄楠 编辑｜袁斯来 神州数码（000034.SZ）2025年全年业绩报告近日发布。 财报显示，公司全年实现营业收入1438亿元，同比增长12%，营收规模连续三年稳步攀升。其中，AI相关业务成为核心增长引擎，全年收入达330亿元，同比增长了48%，正式迈入规模化落地期，成为与传统分销业务并重的当期增长极。 具体到业务板块，高价值战略业务呈现爆发式增长。以神州问学为核心的AI软件及服务业务营收1.1亿元，同比增长了165.4%，企业级",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/8lbrc9hodxymcvku85fy",
-        "title": "Cloudflare 在边缘部署了主动式 API 漏洞扫描功能",
-        "url": "https://www.infoq.cn/article/8LBRc9hODxYmCvKU85fy?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-03T10:30:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zqsez5txquwgcbk2fwdl",
-        "title": "微软推出 Azure Copilot Migration Agent，加速云迁移规划",
-        "url": "https://www.infoq.cn/article/ZQsEz5TXqUWGcbk2FWDL?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-03T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
         "region": "cn"
       }
     ],
