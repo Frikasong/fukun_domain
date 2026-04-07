@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T01:44:59.088Z",
+  "generatedAt": "2026-04-07T07:06:12.543Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/stanford&",
+        "title": "Stanford tops latest US News law school rankings, while Yale slips to second place",
+        "url": "https://www.abajournal.com/news/article/stanford&#45;tops&#45;us&#45;news&#45;law&#45;school&#45;rankings&#45;while&#45;yale&#45;slips&#45;to&#45;second&#45;place/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-07T05:01:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/columns/article/a&",
         "title": "A meeting at the crossroads",
@@ -88,26 +98,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/03/harveys-spectre-agent-points-to-law-firm-world-model",
-        "title": "Harvey’s Spectre Agent Points to ‘Law Firm World Model’",
-        "url": "https://www.artificiallawyer.com/2026/04/03/harveys-spectre-agent-points-to-law-firm-world-model/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-03T08:05:52.000Z",
-        "summary": "Harvey has unveiled details about Spectre, its company agent that is starting to autonomously handle a range of tasks inside the business. It points to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
-        "title": "ABA amicus brief supports law firms targeted by executive orders",
-        "url": "https://www.abajournal.com/news/article/aba&#45;amicus&#45;brief&#45;supports&#45;law&#45;firms&#45;targeted&#45;by&#45;executive&#45;orders/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-02T20:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/04/universal-migrator-releases-scripts-that-migrate-quickbooks-lexipi-and-ins-zoom-to-clio-mycase-litify-and-lawmatics.html",
         "title": "Universal Migrator Releases scripts that migrate Quickbooks, LexiPi, and INS Zoom to Clio, MyCase, Litify and Lawmatics",
         "url": "https://www.lawnext.com/2026/04/universal-migrator-releases-scripts-that-migrate-quickbooks-lexipi-and-ins-zoom-to-clio-mycase-litify-and-lawmatics.html",
@@ -128,62 +118,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators",
-        "title": "Crosby on Big Law R&#038;D, Legora 100, TR + HotShot, Legal Innovators +",
-        "url": "https://www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-02T07:54:59.000Z",
-        "summary": "NewMod, AI-first law firm, Crosby, has just raised $60m with backing that includes Bain Capital and Sequoia, which is impressive – but what stood out ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india",
-        "title": "Why Native Legal AI is Required for India",
-        "url": "https://www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-02T06:40:24.000Z",
-        "summary": "By Deepak Kapoor, CEO, Manupatra. AI is rapidly transforming legal research and workflows across the world. However, the Indian legal system presents unique complexities that ...",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/04/in-ai-powered-brand-deal-harvey-partners-with-yet-another-harvey-you-know-its-other-namesake.html",
         "title": "In AI-Powered Brand Deal, Harvey Partners with Yet Another Harvey &#8212; You Know, Its Other Namesake",
         "url": "https://www.lawnext.com/2026/04/in-ai-powered-brand-deal-harvey-partners-with-yet-another-harvey-you-know-its-other-namesake.html",
         "source": "LawSites",
         "publishedAt": "2026-04-01T12:30:51.000Z",
         "summary": "Following its February news that it had entered into a brand partnership withj Gabriel Macht, who played Harvey Specter in the TV series Suits, the legal AI company Harvey said today that it has entered into another such",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/01/webinar-the-15m-verdict-how-to-win-big-with-ai",
-        "title": "Webinar: The $15m Verdict &#8211; How to Win Big with AI",
-        "url": "https://www.artificiallawyer.com/2026/04/01/webinar-the-15m-verdict-how-to-win-big-with-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-01T11:35:24.000Z",
-        "summary": "CLE-Eligible Webinar: The $15m Verdict &#8211; How to Win Big with AI What’s the biggest verdict your firm’s seen with no surgery or death involved? ...",
-        "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/01/clawbot-takes-over-global-law-firm-partners-love-it",
-        "title": "ClawBot Takes Over Global Law Firm – Partners Love It",
-        "url": "https://www.artificiallawyer.com/2026/04/01/clawbot-takes-over-global-law-firm-partners-love-it/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-01T07:11:15.000Z",
-        "summary": "(As you have all no doubt guessed by now, this is an April Fools piece.) In surprising news, Artificial Lawyer can reveal that a ClawBot, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/01/courts-to-ban-guilty-verdict-as-it-upsets-criminals",
-        "title": "Courts To Ban Guilty Verdict As It ‘Upsets’ Criminals",
-        "url": "https://www.artificiallawyer.com/2026/04/01/courts-to-ban-guilty-verdict-as-it-upsets-criminals/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-01T06:41:17.000Z",
-        "summary": "(As you have all no doubt guessed by now, this is an April Fools piece.) The Ministry of Justice in the UK is to ban ...",
         "category": "updates",
         "region": "na"
       },
@@ -215,46 +155,6 @@
         "publishedAt": "2026-03-31T13:06:28.000Z",
         "summary": "CollBox, a company that helps law firms get paid more quickly, won the 10th annual Startup Alley pitch competition at ABA Techshow last week in Chicago. Second place went to Candle AI, an email assistant that helps small",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/31/le-paris-saint-germain-accueille-harvey-comme-partenaire-officiel",
-        "title": "Le Paris Saint-Germain Accueille Harvey Comme Partenaire Officiel",
-        "url": "https://www.artificiallawyer.com/2026/03/31/le-paris-saint-germain-accueille-harvey-comme-partenaire-officiel/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-31T09:49:13.000Z",
-        "summary": "Le Paris Saint-Germain et Harvey, plateforme d’IA de référence pour les services juridiques, annoncent aujourd’hui la signature d’un partenariat pluriannuel faisant de Harvey le partenaire ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/31/despite-the-whale-you-can-see-legal-ai-roi",
-        "title": "Despite The Whale, You Can See Legal AI ROI",
-        "url": "https://www.artificiallawyer.com/2026/03/31/despite-the-whale-you-can-see-legal-ai-roi/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-31T09:00:31.000Z",
-        "summary": "A survey for Legora by Ari Kaplan has sought to address the legal AI ROI visibility problem experienced by law firms. It found that despite ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/31/how-do-ai-native-law-firms-work",
-        "title": "How Do AI-Native Law Firms Work?",
-        "url": "https://www.artificiallawyer.com/2026/03/31/how-do-ai-native-law-firms-work/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-31T07:34:04.000Z",
-        "summary": "You’ve probably heard a lot about how AI-native, NewMod law firms are changing the game. But how do they work? How do you make a ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/03/31/the-general-counsel-is-the-new-cfo",
-        "title": "The General Counsel is the New CFO",
-        "url": "https://www.artificiallawyer.com/2026/03/31/the-general-counsel-is-the-new-cfo/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-03-31T06:39:48.000Z",
-        "summary": "By Jennifer Hill, CEO, ThoughtRiver. There is a pattern in how business functions earn strategic relevance. It tends to start with a data problem. One ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,9 +1106,89 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ivjbfctkdxmsgw9korv0",
+        "title": "Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关",
+        "url": "https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-07T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/iqfviaupkcyuvudfrzip",
+        "title": "从上下文到经验资产：OpenClaw 热潮下的 Agent 记忆系统工程实践｜QCon北京",
+        "url": "https://www.infoq.cn/article/IQfviaUpKcyUVudfrzip?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-07T14:03:40.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/t2evtkxuwxouo9wosqyx",
+        "title": "Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效",
+        "url": "https://www.infoq.cn/article/t2evtKXuwXOUo9woSQyX?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-07T11:41:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/mjmmrcjzh7vo6egi3bbz",
+        "title": "美团内部禁用Qwen；月之暗面将给未毕业实习生发期权；小米要全体研发人员进行AI考试｜AI周报",
+        "url": "https://www.infoq.cn/article/MJmMrcJzh7vo6egI3Bbz?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-07T10:29:51.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3756322503394057",
+        "title": "“首形科技”获新一轮数亿元A1轮融资",
+        "url": "https://36kr.com/newsflashes/3756322503394057?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-07T05:28:50.000Z",
+        "summary": "36氪获悉，超高仿生情感交互机器人企业“首形科技”宣布完成数亿元人民币A1轮融资。本轮由华控基金及某互联网大厂联合领投，嘉御资本、鹏瑞基金、亦庄国投、上海半导体产投、南山战新投，以及老股东招商局创投、顺为资本、弘晖基金、厚雪资本、东方富海跟投。本轮资金将主要用于多模态具身交互系统与情绪基座模型的持续迭代升级，仿生面部核心部件与材料体系的规模化优化，以及标准化交付与全球市场拓展。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3750675963904513",
+        "title": "红熊AI完成2.1亿元A轮融资，切入物理AI赛道｜36氪首发",
+        "url": "https://36kr.com/p/3750675963904513?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-07T02:00:00.000Z",
+        "summary": "36氪获悉，企业级AI解决方案供应商「红熊AI」已于近日完成 2.1亿元A轮融资，投后估值超15亿元。本轮由华禹创投领投，老股东格睿丰投资、稼沃资本跟投，徐汇资本、上汽美元基金、嘉铭浩春、誉华资产等多家机构参与投资，三位创始团队成员也以本轮估值跟投约3000万元。这已是华禹创投连续第四轮押注红熊AI。 成立于2024年4月7日的红熊AI，主打“记忆科学+全模态大模型”技术路线，致力于让 AI 具备类似人类的\"情节记忆\"能力，从而在物理世",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "36Kr:36kr.com/p/3754821568578050",
         "title": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
@@ -1256,36 +1236,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-05T06:05:09.000Z",
         "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，矿石AI智能分选设备企业——北京霍里思特科技有限公司（下称“霍里思特”）已完成近2亿元C轮融资，由招商局资本领投，京国瑞、大兴产投、北创投、开源思创及初辉资本跟投。本轮资金将主要用于核心技术研发、全球化业务拓展及团队建设。 霍里思特成立于2010年，是国内在全矿种（有色、黑色、非金属、放射性及煤矿）均有智能分选大量落地应用的设备供应商。公司核心团队源自清华大学精密仪器系国家重点实验室，创始人郭劲为清华",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/bfjypqwfujc9jihk1iij",
-        "title": "Kubernetes自动扩展功能需要新的可观测性关注点，而不局限于供应商工具",
-        "url": "https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-04T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/kwmoqshv5lx0tslybo3j",
-        "title": "KubeVirt v1.8 为 Kubernetes 带来多虚拟机管理程序和机密计算功能",
-        "url": "https://www.infoq.cn/article/kwmoqShV5lx0TslYbo3j?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-03T15:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/x1c6zllztrqhgeioyrbr",
-        "title": "谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决",
-        "url": "https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-03T14:40:36.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
