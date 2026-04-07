@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T07:06:12.543Z",
+  "generatedAt": "2026-04-07T13:02:25.256Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/04/josef-launches-rapid-ingestion-engine-using-ai-to-turn-messy-business-inputs-into-structured-legal-workflows.html",
+        "title": "Josef Launches &#8216;Rapid Ingestion Engine,&#8217; Using AI To Turn Messy Business Inputs Into Structured Legal Workflows",
+        "url": "https://www.lawnext.com/2026/04/josef-launches-rapid-ingestion-engine-using-ai-to-turn-messy-business-inputs-into-structured-legal-workflows.html",
+        "source": "LawSites",
+        "publishedAt": "2026-04-07T12:34:33.000Z",
+        "summary": "Josef, the Australia-based legal automation platform, has launched a new capability it is calling the Rapid Ingestion Engine, which uses AI to convert unstructured business inputs — such as email threads, meeting notes a",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/harvey-drives-legal-agent-learning-via-harness-engineering",
+        "title": "Harvey Drives Legal Agent Learning Via ‘Harness Engineering’",
+        "url": "https://www.artificiallawyer.com/2026/04/07/harvey-drives-legal-agent-learning-via-harness-engineering/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-07T11:09:58.000Z",
+        "summary": "Harvey has set out how it performed a new experiment to improve legal agent performance, that used ‘harness engineering’ to get far better results. That ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/common-papers-gerri-2-0-offers-accelerated-negotiations",
+        "title": "Common Paper’s Gerri 2.0 Offers Accelerated Negotiations",
+        "url": "https://www.artificiallawyer.com/2026/04/07/common-papers-gerri-2-0-offers-accelerated-negotiations/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-07T09:59:58.000Z",
+        "summary": "Common Paper has launched Gerri 2.0, a new version of its contract analysis and negotiation system that comes with ‘a 10X faster processing engine, personality ...",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/i-built-an-agentic-law-firm-now-what",
+        "title": "I Built An Agentic &#8216;Law Firm&#8217;, Now What?",
+        "url": "https://www.artificiallawyer.com/2026/04/07/i-built-an-agentic-law-firm-now-what/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-07T07:32:58.000Z",
+        "summary": "By Antti Innanen. I recently founded a &#8216;law firm&#8217;. It is not my first. But this time the office is in my Mac Mini and ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/buy-the-outcome-not-the-tool",
+        "title": "Buy The Outcome, Not The Tool",
+        "url": "https://www.artificiallawyer.com/2026/04/07/buy-the-outcome-not-the-tool/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-07T06:43:36.000Z",
+        "summary": "By Jake Jones, Co-founder, Flank. A head of legal operations at a global manufacturer told us recently that her team of 500 lawyers processes over ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/stanford&",
         "title": "Stanford tops latest US News law school rankings, while Yale slips to second place",
@@ -98,6 +148,16 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/03/harveys-spectre-agent-points-to-law-firm-world-model",
+        "title": "Harvey’s Spectre Agent Points to ‘Law Firm World Model’",
+        "url": "https://www.artificiallawyer.com/2026/04/03/harveys-spectre-agent-points-to-law-firm-world-model/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-03T08:05:52.000Z",
+        "summary": "Harvey has unveiled details about Spectre, its company agent that is starting to autonomously handle a range of tasks inside the business. It points to ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/04/universal-migrator-releases-scripts-that-migrate-quickbooks-lexipi-and-ins-zoom-to-clio-mycase-litify-and-lawmatics.html",
         "title": "Universal Migrator Releases scripts that migrate Quickbooks, LexiPi, and INS Zoom to Clio, MyCase, Litify and Lawmatics",
         "url": "https://www.lawnext.com/2026/04/universal-migrator-releases-scripts-that-migrate-quickbooks-lexipi-and-ins-zoom-to-clio-mycase-litify-and-lawmatics.html",
@@ -118,12 +178,62 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators",
+        "title": "Crosby on Big Law R&#038;D, Legora 100, TR + HotShot, Legal Innovators +",
+        "url": "https://www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-02T07:54:59.000Z",
+        "summary": "NewMod, AI-first law firm, Crosby, has just raised $60m with backing that includes Bain Capital and Sequoia, which is impressive – but what stood out ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india",
+        "title": "Why Native Legal AI is Required for India",
+        "url": "https://www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-02T06:40:24.000Z",
+        "summary": "By Deepak Kapoor, CEO, Manupatra. AI is rapidly transforming legal research and workflows across the world. However, the Indian legal system presents unique complexities that ...",
+        "category": "articles",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/04/in-ai-powered-brand-deal-harvey-partners-with-yet-another-harvey-you-know-its-other-namesake.html",
         "title": "In AI-Powered Brand Deal, Harvey Partners with Yet Another Harvey &#8212; You Know, Its Other Namesake",
         "url": "https://www.lawnext.com/2026/04/in-ai-powered-brand-deal-harvey-partners-with-yet-another-harvey-you-know-its-other-namesake.html",
         "source": "LawSites",
         "publishedAt": "2026-04-01T12:30:51.000Z",
         "summary": "Following its February news that it had entered into a brand partnership withj Gabriel Macht, who played Harvey Specter in the TV series Suits, the legal AI company Harvey said today that it has entered into another such",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/01/webinar-the-15m-verdict-how-to-win-big-with-ai",
+        "title": "Webinar: The $15m Verdict &#8211; How to Win Big with AI",
+        "url": "https://www.artificiallawyer.com/2026/04/01/webinar-the-15m-verdict-how-to-win-big-with-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-01T11:35:24.000Z",
+        "summary": "CLE-Eligible Webinar: The $15m Verdict &#8211; How to Win Big with AI What’s the biggest verdict your firm’s seen with no surgery or death involved? ...",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/01/clawbot-takes-over-global-law-firm-partners-love-it",
+        "title": "ClawBot Takes Over Global Law Firm – Partners Love It",
+        "url": "https://www.artificiallawyer.com/2026/04/01/clawbot-takes-over-global-law-firm-partners-love-it/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-01T07:11:15.000Z",
+        "summary": "(As you have all no doubt guessed by now, this is an April Fools piece.) In surprising news, Artificial Lawyer can reveal that a ClawBot, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/01/courts-to-ban-guilty-verdict-as-it-upsets-criminals",
+        "title": "Courts To Ban Guilty Verdict As It ‘Upsets’ Criminals",
+        "url": "https://www.artificiallawyer.com/2026/04/01/courts-to-ban-guilty-verdict-as-it-upsets-criminals/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-01T06:41:17.000Z",
+        "summary": "(As you have all no doubt guessed by now, this is an April Fools piece.) The Ministry of Justice in the UK is to ban ...",
         "category": "updates",
         "region": "na"
       },
@@ -1058,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2025/12/aba-task-force-ai-has-moved-from-experiment-to-infrastructure-for-the-legal-profession.html",
-        "title": "ABA Task Force: AI Has Moved From Experiment to Infrastructure for the Legal Profession",
-        "url": "https://www.lawnext.com/2025/12/aba-task-force-ai-has-moved-from-experiment-to-infrastructure-for-the-legal-profession.html",
-        "source": "LawSites",
-        "publishedAt": "2025-12-16T15:00:24.000Z",
-        "summary": "Artificial intelligence is no longer an abstract or experimental technology for lawyers – it is rapidly becoming core infrastructure for law practice, courts, legal education and access-to-justice efforts, and the legal ",
-        "category": "skills",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1106,45 +1206,15 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ivjbfctkdxmsgw9korv0",
-        "title": "Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关",
-        "url": "https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/j5sqxrf0uljn2fjd80t2",
+        "title": "npm 爆发重大供应链攻击：Axios 被植入远控木马，影响或已扩散",
+        "url": "https://www.infoq.cn/article/j5SQxrf0ULJN2Fjd80T2?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-07T15:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/iqfviaupkcyuvudfrzip",
-        "title": "从上下文到经验资产：OpenClaw 热潮下的 Agent 记忆系统工程实践｜QCon北京",
-        "url": "https://www.infoq.cn/article/IQfviaUpKcyUVudfrzip?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-07T14:03:40.000Z",
+        "publishedAt": "2026-04-07T19:51:06.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1160,6 +1230,16 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/p/3756523983536905",
+        "title": "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金",
+        "url": "https://36kr.com/p/3756523983536905?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-07T11:16:08.000Z",
+        "summary": "大公司： 产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布 4月6日，有媒体报道，富士康正在试产苹果首款折叠屏手机。对此，4月7日，苹果产业链人士向记者表示，苹果首款折叠屏手机项目方案早已确定，目前该项目正在正常推进中，试产是产品正式量产前必经阶段，一般需经过工程验证、设计验证、生产试产验证，最后再到正式量产，按正常推进计划，该产品将于今年秋季发布。（证券时报） 名创优品：预计2026年底将开设200家“乐园系”门店 36氪获",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/mjmmrcjzh7vo6egi3bbz",
         "title": "美团内部禁用Qwen；月之暗面将给未毕业实习生发期权；小米要全体研发人员进行AI考试｜AI周报",
         "url": "https://www.infoq.cn/article/MJmMrcJzh7vo6egI3Bbz?utm_source=rss&utm_medium=article",
@@ -1170,12 +1250,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3756322503394057",
-        "title": "“首形科技”获新一轮数亿元A1轮融资",
-        "url": "https://36kr.com/newsflashes/3756322503394057?f=rss",
+        "id": "36Kr:36kr.com/p/3756484693967619",
+        "title": "早期项目 | 前苹果员工做了只AI“肩上宠物”，奇绩创坛孵化，要切年轻人潮玩市场",
+        "url": "https://36kr.com/p/3756484693967619?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-07T05:28:50.000Z",
-        "summary": "36氪获悉，超高仿生情感交互机器人企业“首形科技”宣布完成数亿元人民币A1轮融资。本轮由华控基金及某互联网大厂联合领投，嘉御资本、鹏瑞基金、亦庄国投、上海半导体产投、南山战新投，以及老股东招商局创投、顺为资本、弘晖基金、厚雪资本、东方富海跟投。本轮资金将主要用于多模态具身交互系统与情绪基座模型的持续迭代升级，仿生面部核心部件与材料体系的规模化优化，以及标准化交付与全球市场拓展。",
+        "publishedAt": "2026-04-07T08:14:49.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 当下市面上的AI陪伴玩具大多围绕儿童与老年人设计，而Blinkko则从一开始就将目标人群指向年轻人。 相比通过语言交流建立陪伴关系，创始人沈彤欣却告诉硬氪：“我们不相信AI真的能陪伴人。” 基于这样的判断，这个获得奇绩创坛投资的早期团队，做出了一只“趴在肩上的宠物”。 如果只把它当作一个AI陪伴玩具，这个项目很容易被误解——它的核心不在于填补独处时的空白，而在于成为一种可以被带入真实场景的“社交信号”",
         "category": "updates",
         "region": "cn"
       },
@@ -1228,29 +1308,19 @@
         "summary": "作者 | 张子怡 编辑 | 袁斯来 AI硬件赛道，似乎一夜之间跨入新世界。 上一个月，投资人还在打听硬件大厂高P创始人，这一个月，他们已经开始寻觅“下一个Mac mini”。 狂欢的起点，来自开源智能体框架OpenClaw（圈子里称为：龙虾）。从抢购大内存的Mac mini到各类软硬大厂的联名主机，FOMO恐惧症席卷着所有人。承载AI的硬件，如今成了不可错失的入口。 此前更多在极客圈子里风行的Agent Box忽然被推到前台。简单说，A",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3753526848897792",
-        "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
-        "url": "https://36kr.com/p/3753526848897792?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-05T06:05:09.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，矿石AI智能分选设备企业——北京霍里思特科技有限公司（下称“霍里思特”）已完成近2亿元C轮融资，由招商局资本领投，京国瑞、大兴产投、北创投、开源思创及初辉资本跟投。本轮资金将主要用于核心技术研发、全球化业务拓展及团队建设。 霍里思特成立于2010年，是国内在全矿种（有色、黑色、非金属、放射性及煤矿）均有智能分选大量落地应用的设备供应商。公司核心团队源自清华大学精密仪器系国家重点实验室，创始人郭劲为清华",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3751046517129735",
-        "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
-        "url": "https://36kr.com/p/3751046517129735?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-03T12:08:53.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 神州数码（000034.SZ）2025年全年业绩报告近日发布。 财报显示，公司全年实现营业收入1438亿元，同比增长12%，营收规模连续三年稳步攀升。其中，AI相关业务成为核心增长引擎，全年收入达330亿元，同比增长了48%，正式迈入规模化落地期，成为与传统分销业务并重的当期增长极。 具体到业务板块，高价值战略业务呈现爆发式增长。以神州问学为核心的AI软件及服务业务营收1.1亿元，同比增长了165.4%，企业级",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3349267/chinese-ai-glasses-maker-rokid-planning-hong-kong-ipo-sources",
+        "title": "Chinese AI glasses maker Rokid planning Hong Kong IPO: sources",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3349267/chinese-ai-glasses-maker-rokid-planning-hong-kong-ipo-sources?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-07T11:30:08.000Z",
+        "summary": "Rokid, a Hangzhou-based maker of smart glasses, is preparing to file for a Hong Kong listing as early as the end of April, according to sources familiar with the matter, as artificial intelligence-powered eyewear gains t",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/article/3348942/tencent-expands-openclaw-suite-enterprise-tool-amid-chinas-lobster-craze",
         "title": "Tencent expands OpenClaw suite with enterprise tool amid China’s ‘lobster’ craze",
