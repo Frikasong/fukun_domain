@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T18:45:35.344Z",
+  "generatedAt": "2026-04-07T01:44:59.088Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/a&",
+        "title": "A meeting at the crossroads",
+        "url": "https://www.abajournal.com/columns/article/a&#45;meeting&#45;at&#45;the&#45;crossroads/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-06T18:15:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/irs&",
         "title": "IRS can collect $371M from former tax lawyer, appeals court rules",
@@ -93,16 +103,6 @@
         "url": "https://www.abajournal.com/news/article/aba&#45;amicus&#45;brief&#45;supports&#45;law&#45;firms&#45;targeted&#45;by&#45;executive&#45;orders/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-04-02T20:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/university&",
-        "title": "University of New Mexico students present heavyweight boxer Muhammad Ali as legal champion",
-        "url": "https://www.abajournal.com/web/article/university&#45;of&#45;new&#45;mexico&#45;students&#45;present&#45;muhammad&#45;ali&#45;as&#45;legal&#45;champion/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-02T19:15:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,22 +1210,32 @@
     ],
     "cn": [
       {
+        "id": "36Kr:36kr.com/p/3754821568578050",
+        "title": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
+        "url": "https://36kr.com/p/3754821568578050?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-07T01:30:00.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 26岁那一年，朱圣杰以2亿美元的价格，卖掉了第二家创业公司。 那个夏天，朱圣杰给自己放了个长假，开始漫无目的地环游世界，在不同纬度的天空和深海跳伞潜水。 毫无意外地，沉浸了大半年后，朱圣杰感到了一种空虚感。他必须思考一个问题：什么才是自己足以投入一生的事？ 过去20多年，朱圣杰的生活顺利到让人羡慕。他出生在上海，从6岁第一次接触乐高Mindstorms开始，朱圣杰就对机器人着了迷。13、14岁时，他连续两年斩获",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3755994793280000",
+        "title": "8点1氪丨胖东来再回应“鸡蛋被检出角黄素”；苹果首款折叠屏手机已在试产；2026清明档电影票房已破2.8亿元",
+        "url": "https://36kr.com/p/3755994793280000?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-06T23:58:36.000Z",
+        "summary": "今日热点导览 曹操墓前摆满布洛芬，景区工作人员回应 胖东来再回应“鸡蛋被检出角黄素” 张雪机车创始人深夜回应“一个子儿都没有”言论 2026清明档电影票房已破2.8亿元 沙特：将原油升水上调至纪录高位 TOP 3大新闻 白宫回应特朗普病重住院 当地时间4月4日，一则关于特朗普病重住院的消息迅速引爆网络。美国前参议员沃克·米特在社交媒体X上发文，表示美国总统特朗普近日在社交媒体上的帖子是他人代发，并直指“特朗普的健康状况令人担忧”。“他现",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3755161993675523",
         "title": "科氪 | 荣耀与京东签订战略合作协议 推进AI、机器人、C2M共创合作",
         "url": "https://36kr.com/p/3755161993675523?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-06T09:48:30.000Z",
         "summary": "4月2日，荣耀与京东签订战略合作协议，正式建立全方位战略合作伙伴关系，双方将围绕产品共创、用户共营、生态共享三大核心领域，构建全面覆盖、深度融合、价值共生的新型合作体系，致力于实现三年累计规模超1000亿元的全领域合作目标。 官方图片 产品共创方面，荣耀与京东将围绕手机、全场景、AIoT、机器人等各领域产品的全生命周期进行深度协作。双方将推进战略新品首发合作，共同打造行业爆品，基于各自优势，联合开展IP与C2M定制项目，推动行业级创新。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3755111672496649",
-        "title": "在英伟达的新一轮投资中，澳大利亚AI基础设施公司Firmus估值接近70亿美元",
-        "url": "https://36kr.com/newsflashes/3755111672496649?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-06T09:05:02.000Z",
-        "summary": "在英伟达的新一轮投资中，澳大利亚AI基础设施公司Firmus估值接近70亿美元。",
         "category": "updates",
         "region": "cn"
       },
@@ -1256,16 +1266,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-04T10:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3752115857638145",
-        "title": "一群00后极客和这家机器人公司共处72小时",
-        "url": "https://36kr.com/p/3752115857638145?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-04T06:11:10.000Z",
-        "summary": "2026年3月29日下午5点，在我们抵达深圳科创学院四楼时，参加“全球首届具身智能开发者大会”的20组选手，已经在这里持续开发了60个小时。 现场弥漫着一股咖啡混合着冷气的味道，随处可见没吃完的奶茶和果切，楼道里和墙角支着一个个帐篷，有选手在里面补觉，“前一天熬到凌晨4点”。 图片由智能涌现拍摄 和开发应用/软件的黑客松不同，在这场具身智能开发者大会上，看得见的，有近百台高性能六轴机械臂；看不见的，背后还有100+ PFLOPs的算力支",
         "category": "updates",
         "region": "cn"
       },
