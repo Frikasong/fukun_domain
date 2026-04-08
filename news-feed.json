@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T18:52:33.632Z",
+  "generatedAt": "2026-04-08T01:45:18.230Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,46 @@
     ],
     "cn": [
       {
+        "id": "36Kr:36kr.com/newsflashes/3757508442145281",
+        "title": "SK海力士将为戴尔供应专为人工智能PC设计的先进存储解决方案",
+        "url": "https://36kr.com/newsflashes/3757508442145281?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-08T01:35:14.000Z",
+        "summary": "韩国SK海力士公司周三表示，计划本月开始向美国戴尔科技集团全面供应一款专为执行人工智能（AI）任务而设计的个人电脑（PC）专用先进存储解决方案。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3757474373092098",
+        "title": "微盟发布首个垂类AI Skill，正式接入龙虾生态",
+        "url": "https://36kr.com/newsflashes/3757474373092098?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-08T01:00:35.000Z",
+        "summary": "36氪获悉，近日，微盟正式推出首个面向零售行业的专属AI Skill——“Weimob Admin Skills”，并接入OpenClaw（“龙虾”）生态。这款Skill将在微盟官网开放入口，可适配包括QClaw在内各大厂商推出的“本地版龙虾”，这是中国SaaS行业首个面向垂直领域的AI Skill。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3757463257662212",
+        "title": "DeepSeek上线专家模式",
+        "url": "https://36kr.com/newsflashes/3757463257662212?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-08T00:49:17.000Z",
+        "summary": "36氪获悉，DeepSeek迎来更新，最新版本中，DeepSeek输入框上方新增“快速模式”与“专家模式”。据了解，“专家模式”擅长复杂问题，支持深度思考和智能搜索功能。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3757404054930182",
+        "title": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
+        "url": "https://36kr.com/p/3757404054930182?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-07T23:53:58.000Z",
+        "summary": "今日热点导览 海康威视回应辟谣“监控系统出现漏洞，300多人被带走” 郭艾伦否认被骗千万 日本餐饮巨头食其家创始人心梗去世 产业链人士：苹果首款折叠屏手机项目正常推进 宇树科技移动机器人新专利获授权 TOP 3大新闻 嫣然天使儿童医院发文感谢陈光标捐赠1000万 4月7日，“北京嫣然天使儿童医院体检中心”官方账号发文感谢陈光标对嫣然医院的支持，并发布了颁发给陈光标的感谢证书。证书内文写到：感谢您对北京嫣然天使儿童医院的大力支持。因为你们",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/t2evtkxuwxouo9wosqyx",
         "title": "Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效",
         "url": "https://www.infoq.cn/article/t2evtKXuwXOUo9woSQyX?utm_source=rss&utm_medium=article",
@@ -1286,16 +1326,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-06T09:48:30.000Z",
         "summary": "4月2日，荣耀与京东签订战略合作协议，正式建立全方位战略合作伙伴关系，双方将围绕产品共创、用户共营、生态共享三大核心领域，构建全面覆盖、深度融合、价值共生的新型合作体系，致力于实现三年累计规模超1000亿元的全领域合作目标。 官方图片 产品共创方面，荣耀与京东将围绕手机、全场景、AIoT、机器人等各领域产品的全生命周期进行深度协作。双方将推进战略新品首发合作，共同打造行业爆品，基于各自优势，联合开展IP与C2M定制项目，推动行业级创新。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3754812277998083",
-        "title": "众筹300万美元的Agent盒子，想彻底解决你的算力焦虑",
-        "url": "https://36kr.com/p/3754812277998083?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-06T03:53:43.000Z",
-        "summary": "作者 | 张子怡 编辑 | 袁斯来 AI硬件赛道，似乎一夜之间跨入新世界。 上一个月，投资人还在打听硬件大厂高P创始人，这一个月，他们已经开始寻觅“下一个Mac mini”。 狂欢的起点，来自开源智能体框架OpenClaw（圈子里称为：龙虾）。从抢购大内存的Mac mini到各类软硬大厂的联名主机，FOMO恐惧症席卷着所有人。承载AI的硬件，如今成了不可错失的入口。 此前更多在极客圈子里风行的Agent Box忽然被推到前台。简单说，A",
         "category": "updates",
         "region": "cn"
       }
