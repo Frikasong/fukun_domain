@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T01:45:18.230Z",
+  "generatedAt": "2026-04-08T07:08:40.667Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,32 +1210,62 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3757508442145281",
-        "title": "SK海力士将为戴尔供应专为人工智能PC设计的先进存储解决方案",
-        "url": "https://36kr.com/newsflashes/3757508442145281?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-08T01:35:14.000Z",
-        "summary": "韩国SK海力士公司周三表示，计划本月开始向美国戴尔科技集团全面供应一款专为执行人工智能（AI）任务而设计的个人电脑（PC）专用先进存储解决方案。（新浪财经）",
+        "id": "InfoQ China:www.infoq.cn/article/di97siiy6zqltfo71h5j",
+        "title": "银行业云原生事件驱动架构实践：经验与教训",
+        "url": "https://www.infoq.cn/article/Di97sIiy6zqLTFO71h5J?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-08T14:00:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3757474373092098",
-        "title": "微盟发布首个垂类AI Skill，正式接入龙虾生态",
-        "url": "https://36kr.com/newsflashes/3757474373092098?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-08T01:00:35.000Z",
-        "summary": "36氪获悉，近日，微盟正式推出首个面向零售行业的专属AI Skill——“Weimob Admin Skills”，并接入OpenClaw（“龙虾”）生态。这款Skill将在微盟官网开放入口，可适配包括QClaw在内各大厂商推出的“本地版龙虾”，这是中国SaaS行业首个面向垂直领域的AI Skill。",
+        "id": "InfoQ China:www.infoq.cn/article/32cv9ydkevt9bzlfsrzm",
+        "title": "从 Vibe Coding 到 Architecture Coding：Toco AI 建模驱动 AI Coding 实践｜QCon北京",
+        "url": "https://www.infoq.cn/article/32Cv9YDKevt9BZlFsRzM?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-08T10:00:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3757463257662212",
-        "title": "DeepSeek上线专家模式",
-        "url": "https://36kr.com/newsflashes/3757463257662212?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3757820971860480",
+        "title": "小马智行开启新加坡Robotaxi载客运营",
+        "url": "https://36kr.com/newsflashes/3757820971860480?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-08T00:49:17.000Z",
-        "summary": "36氪获悉，DeepSeek迎来更新，最新版本中，DeepSeek输入框上方新增“快速模式”与“专家模式”。据了解，“专家模式”擅长复杂问题，支持深度思考和智能搜索功能。",
+        "publishedAt": "2026-04-08T07:06:18.000Z",
+        "summary": "36氪获悉，4月7日，小马智行与康福德高（ComfortDelGro）正式在新加坡开启Robotaxi载客运营，乘客有机会在榜鹅（Punggol）地区体验由双方合作提供的自动驾驶出行服务。此前，小马智行在2025年财报业绩会上宣布，今年将在海内外超20个城市落地3000辆以上Robotaxi车队，其中海外落地城市接近半数。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3757829787632393",
+        "title": "A股三大指数集体收涨，全市场超5100股飘红",
+        "url": "https://36kr.com/newsflashes/3757829787632393?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-08T07:02:08.000Z",
+        "summary": "36氪获悉，A股三大指数集体收涨，沪指涨2.69%逼近4000点，深成指涨4.79%，创业板指涨5.91%；AI算力、半导体集体爆发，香农芯创、剑桥科技、东山精密涨停，中际旭创涨超10%；贵金属走强，湖南黄金、四川黄金、西部黄金；油气股调整，贝肯能源、中曼石油跌停；全市场超5100股飘红。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3757787698004486",
+        "title": "腾讯上线国内首个浏览器“龙虾”QQ浏览器QBotClaw",
+        "url": "https://36kr.com/newsflashes/3757787698004486?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-08T06:19:19.000Z",
+        "summary": "36氪获悉，4月8日，QQ浏览器正式发布国内首个浏览器“龙虾”——QBotClaw，支持用户自由配置国内各大主流大模型 API Key，内置QQ浏览器Skill，用户直接提问即可使用，实现人人都能轻松用上“龙虾”。首期上线Mac版本，Windows版本也将于近期上线。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3757587705873158",
+        "title": "产品观察 | 追觅入局智能床垫赛道，3个月公司估值10亿",
+        "url": "https://36kr.com/p/3757587705873158?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-08T02:56:54.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 中国每年向全球出口价值100亿的床垫，但很长一段时间，智能床垫行业的明星公司并不诞生于此地。 这个行业的明星创业者，是一个来自意大利小城费拉拉的业余运动员。2014年，他在纽约和妻子成立了一家智能床垫公司Eight Sleep，如今每年卖出5亿美元，估值达到15亿美元。 毫无意外，Eight Sleep的代工厂和研发伙伴都在珠三角。在看到Eight Sleep让人惊讶的销量后，中国公司终于冲入这个市场",
         "category": "updates",
         "region": "cn"
       },
@@ -1296,36 +1326,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-07T02:00:00.000Z",
         "summary": "36氪获悉，企业级AI解决方案供应商「红熊AI」已于近日完成 2.1亿元A轮融资，投后估值超15亿元。本轮由华禹创投领投，老股东格睿丰投资、稼沃资本跟投，徐汇资本、上汽美元基金、嘉铭浩春、誉华资产等多家机构参与投资，三位创始团队成员也以本轮估值跟投约3000万元。这已是华禹创投连续第四轮押注红熊AI。 成立于2024年4月7日的红熊AI，主打“记忆科学+全模态大模型”技术路线，致力于让 AI 具备类似人类的\"情节记忆\"能力，从而在物理世",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3754821568578050",
-        "title": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
-        "url": "https://36kr.com/p/3754821568578050?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-07T01:30:00.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 26岁那一年，朱圣杰以2亿美元的价格，卖掉了第二家创业公司。 那个夏天，朱圣杰给自己放了个长假，开始漫无目的地环游世界，在不同纬度的天空和深海跳伞潜水。 毫无意外地，沉浸了大半年后，朱圣杰感到了一种空虚感。他必须思考一个问题：什么才是自己足以投入一生的事？ 过去20多年，朱圣杰的生活顺利到让人羡慕。他出生在上海，从6岁第一次接触乐高Mindstorms开始，朱圣杰就对机器人着了迷。13、14岁时，他连续两年斩获",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3755994793280000",
-        "title": "8点1氪丨胖东来再回应“鸡蛋被检出角黄素”；苹果首款折叠屏手机已在试产；2026清明档电影票房已破2.8亿元",
-        "url": "https://36kr.com/p/3755994793280000?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-06T23:58:36.000Z",
-        "summary": "今日热点导览 曹操墓前摆满布洛芬，景区工作人员回应 胖东来再回应“鸡蛋被检出角黄素” 张雪机车创始人深夜回应“一个子儿都没有”言论 2026清明档电影票房已破2.8亿元 沙特：将原油升水上调至纪录高位 TOP 3大新闻 白宫回应特朗普病重住院 当地时间4月4日，一则关于特朗普病重住院的消息迅速引爆网络。美国前参议员沃克·米特在社交媒体X上发文，表示美国总统特朗普近日在社交媒体上的帖子是他人代发，并直指“特朗普的健康状况令人担忧”。“他现",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3755161993675523",
-        "title": "科氪 | 荣耀与京东签订战略合作协议 推进AI、机器人、C2M共创合作",
-        "url": "https://36kr.com/p/3755161993675523?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-06T09:48:30.000Z",
-        "summary": "4月2日，荣耀与京东签订战略合作协议，正式建立全方位战略合作伙伴关系，双方将围绕产品共创、用户共营、生态共享三大核心领域，构建全面覆盖、深度融合、价值共生的新型合作体系，致力于实现三年累计规模超1000亿元的全领域合作目标。 官方图片 产品共创方面，荣耀与京东将围绕手机、全场景、AIoT、机器人等各领域产品的全生命周期进行深度协作。双方将推进战略新品首发合作，共同打造行业爆品，基于各自优势，联合开展IP与C2M定制项目，推动行业级创新。",
         "category": "updates",
         "region": "cn"
       }
