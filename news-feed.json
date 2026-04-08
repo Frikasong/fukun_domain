@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T07:08:40.667Z",
+  "generatedAt": "2026-04-08T13:03:47.281Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams",
+        "title": "Webinar: Eudia + ServiceNow: The 10x Future of Inhouse Legal Teams",
+        "url": "https://www.artificiallawyer.com/2026/04/08/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-08T12:04:38.000Z",
+        "summary": "On April 22, 12 noon EST, 9AM PST, and 5PM GMT, Artificial Lawyer is partnering with Eudia and ServiceNow where we will explore: ‘Self-Service Legal: Eudia, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/clio-rolls-out-agents-for-work-and-vincent",
+        "title": "Clio Rolls Out Agents For Work and Vincent",
+        "url": "https://www.artificiallawyer.com/2026/04/08/clio-rolls-out-agents-for-work-and-vincent/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-08T07:35:14.000Z",
+        "summary": "The agentic wave moving through legal tech is gathering pace and Clio has now rolled out agents for key parts of its platform, including Work ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/columns/article/litigator&",
         "title": "Manual labor and college football shaped the trial lawyer he is today, litigator says",
@@ -245,26 +265,6 @@
         "publishedAt": "2026-04-01T11:35:24.000Z",
         "summary": "CLE-Eligible Webinar: The $15m Verdict &#8211; How to Win Big with AI What’s the biggest verdict your firm’s seen with no surgery or death involved? ...",
         "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/01/clawbot-takes-over-global-law-firm-partners-love-it",
-        "title": "ClawBot Takes Over Global Law Firm – Partners Love It",
-        "url": "https://www.artificiallawyer.com/2026/04/01/clawbot-takes-over-global-law-firm-partners-love-it/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-01T07:11:15.000Z",
-        "summary": "(As you have all no doubt guessed by now, this is an April Fools piece.) In surprising news, Artificial Lawyer can reveal that a ClawBot, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/01/courts-to-ban-guilty-verdict-as-it-upsets-criminals",
-        "title": "Courts To Ban Guilty Verdict As It ‘Upsets’ Criminals",
-        "url": "https://www.artificiallawyer.com/2026/04/01/courts-to-ban-guilty-verdict-as-it-upsets-criminals/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-01T06:41:17.000Z",
-        "summary": "(As you have all no doubt guessed by now, this is an April Fools piece.) The Ministry of Justice in the UK is to ban ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,12 +1210,42 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/di97siiy6zqltfo71h5j",
-        "title": "银行业云原生事件驱动架构实践：经验与教训",
-        "url": "https://www.infoq.cn/article/Di97sIiy6zqLTFO71h5J?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/uw8ec56iodylm4al294q",
+        "title": "GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
+        "url": "https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-08T14:00:00.000Z",
+        "publishedAt": "2026-04-08T17:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/mqw0bszwh0fc8obdcsax",
+        "title": "Claude Code史诗级负优化！大厂AI主管批思考深度暴跌，官方回应被开发者怼爆：菜成AI“玩具”",
+        "url": "https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-08T16:13:24.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3758164283523849",
+        "title": "工信部赵策：将谋划引导太空算力建设应用的政策措施，加快太空算力产业生态培育",
+        "url": "https://36kr.com/newsflashes/3758164283523849?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-08T12:42:24.000Z",
+        "summary": "太空算力为何会兴起？工业和信息化部信息通信发展司副司长赵策表示，太空算力具有在轨实时处理、低成本能源、广域覆盖等优势，有助于增强太空能源开发能力，提升全域覆盖和抗干扰能力，拓展网络应用边界，具有战略价值和产业前景。有报告显示，到2035年，全球在轨数据中心市场规模将达390亿美元，复合年增长率高达67.4%。“我们将加强系统谋划，做好前瞻布局，深化产业培育，进一步协同攻坚，扎实有序推动太空算力产业发展。”赵策说。他进一步说，将组织开展技",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3756524566610437",
+        "title": "氪星晚报｜星巴克中国发布“千店千面”战略；TikTok宣布将投资10亿欧元，在芬兰建第二座数据中心；谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点",
+        "url": "https://36kr.com/p/3756524566610437?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-08T11:51:22.000Z",
+        "summary": "大公司： 三星电子中国业务陷重组传闻，重心转向半导体 4月8日，有消息称，三星电子中国战略将进行调整，未来可能只保留手机和存储业务，重心转向存储等半导体业务。此外，三星电子在中国的家电业务不断收缩，今年下半年有可能变为代理制。截至发稿前，三星官方并未对上述消息做出正式回应。（第一财经） 星巴克中国发布“千店千面”战略 36氪获悉，星巴克中国今日宣布，星巴克全球与博裕投资的战略合作已启动，并发布“千店千面”战略，聚焦五大举措，包括：专业咖",
         "category": "updates",
         "region": "cn"
       },
@@ -1230,32 +1260,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3757820971860480",
-        "title": "小马智行开启新加坡Robotaxi载客运营",
-        "url": "https://36kr.com/newsflashes/3757820971860480?f=rss",
+        "id": "36Kr:36kr.com/p/3748018292802309",
+        "title": "阿里电商 AI 新动向：围绕 Token 重构电商，组织迎来新一轮调整｜独家",
+        "url": "https://36kr.com/p/3748018292802309?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-08T07:06:18.000Z",
-        "summary": "36氪获悉，4月7日，小马智行与康福德高（ComfortDelGro）正式在新加坡开启Robotaxi载客运营，乘客有机会在榜鹅（Punggol）地区体验由双方合作提供的自动驾驶出行服务。此前，小马智行在2025年财报业绩会上宣布，今年将在海内外超20个城市落地3000辆以上Robotaxi车队，其中海外落地城市接近半数。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3757829787632393",
-        "title": "A股三大指数集体收涨，全市场超5100股飘红",
-        "url": "https://36kr.com/newsflashes/3757829787632393?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-08T07:02:08.000Z",
-        "summary": "36氪获悉，A股三大指数集体收涨，沪指涨2.69%逼近4000点，深成指涨4.79%，创业板指涨5.91%；AI算力、半导体集体爆发，香农芯创、剑桥科技、东山精密涨停，中际旭创涨超10%；贵金属走强，湖南黄金、四川黄金、西部黄金；油气股调整，贝肯能源、中曼石油跌停；全市场超5100股飘红。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3757787698004486",
-        "title": "腾讯上线国内首个浏览器“龙虾”QQ浏览器QBotClaw",
-        "url": "https://36kr.com/newsflashes/3757787698004486?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-08T06:19:19.000Z",
-        "summary": "36氪获悉，4月8日，QQ浏览器正式发布国内首个浏览器“龙虾”——QBotClaw，支持用户自由配置国内各大主流大模型 API Key，内置QQ浏览器Skill，用户直接提问即可使用，实现人人都能轻松用上“龙虾”。首期上线Mac版本，Windows版本也将于近期上线。",
+        "publishedAt": "2026-04-08T09:23:43.000Z",
+        "summary": "文｜彭倩 编辑｜乔芊 杨轩 4月1日新财年伊始，由蒋凡统领的阿里巴巴中国电商事业群正在规划可以结合 AI 实现的增长点。 据36氪了解，淘天集团当下对 AI 的探索将聚焦在 AI to B 方向上，其核心 OKR 是商家侧的 AI 工具留存率以及 AI 带来的 GMV 增长。它的背景是进入2026年， Open Claw 引爆 AI Agent，阿里 CEO 吴泳铭提出阿里组建新的 Alibaba Token Hub（ATH ）事业群，",
         "category": "updates",
         "region": "cn"
       },
@@ -1318,19 +1328,29 @@
         "summary": "作者 | 乔钰杰 编辑 | 袁斯来 当下市面上的AI陪伴玩具大多围绕儿童与老年人设计，而Blinkko则从一开始就将目标人群指向年轻人。 相比通过语言交流建立陪伴关系，创始人沈彤欣却告诉硬氪：“我们不相信AI真的能陪伴人。” 基于这样的判断，这个获得奇绩创坛投资的早期团队，做出了一只“趴在肩上的宠物”。 如果只把它当作一个AI陪伴玩具，这个项目很容易被误解——它的核心不在于填补独处时的空白，而在于成为一种可以被带入真实场景的“社交信号”",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3750675963904513",
-        "title": "红熊AI完成2.1亿元A轮融资，切入物理AI赛道｜36氪首发",
-        "url": "https://36kr.com/p/3750675963904513?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-07T02:00:00.000Z",
-        "summary": "36氪获悉，企业级AI解决方案供应商「红熊AI」已于近日完成 2.1亿元A轮融资，投后估值超15亿元。本轮由华禹创投领投，老股东格睿丰投资、稼沃资本跟投，徐汇资本、上汽美元基金、嘉铭浩春、誉华资产等多家机构参与投资，三位创始团队成员也以本轮估值跟投约3000万元。这已是华禹创投连续第四轮押注红熊AI。 成立于2024年4月7日的红熊AI，主打“记忆科学+全模态大模型”技术路线，致力于让 AI 具备类似人类的\"情节记忆\"能力，从而在物理世",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/policy/article/3349422/chinas-zhipu-ai-open-sources-flagship-model-raises-prices-narrow-gap-us-rivals",
+        "title": "China’s Zhipu AI open-sources flagship model, raises prices to narrow gap with US rivals",
+        "url": "https://www.scmp.com/tech/policy/article/3349422/chinas-zhipu-ai-open-sources-flagship-model-raises-prices-narrow-gap-us-rivals?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-08T13:00:27.000Z",
+        "summary": "Chinese artificial intelligence company Zhipu AI open-sourced its latest flagship model, GLM-5.1, on Wednesday while raising application programming interface prices by 10 per cent, signalling a shift towards monetising ",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/policy/article/3349345/chinas-deepseek-adds-instant-and-expert-chatbot-modes-ahead-much-awaited-v4-release",
+        "title": "China’s DeepSeek adds expert chatbot mode ahead of much-awaited V4 release",
+        "url": "https://www.scmp.com/tech/policy/article/3349345/chinas-deepseek-adds-instant-and-expert-chatbot-modes-ahead-much-awaited-v4-release?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-08T10:00:09.000Z",
+        "summary": "DeepSeek has introduced new “instant” and “expert” modes to its chatbot, the most significant update to its user interface since the Hangzhou-based start-up gained global recognition. The changes come ahead of the much-a",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/article/3348942/tencent-expands-openclaw-suite-enterprise-tool-amid-chinas-lobster-craze",
         "title": "Tencent expands OpenClaw suite with enterprise tool amid China’s ‘lobster’ craze",
