@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T13:04:32.348Z",
+  "generatedAt": "2026-04-09T18:53:17.581Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,86 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/barbri&",
+        "title": "Bar exam prep group Barbri names new co-CEO",
+        "url": "https://www.abajournal.com/news/article/barbri&#45;names&#45;lucie&#45;allen&#45;co&#45;ceo/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-09T17:49:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/australian&",
+        "title": "Lawyer sued for charging client for 34.5 hours of work in 1 day",
+        "url": "https://www.abajournal.com/news/article/australian&#45;lawyer&#45;sued&#45;for&#45;charging&#45;client&#45;for&#45;34&#45;hours&#45;of&#45;work&#45;in&#45;one&#45;day/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-09T16:32:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/michael&",
+        "title": "Stormy Daniels&#8217; former lawyer Michael Avenatti released from prison, moved to halfway house",
+        "url": "https://www.abajournal.com/news/article/michael&#45;avenatti&#45;released&#45;from&#45;prison&#45;moved&#45;to&#45;halfway&#45;house/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-09T16:03:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/this&",
+        "title": "This lawyer can fight for you in court or the cage",
+        "url": "https://www.abajournal.com/web/article/this&#45;lawyer&#45;can&#45;fight&#45;for&#45;you&#45;in&#45;court&#45;or&#45;the&#45;cage/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-09T15:37:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ohio&",
+        "title": "Man who generated sexually explicit deepfakes may be first convicted under new federal law",
+        "url": "https://www.abajournal.com/news/article/ohio&#45;man&#45;who&#45;generated&#45;sexually&#45;explicit&#45;deepfakes&#45;convicted&#45;under&#45;new&#45;federal&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-09T15:31:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/michigan&",
+        "title": "Judge takes plea deal on drunk driving charges, plans to remain on bench",
+        "url": "https://www.abajournal.com/news/article/michigan&#45;judge&#45;takes&#45;plea&#45;deal&#45;on&#45;drunk&#45;driving&#45;charges&#45;plans&#45;to&#45;remain&#45;on&#45;bench/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-09T14:12:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/haast-raises-12m-for-ai-marketing-slop-compliance",
+        "title": "Haast Raises $12m For AI Marketing ‘Slop’ Compliance",
+        "url": "https://www.artificiallawyer.com/2026/04/09/haast-raises-12m-for-ai-marketing-slop-compliance/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-09T14:00:13.000Z",
+        "summary": "Haast, which uses AI to handle marketing content compliance – and increasingly to counter AI ‘slop’ produced with little forethought &#8211; has raised $12m in ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/newmod-norm-law-hires-ex-ropes-gray-partner-bill-mone",
+        "title": "NewMod Norm Law Hires Ex-Ropes &#038; Gray Partner Bill Mone",
+        "url": "https://www.artificiallawyer.com/2026/04/09/newmod-norm-law-hires-ex-ropes-gray-partner-bill-mone/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-09T13:47:37.000Z",
+        "summary": "NewMod Norm Law, the legal arm connected to Norm Ai, has hired Bill Mone as Head of Private Equity. He was most recently at US firm ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/uk-firm-rolls-out-august-across-multiple-business-functions",
         "title": "UK Firm Rolls Out August Across Multiple Business Functions",
@@ -78,32 +158,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/jones&",
-        "title": "Jones Day is latest BigLaw firm to fall victim to cyber ‘phishing’ incident",
-        "url": "https://www.abajournal.com/news/article/jones&#45;day&#45;latest&#45;big&#45;law&#45;firm&#45;to&#45;fall&#45;victim&#45;to&#45;cyber&#45;phishing&#45;incident/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-08T15:15:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/04/courtroom5-launches-the-law-accelerator-a-structured-program-to-help-self-represented-litigants-navigate-civil-court.html",
         "title": "Courtroom5 Launches The LAW Accelerator, a Structured Program to Help Self-Represented Litigants Navigate Civil Court",
         "url": "https://www.lawnext.com/2026/04/courtroom5-launches-the-law-accelerator-a-structured-program-to-help-self-represented-litigants-navigate-civil-court.html",
         "source": "LawSites",
         "publishedAt": "2026-04-08T14:41:18.000Z",
         "summary": "It is estimated that more than 75 percent of civil litigants in U.S. state courts have no legal representation. In eviction proceedings, the figure exceeds 90 percent. For decades, the primary response to this explosion ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/legalrebels/article/rebels&",
-        "title": "Quantum Leap? Development of new tech gives lawyers plenty to think about",
-        "url": "https://www.abajournal.com/legalrebels/article/rebels&#45;podcast&#45;episode&#45;123/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-08T14:11:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -128,42 +188,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/columns/article/litigator&",
-        "title": "Manual labor and college football shaped the trial lawyer he is today, litigator says",
-        "url": "https://www.abajournal.com/columns/article/litigator&#45;says&#45;physical&#45;labor&#45;and&#45;college&#45;football&#45;shaped&#45;the&#45;trial&#45;lawyer&#45;he&#45;is&#45;today/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-07T18:26:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/04/lawnext-podcast-learned-hands-shlomo-klapper-on-why-courts-are-the-next-frontier-for-legal-ai.html",
         "title": "LawNext Podcast: Learned Hand’s Shlomo Klapper on Why Courts Are the Next Frontier for Legal AI",
         "url": "https://www.lawnext.com/2026/04/lawnext-podcast-learned-hands-shlomo-klapper-on-why-courts-are-the-next-frontier-for-legal-ai.html",
         "source": "LawSites",
         "publishedAt": "2026-04-07T16:41:59.000Z",
         "summary": "Are courts the next frontier for legal AI? Shlomo Klapper, founder and CEO of the AI-driven judicial case-preparation platofrm Learned Hand, believes they are. A former litigator at Quinn Emanuel and law clerk for the 2n",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/us&",
-        "title": "Supreme Court denies hearing challenge to Illinois law banning concealed guns on public transportation",
-        "url": "https://www.abajournal.com/news/article/us&#45;supreme&#45;court&#45;denies&#45;hearing&#45;challenge&#45;to&#45;illinois&#45;law&#45;banning&#45;concealed&#45;guns&#45;on&#45;public&#45;transportation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-07T16:22:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/job&",
-        "title": "Job growth in legal industry slows for first time since 2024",
-        "url": "https://www.abajournal.com/news/article/job&#45;growth&#45;in&#45;legal&#45;industry&#45;slows&#45;for&#45;first&#45;time&#45;since&#45;2024/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-07T15:45:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -214,26 +244,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-07T07:32:58.000Z",
         "summary": "By Antti Innanen. I recently founded a &#8216;law firm&#8217;. It is not my first. But this time the office is in my Mac Mini and ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/buy-the-outcome-not-the-tool",
-        "title": "Buy The Outcome, Not The Tool",
-        "url": "https://www.artificiallawyer.com/2026/04/07/buy-the-outcome-not-the-tool/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-07T06:43:36.000Z",
-        "summary": "By Jake Jones, Co-founder, Flank. A head of legal operations at a global manufacturer told us recently that her team of 500 lawyers processes over ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/03/harveys-spectre-agent-points-to-law-firm-world-model",
-        "title": "Harvey’s Spectre Agent Points to ‘Law Firm World Model’",
-        "url": "https://www.artificiallawyer.com/2026/04/03/harveys-spectre-agent-points-to-law-firm-world-model/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-03T08:05:52.000Z",
-        "summary": "Harvey has unveiled details about Spectre, its company agent that is starting to autonomously handle a range of tasks inside the business. It points to ...",
         "category": "updates",
         "region": "na"
       },
@@ -1196,16 +1206,6 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
@@ -1246,16 +1246,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-09T08:08:48.000Z",
         "summary": "亦庄又“炸场”了。 AI未来大会现场 4月8日启幕的AI FUTURE北京亦庄AI未来大会上，一系列重磅消息密集释放，彻底点燃科技圈热度。这场为期两天的盛会，吸引了2000余位业内精英、34家头部企业参与。 AI未来大会现场 现场更有罗振宇、方汉等行业大佬现场分享洞见，成为亦庄AI实力的一次集中秀肌肉。 AI未来大会现场 在AIFUT北京亦庄AI未来大会上，全国首个聚焦AI超级个体的全周期服务站——北京经开区模数OPC（One Pers",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3759286934356744",
-        "title": "OBSBOT寻影新品发布，在口袋直播摄像头中实现AI智能跟踪与4K画质｜最前线",
-        "url": "https://36kr.com/p/3759286934356744?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-09T07:45:46.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 直播与视频会议已成为日常工作和生活的一部分，创作者对设备的需求也从“能拍就行”转向了“随时随地专业开播”。 但当前市场上的常见方案各有短板：手机直播容易过热降频，且无法灵活多机位；传统网络摄像头画质一般、对焦慢、缺少智能跟踪；单反加采集卡虽然画质好，但整套设备笨重，还需要复杂的供电和推流设置，移动场景下很难即开即用。 这个介于“专业画质”与“极致便携”之间的市场空白，正被越来越多设备厂商视为新的机会点。 4月9",
         "category": "updates",
         "region": "cn"
       },
@@ -1341,26 +1331,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3349508/alibaba-cloud-growth-forecast-accelerate-ai-push-higher-service-charges-analysts",
-        "title": "Alibaba cloud growth forecast to accelerate with AI push, higher service charges: analysts",
-        "url": "https://www.scmp.com/tech/article/3349508/alibaba-cloud-growth-forecast-accelerate-ai-push-higher-service-charges-analysts?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-09T12:30:13.000Z",
-        "summary": "Alibaba Group Holding’s cloud and artificial intelligence unit is expected to remain a prime engine for the March quarter, with the growth rate forecast to accelerate as the company steps up AI monetisation and reshuffle",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3349487/citic-tops-asia-pacific-banking-fees-mainland-china-and-hong-kong-ipos-surge",
-        "title": "Citic tops Asia-Pacific banking fees as mainland China and Hong Kong IPOs surge",
-        "url": "https://www.scmp.com/business/banking-finance/article/3349487/citic-tops-asia-pacific-banking-fees-mainland-china-and-hong-kong-ipos-surge?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-09T09:00:09.000Z",
-        "summary": "Investment banking fees across Asia-Pacific excluding Japan reached US$5.3 billion in the first quarter of 2026, with China’s Citic Securities ranking as the region’s top earner. The total in the first three months fell ",
-        "category": "articles",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/policy/article/3349345/chinas-deepseek-adds-instant-and-expert-chatbot-modes-ahead-much-awaited-v4-release",
         "title": "China’s DeepSeek adds expert chatbot mode ahead of much-awaited V4 release",
