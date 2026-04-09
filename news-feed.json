@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T01:24:53.125Z",
+  "generatedAt": "2026-04-09T07:13:08.283Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -24,16 +24,6 @@
         "source": "ABA Journal",
         "publishedAt": "2026-04-08T20:01:00.000Z",
         "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/axioms-lawyers-on-demand-clients-get-harvey-access",
-        "title": "Axiom&#8217;s Lawyers On Demand + Clients Get Harvey Access",
-        "url": "https://www.artificiallawyer.com/2026/04/08/axioms-lawyers-on-demand-clients-get-harvey-access/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-08T16:24:39.000Z",
-        "summary": "Axiom, which pioneered the ALSP field and today has a potential total bench of 14,000 lawyers on demand – who work at ‘50% lower rates ...",
         "category": "updates",
         "region": "na"
       },
@@ -85,26 +75,6 @@
         "publishedAt": "2026-04-08T14:11:00.000Z",
         "summary": "",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams",
-        "title": "Webinar: Eudia + ServiceNow: The 10x Future of Inhouse Legal Teams",
-        "url": "https://www.artificiallawyer.com/2026/04/08/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-08T12:04:38.000Z",
-        "summary": "On April 22, 12 noon EST, 9AM PST, and 5PM GMT, Artificial Lawyer is partnering with Eudia and ServiceNow where we will explore: ‘Self-Service Legal: Eudia, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/clio-rolls-out-agents-for-work-and-vincent",
-        "title": "Clio Rolls Out Agents For Work and Vincent",
-        "url": "https://www.artificiallawyer.com/2026/04/08/clio-rolls-out-agents-for-work-and-vincent/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-08T07:35:14.000Z",
-        "summary": "The agentic wave moving through legal tech is gathering pace and Clio has now rolled out agents for key parts of its platform, including Work ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -168,56 +138,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/harvey-drives-legal-agent-learning-via-harness-engineering",
-        "title": "Harvey Drives Legal Agent Learning Via ‘Harness Engineering’",
-        "url": "https://www.artificiallawyer.com/2026/04/07/harvey-drives-legal-agent-learning-via-harness-engineering/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-07T11:09:58.000Z",
-        "summary": "Harvey has set out how it performed a new experiment to improve legal agent performance, that used ‘harness engineering’ to get far better results. That ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/common-papers-gerri-2-0-offers-accelerated-negotiations",
-        "title": "Common Paper’s Gerri 2.0 Offers Accelerated Negotiations",
-        "url": "https://www.artificiallawyer.com/2026/04/07/common-papers-gerri-2-0-offers-accelerated-negotiations/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-07T09:59:58.000Z",
-        "summary": "Common Paper has launched Gerri 2.0, a new version of its contract analysis and negotiation system that comes with ‘a 10X faster processing engine, personality ...",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/i-built-an-agentic-law-firm-now-what",
-        "title": "I Built An Agentic &#8216;Law Firm&#8217;, Now What?",
-        "url": "https://www.artificiallawyer.com/2026/04/07/i-built-an-agentic-law-firm-now-what/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-07T07:32:58.000Z",
-        "summary": "By Antti Innanen. I recently founded a &#8216;law firm&#8217;. It is not my first. But this time the office is in my Mac Mini and ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/buy-the-outcome-not-the-tool",
-        "title": "Buy The Outcome, Not The Tool",
-        "url": "https://www.artificiallawyer.com/2026/04/07/buy-the-outcome-not-the-tool/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-07T06:43:36.000Z",
-        "summary": "By Jake Jones, Co-founder, Flank. A head of legal operations at a global manufacturer told us recently that her team of 500 lawyers processes over ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/03/harveys-spectre-agent-points-to-law-firm-world-model",
-        "title": "Harvey’s Spectre Agent Points to ‘Law Firm World Model’",
-        "url": "https://www.artificiallawyer.com/2026/04/03/harveys-spectre-agent-points-to-law-firm-world-model/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-03T08:05:52.000Z",
-        "summary": "Harvey has unveiled details about Spectre, its company agent that is starting to autonomously handle a range of tasks inside the business. It points to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/04/universal-migrator-releases-scripts-that-migrate-quickbooks-lexipi-and-ins-zoom-to-clio-mycase-litify-and-lawmatics.html",
         "title": "Universal Migrator Releases scripts that migrate Quickbooks, LexiPi, and INS Zoom to Clio, MyCase, Litify and Lawmatics",
         "url": "https://www.lawnext.com/2026/04/universal-migrator-releases-scripts-that-migrate-quickbooks-lexipi-and-ins-zoom-to-clio-mycase-litify-and-lawmatics.html",
@@ -235,26 +155,6 @@
         "publishedAt": "2026-04-02T17:51:32.000Z",
         "summary": "Clio today announced two notable updates to its AI product line: the addition of agentic capabilities to Clio Work, and the launch of a standalone Vincent by Clio mobile app for iOS and Android. Agentic Clio Work When Cl",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators",
-        "title": "Crosby on Big Law R&#038;D, Legora 100, TR + HotShot, Legal Innovators +",
-        "url": "https://www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-02T07:54:59.000Z",
-        "summary": "NewMod, AI-first law firm, Crosby, has just raised $60m with backing that includes Bain Capital and Sequoia, which is impressive – but what stood out ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india",
-        "title": "Why Native Legal AI is Required for India",
-        "url": "https://www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-02T06:40:24.000Z",
-        "summary": "By Deepak Kapoor, CEO, Manupatra. AI is rapidly transforming legal research and workflows across the world. However, the Indian legal system presents unique complexities that ...",
-        "category": "articles",
         "region": "na"
       },
       {
@@ -1206,9 +1106,99 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qfw0wobgro3ofirvirfo",
+        "title": "Spotify 2025 年度回顾：AI 规模化叙事背后的隐私博弈",
+        "url": "https://www.infoq.cn/article/qfW0WobGro3ofIrVIRfO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-09T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zigdwx3kbgvgpsebiv76",
+        "title": "Pinterest 通过自动内存重试将 Spark 的 OOM 故障减少了 96%",
+        "url": "https://www.infoq.cn/article/zIgDwX3KbGVGPsebIv76?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-09T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ufqo6lfcbakhzwxzkojo",
+        "title": "Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本",
+        "url": "https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-09T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3759137719370498",
+        "title": "脉脉发布80家“隐形大厂”名单",
+        "url": "https://36kr.com/newsflashes/3759137719370498?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-09T05:12:38.000Z",
+        "summary": "36氪获悉，4月8日，脉脉发布80家“隐形大厂”名单，覆盖AI、智能驾驶、芯片、机器人等赛道。从城市分布来看，北京、上海、深圳、杭州、广州仍是岗位最集中的核心城市，北京的相关岗位主要集中在AI、智能驾驶、芯片、游戏等方向，上海主要集中在芯片制造与设计、游戏领域。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3759045427937793",
+        "title": "INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线",
+        "url": "https://36kr.com/p/3759045427937793?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-09T03:53:44.000Z",
+        "summary": "近日，下一代移动计算平台公司 Inair 多屏未来（以下简称 Inair）宣布完成千万美元 A+ 轮融资。本轮融资由君联资本、高瓴创投、弘晖基金联合投资，资金将主要用于加速便携空间主机（PSS） 产品 Inair Pod 的生态拓展、空间操作系统研发及垂直行业应用落地。 Inair 多屏未来是一家专注于空间计算与移动生产力的科技公司，由两名在科技领域的连续创业者发起，初创团队拥有 AR 硬件、软件、产品和市场经验，团队成员来自于多家互联",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3758982738641670",
+        "title": "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程",
+        "url": "https://36kr.com/p/3758982738641670?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-09T02:36:29.000Z",
+        "summary": "文｜胡香赟 编辑｜海若镜 制药行业离“告别”动物实验又近了一步。 从2022年FDA的现代化法案2.0被批准开始，“替代动物实验”的监管战略一直在持续。今年3月中旬，FDA终于发文表态，开始接收非动物数据支撑新药评审，鼓励使用类器官/器官芯片、AI毒理学模型等新方法学（NAMs），逐步减少药企对动物实验的依赖。 图源：FDA官网 伴随政策层面的深入，类器官/器官芯片企业在一级市场上的声量也逐步提高。仅今年来，就有至少5家相关企业披露融资",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3758979573121538",
+        "title": "对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？",
+        "url": "https://36kr.com/p/3758979573121538?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-09T02:32:44.000Z",
+        "summary": "文丨彭倩 编辑丨乔芊 “苦大仇深”是马学军对自己的形容。 他曾在传统行业和互联网创业十几年，任职阿里时期花名\"郭大路\"，操盘的都是实体行业互联网化的项目，从天猫超市、天猫医药、天猫家装、天猫预售、喵鲜生到喵街，无一例外。这些从0到1的创新型业务，都不是单靠淘宝流量能长出来的。 搞家装对他而言更是一场迟迟未决出胜负的赌局。2010年，马学军就在天猫掌管家装业务——从北京3万多方的“天猫爱蜂巢家装体验馆”、利用3D软件做了“设计师淘客”，到",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "36Kr:36kr.com/p/3758900416348934",
         "title": "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
@@ -1226,26 +1216,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-09T01:08:02.000Z",
         "summary": "作者丨欧雪 编辑丨袁斯来 今日宜休的创始人王腾觉得自己很庆幸，在39岁时赶上了AI硬件创业最好的时候。 过去很多年，王腾的日程表都以小时为单位切割，每一天似乎都处于战备状态。当这段职业生涯告一段落，大部分人选择休息。但王腾没有停下脚步。 刚离职时，王腾并不确定，干了十多年消费电子后，自己接下来要走向何方。他密集见投资人、老朋友，逐渐发现自己正处在一个转瞬即逝的拐点。“这是AI硬件十年一遇的创业窗口期。”王腾告诉硬氪。 高强度交流半个多月",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3758870676013828",
-        "title": "花旗集团称人工智能助力加快开户流程与系统升级",
-        "url": "https://36kr.com/newsflashes/3758870676013828?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-09T00:59:52.000Z",
-        "summary": "美国花旗集团首席技术官蒂姆・瑞安表示，该行正运用人工智能技术加快账户开立与老旧系统淘汰进度，以此推动提升运营效率。瑞安在接受采访时表示：“我们仍有遗留系统待处理，但经过此前的技术投入，目前情况已大幅改善。人工智能能够帮助完成遗留系统的数据迁移、自动化代码编写，并实现更大量、更快速的测试工作。”（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3758860762219268",
-        "title": "Meta新超级智能团队的首个AI模型亮相，转向闭源",
-        "url": "https://36kr.com/newsflashes/3758860762219268?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-09T00:40:27.000Z",
-        "summary": "Meta Platforms周三发布其最新人工智能（AI）模型 —— 这是自首席执行官马克·扎克伯格为紧跟对手、斥资数十亿美元重组公司AI部门以来推出的首个模型。这款备受期待的模型名为Muse Spark，由Meta超级智能实验室（Meta Superintelligence Labs，简称MSL）开发，这是一个由首席AI官Alexandr Wang领导、汇聚高薪AI研究人员的新团队。Muse Spark将为Meta AI聊天机器人提供",
         "category": "updates",
         "region": "cn"
       },
@@ -1308,69 +1278,9 @@
         "summary": "文｜彭倩 编辑｜乔芊 杨轩 4月1日新财年伊始，由蒋凡统领的阿里巴巴中国电商事业群正在规划可以结合 AI 实现的增长点。 据36氪了解，淘天集团当下对 AI 的探索将聚焦在 AI to B 方向上，其核心 OKR 是商家侧的 AI 工具留存率以及 AI 带来的 GMV 增长。它的背景是进入2026年， Open Claw 引爆 AI Agent，阿里 CEO 吴泳铭提出阿里组建新的 Alibaba Token Hub（ATH ）事业群，",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3757587705873158",
-        "title": "产品观察 | 追觅入局智能床垫赛道，3个月公司估值10亿",
-        "url": "https://36kr.com/p/3757587705873158?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-08T02:56:54.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 中国每年向全球出口价值100亿的床垫，但很长一段时间，智能床垫行业的明星公司并不诞生于此地。 这个行业的明星创业者，是一个来自意大利小城费拉拉的业余运动员。2014年，他在纽约和妻子成立了一家智能床垫公司Eight Sleep，如今每年卖出5亿美元，估值达到15亿美元。 毫无意外，Eight Sleep的代工厂和研发伙伴都在珠三角。在看到Eight Sleep让人惊讶的销量后，中国公司终于冲入这个市场",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3757404054930182",
-        "title": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
-        "url": "https://36kr.com/p/3757404054930182?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-07T23:53:58.000Z",
-        "summary": "今日热点导览 海康威视回应辟谣“监控系统出现漏洞，300多人被带走” 郭艾伦否认被骗千万 日本餐饮巨头食其家创始人心梗去世 产业链人士：苹果首款折叠屏手机项目正常推进 宇树科技移动机器人新专利获授权 TOP 3大新闻 嫣然天使儿童医院发文感谢陈光标捐赠1000万 4月7日，“北京嫣然天使儿童医院体检中心”官方账号发文感谢陈光标对嫣然医院的支持，并发布了颁发给陈光标的感谢证书。证书内文写到：感谢您对北京嫣然天使儿童医院的大力支持。因为你们",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/t2evtkxuwxouo9wosqyx",
-        "title": "Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效",
-        "url": "https://www.infoq.cn/article/t2evtKXuwXOUo9woSQyX?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-07T11:41:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3756523983536905",
-        "title": "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金",
-        "url": "https://36kr.com/p/3756523983536905?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-07T11:16:08.000Z",
-        "summary": "大公司： 产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布 4月6日，有媒体报道，富士康正在试产苹果首款折叠屏手机。对此，4月7日，苹果产业链人士向记者表示，苹果首款折叠屏手机项目方案早已确定，目前该项目正在正常推进中，试产是产品正式量产前必经阶段，一般需经过工程验证、设计验证、生产试产验证，最后再到正式量产，按正常推进计划，该产品将于今年秋季发布。（证券时报） 名创优品：预计2026年底将开设200家“乐园系”门店 36氪获",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mjmmrcjzh7vo6egi3bbz",
-        "title": "美团内部禁用Qwen；月之暗面将给未毕业实习生发期权；小米要全体研发人员进行AI考试｜AI周报",
-        "url": "https://www.infoq.cn/article/MJmMrcJzh7vo6egI3Bbz?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-07T10:29:51.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3349424/ai-fuels-global-trade-growth-china-us-flows-shift-mckinsey-finds",
-        "title": "AI fuels global trade growth as China-US flows shift, McKinsey finds",
-        "url": "https://www.scmp.com/tech/big-tech/article/3349424/ai-fuels-global-trade-growth-china-us-flows-shift-mckinsey-finds?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-08T23:00:08.000Z",
-        "summary": "Artificial intelligence has emerged as the driving force behind global trade growth, fuelled by a surge in data-centre buildouts at a time when geopolitical tensions are redrawing trade flows, according to McKinsey & Com",
-        "category": "articles",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/policy/article/3349345/chinas-deepseek-adds-instant-and-expert-chatbot-modes-ahead-much-awaited-v4-release",
         "title": "China’s DeepSeek adds expert chatbot mode ahead of much-awaited V4 release",
