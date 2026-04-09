@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T19:05:08.302Z",
+  "generatedAt": "2026-04-09T01:24:53.125Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/enrollment&",
+        "title": "Enrollment in law school of first-gen college grads drops, new LSAC report finds",
+        "url": "https://www.abajournal.com/web/article/enrollment&#45;in&#45;law&#45;school&#45;of&#45;first&#45;gen&#45;college&#45;grads&#45;drops&#45;lsac&#45;study&#45;finds/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-08T20:39:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/retirement&",
+        "title": "Shakespeare and the 7 stages of my retirement",
+        "url": "https://www.abajournal.com/voice/article/retirement&#45;comes&#45;in&#45;stages/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-08T20:01:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/axioms-lawyers-on-demand-clients-get-harvey-access",
         "title": "Axiom&#8217;s Lawyers On Demand + Clients Get Harvey Access",
@@ -123,26 +143,6 @@
         "url": "https://www.abajournal.com/news/article/job&#45;growth&#45;in&#45;legal&#45;industry&#45;slows&#45;for&#45;first&#45;time&#45;since&#45;2024/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-04-07T15:45:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/indiana&",
-        "title": "2026 law grads at Indiana University will get diploma and $10K",
-        "url": "https://www.abajournal.com/news/article/indiana&#45;law&#45;may&#45;grads&#45;will&#45;get&#45;a&#45;diploma&#45;and&#45;10000/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-07T14:51:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former judge convicted over ICE obstruction denied new trial",
-        "url": "https://www.abajournal.com/news/article/former&#45;wisconsin&#45;judge&#45;convicted&#45;in&#45;ice&#45;obstruction&#45;case&#45;denied&#45;new&#45;trial/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-07T14:35:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,6 +1210,56 @@
     ],
     "cn": [
       {
+        "id": "36Kr:36kr.com/p/3758900416348934",
+        "title": "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
+        "url": "https://36kr.com/p/3758900416348934?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-09T01:11:39.000Z",
+        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人全身级力觉自感知系统公司——智子力控（上海）科技有限公司（下称“智子力控”）近日完成新一轮融资，本轮由中芯聚源独家投资；此前，公司已获得浦东创投旗下浦东人工智能种子基金投资。这连续两轮融资达千万级别。资金将主要用于技术研发迭代、小批量产线建设及工程化团队扩充。 智子力控成立于2024年，现总部位于上海，是一家基于光学传感技术，为人形机器人提供分布式力觉感知一体化解决方案的公司。 公司创始人宋戈阳",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3758896443884033",
+        "title": "36氪专访 | 前小米高管王腾的下一站：从睡眠入手，抓住AI硬件十年一遇的创业窗口",
+        "url": "https://36kr.com/p/3758896443884033?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-09T01:08:02.000Z",
+        "summary": "作者丨欧雪 编辑丨袁斯来 今日宜休的创始人王腾觉得自己很庆幸，在39岁时赶上了AI硬件创业最好的时候。 过去很多年，王腾的日程表都以小时为单位切割，每一天似乎都处于战备状态。当这段职业生涯告一段落，大部分人选择休息。但王腾没有停下脚步。 刚离职时，王腾并不确定，干了十多年消费电子后，自己接下来要走向何方。他密集见投资人、老朋友，逐渐发现自己正处在一个转瞬即逝的拐点。“这是AI硬件十年一遇的创业窗口期。”王腾告诉硬氪。 高强度交流半个多月",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3758870676013828",
+        "title": "花旗集团称人工智能助力加快开户流程与系统升级",
+        "url": "https://36kr.com/newsflashes/3758870676013828?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-09T00:59:52.000Z",
+        "summary": "美国花旗集团首席技术官蒂姆・瑞安表示，该行正运用人工智能技术加快账户开立与老旧系统淘汰进度，以此推动提升运营效率。瑞安在接受采访时表示：“我们仍有遗留系统待处理，但经过此前的技术投入，目前情况已大幅改善。人工智能能够帮助完成遗留系统的数据迁移、自动化代码编写，并实现更大量、更快速的测试工作。”（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3758860762219268",
+        "title": "Meta新超级智能团队的首个AI模型亮相，转向闭源",
+        "url": "https://36kr.com/newsflashes/3758860762219268?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-09T00:40:27.000Z",
+        "summary": "Meta Platforms周三发布其最新人工智能（AI）模型 —— 这是自首席执行官马克·扎克伯格为紧跟对手、斥资数十亿美元重组公司AI部门以来推出的首个模型。这款备受期待的模型名为Muse Spark，由Meta超级智能实验室（Meta Superintelligence Labs，简称MSL）开发，这是一个由首席AI官Alexandr Wang领导、汇聚高薪AI研究人员的新团队。Muse Spark将为Meta AI聊天机器人提供",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3758836635730432",
+        "title": "8点1氪丨张雪机车LOGO被指抄袭；水贝商户称白银销量暴跌90%；GoPro将全球裁员23%",
+        "url": "https://36kr.com/p/3758836635730432?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-09T00:10:15.000Z",
+        "summary": "今日热点导览 国资委成立境外国资工作局 李飞飞出任阿里云CTO B站“按暂停弹出广告”功能将于4月10日上线 多款印度原料药被暂停进口 德勤：一季度香港新股集资1099亿港元，全球居首 TOP3大新闻 张雪机车LOGO被指抄袭，设计公司回应 4月8日，有网友在社交平台上指出，张雪机车的LOGO涉嫌抄袭，与ZETA、中乐国际等多家公司LOGO极为相似，“几何造型、线条走向都很像”。新京报贝壳财经记者注意到，张雪此前曾公开表示，张雪机车的整",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/uw8ec56iodylm4al294q",
         "title": "GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
         "url": "https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q?utm_source=rss&utm_medium=article",
@@ -1226,16 +1276,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-08T16:13:24.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3758164283523849",
-        "title": "工信部赵策：将谋划引导太空算力建设应用的政策措施，加快太空算力产业生态培育",
-        "url": "https://36kr.com/newsflashes/3758164283523849?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-08T12:42:24.000Z",
-        "summary": "太空算力为何会兴起？工业和信息化部信息通信发展司副司长赵策表示，太空算力具有在轨实时处理、低成本能源、广域覆盖等优势，有助于增强太空能源开发能力，提升全域覆盖和抗干扰能力，拓展网络应用边界，具有战略价值和产业前景。有报告显示，到2035年，全球在轨数据中心市场规模将达390亿美元，复合年增长率高达67.4%。“我们将加强系统谋划，做好前瞻布局，深化产业培育，进一步协同攻坚，扎实有序推动太空算力产业发展。”赵策说。他进一步说，将组织开展技",
         "category": "updates",
         "region": "cn"
       },
@@ -1318,19 +1358,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3756484693967619",
-        "title": "早期项目 | 前苹果员工做了只AI“肩上宠物”，奇绩创坛孵化，要切年轻人潮玩市场",
-        "url": "https://36kr.com/p/3756484693967619?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-07T08:14:49.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 当下市面上的AI陪伴玩具大多围绕儿童与老年人设计，而Blinkko则从一开始就将目标人群指向年轻人。 相比通过语言交流建立陪伴关系，创始人沈彤欣却告诉硬氪：“我们不相信AI真的能陪伴人。” 基于这样的判断，这个获得奇绩创坛投资的早期团队，做出了一只“趴在肩上的宠物”。 如果只把它当作一个AI陪伴玩具，这个项目很容易被误解——它的核心不在于填补独处时的空白，而在于成为一种可以被带入真实场景的“社交信号”",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3349424/ai-fuels-global-trade-growth-china-us-flows-shift-mckinsey-finds",
+        "title": "AI fuels global trade growth as China-US flows shift, McKinsey finds",
+        "url": "https://www.scmp.com/tech/big-tech/article/3349424/ai-fuels-global-trade-growth-china-us-flows-shift-mckinsey-finds?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-08T23:00:08.000Z",
+        "summary": "Artificial intelligence has emerged as the driving force behind global trade growth, fuelled by a surge in data-centre buildouts at a time when geopolitical tensions are redrawing trade flows, according to McKinsey & Com",
+        "category": "articles",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/policy/article/3349345/chinas-deepseek-adds-instant-and-expert-chatbot-modes-ahead-much-awaited-v4-release",
         "title": "China’s DeepSeek adds expert chatbot mode ahead of much-awaited V4 release",
