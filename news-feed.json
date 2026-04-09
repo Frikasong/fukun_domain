@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T07:13:08.283Z",
+  "generatedAt": "2026-04-09T13:04:32.348Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/uk-firm-rolls-out-august-across-multiple-business-functions",
+        "title": "UK Firm Rolls Out August Across Multiple Business Functions",
+        "url": "https://www.artificiallawyer.com/2026/04/09/uk-firm-rolls-out-august-across-multiple-business-functions/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-09T13:00:07.000Z",
+        "summary": "Legal AI platform August is now being used by UK law firm Harrison Drury, not just for legal matters, but across multiple business functions. The ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/will-claude-managed-agents-impact-legal-tech",
+        "title": "Will Claude Managed Agents Impact Legal Tech?",
+        "url": "https://www.artificiallawyer.com/2026/04/09/will-claude-managed-agents-impact-legal-tech/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-09T06:48:37.000Z",
+        "summary": "Anthropic has launched Claude Managed Agents, which provides ‘everything you need to build and deploy agents at scale’. Put simply, that means you can build ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/enrollment&",
         "title": "Enrollment in law school of first-gen college grads drops, new LSAC report finds",
@@ -24,6 +44,16 @@
         "source": "ABA Journal",
         "publishedAt": "2026-04-08T20:01:00.000Z",
         "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/axioms-lawyers-on-demand-clients-get-harvey-access",
+        "title": "Axiom&#8217;s Lawyers On Demand + Clients Get Harvey Access",
+        "url": "https://www.artificiallawyer.com/2026/04/08/axioms-lawyers-on-demand-clients-get-harvey-access/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-08T16:24:39.000Z",
+        "summary": "Axiom, which pioneered the ALSP field and today has a potential total bench of 14,000 lawyers on demand – who work at ‘50% lower rates ...",
         "category": "updates",
         "region": "na"
       },
@@ -75,6 +105,26 @@
         "publishedAt": "2026-04-08T14:11:00.000Z",
         "summary": "",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams",
+        "title": "Webinar: Eudia + ServiceNow: The 10x Future of Inhouse Legal Teams",
+        "url": "https://www.artificiallawyer.com/2026/04/08/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-08T12:04:38.000Z",
+        "summary": "On April 22, 12 noon EST, 9AM PST, and 5PM GMT, Artificial Lawyer is partnering with Eudia and ServiceNow where we will explore: ‘Self-Service Legal: Eudia, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/clio-rolls-out-agents-for-work-and-vincent",
+        "title": "Clio Rolls Out Agents For Work and Vincent",
+        "url": "https://www.artificiallawyer.com/2026/04/08/clio-rolls-out-agents-for-work-and-vincent/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-08T07:35:14.000Z",
+        "summary": "The agentic wave moving through legal tech is gathering pace and Clio has now rolled out agents for key parts of its platform, including Work ...",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -135,6 +185,56 @@
         "publishedAt": "2026-04-07T12:34:33.000Z",
         "summary": "Josef, the Australia-based legal automation platform, has launched a new capability it is calling the Rapid Ingestion Engine, which uses AI to convert unstructured business inputs — such as email threads, meeting notes a",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/harvey-drives-legal-agent-learning-via-harness-engineering",
+        "title": "Harvey Drives Legal Agent Learning Via ‘Harness Engineering’",
+        "url": "https://www.artificiallawyer.com/2026/04/07/harvey-drives-legal-agent-learning-via-harness-engineering/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-07T11:09:58.000Z",
+        "summary": "Harvey has set out how it performed a new experiment to improve legal agent performance, that used ‘harness engineering’ to get far better results. That ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/common-papers-gerri-2-0-offers-accelerated-negotiations",
+        "title": "Common Paper’s Gerri 2.0 Offers Accelerated Negotiations",
+        "url": "https://www.artificiallawyer.com/2026/04/07/common-papers-gerri-2-0-offers-accelerated-negotiations/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-07T09:59:58.000Z",
+        "summary": "Common Paper has launched Gerri 2.0, a new version of its contract analysis and negotiation system that comes with ‘a 10X faster processing engine, personality ...",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/i-built-an-agentic-law-firm-now-what",
+        "title": "I Built An Agentic &#8216;Law Firm&#8217;, Now What?",
+        "url": "https://www.artificiallawyer.com/2026/04/07/i-built-an-agentic-law-firm-now-what/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-07T07:32:58.000Z",
+        "summary": "By Antti Innanen. I recently founded a &#8216;law firm&#8217;. It is not my first. But this time the office is in my Mac Mini and ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/buy-the-outcome-not-the-tool",
+        "title": "Buy The Outcome, Not The Tool",
+        "url": "https://www.artificiallawyer.com/2026/04/07/buy-the-outcome-not-the-tool/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-07T06:43:36.000Z",
+        "summary": "By Jake Jones, Co-founder, Flank. A head of legal operations at a global manufacturer told us recently that her team of 500 lawyers processes over ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/03/harveys-spectre-agent-points-to-law-firm-world-model",
+        "title": "Harvey’s Spectre Agent Points to ‘Law Firm World Model’",
+        "url": "https://www.artificiallawyer.com/2026/04/03/harveys-spectre-agent-points-to-law-firm-world-model/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-03T08:05:52.000Z",
+        "summary": "Harvey has unveiled details about Spectre, its company agent that is starting to autonomously handle a range of tasks inside the business. It points to ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1106,49 +1206,9 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qfw0wobgro3ofirvirfo",
-        "title": "Spotify 2025 年度回顾：AI 规模化叙事背后的隐私博弈",
-        "url": "https://www.infoq.cn/article/qfW0WobGro3ofIrVIRfO?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-09T15:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zigdwx3kbgvgpsebiv76",
-        "title": "Pinterest 通过自动内存重试将 Spark 的 OOM 故障减少了 96%",
-        "url": "https://www.infoq.cn/article/zIgDwX3KbGVGPsebIv76?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-09T15:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/ufqo6lfcbakhzwxzkojo",
         "title": "Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本",
@@ -1160,12 +1220,42 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3759137719370498",
-        "title": "脉脉发布80家“隐形大厂”名单",
-        "url": "https://36kr.com/newsflashes/3759137719370498?f=rss",
+        "id": "36Kr:36kr.com/p/3759598959969030",
+        "title": "欣旺达装车特斯拉，供应全球车型｜36氪独家",
+        "url": "https://36kr.com/p/3759598959969030?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-09T05:12:38.000Z",
-        "summary": "36氪获悉，4月8日，脉脉发布80家“隐形大厂”名单，覆盖AI、智能驾驶、芯片、机器人等赛道。从城市分布来看，北京、上海、深圳、杭州、广州仍是岗位最集中的核心城市，北京的相关岗位主要集中在AI、智能驾驶、芯片、游戏等方向，上海主要集中在芯片制造与设计、游戏领域。",
+        "publishedAt": "2026-04-09T13:02:12.000Z",
+        "summary": "特斯拉在中国的供应链布局还在扩大。 36氪汽车从多位产业人士处获悉，欣旺达旗下专注动力电池业务的子公司——欣旺达动力，已进入特斯拉全球供应链，成为特斯拉全球第五家动力电池供应商。 接触到项目的产业链人士透露，这款电池已从欣旺达浙江义乌工厂出货，搭载在特斯拉上海工厂销往海外的车型上，“已经出货有一阵子了。” 至于这款电池何时搭载于国内车型，目前还无定论。“通常来说，特斯拉上新的零部件，会有小一年的观察期。”有电池行业人士向36氪分析，但是",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3759372854706953",
+        "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
+        "url": "https://36kr.com/p/3759372854706953?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-09T09:15:38.000Z",
+        "summary": "作者｜任彩茹 编辑｜乔芊 并入美团两年半，GN06（光年之外应团队并入美团后的名字）被赋予的使命始终是：在主营业务之外，找AI Native的增长点。今年3月，他们把这件事落到了一个具体的产品上——AI浏览器「Tabbit」正式进入公测。 为什么是浏览器？大公司在AI领域争展锋芒，行业如今的热词是“虾”、“Agent”、“Token”，浏览器一定不是那个看起来“最性感”的形态，也很难与美团的核心业务紧密相融。 GN06负责人刘炯认为，A",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3759269095113219",
+        "title": "一个225平方公里的“庄”，如何成为AI“顶流”",
+        "url": "https://36kr.com/p/3759269095113219?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-09T08:08:48.000Z",
+        "summary": "亦庄又“炸场”了。 AI未来大会现场 4月8日启幕的AI FUTURE北京亦庄AI未来大会上，一系列重磅消息密集释放，彻底点燃科技圈热度。这场为期两天的盛会，吸引了2000余位业内精英、34家头部企业参与。 AI未来大会现场 现场更有罗振宇、方汉等行业大佬现场分享洞见，成为亦庄AI实力的一次集中秀肌肉。 AI未来大会现场 在AIFUT北京亦庄AI未来大会上，全国首个聚焦AI超级个体的全周期服务站——北京经开区模数OPC（One Pers",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3759286934356744",
+        "title": "OBSBOT寻影新品发布，在口袋直播摄像头中实现AI智能跟踪与4K画质｜最前线",
+        "url": "https://36kr.com/p/3759286934356744?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-09T07:45:46.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 直播与视频会议已成为日常工作和生活的一部分，创作者对设备的需求也从“能拍就行”转向了“随时随地专业开播”。 但当前市场上的常见方案各有短板：手机直播容易过热降频，且无法灵活多机位；传统网络摄像头画质一般、对焦慢、缺少智能跟踪；单反加采集卡虽然画质好，但整套设备笨重，还需要复杂的供电和推流设置，移动场景下很难即开即用。 这个介于“专业画质”与“极致便携”之间的市场空白，正被越来越多设备厂商视为新的机会点。 4月9",
         "category": "updates",
         "region": "cn"
       },
@@ -1220,16 +1310,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3758836635730432",
-        "title": "8点1氪丨张雪机车LOGO被指抄袭；水贝商户称白银销量暴跌90%；GoPro将全球裁员23%",
-        "url": "https://36kr.com/p/3758836635730432?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-09T00:10:15.000Z",
-        "summary": "今日热点导览 国资委成立境外国资工作局 李飞飞出任阿里云CTO B站“按暂停弹出广告”功能将于4月10日上线 多款印度原料药被暂停进口 德勤：一季度香港新股集资1099亿港元，全球居首 TOP3大新闻 张雪机车LOGO被指抄袭，设计公司回应 4月8日，有网友在社交平台上指出，张雪机车的LOGO涉嫌抄袭，与ZETA、中乐国际等多家公司LOGO极为相似，“几何造型、线条走向都很像”。新京报贝壳财经记者注意到，张雪此前曾公开表示，张雪机车的整",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/uw8ec56iodylm4al294q",
         "title": "GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
         "url": "https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q?utm_source=rss&utm_medium=article",
@@ -1250,16 +1330,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3756524566610437",
-        "title": "氪星晚报｜星巴克中国发布“千店千面”战略；TikTok宣布将投资10亿欧元，在芬兰建第二座数据中心；谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点",
-        "url": "https://36kr.com/p/3756524566610437?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-08T11:51:22.000Z",
-        "summary": "大公司： 三星电子中国业务陷重组传闻，重心转向半导体 4月8日，有消息称，三星电子中国战略将进行调整，未来可能只保留手机和存储业务，重心转向存储等半导体业务。此外，三星电子在中国的家电业务不断收缩，今年下半年有可能变为代理制。截至发稿前，三星官方并未对上述消息做出正式回应。（第一财经） 星巴克中国发布“千店千面”战略 36氪获悉，星巴克中国今日宣布，星巴克全球与博裕投资的战略合作已启动，并发布“千店千面”战略，聚焦五大举措，包括：专业咖",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/32cv9ydkevt9bzlfsrzm",
         "title": "从 Vibe Coding 到 Architecture Coding：Toco AI 建模驱动 AI Coding 实践｜QCon北京",
         "url": "https://www.infoq.cn/article/32Cv9YDKevt9BZlFsRzM?utm_source=rss&utm_medium=article",
@@ -1268,19 +1338,29 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3748018292802309",
-        "title": "阿里电商 AI 新动向：围绕 Token 重构电商，组织迎来新一轮调整｜独家",
-        "url": "https://36kr.com/p/3748018292802309?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-08T09:23:43.000Z",
-        "summary": "文｜彭倩 编辑｜乔芊 杨轩 4月1日新财年伊始，由蒋凡统领的阿里巴巴中国电商事业群正在规划可以结合 AI 实现的增长点。 据36氪了解，淘天集团当下对 AI 的探索将聚焦在 AI to B 方向上，其核心 OKR 是商家侧的 AI 工具留存率以及 AI 带来的 GMV 增长。它的背景是进入2026年， Open Claw 引爆 AI Agent，阿里 CEO 吴泳铭提出阿里组建新的 Alibaba Token Hub（ATH ）事业群，",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/article/3349508/alibaba-cloud-growth-forecast-accelerate-ai-push-higher-service-charges-analysts",
+        "title": "Alibaba cloud growth forecast to accelerate with AI push, higher service charges: analysts",
+        "url": "https://www.scmp.com/tech/article/3349508/alibaba-cloud-growth-forecast-accelerate-ai-push-higher-service-charges-analysts?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-09T12:30:13.000Z",
+        "summary": "Alibaba Group Holding’s cloud and artificial intelligence unit is expected to remain a prime engine for the March quarter, with the growth rate forecast to accelerate as the company steps up AI monetisation and reshuffle",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3349487/citic-tops-asia-pacific-banking-fees-mainland-china-and-hong-kong-ipos-surge",
+        "title": "Citic tops Asia-Pacific banking fees as mainland China and Hong Kong IPOs surge",
+        "url": "https://www.scmp.com/business/banking-finance/article/3349487/citic-tops-asia-pacific-banking-fees-mainland-china-and-hong-kong-ipos-surge?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-09T09:00:09.000Z",
+        "summary": "Investment banking fees across Asia-Pacific excluding Japan reached US$5.3 billion in the first quarter of 2026, with China’s Citic Securities ranking as the region’s top earner. The total in the first three months fell ",
+        "category": "articles",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/policy/article/3349345/chinas-deepseek-adds-instant-and-expert-chatbot-modes-ahead-much-awaited-v4-release",
         "title": "China’s DeepSeek adds expert chatbot mode ahead of much-awaited V4 release",
