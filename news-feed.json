@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T01:48:47.024Z",
+  "generatedAt": "2026-04-10T07:17:09.515Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/10/more-ai-more-jobs-eudia-webinar-felix-legal-innovators",
+        "title": "More AI + More Jobs, Eudia Webinar, Felix, Legal Innovators +",
+        "url": "https://www.artificiallawyer.com/2026/04/10/more-ai-more-jobs-eudia-webinar-felix-legal-innovators/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-10T07:11:55.000Z",
+        "summary": "Let&#8217;s start this week&#8217;s Wrap with the fact that the largest legal market in the world – the US – is consistently adding more lawyer ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/04/priyanka-singh-promoted-to-evp-operations-cfo-at-litera-taking-on-expanded-strategic-role-as-litera-sees-ongoing-strong-growth.html",
         "title": "Priyanka Singh Promoted to EVP, Operations &#038; CFO at Litera, Taking on Expanded Strategic Role as Litera Sees Ongoing Strong Growth",
@@ -245,16 +255,6 @@
         "publishedAt": "2026-04-07T09:59:58.000Z",
         "summary": "Common Paper has launched Gerri 2.0, a new version of its contract analysis and negotiation system that comes with ‘a 10X faster processing engine, personality ...",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/i-built-an-agentic-law-firm-now-what",
-        "title": "I Built An Agentic &#8216;Law Firm&#8217;, Now What?",
-        "url": "https://www.artificiallawyer.com/2026/04/07/i-built-an-agentic-law-firm-now-what/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-07T07:32:58.000Z",
-        "summary": "By Antti Innanen. I recently founded a &#8216;law firm&#8217;. It is not my first. But this time the office is in my Mac Mini and ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,22 +1210,72 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/2leh1h8ac1mfsj5qdrbh",
+        "title": "Istio引入多集群、环境模式及推理功能，应对AI时代的不断发展",
+        "url": "https://www.infoq.cn/article/2leh1h8aC1mfSJ5qDrBh?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-10T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ycwjmwtxqbepkdj7eopi",
+        "title": "Anthropic 因 npm 源映射文件意外泄露 Claude Code 源码",
+        "url": "https://www.infoq.cn/article/ycWjMWTxqBePkDj7eoPi?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-10T11:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3760667223147011",
+        "title": "MiniMax上线音乐生成模型Music 2.6",
+        "url": "https://36kr.com/newsflashes/3760667223147011?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-10T07:08:31.000Z",
+        "summary": "36氪获悉，4月10日，大模型公司MiniMax正式发布新一代音乐生成模型Music 2.6。本次更新从底层引擎到创作工具实现全维度进化，大幅提升生成延迟、音乐控制、声学品质，推出全新“Cover”创作功能和面向AI Agent生态的Music Skill，并面向全球创作者开启为期14天的免费内测。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3760613846729473",
+        "title": "汉王科技发布Clear7锦鲤电纸书",
+        "url": "https://36kr.com/newsflashes/3760613846729473?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-10T06:14:13.000Z",
+        "summary": "36氪获悉，今日，汉王科技发布全新7.1英寸电纸书产品——汉王Clear7锦鲤。据了解，该产品首发“增压瞬浮技术”，通过Oxide增压瞬浮屏与T2000增压快刷引擎，页面刷新速度提升35%，对比度提升10%。此外，产品还接入了自研多模态天地大模型、DeepSeek与通义千问等AI大模型。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3760607364366857",
+        "title": "中康科技推出医生超级助理MedMate",
+        "url": "https://36kr.com/newsflashes/3760607364366857?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-10T06:07:38.000Z",
+        "summary": "36氪获悉，中康科技正式推出“医生智能体+医生小龙虾”双端协同的中国首个医生超级助理MedMate。据了解，MedMate以“医生智能体+医生小龙虾”双端协同为核心，构建了一套覆盖临床、科研、患者管理的AI Agent操作系统。此外，MedMate整合了超过4000万篇中英文学术文献，全面覆盖四大医学顶刊；同时收录3万余份临床指南及30万+份药品说明书，形成覆盖“文献-指南-用药”的完整知识链条。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3760571028455937",
+        "title": "星动纪元获“具身奥林匹克”三项全球第一",
+        "url": "https://36kr.com/newsflashes/3760571028455937?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-10T05:30:40.000Z",
+        "summary": "36氪获悉，近日，在全球具身灵巧操作难度顶尖的真机赛事Benjie's Humanoid Olympic Games中，星动纪元凭借自研VLA具身模型，一举斩获该赛事剥橘子、开锁、翻袜子三项任务全球第一。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3760310709174784",
         "title": "早期项目 | 字节、OPPO、一加三重背景产品人，将软硬一体写入底层，要让AI看懂世界",
         "url": "https://36kr.com/p/3760310709174784?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-10T01:06:26.000Z",
         "summary": "作者丨欧雪 编辑丨袁斯来 过去两年，主流AI交互依赖于输入框——用户先组织语言提问，AI再给出答案。 这种“对话式”交互效率极高，却与人类最自然的认知路径相悖。我们认识世界，从来不是从“提问”开始，而是从“看见”开始。 一家成立于2025年的年轻公司Chance AI，正在尝试解决这个问题。它提出了另一种AI产品形态——Visual Agent（视觉智能体），试图让AI从“回答问题”的工具，进化为“看懂世界”的系统。 Chance AI",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3760265708618498",
-        "title": "SpaceX去年因AI投入亏损近50亿美元",
-        "url": "https://36kr.com/newsflashes/3760265708618498?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-10T00:20:05.000Z",
-        "summary": "据报道，两名知情人士透露，SpaceX去年亏损近50亿美元，营收则超过185亿美元。该亏损数据包含了xAI的相关支出——这家由埃隆・马斯克创立的人工智能公司已于今年2月被SpaceX收购。此次合并SpaceX与xAI业绩后的净亏损及其他财务数据此前均未对外披露。SpaceX正筹备有望成为史上规模最大的首次公开募股（IPO），期间对自身财务状况严格保密。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1328,19 +1378,29 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/32cv9ydkevt9bzlfsrzm",
-        "title": "从 Vibe Coding 到 Architecture Coding：Toco AI 建模驱动 AI Coding 实践｜QCon北京",
-        "url": "https://www.infoq.cn/article/32Cv9YDKevt9BZlFsRzM?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-08T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3349530/okx-ventures-hashkey-investment-enables-vietnam-crypto-platforms-pilot-scheme-bid",
+        "title": "OKX Ventures, HashKey Capital backing enables Vietnam crypto platform’s pilot scheme bid",
+        "url": "https://www.scmp.com/business/banking-finance/article/3349530/okx-ventures-hashkey-investment-enables-vietnam-crypto-platforms-pilot-scheme-bid?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-10T02:30:08.000Z",
+        "summary": "OKX Ventures and HashKey Capital have agreed to invest in Vietnam’s cryptocurrency trading platform CAEX, a move the exchange said would give it enough capital to join the country’s regulated pilot scheme for digital ass",
+        "category": "tools",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3349552/alibabas-qwen-family-captures-over-50-global-open-source-downloads-report-finds",
+        "title": "Alibaba’s Qwen family captures over 50% of global open-source downloads, report finds",
+        "url": "https://www.scmp.com/tech/big-tech/article/3349552/alibabas-qwen-family-captures-over-50-global-open-source-downloads-report-finds?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-10T02:00:14.000Z",
+        "summary": "Alibaba Cloud captured more than 50 per cent of global open-source model downloads as of March following the release of its Qwen 3.5 model series, a new report has found. The finding underscores the dominance of Chinese ",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/policy/article/3349345/chinas-deepseek-adds-instant-and-expert-chatbot-modes-ahead-much-awaited-v4-release",
         "title": "China’s DeepSeek adds expert chatbot mode ahead of much-awaited V4 release",
