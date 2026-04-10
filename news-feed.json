@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T18:53:17.581Z",
+  "generatedAt": "2026-04-10T01:48:47.024Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/04/priyanka-singh-promoted-to-evp-operations-cfo-at-litera-taking-on-expanded-strategic-role-as-litera-sees-ongoing-strong-growth.html",
+        "title": "Priyanka Singh Promoted to EVP, Operations &#038; CFO at Litera, Taking on Expanded Strategic Role as Litera Sees Ongoing Strong Growth",
+        "url": "https://www.lawnext.com/2026/04/priyanka-singh-promoted-to-evp-operations-cfo-at-litera-taking-on-expanded-strategic-role-as-litera-sees-ongoing-strong-growth.html",
+        "source": "LawSites",
+        "publishedAt": "2026-04-09T23:25:56.000Z",
+        "summary": "Promotion recognizes first-year impact and Litera&#8217;s commitment to operational excellence and scalable growth CHICAGO – Apr. 9, 2026 – Litera, a leading legal AI platform provider that unifies the practice and busin",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/barbri&",
         "title": "Bar exam prep group Barbri names new co-CEO",
@@ -1168,16 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2025/12/exclusive-filevine-acquires-pincites-ai-powered-contract-redlining-company-strengthening-its-positioning-for-corporate-legal-and-enhancing-its-ai.html",
-        "title": "Exclusive: Filevine Acquires Pincites, AI-Powered Contract Redlining Company, Strengthening Its Positioning for Corporate Legal and Enhancing Its AI",
-        "url": "https://www.lawnext.com/2025/12/exclusive-filevine-acquires-pincites-ai-powered-contract-redlining-company-strengthening-its-positioning-for-corporate-legal-and-enhancing-its-ai.html",
-        "source": "LawSites",
-        "publishedAt": "2025-12-22T14:00:30.000Z",
-        "summary": "Legal technology company Filevine has acquired Pincites, an AI-powered contract redlining company, in a deal that moves the company further into corporate and transactional law, complementing its strong presence in litig",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1209,6 +1209,36 @@
       }
     ],
     "cn": [
+      {
+        "id": "36Kr:36kr.com/p/3760310709174784",
+        "title": "早期项目 | 字节、OPPO、一加三重背景产品人，将软硬一体写入底层，要让AI看懂世界",
+        "url": "https://36kr.com/p/3760310709174784?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-10T01:06:26.000Z",
+        "summary": "作者丨欧雪 编辑丨袁斯来 过去两年，主流AI交互依赖于输入框——用户先组织语言提问，AI再给出答案。 这种“对话式”交互效率极高，却与人类最自然的认知路径相悖。我们认识世界，从来不是从“提问”开始，而是从“看见”开始。 一家成立于2025年的年轻公司Chance AI，正在尝试解决这个问题。它提出了另一种AI产品形态——Visual Agent（视觉智能体），试图让AI从“回答问题”的工具，进化为“看懂世界”的系统。 Chance AI",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3760265708618498",
+        "title": "SpaceX去年因AI投入亏损近50亿美元",
+        "url": "https://36kr.com/newsflashes/3760265708618498?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-10T00:20:05.000Z",
+        "summary": "据报道，两名知情人士透露，SpaceX去年亏损近50亿美元，营收则超过185亿美元。该亏损数据包含了xAI的相关支出——这家由埃隆・马斯克创立的人工智能公司已于今年2月被SpaceX收购。此次合并SpaceX与xAI业绩后的净亏损及其他财务数据此前均未对外披露。SpaceX正筹备有望成为史上规模最大的首次公开募股（IPO），期间对自身财务状况严格保密。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3760260422648327",
+        "title": "8点1氪｜“张雪峰.skill”上线GitHub引争议；康师傅“再来一瓶”被曝多店不兑换；微信回应“夫妻用AI写公众号年赚200万”",
+        "url": "https://36kr.com/p/3760260422648327?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-10T00:17:47.000Z",
+        "summary": "今日热点导览 刘强东、章泽天成立新公司，名叫“天强” NASA发布有史以来最清晰的月球照片 法国清空在美国的129吨黄金 李佳琦深夜发文否认退休 亚马逊将停止对旧款Kindle设备提供支持 美宜佳：已与606家加盟商解除合作关系 TOP3大新闻 “张雪峰.skill”上线GitHub引争议，律师：或侵犯人格权等多项权利 近日，一款名为“张雪峰.skill”的开源项目在GitHub平台上引发广泛关注。该项目通过收集已故知名教育咨询师张雪峰",
+        "category": "skills",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/ufqo6lfcbakhzwxzkojo",
         "title": "Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本",
@@ -1276,26 +1306,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-09T02:32:44.000Z",
         "summary": "文丨彭倩 编辑丨乔芊 “苦大仇深”是马学军对自己的形容。 他曾在传统行业和互联网创业十几年，任职阿里时期花名\"郭大路\"，操盘的都是实体行业互联网化的项目，从天猫超市、天猫医药、天猫家装、天猫预售、喵鲜生到喵街，无一例外。这些从0到1的创新型业务，都不是单靠淘宝流量能长出来的。 搞家装对他而言更是一场迟迟未决出胜负的赌局。2010年，马学军就在天猫掌管家装业务——从北京3万多方的“天猫爱蜂巢家装体验馆”、利用3D软件做了“设计师淘客”，到",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3758900416348934",
-        "title": "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
-        "url": "https://36kr.com/p/3758900416348934?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-09T01:11:39.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人全身级力觉自感知系统公司——智子力控（上海）科技有限公司（下称“智子力控”）近日完成新一轮融资，本轮由中芯聚源独家投资；此前，公司已获得浦东创投旗下浦东人工智能种子基金投资。这连续两轮融资达千万级别。资金将主要用于技术研发迭代、小批量产线建设及工程化团队扩充。 智子力控成立于2024年，现总部位于上海，是一家基于光学传感技术，为人形机器人提供分布式力觉感知一体化解决方案的公司。 公司创始人宋戈阳",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3758896443884033",
-        "title": "36氪专访 | 前小米高管王腾的下一站：从睡眠入手，抓住AI硬件十年一遇的创业窗口",
-        "url": "https://36kr.com/p/3758896443884033?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-09T01:08:02.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 今日宜休的创始人王腾觉得自己很庆幸，在39岁时赶上了AI硬件创业最好的时候。 过去很多年，王腾的日程表都以小时为单位切割，每一天似乎都处于战备状态。当这段职业生涯告一段落，大部分人选择休息。但王腾没有停下脚步。 刚离职时，王腾并不确定，干了十多年消费电子后，自己接下来要走向何方。他密集见投资人、老朋友，逐渐发现自己正处在一个转瞬即逝的拐点。“这是AI硬件十年一遇的创业窗口期。”王腾告诉硬氪。 高强度交流半个多月",
         "category": "updates",
         "region": "cn"
       },
