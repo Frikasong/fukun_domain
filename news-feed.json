@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T12:51:54.079Z",
+  "generatedAt": "2026-04-10T18:41:26.636Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,6 +8,86 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.com/news/article/the&",
+        "title": "The Burton Book Review: A discussion on &#8216;When You Come at the King&#8217;",
+        "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;a&#45;discussion&#45;on&#45;when&#45;you&#45;come&#45;at&#45;the&#45;king/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-10T17:45:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/wisconsin&",
+        "title": "Wisconsin moves to UBE to ease access-to-justice woes",
+        "url": "https://www.abajournal.com/news/article/wisconsin&#45;moves&#45;to&#45;ube&#45;to&#45;ease&#45;access&#45;to&#45;justice&#45;woes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-10T15:50:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/facebook&",
+        "title": "Facebook, Instagram pulling ads from lawyers looking for plaintiffs ... to sue them",
+        "url": "https://www.abajournal.com/news/article/facebook&#45;instagram&#45;pulling&#45;ads&#45;from&#45;lawyers&#45;looking&#45;for&#45;plaintiffs&#45;..&#45;to&#45;sue&#45;them/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-10T15:30:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
+        "title": "Florida law school pressed to include chapter of Charlie Kirk&#8217;s Turning Point USA",
+        "url": "https://www.abajournal.com/news/article/florida&#45;law&#45;school&#45;pressured&#45;to&#45;include&#45;charlie&#45;kirk&#45;turning&#45;point&#45;usa&#45;chapter/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-10T15:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/pageant&",
+        "title": "Pageant competitions teach Rutgers Law 2L lessons for court",
+        "url": "https://www.abajournal.com/web/article/pageant&#45;competitions&#45;teach&#45;rutgers&#45;law&#45;2l&#45;lessons&#45;for&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-10T15:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/biglaw&",
+        "title": "BigLaw firm faces questions over $35M bill",
+        "url": "https://www.abajournal.com/news/article/biglaw&#45;firm&#45;faces&#45;questions&#45;over&#45;35m&#45;bill/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-10T13:30:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/04/third-circuit-rules-that-upcodes-publication-of-incorporated-building-standards-is-likely-fair-use.html",
+        "title": "Third Circuit Rules That UpCodes&#8217; Publication of Incorporated Building Standards Is Likely Fair Use",
+        "url": "https://www.lawnext.com/2026/04/third-circuit-rules-that-upcodes-publication-of-incorporated-building-standards-is-likely-fair-use.html",
+        "source": "LawSites",
+        "publishedAt": "2026-04-10T13:08:11.000Z",
+        "summary": "A federal appeals court has handed a significant win to UpCodes, a legal tech startup that publishes building codes and technical standards online, ruling that its posting of copyrighted standards likely constitutes fair",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/john&",
+        "title": "John Deere agrees to pay farmers $99 million for allegedly monopolizing repair",
+        "url": "https://www.abajournal.com/news/article/john&#45;deere&#45;agrees&#45;to&#45;pay&#45;farmers&#45;99&#45;million&#45;for&#45;allegedly&#45;monopolizing&#45;repair/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-10T12:30:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/10/more-ai-more-jobs-eudia-webinar-felix-legal-innovators",
         "title": "More AI + More Jobs, Eudia Webinar, Felix, Legal Innovators +",
         "url": "https://www.artificiallawyer.com/2026/04/10/more-ai-more-jobs-eudia-webinar-felix-legal-innovators/",
@@ -15,16 +95,6 @@
         "publishedAt": "2026-04-10T07:11:55.000Z",
         "summary": "Let&#8217;s start this week&#8217;s Wrap with the fact that the largest legal market in the world – the US – is consistently adding more lawyer ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/04/priyanka-singh-promoted-to-evp-operations-cfo-at-litera-taking-on-expanded-strategic-role-as-litera-sees-ongoing-strong-growth.html",
-        "title": "Priyanka Singh Promoted to EVP, Operations &#038; CFO at Litera, Taking on Expanded Strategic Role as Litera Sees Ongoing Strong Growth",
-        "url": "https://www.lawnext.com/2026/04/priyanka-singh-promoted-to-evp-operations-cfo-at-litera-taking-on-expanded-strategic-role-as-litera-sees-ongoing-strong-growth.html",
-        "source": "LawSites",
-        "publishedAt": "2026-04-09T23:25:56.000Z",
-        "summary": "Promotion recognizes first-year impact and Litera&#8217;s commitment to operational excellence and scalable growth CHICAGO – Apr. 9, 2026 – Litera, a leading legal AI platform provider that unifies the practice and busin",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -53,36 +123,6 @@
         "url": "https://www.abajournal.com/news/article/michael&#45;avenatti&#45;released&#45;from&#45;prison&#45;moved&#45;to&#45;halfway&#45;house/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-04-09T16:03:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/this&",
-        "title": "This lawyer can fight for you in court or the cage",
-        "url": "https://www.abajournal.com/web/article/this&#45;lawyer&#45;can&#45;fight&#45;for&#45;you&#45;in&#45;court&#45;or&#45;the&#45;cage/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-09T15:37:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ohio&",
-        "title": "Man who generated sexually explicit deepfakes may be first convicted under new federal law",
-        "url": "https://www.abajournal.com/news/article/ohio&#45;man&#45;who&#45;generated&#45;sexually&#45;explicit&#45;deepfakes&#45;convicted&#45;under&#45;new&#45;federal&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-09T15:31:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/michigan&",
-        "title": "Judge takes plea deal on drunk driving charges, plans to remain on bench",
-        "url": "https://www.abajournal.com/news/article/michigan&#45;judge&#45;takes&#45;plea&#45;deal&#45;on&#45;drunk&#45;driving&#45;charges&#45;plans&#45;to&#45;remain&#45;on&#45;bench/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-09T14:12:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -128,52 +168,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/enrollment&",
-        "title": "Enrollment in law school of first-gen college grads drops, new LSAC report finds",
-        "url": "https://www.abajournal.com/web/article/enrollment&#45;in&#45;law&#45;school&#45;of&#45;first&#45;gen&#45;college&#45;grads&#45;drops&#45;lsac&#45;study&#45;finds/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-08T20:39:00.000Z",
-        "summary": "",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/voice/article/retirement&",
-        "title": "Shakespeare and the 7 stages of my retirement",
-        "url": "https://www.abajournal.com/voice/article/retirement&#45;comes&#45;in&#45;stages/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-08T20:01:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/axioms-lawyers-on-demand-clients-get-harvey-access",
         "title": "Axiom&#8217;s Lawyers On Demand + Clients Get Harvey Access",
         "url": "https://www.artificiallawyer.com/2026/04/08/axioms-lawyers-on-demand-clients-get-harvey-access/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-08T16:24:39.000Z",
         "summary": "Axiom, which pioneered the ALSP field and today has a potential total bench of 14,000 lawyers on demand – who work at ‘50% lower rates ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/sotomayor&",
-        "title": "Sotomayor criticizes Kavanaugh over immigration stops concurrence",
-        "url": "https://www.abajournal.com/news/article/sotomayor&#45;criticizes&#45;kavanaugh&#45;over&#45;immigration&#45;stops&#45;concurrence/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-08T15:58:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/illinois&",
-        "title": "State supreme court steadfast in ousting of judge for writing column supporting Trump",
-        "url": "https://www.abajournal.com/news/article/illinois&#45;supreme&#45;court&#45;steadfast&#45;in&#45;ousting&#45;cook&#45;county&#45;judge&#45;for&#45;writing&#45;column&#45;supporting&#45;trump/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-08T15:36:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1209,16 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/h6y6kmrbtkapojymtu63",
-        "title": "神秘模型屠榜多日、碾压Seedance 2.0！背后竟是阿里大招：新部门首作实锤，引爆股价拉升",
-        "url": "https://www.infoq.cn/article/H6Y6KmRbTKapOjYmTU63?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-10T18:55:01.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "36Kr:36kr.com/newsflashes/3760948716438017",
         "title": "Anthropic同意租用CoreWeave的AI算力以支持Claude",
