@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T07:17:09.515Z",
+  "generatedAt": "2026-04-10T12:51:54.079Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,12 +1210,42 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/2leh1h8ac1mfsj5qdrbh",
-        "title": "Istio引入多集群、环境模式及推理功能，应对AI时代的不断发展",
-        "url": "https://www.infoq.cn/article/2leh1h8aC1mfSJ5qDrBh?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/h6y6kmrbtkapojymtu63",
+        "title": "神秘模型屠榜多日、碾压Seedance 2.0！背后竟是阿里大招：新部门首作实锤，引爆股价拉升",
+        "url": "https://www.infoq.cn/article/H6Y6KmRbTKapOjYmTU63?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-10T14:00:00.000Z",
+        "publishedAt": "2026-04-10T18:55:01.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3760948716438017",
+        "title": "Anthropic同意租用CoreWeave的AI算力以支持Claude",
+        "url": "https://36kr.com/newsflashes/3760948716438017?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-10T12:38:41.000Z",
+        "summary": "Anthropic同意向CoreWeave租用数据中心算力，以应对其人工智能服务日益增长的需求。根据CoreWeave首席执行官介绍，这些算力将包括美国数据中心多种英伟达芯片架构。此次协议将帮助Anthropic构建并部署其Claude AI模型，CoreWeave目前已将四大AI模型开发商纳入客户名单。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3760913826120455",
+        "title": "百度伐谋Agent 2.0再次登顶MLE-Bench",
+        "url": "https://36kr.com/newsflashes/3760913826120455?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-10T11:40:18.000Z",
+        "summary": "36氪获悉，近日，百度智能云推出的企业级算法自主优化智能体——百度伐谋Agent 2.0，再次登顶机器学习工程基准MLE-Bench，刷新SOTA成绩。其正式版本将于今年5月Create 2026百度AI开发者大会发布。据了解，MLE-Bench由OpenAI主导设立，包含75个来自Kaggle竞赛的真实工程难题。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3760914298651400",
+        "title": "氪星晚报 ｜无印良品：2026财年第二季度营收196.1亿元，同比增长14.8%；小马智行发布PonyWorld世界模型2.0",
+        "url": "https://36kr.com/p/3760914298651400?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-10T11:25:21.000Z",
+        "summary": "大公司： 长安汽车：2025年净利润40.75亿元 36氪获悉，长安汽车公告，2025年实现营业收入1640亿元，同比增长2.67%；归属于上市公司股东的净利润40.75亿元，上年同期73.21亿元，同比下降44.34%；基本每股收益0.41元。以总股本99.13亿股为基数，向全体股东每10股派发现金红利1.15元（含税），不送红股，不以公积金转增股本。 春秋航空：2025年净利润23.17亿元，同比增长1.96% 36氪获悉，春秋航空",
         "category": "updates",
         "region": "cn"
       },
@@ -1226,46 +1256,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-10T11:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3760667223147011",
-        "title": "MiniMax上线音乐生成模型Music 2.6",
-        "url": "https://36kr.com/newsflashes/3760667223147011?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-10T07:08:31.000Z",
-        "summary": "36氪获悉，4月10日，大模型公司MiniMax正式发布新一代音乐生成模型Music 2.6。本次更新从底层引擎到创作工具实现全维度进化，大幅提升生成延迟、音乐控制、声学品质，推出全新“Cover”创作功能和面向AI Agent生态的Music Skill，并面向全球创作者开启为期14天的免费内测。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3760613846729473",
-        "title": "汉王科技发布Clear7锦鲤电纸书",
-        "url": "https://36kr.com/newsflashes/3760613846729473?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-10T06:14:13.000Z",
-        "summary": "36氪获悉，今日，汉王科技发布全新7.1英寸电纸书产品——汉王Clear7锦鲤。据了解，该产品首发“增压瞬浮技术”，通过Oxide增压瞬浮屏与T2000增压快刷引擎，页面刷新速度提升35%，对比度提升10%。此外，产品还接入了自研多模态天地大模型、DeepSeek与通义千问等AI大模型。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3760607364366857",
-        "title": "中康科技推出医生超级助理MedMate",
-        "url": "https://36kr.com/newsflashes/3760607364366857?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-10T06:07:38.000Z",
-        "summary": "36氪获悉，中康科技正式推出“医生智能体+医生小龙虾”双端协同的中国首个医生超级助理MedMate。据了解，MedMate以“医生智能体+医生小龙虾”双端协同为核心，构建了一套覆盖临床、科研、患者管理的AI Agent操作系统。此外，MedMate整合了超过4000万篇中英文学术文献，全面覆盖四大医学顶刊；同时收录3万余份临床指南及30万+份药品说明书，形成覆盖“文献-指南-用药”的完整知识链条。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3760571028455937",
-        "title": "星动纪元获“具身奥林匹克”三项全球第一",
-        "url": "https://36kr.com/newsflashes/3760571028455937?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-10T05:30:40.000Z",
-        "summary": "36氪获悉，近日，在全球具身灵巧操作难度顶尖的真机赛事Benjie's Humanoid Olympic Games中，星动纪元凭借自研VLA具身模型，一举斩获该赛事剥橘子、开锁、翻袜子三项任务全球第一。",
         "category": "updates",
         "region": "cn"
       },
@@ -1340,26 +1330,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3758982738641670",
-        "title": "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程",
-        "url": "https://36kr.com/p/3758982738641670?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-09T02:36:29.000Z",
-        "summary": "文｜胡香赟 编辑｜海若镜 制药行业离“告别”动物实验又近了一步。 从2022年FDA的现代化法案2.0被批准开始，“替代动物实验”的监管战略一直在持续。今年3月中旬，FDA终于发文表态，开始接收非动物数据支撑新药评审，鼓励使用类器官/器官芯片、AI毒理学模型等新方法学（NAMs），逐步减少药企对动物实验的依赖。 图源：FDA官网 伴随政策层面的深入，类器官/器官芯片企业在一级市场上的声量也逐步提高。仅今年来，就有至少5家相关企业披露融资",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3758979573121538",
-        "title": "对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？",
-        "url": "https://36kr.com/p/3758979573121538?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-09T02:32:44.000Z",
-        "summary": "文丨彭倩 编辑丨乔芊 “苦大仇深”是马学军对自己的形容。 他曾在传统行业和互联网创业十几年，任职阿里时期花名\"郭大路\"，操盘的都是实体行业互联网化的项目，从天猫超市、天猫医药、天猫家装、天猫预售、喵鲜生到喵街，无一例外。这些从0到1的创新型业务，都不是单靠淘宝流量能长出来的。 搞家装对他而言更是一场迟迟未决出胜负的赌局。2010年，马学军就在天猫掌管家装业务——从北京3万多方的“天猫爱蜂巢家装体验馆”、利用3D软件做了“设计师淘客”，到",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/uw8ec56iodylm4al294q",
         "title": "GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
         "url": "https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q?utm_source=rss&utm_medium=article",
@@ -1367,16 +1337,6 @@
         "publishedAt": "2026-04-08T17:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mqw0bszwh0fc8obdcsax",
-        "title": "Claude Code史诗级负优化！大厂AI主管批思考深度暴跌，官方回应被开发者怼爆：菜成AI“玩具”",
-        "url": "https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-08T16:13:24.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
         "region": "cn"
       }
     ],
@@ -1408,16 +1368,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-04-08T10:00:09.000Z",
         "summary": "DeepSeek has introduced new “instant” and “expert” modes to its chatbot, the most significant update to its user interface since the Hangzhou-based start-up gained global recognition. The changes come ahead of the much-a",
-        "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3348942/tencent-expands-openclaw-suite-enterprise-tool-amid-chinas-lobster-craze",
-        "title": "Tencent expands OpenClaw suite with enterprise tool amid China’s ‘lobster’ craze",
-        "url": "https://www.scmp.com/tech/article/3348942/tencent-expands-openclaw-suite-enterprise-tool-amid-chinas-lobster-craze?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-03T12:00:09.000Z",
-        "summary": "Tencent Holdings has launched a new OpenClaw tool for enterprises that promises easy deployment of the artificial intelligence agent as part of the Chinese internet giant’s efforts to capitalise on the “lobster” frenzy i",
         "category": "tools",
         "region": "cn_en"
       },
