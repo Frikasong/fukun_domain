@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T18:41:26.636Z",
+  "generatedAt": "2026-04-11T01:26:49.491Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,22 +1210,62 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/qpns964ybmjfjr0r1vp6",
+        "title": "Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+        "url": "https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-11T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3761709375521288",
+        "title": "Claude新模型危险，鲍威尔召集华尔街紧急开会！全美安全股暴跌2万亿",
+        "url": "https://36kr.com/p/3761709375521288?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-11T01:25:41.000Z",
+        "summary": "【导读】刚刚，华尔街巨头被紧急召往华盛顿！Mythos这个模型让美国财长和美联储主席都恐慌了，向全美金融业CEO发出警告。短短一年内，SaaS市场经历了一场浩劫，2万亿美元直接蒸发。 就在这周二，鲍威尔和贝森特紧急召见华尔街，向所有人发出警告—— Anthropic的最新模型Mythos，可能对金融业造成重大风险！ 从蒸发2万亿美元，到紧急召集CEO进华盛顿——Anthropic的AI，正在触碰金融世界最敏感的神经。 就在今天，这个新闻",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3761739153081096",
+        "title": "36氪首发 | 打破日本工业镜头垄断，松山湖团队融资数千万",
+        "url": "https://36kr.com/p/3761739153081096?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-11T01:19:19.000Z",
+        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业镜头研发商——阿基视觉科技（东莞）有限公司（下称“阿基视觉”）近日完成数千万元天使轮融资，由东莞科创、深担创投、松禾资本及林润集团联合投资，德太资��担任本轮融资顾问。本轮融资将用于团队扩充、产���扩建、研发配套及市场拓展，加速高端工业镜头的国产化替代进程。 阿基视觉成立于2022年，总部位于东莞松山湖。2025年，CEO吴选胜加入阿基视觉，吴选胜曾任日本工业镜头龙头Moritex中国区董事",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3761737030894342",
+        "title": "36氪首发 | 深大教授AI芯片项目再融资近亿，主动式散热微系统服务传音",
+        "url": "https://36kr.com/p/3761737030894342?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-11T01:17:03.000Z",
+        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，深圳锐盟半导体有限公司（下称“锐盟半导体”）近日完成近亿元A轮融资，由松禾资本领投，中风投-华融盛资本、深圳天使母基金、四海新材及上市公司飞荣达跟投。本轮融资将主要用于核心产品压电主动式散热微系统核心技术迭代、量产示范线建设及头部客户导入等，加快消费电子、AI 终端、高性能计算等领域的批量交付。 锐盟半导体成立于2020年底，聚焦AI芯片主动式散热微系统产品。公司创始人&CEO黎冰是香港中文大学博士、",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3761718611624707",
+        "title": "9点1氪｜7家涉火车票销售第三方平台被约谈；45秒500万，张雪直播间拍卖冠军复刻赛车“光速”成交；亚马逊辟谣5月将裁员1.4万",
+        "url": "https://36kr.com/p/3761718611624707?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-11T01:02:01.000Z",
+        "summary": "今日热点导览 香港最严控烟令来了，携带电子烟上街就罚3000港元，游客也不会豁免 小米食堂推出小米冰激凌 微信3月更新9项功能，微信、企微支持连接自己的龙虾 SpaceX去年因AI投入亏损近50亿美元 保时捷在华销量再降20%，较三年前缩水6成 《OpenClaw类智能体部署风险管理指南》正式发布 TOP3大新闻 7家涉火车票销售业务的第三方平台被约谈 据网信中国公众号，近日，依据《网络安全法》《关键信息基础设施安全保护条例》有关规定，",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/newsflashes/3760948716438017",
         "title": "Anthropic同意租用CoreWeave的AI算力以支持Claude",
         "url": "https://36kr.com/newsflashes/3760948716438017?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-10T12:38:41.000Z",
         "summary": "Anthropic同意向CoreWeave租用数据中心算力，以应对其人工智能服务日益增长的需求。根据CoreWeave首席执行官介绍，这些算力将包括美国数据中心多种英伟达芯片架构。此次协议将帮助Anthropic构建并部署其Claude AI模型，CoreWeave目前已将四大AI模型开发商纳入客户名单。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3760913826120455",
-        "title": "百度伐谋Agent 2.0再次登顶MLE-Bench",
-        "url": "https://36kr.com/newsflashes/3760913826120455?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-10T11:40:18.000Z",
-        "summary": "36氪获悉，近日，百度智能云推出的企业级算法自主优化智能体——百度伐谋Agent 2.0，再次登顶机器学习工程基准MLE-Bench，刷新SOTA成绩。其正式版本将于今年5月Create 2026百度AI开发者大会发布。据了解，MLE-Bench由OpenAI主导设立，包含75个来自Kaggle竞赛的真实工程难题。",
         "category": "updates",
         "region": "cn"
       },
@@ -1288,46 +1328,6 @@
         "summary": "特斯拉在中国的供应链布局还在扩大。 36氪汽车从多位产业人士处获悉，欣旺达旗下专注动力电池业务的子公司——欣旺达动力，已进入特斯拉全球供应链，成为特斯拉全球第五家动力电池供应商。 接触到项目的产业链人士透露，这款电池已从欣旺达浙江义乌工厂出货，搭载在特斯拉上海工厂销往海外的车型上，“已经出货有一阵子了。” 至于这款电池何时搭载于国内车型，目前还无定论。“通常来说，特斯拉上新的零部件，会有小一年的观察期。”有电池行业人士向36氪分析，但是",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3759372854706953",
-        "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
-        "url": "https://36kr.com/p/3759372854706953?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-09T09:15:38.000Z",
-        "summary": "作者｜任彩茹 编辑｜乔芊 并入美团两年半，GN06（光年之外应团队并入美团后的名字）被赋予的使命始终是：在主营业务之外，找AI Native的增长点。今年3月，他们把这件事落到了一个具体的产品上——AI浏览器「Tabbit」正式进入公测。 为什么是浏览器？大公司在AI领域争展锋芒，行业如今的热词是“虾”、“Agent”、“Token”，浏览器一定不是那个看起来“最性感”的形态，也很难与美团的核心业务紧密相融。 GN06负责人刘炯认为，A",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3759269095113219",
-        "title": "一个225平方公里的“庄”，如何成为AI“顶流”",
-        "url": "https://36kr.com/p/3759269095113219?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-09T08:08:48.000Z",
-        "summary": "亦庄又“炸场”了。 AI未来大会现场 4月8日启幕的AI FUTURE北京亦庄AI未来大会上，一系列重磅消息密集释放，彻底点燃科技圈热度。这场为期两天的盛会，吸引了2000余位业内精英、34家头部企业参与。 AI未来大会现场 现场更有罗振宇、方汉等行业大佬现场分享洞见，成为亦庄AI实力的一次集中秀肌肉。 AI未来大会现场 在AIFUT北京亦庄AI未来大会上，全国首个聚焦AI超级个体的全周期服务站——北京经开区模数OPC（One Pers",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3759045427937793",
-        "title": "INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线",
-        "url": "https://36kr.com/p/3759045427937793?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-09T03:53:44.000Z",
-        "summary": "近日，下一代移动计算平台公司 Inair 多屏未来（以下简称 Inair）宣布完成千万美元 A+ 轮融资。本轮融资由君联资本、高瓴创投、弘晖基金联合投资，资金将主要用于加速便携空间主机（PSS） 产品 Inair Pod 的生态拓展、空间操作系统研发及垂直行业应用落地。 Inair 多屏未来是一家专注于空间计算与移动生产力的科技公司，由两名在科技领域的连续创业者发起，初创团队拥有 AR 硬件、软件、产品和市场经验，团队成员来自于多家互联",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/uw8ec56iodylm4al294q",
-        "title": "GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
-        "url": "https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-08T17:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
-        "region": "cn"
       }
     ],
     "cn_en": [
@@ -1348,16 +1348,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-04-10T02:00:14.000Z",
         "summary": "Alibaba Cloud captured more than 50 per cent of global open-source model downloads as of March following the release of its Qwen 3.5 model series, a new report has found. The finding underscores the dominance of Chinese ",
-        "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/policy/article/3349345/chinas-deepseek-adds-instant-and-expert-chatbot-modes-ahead-much-awaited-v4-release",
-        "title": "China’s DeepSeek adds expert chatbot mode ahead of much-awaited V4 release",
-        "url": "https://www.scmp.com/tech/policy/article/3349345/chinas-deepseek-adds-instant-and-expert-chatbot-modes-ahead-much-awaited-v4-release?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-08T10:00:09.000Z",
-        "summary": "DeepSeek has introduced new “instant” and “expert” modes to its chatbot, the most significant update to its user interface since the Hangzhou-based start-up gained global recognition. The changes come ahead of the much-a",
         "category": "tools",
         "region": "cn_en"
       },
