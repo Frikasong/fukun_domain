@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T07:05:10.336Z",
+  "generatedAt": "2026-04-12T12:42:22.487Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,22 +1210,12 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/bfwjzuqlxlzcmqz7pbnj",
-        "title": "Uber Hive联邦架构：1.6万数据集、10PB数据去中心化，支撑大规模分析零停机",
-        "url": "https://www.infoq.cn/article/bFwjzUqLXLZCmqz7pBNJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-12T15:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/bbmfyay4kg5hx2atmdmc",
-        "title": "首席工程师之路：培养领导力",
-        "url": "https://www.infoq.cn/article/Bbmfyay4kg5Hx2ATMdMC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-12T14:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3763627559780867",
+        "title": "星元晶算发布1nm芯片路线图",
+        "url": "https://36kr.com/newsflashes/3763627559780867?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-12T10:15:46.000Z",
+        "summary": "近日，星元晶算正式发布面向2030年的先进异构集成高能效算力1nm芯片技术路线图，远期目标锁定在2030年前后实现年产10太瓦（TW）级等效太空算力，通过二维材料本征的高能效比与先进封装结合，旨在以更小的物理规模实现等效10太瓦级的算力输出，在能量产出比上实现对传统硅基工厂的代际超越。其中规划将大部分算力部署于太空算力节点，通过天地协同链路为全球设备提供实时支持。",
         "category": "updates",
         "region": "cn"
       },
@@ -1236,6 +1226,16 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-12T10:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3763547677590018",
+        "title": "元戎启行CEO周光：解决小模型的“跷跷板效应”，必须转向大模型范式",
+        "url": "https://36kr.com/newsflashes/3763547677590018?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-12T07:58:40.000Z",
+        "summary": "4月12日，在智能电动汽车发展高层论坛上，元戎启行CEO周光提到，2025年，城区NOA用户黏性大概是在20%-30%区间，城区NOA渗透率仅15%左右。 周光认为，这背后最本质的原因在于：今天量产的小模型智驾参数量非常小，多数在1B以下，甚至0.1B以下，运行算力典型在100-200 TOPS。要解决小模型的“跷跷板效应”，必须从小模型范式转向大模型范式，用Scaling的方式系统性提升能力。",
         "category": "updates",
         "region": "cn"
       },
