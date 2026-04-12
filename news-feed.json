@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T18:32:51.967Z",
+  "generatedAt": "2026-04-12T01:51:16.725Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/17v8njji4nfp0uwmr27s",
+        "title": "Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+        "url": "https://www.infoq.cn/article/17v8NjjI4NFp0uwMr27S?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-12T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3763157489320457",
+        "title": "马斯克：Grok要达到甚至超越Claude Opus 4.6的水平，需要等到六月",
+        "url": "https://36kr.com/newsflashes/3763157489320457?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-12T01:30:36.000Z",
+        "summary": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/newsflashes/3762215677297158",
         "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
         "url": "https://36kr.com/newsflashes/3762215677297158?f=rss",
@@ -1235,7 +1255,7 @@
         "url": "https://36kr.com/newsflashes/3762011484340745?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-11T05:55:58.000Z",
-        "summary": "4月11日，滴滴自动驾驶公司CEO张博出席2026智能电动汽车发展高层论坛，新一代Robotaxi车型同步亮相。张博在演讲中表示，安全与体验是自动驾��行稳致远的根基，滴滴自动驾驶坚持负责任的科技创新，将基于在AI核心技术、硬件、出行场景三大领域的积累，持续加大投入，不断优化产品和服务。去年四季度，滴滴自动驾驶在广州、北京部分示范应用区域开启全天候、全无人载客测试。",
+        "summary": "4月11日，滴滴自动驾驶公司CEO张博出席2026智能电动汽车发展高层论坛，新一代Robotaxi车型同步亮相。张博在演讲中表示，安全与体验是自动驾驶行稳致远的根基，滴滴自动驾驶坚持负责任的科技创新，将基于在AI核心技术、硬件、出行场景三大领域的积累，持续加大投入，不断优化产品和服务。去年四季度，滴滴自动驾驶在广州、北京部分示范应用区域开启全天候、全无人载客测试。",
         "category": "updates",
         "region": "cn"
       },
