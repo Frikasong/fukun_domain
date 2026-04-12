@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T01:51:16.725Z",
+  "generatedAt": "2026-04-12T07:05:10.336Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,32 +1210,52 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/17v8njji4nfp0uwmr27s",
-        "title": "Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
-        "url": "https://www.infoq.cn/article/17v8NjjI4NFp0uwMr27S?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/bfwjzuqlxlzcmqz7pbnj",
+        "title": "Uber Hive联邦架构：1.6万数据集、10PB数据去中心化，支撑大规模分析零停机",
+        "url": "https://www.infoq.cn/article/bFwjzUqLXLZCmqz7pBNJ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-12T08:00:00.000Z",
+        "publishedAt": "2026-04-12T15:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3763157489320457",
-        "title": "马斯克：Grok要达到甚至超越Claude Opus 4.6的水平，需要等到六月",
-        "url": "https://36kr.com/newsflashes/3763157489320457?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-12T01:30:36.000Z",
-        "summary": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
+        "id": "InfoQ China:www.infoq.cn/article/bbmfyay4kg5hx2atmdmc",
+        "title": "首席工程师之路：培养领导力",
+        "url": "https://www.infoq.cn/article/Bbmfyay4kg5Hx2ATMdMC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-12T14:00:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3762215677297158",
-        "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
-        "url": "https://36kr.com/newsflashes/3762215677297158?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/4wnxlbiehgewrgnuwojc",
+        "title": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+        "url": "https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-12T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3763344613638662",
+        "title": "日本3月机床订单额增长28% 海外订单增40%",
+        "url": "https://36kr.com/newsflashes/3763344613638662?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-11T09:31:37.000Z",
-        "summary": "日前在武汉举行的中国人工智能产业发展联盟第十七次全体会议上，工业和信息化部科技司副司长杜广达表示，工业和信息化部将以制造业为主战场、应用牵引为主线，发布一批“人工智能+”高价值场景，探索一批典型应用，建设一批特色智能体，提供一批新型智能终端，研制一批新标准，培育一批产业应用人才，打造一批优质企业，全面推动人工智能与制造业深度融合。（新华社）",
+        "publishedAt": "2026-04-12T06:30:58.000Z",
+        "summary": "日本工作机械工业会4月9日发布的数据显示，3月机床订单额达1935亿日元，同比增长28%。已连续9个月实现同比增长。尽管市场担忧3月中东局势恶化会对设备投资造成影响，但据日工会负责人介绍，3月订单额创下历史新高。海外订单大幅增长40%至1430亿日元。在汽车、人工智能（AI）等广泛领域取得了订单。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3763278385349122",
+        "title": "长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上",
+        "url": "https://36kr.com/newsflashes/3763278385349122?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-12T05:15:35.000Z",
+        "summary": "长城汽车智能化产品副总经理佘士东在智能电动汽车高层发展论坛上表示，当前智能座舱界面高度同质化，200多款车型的交互界面相似度达95%以上，行业陷入“无米下锅”的创新瓶颈。而大模型上车带来了破局机遇，行业正逐步从“人机交互”迈向“人-智-体”三方服务时代。",
         "category": "updates",
         "region": "cn"
       },
@@ -1246,26 +1266,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-11T06:17:09.000Z",
         "summary": "奥特曼家被炸了 【导读】当地时间周五清晨，奥特曼家被炸了。奥特曼发出家人和孩子的照片，并且发出长文表示，AGI如今已经如同魔戒一般，让人做出疯狂的举动。 奥特曼家被炸了！ 就在当地时间周五清晨，一名20岁男子向奥特曼旧金山中投掷了燃烧弹，引起火灾。 这栋豪宅价值2700万美元。 凌晨4点12分，警方接到报警，调查后发现无人受伤，火势已被控制。但嫌疑人已经徒步逃跑，体貌特征已被通报。 凌晨5点07分左右，警方又接到报警称，OpenAI办公",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3762011484340745",
-        "title": "滴滴自动驾驶张博：聚焦安全和体验，推动自动驾驶全球化落地",
-        "url": "https://36kr.com/newsflashes/3762011484340745?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-11T05:55:58.000Z",
-        "summary": "4月11日，滴滴自动驾驶公司CEO张博出席2026智能电动汽车发展高层论坛，新一代Robotaxi车型同步亮相。张博在演讲中表示，安全与体验是自动驾驶行稳致远的根基，滴滴自动驾驶坚持负责任的科技创新，将基于在AI核心技术、硬件、出行场景三大领域的积累，持续加大投入，不断优化产品和服务。去年四季度，滴滴自动驾驶在广州、北京部分示范应用区域开启全天候、全无人载客测试。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3761942487990792",
-        "title": "日本投入160亿美元，力推初创企业Rapidus进军人工智能芯片领域",
-        "url": "https://36kr.com/newsflashes/3761942487990792?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-11T05:23:34.000Z",
-        "summary": "日本经济产业省周六表示，这笔资金将用于支持Rapidus为信息技术企业富士通株式会社开展研发工作，富士通是日方希望能推动该标志性项目落地的首批客户之一。新增资金后，截至2027年3月本财年末，政府对这家初创企业的补贴与投资总额将升至2.6万亿日元（约合163亿美元）。该省称，一个外部委员会已视察了Rapidus位于日本北部北海道的芯片制造厂，并对其技术进展予以认可。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1295,7 +1295,7 @@
         "url": "https://36kr.com/p/3761739153081096?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-11T01:19:19.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业镜头研发商——阿基视觉科技（东莞）有限公司（下称“阿基视觉”）近日完成数千万元��使轮融资，由东莞科创、深担创投、松禾资本及林润集团联合投资，德太资本担任本轮融资顾问。本轮融资将用于团队扩充、产能扩建、研发配套及市场拓展，加速高端工业镜头的国产化替代进程。 阿基视觉成立于2022年，总部位于东莞松山湖。2025年，CEO吴选胜加入阿基视觉，吴选胜曾任日本工业镜头龙头Moritex中国区董事长兼",
+        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业镜头研发商——阿基视觉科技（东莞）有限公司（下称“阿基视觉”）近日完成数千万元天使轮融资，由东莞科创、深担创投、松禾资本及林润集团联合投资，德太资本担任本轮融资顾问。本轮融资将用于团队扩充、产能扩建、研发配套及市场拓展，加速高端工业镜头的国产化替代进程。 阿基视觉成立于2022年，总部位于东莞松山湖。2025年，CEO吴选胜加入阿基视觉，吴选胜曾任日本工业镜头龙头Moritex中国区董事长兼总",
         "category": "updates",
         "region": "cn"
       },
