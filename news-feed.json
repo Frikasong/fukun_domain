@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T01:56:18.928Z",
+  "generatedAt": "2026-04-13T07:50:38.201Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/13/orbital-launches-its-own-real-estate-law-firm",
+        "title": "Orbital Launches Its Own Real Estate Law Firm",
+        "url": "https://www.artificiallawyer.com/2026/04/13/orbital-launches-its-own-real-estate-law-firm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-13T07:41:28.000Z",
+        "summary": "Orbital, the legal tech / prop tech company focused on property sales, is to launch its own law firm, called Farringdon, in the UK focused ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/13/legal-tech-raised-2-3b-in-q1-26-but-3-companies-dominate",
+        "title": "Legal Tech Raised $2.3B in Q1 &#8217;26, But 3 Companies Dominate",
+        "url": "https://www.artificiallawyer.com/2026/04/13/legal-tech-raised-2-3b-in-q1-26-but-3-companies-dominate/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-13T06:46:52.000Z",
+        "summary": "Legal tech funding continues to remain strong, with Q1 2026 data from Legal Complex showing that $2.34 billion was raised across 103 deals. However, Relativity, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/11/anthropic-targets-lawyers-with-claude-for-word",
+        "title": "Anthropic Targets Lawyers With Claude For Word",
+        "url": "https://www.artificiallawyer.com/2026/04/11/anthropic-targets-lawyers-with-claude-for-word/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-11T07:09:38.000Z",
+        "summary": "Anthropic has just released Claude for Word in Beta – in itself a major move, but even more significant is that the AI giant is ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/the&",
         "title": "The Burton Book Review: A discussion on &#8216;When You Come at the King&#8217;",
@@ -88,6 +118,16 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/10/more-ai-more-jobs-eudia-webinar-felix-legal-innovators",
+        "title": "More AI + More Jobs, Eudia Webinar, Felix, Legal Innovators +",
+        "url": "https://www.artificiallawyer.com/2026/04/10/more-ai-more-jobs-eudia-webinar-felix-legal-innovators/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-10T07:11:55.000Z",
+        "summary": "Let&#8217;s start this week&#8217;s Wrap with the fact that the largest legal market in the world – the US – is consistently adding more lawyer ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "ABA Journal:www.abajournal.com/news/article/barbri&",
         "title": "Bar exam prep group Barbri names new co-CEO",
         "url": "https://www.abajournal.com/news/article/barbri&#45;names&#45;lucie&#45;allen&#45;co&#45;ceo/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -118,12 +158,72 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/haast-raises-12m-for-ai-marketing-slop-compliance",
+        "title": "Haast Raises $12m For AI Marketing ‘Slop’ Compliance",
+        "url": "https://www.artificiallawyer.com/2026/04/09/haast-raises-12m-for-ai-marketing-slop-compliance/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-09T14:00:13.000Z",
+        "summary": "Haast, which uses AI to handle marketing content compliance – and increasingly to counter AI ‘slop’ produced with little forethought &#8211; has raised $12m in ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/newmod-norm-law-hires-ex-ropes-gray-partner-bill-mone",
+        "title": "NewMod Norm Law Hires Ex-Ropes &#038; Gray Partner Bill Mone",
+        "url": "https://www.artificiallawyer.com/2026/04/09/newmod-norm-law-hires-ex-ropes-gray-partner-bill-mone/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-09T13:47:37.000Z",
+        "summary": "NewMod Norm Law, the legal arm connected to Norm Ai, has hired Bill Mone as Head of Private Equity. He was most recently at US firm ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/uk-firm-rolls-out-august-across-multiple-business-functions",
+        "title": "UK Firm Rolls Out August Across Multiple Business Functions",
+        "url": "https://www.artificiallawyer.com/2026/04/09/uk-firm-rolls-out-august-across-multiple-business-functions/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-09T13:00:07.000Z",
+        "summary": "Legal AI platform August is now being used by UK law firm Harrison Drury, not just for legal matters, but across multiple business functions. The ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/will-claude-managed-agents-impact-legal-tech",
+        "title": "Will Claude Managed Agents Impact Legal Tech?",
+        "url": "https://www.artificiallawyer.com/2026/04/09/will-claude-managed-agents-impact-legal-tech/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-09T06:48:37.000Z",
+        "summary": "Anthropic has launched Claude Managed Agents, which provides ‘everything you need to build and deploy agents at scale’. Put simply, that means you can build ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/axioms-lawyers-on-demand-clients-get-harvey-access",
+        "title": "Axiom&#8217;s Lawyers On Demand + Clients Get Harvey Access",
+        "url": "https://www.artificiallawyer.com/2026/04/08/axioms-lawyers-on-demand-clients-get-harvey-access/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-08T16:24:39.000Z",
+        "summary": "Axiom, which pioneered the ALSP field and today has a potential total bench of 14,000 lawyers on demand – who work at ‘50% lower rates ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/04/courtroom5-launches-the-law-accelerator-a-structured-program-to-help-self-represented-litigants-navigate-civil-court.html",
         "title": "Courtroom5 Launches The LAW Accelerator, a Structured Program to Help Self-Represented Litigants Navigate Civil Court",
         "url": "https://www.lawnext.com/2026/04/courtroom5-launches-the-law-accelerator-a-structured-program-to-help-self-represented-litigants-navigate-civil-court.html",
         "source": "LawSites",
         "publishedAt": "2026-04-08T14:41:18.000Z",
         "summary": "It is estimated that more than 75 percent of civil litigants in U.S. state courts have no legal representation. In eviction proceedings, the figure exceeds 90 percent. For decades, the primary response to this explosion ",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams",
+        "title": "Webinar: Eudia + ServiceNow: The 10x Future of Inhouse Legal Teams",
+        "url": "https://www.artificiallawyer.com/2026/04/08/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-08T12:04:38.000Z",
+        "summary": "On April 22, 12 noon EST, 9AM PST, and 5PM GMT, Artificial Lawyer is partnering with Eudia and ServiceNow where we will explore: ‘Self-Service Legal: Eudia, ...",
         "category": "updates",
         "region": "na"
       },
@@ -1106,47 +1206,127 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3764556504138505",
-        "title": "UNICUS完成数百万美金新一轮融资",
-        "url": "https://36kr.com/newsflashes/3764556504138505?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T01:04:54.000Z",
-        "summary": "36氪获悉，个性化制造品牌UNICUS（原方仔照相馆，深圳千帜科技有限公司）于近日完成新一轮融资。融资金额达数百万美金。本轮由线性资本领投，九坤创投、天际资本跟投，元一资本担任独家财务顾问。公司创始团队及Maker赛道头部公司创始人以个人身份参与跟投。本轮资金将主要用于积木生成大模型训练、AI Agent的研发以及海外市场的拓展，持续构建“AI驱动的个性化制造”核心能力体系。",
+        "id": "InfoQ China:www.infoq.cn/article/c2fwkh2egbldpnunlczx",
+        "title": "OpenAI 不想写 spec 了：Codex 只留 10 条要点，把执行交给 skills",
+        "url": "https://www.infoq.cn/article/C2fWkH2EgBlDPNUNlcZX?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-13T15:43:50.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/71xffmtwwdmihtqjozed",
+        "title": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
+        "url": "https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-13T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/y8lhxfcpi7jock5mspsd",
+        "title": "谷歌推出AppFunctions连接AI智能体和Android应用",
+        "url": "https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-13T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/pp8vucpujenbkwr169ec",
+        "title": "曝京东全面拦截员工使用外部 AI；红帽裁撤中国区研发团队迁至印度，最高赔偿 N+6；传梁文峰内部发声：DeepSeek V4 本月下旬发布 | AI周报",
+        "url": "https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-13T10:25:17.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fa7cwrtsjmi63gfihfdx",
+        "title": "Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描",
+        "url": "https://www.infoq.cn/article/FA7cwRtSJMI63GFiHFDX?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-13T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3764938383262210",
+        "title": "Meta押注AI数字人，正打造AI版扎克伯格",
+        "url": "https://36kr.com/newsflashes/3764938383262210?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T07:45:16.000Z",
+        "summary": "Meta正在打造人工智能版马克・扎克伯格，可代他与员工互动，这是这家科技巨头全面向AI转型的重要举措之一。据四位知情人士透露，这家市值1.6万亿美元的集团一直在研发照片级逼真、可实时交互的AI 3D数字人。其中三位人士称，公司近期已将AI版扎克伯格列为优先项目。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3764937313239557",
+        "title": "奥克股份等在江苏成立新公司，含AI相关业务",
+        "url": "https://36kr.com/newsflashes/3764937313239557?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T07:40:14.000Z",
+        "summary": "36氪获悉，爱企查App显示，近日，江苏极拓奥克能源科技有限公司成立，法定代表人为冯博，注册资本1400万元人民币，经营范围包括计算机软硬件及辅助设备批发、工业自动控制系统装置销售、工业互联网数据服务、人工智能应用软件开发等。股东信息显示，该公司由辽宁奥克化学股份有限公司等共同持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3764936574239488",
+        "title": "WPS 365发布东南亚三大生态战略",
+        "url": "https://36kr.com/newsflashes/3764936574239488?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T07:31:32.000Z",
+        "summary": "36氪获悉，近日，WPS 365亮相新加坡GITEX ASIA 2026，展示了其作为全球一站式AI协同办公平台的解决方案。目前，WPS 365在东南亚正加速推进三大生态战略：搭建本地渠道网络、深化与全球云厂商融合、为企业提供定制化数字化支持。WPS 365已与华为云、亚马逊云科技（AWS）、谷歌云（Google Cloud）达成战略合作，将应用能力与基础设施深度融合，提供更适配本地算力环境与监管框架的解决方案。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3764892434711049",
+        "title": "这届留学生，用AI看病省出一辆特斯拉",
+        "url": "https://36kr.com/p/3764892434711049?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T06:50:56.000Z",
+        "summary": "01. 用AI硬扛20天，省出一辆特斯拉 回国做完四颗牙的根管治疗后，英国留学生土土盯着一万多的账单算了算， 发现自己回国这一趟，竟然省下了一辆二手“特斯拉”。 就在20天前，土土的牙痛又犯了，连吃饭都变成了一种酷刑。他迫切需要找点缓解的办法，但脑海里闪过之前在国外的看牙经历—— 之前一次，同样是牙疼，土土挂了当地的一家私人医院的牙医号。一套检查下来，医生给出的治疗方案是根管治疗，要先磨牙、清洗，价格1900磅，还要做牙冠，1500磅，",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3764864965755401",
+        "title": "中国16家科技社团联合倡议共促全球人工智能治理",
+        "url": "https://36kr.com/newsflashes/3764864965755401?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T06:18:41.000Z",
+        "summary": "中国科协所属中国自动化学会、中国电子学会、中国计算机学会、中国人工智能学会等16家科技社团4月13日共同发布《全球人工智能治理科技社团倡议》，倡导以人为本、智能向善，推动建立开放、公正、包容、有效的全球人工智能治理体系。倡议提出，以增进人类共同福祉为人工智能学术研究的根本遵循；将安全作为人工智能学术研究与治理的底线要求；尊重各国平等参与人工智能研究与治理的权利，反对技术霸权、学术壁垒、排他性“小圈子”及不合理技术垄断；引导公众正确认知技",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3764777930621705",
+        "title": "早期项目 | 前大疆工程师创业陪伴机器人，李泽湘连投三轮，产品即将登陆众筹",
+        "url": "https://36kr.com/p/3764777930621705?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T04:53:44.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 陪伴机器人走向同质化的当下，什么样的产品能吸引人？ 今年年初的CES 2026上，一款身着橙色连体衣的小型机器人COCOMO，意外成为外媒镜头频频捕捉的对象。 略带“异质感”的外星宠物气质，37度接近人体的温度，创新的分体式设计既可被抱起，又能主动跟随，吸引了不少现场观众在展台前试玩体验。 同一展台上，团队还带来了另一款更轻量的桌面陪伴机器人INU。INU被定义为一款“桌面外星小狗”，通过尾巴摇摆和身",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3764728843289089",
+        "title": "创业老炮vs00后，谁是下一代“一人公司”的标准样板",
+        "url": "https://36kr.com/p/3764728843289089?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T04:06:46.000Z",
+        "summary": "文｜富充 编辑｜苏建勋 2026年春天，“龙虾”火热异常，也直接带火了另一个概念：OPC（One Person Company，一人公司）。 一人公司的概念最早源于2013年英国公司法，原指法律意义上的“一人有限责任公司”。在AI浪潮下，它被重新定义，演变为一种个人或极小型团队，借助AI工具，即可实现全链路闭环的新型创业模式。 越来越多的商业领袖为OPC概念站台。周鸿祎说，一人公司是 AI 时代“超级个体”的极端形态。本质是 1个人指挥",
+        "category": "tools",
         "region": "cn"
       },
       {
@@ -1156,16 +1336,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-13T01:00:26.000Z",
         "summary": "作者 | 张子怡 编辑 | 袁斯来 36氪获悉，个性化制造品牌UNICUS（原方仔照相馆，深圳千帜科技有限公司）于近日完成新一轮融资。融资金额达数百万美金。本轮由线性资本领投，九坤创投、天际资本跟投，元一资本担任独家财务顾问。公司创始团队及Maker赛道头部公司创始人以个人身份参与跟投。 本轮资金将主要用于积木生成大模型训练、AI Agent的研发以及海外市场的拓展，持续构建“AI驱动的个性化制造”核心能力体系。 过去两年，生成式AI的",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3764549288444673",
-        "title": "荣耀与字节跳动接洽“豆包手机”合作",
-        "url": "https://36kr.com/newsflashes/3764549288444673?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T00:57:34.000Z",
-        "summary": "据媒体报道，从知情人士处获悉，荣耀正与字节跳动就“豆包手机”相关合作展开接洽。据上述知情人士透露，字节跳动在与中兴通讯合作推出第一代豆包手机之前，最先接触的手机厂商其实是荣耀。不过，荣耀当时对此态度较为谨慎，认为这类深度系统级合作存在一定风险：豆包手机作为探索性工程机，技术路线可以更为激进；而荣耀拥有亿级用户体量，一旦新服务在稳定性、兼容性或安全性上出现问题，极有可能引发大规模功能异常与用户投诉，相关风险难以兜底。（财联社）",
         "category": "updates",
         "region": "cn"
       },
@@ -1195,46 +1365,6 @@
         "url": "https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-04-12T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3762027785224707",
-        "title": "奥特曼家被炸了！",
-        "url": "https://36kr.com/p/3762027785224707?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-11T06:17:09.000Z",
-        "summary": "奥特曼家被炸了 【导读】当地时间周五清晨，奥特曼家被炸了。奥特曼发出家人和孩子的照片，并且发出长文表示，AGI如今已经如同魔戒一般，让人做出疯狂的举动。 奥特曼家被炸了！ 就在当地时间周五清晨，一名20岁男子向奥特曼旧金山中投掷了燃烧弹，引起火灾。 这栋豪宅价值2700万美元。 凌晨4点12分，警方接到报警，调查后发现无人受伤，火势已被控制。但嫌疑人已经徒步逃跑，体貌特征已被通报。 凌晨5点07分左右，警方又接到报警称，OpenAI办公",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3761883183530502",
-        "title": "那个“爱马仕”，想拯救“智障”小龙虾",
-        "url": "https://36kr.com/p/3761883183530502?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-11T03:47:59.000Z",
-        "summary": "文｜Lambda 编辑｜晓静 4月初，Hermes Agent 火了。这个名字直接让人联想到奢侈品牌爱马仕，所以也被戏称为“爱马仕Agent”。 它由 Nous Research 在 2 月发布，定位是「The agent that grows with you」。核心卖点是一个闭环学习系统：Agent 完成复杂任务后，自动把经验固化成 Skill，下次遇到类似任务直接复用，还能在使用过程中持续改进。Skill 自动生成、越用越强——这",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3761709375521288",
-        "title": "Claude新模型危险，鲍威尔召集华尔街紧急开会！全美安全股暴跌2万亿",
-        "url": "https://36kr.com/p/3761709375521288?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-11T01:25:41.000Z",
-        "summary": "【导读】刚刚，华尔街巨头被紧急召往华盛顿！Mythos这个模型让美国财长和美联储主席都恐慌了，向全美金融业CEO发出警告。短短一年内，SaaS市场经历了一场浩劫，2万亿美元直接蒸发。 就在这周二，鲍威尔和贝森特紧急召见华尔街，向所有人发出警告—— Anthropic的最新模型Mythos，可能对金融业造成重大风险！ 从蒸发2万亿美元，到紧急召集CEO进华盛顿——Anthropic的AI，正在触碰金融世界最敏感的神经。 就在今天，这个新闻",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ycwjmwtxqbepkdj7eopi",
-        "title": "Anthropic 因 npm 源映射文件意外泄露 Claude Code 源码",
-        "url": "https://www.infoq.cn/article/ycWjMWTxqBePkDj7eoPi?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-10T11:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
