@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T07:50:38.201Z",
+  "generatedAt": "2026-04-13T13:05:55.014Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/04/centerbase-launches-ai-powered-business-intelligence-tool-that-gives-firms-citation-backed-answers-from-their-own-data.html",
+        "title": "Centerbase Launches AI-Powered Business Intelligence Tool That Gives Firms Citation-Backed Answers from Their Own Data",
+        "url": "https://www.lawnext.com/2026/04/centerbase-launches-ai-powered-business-intelligence-tool-that-gives-firms-citation-backed-answers-from-their-own-data.html",
+        "source": "LawSites",
+        "publishedAt": "2026-04-13T13:00:45.000Z",
+        "summary": "While much of the AI development in legal tech focuses on the practice of law — research, drafting, document review and the like — Centerbase, the practice management platform for midsized law firms, is releasing a new A",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/13/law-punx-big-law-is-like-a-movie-theatre",
+        "title": "Law Punx: Big Law Is Like A Movie Theatre",
+        "url": "https://www.artificiallawyer.com/2026/04/13/law-punx-big-law-is-like-a-movie-theatre/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-13T08:19:25.000Z",
+        "summary": "Big Law is like a movie theatre, you come for the legal ‘stars’, but end up paying for the associate ‘popcorn’ – this is the ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/13/orbital-launches-its-own-real-estate-law-firm",
         "title": "Orbital Launches Its Own Real Estate Law Firm",
@@ -24,6 +44,16 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-13T06:46:52.000Z",
         "summary": "Legal tech funding continues to remain strong, with Q1 2026 data from Legal Complex showing that $2.34 billion was raised across 103 deals. However, Relativity, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/cloudflare-openai-agent-cloud",
+        "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+        "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+        "source": "OpenAI News",
+        "publishedAt": "2026-04-13T06:00:00.000Z",
+        "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
         "category": "updates",
         "region": "na"
       },
@@ -214,16 +244,6 @@
         "source": "LawSites",
         "publishedAt": "2026-04-08T14:41:18.000Z",
         "summary": "It is estimated that more than 75 percent of civil litigants in U.S. state courts have no legal representation. In eviction proceedings, the figure exceeds 90 percent. For decades, the primary response to this explosion ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams",
-        "title": "Webinar: Eudia + ServiceNow: The 10x Future of Inhouse Legal Teams",
-        "url": "https://www.artificiallawyer.com/2026/04/08/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-08T12:04:38.000Z",
-        "summary": "On April 22, 12 noon EST, 9AM PST, and 5PM GMT, Artificial Lawyer is partnering with Eudia and ServiceNow where we will explore: ‘Self-Service Legal: Eudia, ...",
         "category": "updates",
         "region": "na"
       },
@@ -1168,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2025/12/guest-post-the-promise-of-ai-in-legal-has-landed-but-not-in-the-way-people-thought-it-would.html",
-        "title": "Guest Post: The Promise of AI in Legal Has Landed, But Not in the Way People Thought It Would",
-        "url": "https://www.lawnext.com/2025/12/guest-post-the-promise-of-ai-in-legal-has-landed-but-not-in-the-way-people-thought-it-would.html",
-        "source": "LawSites",
-        "publishedAt": "2025-12-22T15:46:17.000Z",
-        "summary": "Augment or empower? The new split in AI for legal. There are still no “AI lawyers,” no bots running matters end to end or standing up in court. What we’re seeing instead is far more interesting: hundreds of focused solut",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1196,46 +1206,66 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/c2fwkh2egbldpnunlczx",
-        "title": "OpenAI 不想写 spec 了：Codex 只留 10 条要点，把执行交给 skills",
-        "url": "https://www.infoq.cn/article/C2fWkH2EgBlDPNUNlcZX?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/lamhjxwuoplvskaf8wcv",
+        "title": "不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
+        "url": "https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-13T15:43:50.000Z",
+        "publishedAt": "2026-04-13T18:48:30.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/71xffmtwwdmihtqjozed",
-        "title": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
-        "url": "https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/xv0osbvhjlt34yzwkc3j",
+        "title": "“同事.skill”不用写了，爱马仕 Hermes 主动“蒸馏”你，还让开发者集体抛弃 “龙虾”？！",
+        "url": "https://www.infoq.cn/article/Xv0OsbvHjLT34YzWKc3J?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-13T15:00:00.000Z",
+        "publishedAt": "2026-04-13T18:43:56.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/y8lhxfcpi7jock5mspsd",
-        "title": "谷歌推出AppFunctions连接AI智能体和Android应用",
-        "url": "https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/f88ml5vdjkc4dkreyami",
+        "title": "Claude 吞噬一切？“Vibe Coding 公司的最大错觉是以为自己有护城河”",
+        "url": "https://www.infoq.cn/article/F88ML5vdJkc4dkreyamI?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-13T14:00:00.000Z",
+        "publishedAt": "2026-04-13T18:03:01.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3765160904917506",
+        "title": "首都在线：拟定增募资不超15.87亿元，用于智算中心建设等项目",
+        "url": "https://36kr.com/newsflashes/3765160904917506?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T11:41:38.000Z",
+        "summary": "36氪获悉，首都在线公告，公司拟向特定对象发行股票募资不超过15.87亿元，用于京北云计算软件研发中心项目—算力中心（二期）、首都在线智算中心建设项目、首都在线天枢智算云研发项目、偿还银行借款。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3765179948548609",
+        "title": "与字节跳动就“豆包手机”接洽合作？荣耀回应：不属实",
+        "url": "https://36kr.com/newsflashes/3765179948548609?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T11:39:06.000Z",
+        "summary": "有市场消息称，荣耀正与字节跳动就“豆包手机”相关合作展开接洽。对此，荣耀回应称，经内部确认，相关传闻并不属实。（上证报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3765146768376326",
+        "title": "氪星晚报｜“马斯克版微信”或在本周五上线；Meta押注AI数字人，正打造AI版扎克伯格；AI潮玩品牌“MOMOTOY”完成数千万元融资",
+        "url": "https://36kr.com/p/3765146768376326?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T11:09:12.000Z",
+        "summary": "大公司： 金山办公：一季度净利同比预增402%-473% 36氪获悉，金山办公公告，预计2026年第一季度实现归属于上市公司股东的净利润20.22亿元-23.07亿元，同比增长401.89%-472.81%。 沪电股份：一季度净利同比预增54.76%-65.25% 36氪获悉，沪电股份公告，预计2026年第一季度归属于上市公司股东的净利润为11.8亿元-12.6亿元，比上年同期增长54.76%-65.25%。 Meta押注AI数字人，正",
         "category": "updates",
         "region": "cn"
       },
@@ -1260,52 +1290,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3764938383262210",
-        "title": "Meta押注AI数字人，正打造AI版扎克伯格",
-        "url": "https://36kr.com/newsflashes/3764938383262210?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T07:45:16.000Z",
-        "summary": "Meta正在打造人工智能版马克・扎克伯格，可代他与员工互动，这是这家科技巨头全面向AI转型的重要举措之一。据四位知情人士透露，这家市值1.6万亿美元的集团一直在研发照片级逼真、可实时交互的AI 3D数字人。其中三位人士称，公司近期已将AI版扎克伯格列为优先项目。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3764937313239557",
-        "title": "奥克股份等在江苏成立新公司，含AI相关业务",
-        "url": "https://36kr.com/newsflashes/3764937313239557?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T07:40:14.000Z",
-        "summary": "36氪获悉，爱企查App显示，近日，江苏极拓奥克能源科技有限公司成立，法定代表人为冯博，注册资本1400万元人民币，经营范围包括计算机软硬件及辅助设备批发、工业自动控制系统装置销售、工业互联网数据服务、人工智能应用软件开发等。股东信息显示，该公司由辽宁奥克化学股份有限公司等共同持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3764936574239488",
-        "title": "WPS 365发布东南亚三大生态战略",
-        "url": "https://36kr.com/newsflashes/3764936574239488?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T07:31:32.000Z",
-        "summary": "36氪获悉，近日，WPS 365亮相新加坡GITEX ASIA 2026，展示了其作为全球一站式AI协同办公平台的解决方案。目前，WPS 365在东南亚正加速推进三大生态战略：搭建本地渠道网络、深化与全球云厂商融合、为企业提供定制化数字化支持。WPS 365已与华为云、亚马逊云科技（AWS）、谷歌云（Google Cloud）达成战略合作，将应用能力与基础设施深度融合，提供更适配本地算力环境与监管框架的解决方案。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3764892434711049",
         "title": "这届留学生，用AI看病省出一辆特斯拉",
         "url": "https://36kr.com/p/3764892434711049?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-13T06:50:56.000Z",
         "summary": "01. 用AI硬扛20天，省出一辆特斯拉 回国做完四颗牙的根管治疗后，英国留学生土土盯着一万多的账单算了算， 发现自己回国这一趟，竟然省下了一辆二手“特斯拉”。 就在20天前，土土的牙痛又犯了，连吃饭都变成了一种酷刑。他迫切需要找点缓解的办法，但脑海里闪过之前在国外的看牙经历—— 之前一次，同样是牙疼，土土挂了当地的一家私人医院的牙医号。一套检查下来，医生给出的治疗方案是根管治疗，要先磨牙、清洗，价格1900磅，还要做牙冠，1500磅，",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3764864965755401",
-        "title": "中国16家科技社团联合倡议共促全球人工智能治理",
-        "url": "https://36kr.com/newsflashes/3764864965755401?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T06:18:41.000Z",
-        "summary": "中国科协所属中国自动化学会、中国电子学会、中国计算机学会、中国人工智能学会等16家科技社团4月13日共同发布《全球人工智能治理科技社团倡议》，倡导以人为本、智能向善，推动建立开放、公正、包容、有效的全球人工智能治理体系。倡议提出，以增进人类共同福祉为人工智能学术研究的根本遵循；将安全作为人工智能学术研究与治理的底线要求；尊重各国平等参与人工智能研究与治理的权利，反对技术霸权、学术壁垒、排他性“小圈子”及不合理技术垄断；引导公众正确认知技",
         "category": "updates",
         "region": "cn"
       },
@@ -1340,26 +1330,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3757975636050695",
-        "title": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
-        "url": "https://36kr.com/p/3757975636050695?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T00:30:00.000Z",
-        "summary": "文｜胡香赟 编辑｜海若镜 “医疗健康产业正在经历它们的chatGPT时刻。”3月结束2026GTC大会上，黄仁勋再次提及AI落地新药开发场景，正带来巨大机会。 近日，据外媒报道百图生科、华深智药已启动IPO进程；中国创新药产业链上，拿到阶段性结果的“AI原生公司”受到资本青睐。其中，AI临床研发服务公司深度智耀的融资节奏更引关注。 去年12月至今年3月，这家公司接连官宣3笔D轮系列融资，累计募资接近2亿美元。 据了解，当前深度智耀估值已",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3764503979328001",
-        "title": "8点1氪丨海底捞通报员工被强制自费买礼物；王石否认被抓；何超蕸去世，信德集团官网已变黑白",
-        "url": "https://36kr.com/p/3764503979328001?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T00:13:48.000Z",
-        "summary": "今日热点导览 特朗普政府将打击赴美生子 闪迪股价1年暴涨2500%，华尔街分析师强烈看涨闪迪 蜜雪冰城南美首店开业价格曝光：柠檬水8元人民币一杯 欧盟航空燃油三周后或系统性短缺 YouTube近三年来首次在美国上调订阅价格 TOP3大新闻 海底捞通报员工被强制自费买礼物：已通知一千多家门店内部排查 近日，有消费者爆料称，海底捞门店赠送给顾客的玩具和礼物并非公司统一配发，而是由员工自掏腰包购买。 4月11日，海底捞火锅发布了关于“海底捞伙",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/4wnxlbiehgewrgnuwojc",
         "title": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
         "url": "https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc?utm_source=rss&utm_medium=article",
@@ -1371,6 +1341,26 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3349924/victory-giant-joins-ipo-push-chinas-circuit-board-makers-amid-ai-frenzy",
+        "title": "Victory Giant joins IPO push by China’s circuit-board makers amid AI frenzy",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3349924/victory-giant-joins-ipo-push-chinas-circuit-board-makers-amid-ai-frenzy?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-13T12:00:08.000Z",
+        "summary": "Printed circuit boards (PCBs) – unsung core components in all electronic devices – are emerging as the latest source of excitement in China’s chip supply chain, as domestic companies capitalise on surging global demand f",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3349871/common-ignorance-how-china-took-lead-global-efforts-govern-ais-future",
+        "title": "‘Common ignorance’: how China took the lead in global efforts to govern AI’s future",
+        "url": "https://www.scmp.com/tech/big-tech/article/3349871/common-ignorance-how-china-took-lead-global-efforts-govern-ais-future?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-13T11:00:12.000Z",
+        "summary": "Governments, industry and the public are in “common ignorance” about the present and future of artificial intelligence, making both international collaboration and coordination between industry and policymakers necessary",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3349552/alibabas-qwen-family-captures-over-50-global-open-source-downloads-report-finds",
         "title": "Alibaba’s Qwen family captures over 50% of global open-source downloads, report finds",
