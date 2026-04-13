@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T18:35:54.130Z",
+  "generatedAt": "2026-04-13T01:56:18.928Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,16 +7,6 @@
   },
   "panels": {
     "na": [
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/11/anthropic-targets-lawyers-with-claude-for-word",
-        "title": "Anthropic Targets Lawyers With Claude For Word",
-        "url": "https://www.artificiallawyer.com/2026/04/11/anthropic-targets-lawyers-with-claude-for-word/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-11T07:09:38.000Z",
-        "summary": "Anthropic has just released Claude for Word in Beta – in itself a major move, but even more significant is that the AI giant is ...",
-        "category": "updates",
-        "region": "na"
-      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/the&",
         "title": "The Burton Book Review: A discussion on &#8216;When You Come at the King&#8217;",
@@ -98,16 +88,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/10/more-ai-more-jobs-eudia-webinar-felix-legal-innovators",
-        "title": "More AI + More Jobs, Eudia Webinar, Felix, Legal Innovators +",
-        "url": "https://www.artificiallawyer.com/2026/04/10/more-ai-more-jobs-eudia-webinar-felix-legal-innovators/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-10T07:11:55.000Z",
-        "summary": "Let&#8217;s start this week&#8217;s Wrap with the fact that the largest legal market in the world – the US – is consistently adding more lawyer ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "ABA Journal:www.abajournal.com/news/article/barbri&",
         "title": "Bar exam prep group Barbri names new co-CEO",
         "url": "https://www.abajournal.com/news/article/barbri&#45;names&#45;lucie&#45;allen&#45;co&#45;ceo/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -138,56 +118,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/haast-raises-12m-for-ai-marketing-slop-compliance",
-        "title": "Haast Raises $12m For AI Marketing ‘Slop’ Compliance",
-        "url": "https://www.artificiallawyer.com/2026/04/09/haast-raises-12m-for-ai-marketing-slop-compliance/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-09T14:00:13.000Z",
-        "summary": "Haast, which uses AI to handle marketing content compliance – and increasingly to counter AI ‘slop’ produced with little forethought &#8211; has raised $12m in ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/newmod-norm-law-hires-ex-ropes-gray-partner-bill-mone",
-        "title": "NewMod Norm Law Hires Ex-Ropes &#038; Gray Partner Bill Mone",
-        "url": "https://www.artificiallawyer.com/2026/04/09/newmod-norm-law-hires-ex-ropes-gray-partner-bill-mone/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-09T13:47:37.000Z",
-        "summary": "NewMod Norm Law, the legal arm connected to Norm Ai, has hired Bill Mone as Head of Private Equity. He was most recently at US firm ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/uk-firm-rolls-out-august-across-multiple-business-functions",
-        "title": "UK Firm Rolls Out August Across Multiple Business Functions",
-        "url": "https://www.artificiallawyer.com/2026/04/09/uk-firm-rolls-out-august-across-multiple-business-functions/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-09T13:00:07.000Z",
-        "summary": "Legal AI platform August is now being used by UK law firm Harrison Drury, not just for legal matters, but across multiple business functions. The ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/will-claude-managed-agents-impact-legal-tech",
-        "title": "Will Claude Managed Agents Impact Legal Tech?",
-        "url": "https://www.artificiallawyer.com/2026/04/09/will-claude-managed-agents-impact-legal-tech/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-09T06:48:37.000Z",
-        "summary": "Anthropic has launched Claude Managed Agents, which provides ‘everything you need to build and deploy agents at scale’. Put simply, that means you can build ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/axioms-lawyers-on-demand-clients-get-harvey-access",
-        "title": "Axiom&#8217;s Lawyers On Demand + Clients Get Harvey Access",
-        "url": "https://www.artificiallawyer.com/2026/04/08/axioms-lawyers-on-demand-clients-get-harvey-access/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-08T16:24:39.000Z",
-        "summary": "Axiom, which pioneered the ALSP field and today has a potential total bench of 14,000 lawyers on demand – who work at ‘50% lower rates ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/04/courtroom5-launches-the-law-accelerator-a-structured-program-to-help-self-represented-litigants-navigate-civil-court.html",
         "title": "Courtroom5 Launches The LAW Accelerator, a Structured Program to Help Self-Represented Litigants Navigate Civil Court",
         "url": "https://www.lawnext.com/2026/04/courtroom5-launches-the-law-accelerator-a-structured-program-to-help-self-represented-litigants-navigate-civil-court.html",
@@ -195,26 +125,6 @@
         "publishedAt": "2026-04-08T14:41:18.000Z",
         "summary": "It is estimated that more than 75 percent of civil litigants in U.S. state courts have no legal representation. In eviction proceedings, the figure exceeds 90 percent. For decades, the primary response to this explosion ",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams",
-        "title": "Webinar: Eudia + ServiceNow: The 10x Future of Inhouse Legal Teams",
-        "url": "https://www.artificiallawyer.com/2026/04/08/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-08T12:04:38.000Z",
-        "summary": "On April 22, 12 noon EST, 9AM PST, and 5PM GMT, Artificial Lawyer is partnering with Eudia and ServiceNow where we will explore: ‘Self-Service Legal: Eudia, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/clio-rolls-out-agents-for-work-and-vincent",
-        "title": "Clio Rolls Out Agents For Work and Vincent",
-        "url": "https://www.artificiallawyer.com/2026/04/08/clio-rolls-out-agents-for-work-and-vincent/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-08T07:35:14.000Z",
-        "summary": "The agentic wave moving through legal tech is gathering pace and Clio has now rolled out agents for key parts of its platform, including Work ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -245,16 +155,6 @@
         "publishedAt": "2026-04-07T12:34:33.000Z",
         "summary": "Josef, the Australia-based legal automation platform, has launched a new capability it is calling the Rapid Ingestion Engine, which uses AI to convert unstructured business inputs — such as email threads, meeting notes a",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/07/harvey-drives-legal-agent-learning-via-harness-engineering",
-        "title": "Harvey Drives Legal Agent Learning Via ‘Harness Engineering’",
-        "url": "https://www.artificiallawyer.com/2026/04/07/harvey-drives-legal-agent-learning-via-harness-engineering/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-07T11:09:58.000Z",
-        "summary": "Harvey has set out how it performed a new experiment to improve legal agent performance, that used ‘harness engineering’ to get far better results. That ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,16 +1106,86 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3763627559780867",
-        "title": "星元晶算发布1nm芯片路线图",
-        "url": "https://36kr.com/newsflashes/3763627559780867?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3764556504138505",
+        "title": "UNICUS完成数百万美金新一轮融资",
+        "url": "https://36kr.com/newsflashes/3764556504138505?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-12T10:15:46.000Z",
-        "summary": "近日，星元晶算正式发布面向2030年的先进异构集成高能效算力1nm芯片技术路线图，远期目标锁定在2030年前后实现年产10太瓦（TW）级等效太空算力，通过二维材料本征的高能效比与先进封装结合，旨在以更小的物理规模实现等效10太瓦级的算力输出，在能量产出比上实现对传统硅基工厂的代际超越。其中规划将大部分算力部署于太空算力节点，通过天地协同链路为全球设备提供实时支持。",
+        "publishedAt": "2026-04-13T01:04:54.000Z",
+        "summary": "36氪获悉，个性化制造品牌UNICUS（原方仔照相馆，深圳千帜科技有限公司）于近日完成新一轮融资。融资金额达数百万美金。本轮由线性资本领投，九坤创投、天际资本跟投，元一资本担任独家财务顾问。公司创始团队及Maker赛道头部公司创始人以个人身份参与跟投。本轮资金将主要用于积木生成大模型训练、AI Agent的研发以及海外市场的拓展，持续构建“AI驱动的个性化制造”核心能力体系。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3763919765226240",
+        "title": "36氪首发｜港中文博士和前大疆智能制造负责人创业，要做AI时代的“个性化乐高”",
+        "url": "https://36kr.com/p/3763919765226240?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T01:00:26.000Z",
+        "summary": "作者 | 张子怡 编辑 | 袁斯来 36氪获悉，个性化制造品牌UNICUS（原方仔照相馆，深圳千帜科技有限公司）于近日完成新一轮融资。融资金额达数百万美金。本轮由线性资本领投，九坤创投、天际资本跟投，元一资本担任独家财务顾问。公司创始团队及Maker赛道头部公司创始人以个人身份参与跟投。 本轮资金将主要用于积木生成大模型训练、AI Agent的研发以及海外市场的拓展，持续构建“AI驱动的个性化制造”核心能力体系。 过去两年，生成式AI的",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3764549288444673",
+        "title": "荣耀与字节跳动接洽“豆包手机”合作",
+        "url": "https://36kr.com/newsflashes/3764549288444673?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T00:57:34.000Z",
+        "summary": "据媒体报道，从知情人士处获悉，荣耀正与字节跳动就“豆包手机”相关合作展开接洽。据上述知情人士透露，字节跳动在与中兴通讯合作推出第一代豆包手机之前，最先接触的手机厂商其实是荣耀。不过，荣耀当时对此态度较为谨慎，认为这类深度系统级合作存在一定风险：豆包手机作为探索性工程机，技术路线可以更为激进；而荣耀拥有亿级用户体量，一旦新服务在稳定性、兼容性或安全性上出现问题，极有可能引发大规模功能异常与用户投诉，相关风险难以兜底。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3757975636050695",
+        "title": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
+        "url": "https://36kr.com/p/3757975636050695?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T00:30:00.000Z",
+        "summary": "文｜胡香赟 编辑｜海若镜 “医疗健康产业正在经历它们的chatGPT时刻。”3月结束2026GTC大会上，黄仁勋再次提及AI落地新药开发场景，正带来巨大机会。 近日，据外媒报道百图生科、华深智药已启动IPO进程；中国创新药产业链上，拿到阶段性结果的“AI原生公司”受到资本青睐。其中，AI临床研发服务公司深度智耀的融资节奏更引关注。 去年12月至今年3月，这家公司接连官宣3笔D轮系列融资，累计募资接近2亿美元。 据了解，当前深度智耀估值已",
+        "category": "articles",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3764503979328001",
+        "title": "8点1氪丨海底捞通报员工被强制自费买礼物；王石否认被抓；何超蕸去世，信德集团官网已变黑白",
+        "url": "https://36kr.com/p/3764503979328001?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-13T00:13:48.000Z",
+        "summary": "今日热点导览 特朗普政府将打击赴美生子 闪迪股价1年暴涨2500%，华尔街分析师强烈看涨闪迪 蜜雪冰城南美首店开业价格曝光：柠檬水8元人民币一杯 欧盟航空燃油三周后或系统性短缺 YouTube近三年来首次在美国上调订阅价格 TOP3大新闻 海底捞通报员工被强制自费买礼物：已通知一千多家门店内部排查 近日，有消费者爆料称，海底捞门店赠送给顾客的玩具和礼物并非公司统一配发，而是由员工自掏腰包购买。 4月11日，海底捞火锅发布了关于“海底捞伙",
         "category": "updates",
         "region": "cn"
       },
@@ -1226,36 +1196,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-12T10:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3763547677590018",
-        "title": "元戎启行CEO周光：解决小模型的“跷跷板效应”，必须转向大模型范式",
-        "url": "https://36kr.com/newsflashes/3763547677590018?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-12T07:58:40.000Z",
-        "summary": "4月12日，在智能电动汽车发展高层论坛上，元戎启行CEO周光提到，2025年，城区NOA用户黏性大概是在20%-30%区间，城区NOA渗透率仅15%左右。 周光认为，这背后最本质的原因在于：今天量产的小模型智驾参数量非常小，多数在1B以下，甚至0.1B以下，运行算力典型在100-200 TOPS。要解决小模型的“跷跷板效应”，必须从小模型范式转向大模型范式，用Scaling的方式系统性提升能力。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3763344613638662",
-        "title": "日本3月机床订单额增长28% 海外订单增40%",
-        "url": "https://36kr.com/newsflashes/3763344613638662?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-12T06:30:58.000Z",
-        "summary": "日本工作机械工业会4月9日发布的数据显示，3月机床订单额达1935亿日元，同比增长28%。已连续9个月实现同比增长。尽管市场担忧3月中东局势恶化会对设备投资造成影响，但据日工会负责人介绍，3月订单额创下历史新高。海外订单大幅增长40%至1430亿日元。在汽车、人工智能（AI）等广泛领域取得了订单。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3763278385349122",
-        "title": "长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上",
-        "url": "https://36kr.com/newsflashes/3763278385349122?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-12T05:15:35.000Z",
-        "summary": "长城汽车智能化产品副总经理佘士东在智能电动汽车高层发展论坛上表示，当前智能座舱界面高度同质化，200多款车型的交互界面相似度达95%以上，行业陷入“无米下锅”的创新瓶颈。而大模型上车带来了破局机遇，行业正逐步从“人机交互”迈向“人-智-体”三方服务时代。",
         "category": "updates",
         "region": "cn"
       },
@@ -1286,36 +1226,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-11T01:25:41.000Z",
         "summary": "【导读】刚刚，华尔街巨头被紧急召往华盛顿！Mythos这个模型让美国财长和美联储主席都恐慌了，向全美金融业CEO发出警告。短短一年内，SaaS市场经历了一场浩劫，2万亿美元直接蒸发。 就在这周二，鲍威尔和贝森特紧急召见华尔街，向所有人发出警告—— Anthropic的最新模型Mythos，可能对金融业造成重大风险！ 从蒸发2万亿美元，到紧急召集CEO进华盛顿——Anthropic的AI，正在触碰金融世界最敏感的神经。 就在今天，这个新闻",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3761739153081096",
-        "title": "36氪首发 | 打破日本工业镜头垄断，松山湖团队融资数千万",
-        "url": "https://36kr.com/p/3761739153081096?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-11T01:19:19.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业镜头研发商——阿基视觉科技（东莞）有限公司（下称“阿基视觉”）近日完成数千万元天使轮融资，由东莞科创、深担创投、松禾资本及林润集团联合投资，德太资本担任本轮融资顾问。本轮融资将用于团队扩充、产能扩建、研发配套及市场拓展，加速高端工业镜头的国产化替代进程。 阿基视觉成立于2022年，总部位于东莞松山湖。2025年，CEO吴选胜加入阿基视觉，吴选胜曾任日本工业镜头龙头Moritex中国区董事长兼总",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3761737030894342",
-        "title": "36氪首发 | 深大教授AI芯片项目再融资近亿，主动式散热微系统服务传音",
-        "url": "https://36kr.com/p/3761737030894342?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-11T01:17:03.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，深圳锐盟半导体有限公司（下称“锐盟半导体”）近日完成近亿元A轮融资，由松禾资本领投，中风投-华融盛资本、深圳天使母基金、四海新材及上市公司飞荣达跟投。本轮融资将主要用于核心产品压电主动式散热微系统核心技术迭代、量产示范线建设及头部客户导入等，加快消费电子、AI 终端、高性能计算等领域的批量交付。 锐盟半导体成立于2020年底，聚焦AI芯片主动式散热微系统产品。公司创始人&CEO黎冰是香港中文大学博士、",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3761718611624707",
-        "title": "9点1氪｜7家涉火车票销售第三方平台被约谈；45秒500万，张雪直播间拍卖冠军复刻赛车“光速”成交；亚马逊辟谣5月将裁员1.4万",
-        "url": "https://36kr.com/p/3761718611624707?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-11T01:02:01.000Z",
-        "summary": "今日热点导览 香港最严控烟令来了，携带电子烟上街就罚3000港元，游客也不会豁免 小米食堂推出小米冰激凌 微信3月更新9项功能，微信、企微支持连接自己的龙虾 SpaceX去年因AI投入亏损近50亿美元 保时捷在华销量再降20%，较三年前缩水6成 《OpenClaw类智能体部署风险管理指南》正式发布 TOP3大新闻 7家涉火车票销售业务的第三方平台被约谈 据网信中国公众号，近日，依据《网络安全法》《关键信息基础设施安全保护条例》有关规定，",
         "category": "updates",
         "region": "cn"
       },
