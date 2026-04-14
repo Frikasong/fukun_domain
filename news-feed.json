@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T19:04:23.692Z",
+  "generatedAt": "2026-04-14T01:51:20.670Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -84,16 +84,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-13T06:46:52.000Z",
         "summary": "Legal tech funding continues to remain strong, with Q1 2026 data from Legal Complex showing that $2.34 billion was raised across 103 deals. However, Relativity, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/cloudflare-openai-agent-cloud",
-        "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-        "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-        "source": "OpenAI News",
-        "publishedAt": "2026-04-13T06:00:00.000Z",
-        "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
         "category": "updates",
         "region": "na"
       },
@@ -1206,9 +1196,79 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/daldai3oqckdbba1nh1r",
+        "title": "实测腾讯云 AndonQ：号称比肩原厂技术专家的 “领域虾”，到底有多能打？",
+        "url": "https://www.infoq.cn/article/dALdAi3OqCkdbba1Nh1r?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-14T09:30:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3765986197684736",
+        "title": "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别",
+        "url": "https://36kr.com/p/3765986197684736?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-14T01:20:20.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 近期，深圳远见智存科技有限公司发布其HBM3/3e高带宽存储芯片产品，提供12GB与24GB两种容量规格，带宽达819GB/s，对标JEDEC国际标准体系。 远见智存HBM3/3e产品规格（图源/企业） HBM（High Bandwidth Memory，高带宽存储）被视为当前AI算力体系中的关键组件之一。在大模型规模持续扩大、训练与推理负载提升的背景下，算力芯片与内存带宽之间的瓶颈问题愈发突出，业内",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3764953900990977",
+        "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
+        "url": "https://36kr.com/p/3764953900990977?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-14T01:10:00.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 如果你想找庞伯特创始人张海波，大概率得去公司附近的各种球场。 张海波早把自己训练成了各种球类的高手。 2025年10月，公司网球场刚建成不久，他就拎着自家的发球机器人，从零开始学球。见到张海波时，他告诉硬氪，经过半年训练，现在已经打到了NTRP 3.0——相当于普通用户通常要练一两年才能达到的进阶水平。他没请私教，也没有陪练，唯一的老师，就是那台被自己反复击打的发球机器人。 张海波很早就精通乒乓球，他是国内最早",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3765974437675521",
+        "title": "联邦快递CFO将于货运业务分拆后卸任",
+        "url": "https://36kr.com/newsflashes/3765974437675521?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-14T01:07:18.000Z",
+        "summary": "联邦快递当地时间4月13日宣布，在联邦快递货运业务成功分拆并独立成为一家新的上市公司之后，John Dietrich将于6月1日卸任执行副总裁兼首席财务官一职，他将留任公司直至7月31日。自6月1日起，联邦快递企业财务副总裁Claude Russ将出任临时首席财务官；在此期间，公司将全面开展内部及外部搜寻工作，以物色继任人选。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3765944288150281",
+        "title": "对标OpenClaw，微软拟为Copilot开发新功能",
+        "url": "https://36kr.com/newsflashes/3765944288150281?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-14T00:36:38.000Z",
+        "summary": "据报道，微软正为其AI助手Copilot开发一系列新功能，旨在使其更接近OpenClaw。微软表示，公司目前正“在企业应用场景下，探索OpenClaw等技术的潜力”。这些新特性包括在Microsoft 365应用程序内部引入一支“始终在线”的智能代理团队。（界面）",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3765932138103554",
+        "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
+        "url": "https://36kr.com/p/3765932138103554?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-14T00:26:45.000Z",
+        "summary": "今日热点导览 张雪回应机车新手禁令 西班牙首相桑切斯参观小米科技园 中央网信办：加强网络直播打赏规范管理 小红书跨境电商平台Redshop将于今年6月正式上线 A股景气度投资或回归主线 TOP3大新闻 “马斯克版微信”或在4月17日上线 美国当地时间4月11日，X平台宣布旗下独立社交应用XChat将于4月17日正式登陆App Store。这款被外界视为“西方版微信”的应用，主打端到端加密、无广告及无追踪，旨在构建集聊天、支付、AI于一体",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/f88ml5vdjkc4dkreyami",
         "title": "Claude 吞噬一切？“Vibe Coding 公司的最大错觉是以为自己有护城河”",
@@ -1216,36 +1276,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-13T18:03:01.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3765331768967686",
-        "title": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
-        "url": "https://36kr.com/p/3765331768967686?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T15:56:59.000Z",
-        "summary": "4月13日，荣耀正式发布自研终端侧“龙虾”AI智能体YOYO Claw，并宣布其将首发搭载于被称作“养虾本”的荣耀MagicBook系列轻薄本中。 此前，荣耀曾在Magic V6旗舰新品发布会宣布要带来龙虾宇宙，支持YOYO控虾、生态养虾、安全养虾三大能力。 YOYO Claw，是荣耀龙虾宇宙的第一步。YOYO Claw于3月27日开启封测，用户可以选择不同设备，在PC端、Pad端进行接入使用。 不过，这次荣耀直接把YOYO Claw封",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3765160904917506",
-        "title": "首都在线：拟定增募资不超15.87亿元，用于智算中心建设等项目",
-        "url": "https://36kr.com/newsflashes/3765160904917506?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T11:41:38.000Z",
-        "summary": "36氪获悉，首都在线公告，公司拟向特定对象发行股票募资不超过15.87亿元，用于京北云计算软件研发中心项目—算力中心（二期）、首都在线智算中心建设项目、首都在线天枢智算云研发项目、偿还银行借款。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3765179948548609",
-        "title": "与字节跳动就“豆包手机”接洽合作？荣耀回应：不属实",
-        "url": "https://36kr.com/newsflashes/3765179948548609?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T11:39:06.000Z",
-        "summary": "有市场消息称，荣耀正与字节跳动就“豆包手机”相关合作展开接洽。对此，荣耀回应称，经内部确认，相关传闻并不属实。（上证报）",
         "category": "updates",
         "region": "cn"
       },
@@ -1287,26 +1317,6 @@
         "publishedAt": "2026-04-13T06:50:56.000Z",
         "summary": "01. 用AI硬扛20天，省出一辆特斯拉 回国做完四颗牙的根管治疗后，英国留学生土土盯着一万多的账单算了算， 发现自己回国这一趟，竟然省下了一辆二手“特斯拉”。 就在20天前，土土的牙痛又犯了，连吃饭都变成了一种酷刑。他迫切需要找点缓解的办法，但脑海里闪过之前在国外的看牙经历—— 之前一次，同样是牙疼，土土挂了当地的一家私人医院的牙医号。一套检查下来，医生给出的治疗方案是根管治疗，要先磨牙、清洗，价格1900磅，还要做牙冠，1500磅，",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3764777930621705",
-        "title": "早期项目 | 前��疆工程师创业陪伴机器人，李泽湘连投三轮，产品即将登陆众筹",
-        "url": "https://36kr.com/p/3764777930621705?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T04:53:44.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 陪伴机器人走向同质化的当下，什么样的产品能吸引人？ 今年年初的CES 2026上，一款身着橙色连体衣的小型机器人COCOMO，意外成为外媒镜头频频捕捉的对象。 略带“异质感”的外星宠物气质，37度接近人体的温度，创新的分体式设计既可被抱起，又能主动跟随，吸引了不少现场观众在展台前试玩体验。 同一展台上，团队还带来了另一款更轻量的桌面陪伴机器人INU。INU被定义为一款“桌面外星小狗”，通过尾巴摇摆和身",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3764728843289089",
-        "title": "创业老炮vs00后，谁是下一代“一人公司”的标准样板",
-        "url": "https://36kr.com/p/3764728843289089?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T04:06:46.000Z",
-        "summary": "文｜富充 编辑｜苏建勋 2026年春天，“龙虾”火热异常，也直接带火了另一个概念：OPC（One Person Company，一人公司）。 一人公司的概念最早源于2013年英国公司法，原指法律意义上的“一人有限责任公司”。在AI浪潮下，它被重新定义，演变为一种个人或极小型团队，借助AI工具，即可实现全链路闭环的新型创业模式。 越来越多的商业领袖为OPC概念站台。周鸿祎说，一人公司是 AI 时代“超级个体”的极端形态。本质是 1个人指挥",
-        "category": "tools",
         "region": "cn"
       },
       {
