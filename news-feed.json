@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T01:51:20.670Z",
+  "generatedAt": "2026-04-14T07:20:22.570Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/14/context-is-not-a-feature-it-is-the-system",
+        "title": "Context Is Not A Feature, It Is The System",
+        "url": "https://www.artificiallawyer.com/2026/04/14/context-is-not-a-feature-it-is-the-system/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-14T06:42:54.000Z",
+        "summary": "By Alex Zilberman, CEO, Chamelio. When people talk about AI in legal, they often talk about ‘context’ as though it is a simple ingredient. Add ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/158&",
         "title": "158-year-old home distilling ban is unconstitutional, federal appeals court rules",
@@ -214,16 +224,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-09T06:48:37.000Z",
         "summary": "Anthropic has launched Claude Managed Agents, which provides ‘everything you need to build and deploy agents at scale’. Put simply, that means you can build ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/08/axioms-lawyers-on-demand-clients-get-harvey-access",
-        "title": "Axiom&#8217;s Lawyers On Demand + Clients Get Harvey Access",
-        "url": "https://www.artificiallawyer.com/2026/04/08/axioms-lawyers-on-demand-clients-get-harvey-access/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-08T16:24:39.000Z",
-        "summary": "Axiom, which pioneered the ALSP field and today has a potential total bench of 14,000 lawyers on demand – who work at ‘50% lower rates ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,12 +1210,102 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/daldai3oqckdbba1nh1r",
-        "title": "实测腾讯云 AndonQ：号称比肩原厂技术专家的 “领域虾”，到底有多能打？",
-        "url": "https://www.infoq.cn/article/dALdAi3OqCkdbba1Nh1r?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/l15t21z0dk1hqmxuqdmk",
+        "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
+        "url": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-14T09:30:00.000Z",
+        "publishedAt": "2026-04-14T14:58:12.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/4x5ktgc6dupruyc3ovwb",
+        "title": "TDSQL-C 全球数据库的容灾切换与发展方向 | 腾讯云数据库 DBTalk",
+        "url": "https://www.infoq.cn/video/4x5kTGc6DUpRuYc3oVwB?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-14T14:42:11.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zkmvetm0grgqnocxtqit",
+        "title": "CNCF 与 Kusari 合作，共同加强云原生项目的软件供应链安全",
+        "url": "https://www.infoq.cn/article/ZkMveTm0GrGqNOCxTQit?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-14T13:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/ls3kieqaqy58qvsp1cxd",
+        "title": "TDSQL-C AI 查询优化器：LLM 重塑 SQL 调优与计划管理 | 腾讯云数据库 DBTalk",
+        "url": "https://www.infoq.cn/video/Ls3KiEqAqY58Qvsp1cXD?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-14T11:15:16.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/1ccwysmxxzh7jyu5mphm",
+        "title": "Serverless 智能弹性与 AI 驱动的云原生数据库平台 | 腾讯云数据库 DBTalk",
+        "url": "https://www.infoq.cn/video/1CcwySmxXzh7JYU5mphM?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-14T10:22:17.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3766301331554821",
+        "title": "韩3月ICT出口额超435亿美元创新高",
+        "url": "https://36kr.com/newsflashes/3766301331554821?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-14T06:39:50.000Z",
+        "summary": "受人工智能（AI）热潮及半导体市场景气带动，韩国3月信息通信技术（ICT）产品出口额突破400亿美元，创下历史新高。韩国科学技术信息通信部14日发布的数据显示，3月ICT出口额为435.1亿美元，同比大增112%。ICT出口额连续14个月保持增长，也创下历史新高，在国家出口总额（861.3亿美元）中占比也高达50.5%。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3766291549405705",
+        "title": "Seedance 2.0全面开放API服务",
+        "url": "https://36kr.com/newsflashes/3766291549405705?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-14T06:29:53.000Z",
+        "summary": "36氪获悉，火山引擎正式上线Seedance 2.0系列API服务。据介绍，Seedance 2.0支持文字、图片、音频、视频四种模态输入。火山引擎为Seedance 2.0建立了肖像与版权安全标准，覆盖视频生成涉及的各种模态和创作前后的全部流程。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3766269385818625",
+        "title": "诺和诺德宣布与OpenAI建立战略合作伙伴关系",
+        "url": "https://36kr.com/newsflashes/3766269385818625?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-14T06:07:20.000Z",
+        "summary": "诺和诺德4月14日宣布与OpenAI建立战略合作伙伴关系，此次合作将运用先进的人工智能能力，对复杂数据集进行分析，筛选具有潜力的候选药物，并缩短从基础研究到惠及患者所需的周期。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3766231859102470",
+        "title": "联想助力理想汽车打造的PPAP文档审核智能体正式发布",
+        "url": "https://36kr.com/newsflashes/3766231859102470?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-14T05:29:09.000Z",
+        "summary": "36氪获悉，近日，联想助力理想汽车打造的行业首个PPAP文档审核智能体正式发布。基于联想ThinkStation PGX AI工作站，该智能体实现了PPAP文档审核效率质的飞跃。ThinkStation PGX基于NVIDIA GB10 Grace Blackwell超级芯片打造，具备1 PetaFLOP（每秒1千万亿次浮点计算）算力与128GB统一内存，能在本地实时运行理想自研的27B大模型，同时支撑多个智能体并行推理。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3766204472623624",
+        "title": "韩国3月ICT出口额达435亿美元，同比增长逾一倍",
+        "url": "https://36kr.com/newsflashes/3766204472623624?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-14T05:01:18.000Z",
+        "summary": "韩国政府周二公布的数据显示，随着全球人工智能（AI）热潮推动半导体需求强劲增长，韩国3月份信息通信技术（ICT）产品出口额较上年同期增长超过一倍。根据韩国科技信息通信部的数据，上月韩国ICT产品出口额达到435.1亿美元，高于去年同期的205.2亿美元，创历史同月最高。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1237,26 +1327,6 @@
         "publishedAt": "2026-04-14T01:10:00.000Z",
         "summary": "作者｜黄楠 编辑｜袁斯来 如果你想找庞伯特创始人张海波，大概率得去公司附近的各种球场。 张海波早把自己训练成了各种球类的高手。 2025年10月，公司网球场刚建成不久，他就拎着自家的发球机器人，从零开始学球。见到张海波时，他告诉硬氪，经过半年训练，现在已经打到了NTRP 3.0——相当于普通用户通常要练一两年才能达到的进阶水平。他没请私教，也没有陪练，唯一的老师，就是那台被自己反复击打的发球机器人。 张海波很早就精通乒乓球，他是国内最早",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3765974437675521",
-        "title": "联邦快递CFO将于货运业务分拆后卸任",
-        "url": "https://36kr.com/newsflashes/3765974437675521?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-14T01:07:18.000Z",
-        "summary": "联邦快递当地时间4月13日宣布，在联邦快递货运业务成功分拆并独立成为一家新的上市公司之后，John Dietrich将于6月1日卸任执行副总裁兼首席财务官一职，他将留任公司直至7月31日。自6月1日起，联邦快递企业财务副总裁Claude Russ将出任临时首席财务官；在此期间，公司将全面开展内部及外部搜寻工作，以物色继任人选。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3765944288150281",
-        "title": "对标OpenClaw，微软拟为Copilot开发新功能",
-        "url": "https://36kr.com/newsflashes/3765944288150281?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-14T00:36:38.000Z",
-        "summary": "据报道，微软正为其AI助手Copilot开发一系列新功能，旨在使其更接近OpenClaw。微软表示，公司目前正“在企业应用场景下，探索OpenClaw等技术的潜力”。这些新特性包括在Microsoft 365应用程序内部引入一支“始终在线”的智能代理团队。（界面）",
-        "category": "tools",
         "region": "cn"
       },
       {
@@ -1290,26 +1360,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/pp8vucpujenbkwr169ec",
-        "title": "曝京东全面拦截员工使用外部 AI；红帽裁撤中国区研发团队迁至印度，最高赔偿 N+6；传梁文峰内部发声：DeepSeek V4 本月下旬发布 | AI周报",
-        "url": "https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-13T10:25:17.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fa7cwrtsjmi63gfihfdx",
-        "title": "Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描",
-        "url": "https://www.infoq.cn/article/FA7cwRtSJMI63GFiHFDX?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-13T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3764892434711049",
         "title": "这届留学生，用AI看病省出一辆特斯拉",
         "url": "https://36kr.com/p/3764892434711049?f=rss",
@@ -1318,19 +1368,19 @@
         "summary": "01. 用AI硬扛20天，省出一辆特斯拉 回国做完四颗牙的根管治疗后，英国留学生土土盯着一万多的账单算了算， 发现自己回国这一趟，竟然省下了一辆二手“特斯拉”。 就在20天前，土土的牙痛又犯了，连吃饭都变成了一种酷刑。他迫切需要找点缓解的办法，但脑海里闪过之前在国外的看牙经历—— 之前一次，同样是牙疼，土土挂了当地的一家私人医院的牙医号。一套检查下来，医生给出的治疗方案是根管治疗，要先磨牙、清洗，价格1900磅，还要做牙冠，1500磅，",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/4wnxlbiehgewrgnuwojc",
-        "title": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
-        "url": "https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-12T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3350010/china-quietly-profits-us-ai-boom-despite-washingtons-tech-curbs-research",
+        "title": "China quietly profits from US AI boom despite Washington’s tech curbs: research",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3350010/china-quietly-profits-us-ai-boom-despite-washingtons-tech-curbs-research?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-14T07:00:08.000Z",
+        "summary": "China is gaining from America’s trillion-dollar artificial intelligence spending spree despite Washington’s efforts to curb Chinese technology ties, as the US data centre boom ripples through Asian technology supply chai",
+        "category": "articles",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3349552/alibabas-qwen-family-captures-over-50-global-open-source-downloads-report-finds",
         "title": "Alibaba’s Qwen family captures over 50% of global open-source downloads, report finds",
