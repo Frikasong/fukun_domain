@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T13:07:25.388Z",
+  "generatedAt": "2026-04-14T19:01:15.619Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/kennedy&",
+        "title": "Kennedy Center general counsel denies allegations he tried to book his band at site",
+        "url": "https://www.abajournal.com/news/article/kennedy&#45;center&#45;gc&#45;denies&#45;allegations&#45;he&#45;tried&#45;to&#45;book&#45;his&#45;band&#45;at&#45;the&#45;site/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-14T18:55:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/washington&",
+        "title": "Pro tem judge ousted for creating fake parking document using court seal",
+        "url": "https://www.abajournal.com/news/article/washington&#45;pro&#45;tem&#45;judge&#45;removed&#45;for&#45;creating&#45;fake&#45;parking&#45;document&#45;using&#45;court&#45;stamps/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-14T17:48:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/jury&",
+        "title": "Jury finds for DLA Piper in pregnancy discrimination case",
+        "url": "https://www.abajournal.com/news/article/jury&#45;finds&#45;for&#45;dla&#45;piper&#45;in&#45;lawsuit&#45;alleging&#45;discrimination&#45;against&#45;pregnant&#45;associate/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-14T15:11:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/majority&",
+        "title": "Majority of Americans find justice system unfair, new survey says",
+        "url": "https://www.abajournal.com/news/article/majority&#45;of&#45;americans&#45;find&#45;justice&#45;system&#45;unfair&#45;survey&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-14T14:28:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/alaska&",
+        "title": "Man will plead guilty to threatening to harm, murder Supreme Court justices",
+        "url": "https://www.abajournal.com/news/article/alaska&#45;man&#45;to&#45;plead&#45;guilty&#45;to&#45;threatening&#45;to&#45;harm&#45;murder&#45;supreme&#45;court&#45;justices/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-14T14:08:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/14/harveys-gabe-pereyra-on-legal-agents-world-models",
         "title": "Harvey’s Gabe Pereyra on Legal Agents + World Models",
@@ -123,56 +173,6 @@
         "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;a&#45;discussion&#45;on&#45;when&#45;you&#45;come&#45;at&#45;the&#45;king/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-04-10T17:45:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/wisconsin&",
-        "title": "Wisconsin moves to UBE to ease access-to-justice woes",
-        "url": "https://www.abajournal.com/news/article/wisconsin&#45;moves&#45;to&#45;ube&#45;to&#45;ease&#45;access&#45;to&#45;justice&#45;woes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-10T15:50:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/facebook&",
-        "title": "Facebook, Instagram pulling ads from lawyers looking for plaintiffs ... to sue them",
-        "url": "https://www.abajournal.com/news/article/facebook&#45;instagram&#45;pulling&#45;ads&#45;from&#45;lawyers&#45;looking&#45;for&#45;plaintiffs&#45;..&#45;to&#45;sue&#45;them/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-10T15:30:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
-        "title": "Florida law school pressed to include chapter of Charlie Kirk&#8217;s Turning Point USA",
-        "url": "https://www.abajournal.com/news/article/florida&#45;law&#45;school&#45;pressured&#45;to&#45;include&#45;charlie&#45;kirk&#45;turning&#45;point&#45;usa&#45;chapter/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-10T15:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/pageant&",
-        "title": "Pageant competitions teach Rutgers Law 2L lessons for court",
-        "url": "https://www.abajournal.com/web/article/pageant&#45;competitions&#45;teach&#45;rutgers&#45;law&#45;2l&#45;lessons&#45;for&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-10T15:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/biglaw&",
-        "title": "BigLaw firm faces questions over $35M bill",
-        "url": "https://www.abajournal.com/news/article/biglaw&#45;firm&#45;faces&#45;questions&#45;over&#45;35m&#45;bill/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-10T13:30:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,26 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/g27vesk8zhwhmndhilnb",
-        "title": "模力工场 036 周 AI 应用周榜：AI不只做“单点能力”，而是在拼“完整工作流”",
-        "url": "https://www.infoq.cn/article/G27veSK8ZHwhmNdHilNB?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-14T20:37:39.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ugpjbizibbxbz3xywerl",
-        "title": "MiniMax修改开源授权被骂疯了！限制M2.7商用、强制标注来源，却没完全撤下MIT标识",
-        "url": "https://www.infoq.cn/article/UGpjbIzIbbxbZ3XyWeRL?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-14T18:36:42.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/newsflashes/3766613599568385",
         "title": "生数科技与阿里云达成战略合作，Vidu系列模型正式登陆百炼平台",
         "url": "https://36kr.com/newsflashes/3766613599568385?f=rss",
@@ -1332,12 +1312,12 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3350062/chinas-edge-over-us-ai-world-models-abundant-data-faster-deployment-executive-says",
-        "title": "China’s edge over US in AI world models: abundant data, faster deployment, executive says",
-        "url": "https://www.scmp.com/tech/big-tech/article/3350062/chinas-edge-over-us-ai-world-models-abundant-data-faster-deployment-executive-says?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/presented/business/topics/hong-kongs-profits-tax-goes-digital-e-filing-explained/article/3349501/hong-kong-profits-tax-e-filing-what-businesses-need-know",
+        "title": "Hong Kong profits tax e-filing: what businesses need to know",
+        "url": "https://www.scmp.com/presented/business/topics/hong-kongs-profits-tax-goes-digital-e-filing-explained/article/3349501/hong-kong-profits-tax-e-filing-what-businesses-need-know?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-04-14T12:00:10.000Z",
-        "summary": "China’s world models are benefiting from early integration with the country’s strong industrial base, which gives the domestic ecosystem greater momentum than that of the US, according to an executive at a leading Chines",
+        "publishedAt": "2026-04-14T16:00:10.000Z",
+        "summary": "[The content of this article has been produced by our advertising partner.] Hong Kong is adopting a digital approach to tax administration, with the Inland Revenue Department (IRD) gradually rolling out electronic filing",
         "category": "updates",
         "region": "cn_en"
       },
