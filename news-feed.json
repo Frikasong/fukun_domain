@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T19:01:15.619Z",
+  "generatedAt": "2026-04-15T01:47:22.410Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -75,6 +75,16 @@
         "publishedAt": "2026-04-14T06:42:54.000Z",
         "summary": "By Alex Zilberman, CEO, Chamelio. When people talk about AI in legal, they often talk about ‘context’ as though it is a simple ingredient. Add ...",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-trusted-access-for-cyber-defense",
+        "title": "Trusted access for the next era of cyber defense",
+        "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+        "source": "OpenAI News",
+        "publishedAt": "2026-04-14T00:00:00.000Z",
+        "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1196,27 +1206,27 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3766613599568385",
-        "title": "生数科技与阿里云达成战略合作，Vidu系列模型正式登陆百炼平台",
-        "url": "https://36kr.com/newsflashes/3766613599568385?f=rss",
+        "id": "36Kr:36kr.com/p/3767424500171271",
+        "title": "最前线｜追觅生态企业娲宝科技发布宠物智能项圈，布局“项圈+宠粮”数据闭环",
+        "url": "https://36kr.com/p/3767424500171271?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-14T11:57:29.000Z",
-        "summary": "36氪获悉，4月14日，生数科技与阿里云智能集团正式签署战略合作协议。双方将共同构建面向多模态大模型与世界模型的高性能基础设施体系。在模型服务生态方面，生数科技自研的多模态大模型Vidu已正式登陆阿里云百炼模型广场。目前，Vidu已在阿里云百炼平台支持文生视频、图生视频、参考生视频等能力。",
+        "publishedAt": "2026-04-15T01:43:13.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 4月13日，娲宝科技正式推出新一代宠物智能项圈，并同步披露其技术架构及后续产品布局。 图源企业 近年来，宠物相关消费持续增长，行业正由基础饲养逐步向精细化健康管理延伸。在宠物智能硬件领域，现有产品多集中于定位、围栏及运动记录等功能，部分产品开始引入心率、体温等基础生理指标监测，但整体仍以单点数据为主，数据维度与应用场景相对有限，尚未形成完整的健康管理闭环。 在此背景下， 娲宝科技将产品定位为长期健康数",
         "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3767326268392199",
+        "title": "8点1氪丨许家印一审当庭认罪悔罪；交管部门回应新能源车牌绿色变白色；生成内容涉黄，哩布哩布AI回应",
+        "url": "https://36kr.com/p/3767326268392199?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-15T00:05:51.000Z",
+        "summary": "今日热点导览 可能含有“永久性化学物”，Lululemon在美被调查 近一周“一口价”黄金产品最高下跌17% 中国将健全药品价格形成机制 离境退税2.0版措施预计4月底前推出 苹果加码iPhone Fold TOP3大新闻 恒大集团、恒大地产及许家印案一审开庭 2026年4月13日至14日，广东省深圳市中级人民法院对深圳市人民检察院提起公诉的被告单位恒大集团有限公司非法吸收公众存款、集资诈骗、违法发放贷款、欺诈发行证券、违规披露重要信息",
+        "category": "tools",
         "region": "cn"
       },
       {
@@ -1296,16 +1306,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-13T18:03:01.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3765146768376326",
-        "title": "氪星晚报｜“马斯克版微信”或在本周五上线；Meta押注AI数字人，正打造AI版扎克伯格；AI潮玩品牌“MOMOTOY”完成数千万元融资",
-        "url": "https://36kr.com/p/3765146768376326?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-13T11:09:12.000Z",
-        "summary": "大公司： 金山办公：一季度净利同比预增402%-473% 36氪获悉，金山办公公告，预计2026年第一季度实现归属于上市公司股东的净利润20.22亿元-23.07亿元，同比增长401.89%-472.81%。 沪电股份：一季度净利同比预增54.76%-65.25% 36氪获悉，沪电股份公告，预计2026年第一季度归属于上市公司股东的净利润为11.8亿元-12.6亿元，比上年同期增长54.76%-65.25%。 Meta押注AI数字人，正",
         "category": "updates",
         "region": "cn"
       }
