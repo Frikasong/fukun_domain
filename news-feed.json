@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T01:47:22.410Z",
+  "generatedAt": "2026-04-15T07:20:38.554Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/15/product-walk-through-august-genius-mode",
+        "title": "Product Walk Through: August – Genius Mode",
+        "url": "https://www.artificiallawyer.com/2026/04/15/product-walk-through-august-genius-mode/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-15T06:41:25.000Z",
+        "summary": "This week’s AL TV Product Walk Through is with legal AI platform, August, and looks at its new Genius Mode. The capability gives law firms ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/kennedy&",
         "title": "Kennedy Center general counsel denies allegations he tried to book his band at site",
@@ -225,16 +235,6 @@
         "publishedAt": "2026-04-09T13:47:37.000Z",
         "summary": "NewMod Norm Law, the legal arm connected to Norm Ai, has hired Bill Mone as Head of Private Equity. He was most recently at US firm ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/uk-firm-rolls-out-august-across-multiple-business-functions",
-        "title": "UK Firm Rolls Out August Across Multiple Business Functions",
-        "url": "https://www.artificiallawyer.com/2026/04/09/uk-firm-rolls-out-august-across-multiple-business-functions/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-09T13:00:07.000Z",
-        "summary": "Legal AI platform August is now being used by UK law firm Harrison Drury, not just for legal matters, but across multiple business functions. The ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1210,6 +1210,46 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/0erluo96s3xjvtgekpru",
+        "title": "Anthropic 推出 Claude Mythos 预览版，强化网络安全，仅限合作方访问",
+        "url": "https://www.infoq.cn/article/0ERlUO96S3XjvTgekpru?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-15T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zchjdm7eehqjazr7apxz",
+        "title": "Etsy 将拥有 1000 个分片、425 TB 数据的 MySQL 分片架构迁移至 Vitess",
+        "url": "https://www.infoq.cn/article/ZCHjdm7EEHQJaZr7aPxz?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-15T13:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3767719255360257",
+        "title": "阿里ATH事业群发布首款AI开发工具秒悟",
+        "url": "https://36kr.com/newsflashes/3767719255360257?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-15T06:42:13.000Z",
+        "summary": "36氪获悉，4月15日，阿里ATH事业群发布旗下首款AI开发工具Meoo（秒悟），该工具集成千问、Kimi、GLM、MiniMax四大模型，并内置阿里云数据库、存储等核心产品服务，用户只需用自然语言描述想法，Meoo最快1分钟就能自动生成前端后端完整的网站、H5页面，在阿里云上一键部署上线。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3767665304240640",
+        "title": "摩根大通CEO警告人工智能技术引发的网络攻击风险",
+        "url": "https://36kr.com/newsflashes/3767665304240640?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-15T05:47:20.000Z",
+        "summary": "摩根大通CEO杰米·戴蒙周二表示，虽然人工智能工具最终可能帮助企业抵御网络攻击，但它们最初却让企业更容易受到攻击。戴蒙表示，摩根大通正在测试Anthropic上周发布的最新人工智能模型Mythos预览版，这是该公司为充分利用人工智能的优势并防范恶意行为者利用该技术而采取的更广泛举措的一部分。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3767424500171271",
         "title": "最前线｜追觅生态企业娲宝科技发布宠物智能项圈，布局“项圈+宠粮”数据闭环",
         "url": "https://36kr.com/p/3767424500171271?f=rss",
@@ -1275,7 +1315,7 @@
         "url": "https://36kr.com/p/3765986197684736?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-14T01:20:20.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 近期，深圳远见智存科技有限公司发布其HBM3/3e高带宽存储芯片产品，提供12GB与24GB两种容量规格，带宽达819GB/s，对标JEDEC国际标准体系。 远见智存HBM3/3e产品规格（图源/企业） HBM（High Bandwidth Memory，高带宽存储）被视为当前AI算力体系中的关键组件之一。在大模型规模持续扩大、训练与推理负载提升的背景下，算力芯片与内存带宽之间的瓶颈问题愈发突出，业内",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 近期，深圳远见智存科技有限公司发布其HBM3/3e高带宽存储芯片产品，提供12GB与24GB两种容量规格，带宽达819GB/s，对标JEDEC国际标准体系。 远见智存HBM3/3e产品规格（图源/企业） HBM（High Bandwidth Memory，高带宽存储）被视为当前AI算力体系中的关键组件之一。在大模型规模持续扩大、训练与推理负载提升的背景下��算力芯片与内存带宽之间的瓶颈问题愈发突出，业",
         "category": "updates",
         "region": "cn"
       },
@@ -1286,26 +1326,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-14T01:10:00.000Z",
         "summary": "作者｜黄楠 编辑｜袁斯来 如果你想找庞伯特创始人张海波，大概率得去公司附近的各种球场。 张海波早把自己训练成了各种球类的高手。 2025年10月，公司网球场刚建成不久，他就拎着自家的发球机器人，从零开始学球。见到张海波时，他告诉硬氪，经过半年训练，现在已经打到了NTRP 3.0——相当于普通用户通常要练一两年才能达到的进阶水平。他没请私教，也没有陪练，唯一的老师，就是那台被自己反复击打的发球机器人。 张海波很早就精通乒乓球，他是国内最早",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3765932138103554",
-        "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
-        "url": "https://36kr.com/p/3765932138103554?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-14T00:26:45.000Z",
-        "summary": "今日热点导览 张雪回应机车新手禁令 西班牙首相桑切斯参观小米科技园 中央网信办：加强网络直播打赏规范管理 小红书跨境电商平台Redshop将于今年6月正式上线 A股景气度投资或回归主线 TOP3大新闻 “马斯克版微信”或在4月17日上线 美国当地时间4月11日，X平台宣布旗下独立社交应用XChat将于4月17日正式登陆App Store。这款被外界视为“西方版微信”的应用，主打端到端加密、无广告及无追踪，旨在构建集聊天、支付、AI于一体",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/f88ml5vdjkc4dkreyami",
-        "title": "Claude 吞噬一切？“Vibe Coding 公司的最大错觉是以为自己有护城河”",
-        "url": "https://www.infoq.cn/article/F88ML5vdJkc4dkreyamI?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-13T18:03:01.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
