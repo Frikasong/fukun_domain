@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T07:20:38.554Z",
+  "generatedAt": "2026-04-15T13:05:20.462Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/15/webinar-convert-3-5x-more-leads-with-eve-ai-for-intake",
+        "title": "Webinar: Convert 3.5x More Leads With Eve AI For Intake",
+        "url": "https://www.artificiallawyer.com/2026/04/15/webinar-convert-3-5x-more-leads-with-eve-ai-for-intake/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-15T12:06:09.000Z",
+        "summary": "Eve Webinar Promotion. &#8216;What if you could handle every single call like your best intake rep was on the line? With AI, now you can! ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/15/freshfields-celebrates-worldwide-google-ai-tools-roll-out",
+        "title": "Freshfields Celebrates Worldwide Google AI Tools Roll Out",
+        "url": "https://www.artificiallawyer.com/2026/04/15/freshfields-celebrates-worldwide-google-ai-tools-roll-out/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-15T10:32:44.000Z",
+        "summary": "Freshfields would like you to know that ‘5,000 professionals firmwide now use AI tools built with Google&#8217;s Gemini models, one year into the firm’s strategic ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/15/juro-launches-operator-contract-chat",
+        "title": "Juro Launches Operator Contract Chat",
+        "url": "https://www.artificiallawyer.com/2026/04/15/juro-launches-operator-contract-chat/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-15T10:19:00.000Z",
+        "summary": "Juro has launched Operator, which provides natural language ‘conversational access to a business’s contracts and data&#8217; in order to surface key information. The inhouse-focused company ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/15/microsoft-copilot-specifically-targets-lawyers-with-new-capabilities",
+        "title": "Microsoft Copilot Specifically Targets Lawyers With New Capabilities",
+        "url": "https://www.artificiallawyer.com/2026/04/15/microsoft-copilot-specifically-targets-lawyers-with-new-capabilities/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-15T07:44:27.000Z",
+        "summary": "Microsoft Copilot is specifically targeting lawyers as well now with the launch of new capabilities that they state are for ‘legal, finance, and compliance professionals’. ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/15/product-walk-through-august-genius-mode",
         "title": "Product Walk Through: August – Genius Mode",
@@ -178,16 +218,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/11/anthropic-targets-lawyers-with-claude-for-word",
-        "title": "Anthropic Targets Lawyers With Claude For Word",
-        "url": "https://www.artificiallawyer.com/2026/04/11/anthropic-targets-lawyers-with-claude-for-word/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-11T07:09:38.000Z",
-        "summary": "Anthropic has just released Claude for Word in Beta – in itself a major move, but even more significant is that the AI giant is ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "ABA Journal:www.abajournal.com/news/article/the&",
         "title": "The Burton Book Review: A discussion on &#8216;When You Come at the King&#8217;",
         "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;a&#45;discussion&#45;on&#45;when&#45;you&#45;come&#45;at&#45;the&#45;king/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -204,36 +234,6 @@
         "source": "LawSites",
         "publishedAt": "2026-04-10T13:08:11.000Z",
         "summary": "A federal appeals court has handed a significant win to UpCodes, a legal tech startup that publishes building codes and technical standards online, ruling that its posting of copyrighted standards likely constitutes fair",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/10/more-ai-more-jobs-eudia-webinar-felix-legal-innovators",
-        "title": "More AI + More Jobs, Eudia Webinar, Felix, Legal Innovators +",
-        "url": "https://www.artificiallawyer.com/2026/04/10/more-ai-more-jobs-eudia-webinar-felix-legal-innovators/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-10T07:11:55.000Z",
-        "summary": "Let&#8217;s start this week&#8217;s Wrap with the fact that the largest legal market in the world – the US – is consistently adding more lawyer ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/haast-raises-12m-for-ai-marketing-slop-compliance",
-        "title": "Haast Raises $12m For AI Marketing ‘Slop’ Compliance",
-        "url": "https://www.artificiallawyer.com/2026/04/09/haast-raises-12m-for-ai-marketing-slop-compliance/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-09T14:00:13.000Z",
-        "summary": "Haast, which uses AI to handle marketing content compliance – and increasingly to counter AI ‘slop’ produced with little forethought &#8211; has raised $12m in ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/09/newmod-norm-law-hires-ex-ropes-gray-partner-bill-mone",
-        "title": "NewMod Norm Law Hires Ex-Ropes &#038; Gray Partner Bill Mone",
-        "url": "https://www.artificiallawyer.com/2026/04/09/newmod-norm-law-hires-ex-ropes-gray-partner-bill-mone/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-09T13:47:37.000Z",
-        "summary": "NewMod Norm Law, the legal arm connected to Norm Ai, has hired Bill Mone as Head of Private Equity. He was most recently at US firm ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/mhcyqxmg4xu16i2xmaen",
+        "title": "苹果疯狂狙击Vibe Coding 应用的背后，是一场30%佣金保卫战",
+        "url": "https://www.infoq.cn/article/MHcyqXMg4xu16I2xmaeN?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-15T19:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wsps6icwmeyhs7jmygbk",
+        "title": "网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”",
+        "url": "https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-15T16:56:11.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/0erluo96s3xjvtgekpru",
         "title": "Anthropic 推出 Claude Mythos 预览版，强化网络安全，仅限合作方访问",
         "url": "https://www.infoq.cn/article/0ERlUO96S3XjvTgekpru?utm_source=rss&utm_medium=article",
@@ -1220,32 +1240,12 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/zchjdm7eehqjazr7apxz",
-        "title": "Etsy 将拥有 1000 个分片、425 TB 数据的 MySQL 分片架构迁移至 Vitess",
-        "url": "https://www.infoq.cn/article/ZCHjdm7EEHQJaZr7aPxz?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-15T13:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3767719255360257",
-        "title": "阿里ATH事业群发布首款AI开发工具秒悟",
-        "url": "https://36kr.com/newsflashes/3767719255360257?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3767993091965699",
+        "title": "阿里云：将对部分MU模型单元的服务价格进行适度调整",
+        "url": "https://36kr.com/newsflashes/3767993091965699?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-15T06:42:13.000Z",
-        "summary": "36氪获悉，4月15日，阿里ATH事业群发布旗下首款AI开发工具Meoo（秒悟），该工具集成千问、Kimi、GLM、MiniMax四大模型，并内置阿里云数据库、存储等核心产品服务，用户只需用自然语言描述想法，Meoo最快1分钟就能自动生成前端后端完整的网站、H5页面，在阿里云上一键部署上线。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3767665304240640",
-        "title": "摩根大通CEO警告人工智能技术引发的网络攻击风险",
-        "url": "https://36kr.com/newsflashes/3767665304240640?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-15T05:47:20.000Z",
-        "summary": "摩根大通CEO杰米·戴蒙周二表示，虽然人工智能工具最终可能帮助企业抵御网络攻击，但它们最初却让企业更容易受到攻击。戴蒙表示，摩根大通正在测试Anthropic上周发布的最新人工智能模型Mythos预览版，这是该公司为充分利用人工智能的优势并防范恶意行为者利用该技术而采取的更广泛举措的一部分。（新浪财经）",
+        "publishedAt": "2026-04-15T11:20:47.000Z",
+        "summary": "36氪获悉，阿里云公告称，为持续保障底层硬件的稳定供应、提升平台运维服务质量，并应对算力市场成本的变化，我们将对部分MU（Model Unit）模型单元的服务价格进行适度调整。本次价格调整将于2026年5月15日00:00起正式生效。",
         "category": "updates",
         "region": "cn"
       },
@@ -1280,16 +1280,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/video/1ccwysmxxzh7jyu5mphm",
-        "title": "Serverless 智能弹性与 AI 驱动的云原生数据库平台 | 腾讯云数据库 DBTalk",
-        "url": "https://www.infoq.cn/video/1CcwySmxXzh7JYU5mphM?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-14T10:22:17.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3766487517594377",
         "title": "氪星晚报｜高德首款具身机器人将亮相；日产发布转型计划：削减20%车型，冲刺中美百万销量；随着战略转向，OpenAI的8520亿美元估值遭投资者质疑",
         "url": "https://36kr.com/p/3766487517594377?f=rss",
@@ -1315,7 +1305,7 @@
         "url": "https://36kr.com/p/3765986197684736?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-14T01:20:20.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 近期，深圳远见智存科技有限公司发布其HBM3/3e高带宽存储芯片产品，提供12GB与24GB两种容量规格，带宽达819GB/s，对标JEDEC国际标准体系。 远见智存HBM3/3e产品规格（图源/企业） HBM（High Bandwidth Memory，高带宽存储）被视为当前AI算力体系中的关键组件之一。在大模型规模持续扩大、训练与推理负载提升的背景下��算力芯片与内存带宽之间的瓶颈问题愈发突出，业",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 近期，深圳远见智存科技有限公司发布其HBM3/3e高带宽存储芯片产品，提供12GB与24GB两种容量规格，带宽达819GB/s，对标JEDEC国际标准体系。 远见智存HBM3/3e产品规格（图源/企业） HBM（High Bandwidth Memory，高带宽存储）被视为当前AI算力体系中的关键组件之一。在大模型规模持续扩大、训练与推理负载提升的背景下，算力芯片与内存带宽之间的瓶颈问题愈发突出，业内",
         "category": "updates",
         "region": "cn"
       },
@@ -1331,6 +1321,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3350183/lightelligence-track-ipo-plans-chinas-ai-photonics-race-gathers-pace",
+        "title": "Lightelligence on track with IPO plans as China’s AI photonics race gathers pace",
+        "url": "https://www.scmp.com/tech/big-tech/article/3350183/lightelligence-track-ipo-plans-chinas-ai-photonics-race-gathers-pace?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-15T11:00:31.000Z",
+        "summary": "Silicon photonic computing chips – long overlooked in the artificial intelligence hardware stack – are emerging as a new focal point in mainland China’s semiconductor push, as domestic companies move towards public listi",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/presented/business/topics/hong-kongs-profits-tax-goes-digital-e-filing-explained/article/3349501/hong-kong-profits-tax-e-filing-what-businesses-need-know",
         "title": "Hong Kong profits tax e-filing: what businesses need to know",
