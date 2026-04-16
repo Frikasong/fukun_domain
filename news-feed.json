@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T01:55:37.134Z",
+  "generatedAt": "2026-04-16T07:21:23.716Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/16/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams-2",
+        "title": "Webinar: Eudia + ServiceNow &#8211; &#8216;The 10x Future of Inhouse Legal Teams&#8217;",
+        "url": "https://www.artificiallawyer.com/2026/04/16/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams-2/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-16T06:29:17.000Z",
+        "summary": "On April 22, 12 noon EST, 9AM PST, and 5PM GMT, Artificial Lawyer is partnering with Eudia and ServiceNow for a live webinar where we will explore: ‘The 10x Future ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/16/legal-innovators-paris-june-24-25-speakers-announced",
+        "title": "Legal Innovators Paris: June 24 + 25 – Speakers Announced",
+        "url": "https://www.artificiallawyer.com/2026/04/16/legal-innovators-paris-june-24-25-speakers-announced/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-16T06:06:44.000Z",
+        "summary": "Legal Innovators Europe – Paris, takes place on June 24 and 25, and we can share with you some of our excellent speakers from across ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/voice/article/coming&",
         "title": "Lessons learned after coming out of retirement to be a pro bono prosecutor",
@@ -208,16 +228,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/14/context-is-not-a-feature-it-is-the-system",
-        "title": "Context Is Not A Feature, It Is The System",
-        "url": "https://www.artificiallawyer.com/2026/04/14/context-is-not-a-feature-it-is-the-system/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-14T06:42:54.000Z",
-        "summary": "By Alex Zilberman, CEO, Chamelio. When people talk about AI in legal, they often talk about ‘context’ as though it is a simple ingredient. Add ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/04/centerbase-launches-ai-powered-business-intelligence-tool-that-gives-firms-citation-backed-answers-from-their-own-data.html",
         "title": "Centerbase Launches AI-Powered Business Intelligence Tool That Gives Firms Citation-Backed Answers from Their Own Data",
         "url": "https://www.lawnext.com/2026/04/centerbase-launches-ai-powered-business-intelligence-tool-that-gives-firms-citation-backed-answers-from-their-own-data.html",
@@ -225,16 +235,6 @@
         "publishedAt": "2026-04-13T13:00:45.000Z",
         "summary": "While much of the AI development in legal tech focuses on the practice of law — research, drafting, document review and the like — Centerbase, the practice management platform for midsized law firms, is releasing a new A",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/13/law-punx-big-law-is-like-a-movie-theatre",
-        "title": "Law Punx: Big Law Is Like A Movie Theatre",
-        "url": "https://www.artificiallawyer.com/2026/04/13/law-punx-big-law-is-like-a-movie-theatre/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-13T08:19:25.000Z",
-        "summary": "Big Law is like a movie theatre, you come for the legal ‘stars’, but end up paying for the associate ‘popcorn’ – this is the ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,22 +1210,132 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3768841036808711",
-        "title": "创业板指涨1%",
-        "url": "https://36kr.com/newsflashes/3768841036808711?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-16T01:43:21.000Z",
-        "summary": "36氪获悉，A股三大股指高开高走，创业板指涨1%，深证成指涨0.69%，沪指涨0.3%，钛白粉概念、云游戏板块、算力租赁板块涨幅居前。",
+        "id": "InfoQ China:www.infoq.cn/article/d2odnnug38yoqzyuuwuy",
+        "title": "蚂蚁灵波开源LingBot-Map：仅需一个 RGB 摄像头，就能让机器人“理解”真实世界",
+        "url": "https://www.infoq.cn/article/d2ODNNUg38yOQZyuUwUY?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-16T15:07:07.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3768783839871491",
-        "title": "Adobe推出可操作Claude的创意工具AI助手",
-        "url": "https://36kr.com/newsflashes/3768783839871491?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/3z0q6dz0yo4dzn9qwmf8",
+        "title": "Anthropic 的论文探讨了大语言模型中类情绪机制对行为的影响",
+        "url": "https://www.infoq.cn/article/3z0Q6dZ0YO4dzN9Qwmf8?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-16T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/t9zbwrdlf4crkqimnyxy",
+        "title": "神秘模型排名超 Gemma 4 31B：不跟 Qwen 硬刚，主打“快”和“省 token”",
+        "url": "https://www.infoq.cn/article/t9ZBwRdLF4cRKqIMNYXY?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-16T14:48:12.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/op76t76ax55jqgiqdu6l",
+        "title": "设计企业级可观测性 Docker 扩展",
+        "url": "https://www.infoq.cn/article/op76T76AX55jqGIQdU6L?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-16T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jtag5phwaqambr1aeylh",
+        "title": "亚马逊云科技推出可持续发展控制台，支持 API 访问及 Scope 1-3 碳排放报告",
+        "url": "https://www.infoq.cn/article/jtag5PHWAQaMbR1aeyLh?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-16T11:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3768997634130434",
+        "title": "新加坡的AI征途：孕育下一个“硅谷”",
+        "url": "https://36kr.com/p/3768997634130434?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-16T00:57:06.000Z",
-        "summary": "Adobe周三宣布推出一款全新的人工智能助手，旨在帮助用户在其照片、视频及数字内容编辑软件套件中执行各项任务。该助手还将与Anthropic的Claude AI模型进行集成。（新浪财经）",
+        "publishedAt": "2026-04-16T06:59:53.000Z",
+        "summary": "“Punggol”，是一个位于新加坡东北部的新区，它有一个可爱的中文名：“榜鹅”，读起来，确实像某种动物的叫声。 Punggol其实是马来语，翻译过来，是指用木棍敲打果树，把果子打下来。 而现实中的榜鹅镇，相当长一段时间，都被大片大片森林覆盖。当新加坡乌节路的写字楼一栋栋拔地而起时，榜鹅还是一片蛮荒之地，即使现在，新加坡本地人告诉我，“有人在丛林中看到过狮子”。 不过，如今的榜鹅，有的不仅是密林与野兽的传说，设在此地的榜鹅数码园区(Pu",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3769141465432833",
+        "title": "中公教育发布AI时代职业能力培养平台“新希天才”",
+        "url": "https://36kr.com/newsflashes/3769141465432833?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-16T06:48:58.000Z",
+        "summary": "4月15日，中公教育发布AI时代职业能力培养平台“新希天才”，定位AI应用型人才实战培育。中公教育李永新董事长表示，平台并非单一课程，而是一套完整的AI赋能解决方案，尝试从根本上重塑职业价值的定义与能力交付方式，锻造“上岗即战力”。他称，AI技术日益普及，但能将其转化为实际业务产出的人才依然稀缺。市场付费逻辑已经变化——不再仅为学历或证书买单，而是为能够直接解决问题、融入新型工作流的“可交付能力”付费。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3768967684096521",
+        "title": "找100个被资本选中的答案｜2026“最受关注”企业名册评选启动",
+        "url": "https://36kr.com/p/3768967684096521?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-16T06:26:14.000Z",
+        "summary": "出品｜ 36氪创投研究院 文｜ 罗婧、杜梦 当资本褪去浮躁、回归理性，当概念让位于落地、实效成为行业硬通货，当AI深度重构产业格局、硬科技筑牢行业发展底色， 2026年的一级市场，已然迈入真实价值主导的全新创投时代。 又一波浪潮袭来，谁在被看见，谁在被押注？ 市场逻辑已然彻底迭代：从盲目追逐风口，转向审慎布局长期；从为资本故事买单，转向为技术壁垒、商业增长、成熟商业化路径下注。行业用最直白的规则印证：能赢得市场认可、能穿越经济周期的，从",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3769110156935937",
+        "title": "创业板指涨逾3%，宁德时代等权重领涨",
+        "url": "https://36kr.com/newsflashes/3769110156935937?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-16T06:17:07.000Z",
+        "summary": "36氪获悉，指数走强，创业板指拉升涨逾3.00%，沪指涨0.63%，深成指涨1.90%。算力租赁、电池、游戏传媒等方向涨幅居前，沪深京三市上涨个股近4300只，创业板指权重股宁德时代、中际旭创、新易盛、天孚通信等纷纷大涨。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3769097669247495",
+        "title": "PPIO上线PPHermes：云端沙箱一键部署Hermes Agent",
+        "url": "https://36kr.com/newsflashes/3769097669247495?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-16T06:04:25.000Z",
+        "summary": "4月16日，PPIO发布PPHermes，这是首个专为国内用户设计的Hermes Agent云端沙箱部署方案。用户无需编程基础，最快十分钟即可完成部署。Hermes Agent由AI研究机构Nous Research开发。相比海外沙箱方案，PPHermes专为Hermes设计CLI工具链，支持一条命令完成启动、暂停与恢复；内置飞书集成；零配置接入Claude Code、Cursor等AI编程工具；按需计费，有效降低长期使用成本。",
+        "category": "articles",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3769064702182152",
+        "title": "阿里巴巴涨超5%",
+        "url": "https://36kr.com/newsflashes/3769064702182152?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-16T05:30:53.000Z",
+        "summary": "36氪获悉，阿里巴巴涨超5%，消息面上，阿里云上调大模型服务平台百炼部分MU（ModelUnit）模型单元的服务价格。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3769055177851397",
+        "title": "龚政文：湖南广电自研“芒果大模型”已孵化80余款智能体",
+        "url": "https://36kr.com/newsflashes/3769055177851397?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-16T05:21:11.000Z",
+        "summary": "36氪获悉，4月15日，在第十三届中国网络视听大会上，湖南广播电视台董事长龚政文透露，湖南广电旗下芒果TV有效会员超7560万。自研“芒果大模型”已孵化80余款智能体，应用于30多档节目，生产效率提升30%以上。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3768320373441281",
+        "title": "要做电商Agent OS，前钉钉最年轻副总裁创立的「攀峰智能」再次完成数千万天使轮融资",
+        "url": "https://36kr.com/p/3768320373441281?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-16T02:00:26.000Z",
+        "summary": "文｜王欣逸 编辑｜邓咏仪 36氪获悉，近日，攀峰智能已完成数千万元天使轮融资，本轮融资由华控资本领投、云时资本跟投，将用于模型研发、团队增长以及市场扩张。 攀峰智能（K2 Lab）成立于2025年10月，成立仅一个月，便拿到了来自云时资本的数千万元融资。其三位联合创始人均来自阿里钉钉团队。CEO王铭曾是钉钉最年轻的副总裁，在钉钉近五年间负责AI创新产品、SaaS生态、大模型与AI生态、产业生态和战略终端等业务；联合创始人兼CSO汤明磊，",
         "category": "updates",
         "region": "cn"
       },
@@ -1278,36 +1388,6 @@
         "summary": "今日热点导览 可能含有“永久性化学物”，Lululemon在美被调查 近一周“一口价”黄金产品最高下跌17% 中国将健全药品价格形成机制 离境退税2.0版措施预计4月底前推出 苹果加码iPhone Fold TOP3大新闻 恒大集团、恒大地产及许家印案一审开庭 2026年4月13日至14日，广东省深圳市中级人民法院对深圳市人民检察院提起公诉的被告单位恒大集团有限公司非法吸收公众存款、集资诈骗、违法发放贷款、欺诈发行证券、违规披露重要信息",
         "category": "tools",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/ls3kieqaqy58qvsp1cxd",
-        "title": "TDSQL-C AI 查询优化器：LLM 重塑 SQL 调优与计划管理 | 腾讯云数据库 DBTalk",
-        "url": "https://www.infoq.cn/video/Ls3KiEqAqY58Qvsp1cXD?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-14T11:15:16.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3766487517594377",
-        "title": "氪星晚报｜高德首款具身机器人将亮相；日产发布转型计划：削减20%车型，冲刺中美百万销量；随着战略转向，OpenAI的8520亿美元估值遭投资者质疑",
-        "url": "https://36kr.com/p/3766487517594377?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-14T10:01:53.000Z",
-        "summary": "大公司： 全球最大零食店“零食王国”将于4月17日开业 36氪获悉，由鸣鸣很忙集团创建的全球规模最大的沉浸式零食体验空间“零食王国”，将于4月17日在湖南长沙芙蓉广场正式开业。该项目拥有超1.2万㎡的零售与体验空间，汇聚了全球约70个国家和地区的风味、超过6500个国内外品牌及3.5万款商品。 TCL电子将出售印度电视制造业务？公司回应：不持有该资产 针对TCL电子拟出售印度电视制造部门股份传闻，TCL电子代表今日回应称，“公司并不拥有",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3766434507440903",
-        "title": "宁德时代、智元、银河通用联合投资，六维力传感器头部企业「蓝点触控」完成超亿元C+轮融资 | 36氪首发",
-        "url": "https://36kr.com/p/3766434507440903?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-14T09:09:33.000Z",
-        "summary": "文 | 张冰冰 编辑 | 阿至 36氪获悉，蓝点触控（北京）科技有限公司（以下简称「蓝点触控」） 近日宣布完成超亿元C+轮融资，由宁德时代旗下溥泉资本、智元机器人、银河通用、奥普特、银河源汇等机构联合投资。 这是近一年内「蓝点触控」完成的第三轮过亿元融资。 「蓝点触控」是36氪长期关注的企业，聚焦机器人力传感器，已搭建涵盖高性能弹性体设计、嵌入式硬件电路、高精度结构解耦算法及六维同步校准在内的四大平台型技术，形成人形机器人专用力传感器、",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
@@ -1319,16 +1399,6 @@
         "publishedAt": "2026-04-14T16:00:10.000Z",
         "summary": "[The content of this article has been produced by our advertising partner.] Hong Kong is adopting a digital approach to tax administration, with the Inland Revenue Department (IRD) gradually rolling out electronic filing",
         "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3349552/alibabas-qwen-family-captures-over-50-global-open-source-downloads-report-finds",
-        "title": "Alibaba’s Qwen family captures over 50% of global open-source downloads, report finds",
-        "url": "https://www.scmp.com/tech/big-tech/article/3349552/alibabas-qwen-family-captures-over-50-global-open-source-downloads-report-finds?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-10T02:00:14.000Z",
-        "summary": "Alibaba Cloud captured more than 50 per cent of global open-source model downloads as of March following the release of its Qwen 3.5 model series, a new report has found. The finding underscores the dominance of Chinese ",
-        "category": "tools",
         "region": "cn_en"
       },
       {
