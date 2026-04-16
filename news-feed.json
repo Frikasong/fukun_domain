@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T07:21:23.716Z",
+  "generatedAt": "2026-04-16T13:13:00.780Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -24,6 +24,16 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-16T06:06:44.000Z",
         "summary": "Legal Innovators Europe – Paris, takes place on June 24 and 25, and we can share with you some of our excellent speakers from across ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/accelerating-cyber-defense-ecosystem",
+        "title": "Accelerating the cyber defense ecosystem that protects us all",
+        "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+        "source": "OpenAI News",
+        "publishedAt": "2026-04-16T00:00:00.000Z",
+        "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
         "category": "updates",
         "region": "na"
       },
@@ -1196,35 +1206,25 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/d2odnnug38yoqzyuuwuy",
-        "title": "蚂蚁灵波开源LingBot-Map：仅需一个 RGB 摄像头，就能让机器人“理解”真实世界",
-        "url": "https://www.infoq.cn/article/d2ODNNUg38yOQZyuUwUY?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/h4wpj7meydhfdpsoqycl",
+        "title": "世界变了、Linus妥协了？AI代码可以进Linux内核，但出了事人来背",
+        "url": "https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-16T15:07:07.000Z",
+        "publishedAt": "2026-04-16T16:42:05.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/3z0q6dz0yo4dzn9qwmf8",
-        "title": "Anthropic 的论文探讨了大语言模型中类情绪机制对行为的影响",
-        "url": "https://www.infoq.cn/article/3z0Q6dZ0YO4dzN9Qwmf8?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ddg9kpwhwj9ufyenngvp",
+        "title": "Claude 推行强制化实名认证：部分功能需提交证件和自拍",
+        "url": "https://www.infoq.cn/article/dDG9KpwHWj9ufYENNgVP?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-16T15:00:00.000Z",
+        "publishedAt": "2026-04-16T16:01:49.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1250,12 +1250,42 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3769501020029699",
+        "title": "亚马逊支持的X-Energy计划IPO融资8亿美元",
+        "url": "https://36kr.com/newsflashes/3769501020029699?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-16T12:54:43.000Z",
+        "summary": "亚马逊支持的X-Energy正重返公开市场，此次目标融资高达8亿美元，背景是电力需求（尤其是来自人工智能领域的电力需求）持续攀升。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3769459902546441",
+        "title": "Anthropico计划下周向英国银行业发布其Mythos模型",
+        "url": "https://36kr.com/newsflashes/3769459902546441?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-16T12:12:54.000Z",
+        "summary": "Anthropic PBC计划在未来一周内，向英国金融机构发布其备受关注的Mythos人工智能模型。这家科技公司在发现该模型是识别并可能利用网络安全漏洞的强大工具后，正逐步扩大“玻璃翼计划”。该项目旨在让特定机构提前获得这款人工智能的使用权限。Anthropic英国、爱尔兰和北欧业务负责人Pip White在接受媒体采访时表示：“这就在眼前了，会在下周内发生。正如你所预料的那样，过去一周我与英国首席执行官们的沟通非常密切。”（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/jtag5phwaqambr1aeylh",
         "title": "亚马逊云科技推出可持续发展控制台，支持 API 访问及 Scope 1-3 碳排放报告",
         "url": "https://www.infoq.cn/article/jtag5PHWAQaMbR1aeyLh?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-04-16T11:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3769360179298818",
+        "title": "氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型",
+        "url": "https://36kr.com/p/3769360179298818?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-16T10:55:48.000Z",
+        "summary": "大公司： 亚马逊全球智能枢纽仓（GWD）深圳首仓面向卖家正式开放 36氪获悉，亚马逊今日宣布，全球首个亚马逊全球智能枢纽仓（Global Warehousing and Distribution, GWD）在深圳正式向卖家全面开放。目前，深圳GWD仓支持向亚马逊美国站运营中心（Fulfillment Center）发货。 京东发布机器人产业服务全景图 36氪获悉，4月15日，京东发布“机器人产业服务全景图”。全景图聚焦三大核心：携手超 ",
         "category": "updates",
         "region": "cn"
       },
@@ -1270,62 +1300,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3769141465432833",
-        "title": "中公教育发布AI时代职业能力培养平台“新希天才”",
-        "url": "https://36kr.com/newsflashes/3769141465432833?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-16T06:48:58.000Z",
-        "summary": "4月15日，中公教育发布AI时代职业能力培养平台“新希天才”，定位AI应用型人才实战培育。中公教育李永新董事长表示，平台并非单一课程，而是一套完整的AI赋能解决方案，尝试从根本上重塑职业价值的定义与能力交付方式，锻造“上岗即战力”。他称，AI技术日益普及，但能将其转化为实际业务产出的人才依然稀缺。市场付费逻辑已经变化——不再仅为学历或证书买单，而是为能够直接解决问题、融入新型工作流的“可交付能力”付费。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3768967684096521",
         "title": "找100个被资本选中的答案｜2026“最受关注”企业名册评选启动",
         "url": "https://36kr.com/p/3768967684096521?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-16T06:26:14.000Z",
         "summary": "出品｜ 36氪创投研究院 文｜ 罗婧、杜梦 当资本褪去浮躁、回归理性，当概念让位于落地、实效成为行业硬通货，当AI深度重构产业格局、硬科技筑牢行业发展底色， 2026年的一级市场，已然迈入真实价值主导的全新创投时代。 又一波浪潮袭来，谁在被看见，谁在被押注？ 市场逻辑已然彻底迭代：从盲目追逐风口，转向审慎布局长期；从为资本故事买单，转向为技术壁垒、商业增长、成熟商业化路径下注。行业用最直白的规则印证：能赢得市场认可、能穿越经济周期的，从",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3769110156935937",
-        "title": "创业板指涨逾3%，宁德时代等权重领涨",
-        "url": "https://36kr.com/newsflashes/3769110156935937?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-16T06:17:07.000Z",
-        "summary": "36氪获悉，指数走强，创业板指拉升涨逾3.00%，沪指涨0.63%，深成指涨1.90%。算力租赁、电池、游戏传媒等方向涨幅居前，沪深京三市上涨个股近4300只，创业板指权重股宁德时代、中际旭创、新易盛、天孚通信等纷纷大涨。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3769097669247495",
-        "title": "PPIO上线PPHermes：云端沙箱一键部署Hermes Agent",
-        "url": "https://36kr.com/newsflashes/3769097669247495?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-16T06:04:25.000Z",
-        "summary": "4月16日，PPIO发布PPHermes，这是首个专为国内用户设计的Hermes Agent云端沙箱部署方案。用户无需编程基础，最快十分钟即可完成部署。Hermes Agent由AI研究机构Nous Research开发。相比海外沙箱方案，PPHermes专为Hermes设计CLI工具链，支持一条命令完成启动、暂停与恢复；内置飞书集成；零配置接入Claude Code、Cursor等AI编程工具；按需计费，有效降低长期使用成本。",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3769064702182152",
-        "title": "阿里巴巴涨超5%",
-        "url": "https://36kr.com/newsflashes/3769064702182152?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-16T05:30:53.000Z",
-        "summary": "36氪获悉，阿里巴巴涨超5%，消息面上，阿里云上调大模型服务平台百炼部分MU（ModelUnit）模型单元的服务价格。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3769055177851397",
-        "title": "龚政文：湖南广电自研“芒果大模型”已孵化80余款智能体",
-        "url": "https://36kr.com/newsflashes/3769055177851397?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-16T05:21:11.000Z",
-        "summary": "36氪获悉，4月15日，在第十三届中国网络视听大会上，湖南广播电视台董事长龚政文透露，湖南广电旗下芒果TV有效会员超7560万。自研“芒果大模型”已孵化80余款智能体，应用于30多档节目，生产效率提升30%以上。",
         "category": "updates",
         "region": "cn"
       },
@@ -1378,19 +1358,19 @@
         "summary": "作者 | 乔钰杰 编辑 | 袁斯来 4月13日，娲宝科技正式推出新一代宠物智能项圈，并同步披露其技术架构及后续产品布局。 图源企业 近年来，宠物相关消费持续增长，行业正由基础饲养逐步向精细化健康管理延伸。在宠物智能硬件领域，现有产品多集中于定位、围栏及运动记录等功能，部分产品开始引入心率、体温等基础生理指标监测，但整体仍以单点数据为主，数据维度与应用场景相对有限，尚未形成完整的健康管理闭环。 在此背景下， 娲宝科技将产品定位为长期健康数",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3767326268392199",
-        "title": "8点1氪丨许家印一审当庭认罪悔罪；交管部门回应新能源车牌绿色变白色；生成内容涉黄，哩布哩布AI回应",
-        "url": "https://36kr.com/p/3767326268392199?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-15T00:05:51.000Z",
-        "summary": "今日热点导览 可能含有“永久性化学物”，Lululemon在美被调查 近一周“一口价”黄金产品最高下跌17% 中国将健全药品价格形成机制 离境退税2.0版措施预计4月底前推出 苹果加码iPhone Fold TOP3大新闻 恒大集团、恒大地产及许家印案一审开庭 2026年4月13日至14日，广东省深圳市中级人民法院对深圳市人民检察院提起公诉的被告单位恒大集团有限公司非法吸收公众存款、集资诈骗、违法发放贷款、欺诈发行证券、违规披露重要信息",
-        "category": "tools",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3350351/chinese-tech-giants-ai-godmother-li-fei-fei-race-seize-edge-world-models",
+        "title": "Chinese tech giants, AI ‘godmother’ Li Fei-Fei race to seize the edge in world models",
+        "url": "https://www.scmp.com/tech/big-tech/article/3350351/chinese-tech-giants-ai-godmother-li-fei-fei-race-seize-edge-world-models?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-16T13:00:14.000Z",
+        "summary": "A wave of companies, from the start-up launched by artificial intelligence “godmother” Li Fei-Fei to the largest Chinese tech firms, are racing to introduce their latest approaches to world models – an emerging field aim",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/presented/business/topics/hong-kongs-profits-tax-goes-digital-e-filing-explained/article/3349501/hong-kong-profits-tax-e-filing-what-businesses-need-know",
         "title": "Hong Kong profits tax e-filing: what businesses need to know",
