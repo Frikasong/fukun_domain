@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T01:51:29.355Z",
+  "generatedAt": "2026-04-17T07:21:58.731Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,12 +1210,32 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3770192259285504",
-        "title": "东吴证券：技术革新、规模量产、国产替代共同驱动环卫无人设备降本逻辑",
-        "url": "https://36kr.com/newsflashes/3770192259285504?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/rbkkyqst8hd3hqteyoag",
+        "title": "Zendesk：生成式 AI 让代码不再稀缺，研发瓶颈转向“吸收能力”",
+        "url": "https://www.infoq.cn/article/RBkkYQsT8Hd3hQTEYoAG?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-17T13:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3770502592545285",
+        "title": "特斯拉在台招聘工程师：要求具备先进制程芯片经验",
+        "url": "https://36kr.com/newsflashes/3770502592545285?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-17T00:37:53.000Z",
-        "summary": "36氪获悉，东吴证券指出，环卫无人是自动驾驶领域最大应用场景，2026年截至3月15日已开标环卫无人设备288台，同比增长102.8%，实现翻倍，其中162台服务于“环卫+无人驾驶”试点项目，占比56%。环卫无人设备降本的主要驱动因素包括硬件端的技术变革/规模量产/国产替代、规模化后软件/算法研发费用摊薄等。环卫无人车的成本构成可分为：1）车体硬件：车体、电池、底盘、清扫装置等。2）智驾硬件：感知系统包括摄像头、毫米波雷达、超声波雷达、",
+        "publishedAt": "2026-04-17T05:53:34.000Z",
+        "summary": "据特斯拉网站上的招聘信息显示，该公司正在中国台湾地区招聘一批半导体工程师，以参与其“Terafab”人工智能芯片项目。特斯拉在台发布的工程岗位涵盖了多个核心的前端制造步骤，包括光刻、蚀刻、薄膜制作和化学机械抛光，以及良率工程和工艺集成。在职位要求中显示，有几项职位要求应聘者需要具备“在7纳米以下先进芯片制造节点以及2纳米级技术方面的经验”。目前，马斯克正在快马加鞭筹备Terafab半导体项目。知情人士透露，特斯拉的目标是在2029年开始",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3770363954954755",
+        "title": "36氪首发 | “华为天才少年”创业连融超4亿元，做新一代推理芯片重构显存成本",
+        "url": "https://36kr.com/p/3770363954954755?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-17T03:33:56.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，国内全自研GPGPU创新企业「北京行云集成电路有限公司」（以下简称“行云”）宣布连续完成Pre-A及Pre-A+多轮融资，融资金额超4亿元人民币。五源资本、赛富投资基金、春华资本联合领投，以及北京、江苏等地方国资、佰维存储（688525）、金沙江联合带动知名GPU企业创始人家办、创维资本等产业资本跟投。云岫资本连续多轮服务并担任下一轮独家融资财务顾问。 北京行云集成电路有限公司成立于2023",
         "category": "updates",
         "region": "cn"
       },
@@ -1330,16 +1350,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3768734631527176",
-        "title": "8点1氪丨美国将退还超1万亿元关税；多家银行密集停发信用卡；滴露回应使用宠物消毒液后5只幼猫死亡",
-        "url": "https://36kr.com/p/3768734631527176?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-16T00:00:35.000Z",
-        "summary": "今日热点导览 京东宣布推出“机器人救护车” 抖音集团将投入5亿专项资金扶持真人短剧 永辉超市38亿追款获胜，王健林等承担连带保证责任 张雪机车LOGO抄袭？设计公司发声明回应 小米汽车公布降噪处理新专利 TOP 3大新闻 美国将退还超1万亿元关税 据路透社报道，美国特朗普政府计划于当地时间4月20日正式启动一个关税退款系统，用于向进口商退还1660亿美元（约合人民币1.13万亿元）的关税，这些关税在今年2月被美国最高法院裁定为“非法”。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/wsps6icwmeyhs7jmygbk",
         "title": "网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”",
         "url": "https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&utm_medium=article",
@@ -1362,32 +1372,12 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3350387/manycore-one-hangzhous-six-little-dragons-surges-hong-kong-ipo-debut",
-        "title": "Manycore, one of Hangzhou’s ‘Six Little Dragons’, surges on Hong Kong IPO debut",
-        "url": "https://www.scmp.com/business/banking-finance/article/3350387/manycore-one-hangzhous-six-little-dragons-surges-hong-kong-ipo-debut?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3350406/chinese-ai-firm-sensetime-raise-us415-million-share-placement",
+        "title": "Chinese AI firm SenseTime to raise US$415 million via share placement",
+        "url": "https://www.scmp.com/business/china-business/article/3350406/chinese-ai-firm-sensetime-raise-us415-million-share-placement?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-04-17T01:32:52.000Z",
-        "summary": "Manycore Tech, a design software developer hailed as one of Hangzhou’s “Six Little Dragons”, made its trading debut in Hong Kong on Friday, with shares rising 172 per cent at the open, as the company positions itself at ",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3350340/chinas-ai-firms-scaled-open-source-models-next-phase-may-be-different",
-        "title": "China’s AI firms scaled up on open-source models. The next phase may be different",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3350340/chinas-ai-firms-scaled-open-source-models-next-phase-may-be-different?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-17T01:00:17.000Z",
-        "summary": "In China’s hyper-competitive and lucrative tech industry, releasing cutting-edge artificial intelligence models for free may seem counter-intuitive – but it has become a core business strategy. At the University of Hong ",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/presented/business/topics/hong-kongs-profits-tax-goes-digital-e-filing-explained/article/3349501/hong-kong-profits-tax-e-filing-what-businesses-need-know",
-        "title": "Hong Kong profits tax e-filing: what businesses need to know",
-        "url": "https://www.scmp.com/presented/business/topics/hong-kongs-profits-tax-goes-digital-e-filing-explained/article/3349501/hong-kong-profits-tax-e-filing-what-businesses-need-know?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-14T16:00:10.000Z",
-        "summary": "[The content of this article has been produced by our advertising partner.] Hong Kong is adopting a digital approach to tax administration, with the Inland Revenue Department (IRD) gradually rolling out electronic filing",
+        "publishedAt": "2026-04-17T04:33:00.000Z",
+        "summary": "SenseTime Group plans to raise HK$3.25 billion (US$415.2 million) through a share placement to fund investments in advanced artificial intelligence, joining a wave of companies tapping Hong Kong’s equity market amid impr",
         "category": "updates",
         "region": "cn_en"
       },
