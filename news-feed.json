@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T01:29:27.801Z",
+  "generatedAt": "2026-04-18T06:58:37.973Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,66 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/mtr5v1fni2hdcxoxb8fw",
+        "title": "这可能是近十年最重要的 C++ 版本更新，反射、契约、并发模型全面进化",
+        "url": "https://www.infoq.cn/article/mTR5V1FNI2HdcxOxB8fW?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-18T14:12:37.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ry64grnlaeef1qdzabb0",
+        "title": "谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力",
+        "url": "https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-18T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3771824203530756",
+        "title": "Meta计划于5月20日启动今年首轮大规模裁员",
+        "url": "https://36kr.com/newsflashes/3771824203530756?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-18T04:17:59.000Z",
+        "summary": "消息人士称，Meta将在5月20日开始的首轮裁员中裁撤全球约10%的员工，相当于近8000人。这家拥有Facebook与Instagram的科技巨头还计划在今年下半年实施进一步裁员，不过包括具体时间与规模的相关细节，目前尚未最终确定。消息人士补充称，管理层或将根据人工智能技术进展情况调整相关计划。（第一财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3771813145756418",
+        "title": "中信证券：看好激光器芯片龙头公司未来发展潜力",
+        "url": "https://36kr.com/newsflashes/3771813145756418?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-18T04:06:44.000Z",
+        "summary": "中信证券研报指出，目前AI计算集群已从“堆算力”走向“拼网络效率”，高性能、高带宽、低延迟的网络成为数据中心性能提升的关键。激光器芯片是光模块的核心器件，决定光模块的电光转换效率和产品代际。中信证券认为激光器芯片行业将受益于Scale-out/Scale-up网络超节点扩容和技术代际带来的价值量上升，迎来巨大的发展机遇。同时由于市场需求旺盛且产能短期存在刚性，激光器芯片市场正处于快速增长且供需失衡的结构。而头部厂商的优势正不断凸显。看好",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3770721219035649",
+        "title": "智元机器人，要做AI大模型平台和开放生态",
+        "url": "https://36kr.com/p/3770721219035649?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-18T02:00:00.000Z",
+        "summary": "文｜王毓婵 编辑｜杨轩 当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？ 上个月，智元刚刚跨过“机器人量产下线一万台”的门槛。4月17日，这家由前华为“天才少年”彭志辉与前华为副总裁邓泰华共同创立的机器人公司在合作伙伴大会上，花了大量的时间和篇幅介绍软件上的新产品。相较之下，硬件的篇幅反倒很少。 智元推出了六大AI模型、七大生产力解决方案，并首次公开AIMA（AI Machine Architecture）全栈生态技",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3771682949989128",
+        "title": "江苏发布2026年消费品以旧换新地方自主品类补贴政策",
+        "url": "https://36kr.com/newsflashes/3771682949989128?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-18T01:54:18.000Z",
+        "summary": "4月17日，江苏省商务厅发布《关于实施江苏省2026年消费品以旧换新地方自主品类补贴政策的通告》。自通告之日起开始实施，至2026年12月31日结束。限额管理，用完即止。补贴品类包括，智能家居产品（含适老化家居产品）：干衣机、洗碗机、吸油烟机、家用燃气灶（含集成灶）、净水器、智能马桶（含马桶盖）；“人工智能+”新一代智能终端：扫地机器人（含洗地机）、数码相机（含运动相机、无人机）、具身智能机器人（含人形机器人、机器狗、外骨骼助力机器人）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3771628958843398",
         "title": "9点1氪丨霍尔木兹海峡完全开放；雷军称未来几年不会做十万元以内车型；四大一线城市房价全涨",
         "url": "https://36kr.com/p/3771628958843398?f=rss",
@@ -1217,16 +1277,6 @@
         "publishedAt": "2026-04-18T01:06:04.000Z",
         "summary": "今日热点导览 瑞幸将上线瓶装咖啡，售价6-7元 阿嬷手作新品一杯48元，被吐槽太贵，创始人回应 新增海外工作地，字节跳动面向全球招募技术人才 苹果31年元老、营销副总裁斯坦·吴宣布退休 派拉蒙承诺电影至少上映45天再上流媒体 TOP3大新闻 霍尔木兹海峡完全开放，特朗普：感谢伊朗 伊朗外长阿拉格齐17日在社交媒体上说，鉴于黎巴嫩和以色列达成停火，在停火期间，伊朗对所有商船开放霍尔木兹海峡。阿拉格齐说，霍尔木兹海峡在停火期间对所有商船通行",
         "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3771624413463049",
-        "title": "大华股份：2025年营收超327亿元，2026年一季度业绩稳健增长",
-        "url": "https://36kr.com/newsflashes/3771624413463049?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-18T00:54:45.000Z",
-        "summary": "4月17日，大华股份发布2025年年度报告及2026年第一季度财报。2025年，公司实现营收327.44亿元，同比增长1.75%；归母净利润38.58亿元，同比增长32.77%；毛利率为40.62%，同比提升1.78个百分点；经营性现金流净额39.08亿元，同比增长44.19 %。2026年第一季度实现营收69.02亿元，同比增长10.33%，业绩稳健增长。公司将持续推动AI大模型产品技术应用落地，赋能千行百业。",
-        "category": "updates",
         "region": "cn"
       },
       {
@@ -1308,26 +1358,6 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/t9zbwrdlf4crkqimnyxy",
-        "title": "神秘模型排名超 Gemma 4 31B：不跟 Qwen 硬刚，主打“快”和“省 token”",
-        "url": "https://www.infoq.cn/article/t9ZBwRdLF4cRKqIMNYXY?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-16T14:48:12.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/op76t76ax55jqgiqdu6l",
-        "title": "设计企业级可观测性 Docker 扩展",
-        "url": "https://www.infoq.cn/article/op76T76AX55jqGIQdU6L?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-16T14:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
@@ -1348,16 +1378,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-04-17T10:00:14.000Z",
         "summary": "Nvidia CEO Jensen Huang said on a recent podcast that if Chinese artificial intelligence start-up DeepSeek optimised its new models on chips from Huawei Technologies, it would be “a horrible outcome” for the US. If “futu",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "Sixth Tone:www.sixthtone.com/news/1018314/love%20in%20the%20time%20of%20algorithms:%20what%20chatbot%20romances%20reveal%20about%20connection",
-        "title": "Love in the Time of Algorithms: What Chatbot Romances Reveal About Connection",
-        "url": "https://www.sixthtone.com/news/1018314/Love%20in%20the%20Time%20of%20Algorithms:%20What%20Chatbot%20Romances%20Reveal%20About%20Connection",
-        "source": "Sixth Tone",
-        "publishedAt": "2026-03-17T00:00:00.000Z",
-        "summary": "When OpenAI announced that it would retire its ChatGPT model GPT-4o, it sent shockwaves across the internet and an outpouring of grief. Yet the real question is: What void was 4o filling to begin with?",
         "category": "updates",
         "region": "cn_en"
       }
