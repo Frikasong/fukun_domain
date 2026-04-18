@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T18:46:29.478Z",
+  "generatedAt": "2026-04-18T01:29:27.801Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "36Kr:36kr.com/p/3771628958843398",
+        "title": "9点1氪丨霍尔木兹海峡完全开放；雷军称未来几年不会做十万元以内车型；四大一线城市房价全涨",
+        "url": "https://36kr.com/p/3771628958843398?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-18T01:06:04.000Z",
+        "summary": "今日热点导览 瑞幸将上线瓶装咖啡，售价6-7元 阿嬷手作新品一杯48元，被吐槽太贵，创始人回应 新增海外工作地，字节跳动面向全球招募技术人才 苹果31年元老、营销副总裁斯坦·吴宣布退休 派拉蒙承诺电影至少上映45天再上流媒体 TOP3大新闻 霍尔木兹海峡完全开放，特朗普：感谢伊朗 伊朗外长阿拉格齐17日在社交媒体上说，鉴于黎巴嫩和以色列达成停火，在停火期间，伊朗对所有商船开放霍尔木兹海峡。阿拉格齐说，霍尔木兹海峡在停火期间对所有商船通行",
+        "category": "articles",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3771624413463049",
+        "title": "大华股份：2025年营收超327亿元，2026年一季度业绩稳健增长",
+        "url": "https://36kr.com/newsflashes/3771624413463049?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-18T00:54:45.000Z",
+        "summary": "4月17日，大华股份发布2025年年度报告及2026年第一季度财报。2025年，公司实现营收327.44亿元，同比增长1.75%；归母净利润38.58亿元，同比增长32.77%；毛利率为40.62%，同比提升1.78个百分点；经营性现金流净额39.08亿元，同比增长44.19 %。2026年第一季度实现营收69.02亿元，同比增长10.33%，业绩稳健增长。公司将持续推动AI大模型产品技术应用落地，赋能千行百业。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3770688595214857",
         "title": "小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家",
         "url": "https://36kr.com/p/3770688595214857?f=rss",
@@ -1270,16 +1290,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3770155029398018",
-        "title": "8点1氪丨全季大连某酒店账号公开多名客人特殊订单备注；金立手机创始人被曝在印尼卖家具；雷军将连播15小时测试新SU7续航",
-        "url": "https://36kr.com/p/3770155029398018?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-17T00:02:44.000Z",
-        "summary": "今日热点导览 丝芭传媒：创始人王子杰去世，享年63岁 国家统计局：日均词元调用量突破140万亿，较上年末增长40% 京东发布机器人产业服务全景图 为加速重塑Siri，苹果安排近200名工程师培训AI编程 特朗普签发多项输油管道许可，以促进美加之间的石油运输 TOP3大新闻 全季大连某酒店账号公开多名客人特殊订单备注，华住集团客服回应 近日，一则题为“全季客人备注大赏”的帖文在社交平台引发争议。涉事账号“全季大连xx酒店”将多名客人的特殊",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/h4wpj7meydhfdpsoqycl",
         "title": "世界变了、Linus妥协了？AI代码可以进Linux内核，但出了事人来背",
         "url": "https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&utm_medium=article",
@@ -1321,6 +1331,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3350521/bytedance-tencent-step-ai-talent-battle-amid-reported-departure-deepseek-researcher",
+        "title": "ByteDance, Tencent step up AI talent battle amid reported departure of DeepSeek researcher",
+        "url": "https://www.scmp.com/tech/big-tech/article/3350521/bytedance-tencent-step-ai-talent-battle-amid-reported-departure-deepseek-researcher?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-18T01:00:32.000Z",
+        "summary": "As China’s artificial intelligence sector accelerates, competition for top talent has intensified among major tech companies, with firms increasingly poaching from rivals while also attracting researchers from overseas h",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/article/3350460/nvidias-jensen-huang-warns-huawei-chips-deepseek-ai-models-would-be-horrible-us",
         "title": "Nvidia’s Jensen Huang warns Huawei chips for DeepSeek AI models would be ‘horrible’ for US",
