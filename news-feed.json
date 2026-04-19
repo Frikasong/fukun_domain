@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T18:36:20.554Z",
+  "generatedAt": "2026-04-19T01:55:02.773Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,32 +1210,52 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/gl44miostwoy6waclsal",
+        "title": "多云时代AI Agent治理难题，亚马逊云科技想用一个注册表解决",
+        "url": "https://www.infoq.cn/article/gL44mioSTWOY6WAClSAl?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-19T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ieaqfypkezwdknfuyy4d",
+        "title": "AI 写代码太快，人类测试跟不上了，Meta 用新方法把 bug 检出率提升 4 倍",
+        "url": "https://www.infoq.cn/article/IEaQFYPKeZwDKNFuYY4D?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-19T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3773090942321155",
+        "title": "36氪首发 | 前华为工程师创业，实现临时键合载板存量循环，龙头客户已验证",
+        "url": "https://36kr.com/p/3773090942321155?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-19T01:46:49.000Z",
+        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，环晶芯科技已于近期完成数千万元天使轮融资。本轮由啟赋资本领投，盛世投资、海益资本及湖南省大学生创业投资基金跟投。资金将主要用于公司在无锡的首条量产线建设、研发投入及补充流动资金。 环晶芯科技成立于2025年5月，是国内首家提出临时键合载板无损回收复用方案的公司。公司创始人张介元拥有中科院、中科大、哈工大的研究背景及华为从业经历，师从国内打破临时键合胶垄断的第一人，对该类材料特性有深刻理解。 硬氪了解到",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3773070276887305",
+        "title": "河南省脑机接口康复设备技术创新中心揭牌",
+        "url": "https://36kr.com/newsflashes/3773070276887305?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-19T01:36:54.000Z",
+        "summary": "4月18日，河南省脑机接口康复设备技术创新中心正式揭牌。这是国内率先获批建设的省级脑机接口技术创新平台，由翔宇医疗牵头，联合郑州大学、郑州大学第一附属医院共建。中心成立后，将重点攻克脑电信号高精度解码、多模态人机交互等关键技术，填补国内相关领域多项空白，推动脑机接口康复技术从实验室走向临床、惠及患者。（证券时报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/ry64grnlaeef1qdzabb0",
         "title": "谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力",
         "url": "https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-04-18T10:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3771824203530756",
-        "title": "Meta计划于5月20日启动今年首轮大规模裁员",
-        "url": "https://36kr.com/newsflashes/3771824203530756?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-18T04:17:59.000Z",
-        "summary": "消息人士称，Meta将在5月20日开始的首轮裁员中裁撤全球约10%的员工，相当于近8000人。这家拥有Facebook与Instagram的科技巨头还计划在今年下半年实施进一步裁员，不过包括具体时间与规模的相关细节，目前尚未最终确定。消息人士补充称，管理层或将根据人工智能技术进展情况调整相关计划。（第一财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3771813145756418",
-        "title": "中信证券：看好激光器芯片龙头公司未来发展潜力",
-        "url": "https://36kr.com/newsflashes/3771813145756418?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-18T04:06:44.000Z",
-        "summary": "中信证券研报指出，目前AI计算集群已从“堆算力”走向“拼网络效率”，高性能、高带宽、低延迟的网络成为数据中心性能提升的关键。激光器芯片是光模块的核心器件，决定光模块的电光转换效率和产品代际。中信证券认为激光器芯片行业将受益于Scale-out/Scale-up网络超节点扩容和技术代际带来的价值量上升，迎来巨大的发展机遇。同时由于市场需求旺盛且产能短期存在刚性，激光器芯片市场正处于快速增长且供需失衡的结构。而头部厂商的优势正不断凸显。看好",
         "category": "updates",
         "region": "cn"
       },
@@ -1306,16 +1326,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-17T08:25:30.000Z",
         "summary": "36氪于日前与享刻智能创始人陈震进行了一次深入的沟通。在多数具身智能企业仍聚焦实验室打磨通用技术、扎堆布局人形机器人赛道的当下，成立仅3年的享刻智能走出了一条差异化发展路径，以场景落地为核心，推动具身智能技术的商业化落地。 享刻智能创始人-陈震 2026年4月14日，享刻智能技术（北京）有限公司正式宣布完成1.5亿元A轮融资，本轮融资由九号公司战略领投，长沙东方私募基金、江苏国晟资本等多家产业机构跟投。截至目前，公司累计融资规模已超2.",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3770363954954755",
-        "title": "36氪首发 | “华为天才少年”创业连融超4亿元，做新一代推理芯片重构显存成本",
-        "url": "https://36kr.com/p/3770363954954755?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-17T03:33:56.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，国内全自研GPGPU创新企业「北京行云集成电路有限公司」（以下简称“行云”）宣布连续完成Pre-A及Pre-A+多轮融资，融资金额超4亿元人民币。五源资本、赛富投资基金、春华资本联合领投，以及北京、江苏等地方国资、佰维存储（688525）、金沙江联合带动知名GPU企业创始人家办、创维资本等产业资本跟投。云岫资本连续多轮服务并担任下一轮独家融资财务顾问。 北京行云集成电路有限公司成立于2023",
         "category": "updates",
         "region": "cn"
       },
