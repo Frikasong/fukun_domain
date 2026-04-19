@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T07:08:52.583Z",
+  "generatedAt": "2026-04-19T12:42:00.112Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1230,6 +1230,16 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3773392715268613",
+        "title": "特斯拉将自动驾驶出租车服务扩展至达拉斯和休斯顿",
+        "url": "https://36kr.com/newsflashes/3773392715268613?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-19T07:23:34.000Z",
+        "summary": "4月19日，据外媒TechCrunch报道，特斯拉官方通过社交媒体宣布，其Robotaxi出租车服务正式拓展至达拉斯和休斯顿两座城市，标志着该服务的覆盖范围进一步扩大，目前已在美国得克萨斯州三座城市落地运营。（环球网科技）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/newsflashes/3773296038871809",
         "title": "香港明天将公布新一批重点引进企业",
         "url": "https://36kr.com/newsflashes/3773296038871809?f=rss",
@@ -1256,16 +1266,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-19T04:08:19.000Z",
         "summary": "36氪获悉，潮玩科技公司杭州第二人生科技有限公司（以下简称“第二人生”）近日宣布完成数千万级股权融资，由个人投资者余整轩独家投资。第二人生已实现“AI生成—3D打印—万物3D云数据化”全链路闭环，本轮资金将重点投向全彩3D打印机的迭代研发与世界大模型的构建。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3773139505185286",
-        "title": "高德发布全球首个面向AGI的全栈具身技术体系“ABot”",
-        "url": "https://36kr.com/newsflashes/3773139505185286?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-19T02:35:59.000Z",
-        "summary": "4月19日，在2026北京亦庄机器人半程马拉松上，阿里巴巴旗下高德正式公开全球首款开放环境全自主具身机器人“高德途途”。这款四足机器人协助视障人士完成复杂避障、人群穿行等实战挑战。其底层依托高德发布的ABot具身技术体系，基于上万种真实场景与千万级多模态数据构建。目前，高德ABot系列模型已经在全球15项基准测试中拿到SOTA。",
         "category": "updates",
         "region": "cn"
       },
@@ -1361,26 +1361,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/markets/article/3350609/asias-supply-chain-strengths-could-give-it-edge-over-us-ai-race-granite-asias-foo",
-        "title": "Asia’s supply chain strengths could give it edge over US in AI race: Granite Asia’s Foo",
-        "url": "https://www.scmp.com/business/markets/article/3350609/asias-supply-chain-strengths-could-give-it-edge-over-us-ai-race-granite-asias-foo?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-19T06:00:18.000Z",
-        "summary": "As the artificial intelligence race moves beyond language models into the physical world, Asia’s manufacturing and supply chain strengths could give it an edge over the US, says Granite Asia’s Jixun Foo. The veteran vent",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/article/3350466/will-ai-job-fears-hurt-chinas-housing-market-they-have-us-and-india",
-        "title": "Will AI job fears hurt China’s housing market as they have in the US and India?",
-        "url": "https://www.scmp.com/business/article/3350466/will-ai-job-fears-hurt-chinas-housing-market-they-have-us-and-india?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-19T03:00:12.000Z",
-        "summary": "Growing public anxiety over artificial intelligence-driven job loss, especially in technology and other white-collar sectors, has weighed on housing sentiment in the US and India. Yet data remains insufficient to quantif",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3350521/bytedance-tencent-step-ai-talent-battle-amid-reported-departure-deepseek-researcher",
         "title": "ByteDance, Tencent step up AI talent battle amid reported departure of DeepSeek researcher",
