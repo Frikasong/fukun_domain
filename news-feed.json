@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T13:10:38.101Z",
+  "generatedAt": "2026-04-20T18:54:42.662Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,22 +8,62 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.com/news/article/alec&",
+        "title": "Alec Baldwin headed back to trial for ‘Rust’ negligence lawsuit",
+        "url": "https://www.abajournal.com/news/article/alec&#45;baldwin&#45;headed&#45;back&#45;to&#45;trial&#45;for&#45;rust&#45;negligence&#45;lawsuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-20T16:48:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/california&",
+        "title": "California moves closer to adopting NextGen Uniform Bar Exam",
+        "url": "https://www.abajournal.com/news/article/california&#45;moves&#45;closer&#45;to&#45;adopting&#45;the&#45;nextgen&#45;ube/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-20T16:22:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/defense&",
+        "title": "Defense lawyers in Charlie Kirk murder case want ban on courtroom cameras",
+        "url": "https://www.abajournal.com/news/article/defense&#45;lawyers&#45;in&#45;charlie&#45;kirk&#45;murder&#45;case&#45;want&#45;ban&#45;on&#45;courtroom&#45;cameras/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-20T15:22:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/dead&",
+        "title": "Dead people on list of potential jurors raises alarms in this state",
+        "url": "https://www.abajournal.com/news/article/dead&#45;people&#45;on&#45;list&#45;of&#45;potential&#45;jurors&#45;raises&#45;alarms&#45;in&#45;illinois/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-20T15:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/nexflix&",
+        "title": "Netflix chief legal officer&#8217;s pay raise could move him to top-paid CLO",
+        "url": "https://www.abajournal.com/news/article/nexflix&#45;chief&#45;legal&#45;officer&#45;pay&#45;raise&#45;could&#45;move&#45;him&#45;to&#45;top&#45;paid&#45;clo/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-20T14:52:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/20/legal-tech-we-have-an-arr-problem",
         "title": "Legal Tech – We Have an ARR Problem",
         "url": "https://www.artificiallawyer.com/2026/04/20/legal-tech-we-have-an-arr-problem/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-20T07:02:07.000Z",
         "summary": "Legal tech companies, and especially VC-fuelled startups, have an ARR problem. At its core is how you define ‘Annual Recurring Revenue’. Things have come to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-        "title": "OpenAI helps Hyatt advance AI among colleagues",
-        "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-        "source": "OpenAI News",
-        "publishedAt": "2026-04-20T00:00:00.000Z",
-        "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
         "category": "updates",
         "region": "na"
       },
@@ -78,46 +118,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/clarence&",
-        "title": "People in Washington know right thing to do but lack courage, Justice Thomas says",
-        "url": "https://www.abajournal.com/news/article/clarence&#45;thomas&#45;says&#45;people&#45;in&#45;washington&#45;lack&#45;courage/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-17T14:44:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/associate&",
-        "title": "Associate donated kidney to law firm partner she had never met",
-        "url": "https://www.abajournal.com/web/article/associate&#45;donates&#45;kidney&#45;to&#45;law&#45;firm&#45;partner&#45;whom&#45;shed&#45;never&#45;met/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-16T18:02:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/attorney&",
-        "title": "California Supreme Court disbars attorney John Eastman for &#8216;egregious and deceitful conduct&#8217;",
-        "url": "https://www.abajournal.com/news/article/attorney&#45;john&#45;eastman&#45;gets&#45;disbarred/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-16T16:41:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/partners&",
-        "title": "Partners approve Hogan Lovells Cadwalader, a proposed $3.6B global firm",
-        "url": "https://www.abajournal.com/news/article/partners&#45;approve&#45;hogan&#45;lovells&#45;cadwalader&#45;a&#45;proposed&#45;36b&#45;global&#45;firm/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-16T15:22:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/04/alt-legal-acquires-uk-based-webtms-adding-global-ip-portfolio-management-to-its-trademark-platform.html",
         "title": "Alt Legal Acquires UK-Based WebTMS, Adding Global IP Portfolio Management to Its Trademark Platform",
         "url": "https://www.lawnext.com/2026/04/alt-legal-acquires-uk-based-webtms-adding-global-ip-portfolio-management-to-its-trademark-platform.html",
@@ -125,16 +125,6 @@
         "publishedAt": "2026-04-16T15:00:47.000Z",
         "summary": "In its sixth acquisition, Alt Legal, the cloud-based trademark docketing and management platform, has acquired WebTMS, a UK-based provider of IP portfolio management software with more than 25 years in business and over ",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/relativity&",
-        "title": "Relativity, Wickard.ai join forces to offer AI training to law schools",
-        "url": "https://www.abajournal.com/news/article/relativity&#45;wickard&#45;ai&#45;join&#45;forces&#45;to&#45;offer&#45;ai&#45;training&#45;to&#45;law&#45;schools/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-16T14:55:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,6 +1196,16 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
@@ -1270,16 +1270,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3773892499096068",
-        "title": "36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗",
-        "url": "https://36kr.com/p/3773892499096068?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-20T02:00:10.000Z",
-        "summary": "作者 | 张子怡 编辑 | 袁斯来 智能派的联合创始人兼副总经理陈波变了一个人。 三年前，你见到他，会觉得这人张扬到有些轻狂。陈波对于智能派产品和能力有绝对自信，至于对手，”没什么了不起”。 三年后，他告诉我们：有些事会尽力而为，如果几年后做不出想要的成绩，让更有能力的人来接管业务——甚至会引入职业经理人。 在“创始人崇拜”盛行的创投圈，这是一个让人震动的决定，却也有迹可循。 硬氪独家获悉，智能派已完成数亿元B+轮融资。由美团龙珠、美团",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/g6hku9pdhzwd6gcwq0bh",
         "title": "Cursor 3 推出智能体优先界面，突破传统 IDE 模式",
         "url": "https://www.infoq.cn/article/G6hkU9pDHzwd6GCWQ0BH?utm_source=rss&utm_medium=article",
@@ -1301,6 +1291,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3350768/chinas-huawei-debuts-ai-glasses-challenge-meta-alibaba-and-rokid-crowded-arena",
+        "title": "China’s Huawei debuts AI glasses to challenge Meta, Alibaba and Rokid in crowded arena",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3350768/chinas-huawei-debuts-ai-glasses-challenge-meta-alibaba-and-rokid-crowded-arena?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-20T14:00:13.000Z",
+        "summary": "Huawei Technologies has launched its first artificial intelligence glasses, as the Shenzhen-based tech giant joins an intensifying battle with US leader Meta and domestic peers including Alibaba Group Holding and Rokid i",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3350521/bytedance-tencent-step-ai-talent-battle-amid-reported-departure-deepseek-researcher",
         "title": "ByteDance, Tencent step up AI talent battle amid reported departure of DeepSeek researcher",
