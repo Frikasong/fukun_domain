@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T01:56:40.305Z",
+  "generatedAt": "2026-04-20T07:53:43.736Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/20/legal-tech-we-have-an-arr-problem",
+        "title": "Legal Tech – We Have an ARR Problem",
+        "url": "https://www.artificiallawyer.com/2026/04/20/legal-tech-we-have-an-arr-problem/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-20T07:02:07.000Z",
+        "summary": "Legal tech companies, and especially VC-fuelled startups, have an ARR problem. At its core is how you define ‘Annual Recurring Revenue’. Things have come to ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/dei&",
         "title": "DEI law school accreditation standard finds support in comments",
@@ -225,16 +235,6 @@
         "publishedAt": "2026-04-15T06:41:25.000Z",
         "summary": "This week’s AL TV Product Walk Through is with legal AI platform, August, and looks at its new Genius Mode. The capability gives law firms ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/14/harveys-gabe-pereyra-on-legal-agents-world-models",
-        "title": "Harvey’s Gabe Pereyra on Legal Agents + World Models",
-        "url": "https://www.artificiallawyer.com/2026/04/14/harveys-gabe-pereyra-on-legal-agents-world-models/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-14T07:34:57.000Z",
-        "summary": "Agents are the future of legal AI, but how will they really work at scale, and what is a law firm world model? Plus, how ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,12 +1210,92 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/45aieri5nqrz9aglomfu",
-        "title": "Java 近期资讯：JDK 27 发布计划、Hibernate、LangChain4j、Keycloak、Helidon 和 Junie CLI",
-        "url": "https://www.infoq.cn/article/45AierI5NQrz9AgLoMFU?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/qytsckj32wud8dmy3xwr",
+        "title": "TDSQL-C 核心技术突破：AI 加持下的 Serverless 智能化弹性四层架构解析",
+        "url": "https://www.infoq.cn/video/qyTsCKj32wUD8Dmy3xWr?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-20T08:00:00.000Z",
+        "publishedAt": "2026-04-20T15:33:24.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/7bfrhmegiaitwitb40rl",
+        "title": "“开源已死”？怕被 OpenAI 和 Mythos 把代码挖成筛子，4 万 Star 项目突然闭源！",
+        "url": "https://www.infoq.cn/article/7BfrHmegIaitwiTb40Rl?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-20T14:07:02.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/2dfmi702aty7opnhefpu",
+        "title": "曝DeepSeek V4将于本周发布，梁文锋启动首次外部融资；宇树H1半马被担架抬离赛道；钉钉创始人：全员禁止写文档；Hermes Agent三度否认抄袭｜AI周报",
+        "url": "https://www.infoq.cn/article/2DFMI702ATy7OpNheFPu?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-20T13:33:15.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wthlu3ngf5ir9ivwlpxr",
+        "title": "取消AI考核、零裁员！股价暴跌82%后，多邻国走出了一条反硅谷之路",
+        "url": "https://www.infoq.cn/article/WTHlU3Ngf5ir9IvWLpXr?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-20T13:22:09.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3774850359853571",
+        "title": "“AI药物递送第一股”剂泰科技正式通过港交所聆讯",
+        "url": "https://36kr.com/newsflashes/3774850359853571?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-20T07:36:21.000Z",
+        "summary": "36氪获悉，“AI药物递送第一股”剂泰科技正式通过港交所聆讯，根据其招股书，此次募资拟用于AI基础设施及纳米材料平台技术研发，在研管线的临床试验推进和动物健康及抗衰领域应用。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3774789800182530",
+        "title": "阿里发布语音识别大模型Fun-ASR1.5",
+        "url": "https://36kr.com/newsflashes/3774789800182530?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-20T06:34:45.000Z",
+        "summary": "36氪获悉，4月20日，阿里巴巴发布端到端语音识别大模型Fun-ASR1.5 ，无需预设语种标签，单一模型即可高精度识别30种语言。此前，Fun-ASR1.0已用于钉钉AI听记、DingTalk A1录音机等智能硬件。全新升级的1.5版本覆盖中文七大方言体系及二十余种地方口音，并强化古诗词诵读的专项识别，将应用场景拓宽至跨国企业、国际会议、多语直播、县域政务服务以及古诗词教育等。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3774692365206280",
+        "title": "36氪首发 | 首创“玩偶+主机”模式，多智能体儿童AI玩具品牌获数千万元融资",
+        "url": "https://36kr.com/p/3774692365206280?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-20T04:56:41.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京灵机天赐科技有限责任公司（下称“灵机天赐”）于过去一年内完成两轮数千万元人民币融资，天使轮由德联资本领投，小恐龙基金和瑞昇基金跟投，Pre-A轮由Implic Capital领投，两轮融资均由探奇资本担任公司独家财务顾问。 灵机天赐CEO杨冰长期从事儿童内容与智能硬件产品的定义及运营。接受硬氪采访时，杨冰表示，“AI时代，让孩子直接和一个虚拟人物聊天，这个产品定义其实很难成立。孩子无法快",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3774566936216064",
+        "title": "字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%｜独家",
+        "url": "https://36kr.com/p/3774566936216064?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-20T03:05:06.000Z",
+        "summary": "文｜李小霞 编辑｜乔芊 杨轩 36氪独家从知情人士处获悉，字节跳动2025年海外营收增长近50%，远超约20%的国内营收增幅，海外业务营收占比也从2024年的25%提升至超三成，创下新高。 TikTok电商业务是字节跳动海外营收增长的主要动力。据悉，TikTok Shop 2025年GMV同比增速接近70%，不仅大幅提升了字节跳动的海外收入占比，同时也推动TikTok于2025年实现了大幅盈利。 不过，在海外业务帮助字节跳动的营收继续攀",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3773892499096068",
+        "title": "36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗",
+        "url": "https://36kr.com/p/3773892499096068?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-20T02:00:10.000Z",
+        "summary": "作者 | 张子怡 编辑 | 袁斯来 智能派的联合创始人兼副总经理陈波变了一个人。 三年前，你见到他，会觉得这人张扬到有些轻狂。陈波对于智能派产品和能力有绝对自信，至于对手，”没什么了不起”。 三年后，他告诉我们：有些事会尽力而为，如果几年后做不出想要的成绩，让更有能力的人来接管业务——甚至会引入职业经理人。 在“创始人崇拜”盛行的创投圈，这是一个让人震动的决定，却也有迹可循。 硬氪独家获悉，智能派已完成数亿元B+轮融资。由美团领投，深创",
         "category": "updates",
         "region": "cn"
       },
@@ -1226,56 +1306,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-20T01:42:44.000Z",
         "summary": "文｜邱晓芬 编辑｜苏建勋 《智能涌现》独家获悉，自变量机器人已经于三月底至四月初完成近20亿元B轮融资，领投方为小米战投和红杉中国。 不久前，美团、阿里和字节分别在A轮、A+轮、A++轮领投或独投自变量机器人。截至目前，自变量已成为国内唯一一家同时被四家互联网大厂投资的具身智能企业。 对此，自变量方面暂无回应。 小米战投在具身智能机器人领域已落子，近两年公开的投资项目包括纬钛机器人（触觉传感）、曦诺未来（灵巧手）、萝博派对（本体）、章鱼",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3774472705245703",
-        "title": "华泰证券：关注新能源链、出口链等拥挤度不高的景气方向",
-        "url": "https://36kr.com/newsflashes/3774472705245703?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-20T01:12:11.000Z",
-        "summary": "36氪获悉，华泰证券研报指出，上周A股全面回暖，主要指数反弹拉升，科技成长方向在一季报业绩、创业板改革和美伊谈判缓和的多重催化下领涨。展望短期，市场走势或面临一定扰动，一方面两周停火窗口将于下周到期、美联储主席提名人沃什听证会召开，全球风险偏好存在阶段性回落可能，另一方面A股估值分化系数来到历史高位区间，抱团品种获利盘兑现压力上升，风格存在阶段性再平衡的可能。配置上建议控制仓位、在景气线索内部做轮动，算力链产业趋势不变但短期有兑现压力，",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3774452274364932",
-        "title": "银河证券：消费板块估值处于历史偏低水平，建议关注农林牧渔等方向",
-        "url": "https://36kr.com/newsflashes/3774452274364932?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-20T01:04:22.000Z",
-        "summary": "36氪获悉，银河证券研报认为，A股市场配置机会方面，关注一：科技创新、自主可控与产业景气的确定性趋势，重点关注业绩景气度较高的核心环节，涉及电力设备、储能、存储、半导体、算力、通信设备等。关注二：受益于PPI同比转正与价格中枢上移的资源板块，包括有色金属、基础化工、石油石化、建筑材料、钢铁等。关注三：地缘冲突反复博弈中的能源及替代性需求主题、防御性板块，关注煤炭、煤化工、新能源、金融、公用事业等。此外，消费板块估值处于历史偏低水平，部分",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3774441465709064",
-        "title": "机器人ToB规模化提速，数据短板仍是核心卡点",
-        "url": "https://36kr.com/newsflashes/3774441465709064?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-20T00:58:32.000Z",
-        "summary": "从仓储环节的拆码垛自主决策，到车厂流利架分拣、工程螺栓保护软套剥离，再到药店场景的货架识别、精准抓药打包……近来，机器人正加速向ToB（面向企业）领域渗透，并逐渐成为驱动产业增长的核心力量。不过，业内人士指出，机器人的通用能力才是实现大规模商业化落地的关键所在。当前，大模型的算力与算法发展已日趋成熟，真正制约机器人场景泛化能力的核心卡点，仍是数据短板。对此，业界期盼政策能从开放应用场景、补贴数据建设、降低企业落地风险、打通市场准入等多个",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3774442584834817",
-        "title": "中信建投：关注推理算力和商业航天发展机遇",
-        "url": "https://36kr.com/newsflashes/3774442584834817?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-20T00:52:32.000Z",
-        "summary": "36氪获悉，中信建投证券研报称，AI算力与商业航天迎来产业加速期。算力端，应用演进深刻重构基础设施：Agent推动计算负载从GPU密集到CPU密集，数据中心CPU与GPU配比有望大幅提升；AI算力需求爆发叠加内存涨价以及产能紧张等因素，共同推动今年以来的服务器CPU缺货及涨价；大模型推理降本诉求则驱动巨头加速布局ASIC，行业走向GPU+ASIC的异构协同。航天端，以2026航天日为契机，随着多型可重复使用火箭迎来密集验证，运力供给的提",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3774441871065607",
-        "title": "华泰证券：强业绩线索中，电池、电力链拥挤度不高仍可参与",
-        "url": "https://36kr.com/newsflashes/3774441871065607?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-20T00:46:49.000Z",
-        "summary": "36氪获悉，华泰证券研报认为，一方面，上周市场面临的海外扰动增多，另一方面，尽管景气投资的有效性、阶段性增强，但通信、算力等核心板块短期或有一定兑现压力。因此，建议控制仓位，并调整持仓，具体来看，第一，算力链业绩兑现程度高但短期筹码兑现压力或较高，静待风险解除后再度参与或更优，中期角度算力产业逻辑仍清晰、当前PEG（未来3年）并不算高，第二，强业绩线索中，电池、电力链（储能、电网设备等）拥挤度不高仍可参与，第三，景气边际改善的品种中出口",
         "category": "updates",
         "region": "cn"
       },
@@ -1310,72 +1340,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3773090942321155",
-        "title": "36氪首发 | 前华为工程师创业，实现临时键合载板存量循环，龙头客户已验证",
-        "url": "https://36kr.com/p/3773090942321155?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-19T01:46:49.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，环晶芯科技已于近期完成数千万元天使轮融资。本轮由啟赋资本领投，盛世投资、海益资���及湖南省大学生创业投资基金跟投。资金将主要用于公司在无锡的首条量产线建设、研发投入及补充流动资金。 环晶芯科技成立于2025年5月，是国内首家提出临时键合载板无损回收复用方案的公司。公司创始人张介元拥有中科院、中科大、哈工大的研究背景及华为从业经历，师从国内打破临时键合胶垄断的第一人，对该类材料特性有深刻理解。 硬氪了",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/ry64grnlaeef1qdzabb0",
         "title": "谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力",
         "url": "https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-04-18T10:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3770721219035649",
-        "title": "智元机器人，要做AI大模型平台和开放生态",
-        "url": "https://36kr.com/p/3770721219035649?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-18T02:00:00.000Z",
-        "summary": "文｜王毓婵 编辑｜杨轩 当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？ 上个月，智元刚刚跨过“机器人量产下线一万台”的门槛。4月17日，这家由前华为“天才少年”彭志辉与前华为副总裁邓泰华共同创立的机器人公司在合作伙伴大会上，花了大量的时间和篇幅介绍软件上的新产品。相较之下，硬件的篇幅反倒很少。 智元推出了六大AI模型、七大生产力解决方案，并首次公开AIMA（AI Machine Architecture）全栈生态技",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3771628958843398",
-        "title": "9点1氪丨霍尔木兹海峡完全开放；雷军称未来几年不会做十万元以内车型；四大一线城市房价全涨",
-        "url": "https://36kr.com/p/3771628958843398?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-18T01:06:04.000Z",
-        "summary": "今日热点导览 瑞幸将上线瓶装咖啡，售价6-7元 阿嬷手作新品一杯48元，被吐槽太贵，创始人回应 新增海外工作地，字节跳动面向全球招募技术人才 苹果31年元老、营销副总裁斯坦·吴宣布退休 派拉蒙承诺电影至少上映45天再上流媒体 TOP3大新闻 霍尔木兹海峡完全开放，特朗普：感谢伊朗 伊朗外长阿拉格齐17日在社交媒体上说，鉴于黎巴嫩和以色列达成停火，在停火期间，伊朗对所有商船开放霍尔木兹海峡。阿拉格��说，霍尔木兹海峡在停火期间对所有商船通",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3770688595214857",
-        "title": "小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家",
-        "url": "https://36kr.com/p/3770688595214857?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-17T11:23:40.000Z",
-        "summary": "36 氪从多个独立信源获悉，4月17日，小米集团通过内部邮件宣布：胡峥楠出任小米集团副总裁、汽车部 CTO；宋钢出任小米集团汽车部副总裁、参谋长。这是小米汽车自 2021 年宣布成立以来首次设立 CTO 岗位。 据 36 氪了解，两位新任高管在汽车行业均有超过二十年的从业积累，履历横跨传统车企与新能源赛道。 截至目前，小米汽车研发人员接近万人。一大批各有所长的汽车行业专家的加入，小米汽车正加快形成覆盖研发、设计、制造、安全、供应链等全链",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3770819743728131",
-        "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
-        "url": "https://36kr.com/p/3770819743728131?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-17T11:17:58.000Z",
-        "summary": "文｜邱晓芬 编辑｜苏建勋 2026年，AI正在加速从云端落地到端侧。近期，模型厂商和手机厂商都在背后开始发力—— 3月下旬，国内几大手机厂商几乎同时推送了端侧AI的大规模更新，把原本仅限于旗舰机的AI能力下放到中端和千元机市场。自此，端侧AI终于成为大部分智能手机的标配。 到了4月初，谷歌发布开源模型Gemma 4系列，通过架构创新显著降低了端侧AI部署门槛，让AI能力首次真正下沉至手机、IoT等边缘场景中。 尽管当前行业里对端侧AI落",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3770787623404293",
-        "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
-        "url": "https://36kr.com/p/3770787623404293?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-17T11:02:56.000Z",
-        "summary": "文｜王欣逸 编辑｜苏建勋 龙虾热还在继续。 4月16日，荣耀进行了一场史上最短的发布会，正式发布此前预热的“养虾本”——荣耀MagicBook系列轻薄本。 即便OpenClaw已经刷屏了两个多月，但对于普通用户而言，要养一只原装龙虾，并没有想象中的容易。 不少软件和云服务厂商赶上热度，推出一键部署的龙虾。但对终端厂商而言，下场做龙虾和“养虾本”，荣耀是第一家。 据悉，荣耀MagicBook数字系列是荣耀首款“养虾本”，出厂即配置荣耀自研",
         "category": "updates",
         "region": "cn"
       }
