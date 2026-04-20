@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T07:53:43.736Z",
+  "generatedAt": "2026-04-20T13:10:38.101Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -14,6 +14,16 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-20T07:02:07.000Z",
         "summary": "Legal tech companies, and especially VC-fuelled startups, have an ARR problem. At its core is how you define ‘Annual Recurring Revenue’. Things have come to ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+        "title": "OpenAI helps Hyatt advance AI among colleagues",
+        "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+        "source": "OpenAI News",
+        "publishedAt": "2026-04-20T00:00:00.000Z",
+        "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
         "category": "updates",
         "region": "na"
       },
@@ -1196,35 +1206,25 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/video/mmwbdbfqopxctvfkphc1",
+        "title": "混元大模型加持！揭秘 AI 时代的 SQL 自动调优核心方案",
+        "url": "https://www.infoq.cn/video/mMwbDBfQOpxCTvFkPhc1?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-20T16:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/video/qytsckj32wud8dmy3xwr",
         "title": "TDSQL-C 核心技术突破：AI 加持下的 Serverless 智能化弹性四层架构解析",
         "url": "https://www.infoq.cn/video/qyTsCKj32wUD8Dmy3xWr?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-04-20T15:33:24.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/7bfrhmegiaitwitb40rl",
-        "title": "“开源已死”？怕被 OpenAI 和 Mythos 把代码挖成筛子，4 万 Star 项目突然闭源！",
-        "url": "https://www.infoq.cn/article/7BfrHmegIaitwiTb40Rl?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-20T14:07:02.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1240,32 +1240,12 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/wthlu3ngf5ir9ivwlpxr",
-        "title": "取消AI考核、零裁员！股价暴跌82%后，多邻国走出了一条反硅谷之路",
-        "url": "https://www.infoq.cn/article/WTHlU3Ngf5ir9IvWLpXr?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-20T13:22:09.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3774850359853571",
-        "title": "“AI药物递送第一股”剂泰科技正式通过港交所聆讯",
-        "url": "https://36kr.com/newsflashes/3774850359853571?f=rss",
+        "id": "36Kr:36kr.com/p/3774760404894216",
+        "title": "申根签证申请同比增长20%，VFS Global观察中国市场回暖｜最前线",
+        "url": "https://36kr.com/p/3774760404894216?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-20T07:36:21.000Z",
-        "summary": "36氪获悉，“AI药物递送第一股”剂泰科技正式通过港交所聆讯，根据其招股书，此次募资拟用于AI基础设施及纳米材料平台技术研发，在研管线的临床试验推进和动物健康及抗衰领域应用。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3774789800182530",
-        "title": "阿里发布语音识别大模型Fun-ASR1.5",
-        "url": "https://36kr.com/newsflashes/3774789800182530?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-20T06:34:45.000Z",
-        "summary": "36氪获悉，4月20日，阿里巴巴发布端到端语音识别大模型Fun-ASR1.5 ，无需预设语种标签，单一模型即可高精度识别30种语言。此前，Fun-ASR1.0已用于钉钉AI听记、DingTalk A1录音机等智能硬件。全新升级的1.5版本覆盖中文七大方言体系及二十余种地方口音，并强化古诗词诵读的专项识别，将应用场景拓宽至跨国企业、国际会议、多语直播、县域政务服务以及古诗词教育等。",
+        "publishedAt": "2026-04-20T09:40:05.000Z",
+        "summary": "随着全球出境游持续修复，签证申请这一长期被视为“前置流程”的环节，正在被重新放回旅行产业链的核心位置。 近期，全球最大的政府和外交使团签证及护照外包服务商VFS Global（威孚仕）在中国市场释放出多个关键信号： 一方面，2026年出行旺季已明显提前，申请需求快速回升；另一方面，中国申请人对签证服务的期待，正从单一的效率导向转向“效率+体验”的复合型需求。 这一变化，不仅放大了签证体系在旺季的承压程度，也在重塑行业竞争的底层逻辑。 威",
         "category": "updates",
         "region": "cn"
       },
@@ -1295,27 +1275,7 @@
         "url": "https://36kr.com/p/3773892499096068?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-20T02:00:10.000Z",
-        "summary": "作者 | 张子怡 编辑 | 袁斯来 智能派的联合创始人兼副总经理陈波变了一个人。 三年前，你见到他，会觉得这人张扬到有些轻狂。陈波对于智能派产品和能力有绝对自信，至于对手，”没什么了不起”。 三年后，他告诉我们：有些事会尽力而为，如果几年后做不出想要的成绩，让更有能力的人来接管业务——甚至会引入职业经理人。 在“创始人崇拜”盛行的创投圈，这是一个让人震动的决定，却也有迹可循。 硬氪独家获悉，智能派已完成数亿元B+轮融资。由美团领投，深创",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3774502008963841",
-        "title": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
-        "url": "https://36kr.com/p/3774502008963841?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-20T01:42:44.000Z",
-        "summary": "文｜邱晓芬 编辑｜苏建勋 《智能涌现》独家获悉，自变量机器人已经于三月底至四月初完成近20亿元B轮融资，领投方为小米战投和红杉中国。 不久前，美团、阿里和字节分别在A轮、A+轮、A++轮领投或独投自变量机器人。截至目前，自变量已成为国内唯一一家同时被四家互联网大厂投资的具身智能企业。 对此，自变量方面暂无回应。 小米战投在具身智能机器人领域已落子，近两年公开的投资项目包括纬钛机器人（触觉传感）、曦诺未来（灵巧手）、萝博派对（本体）、章鱼",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3774401650656001",
-        "title": "8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿",
-        "url": "https://36kr.com/p/3774401650656001?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-20T00:02:52.000Z",
-        "summary": "今日热点导览 张雪坦言流量已成为甜蜜负担 泰坦尼克号救生衣拍出90.6万美元 涉案金额2.6亿元，中国摧毁山西特大假酒网络 小米集团人事调整，首次任命汽车部CTO 国产光纤全球爆单，光纤价格暴涨650% TOP3大新闻 12306五一已拒绝抢票软件105.6万张票 据中国铁路消息，五一假期火车票开售以来，铁路12306精准识别频繁大量为非本人购票的铁路12306注册账号和频繁大量为非本人订单支付的支付账户的异常行为，将有异常行为的铁路1",
+        "summary": "作者 | 张子怡 编辑 | 袁斯来 智能派的联合创始人兼副总经理陈波变了一个人。 三年前，你见到他，会觉得这人张扬到有些轻狂。陈波对于智能派产品和能力有绝对自信，至于对手，”没什么了不起”。 三年后，他告诉我们：有些事会尽力而为，如果几年后做不出想要的成绩，让更有能力的人来接管业务——甚至会引入职业经理人。 在“创始人崇拜”盛行的创投圈，这是一个让人震动的决定，却也有迹可循。 硬氪独家获悉，智能派已完成数亿元B+轮融资。由美团龙珠、美团",
         "category": "updates",
         "region": "cn"
       },
@@ -1335,16 +1295,6 @@
         "url": "https://www.infoq.cn/article/gL44mioSTWOY6WAClSAl?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-04-19T08:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ry64grnlaeef1qdzabb0",
-        "title": "谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力",
-        "url": "https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-18T10:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1368,16 +1318,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-04-17T10:00:14.000Z",
         "summary": "Nvidia CEO Jensen Huang said on a recent podcast that if Chinese artificial intelligence start-up DeepSeek optimised its new models on chips from Huawei Technologies, it would be “a horrible outcome” for the US. If “futu",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "Sixth Tone:www.sixthtone.com/news/1018314/love%20in%20the%20time%20of%20algorithms:%20what%20chatbot%20romances%20reveal%20about%20connection",
-        "title": "Love in the Time of Algorithms: What Chatbot Romances Reveal About Connection",
-        "url": "https://www.sixthtone.com/news/1018314/Love%20in%20the%20Time%20of%20Algorithms:%20What%20Chatbot%20Romances%20Reveal%20About%20Connection",
-        "source": "Sixth Tone",
-        "publishedAt": "2026-03-17T00:00:00.000Z",
-        "summary": "When OpenAI announced that it would retire its ChatGPT model GPT-4o, it sent shockwaves across the internet and an outpouring of grief. Yet the real question is: What void was 4o filling to begin with?",
         "category": "updates",
         "region": "cn_en"
       }
