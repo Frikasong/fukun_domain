@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T07:23:55.956Z",
+  "generatedAt": "2026-04-21T13:05:06.396Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/deepjudge-epiq-advisory-partner-for-km-implementation",
+        "title": "DeepJudge + Epiq Advisory Partner For KM Implementation",
+        "url": "https://www.artificiallawyer.com/2026/04/21/deepjudge-epiq-advisory-partner-for-km-implementation/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-21T13:02:52.000Z",
+        "summary": "AI-driven KM startup DeepJudge is partnering with Epiq Advisory for Law Firms, the consulting group attached to the multi-capability legal tech conglomerate, Epiq. The partnership ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/04/lexisnexis-and-luminance-announce-partnership-to-embed-protege-inside-luminances-contract-platform.html",
+        "title": "LexisNexis and Luminance Announce Partnership to Embed Protégé Inside Luminance&#8217;s Contract Platform",
+        "url": "https://www.lawnext.com/2026/04/lexisnexis-and-luminance-announce-partnership-to-embed-protege-inside-luminances-contract-platform.html",
+        "source": "LawSites",
+        "publishedAt": "2026-04-21T12:00:36.000Z",
+        "summary": "LexisNexis and Luminance today announced a partnership that will let mutual in-house legal customers access LexisNexis&#8217;s Protégé AI assistant from inside Luminance&#8217;s contract negotiation platform, with a path",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/luminance-links-to-lexisnexis-data-protege",
+        "title": "Luminance Links To LexisNexis Data + Protégé",
+        "url": "https://www.artificiallawyer.com/2026/04/21/luminance-links-to-lexisnexis-data-protege/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-21T12:00:00.000Z",
+        "summary": "Legal AI company Luminance has struck a deal with LexisNexis whereby &#8216;mutual inhouse customers&#8217; can access LexisNexis’s Protégé AI assistant and its massive data store. ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/legal-techs-arr-problem-industry-responses",
+        "title": "Legal Tech’s ARR Problem – Industry Responses",
+        "url": "https://www.artificiallawyer.com/2026/04/21/legal-techs-arr-problem-industry-responses/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-21T08:45:08.000Z",
+        "summary": "Yesterday, Artificial Lawyer highlighted calls for more clarity when it comes to the use of the term ARR (annual recurring revenue) – in particular by ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/product-walk-through-deposim-altaclaro",
+        "title": "Product Walk Through: DepoSim – AltaClaro",
+        "url": "https://www.artificiallawyer.com/2026/04/21/product-walk-through-deposim-altaclaro/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-21T07:44:25.000Z",
+        "summary": "This week’s AL TV Product Walk Through is with AltaClaro and its DepoSim, an AI-powered deposition simulator that enables lawyers to conduct live oral depositions ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/intelligence-rearranged-how-agents-are-changing-legal-work",
         "title": "Intelligence, Rearranged: How Agents Are Changing Legal Work",
@@ -194,46 +244,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-15T14:11:16.000Z",
         "summary": "ClearyX, the ALSP created by top New York firm Cleary Gottlieb, has launched CX+, a contract insights and due diligence platform. They added that it ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/15/webinar-convert-3-5x-more-leads-with-eve-ai-for-intake",
-        "title": "Webinar: Convert 3.5x More Leads With Eve AI For Intake",
-        "url": "https://www.artificiallawyer.com/2026/04/15/webinar-convert-3-5x-more-leads-with-eve-ai-for-intake/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-15T12:06:09.000Z",
-        "summary": "Eve Webinar Promotion. &#8216;What if you could handle every single call like your best intake rep was on the line? With AI, now you can! ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/15/freshfields-celebrates-worldwide-google-ai-tools-roll-out",
-        "title": "Freshfields Celebrates Worldwide Google AI Tools Roll Out",
-        "url": "https://www.artificiallawyer.com/2026/04/15/freshfields-celebrates-worldwide-google-ai-tools-roll-out/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-15T10:32:44.000Z",
-        "summary": "Freshfields would like you to know that ‘5,000 professionals firmwide now use AI tools built with Google&#8217;s Gemini models, one year into the firm’s strategic ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/15/juro-launches-operator-contract-chat",
-        "title": "Juro Launches Operator Contract Chat",
-        "url": "https://www.artificiallawyer.com/2026/04/15/juro-launches-operator-contract-chat/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-15T10:19:00.000Z",
-        "summary": "Juro has launched Operator, which provides natural language ‘conversational access to a business’s contracts and data&#8217; in order to surface key information. The inhouse-focused company ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/15/microsoft-copilot-specifically-targets-lawyers-with-new-capabilities",
-        "title": "Microsoft Copilot Specifically Targets Lawyers With New Capabilities",
-        "url": "https://www.artificiallawyer.com/2026/04/15/microsoft-copilot-specifically-targets-lawyers-with-new-capabilities/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-15T07:44:27.000Z",
-        "summary": "Microsoft Copilot is specifically targeting lawyers as well now with the launch of new capabilities that they state are for ‘legal, finance, and compliance professionals’. ...",
         "category": "tools",
         "region": "na"
       },
@@ -1158,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/01/legal-tech-spending-surges-9-7-as-firms-race-to-integrate-ai-says-report-on-state-of-legal-market.html",
-        "title": "Legal Tech Spending Surges 9.7% As Firms Race to Integrate AI, Says Report On State Of Legal Market",
-        "url": "https://www.lawnext.com/2026/01/legal-tech-spending-surges-9-7-as-firms-race-to-integrate-ai-says-report-on-state-of-legal-market.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-07T19:28:32.000Z",
-        "summary": "Law firms dramatically accelerated their technology investments in 2025, with spending on tech and knowledge management tools growing 9.7% and 10.5% respectively — the fastest real growth likely ever experienced in the l",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,31 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/qyxumedtvvstcoe1bbzk",
-        "title": "构建可信数据智能体的上下文层 ｜ 技术趋势",
-        "url": "https://www.infoq.cn/article/QyXUMEdTVvStcoE1bBZK?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/fkc0yslc9adjzk1v81ow",
+        "title": "模力工场 037 周 AI 应用周榜：生态意识增强，多模态已成AI应用标配",
+        "url": "https://www.infoq.cn/article/fKc0YsLc9aDjzk1V81oW?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-21T15:06:43.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/dgeqocgxjrdbxkvxzhcl",
-        "title": "湖仓建设中的巴别塔：跨数据库引擎处理标识符解析规则",
-        "url": "https://www.infoq.cn/article/dGEQOcGXJRdBxkvXzhCl?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-21T15:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/5mm7vodr7ttthpvwklzl",
-        "title": "Vibe Coding 的边界：3000 万开发者，实现不了 80 亿人的灵光",
-        "url": "https://www.infoq.cn/article/5mM7VODr7TttHPVwklzl?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-21T14:30:00.000Z",
+        "publishedAt": "2026-04-21T19:59:47.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1256,6 +1236,26 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-21T13:19:20.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3776522378233856",
+        "title": "报道称大众汽车今年将在其中国车型中加入语音人工智能技术",
+        "url": "https://36kr.com/newsflashes/3776522378233856?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-21T11:57:13.000Z",
+        "summary": "据报道，大众汽车今年将在其中国车型中加入语音人工智能技术。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3776458805904129",
+        "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
+        "url": "https://36kr.com/p/3776458805904129?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-21T11:20:06.000Z",
+        "summary": "大公司： 猛士汽车携手华为乾崑发布智能越野黑科技 36氪获悉，4月20日，猛士汽车举办春季焕新发布会。发布会上，猛士汽车携手华为乾崑联合发布智能越野黑科技，同时完成全方位焕新。未来两年，猛士汽车将会把智能越野的新技术逐步落地到4款以上的全新车型上。 长安汽车朱华荣：2030年力争实现营收6000亿元 36氪获悉，在中国长安汽车战略发布会上，中国长安汽车党委书记、董事长朱华荣表示，公司将按照“十年两步走”，到2030年，力争实现营业收入6",
         "category": "updates",
         "region": "cn"
       },
@@ -1290,42 +1290,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3776231689683718",
-        "title": "A股三大指数集体收涨，中国移动涨超3%",
-        "url": "https://36kr.com/newsflashes/3776231689683718?f=rss",
+        "id": "36Kr:36kr.com/p/3769659305427459",
+        "title": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
+        "url": "https://36kr.com/p/3769659305427459?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-21T07:01:31.000Z",
-        "summary": "36氪获悉，A股三大指数集体收涨，沪指涨0.07%，深成指涨0.1%，创业板指涨0.31%；电信、石油化工、煤炭板块领涨，岳阳兴长涨停，兖矿能源涨超4%，中国移动涨超3%；AI算力、服务器、稳定币概念跌幅居前，英维克跌停，翠微股份跌超4%，寒武纪跌超3%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3776210798199556",
-        "title": "理想汽车宣布首发高德汽车出行AI Agent",
-        "url": "https://36kr.com/newsflashes/3776210798199556?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-21T06:40:16.000Z",
-        "summary": "4月20日，理想汽车称，将首发高德汽车出行AI Agent。双方合作内容将包括“精准理解复杂出行指令”“多轮对话灵活调整路线”“定制专属个性化导航方案”“智能规划长途补能路径”等。前一日，高德官方发布一则产品宣传片，对外展示了其在出行场景的主动理解模糊和复杂意图的能力。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3776210058658313",
-        "title": "我国智能算力规模达1882EFLOPS",
-        "url": "https://36kr.com/newsflashes/3776210058658313?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-21T06:39:30.000Z",
-        "summary": "工业和信息化部副部长张云明21日表示，算力基础设施已成为驱动人工智能发展的关键底座。截至3月底，我国智能算力规模达1882EFLOPS。（新华社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3776185459196679",
-        "title": "上海：加快新一代通用人工智能、智能软件、智算系统等技术攻关",
-        "url": "https://36kr.com/newsflashes/3776185459196679?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-21T06:14:29.000Z",
-        "summary": "36氪获悉，上海市人民政府办公厅印发《国家数字经济创新发展试验区（上海）实施方案》，方案提出，开展智能技术攻关。加快新一代通用人工智能、智能软件、智算系统等技术攻关。体系化推进科学智能，实施“百团百项”工程，孵化创新企业。推动通用科学大模型与学科模型协同推理技术突破，加强科学数据结构化表征、科学数据治理工具链、科学实验智能体等技术研究。",
+        "publishedAt": "2026-04-21T08:19:29.000Z",
+        "summary": "36氪获悉，宠物AI科技初创公司PettiChat于近期完成100万美元的种子轮融资。由浙大校友基金藕舫天使与华旦天使联合投资，本轮融资将主要用于动物行为世界模型的研发、高质量数据集的构建以及首款硬件产品的市场推广。 在通用人工智能（AGI）横扫人类语言世界的今天，一个被忽视的语言场景被一家初创企业投入了密切关注——那就是人类与动物之间的沟通。 长期以来，人类与宠物的互动多停留在感性猜测层面。虽然宠物市场规模巨大——据统计，2025年全",
         "category": "updates",
         "region": "cn"
       },
@@ -1351,63 +1321,23 @@
       },
       {
         "id": "36Kr:36kr.com/p/3775833331286530",
-        "title": "8点1氪丨库克将不再担任苹果CEO；爱奇艺回应AI艺人库争议：入驻仅代表有接洽意愿；日本修正震级为7.7级",
+        "title": "8点1氪丨库克将不再担任苹果CEO；爱奇艺回应AI艺人库争议：入���仅代表有接洽意愿；日本修正震级为7.7级",
         "url": "https://36kr.com/p/3775833331286530?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-21T00:19:48.000Z",
         "summary": "今日热点导览 美关税退款系统上线 字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70% “五一”临近航班遭取消？航空公司：优先签转，保障旅客顺利成行 贵州茅台盘中股价反超源杰科技，重新成为A股“一哥” TOP 3大新闻 苹果公司宣布特纳斯将接替库克担任CEO 当地时间4月20日，美国苹果公司宣布任命内部高管、长期负责硬件业务的约翰·特纳斯为该公司下一任首席执行官，接替自2011年以来一直执掌公司的蒂姆·库克。苹果公司表示，",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/mmwbdbfqopxctvfkphc1",
-        "title": "混元大模型加持！揭秘 AI 时代的 SQL 自动调优核心方案",
-        "url": "https://www.infoq.cn/video/mMwbDBfQOpxCTvFkPhc1?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-20T16:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/qytsckj32wud8dmy3xwr",
-        "title": "TDSQL-C 核心技术突破：AI 加持下的 Serverless 智能化弹性四层架构解析",
-        "url": "https://www.infoq.cn/video/qyTsCKj32wUD8Dmy3xWr?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-20T15:33:24.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/2dfmi702aty7opnhefpu",
-        "title": "曝DeepSeek V4将于本周发布，梁文锋启动首次外部融资；宇树H1半马被担架抬离赛道；钉钉创始人：全员禁止写文档；Hermes Agent三度否认抄袭｜AI周报",
-        "url": "https://www.infoq.cn/article/2DFMI702ATy7OpNheFPu?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-20T13:33:15.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3774760404894216",
-        "title": "申根签证申请同比增长20%，VFS Global观察中国市场回暖｜最前线",
-        "url": "https://36kr.com/p/3774760404894216?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-20T09:40:05.000Z",
-        "summary": "随着全球出境游持续修复，签证申请这一长期被视为“前置流程”的环节，正在被重新放回旅行产业链的核心位置。 近期，全球最大的政府和外交使团签证及护照外包服务商VFS Global（威孚仕）在中国市场释放出多个关键信号： 一方面，2026年出行旺季已明显提前，申请需求快速回升；另一方面，中国申请人对签证服务的期待，正从单一的效率导向转向“效率+体验”的复合型需求。 这一变化，不仅放大了签证体系在旺季的承压程度，也在重塑行业竞争的底层逻辑。 威",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3350801/chinese-circuit-board-supplier-victory-giant-jumps-hong-kong-share-debut",
-        "title": "Chinese circuit-board supplier Victory Giant jumps 57% in Hong Kong share debut",
-        "url": "https://www.scmp.com/business/banking-finance/article/3350801/chinese-circuit-board-supplier-victory-giant-jumps-hong-kong-share-debut?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/plus/business/banking-finance/article/3350873/victory-giant-skyrockets-after-biggest-hong-kong-ipo-year",
+        "title": "Victory Giant skyrockets after biggest Hong Kong IPO this year",
+        "url": "https://www.scmp.com/plus/business/banking-finance/article/3350873/victory-giant-skyrockets-after-biggest-hong-kong-ipo-year?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-04-21T01:43:39.000Z",
-        "summary": "Victory Giant, a Chinese manufacturer of printed circuit boards (PCBs) for artificial intelligence and high-performance computing, rose by 57.23 per cent in its trading debut in Hong Kong on Tuesday, as investors rushed ",
+        "publishedAt": "2026-04-21T09:12:30.000Z",
+        "summary": "Nvidia supplier Victory Giant surged 50 per cent on its first day of trading following the biggest Hong Kong initial public offering this year, as investor appetite for artificial intelligence stocks weathers uncertainty",
         "category": "updates",
         "region": "cn_en"
       },
