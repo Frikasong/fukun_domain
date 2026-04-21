@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T01:52:10.744Z",
+  "generatedAt": "2026-04-21T07:23:55.956Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/intelligence-rearranged-how-agents-are-changing-legal-work",
+        "title": "Intelligence, Rearranged: How Agents Are Changing Legal Work",
+        "url": "https://www.artificiallawyer.com/2026/04/21/intelligence-rearranged-how-agents-are-changing-legal-work/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-21T06:42:06.000Z",
+        "summary": "By Ryan Samii, Head of Product Innovation, Harvey. Terence Tao, the world’s greatest mathematician, recently suggested we’re living through a ‘cognitive Copernican revolution.’ His point: ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/alec&",
         "title": "Alec Baldwin headed back to trial for ‘Rust’ negligence lawsuit",
@@ -224,16 +234,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-15T07:44:27.000Z",
         "summary": "Microsoft Copilot is specifically targeting lawyers as well now with the launch of new capabilities that they state are for ‘legal, finance, and compliance professionals’. ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/15/product-walk-through-august-genius-mode",
-        "title": "Product Walk Through: August – Genius Mode",
-        "url": "https://www.artificiallawyer.com/2026/04/15/product-walk-through-august-genius-mode/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-15T06:41:25.000Z",
-        "summary": "This week’s AL TV Product Walk Through is with legal AI platform, August, and looks at its new Genius Mode. The capability gives law firms ...",
         "category": "tools",
         "region": "na"
       },
@@ -1210,23 +1210,63 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/mypv4drajfvixhess6xk",
-        "title": "QCon 2026 北京站收官：以 AI 之力，重塑软件工程新生态",
-        "url": "https://www.infoq.cn/article/mYPV4DrAJfvixheSs6XK?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/qyxumedtvvstcoe1bbzk",
+        "title": "构建可信数据智能体的上下文层 ｜ 技术趋势",
+        "url": "https://www.infoq.cn/article/QyXUMEdTVvStcoE1bBZK?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-21T09:26:01.000Z",
+        "publishedAt": "2026-04-21T15:06:43.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/klrshcfebkwu9rw85u0a",
-        "title": "100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？",
-        "url": "https://www.infoq.cn/article/KlrsHcFeBKWu9RW85u0a?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/dgeqocgxjrdbxkvxzhcl",
+        "title": "湖仓建设中的巴别塔：跨数据库引擎处理标识符解析规则",
+        "url": "https://www.infoq.cn/article/dGEQOcGXJRdBxkvXzhCl?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-21T09:19:20.000Z",
+        "publishedAt": "2026-04-21T15:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/5mm7vodr7ttthpvwklzl",
+        "title": "Vibe Coding 的边界：3000 万开发者，实现不了 80 亿人的灵光",
+        "url": "https://www.infoq.cn/article/5mM7VODr7TttHPVwklzl?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-21T14:30:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/th0qvhpvvgz7vp3haemm",
+        "title": "Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了",
+        "url": "https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-21T14:14:32.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ho3qjql4dzswa1lovmmy",
+        "title": "Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗",
+        "url": "https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-21T13:19:20.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/nmxqfehuc6epw9qerwqj",
+        "title": "GitHub Copilot CLI 正式进入全面可用阶段",
+        "url": "https://www.infoq.cn/article/NMxQFeHUc6EPw9QERWQj?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-21T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "tools",
         "region": "cn"
       },
       {
@@ -1250,32 +1290,52 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/eejvvufwvgeusllyfhgh",
-        "title": "AI提效20%，我们程序员加班却越来越狠：老板量生产力的尺子，歪了？",
-        "url": "https://www.infoq.cn/article/EejvvufwVGEusllYFHgH?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-21T08:57:18.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3776231689683718",
+        "title": "A股三大指数集体收涨，中国移动涨超3%",
+        "url": "https://36kr.com/newsflashes/3776231689683718?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-21T07:01:31.000Z",
+        "summary": "36氪获悉，A股三大指数集体收涨，沪指涨0.07%，深成指涨0.1%，创业板指涨0.31%；电信、石油化工、煤炭板块领涨，岳阳兴长涨停，兖矿能源涨超4%，中国移动涨超3%；AI算力、服务器、稳定币概念跌幅居前，英维克跌停，翠微股份跌超4%，寒武纪跌超3%。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3775911052378633",
-        "title": "贝佐斯旗下人工智能实验室融资交易接近敲定，估值逼近380亿美元",
-        "url": "https://36kr.com/newsflashes/3775911052378633?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3776210798199556",
+        "title": "理想汽车宣布首发高德汽车出行AI Agent",
+        "url": "https://36kr.com/newsflashes/3776210798199556?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-21T01:45:14.000Z",
-        "summary": "据英国金融时报，杰夫・贝佐斯旗下人工智能实验室（AI LAB），即将完成一笔100 亿美元融资交易，企业估值达380亿美元。（新浪财经）",
+        "publishedAt": "2026-04-21T06:40:16.000Z",
+        "summary": "4月20日，理想汽车称，将首发高德汽车出行AI Agent。双方合作内容将包括“精准理解复杂出行指令”“多轮对话灵活调整路线”“定制专属个性化导航方案”“智能规划长途补能路径”等。前一日，高德官方发布一则产品宣传片，对外展示了其在出行场景的主动理解模糊和复杂意图的能力。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3775914616734468",
-        "title": "创业板指跌超1%",
-        "url": "https://36kr.com/newsflashes/3775914616734468?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3776210058658313",
+        "title": "我国智能算力规模达1882EFLOPS",
+        "url": "https://36kr.com/newsflashes/3776210058658313?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-21T01:38:58.000Z",
-        "summary": "36氪获悉，创业板指跌超1%，沪指跌0.22%，深成指跌0.84%；深成指跌0.87%，液冷、算力租赁、电网设备、半导体等方向跌幅居前，沪深京三市超3500股下跌。",
+        "publishedAt": "2026-04-21T06:39:30.000Z",
+        "summary": "工业和信息化部副部长张云明21日表示，算力基础设施已成为驱动人工智能发展的关键底座。截至3月底，我国智能算力规模达1882EFLOPS。（新华社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3776185459196679",
+        "title": "上海：加快新一代通用人工智能、智能软件、智算系统等技术攻关",
+        "url": "https://36kr.com/newsflashes/3776185459196679?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-21T06:14:29.000Z",
+        "summary": "36氪获悉，上海市人民政府办公厅印发《国家数字经济创新发展试验区（上海）实施方案》，方案提出，开展智能技术攻关。加快新一代通用人工智能、智能软件、智算系统等技术攻关。体系化推进科学智能，实施“百团百项”工程，孵化创新企业。推动通用科学大模型与学科模型协同推理技术突破，加强科学数据结构化表征、科学数据治理工具链、科学实验智能体等技术研究。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3774891479712514",
+        "title": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线",
+        "url": "https://36kr.com/p/3774891479712514?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-21T04:45:02.000Z",
+        "summary": "专注于AI+母婴智能生态的奇世智能CheeChips正式宣布完成天使轮融资。 本轮资金近半数将被投入技术研发，用于AI模型迭代、新产品原型打磨与专利布局；30%用于引进顶尖人才、扩充研发与运营团队；剩余25%投入市场调研、品牌建设与用户需求挖掘。 奇世智能推出了家用AI模拟全彩胎儿记录仪，这款硬件能够记录全孕期胎儿成长，改变准妈妈们的孕期体验，让孕期不再是母亲一个人的感受，而成为一个能与家人分享的，有意义的、连续的内容。 家用AI模拟全",
         "category": "updates",
         "region": "cn"
       },
