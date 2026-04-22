@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T07:22:02.055Z",
+  "generatedAt": "2026-04-22T13:07:52.801Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/22/how-to-unlock-the-real-value-of-legal-ai",
+        "title": "How To Unlock the Real Value of Legal AI",
+        "url": "https://www.artificiallawyer.com/2026/04/22/how-to-unlock-the-real-value-of-legal-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-22T07:41:28.000Z",
+        "summary": "By Alex Tring, BigHand. For all the noise around AI reshaping legal work, one thing is clear: successful adoption is only possible in firms that ...",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/22/how-ai-will-transform-the-legal-business-model",
+        "title": "How AI Will Transform The Legal Business Model",
+        "url": "https://www.artificiallawyer.com/2026/04/22/how-ai-will-transform-the-legal-business-model/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-22T06:48:02.000Z",
+        "summary": "Ahead of the landmark Legal Innovators Europe conference in Paris – June 24 and 25, AL spoke to Olivier Chaduteau, founder of the Day Two ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/voice/article/these&",
         "title": "These World War II lawyers were heroes of mine",
@@ -88,12 +108,62 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/deepjudge-epiq-advisory-partner-for-km-implementation",
+        "title": "DeepJudge + Epiq Advisory Partner For KM Implementation",
+        "url": "https://www.artificiallawyer.com/2026/04/21/deepjudge-epiq-advisory-partner-for-km-implementation/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-21T13:02:52.000Z",
+        "summary": "AI-driven KM startup DeepJudge is partnering with Epiq Advisory for Law Firms, the consulting group attached to the multi-capability legal tech conglomerate, Epiq. The partnership ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/04/lexisnexis-and-luminance-announce-partnership-to-embed-protege-inside-luminances-contract-platform.html",
         "title": "LexisNexis and Luminance Announce Partnership to Embed Protégé Inside Luminance&#8217;s Contract Platform",
         "url": "https://www.lawnext.com/2026/04/lexisnexis-and-luminance-announce-partnership-to-embed-protege-inside-luminances-contract-platform.html",
         "source": "LawSites",
         "publishedAt": "2026-04-21T12:00:36.000Z",
         "summary": "LexisNexis and Luminance today announced a partnership that will let mutual in-house legal customers access LexisNexis&#8217;s Protégé AI assistant from inside Luminance&#8217;s contract negotiation platform, with a path",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/luminance-links-to-lexisnexis-data-protege",
+        "title": "Luminance Links To LexisNexis Data + Protégé",
+        "url": "https://www.artificiallawyer.com/2026/04/21/luminance-links-to-lexisnexis-data-protege/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-21T12:00:00.000Z",
+        "summary": "Legal AI company Luminance has struck a deal with LexisNexis whereby &#8216;mutual inhouse customers&#8217; can access LexisNexis’s Protégé AI assistant and its massive data store. ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/legal-techs-arr-problem-industry-responses",
+        "title": "Legal Tech’s ARR Problem – Industry Responses",
+        "url": "https://www.artificiallawyer.com/2026/04/21/legal-techs-arr-problem-industry-responses/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-21T08:45:08.000Z",
+        "summary": "Yesterday, Artificial Lawyer highlighted calls for more clarity when it comes to the use of the term ARR (annual recurring revenue) – in particular by ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/product-walk-through-deposim-altaclaro",
+        "title": "Product Walk Through: DepoSim – AltaClaro",
+        "url": "https://www.artificiallawyer.com/2026/04/21/product-walk-through-deposim-altaclaro/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-21T07:44:25.000Z",
+        "summary": "This week’s AL TV Product Walk Through is with AltaClaro and its DepoSim, an AI-powered deposition simulator that enables lawyers to conduct live oral depositions ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/intelligence-rearranged-how-agents-are-changing-legal-work",
+        "title": "Intelligence, Rearranged: How Agents Are Changing Legal Work",
+        "url": "https://www.artificiallawyer.com/2026/04/21/intelligence-rearranged-how-agents-are-changing-legal-work/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-21T06:42:06.000Z",
+        "summary": "By Ryan Samii, Head of Product Innovation, Harvey. Terence Tao, the world’s greatest mathematician, recently suggested we’re living through a ‘cognitive Copernican revolution.’ His point: ...",
         "category": "tools",
         "region": "na"
       },
@@ -128,6 +198,16 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/20/legal-tech-we-have-an-arr-problem",
+        "title": "Legal Tech – We Have an ARR Problem",
+        "url": "https://www.artificiallawyer.com/2026/04/20/legal-tech-we-have-an-arr-problem/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-20T07:02:07.000Z",
+        "summary": "Legal tech companies, and especially VC-fuelled startups, have an ARR problem. At its core is how you define ‘Annual Recurring Revenue’. Things have come to ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/04/alt-legal-acquires-uk-based-webtms-adding-global-ip-portfolio-management-to-its-trademark-platform.html",
         "title": "Alt Legal Acquires UK-Based WebTMS, Adding Global IP Portfolio Management to Its Trademark Platform",
         "url": "https://www.lawnext.com/2026/04/alt-legal-acquires-uk-based-webtms-adding-global-ip-portfolio-management-to-its-trademark-platform.html",
@@ -135,6 +215,26 @@
         "publishedAt": "2026-04-16T15:00:47.000Z",
         "summary": "In its sixth acquisition, Alt Legal, the cloud-based trademark docketing and management platform, has acquired WebTMS, a UK-based provider of IP portfolio management software with more than 25 years in business and over ",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/16/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams-2",
+        "title": "Webinar: Eudia + ServiceNow &#8211; &#8216;The 10x Future of Inhouse Legal Teams&#8217;",
+        "url": "https://www.artificiallawyer.com/2026/04/16/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams-2/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-16T06:29:17.000Z",
+        "summary": "On April 22, 12 noon EST, 9AM PST, and 5PM GMT, Artificial Lawyer is partnering with Eudia and ServiceNow for a live webinar where we will explore: ‘The 10x Future ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/16/legal-innovators-paris-june-24-25-speakers-announced",
+        "title": "Legal Innovators Paris: June 24 + 25 – Speakers Announced",
+        "url": "https://www.artificiallawyer.com/2026/04/16/legal-innovators-paris-june-24-25-speakers-announced/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-16T06:06:44.000Z",
+        "summary": "Legal Innovators Europe – Paris, takes place on June 24 and 25, and we can share with you some of our excellent speakers from across ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1106,36 +1206,96 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/pguekqa88emfliil1mwz",
-        "title": "当 PM 懂AI，当技术懂产品：AI 时代产品力的双向进化｜PM x AI产品力领航者大会即将开幕",
-        "url": "https://www.infoq.cn/article/PGUEKqa88emfLiIL1Mwz?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/ujysibqf8hesjbtwqphs",
+        "title": "高能研讨会｜端侧 AI 正在重写实时感知效率上限",
+        "url": "https://www.infoq.cn/video/UJySiBqf8hEsjBTWqpHS?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-22T14:43:36.000Z",
+        "publishedAt": "2026-04-22T19:15:10.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zfewc2btper4qiqfo2we",
+        "title": "2050大会看这篇就够了｜报名、交通食宿指引大全",
+        "url": "https://www.infoq.cn/article/ZFewc2btPEr4qiQfO2We?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-22T18:59:30.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3777977546101766",
+        "title": "谷歌云AI使用量达到每分钟160亿Tokens",
+        "url": "https://36kr.com/newsflashes/3777977546101766?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-22T12:37:29.000Z",
+        "summary": "谷歌表示，通过客户直接使用API，现在每分钟处理超过160亿Tokens，高于上季度的100亿个。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3777953384748033",
+        "title": "谷歌云发布用于人工智能的新型TPU芯片",
+        "url": "https://36kr.com/newsflashes/3777953384748033?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-22T12:12:55.000Z",
+        "summary": "4月22日，谷歌云发布最新一代张量处理单元（TPU），旨在提升人工智能计算服务的速度和效率。全新TPU系列将推出两个版本：TPU 8t用于创建AI软件，TPU 8i用于运行已创建的AI服务。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3777953050416385",
+        "title": "谷歌云推出7.5亿美元基金，助力合作伙伴加速智能体人工智能开发",
+        "url": "https://36kr.com/newsflashes/3777953050416385?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-22T12:12:34.000Z",
+        "summary": "4月22日，谷歌云宣布设立一项7.5亿美元的基金，旨在为其合作伙伴生态系统提供新的资源和激励措施，以帮助加速其共同客户利用智能体人工智能实现转型。该基金面向全球咨询公司、系统集成商、软件合作伙伴和渠道合作伙伴开放。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3777922471253252",
+        "title": "地平线发布舱驾融合芯片星空Starry 6P/6H",
+        "url": "https://36kr.com/newsflashes/3777922471253252?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-22T11:41:28.000Z",
+        "summary": "36氪获悉，4月22日，地平线推出为中国首款舱驾融合整车智能体芯片星空Starry 6P/6H芯片。据了解，星空Starry 6P采用5nm制程，算力达650TOPS，带宽为273GB/s 。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3774776026874375",
+        "title": "氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
+        "url": "https://36kr.com/p/3774776026874375?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-22T11:26:21.000Z",
+        "summary": "大公司： 特斯拉AI语音功能即将上线 据网信上海消息，4月21日，上海新增1款已完成备案的生成式人工智能服务，为特斯拉车机语音大模型服务。对此，4月22日，特斯拉方面人士回应称：“敬请期待”。按照规定，已上线的生成式人工智能应用应在显著位置或产品详情页面公示所使用已备案生成式人工智能服务情况，注明模型名称及备案号，并根据《人工智能生成合成内容标识办法》添加生成合成内容标识。（第一财经） 快手618商家大会于杭州启动 36氪获悉，4月22",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3777903768146945",
+        "title": "阿里等巨头洽谈投资DeepSeek",
+        "url": "https://36kr.com/newsflashes/3777903768146945?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-22T11:22:26.000Z",
+        "summary": "据媒体援引四位知情人士透露，腾讯控股和阿里集团正在洽谈投资DeepSeek，这家人工智能新兴公司最近首次开始筹资。一位知情人士透露，DeepSeek目前正寻求以超过200亿美元估值筹集资金。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3777896576800002",
+        "title": "永鼎股份：100G EML及硅光高功率芯片具备批量生产能力，启动扩产计划",
+        "url": "https://36kr.com/newsflashes/3777896576800002?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-22T11:15:07.000Z",
+        "summary": "36氪获悉，永鼎股份公告，公司光通信业务受益于数字经济及AI算力需求，光纤呈现量价齐升状态。在光芯片领域，子公司鼎芯光电采用IDM模式，建成化合物半导体工艺产线，覆盖芯片设计至封测全流程。针对市场关注的100GEML及硅光100mW/70mWCWHP等高功率芯片，受全球AI算力中心建设驱动，此类芯片供需缺口扩大，公���已具备上述产品的批量化生产能力，并正积极推进与国内外主流光模块厂商的合作。为匹配市场需求，公司已启动扩产计划。",
         "category": "updates",
         "region": "cn"
       },
@@ -1146,56 +1306,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-22T10:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3777657967580166",
-        "title": "“中科天塔”完成近亿元A+轮融资",
-        "url": "https://36kr.com/newsflashes/3777657967580166?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-22T07:12:24.000Z",
-        "summary": "36氪获悉，近日，“中科天塔”宣布完成近亿元A+轮融资。本轮融资由“温润投资”领投，“西科控股”加持增资。本轮融资金额将主要用于技术研发与产能扩大，重点布局航天大模型升级与激光通信领域，加速公司主业从软件向软硬一体战略升级，并将于近期正式启动激光通信产线试产。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3777653966411010",
-        "title": "Meta拟追踪美员工点击及击键数据训练AI，官方称数据不用于绩效评估",
-        "url": "https://36kr.com/newsflashes/3777653966411010?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-22T07:08:20.000Z",
-        "summary": "4月22日消息，内部备忘录显示，Meta计划在美国员工的电脑上安装新的追踪软件，以捕捉鼠标移动、点击和击键操作，用于训练其人工智能模型，该工具将在一系列与工作相关的应用程序和网站上运行。备忘录指出，该工具还会不时截取员工屏幕内容的快照，以提供上下文，这一举措的目的是帮助公司在仍存在不足的领域改进模型，例如从下拉菜单中进行选择和使用键盘快捷键。Meta发言人表示，收集的数据不会用于绩效评估或除模型训练之外的任何其他用途，并且已采取安全措施",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3777563699107075",
-        "title": "沪指午后站上4100点",
-        "url": "https://36kr.com/newsflashes/3777563699107075?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-22T05:36:30.000Z",
-        "summary": "36氪获悉，沪指午后站上4100点，深成指、创业板指均涨超1%，算力硬件、有色金属、半导体芯片等方向涨幅居前，沪深京三市上涨个股超2800只。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3777526407713797",
-        "title": "萤石发布搭“星辰世界模型”的蒸汽洗地机",
-        "url": "https://36kr.com/newsflashes/3777526407713797?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-22T04:58:34.000Z",
-        "summary": "36氪获悉，萤石发布多款AI硬件，在家庭智能中枢层面，萤石推出了搭载蓝海大模型2.0的EZVIZ AI CoreX，旨在成为家庭的本地“智慧大脑”。在细分产品线上，AI随身拍Pika定位为儿童首台AI设备，具备双摄与智能问答功能；此外，萤石还发布了AI双擎蒸汽洗地机器人，旗舰款星辰10 Master搭载了可理解家庭环境的“萤石星辰世界模型”，实现感知决策一体化的自主清洁。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3777518954566656",
-        "title": "消息人士：Anthropic计划很快向欧洲的银行开放Mythos使用权限",
-        "url": "https://36kr.com/newsflashes/3777518954566656?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-22T04:50:59.000Z",
-        "summary": "据三位知情人士透露，Anthropic计划很快向欧洲的银行开放其Mythos人工智能模型的使用权限。在美国大型银行已率先获得该模型的初步使用权限后，全球各大银行正争相测试这项技术。一位知情人士向路透透露，Anthropic计划将Mythos AI的接入范围扩展至欧洲和英国的银行及其他机构。该消息人士匿名表示，这一过程包括一系列审查，以确保推广以安全方式进行。另一位知情消息人士表示，欧洲的银行可能在数日内获得接入权限，而第一位知情人士则称",
         "category": "updates",
         "region": "cn"
       },
@@ -1230,16 +1340,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ho3qjql4dzswa1lovmmy",
-        "title": "Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗",
-        "url": "https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-21T13:19:20.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3776458805904129",
         "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
         "url": "https://36kr.com/p/3776458805904129?f=rss",
@@ -1247,16 +1347,6 @@
         "publishedAt": "2026-04-21T11:20:06.000Z",
         "summary": "大公司： 猛士汽车携手华为乾崑发布智能越野黑科技 36氪获悉，4月20日，猛士汽车举办春季焕新发布会。发布会上，猛士汽车携手华为乾崑联合发布智能越野黑科技，同时完成全方位焕新。未来两年，猛士汽车将会把智能越野的新技术逐步落地到4款以上的全新车型上。 长安汽车朱华荣：2030年力争实现营收6000亿元 36氪获悉，在中国长安汽车战略发布会上，中国长安汽车党委书记、董事长朱华荣表示，公司将按照“十年两步走”，到2030年，力争实现营业收入6",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/nmxqfehuc6epw9qerwqj",
-        "title": "GitHub Copilot CLI 正式进入全面可用阶段",
-        "url": "https://www.infoq.cn/article/NMxQFeHUc6EPw9QERWQj?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-21T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
         "region": "cn"
       },
       {
@@ -1282,22 +1372,22 @@
     ],
     "cn_en": [
       {
+        "id": "SCMP China Business:www.scmp.com/tech/article/3351020/hong-kong-shenzhen-tech-cooperation-gets-boost-lenovo-ai-lab-hetao-hub",
+        "title": "Hong Kong-Shenzhen tech cooperation gets a boost with Lenovo AI lab in Hetao hub",
+        "url": "https://www.scmp.com/tech/article/3351020/hong-kong-shenzhen-tech-cooperation-gets-boost-lenovo-ai-lab-hetao-hub?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-22T12:00:10.000Z",
+        "summary": "Hong Kong’s technology cooperation with Shenzhen received a boost on Wednesday as Lenovo Group, the world’s biggest personal computer maker, set up an innovation lab at the city’s new Hetao tech hub and pledged to help f",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3350521/bytedance-tencent-step-ai-talent-battle-amid-reported-departure-deepseek-researcher",
         "title": "ByteDance, Tencent step up AI talent battle amid reported departure of DeepSeek researcher",
         "url": "https://www.scmp.com/tech/big-tech/article/3350521/bytedance-tencent-step-ai-talent-battle-amid-reported-departure-deepseek-researcher?utm_source=rss_feed",
         "source": "SCMP China Business",
         "publishedAt": "2026-04-18T01:00:32.000Z",
         "summary": "As China’s artificial intelligence sector accelerates, competition for top talent has intensified among major tech companies, with firms increasingly poaching from rivals while also attracting researchers from overseas h",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3350460/nvidias-jensen-huang-warns-huawei-chips-deepseek-ai-models-would-be-horrible-us",
-        "title": "Nvidia’s Jensen Huang warns Huawei chips for DeepSeek AI models would be ‘horrible’ for US",
-        "url": "https://www.scmp.com/tech/article/3350460/nvidias-jensen-huang-warns-huawei-chips-deepseek-ai-models-would-be-horrible-us?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-17T10:00:14.000Z",
-        "summary": "Nvidia CEO Jensen Huang said on a recent podcast that if Chinese artificial intelligence start-up DeepSeek optimised its new models on chips from Huawei Technologies, it would be “a horrible outcome” for the US. If “futu",
         "category": "updates",
         "region": "cn_en"
       }
