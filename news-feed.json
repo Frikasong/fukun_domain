@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T19:00:48.293Z",
+  "generatedAt": "2026-04-22T01:51:11.603Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/these&",
+        "title": "These World War II lawyers were heroes of mine",
+        "url": "https://www.abajournal.com/voice/article/these&#45;world&#45;war&#45;ii&#45;lawyers&#45;were&#45;heroes&#45;of&#45;mine/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-21T20:28:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/after&",
         "title": "Charges dropped against Texas handcuffing judge after she agrees to resign and never run again",
@@ -163,16 +173,6 @@
         "url": "https://www.abajournal.com/news/article/defense&#45;lawyers&#45;in&#45;charlie&#45;kirk&#45;murder&#45;case&#45;want&#45;ban&#45;on&#45;courtroom&#45;cameras/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-04-20T15:22:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/dead&",
-        "title": "Dead people on list of potential jurors raises alarms in this state",
-        "url": "https://www.abajournal.com/news/article/dead&#45;people&#45;on&#45;list&#45;of&#45;potential&#45;jurors&#45;raises&#45;alarms&#45;in&#45;illinois/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-20T15:07:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,6 +1210,36 @@
     ],
     "cn": [
       {
+        "id": "36Kr:36kr.com/newsflashes/3777321625225219",
+        "title": "LG人工智能研究院与英伟达同意加强AI合作",
+        "url": "https://36kr.com/newsflashes/3777321625225219?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-22T01:30:15.000Z",
+        "summary": "LG当地时间4月21日宣布，LG人工智能研究院和英伟达已同意加强技术联盟，以扩展Exaone人工智能生态系统。双方将结合LG的Exaone模型和英伟达的Nemotron生态系统，共同开发人工智能模型。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3777282800125952",
+        "title": "SpaceX放出“IPO重磅炸弹”：公司太空AI技术未经验证，未必能商业化",
+        "url": "https://36kr.com/newsflashes/3777282800125952?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-22T00:50:45.000Z",
+        "summary": "SpaceX公司在一份文件中警告投资者，该公司建造太空人工智能（AI）数据中心以及在月球和火星上建立人类定居点的雄心壮志，实际上“依赖于未经证实的技术”，并且可能无法在商业上实现可行性。这份SpaceX在首次公开募股（IPO）前提交的文件中列出的商业风险此前从未被报道过。在上述文件中，SpaceX还强调了其对下一代完全可重复使用火箭“星舰”的严重依赖，但“星舰”已经遭遇了多次延误和测试失败。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3777227930224900",
+        "title": "8点1氪丨MCN机构回应女孩挪用上千万打赏主播；苹果更换CEO原因曝光；国内油价2026年首次下调",
+        "url": "https://36kr.com/p/3777227930224900?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-21T23:59:50.000Z",
+        "summary": "今日热点导览 航旅纵横致歉：部分功能出现使用异常，正全力抢修 星巴克中国回应开放加盟传闻：不实信息 微信：韩国、斯里兰卡、泰国、马来西亚、新加坡的国家码接入微信支付 截至3月底，全国5G基站总数已达495.8万个 猪价开启“回暖”模式，5家公司去年净利润超1亿元 TOP 3大新闻 MCN机构回应女孩挪用上千万打赏主播：相关问题可对接平台处理 4月20日，河南郑州市民朱先生陪同其20岁女儿小朱，到郑州市公安局惠济分局投案自首。据银行交易流",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/fkc0yslc9adjzk1v81ow",
         "title": "模力工场 037 周 AI 应用周榜：生态意识增强，多模态已成AI应用标配",
         "url": "https://www.infoq.cn/article/fKc0YsLc9aDjzk1V81oW?utm_source=rss&utm_medium=article",
@@ -1236,16 +1266,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-21T13:19:20.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3776522378233856",
-        "title": "报道称大众汽车今年将在其中国车型中加入语音人工智能技术",
-        "url": "https://36kr.com/newsflashes/3776522378233856?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-21T11:57:13.000Z",
-        "summary": "据报道，大众汽车今年将在其中国车型中加入语音人工智能技术。（财联社）",
         "category": "updates",
         "region": "cn"
       },
