@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T07:50:38.107Z",
+  "generatedAt": "2026-04-24T13:03:33.854Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -144,16 +144,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-23T09:08:05.000Z",
         "summary": "Thomson Reuters’ Ragunath Ramanathan, President &#8211; Legal Professionals, has announced that the ‘next generation’ of CoCounsel Legal, now available in Beta, will provide ‘fiduciary-grade AI’ ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Google AI Blog:blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria",
-        "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-04-23T09:00:00.000Z",
-        "summary": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …",
         "category": "updates",
         "region": "na"
       },
@@ -1206,16 +1196,146 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/38ykrvbyktkbxqlrgx7a",
-        "title": "pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式",
-        "url": "https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ub0bhyfirpbo61i876k2",
+        "title": "复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案",
+        "url": "https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-24T14:00:00.000Z",
+        "publishedAt": "2026-04-24T19:18:13.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/o8dh3drh6kk8vzrzkdjd",
+        "title": "Snowflake Cortex Code 的规范驱动开发：将 SDLC 方法论引入 AI 辅助工作流 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-24T18:51:20.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/lib7pobcmo8213s9lk0t",
+        "title": "金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-24T18:48:28.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/u3blkmiblgwglikfth4n",
+        "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
+        "url": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-24T18:46:43.000Z",
+        "summary": "点击查看原文>",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/rkjhuuozlmazmtmc4uvf",
+        "title": "当互联网用AI卷效率时，这家公司先问了一连串“能不能”",
+        "url": "https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-24T18:39:14.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ur7bvh7ayrdbpy1rtvtp",
+        "title": "Meta 开始记录员工每一次点击：AI 要接管工作，先监控会工作的人",
+        "url": "https://www.infoq.cn/article/ur7bvh7ayrDBPY1rTVtP?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-24T18:34:59.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ua0m0lj6zocei6ggge72",
+        "title": "智源FlagOS完成DeepSeek-V4-Flash在八款芯片Day0适配，实现三重技术突破",
+        "url": "https://www.infoq.cn/article/ua0m0lj6zOcEI6GGge72?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-24T17:29:54.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wuupezvnajcavn0k7hpf",
+        "title": "DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权",
+        "url": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-24T17:23:41.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/6idjlwyioxivwjl4taop",
+        "title": "GPT-5.5 登顶时刻，Anthropic 亲口承认 Claude 变笨了！网友群嘲：太敷衍",
+        "url": "https://www.infoq.cn/article/6iDjLwYiOXIVwjl4taOP?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-24T17:17:42.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3780812532686084",
+        "title": "Meta与亚马逊达成数十亿美元合作，采用其CPU芯片支撑人工智能业务",
+        "url": "https://36kr.com/newsflashes/3780812532686084?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-24T12:48:15.000Z",
+        "summary": "Meta与亚马逊公司达成一项为期数年、价值数十亿美元的合作协议。这家社交媒体巨头将使用亚马逊云科技数千万颗Graviton芯片核心，为其智能体及其他人工智能项目提供算力支撑。两家企业均拒绝披露该协议的具体金额与合作时长。亚马逊副总裁、杰出工程师纳菲阿・卜沙拉透露，本次合作周期为三至五年。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3780771345472515",
+        "title": "阿里云百炼上线DeepSeek-V4",
+        "url": "https://36kr.com/newsflashes/3780771345472515?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-24T12:19:24.000Z",
+        "summary": "36氪获悉，4月24日，阿里云百炼平台首发上线DeepSeek-V4-pro和DeepSeek-V4-flash两款模型，API价格与DeepSeek官网一致，百万Tokens输入最低1元，百万Tokens输出最低2元。近期，百炼Token Plan也将支持调用该模型。目前，阿里云百炼已上线等100多款全模态模型。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3780769864408072",
+        "title": "科创板首单并购重组简易审核程序获受理",
+        "url": "https://36kr.com/newsflashes/3780769864408072?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-24T11:57:59.000Z",
+        "summary": "上交所4月24日正式受理中微半导体设备（上海）股份有限公司发行股份及支付现金购买资产并募集配套资金的申请文件，标志着本次资产重组进入审核阶段。若后续审核顺利，该项目有望成为科创板首单适用“重组简易审核程序”的案例。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3777694346548482",
+        "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
+        "url": "https://36kr.com/p/3777694346548482?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-24T11:32:16.000Z",
+        "summary": "大公司： 京东和格力推出空调换新全包服务 36氪获悉，近日，京东与格力正式签署深度合作协议，推出空调换新全包服务，覆盖全国超过300个城市。 据了解，京东与格力已合作多年，在去年双方合作安装空调量达数百万台。 如祺出行与黑芝麻智能达成战略合作 4月24日，出行科技与服务公司如祺出行和车规级智能汽车计算芯片及解决方案供应商黑芝麻智能达成战略合作。根据协议，如祺出行将依托有人网约车与Robotaxi混合运营沉淀的真实场景数据闭环与商业化运营",
         "category": "updates",
         "region": "cn"
       },
@@ -1240,42 +1360,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3780507701072904",
-        "title": "DeepSeek V4发布，海光DCU完成Day0适配",
-        "url": "https://36kr.com/newsflashes/3780507701072904?f=rss",
+        "id": "36Kr:36kr.com/p/3780556402531330",
+        "title": "最前线｜AI收入破亿后的路径选择：微盟推行AI First战略与B端交付的挑战",
+        "url": "https://36kr.com/p/3780556402531330?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-24T07:31:18.000Z",
-        "summary": "36氪获悉，4月24日，深度求索发布并开源DeepSeek V4。海光DCU同步完成对DeepSeek V4的Day0适配，以“模型发布—芯片适配—产业落地”的高效闭环，为全球开发者、企业客户提供即取即用的部署方案。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3780443413468161",
-        "title": "日本将成立特别工作组应对金融体系网络安全风险",
-        "url": "https://36kr.com/newsflashes/3780443413468161?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-24T06:25:54.000Z",
-        "summary": "日本财务大臣片山皋月周五表示，鉴于人们对Anthropic的Mythos人工智能模型潜在漏洞的担忧，日本将成立一个特别工作组，以应对金融体系的网络安全风险。片山表示，这一决定是在日本金融厅、日本央行、国家网络安全局、日本三大银行以及日本外汇集团的联合会议上达成的。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3780429113644297",
-        "title": "有道龙虾已率先集成DeepSeek-V4和Kimi K2.6",
-        "url": "https://36kr.com/newsflashes/3780429113644297?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-24T06:17:16.000Z",
-        "summary": "36氪获悉，网易有道近日透露，旗下全场景个人助理Agent “网易有道龙虾”（LobsterAI）已率先完成对DeepSeek-V4与Kimi K2.6两大最新旗舰模型的支持和接入。接入DeepSeek-V4后，有道龙虾在处理长文档、多文件、多步骤任务以及复杂办公场景时，将获得更强的上下文保持能力和任务理解能力。Kimi K2.6则进一步强化了有道龙虾在长程编码和持续执行方面的能力。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3780431502071043",
-        "title": "PPIO首批上线DeepSeek-V4",
-        "url": "https://36kr.com/newsflashes/3780431502071043?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-24T06:13:47.000Z",
-        "summary": "4月24日，DeepSeek-V4预览版正式推出并开源，包含DeepSeek-V4-Pro和DeepSeek-V4-Flash两个版本。中国全栈式AI云服务商PPIO第一时间全量首批上线，成为业内首批上线DeepSeek-V4的AI云平台之一。目前，DeepSeek-V4-Pro和DeepSeek-V4-Flash均已同步上线PPIO官网。",
+        "publishedAt": "2026-04-24T08:21:20.000Z",
+        "summary": "文｜张子怡 编辑｜袁斯来 在SaaS行业普遍面临增长瓶颈、寻求数智化转型的背景下，微盟于2026年4月22日在上海总部举办了城市峰会，正式对外呈现其“AI First”战略全景。 根据微盟2025年财报披露，其AI相关业务收入已首次突破亿元大关，且2025年下半年的环比增长率达到130%。在此财务数据基础上，微盟试图通过战略升维，将AI从原有的产品辅助插件地位提升至业务底座高度。 微盟此次提出的“AI First”战略，核心覆盖了AI+",
         "category": "updates",
         "region": "cn"
       },
@@ -1328,29 +1418,29 @@
         "summary": "36氪获悉，AI for Science公司「奥明星程」近日完成超亿元A轮战略融资。本轮投资方包括深创投、复星医药（复健资本）、太平股权、广东中医药大健康基金、杭实集团等多家头部投资机构、产业链龙头企业及多地国资。同时，公司也与包括深圳湾实验室在内的多家国际顶尖科研机构建立了深度成果转化合作机制，形成覆盖技术研发、临床应用及产业生态赋能的全链条布局。 2025年被视作AI4S发展的分水岭。随着通用科研引擎的出现，以及英伟达GTC大会将A",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3779369343144965",
-        "title": "破局“智驾双雄”，千里科技如何以AI之力重塑行业格局",
-        "url": "https://36kr.com/p/3779369343144965?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-23T12:14:28.000Z",
-        "summary": "智驾圈杀出了一匹“黑马”，智能驾驶的市场格局正面临重新洗牌的变量。 在4月22日举办的千里科技AI战略暨产品发布会上，千里科技公布了一组数据：千里智驾装车量已突破46万辆，覆盖极氪、领克17款车型，并预计在2026年正式跨入“百万量级俱乐部”。 从品牌发布到方案规模化量产，并达成46万装车量，千里科技仅用时半年多。在行业普遍认为智驾格局趋于稳定的当下，这一扩张速度史无前例。 这种“非常规速度”的背后，是增长逻辑本身发生了变化。本质上千里",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3774776226923272",
-        "title": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
-        "url": "https://36kr.com/p/3774776226923272?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-23T10:28:15.000Z",
-        "summary": "大公司： 三星电子工会举行集会，要求公司发放占营业利润15%的绩效奖金并废除奖金上限 三星电子首个超过半数职员加入的“跨企业工会”23日下午1时起在三星电子平泽厂区举行集会，要求资方废除绩效奖金上限。工会方面要求公司发放占营业利润15%的绩效奖金，并废除绩效奖金上限。若劳资未能达成协议，劳方将从下月21日至6月7日进行全面罢工。截至目前，“跨企业工会”成员数量为7.4万多人，成为三星电子成立以来首个超过半数员工加入的工会，并经雇佣劳动部",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3351328/investors-rotate-chinas-chipmakers-deepseek-intensifies-ai-competition",
+        "title": "Investors rotate to China’s chipmakers as DeepSeek intensifies AI competition",
+        "url": "https://www.scmp.com/business/china-business/article/3351328/investors-rotate-chinas-chipmakers-deepseek-intensifies-ai-competition?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-24T10:03:43.000Z",
+        "summary": "Chinese chipmakers rallied on Friday while artificial intelligence application firms retreated, as investors rotated into semiconductor stocks on expectations of stronger demand for computing power following a new model ",
+        "category": "tools",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/plus/news/china/diplomacy/article/3351305/trump-ally-visits-china-deepseek-releases-v4-ev-earnings",
+        "title": "Trump ally visits China, DeepSeek releases V4, EV earnings",
+        "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3351305/trump-ally-visits-china-deepseek-releases-v4-ev-earnings?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-24T09:05:56.000Z",
+        "summary": "Senator Steve Daines will lead a bipartisan US Congressional delegation to China next week, just ahead of a visit by President Donald Trump. The five-member group will arrive on May 1 and visit Beijing and Shanghai, the ",
+        "category": "articles",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3351239/deepseek-releases-next-gen-ai-model-world-leading-efficiency",
         "title": "DeepSeek unveils next-gen AI model as Huawei vows ‘full support’ with new chips",
