@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T18:58:23.602Z",
+  "generatedAt": "2026-04-24T01:55:26.689Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -108,22 +108,32 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/introducing-gpt-5-5",
-        "title": "Introducing GPT-5.5",
-        "url": "https://openai.com/index/introducing-gpt-5-5",
-        "source": "OpenAI News",
-        "publishedAt": "2026-04-23T11:00:00.000Z",
-        "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/23/freshfields-now-partners-with-anthropic",
+        "title": "Freshfields Now Partners With Anthropic",
+        "url": "https://www.artificiallawyer.com/2026/04/23/freshfields-now-partners-with-anthropic/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-23T11:33:04.000Z",
+        "summary": "After announcing its undying love for all things Google, Freshfields has now decided to move into something of a ménage à trois by forming a ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/23/legora-buys-swedish-legal-research-startup-qura",
+        "title": "Legora Buys Swedish Legal Research Startup Qura",
+        "url": "https://www.artificiallawyer.com/2026/04/23/legora-buys-swedish-legal-research-startup-qura/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-23T09:34:13.000Z",
+        "summary": "Qura – which launched in 2023 and has about 10 people – has been bought by Legora. Unlike some of its more acquihire moves, this ...",
         "category": "articles",
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/gpt-5-5-system-card",
-        "title": "GPT-5.5 System Card",
-        "url": "https://openai.com/index/gpt-5-5-system-card",
-        "source": "OpenAI News",
-        "publishedAt": "2026-04-23T11:00:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/23/next-gen-cocounsel-to-offer-fiduciary-grade-legal-ai",
+        "title": "Next Gen CoCounsel To Offer ‘Fiduciary-Grade’ Legal AI",
+        "url": "https://www.artificiallawyer.com/2026/04/23/next-gen-cocounsel-to-offer-fiduciary-grade-legal-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-23T09:08:05.000Z",
+        "summary": "Thomson Reuters’ Ragunath Ramanathan, President &#8211; Legal Professionals, has announced that the ‘next generation’ of CoCounsel Legal, now available in Beta, will provide ‘fiduciary-grade AI’ ...",
         "category": "updates",
         "region": "na"
       },
@@ -134,6 +144,26 @@
         "source": "Google AI Blog",
         "publishedAt": "2026-04-23T09:00:00.000Z",
         "summary": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/23/why-go-to-trial-ai-must-be-accurate",
+        "title": "Why ‘Go to Trial’ AI Must Be Accurate",
+        "url": "https://www.artificiallawyer.com/2026/04/23/why-go-to-trial-ai-must-be-accurate/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-23T07:48:07.000Z",
+        "summary": "By Stephen Dowling, CEO, TrialView. Even the best-intentioned disputes lawyer will, at some point, encounter what might be called ‘superhero syndrome’; that instinct to win ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/23/claude-can-absorb-up-to-40-of-inhouse-legal-tech-spend-claude",
+        "title": "‘Claude Can Absorb Up To 40% of Inhouse Legal Tech Spend’ – Claude",
+        "url": "https://www.artificiallawyer.com/2026/04/23/claude-can-absorb-up-to-40-of-inhouse-legal-tech-spend-claude/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-23T06:44:03.000Z",
+        "summary": "Claude could absorb between 25% and 40% of inhouse legal tech spend over the next three to five years, says Claude, if one takes into ...",
         "category": "updates",
         "region": "na"
       },
@@ -168,6 +198,26 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/22/how-to-unlock-the-real-value-of-legal-ai",
+        "title": "How To Unlock the Real Value of Legal AI",
+        "url": "https://www.artificiallawyer.com/2026/04/22/how-to-unlock-the-real-value-of-legal-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-22T07:41:28.000Z",
+        "summary": "By Alex Tring, BigHand. For all the noise around AI reshaping legal work, one thing is clear: successful adoption is only possible in firms that ...",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/22/how-ai-will-transform-the-legal-business-model",
+        "title": "How AI Will Transform The Legal Business Model",
+        "url": "https://www.artificiallawyer.com/2026/04/22/how-ai-will-transform-the-legal-business-model/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-22T06:48:02.000Z",
+        "summary": "Ahead of the landmark Legal Innovators Europe conference in Paris – June 24 and 25, AL spoke to Olivier Chaduteau, founder of the Day Two ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/04/clio-work-clios-ai-workspace-is-now-available-to-solo-and-smaller-law-firms-as-a-standalone-product.html",
         "title": "Clio Work, Clio&#8217;s AI Workspace, Is Now Available To Solo and Smaller Law Firms As A Standalone Product",
         "url": "https://www.lawnext.com/2026/04/clio-work-clios-ai-workspace-is-now-available-to-solo-and-smaller-law-firms-as-a-standalone-product.html",
@@ -178,6 +228,16 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/deepjudge-epiq-advisory-partner-for-km-implementation",
+        "title": "DeepJudge + Epiq Advisory Partner For KM Implementation",
+        "url": "https://www.artificiallawyer.com/2026/04/21/deepjudge-epiq-advisory-partner-for-km-implementation/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-21T13:02:52.000Z",
+        "summary": "AI-driven KM startup DeepJudge is partnering with Epiq Advisory for Law Firms, the consulting group attached to the multi-capability legal tech conglomerate, Epiq. The partnership ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/04/lexisnexis-and-luminance-announce-partnership-to-embed-protege-inside-luminances-contract-platform.html",
         "title": "LexisNexis and Luminance Announce Partnership to Embed Protégé Inside Luminance&#8217;s Contract Platform",
         "url": "https://www.lawnext.com/2026/04/lexisnexis-and-luminance-announce-partnership-to-embed-protege-inside-luminances-contract-platform.html",
@@ -185,6 +245,26 @@
         "publishedAt": "2026-04-21T12:00:36.000Z",
         "summary": "LexisNexis and Luminance today announced a partnership that will let mutual in-house legal customers access LexisNexis&#8217;s Protégé AI assistant from inside Luminance&#8217;s contract negotiation platform, with a path",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/luminance-links-to-lexisnexis-data-protege",
+        "title": "Luminance Links To LexisNexis Data + Protégé",
+        "url": "https://www.artificiallawyer.com/2026/04/21/luminance-links-to-lexisnexis-data-protege/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-21T12:00:00.000Z",
+        "summary": "Legal AI company Luminance has struck a deal with LexisNexis whereby &#8216;mutual inhouse customers&#8217; can access LexisNexis’s Protégé AI assistant and its massive data store. ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/legal-techs-arr-problem-industry-responses",
+        "title": "Legal Tech’s ARR Problem – Industry Responses",
+        "url": "https://www.artificiallawyer.com/2026/04/21/legal-techs-arr-problem-industry-responses/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-21T08:45:08.000Z",
+        "summary": "Yesterday, Artificial Lawyer highlighted calls for more clarity when it comes to the use of the term ARR (annual recurring revenue) – in particular by ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1126,86 +1206,56 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3779388327629831",
-        "title": "Anthropic拟高薪招聘专员洽谈数据中心合作，助力欧洲AI业务扩张",
-        "url": "https://36kr.com/newsflashes/3779388327629831?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3780168928941058",
+        "title": "千问加速上车，10多家车企同日宣布接入",
+        "url": "https://36kr.com/newsflashes/3780168928941058?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-23T12:49:32.000Z",
-        "summary": "Anthropic正积极推进在欧洲达成数据中心合作协议，为其人工智能模型提供算力支撑。这家AI巨头正招聘一个六位数薪酬的岗位，负责在该地区洽谈算力容量相关协议。（新浪财经）",
+        "publishedAt": "2026-04-24T01:46:41.000Z",
+        "summary": "2026北京车展开幕首日，长安、东风、北汽、比亚迪、吉利、长城、理想、上汽大众、上汽智己等宣布接入千问。未来，这些车企的部分车型在车内可实现复杂路径规划、闲聊、查新闻、订酒店、买门票、点外卖、查快递等全场景服务。据了解，千问正持续提升模型能力、加速生态协同，同时Qwen-Omni全模态大模型已适配主流车端芯片，阿里云的智能座舱方案将应用在更多车型上。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3779382230062340",
-        "title": "昆仑万维：2025年营收81.98亿元，同比增长44.78%",
-        "url": "https://36kr.com/newsflashes/3779382230062340?f=rss",
+        "id": "36Kr:36kr.com/p/3778175428777218",
+        "title": "博裕、经纬、顺为等投资前新石器COO超亿元，押注AI超便携电子纸｜硬氪独家",
+        "url": "https://36kr.com/p/3778175428777218?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-23T12:39:53.000Z",
-        "summary": "4月23日，昆仑万维发布2025年度财报。财报显示，公司实现营业总收入81.98亿元，同比增长44.78%。其中，海外业务收入规模提升至77.23亿元，同比增长49.91%。2026年3月，公司在中关村论坛正式发布2026昆仑万维AGI战略，全新升级“4+3战略”。以“视频模型、音乐音频模型、世界模型、基座文本与多模态模型”四大SOTA级人工智能模型为技术底座，支撑“AI短剧、AI音乐、AI游戏”三大AI Native平台经济体。",
+        "publishedAt": "2026-04-24T01:30:00.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 当智能手机陷入性能过剩、AI功能同质化内卷，用户注意力被无限拆解与争夺时，一个被长期忽视的角落正悄然打开新赛道——手机背面的闲置空间。 硬氪独家获悉，AI超便携电子纸品牌阅星曈近日完成天使轮至A轮融资，累计五轮金额超亿元人民币，投资方包括博裕创投、清流资本、希扬资本、小红书、经纬创投、顺为资本，多数股东持续追加。资金将用于完善生产制造与质量审核体系、拓展海外市场，搭建社区内容、优化产品体验，与全球用户共同构建A",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3779355506251012",
-        "title": "黑石盈利超预期，预计IPO将迎来“史上最佳年份”",
-        "url": "https://36kr.com/newsflashes/3779355506251012?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3780106521007112",
+        "title": "中信证券：持续看好国产算力和存储，新增推荐被动元件",
+        "url": "https://36kr.com/newsflashes/3780106521007112?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-23T12:27:24.000Z",
-        "summary": "黑石集团报告称，其可分配收益升幅超出预期，这主要得益于在伊朗战争动摇投资者信心之前，交易活动强劲开局。随着美国股市上涨以及人工智能企业准备上市，总裁Jon Gray预计，公司将迎来“有史以来最好的股票上市年份”。黑石在周四的一份声明中表示，截至3月的三个月，可分配收益（即可供股东分配的利润）增长25%，达到17.6亿美元，折合每股1.36美元，高于分析师平均预期的1.34美元。（财联社）",
+        "publishedAt": "2026-04-24T00:43:12.000Z",
+        "summary": "36氪获悉，中信证券研报称，4月13日至17日（上周）电子板块表现强劲，累计上涨5.8%，排名2/31，大盘风偏继续上行，电子板块继续全线走高。展望4—5月，一季报业绩在“存储及其他涨价、AI及算力”方向仍然乐观，基本面角度，半导体设备、国产算力上行趋势确定，同时全球AI趋势下的PCB及存储板块也持续基本面强劲，中信证券对四个方向均持续看好。同时，中信证券预计第二季度的AI行情开始发散，也建议投资人关注从传统业务转向AI业务的相关公司，",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3779375900005380",
-        "title": "鸿蒙座舱HarmonySpace 6发布",
-        "url": "https://36kr.com/newsflashes/3779375900005380?f=rss",
+        "id": "36Kr:36kr.com/p/3780065714148610",
+        "title": "8点1氪丨华谊兄弟被申请破产重整；普华永道因恒大审计赔偿10亿港元；伊朗将恢复往返中国的航班",
+        "url": "https://36kr.com/p/3780065714148610?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-23T12:19:58.000Z",
-        "summary": "4月23日，华为乾崑发布了全新一代鸿蒙座舱HarmonySpace 6，升级了舱内感知、智能交互和影音体验。舱内感知层面，首发行业唯一的舱内AI多模态感知系统AMS；智能交互层面，基于全新MoLA 2.0架构，发布新一代鸿蒙座舱小艺智能体，打通导航、控车、聊天、生活服务等各类场景，是行业首个实现全场景跨域交互的座舱智能体。",
+        "publishedAt": "2026-04-24T00:05:57.000Z",
+        "summary": "今日热点导览 抖音整治AI不当内容，重点处置利用AI技术换脸、盗声 受燃油价格冲击，德国汉莎拟削减2万架次航班 刹车功能或丧失，大众在美召回18853辆汽车 光线传媒：公司第一款3A游戏开发进展比较顺利 TOP3大新闻 华谊兄弟被申请破产重整 近日，华谊兄弟（300027）新增一则破产审查案件信息，申请人为北京泰睿飞克科技有限公司，经办法院为浙江省金华市中级人民法院。 此次申请重整的债务，源于华谊兄弟与泰睿飞克的广告合同纠纷，法院 20",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3778831119897600",
+        "title": "打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
+        "url": "https://36kr.com/p/3778831119897600?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-24T00:00:00.000Z",
+        "summary": "36氪获悉，AI for Science公司「奥明星程」近日完成超亿元A轮战略融资。本轮投资方包括深创投、复星医药（复健资本）、太平股权、广东中医药大健康基金、杭实集团等多家头部投资机构、产业链龙头企业及多地国资。同时，公司也与包括深圳湾实验室在内的多家国际顶尖科研机构建立了深度成果转化合作机制，形成覆盖技术研发、临床应用及产业生态赋能的全链条布局。 2025年被视作AI4S发展的分水岭。随着通用科研引擎的出现，以及英伟达GTC大会将A",
         "category": "updates",
         "region": "cn"
       },
@@ -1226,36 +1276,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-23T10:28:15.000Z",
         "summary": "大公司： 三星电子工会举行集会，要求公司发放占营业利润15%的绩效奖金并废除奖金上限 三星电子首个超过半数职员加入的“跨企业工会”23日下午1时起在三星电子平泽厂区举行集会，要求资方废除绩效奖金上限。工会方面要求公司发放占营业利润15%的绩效奖金，并废除绩效奖金上限。若劳资未能达成协议，劳方将从下月21日至6月7日进行全面罢工。截至目前，“跨企业工会”成员数量为7.4万多人，成为三星电子成立以来首个超过半数员工加入的工会，并经雇佣劳动部",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3778730451391751",
-        "title": "36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元",
-        "url": "https://36kr.com/p/3778730451391751?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-23T01:24:26.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳市星际光年科技有限公司（以下简称“星际光年”）近日完成新一轮融资，本轮由顺创产投领投，老股东云时资本持续加注，微星宁元跟投。 至此，公司在过去三个月内连续完成两轮融资，累计融资规模近亿元。本轮融资将主要用于通用灵巧操作平台在真实工业场景落地、产品持续完善、规模化产线升级及全球团队生态建设。 星际光年专注于灵巧手及通用操作平台的研发与商业化，核心团队来自清华大学、哈尔滨工业大学、香港大学、",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3778121523025154",
-        "title": "一个对话框、一只青蛙、一周4万用户，Ribbi做对了什么？",
-        "url": "https://36kr.com/p/3778121523025154?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-23T00:30:30.000Z",
-        "summary": "访谈｜邓咏仪 周鑫雨 文｜周鑫雨 编辑｜杨轩 乍一使用，你很难给Ribbi一个准确的定义。 若说这是一个多模态内容创作工具，Ribbi能做得不止于此。比起一个“死”的工具，Ribbi更像一个可以自动管理创作全链路的“人”。 它能将用户的创作流程，自动沉淀为Skill；也能监测社交媒体的数据表现，总结复盘，并 自动对后续的创作进行优化。 Ribbi官网首页。 对绝大多数创作者而言，这又是一个使用体验极度“陌生”的产品。区别于Figma、L",
-        "category": "skills",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3778135439709446",
-        "title": "开年连融两轮的“可以玩的抖音”，又融了5000万美金｜涌现新项目",
-        "url": "https://36kr.com/p/3778135439709446?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-23T00:30:30.000Z",
-        "summary": "文｜周鑫雨 编辑｜杨轩 一句话介绍 成立于2025年6月的“涌跃智能”，是《智能涌现》曾报道过的AI创业公司 。 其旗下产品Loopit，好比“可以玩的抖音”，是一个面向C端的AI互动内容平台，覆盖可交互内容的创作、分发和消费。 基于自研的“AI Coding+多模态生成”的互动引擎，用户既可以与社区中的内容互动，也可以创作、发表支持图像、语音、视频、3D等全模态可交互互动内容。 团队介绍 “涌跃智能”创始团队，主要出身于“AI六小虎”",
         "category": "updates",
         "region": "cn"
       },
