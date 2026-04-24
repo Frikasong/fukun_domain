@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T01:55:26.689Z",
+  "generatedAt": "2026-04-24T07:50:38.107Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/24/harvey-on-gpt-5-5-clio-vs-the-status-quo-legal-innovators",
+        "title": "Harvey on GPT 5.5, Clio vs the Status Quo, Legal Innovators +",
+        "url": "https://www.artificiallawyer.com/2026/04/24/harvey-on-gpt-5-5-clio-vs-the-status-quo-legal-innovators/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-24T07:34:18.000Z",
+        "summary": "What an incredible week for legal AI – so much is happening now! We start the Wrap with Harvey’s analysis of OpenAI’s new GPT-5.5 frontier ...",
+        "category": "articles",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/after&",
         "title": "After 15 years of falling, number of men enrolled in JD programs grew last year",
@@ -255,16 +265,6 @@
         "publishedAt": "2026-04-21T12:00:00.000Z",
         "summary": "Legal AI company Luminance has struck a deal with LexisNexis whereby &#8216;mutual inhouse customers&#8217; can access LexisNexis’s Protégé AI assistant and its massive data store. ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/legal-techs-arr-problem-industry-responses",
-        "title": "Legal Tech’s ARR Problem – Industry Responses",
-        "url": "https://www.artificiallawyer.com/2026/04/21/legal-techs-arr-problem-industry-responses/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-21T08:45:08.000Z",
-        "summary": "Yesterday, Artificial Lawyer highlighted calls for more clarity when it comes to the use of the term ARR (annual recurring revenue) – in particular by ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,12 +1210,92 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3780168928941058",
-        "title": "千问加速上车，10多家车企同日宣布接入",
-        "url": "https://36kr.com/newsflashes/3780168928941058?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/38ykrvbyktkbxqlrgx7a",
+        "title": "pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式",
+        "url": "https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-24T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ijnk79kkjgtddvo5omay",
+        "title": "GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！",
+        "url": "https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-24T11:07:13.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/1ks9ztikmesctjfmbpn9",
+        "title": "xAI落后太多，马斯克“开大”重金求购Cursor，100亿美金“分手费”都敢签！",
+        "url": "https://www.infoq.cn/article/1kS9ZTikmEsCTJFMBpN9?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-24T10:08:22.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3780507701072904",
+        "title": "DeepSeek V4发布，海光DCU完成Day0适配",
+        "url": "https://36kr.com/newsflashes/3780507701072904?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-24T01:46:41.000Z",
-        "summary": "2026北京车展开幕首日，长安、东风、北汽、比亚迪、吉利、长城、理想、上汽大众、上汽智己等宣布接入千问。未来，这些车企的部分车型在车内可实现复杂路径规划、闲聊、查新闻、订酒店、买门票、点外卖、查快递等全场景服务。据了解，千问正持续提升模型能力、加速生态协同，同时Qwen-Omni全模态大模型已适配主流车端芯片，阿里云的智能座舱方案将应用在更多车型上。",
+        "publishedAt": "2026-04-24T07:31:18.000Z",
+        "summary": "36氪获悉，4月24日，深度求索发布并开源DeepSeek V4。海光DCU同步完成对DeepSeek V4的Day0适配，以“模型发布—芯片适配—产业落地”的高效闭环，为全球开发者、企业客户提供即取即用的部署方案。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3780443413468161",
+        "title": "日本将成立特别工作组应对金融体系网络安全风险",
+        "url": "https://36kr.com/newsflashes/3780443413468161?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-24T06:25:54.000Z",
+        "summary": "日本财务大臣片山皋月周五表示，鉴于人们对Anthropic的Mythos人工智能模型潜在漏洞的担忧，日本将成立一个特别工作组，以应对金融体系的网络安全风险。片山表示，这一决定是在日本金融厅、日本央行、国家网络安全局、日本三大银行以及日本外汇集团的联合会议上达成的。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3780429113644297",
+        "title": "有道龙虾已率先集成DeepSeek-V4和Kimi K2.6",
+        "url": "https://36kr.com/newsflashes/3780429113644297?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-24T06:17:16.000Z",
+        "summary": "36氪获悉，网易有道近日透露，旗下全场景个人助理Agent “网易有道龙虾”（LobsterAI）已率先完成对DeepSeek-V4与Kimi K2.6两大最新旗舰模型的支持和接入。接入DeepSeek-V4后，有道龙虾在处理长文档、多文件、多步骤任务以及复杂办公场景时，将获得更强的上下文保持能力和任务理解能力。Kimi K2.6则进一步强化了有道龙虾在长程编码和持续执行方面的能力。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3780431502071043",
+        "title": "PPIO首批上线DeepSeek-V4",
+        "url": "https://36kr.com/newsflashes/3780431502071043?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-24T06:13:47.000Z",
+        "summary": "4月24日，DeepSeek-V4预览版正式推出并开源，包含DeepSeek-V4-Pro和DeepSeek-V4-Flash两个版本。中国全栈式AI云服务商PPIO第一时间全量首批上线，成为业内首批上线DeepSeek-V4的AI云平台之一。目前，DeepSeek-V4-Pro和DeepSeek-V4-Flash均已同步上线PPIO官网。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3780375304312072",
+        "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
+        "url": "https://36kr.com/p/3780375304312072?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-24T05:20:31.000Z",
+        "summary": "文｜周鑫雨 资料整理｜钟楚笛 编辑｜苏建勋 杨轩 靴子终于落地。 被调侃“Next Week”近3个月的DeepSeek V4，终于显露真身。 1.6T的最大参数量、1M的上下文窗口、针对Agent的性能优化，以及基于MoE（混合专家模型）和稀疏注意力机制DSA，降低计算和显存需求——这些曾被外界纷纷猜测的参数和性能，随着V4的官宣，一锤定音。 DeepSeek V4性能测评结果。 姗姗来迟的原由，与V4将训练框架从英伟达迁移到华为昇腾",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3778772970444033",
+        "title": "用“活人感”做科技社区，小红书能成吗？",
+        "url": "https://36kr.com/p/3778772970444033?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-24T02:14:50.000Z",
+        "summary": "文 | 钟艺璇 编辑 | 乔芊 没人能脱离AI这个浪潮，社区APP也不例外。 只是对比豆包、千问——它们背后往往站着有能力制造C端入口的大公司，社区似乎天然有短板，从过去的路径看，它似乎只能做到在内容上与科技无限靠近，成为一个极客范儿的存在，但终究面临垂类用户增长见顶的事实。 如果是一个综合类社区呢？在过去的垂类运营中，大规模引入KOL、KOC是迅速解决行业覆盖率的通用办法，但大水漫灌，或许会带来新老住民的气质冲突，尤其科技还是一个门槛",
         "category": "updates",
         "region": "cn"
       },
@@ -1226,16 +1306,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-24T01:30:00.000Z",
         "summary": "作者｜黄楠 编辑｜袁斯来 当智能手机陷入性能过剩、AI功能同质化内卷，用户注意力被无限拆解与争夺时，一个被长期忽视的角落正悄然打开新赛道——手机背面的闲置空间。 硬氪独家获悉，AI超便携电子纸品牌阅星曈近日完成天使轮至A轮融资，累计五轮金额超亿元人民币，投资方包括博裕创投、清流资本、希扬资本、小红书、经纬创投、顺为资本，多数股东持续追加。资金将用于完善生产制造与质量审核体系、拓展海外市场，搭建社区内容、优化产品体验，与全球用户共同构建A",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3780106521007112",
-        "title": "中信证券：持续看好国产算力和存储，新增推荐被动元件",
-        "url": "https://36kr.com/newsflashes/3780106521007112?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-24T00:43:12.000Z",
-        "summary": "36氪获悉，中信证券研报称，4月13日至17日（上周）电子板块表现强劲，累计上涨5.8%，排名2/31，大盘风偏继续上行，电子板块继续全线走高。展望4—5月，一季报业绩在“存储及其他涨价、AI及算力”方向仍然乐观，基本面角度，半导体设备、国产算力上行趋势确定，同时全球AI趋势下的PCB及存储板块也持续基本面强劲，中信证券对四个方向均持续看好。同时，中信证券预计第二季度的AI行情开始发散，也建议投资人关注从传统业务转向AI业务的相关公司，",
         "category": "updates",
         "region": "cn"
       },
@@ -1278,29 +1348,19 @@
         "summary": "大公司： 三星电子工会举行集会，要求公司发放占营业利润15%的绩效奖金并废除奖金上限 三星电子首个超过半数职员加入的“跨企业工会”23日下午1时起在三星电子平泽厂区举行集会，要求资方废除绩效奖金上限。工会方面要求公司发放占营业利润15%的绩效奖金，并废除绩效奖金上限。若劳资未能达成协议，劳方将从下月21日至6月7日进行全面罢工。截至目前，“跨企业工会”成员数量为7.4万多人，成为三星电子成立以来首个超过半数员工加入的工会，并经雇佣劳动部",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/kqx8ocfvhijg2pxr7dix",
-        "title": "亚马逊云科技宣布DevOps Agent正式可用，可自动化开展事件排查",
-        "url": "https://www.infoq.cn/article/kqX8oCFVhIJG2pXR7dix?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-22T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fkc0yslc9adjzk1v81ow",
-        "title": "模力工场 037 周 AI 应用周榜：生态意识增强，多模态已成AI应用标配",
-        "url": "https://www.infoq.cn/article/fKc0YsLc9aDjzk1V81oW?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-21T19:59:47.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3351239/deepseek-releases-next-gen-ai-model-world-leading-efficiency",
+        "title": "DeepSeek unveils next-gen AI model as Huawei vows ‘full support’ with new chips",
+        "url": "https://www.scmp.com/tech/big-tech/article/3351239/deepseek-releases-next-gen-ai-model-world-leading-efficiency?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-24T03:25:33.000Z",
+        "summary": "DeepSeek has finally released its much-anticipated next-generation foundational artificial intelligence model, the open-source V4, which it said was competitive with leading US closed-source models from the likes of Open",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/article/3351160/chinese-economist-fu-peng-joins-hong-kong-listed-bitfire-hails-cryptos-historic-rise",
         "title": "Chinese economist Fu Peng joins Hong Kong-listed Bitfire, hails crypto’s historic rise",
