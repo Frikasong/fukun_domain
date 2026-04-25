@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T18:39:05.011Z",
+  "generatedAt": "2026-04-25T01:45:45.263Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/navigating&",
+        "title": "Navigating Choppy Waters: DEI programs in law firms",
+        "url": "https://www.abajournal.com/columns/article/navigating&#45;choppy&#45;waters&#45;dei&#45;programs&#45;in&#45;law&#45;firms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-24T20:05:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/public&",
         "title": "Public support for Supreme Court is falling, new poll finds",
@@ -103,16 +113,6 @@
         "url": "https://www.abajournal.com/news/article/split&#45;on&#45;spirits&#45;us&#45;appeals&#45;court&#45;says&#45;158&#45;year&#45;old&#45;home&#45;distilling&#45;ban&#45;is&#45;constitutional/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-04-23T16:05:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/lasik&",
-        "title": "LASIK malpractice plaintiff can keep $7.2M award, judge rules",
-        "url": "https://www.abajournal.com/news/article/lasik&#45;malpractice&#45;plaintiff&#45;can&#45;keep&#45;72&#45;million&#45;award&#45;judge&#45;rules/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-23T15:42:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,6 +1210,36 @@
     ],
     "cn": [
       {
+        "id": "36Kr:36kr.com/newsflashes/3781546314357767",
+        "title": "谷歌计划向Anthropic投资至多400亿美元，支持后者大幅扩展算力",
+        "url": "https://36kr.com/newsflashes/3781546314357767?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-25T01:40:41.000Z",
+        "summary": "谷歌将向Anthropic PBC投资100亿美元，并可能追加最高300亿美元，此举将强化两家公司之间既合作又竞争的关系。Anthropic周五表示，谷歌承诺现在将以现金形式投资100亿美元，对公司的估值为3500亿美元，与其2月融资时的估值相同（不包括近期新增融资）。此外，谷歌将在Anthropic达到业绩目标时再投资300亿美元，并支持其大幅扩展算力。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3781548853533959",
+        "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+        "url": "https://36kr.com/p/3781548853533959?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-25T01:10:38.000Z",
+        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪近日获悉，工业智能体及高价值应用公司——智用开物已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。 这已是智用开物过去一年内的第三轮融资。2025年，公司先后完成由瑞枫资本、豫资涨泉及上市公司制造业数字化龙头企业赛意信息的投资。 智用开物2024年1月成",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3781532841581576",
+        "title": "9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+        "url": "https://36kr.com/p/3781532841581576?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-25T01:01:05.000Z",
+        "summary": "整理 ｜孟孟 今日热点导览 铁路部门将实行老年旅客购票优惠 哈啰因未按规定备案、投放运营或者回收车辆再被罚款10万元 网友称用豆包提前查到事业编成绩，官方回应 耐克将裁减1400个公司职位，主要集中在技术部门 中国再发现两种月球新矿物，嫦娥五号样品研究获新突破 TOP3大新闻 Kimi被曝泄露用户真实简历，用户翻译时收到陌生人完整个人信息 4月20日，用户张呈在使用Kimi翻译英文PPT时，系统竟返回一份陌生人的完整简历，包含姓名、电话",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/u3blkmiblgwglikfth4n",
         "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
         "url": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
@@ -1290,16 +1320,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3780769864408072",
-        "title": "科创板首单并购重组简易审核程序获受理",
-        "url": "https://36kr.com/newsflashes/3780769864408072?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-24T11:57:59.000Z",
-        "summary": "上交所4月24日正式受理中微半导体设备（上海）股份有限公司发行股份及支付现金购买资产并募集配套资金的申请文件，标志着本次资产重组进入审核阶段。若后续审核顺利，该项目有望成为科创板首单适用“重组简易审核程序”的案例。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3777694346548482",
         "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
         "url": "https://36kr.com/p/3777694346548482?f=rss",
@@ -1335,7 +1355,7 @@
         "url": "https://36kr.com/p/3780556402531330?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-24T08:21:20.000Z",
-        "summary": "文｜张子怡 编辑｜袁斯来 在SaaS行业普遍面临增长瓶颈、寻求数智化转型的背景下，微盟于2026年4月22日在上海总部举办了城市峰会，正式对外呈现其“AI First”战略全景。 根据微盟2025年财报披露，其AI相关业务收入已首次突破亿元大关，且2025年下半年的环比增长率达到130%。在此财务数据基础上，微盟试图通过战略升维，将AI从原有的产品辅助插件地位提升至业务底座高度。 微盟此次提出的“AI First”战略，核心覆盖了AI+",
+        "summary": "文｜张子怡 编辑｜袁斯��� 在SaaS行业普遍面临增长瓶颈、寻求数智化转型的背景下，微盟于2026年4月22日在上海总部举办了城市峰会，正式对外呈现其“AI First”战略全景。 根据微盟2025年财报披露，其AI相关业务收入已首次突破亿元大关，且2025年下半年的环比增长率达到130%。在此财务数据基础上，微盟试图通过战略升维，将AI从原有的产品辅助插件地位提升至业务底座高度。 微盟此次提出的“AI First”战略，核心覆盖了A",
         "category": "updates",
         "region": "cn"
       },
@@ -1346,26 +1366,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-24T05:20:31.000Z",
         "summary": "文｜周鑫雨 资料整理｜钟楚笛 编辑｜苏建勋 杨轩 靴子终于落地。 被调侃“Next Week”近3个月的DeepSeek V4，终于显露真身。 1.6T的最大参数量、1M的上下文窗口、针对Agent的性能优化，以及基于MoE（混合专家模型）和稀疏注意力机制DSA，降低计算和显存需求——这些曾被外界纷纷猜测的参数和性能，随着V4的官宣，一锤定音。 DeepSeek V4性能测评结果。 姗姗来迟的原由，与V4将训练框架从英伟达迁移到华为昇腾",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3778772970444033",
-        "title": "用“活人感”做科技社区，小红书能成吗？",
-        "url": "https://36kr.com/p/3778772970444033?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-24T02:14:50.000Z",
-        "summary": "文 | 钟艺璇 编辑 | 乔芊 没人能脱离AI这个浪潮，社区APP也不例外。 只是对比豆包、千问——它们背后往往站着有能力制造C端入口的大公司，社区似乎天然有短板，从过去的路径看，它似乎只能做到在内容上与科技无限靠近，成为一个极客范儿的存在，但终究面临垂类用户增长见顶的事实。 如果是一个综合类社区呢？在过去的垂类运营中，大规模引入KOL、KOC是迅速解决行业覆盖率的通用办法，但大水漫灌，或许会带来新老住民的气质冲突，尤其科技还是一个门槛",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3778175428777218",
-        "title": "博裕、经纬、顺为等投资前新石器COO超亿元，押注AI超便携电子纸｜硬氪独家",
-        "url": "https://36kr.com/p/3778175428777218?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-24T01:30:00.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 当智能手机陷入性能过剩、AI功能同质化内卷，用户注意力被无限拆解与争夺时，一个被长期忽视的角落正悄然打开新赛道——手机背面的闲置空间。 硬氪独家获悉，AI超便携电子纸品牌阅星曈近日完成天使轮至A轮融资，累计五轮金额超亿元人民币，投资方包括博裕创投、清流资本、希扬资本、小红书、经纬创投、顺为资本，多数股东持续追加。资金将用于完善生产制造与质量审核体系、拓展海外市场，搭建社区内容、优化产品体验，与全球用户共同构建A",
         "category": "updates",
         "region": "cn"
       }
