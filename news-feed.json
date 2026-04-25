@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T07:04:41.265Z",
+  "generatedAt": "2026-04-25T12:43:51.078Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,12 +1210,42 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ypfqdkzilsuc12wm8a9g",
-        "title": "Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-25T14:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/p/3782137908403457",
+        "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+        "url": "https://36kr.com/p/3782137908403457?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-25T11:15:26.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 当前，制造业正站在从“自动化”向“智能化”跨越的关键节点。 2026年是海康机器人成立十周年。作为工业智能化领域的创新者与实践者，海康机器人近年持续推进机器视觉、移动机器人与柔性制造技术的深度融合，构建起“眼、脚、手”一体化的全栈技术能力，形成了以机器视觉、关节机器人和移动机器人为核心的三大业务体系。 2025年全年，海康机器人营收突破64.52亿元，其中机器视觉类产品累计出货量超 1000 万台，移",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3782028988882178",
+        "title": "元戎启行全面押注大模型自动驾驶",
+        "url": "https://36kr.com/newsflashes/3782028988882178?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-25T09:18:50.000Z",
+        "summary": "4月25日，北京车展上，前DeepSeek多模态技术核心研究员阮翀以元戎启行首席科学家身份首次公开亮相。元戎启行CEO周光表示，多模态大模型能力在2026年初取得突破性进展，大模型自动驾驶路线起点已远优于上一代技术，小模型自动驾驶存在“跷跷板效应”，无法实现全场景安全覆盖，公司已全面转向大模型路线。（证券时报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3781966595234825",
+        "title": "Momenta一年间量产搭载量逾80万台",
+        "url": "https://36kr.com/newsflashes/3781966595234825?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-25T08:15:22.000Z",
+        "summary": "Momenta在北京车展披露最新量产进展，一年间其智驾方案搭载量从近30万台增至逾80万台，近期每新增10万台用时不到40天。目前已交付量产车型超70款，累计定点车型超200款，量产落地覆盖十余个国家和地区。本届北京车展有60余款车型搭载Momenta方案，包括奔驰、奥迪、宝马新发布车型。Robotaxi方面，Momenta已与享道出行在上海浦东落地，与奔驰、Autogo、LUMO在阿布扎比提供Robotaxi服务，同时与Uber在欧洲",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3781942204128513",
+        "title": "百度智能云上线DeepSeek-V4",
+        "url": "https://36kr.com/newsflashes/3781942204128513?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-25T07:50:33.000Z",
+        "summary": "36氪获悉，4月24日，DeepSeek-V4预览版正式上线并开源，百度智能云旗下百度千帆平台Day0适配提供API服务。DeepSeek-V4拥有百万Token超长上下文，并按大小分为DeepSeek-V4-Pro和DeepSeek-V4-Flash两个版本。目前，企业用户和开发者通过百度千帆控制台或API即可直接调用DeepSeek-V4-Pro，DeepSeek-V4-Flash即将全量开放。",
         "category": "updates",
         "region": "cn"
       },
@@ -1226,16 +1256,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-25T06:21:51.000Z",
         "summary": "AI算力需求持续爆发之际，CPU（中央处理器）行业或掀起新一轮涨价潮。据媒体报道，近日，有ODM厂商（原始设计制造厂商）表示，自今年3月起，消费电子及服务器CPU价格涨幅分别达5%~10％及10％~20％。供应链透露，国际大厂酝酿三季度再进行新一轮涨价。据数据宝统计，A股市场涉及CPU相关业务的上市公司数量不到20家。截至4月24日收盘，概念股合计A股市值达到1.29万亿元。海光信息、澜起科技、龙芯中科是CPU概念三大核心标的，其中海光",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3781601726586119",
-        "title": "中国进出口银行一季度投放外贸领域贷款超3000亿元",
-        "url": "https://36kr.com/newsflashes/3781601726586119?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-25T02:55:03.000Z",
-        "summary": "今年一季度，中国进出口银行新发放外贸领域贷款超3000亿元，其中40%投向稳外贸主体和稳外贸产业链领域，35%投向直接进出口贸易环节。重点支持人工智能、绿电装备等产品出口，助力跨境电商、海外仓等外贸新业态新模式专业化、规模化发展。（央视新闻）",
         "category": "updates",
         "region": "cn"
       },
@@ -1369,16 +1389,6 @@
         "publishedAt": "2026-04-24T10:03:43.000Z",
         "summary": "Chinese chipmakers rallied on Friday while artificial intelligence application firms retreated, as investors rotated into semiconductor stocks on expectations of stronger demand for computing power following a new model ",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/plus/news/china/diplomacy/article/3351305/trump-ally-visits-china-deepseek-releases-v4-ev-earnings",
-        "title": "Trump ally visits China, DeepSeek releases V4, EV earnings",
-        "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3351305/trump-ally-visits-china-deepseek-releases-v4-ev-earnings?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-24T09:05:56.000Z",
-        "summary": "Senator Steve Daines will lead a bipartisan US Congressional delegation to China next week, just ahead of a visit by President Donald Trump. The five-member group will arrive on May 1 and visit Beijing and Shanghai, the ",
-        "category": "articles",
         "region": "cn_en"
       },
       {
