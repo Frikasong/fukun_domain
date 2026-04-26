@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T01:58:22.190Z",
+  "generatedAt": "2026-04-26T07:18:09.641Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,12 +1210,62 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/qyezg05iakidemtgcqki",
+        "title": "Anthropic推出面向Claude Code的基于智能体的代码审查功能",
+        "url": "https://www.infoq.cn/article/QyeZg05iakideMTGCQKi?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-26T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3783249100397570",
+        "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
+        "url": "https://36kr.com/p/3783249100397570?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-26T06:00:34.000Z",
+        "summary": "欧莱雅全球青年创新策划大赛BRANDSTORM 2026中国总决赛于4月24日在上海收官。本届赛事聚焦奢华香氛领域，中国赛区吸引超72000人报名，经多轮选拔后六支队伍进入总决赛。最终，UNIBLOCK、SOS和Move with Scent三支队伍分获冠亚季军，将代表中国赛区赴巴黎参加全球总决赛。 BRANDSTORM大赛已举办34年，覆盖全球40多个国家和地区，累计参与人数超37万。中国赛区自2003年启动以来，累计参与人数已超过7",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3783131237653763",
+        "title": "国信证券：结构上结合行业拥挤度均衡配置，重视科技成长主线、战略资源、以及白酒地产",
+        "url": "https://36kr.com/newsflashes/3783131237653763?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-26T04:35:00.000Z",
+        "summary": "36氪获悉，国信证券发布研报称，年初以来AI相关板块领涨，传统板块明显跑输，4月反弹行情中结构分化愈加明显。综合持仓结构、交易热度、超额轮动三大视角看，目前AI硬件、电新拥挤度较高但或尚未达到极致，AI应用、资源品热度回落至适中水平，消费地产热度仍偏冷。该行认为，市场震荡向上趋势不改，结构上结合行业拥挤度均衡配置，重视科技成长主线、战略资源、以及白酒地产。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3783080587926793",
+        "title": "芯擎科技发布新一代AI座舱芯片“龍鹰二号”，将于2027年Q1启动适配",
+        "url": "https://36kr.com/newsflashes/3783080587926793?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-26T03:08:34.000Z",
+        "summary": "在2026北京车展上，高性能车规和工业数字平台供应商芯擎科技发布全新AI座舱芯片“龍鹰二号”，在中央计算平台领域实现了前瞻布局，将于2027年第一季度启动适配。该芯片覆盖AI座舱、舱驾融合全场景需求，采用柔性架构，灵活适配主机厂从入门级到旗舰级的中央计算平台演进。芯片AI算力高达200 TOPS，原生支持7B+多模态大模型，内置多核CPU 360KDMIPS，GPU 2800GFLOPS，支持LPDDR6/5x/5，带宽高达518GB/",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3783020652518401",
+        "title": "超算互联网推出DeepSeek-V4限时免费对话服务",
+        "url": "https://36kr.com/newsflashes/3783020652518401?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-26T02:40:31.000Z",
+        "summary": "36氪获悉，4月26日，国家超算互联网推出DeepSeek-V4限时免费对话服务。企业、科研机构及个人开发者只需登录超算互联网进入Chat页面，即可免费体验DeepSeek-V4的百万Token超长上下文实时、流畅对话。此外，开发者还可在超算互联网AI社区下载DeepSeek-V4模型文件，并基于众智FlagOS统一软件栈和超算互联网核心节点部署的万卡超集群系统进行快速部署、推理和开发。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/newsflashes/3782957337926921",
         "title": "湖南AI中心落地湘江新区",
         "url": "https://36kr.com/newsflashes/3782957337926921?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-26T01:24:07.000Z",
-        "summary": "4月24日，省级人工智能产业应用创新赋能平台——湖南AI中心在湖南湘江新区世界计算·长沙智谷正式发布。该中心由五八科创集团打造并全权运营，深度扎根智谷，聚焦人工智能应用场景创新，集展示体验、场景研发、供需对接和生态培育四大核心功能于一体，致力于构建“可看、可体验、可合作、可落地”的AI产业综合体。（湖南日报）",
+        "summary": "4月24日，省级人工智能产业应用创新赋能平台——湖南AI中心在湖南湘江新区世界计算·长沙智谷正式发布。该中心由五八科创集团打造并全权运营，深度扎根智谷，聚焦人工智能应用场景创新，集展示体验、场景研发、供需对接和生态培育四大核心功能于一体，致力于构建“可看、可体验、可��作、可落地”的AI产业综合体。（湖南日报）",
         "category": "updates",
         "region": "cn"
       },
@@ -1246,46 +1296,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-25T11:15:26.000Z",
         "summary": "作者 | 乔钰杰 编辑 | 袁斯来 当前，制造业正站在从“自动化”向“智能化”跨越的关键节点。 2026年是海康机器人成立十周年。作为工业智能化领域的创新者与实践者，海康机器人近年持续推进机器视觉、移动机器人与柔性制造技术的深度融合，构建起“眼、脚、手”一体化的全栈技术能力，形成了以机器视觉、关节机器人和移动机器人为核心的三大业务体系。 2025年全年，海康机器人营收突破64.52亿元，其中机器视觉类产品累计出货量超 1000 万台，移",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3782028988882178",
-        "title": "元戎启行全面押注大模型自动驾驶",
-        "url": "https://36kr.com/newsflashes/3782028988882178?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-25T09:18:50.000Z",
-        "summary": "4月25日，北京车展上，前DeepSeek多模态技术核心研究员阮翀以元戎启行首席科学家身份首次公开亮相。元戎启行CEO周光表示，多模态大模型能力在2026年初取得突破性进展，大模型自动驾驶路线起点已远优于上一代技术，小模型自动驾驶存在“跷跷板效应”，无法实现全场景安全覆盖，公司已全面转向大模型路线。（证券时报）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3781966595234825",
-        "title": "Momenta一年间量产搭载量逾80万台",
-        "url": "https://36kr.com/newsflashes/3781966595234825?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-25T08:15:22.000Z",
-        "summary": "Momenta在北京车展披露最新量产进展，一年间其智驾方案搭载量从近30万台增至逾80万台，近期每新增10万台用时不到40天。目前已交付量产车型超70款，累计定点车型超200款，量产落地覆盖十余个国家和地区。本届北京车展有60余款车型搭载Momenta方案，包括奔驰、奥迪、宝马新发布车型。Robotaxi方面，Momenta已与享道出行在上海浦东落地，与奔驰、Autogo、LUMO在阿布扎比提供Robotaxi服务，同时与Uber在欧洲",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3781942204128513",
-        "title": "百度智能云上线DeepSeek-V4",
-        "url": "https://36kr.com/newsflashes/3781942204128513?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-25T07:50:33.000Z",
-        "summary": "36氪获悉，4月24日，DeepSeek-V4预览版正式上线并开源，百度智能云旗下百度千帆平台Day0适配提供API服务。DeepSeek-V4拥有百万Token超长上下文，并按大小分为DeepSeek-V4-Pro和DeepSeek-V4-Flash两个版本。目前，企业用户和开发者通过百度千帆控制台或API即可直接调用DeepSeek-V4-Pro，DeepSeek-V4-Flash即将全量开放。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3781844281007361",
-        "title": "下游需求激增，CPU重回AI核心，A股布局公司梳理",
-        "url": "https://36kr.com/newsflashes/3781844281007361?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-25T06:21:51.000Z",
-        "summary": "AI算力需求持续爆发之际，CPU（中央处理器）行业或掀起新一轮涨价潮。据媒体报道，近日，有ODM厂商（原始设计制造厂商）表示，自今年3月起，消费电子及服务器CPU价格涨幅分别达5%~10％及10％~20％。供应链透露，国际大厂酝酿三季度再进行新一轮涨价。据数据宝统计，A股市场涉及CPU相关业务的上市公司数量不到20家。截至4月24日收盘，概念股合计A股市值达到1.29万亿元。海光信息、澜起科技、龙芯中科是CPU概念三大核心标的，其中海光",
         "category": "updates",
         "region": "cn"
       },
@@ -1366,26 +1376,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-24T14:21:58.000Z",
         "summary": "随着全球卫星星座计划加速部署，在轨卫星数量激增，太空交通安全问题正在从理论风险变成现实问题。 有数据显示，过去半年，全球最大的卫星星座仅半年内就实施了超过5万次主动避碰操作。而当未来星座建设规模达到数万颗、甚至百万颗体量，传统依靠地面站24小时人工监测管控的模式将会面临管理难度陡增、成本高企、传输受限等难题，高速率、高稳定、高安全的星间通信与智能化在轨管理成为技术趋势。 要实现这一目标，既需要高可靠的激光通信终端，也需要AI大模型自主分",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3777694346548482",
-        "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
-        "url": "https://36kr.com/p/3777694346548482?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-24T11:32:16.000Z",
-        "summary": "大公司： 京东和格力推出空调换新全包服务 36氪获悉，近日，京东与格力正式签署深度合作协议，推出空调换新全包服务，覆盖全国超过300个城市。 据了解，京东与格力已合作多年，在去年双方合作安装空调量达数百万台。 如祺出行与黑芝麻智能达成战略合作 4月24日，出行科技与服务公司如祺出行和车规级智能汽车计算芯片及解决方案供应商黑芝麻智能达成战略合作。根据协议，如祺出行将依托有人网约车与Robotaxi混合运营沉淀的真实场景数据闭环与商业化运营",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ijnk79kkjgtddvo5omay",
-        "title": "GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！",
-        "url": "https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-24T11:07:13.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
