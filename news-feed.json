@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T02:01:13.962Z",
+  "generatedAt": "2026-04-27T08:08:33.015Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/27/y-combinator-tells-founders-be-truthful-on-revenue",
+        "title": "Y Combinator Tells Founders ‘Be Truthful’ On Revenue",
+        "url": "https://www.artificiallawyer.com/2026/04/27/y-combinator-tells-founders-be-truthful-on-revenue/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-27T06:45:25.000Z",
+        "summary": "Garry Tan, the CEO of legendary investor Y Combinator, has waded into the ARR debate over how startups represent their revenues, and demanded that ‘founders ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/columns/article/navigating&",
         "title": "Navigating Choppy Waters: DEI programs in law firms",
@@ -244,16 +254,6 @@
         "source": "LawSites",
         "publishedAt": "2026-04-21T12:00:36.000Z",
         "summary": "LexisNexis and Luminance today announced a partnership that will let mutual in-house legal customers access LexisNexis&#8217;s Protégé AI assistant from inside Luminance&#8217;s contract negotiation platform, with a path",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/21/luminance-links-to-lexisnexis-data-protege",
-        "title": "Luminance Links To LexisNexis Data + Protégé",
-        "url": "https://www.artificiallawyer.com/2026/04/21/luminance-links-to-lexisnexis-data-protege/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-21T12:00:00.000Z",
-        "summary": "Legal AI company Luminance has struck a deal with LexisNexis whereby &#8216;mutual inhouse customers&#8217; can access LexisNexis’s Protégé AI assistant and its massive data store. ...",
         "category": "tools",
         "region": "na"
       },
@@ -1210,6 +1210,76 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/jb3gfjkzfdaspaxwqwhe",
+        "title": "数据分析师如何快速建立在 AI 时代最值钱的能力：一份可落地的行动路线图",
+        "url": "https://www.infoq.cn/article/JB3gFJKZfDASpaXWqwHE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-27T15:50:35.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/gitnhq2sa7k34wjiqmnq",
+        "title": "摩尔线程最新财报：研发占比超86%，万卡级大规模智算集群落地",
+        "url": "https://www.infoq.cn/article/GitNHq2Sa7K34WjiqmNq?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-27T15:32:26.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/rkowdhoob2vfyigkwuym",
+        "title": "世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast",
+        "url": "https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-27T15:02:32.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/e4uxtsctolxsrvewnuqw",
+        "title": "“我把所有模型都换成了DeepSeek V4”：月账单将降 90%，效果还更好",
+        "url": "https://www.infoq.cn/article/e4UXTsCToLXsRVEWNUqW?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-27T10:43:39.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ub0x3otzwpvvcy8uyxy1",
+        "title": "构建生产就绪的 tRPC API：Apollo Federation 的 TypeScript 替代方案",
+        "url": "https://www.infoq.cn/article/uB0X3OtzwPVvcy8UyXy1?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-27T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3784743117790465",
+        "title": "摩尔线程在北京新设科技公司",
+        "url": "https://36kr.com/newsflashes/3784743117790465?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-27T07:32:36.000Z",
+        "summary": "36氪获悉，爱企查App显示，近日，北京摩尔智堂科技有限公司成立，法定代表人为吕其恒，经营范围包括人工智能硬件销售、人工智能双创服务平台、集成电路芯片设计及服务、计算机系统服务等。股权穿透图显示，该公司由摩尔线程智能科技（北京）股份有限公司间接全资持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3784722022538241",
+        "title": "网易有道云笔记推出“LLM Wiki”技能套件",
+        "url": "https://36kr.com/newsflashes/3784722022538241?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-27T07:04:13.000Z",
+        "summary": "36氪获悉，网易有道云笔记推出LLM-Wiki技能套件，并同步首发至OpenClaw及网易有道龙虾（LobsterAI）技能市场。据介绍，该技能主打“零基础上手”，用户无需任何技术背景，5分钟即可将碎片信息构建为结构化知识库。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3783824870317312",
         "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
         "url": "https://36kr.com/p/3783824870317312?f=rss",
@@ -1226,26 +1296,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-27T01:00:00.000Z",
         "summary": "文｜邱晓芬 编辑｜苏建勋 2026年，全球的具身智能机器人创业者不约而同将目光方向调转向深水区：家庭。 点燃这份热情的，是近期行业里闪烁着的一丝丝Scaling Law苗头—— 先是硅谷具身智能公司Generalist AI在GEN-1模型上验证了确定性，当他们给机器人喂进海量数据后，精细操作任务成功率竟从64%提升到了惊人的99%； 随后，硅谷当红的具身智能独角兽公司Sunday Robotics也试图解决家庭场景数据难关，不仅推出U",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3784363152874761",
-        "title": "中信证券：支付清算层和基础模型层具备较强投资确定性",
-        "url": "https://36kr.com/newsflashes/3784363152874761?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-27T00:53:16.000Z",
-        "summary": "36氪获悉，中信证券研报指出，2026年是Agent Commerce从概念验证走向协议化、标准化和规模化落地的关键窗口。Agent Commerce并非传统电商的局部功能升级，而是AI时代消费互联网的重要基础设施变革。AI Agent开始承接需求理解、商品筛选、比价决策、下单支付等全链路交易职能，商业运行逻辑由“人找货”加速迈向“需求即交付”。产业链角度，支付清算层和基础模型层具备较强投资确定性，平台/入口层和工具链层拥有广阔发展弹性",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3784348203310083",
-        "title": "供需刚性缺口增大，光纤行业量价齐升",
-        "url": "https://36kr.com/newsflashes/3784348203310083?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-27T00:38:03.000Z",
-        "summary": "今年以来，光纤板块热度持续攀升。据Choice不完全统计，目前64家光纤概念公司中，已有30余家披露一季报。光纤行业本轮景气周期源于供需错配：AI算力基建拉动光纤需求增长，而供给端扩产周期长达18个月至24个月，形成“刚性缺口”，导致光纤量价齐升，目前主流光纤产品订单已排至2027年初。（上证报）",
         "category": "updates",
         "region": "cn"
       },
@@ -1290,16 +1340,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3782137908403457",
-        "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
-        "url": "https://36kr.com/p/3782137908403457?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-25T11:15:26.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 当前，制造业正站在从“自动化”向“智能化”跨越的关键节点。 2026年是海康机器人成立十周年。作为工业智能化领域的创新者与实践者，海康机器人近年持续推进机器视觉、移动机器人与柔性制造技术的深度融合，构建起“眼、脚、手”一体化的全栈技术能力，形成了以机器视觉、关节机器人和移动机器人为核心的三大业务体系。 2025年全年，海康机器人营收突破64.52亿元，其中机器视觉类产品累计出货量超 1000 万台，移",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/u3blkmiblgwglikfth4n",
         "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
         "url": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
@@ -1307,36 +1347,6 @@
         "publishedAt": "2026-04-24T18:46:43.000Z",
         "summary": "点击查看原文>",
         "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ua0m0lj6zocei6ggge72",
-        "title": "智源FlagOS完成DeepSeek-V4-Flash在八款芯片Day0适配，实现三重技术突破",
-        "url": "https://www.infoq.cn/article/ua0m0lj6zOcEI6GGge72?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-24T17:29:54.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wuupezvnajcavn0k7hpf",
-        "title": "DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权",
-        "url": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-24T17:23:41.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/6idjlwyioxivwjl4taop",
-        "title": "GPT-5.5 登顶时刻，Anthropic 亲口承认 Claude 变笨了！网友群嘲：太敷衍",
-        "url": "https://www.infoq.cn/article/6iDjLwYiOXIVwjl4taOP?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-24T17:17:42.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
         "region": "cn"
       }
     ],
