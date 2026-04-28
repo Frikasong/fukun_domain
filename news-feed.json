@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T19:06:16.057Z",
+  "generatedAt": "2026-04-28T02:07:50.735Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/negotiating&",
+        "title": "Negotiating Losses: A Big 12 coach is dismissed for cause, and some question the university's motives",
+        "url": "https://www.abajournal.com/web/article/negotiating&#45;losses/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-27T19:20:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/southern&",
         "title": "Southern University moves toward opening law school in Shreveport",
@@ -163,16 +173,6 @@
         "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;whose&#45;son&#45;was&#45;killed&#45;in&#45;home&#45;attack&#45;cautions&#45;against&#45;weakening&#45;state&#45;data&#45;privacy&#45;laws/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-04-24T15:26:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/2&",
-        "title": "2 litigators leave Paul Weiss for Davis Polk",
-        "url": "https://www.abajournal.com/news/article/2&#45;litigators&#45;leaving&#45;paul&#45;weiss&#45;for&#45;davis&#45;polk/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-24T14:31:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,32 +1210,82 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/ei5gqlaawbxppfzz2b33",
+        "title": "Agent 的下一站：基于长期记忆系统 EverOS 的自我演进｜AICon上海",
+        "url": "https://www.infoq.cn/article/eI5gqlAawBxPPfZZ2B33?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-28T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/z3mkvakfc2hjjk643okq",
+        "title": "同一赛道，四种收费：Agent 控制层（Harness）开始分裂",
+        "url": "https://www.infoq.cn/article/Z3MKvAKFC2Hjjk643oKQ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-28T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/aetf3mwiap5iljcd0iw7",
+        "title": "Agent 的“记忆断片”困局，该怎么破？",
+        "url": "https://www.infoq.cn/video/AetF3mwIAP5iljCD0iW7?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-28T09:17:42.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3785783585266689",
+        "title": "五一视界SimOne4.0先行版正式发布，已完成与英伟达产品深度融合",
+        "url": "https://36kr.com/newsflashes/3785783585266689?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-28T00:58:12.000Z",
+        "summary": "五一视界SimOne4.0先行版正式发布，以世界模型和VLA为技术底座进行全面重构和升级，覆盖数据、训练、推理、验证与交付五大核心环节，全面助力AI安全、高效地进入物理世界。五一视界自2017年推出SimOne1.0仿真平台以来，9年间已完成从高置信场景与感知仿真、到端到端数据闭环，再到数据驱动重建+生成的技术路线迭代。据悉，SimOne4.0日前已完成与英伟达Omniverse NuRec产品的深度融合，并已构建从真实数据采集、神经场",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3785730095127817",
+        "title": "8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元",
+        "url": "https://36kr.com/p/3785730095127817?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-28T00:04:02.000Z",
+        "summary": "TOP3大新闻 DeepSeek 输入缓存降价 多家美国廉价航空公司寻求政府资金纾困 东方甄选回应大量用户申请退会员 穿西装开空调太费电，日本东京鼓励公务员穿短裤 印度移动支付平台MobiKwik获央行批准 TOP3大事件 国家发展改革委：依法依规对外资收购Manus项目作出禁止投资决定 据国家发展改革委网站4月27日消息，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3784697499786503",
+        "title": "用AI做IP，文娱科技公司星迹互动完成数千万元天使轮融资｜36氪融资首发",
+        "url": "https://36kr.com/p/3784697499786503?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "summary": "近期，数字科技文娱公司星迹互动完成了数千万元的天使轮融资。本轮投资方包括正大集团、北京大融文化传媒、禹牧智能以及麦迈科技等。36氪获悉，此次融资将主要用于公司人员规模的扩张、产能拉升以及平台建设。 星迹互动于2025年成立，以AI为核心驱动力，专注于精品IP的开发与运营。具体来讲，公司的业务包括新老IP的开发与运营、漫剧的承制与出海、儿童原创动画孵化，以及数字人IP与虚拟偶像的打造。 公司创始人张文广是连续创业者，曾是二更联合创始人、微",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3784480103455748",
+        "title": "「寻明生科」完成3500万美元A+轮融资，首个抗体药物即将进入临床｜36氪首发",
+        "url": "https://36kr.com/p/3784480103455748?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-28T00:00:00.000Z",
+        "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，寻明生科（Aureka Biotechnologies）近期已完成3500万美元A+轮融资。本轮融资由红杉中国领投，经纬创投、博远资本跟投，老股东五源资本、启明创投、纽尔利资本等持续加注。 去年底，寻明生科就曾获得一笔数千万美元的 A轮融资 。截至目前，公司A轮次融资的累计金额已接近1亿美元。 寻明生科方面表示，本轮募集资金将用于推动自研创新功能抗体设计平台AuraIDE™建设，加大基座模型与智能体",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3784806758243587",
         "title": "最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎",
         "url": "https://36kr.com/p/3784806758243587?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-27T16:27:19.000Z",
         "summary": "在汽车行业越来越强调降本的今天，车企心中的天平逐渐偏向了更具性价比的国产芯片。爱芯元智看到了这一发展机遇，北京车展前期，爱芯元智与千里科技、阶跃星辰等企业成立“千里联盟”，同时企业将于今年三季度发布M97这颗大算力辅助驾驶芯片。 爱芯元智创始人仇肖莘在北京车展上公开表示，“大算力产品已成功流片，正进入正常的开发周期”，2026年将逐步导入多款车型，成为业绩增长的重要引擎。目前，传统终端计算产品仍占爱芯元智收入的超80%，车载和边缘计算业",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3785054828911878",
-        "title": "万兴科技：2025年营收15.3亿元，归母净利减亏44.2%",
-        "url": "https://36kr.com/newsflashes/3785054828911878?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-27T12:42:41.000Z",
-        "summary": "36氪获悉，万兴科技公告，2025年营业收入达15.33亿元，同比增长6.46%；归母净利同比减亏44.19%，销售费用率同比降1.87个百分点。其中，核心视频创意业务营收10.2亿元，移动产品收入同比增超60%，AI原生应用收入同比增超90%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3784964389477377",
-        "title": "北京人工智能产投基金等入股新石器无人车关联公司",
-        "url": "https://36kr.com/newsflashes/3784964389477377?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-27T11:26:48.000Z",
-        "summary": "36氪获悉，爱企查App显示，近日，新石器无人车关联公司新石器慧通（北京）科技有限公司发生工商变更，新增北京市人工智能产业投资基金（有限合伙）、北京中移数字新经济产业基金合伙企业（有限合伙）等为股东，同时注册资本增至5016.85万元人民币。该公司成立于2018年，经营范围包括人工智能应用软件开发、物联网设备制造、人工智能行业应用系统集成服务、服务消费机器人制造等。",
         "category": "updates",
         "region": "cn"
       },
@@ -1280,26 +1330,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3784365164322055",
-        "title": "「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人",
-        "url": "https://36kr.com/p/3784365164322055?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-27T01:00:00.000Z",
-        "summary": "文｜邱晓芬 编辑｜苏建勋 2026年，全球的具身智能机器人创业者不约而同将目光方向调转向深水区：家庭。 点燃这份热情的，是近期行业里闪烁着的一丝丝Scaling Law苗头—— 先是硅谷具身智能公司Generalist AI在GEN-1模型上验证了确定性，当他们给机器人喂进海量数据后，精细操作任务成功率竟从64%提升到了惊人的99%； 随后，硅谷当红的具身智能独角兽公司Sunday Robotics也试图解决家庭场景数据难关，不仅推出U",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3784311487945735",
-        "title": "8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整",
-        "url": "https://36kr.com/p/3784311487945735?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-27T00:03:45.000Z",
-        "summary": "今日热点导览 美国白宫记者晚宴大厅发生枪击事件 王传福夫妇坐地铁参加北京车展被偶遇 DeepSeekV4成OpenClaw默认模型 2025年全国大型演唱会票房295.58亿 OpenAI首席执行官就未通报枪击案嫌疑人道歉 TOP3大新闻 豆包提前查到2026山东事业编成绩？最新回应 4月23日晚间，有网友发帖称，“豆包查到2026山东事业编成绩了”，并附上一张成绩单，但成绩部分涂掉了。“不过好像只有济南槐荫区的能查，是不是属实咱也不知",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/qyezg05iakidemtgcqki",
         "title": "Anthropic推出面向Claude Code的基于智能体的代码审查功能",
         "url": "https://www.infoq.cn/article/QyeZg05iakideMTGCQKi?utm_source=rss&utm_medium=article",
@@ -1308,29 +1338,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3783249100397570",
-        "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
-        "url": "https://36kr.com/p/3783249100397570?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-26T06:00:34.000Z",
-        "summary": "欧莱雅全球青年创新策划大赛BRANDSTORM 2026中国总决赛于4月24日在上海收官。本届赛事聚焦奢华香氛领域，中国赛区吸引超72000人报名，经多轮选拔后六支队伍进入总决赛。最终，UNIBLOCK、SOS和Move with Scent三支队伍分获冠亚季军，将代表中国赛区赴巴黎参加全球总决赛。 BRANDSTORM大赛已举办34年，覆盖全球40多个国家和地区，累计参与人数超37万。中国赛区自2003年启动以来，累计参与人数已超过7",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/u3blkmiblgwglikfth4n",
-        "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
-        "url": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-24T18:46:43.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3351551/lightelligence-jumps-hong-kong-debut-amid-ai-driven-demand-photonics-chips",
+        "title": "Lightelligence jumps in Hong Kong debut amid AI-driven demand for photonics chips",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3351551/lightelligence-jumps-hong-kong-debut-amid-ai-driven-demand-photonics-chips?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-28T02:03:55.000Z",
+        "summary": "Lightelligence, the first mainland Chinese photonics chipmaker to go public in Hong Kong, saw its share price surge by nearly 400 per cent in its trading debut on Tuesday, as investors banked on the country’s quest for a",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "The Guardian China:www.theguardian.com/world/2026/apr/27/china-blocks-meta-takeover-manus-ai-agent-developer",
         "title": "China blocks $2bn Meta takeover of AI agent developer Manus",
@@ -1338,16 +1358,6 @@
         "source": "The Guardian China",
         "publishedAt": "2026-04-27T14:35:32.000Z",
         "summary": "Beijing says domestic tech companies must seek explicit government approval for accepting US investment Business live – latest updates China has blocked Meta’s $2bn (£1.5bn) acquisition of an AI startup as it cracks down",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3351605/optical-chipmakers-profit-soars-1153-ai-demand-chinas-tech-self-reliance-push",
-        "title": "Optical chipmaker’s profit soars 1,153% on AI demand, China’s tech self-reliance push",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3351605/optical-chipmakers-profit-soars-1153-ai-demand-chinas-tech-self-reliance-push?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-27T14:00:35.000Z",
-        "summary": "Chinese optical chipmaker Yuanjie Semiconductor Technology reported an elevenfold surge in first-quarter profits as domestic firms capitalise on soaring demand for computing power amid the artificial intelligence boom an",
         "category": "updates",
         "region": "cn_en"
       },
