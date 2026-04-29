@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T19:22:39.117Z",
+  "generatedAt": "2026-04-29T02:09:12.388Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/change&",
+        "title": "Change of Venue: Few lawyers move to upstate New York, but a state program is trying to change that",
+        "url": "https://www.abajournal.com/web/article/change&#45;of&#45;venue/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-28T19:28:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/can&",
         "title": "Can trademarking Taylor Swift’s voice, likeness combat deepfakes?",
@@ -153,8 +163,8 @@
         "url": "https://www.lawnext.com/2026/04/the-legal-tech-giants-powering-ice-part-1-how-thomson-reuters-and-lexisnexis-helped-support-americas-immigration-surveillance-machine.html",
         "source": "LawSites",
         "publishedAt": "2026-04-27T16:16:19.000Z",
-        "summary": "For the lawyers and other legal professionals who use Westlaw and LexisNexis every day, these platforms are familiar tools of the trade – essential systems for finding case law, checking citations and getting practical g",
-        "category": "articles",
+        "summary": "[Note: Since first publishing this post, I have made several edits and updates based on information provided by Thomson Reuters and other sources. In most cases, I have indicated where I have changed or added information",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -195,16 +205,6 @@
         "publishedAt": "2026-04-27T13:25:35.000Z",
         "summary": "Usman Wahid, who was previously a partner and head of the Technology &#38; Data legal team at Big Four firm KPMG – and also was ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
-        "title": "Judge Albright, patent dispute magnet, leaving bench in August",
-        "url": "https://www.abajournal.com/news/article/judge&#45;albright&#45;patent&#45;dispute&#45;magnet&#45;leaving&#45;bench&#45;in&#45;august/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-27T13:20:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,12 +1210,72 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3786492691782919",
-        "title": "商汤科技正式发布并开源日日新SenseNova U1系列模型",
-        "url": "https://36kr.com/newsflashes/3786492691782919?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/zyb4eql6z4qsqg38vcgz",
+        "title": "面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+        "url": "https://www.infoq.cn/article/ZYb4eQL6z4QSQg38VCgZ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-29T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/j6gxomdysazvufde01ou",
+        "title": "Anthropic 推出 Managed Agents，简化 AI 代理部署流程",
+        "url": "https://www.infoq.cn/article/j6GxoMDySAzVUFdE01oU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-29T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/3kfzzxewszzerupjygkt",
+        "title": "阿里HappyHorse开启灰测，720P视频生成低至0.44元/秒",
+        "url": "https://www.infoq.cn/article/3kfZZXewSZzErupjYGkT?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-29T09:58:30.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/xjwwsm6m5afakunv12ae",
+        "title": "讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+        "url": "https://www.infoq.cn/article/xjWWsm6M5afakuNv12aE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-29T09:54:23.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/yzbjivsoby8nr3gpwrtr",
+        "title": "小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek",
+        "url": "https://www.infoq.cn/article/YzBjivSoby8NR3gPWRtR?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-29T09:41:33.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3786123369094405",
+        "title": "前米哈游高管创业，AI 原生增长 Agent LeapMind Growth 获 CMC 资本领投",
+        "url": "https://36kr.com/p/3786123369094405?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-28T12:59:33.000Z",
-        "summary": "36氪获悉，今天，商汤科技正式发布并开源日日新SenseNova U1系列原生理解生成统一模型。它基于商汤于今年三月自主研发的NEO-unify架构，在单一模型架构上统一了多模态理解、推理与生成。据了解，SenseNova U1系列模型能够将语言与视觉信息作为统一的复合体直接建模，实现语言和视觉信息的高效协同，让理解与生成能力同步增强，在保留语义丰富度的同时，维持像素级的视觉保真度。",
+        "publishedAt": "2026-04-29T01:00:00.000Z",
+        "summary": "2026 年 4 月 29 日，上海讯 —— AI 原生增长 Agent LeapMind Growth 今日宣布完成天使 + 轮融资，由 CMC 资本领投。本轮融资将主要用于核心产品 GrowthGPT 的研发迭代、产研团队扩充及早期市场拓展。 LeapMind Growth 成立于 2025 年 4 月，由前米哈游全球用户增长负责人、前快手增长策略中心负责人 马如平（Rubin） 创立，此前也曾在 TikTok 负责用户增长，累计主",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3787150633065728",
+        "title": "8点1氪丨百度废除字母职级标签；Meta被曝准备撤销对Manus收购；张雪称曾拒绝了半个亿的商务合作",
+        "url": "https://36kr.com/p/3787150633065728?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-29T00:11:35.000Z",
+        "summary": "今日热点导览 阿联酋宣布将退出欧佩克及“欧佩克+” 比亚迪宣布5月1日起涨价 五粮液：延期披露年报、一季报 普通本科高校上新38种专业 全马“破2”跑鞋被炒至近2万元 韩股市值超越英国，成为全球第八大股市 TOP3大新闻 百度职级体系大调整：字母标签改为5级至12级数字职级体系 4月28日，据《科创板日报》，百度发布全员信，通知职级体系大调整，其将中管层以下的专业通道与管理通道全面打通，原有职级字母标签（T、P、E、Band、M）统一为",
         "category": "updates",
         "region": "cn"
       },
@@ -1276,46 +1336,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-28T00:00:00.000Z",
         "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，寻明生科（Aureka Biotechnologies）近期已完成3500万美元A+轮融资。本轮融资由红杉中国领投，经纬创投、博远资本跟投，老股东五源资本、启明创投、纽尔利资本等持续加注。 去年底，寻明生科就曾获得一笔数千万美元的 A轮融资 。截至目前，公司A轮次融资的累计金额已接近1亿美元。 寻明生科方面表示，本轮募集资金将用于推动自研创新功能抗体设计平台AuraIDE™建设，加大基座模型与智能体",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3784806758243587",
-        "title": "最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎",
-        "url": "https://36kr.com/p/3784806758243587?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-27T16:27:19.000Z",
-        "summary": "在汽车行业越来越强调降本的今天，车企心中的天平逐渐偏向了更具性价比的国产芯片。爱芯元智看到了这一发展机遇，北京车展前期，爱芯元智与千里科技、阶跃星辰等企业成立“千里联盟”，同时企业将于今年三季度发布M97这颗大算力辅助驾驶芯片。 爱芯元智创始人仇肖莘在北京车展上公开表示，“大算力产品已成功流片，正进入正常的开发周期”，2026年将逐步导入多款车型，成为业绩增长的重要引擎。目前，��统终端计算产品仍占爱芯元智收入的超80%，车载和边缘计算",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3784957482523648",
-        "title": "氪星晚报｜五一假期约600万人次进出香港；谷歌将在韩国新建人工智能园区，韩国总统府证实；英国大型企业普遍不清楚自身数据在海外被人工智能如何使用",
-        "url": "https://36kr.com/p/3784957482523648?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-27T11:25:19.000Z",
-        "summary": "大公司： 谷歌将在韩国新建人工智能园区，韩国总统府证实 韩国总统政策顾问金龙范于周一表示，韩国政府与谷歌达成协议，将在首尔共建一座人工智能园区，深化谷歌与韩国本土技术人才、初创企业的合作。金龙范介绍，韩国总统李在明当日在首尔会见了谷歌深度思维（DeepMind）首席执行官德米斯・哈萨比斯。韩国科学技术部与谷歌就此人工智能园区项目签署了合作谅解备忘录。 法国汽车零部件供应商Forvia 21亿美元出售汽车内饰业务 法国汽车零部件供应商Fo",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/e4uxtsctolxsrvewnuqw",
-        "title": "“我把所有模型都换成了DeepSeek V4”：月账单将降 90%，效果还更好",
-        "url": "https://www.infoq.cn/article/e4UXTsCToLXsRVEWNUqW?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-27T10:43:39.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ub0x3otzwpvvcy8uyxy1",
-        "title": "构建生产就绪的 tRPC API：Apollo Federation 的 TypeScript 替代方案",
-        "url": "https://www.infoq.cn/article/uB0X3OtzwPVvcy8UyXy1?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-27T10:00:00.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
