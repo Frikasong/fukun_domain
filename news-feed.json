@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T08:03:15.733Z",
+  "generatedAt": "2026-04-29T13:26:41.339Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,66 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/29/scaling-europe-top-50-picks-4-legal-ai-companies",
+        "title": "Scaling Europe Top 50 Picks 4 Legal AI Companies",
+        "url": "https://www.artificiallawyer.com/2026/04/29/scaling-europe-top-50-picks-4-legal-ai-companies/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-29T13:04:40.000Z",
+        "summary": "The Scaling Europe Top 50 is a data-led ranking for startups based in Europe. Four legal AI companies made the list this year: Legora, Wordsmith, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/29/legalon-goes-clm-ish-with-contract-vault",
+        "title": "LegalOn Goes ‘CLM-ish’ With Contract Vault",
+        "url": "https://www.artificiallawyer.com/2026/04/29/legalon-goes-clm-ish-with-contract-vault/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-29T12:23:02.000Z",
+        "summary": "LegalOn has launched Vault in the US and Europe, expanding the AI company’s wealth of features around contract management and analysis to the point where ...",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/29/soren-launches-to-deliver-private-ai",
+        "title": "Soren Launches To Deliver ‘Private AI’",
+        "url": "https://www.artificiallawyer.com/2026/04/29/soren-launches-to-deliver-private-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-29T11:26:24.000Z",
+        "summary": "Soren, which is backed by Y Combinator, has launched what it calls ‘private AI’ aimed at regulated sectors that deal with highly sensitive information. They ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/29/noxtua-integrates-us-legal-data-in-partnership-with-midpage",
+        "title": "Noxtua Integrates US Legal Data in Partnership with Midpage",
+        "url": "https://www.artificiallawyer.com/2026/04/29/noxtua-integrates-us-legal-data-in-partnership-with-midpage/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-29T11:08:19.000Z",
+        "summary": "Europe&#8217;s ‘sovereign legal AI’ platform, Noxtua &#8211; which CMS and Dentons have invested in &#8211; and the legal research startup Midpage, are partnering to combine ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/29/how-coding-agents-become-legal-tech-allies",
+        "title": "How Coding Agents Become Legal Tech Allies",
+        "url": "https://www.artificiallawyer.com/2026/04/29/how-coding-agents-become-legal-tech-allies/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-29T07:41:54.000Z",
+        "summary": "By Henrik Hansson, co-founder, Vesence. Too much of the discussion about AI in legal still assumes a choice between fixed software and open-ended agents. We ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/29/is-ai-actually-making-your-legal-team-faster",
+        "title": "Is AI Actually Making Your Legal Team Faster?",
+        "url": "https://www.artificiallawyer.com/2026/04/29/is-ai-actually-making-your-legal-team-faster/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-29T06:40:53.000Z",
+        "summary": "By Ed Walters, VP Legal Innovation &#38; Strategy, Clio. Every legal AI pitch tells the same story: drafting that took days now takes hours, research ...",
+        "category": "articles",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/change&",
         "title": "Change of Venue: Few lawyers move to upstate New York, but a state program is trying to change that",
@@ -24,6 +84,16 @@
         "source": "ABA Journal",
         "publishedAt": "2026-04-28T18:09:00.000Z",
         "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/28/newmod-manifest-os-bags-60m-at-750m-valuation",
+        "title": "NewMod Manifest OS Bags $60m at $750m Valuation",
+        "url": "https://www.artificiallawyer.com/2026/04/28/newmod-manifest-os-bags-60m-at-750m-valuation/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-28T16:33:42.000Z",
+        "summary": "NewMod Manifest OS has announced a $60m Series A funding round at a $750m valuation, with Menlo Ventures, Kleiner Perkins, and First Round Capital, taking ...",
         "category": "updates",
         "region": "na"
       },
@@ -58,6 +128,26 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/28/harvey-hires-former-notion-cmo-rachel-hepworth",
+        "title": "Harvey Hires Former Notion CMO Rachel Hepworth",
+        "url": "https://www.artificiallawyer.com/2026/04/28/harvey-hires-former-notion-cmo-rachel-hepworth/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-28T14:38:52.000Z",
+        "summary": "AL doesn’t usually cover marketing roles, but this one is definitely noteworthy. Harvey has hired Rachel Hepworth as Chief Marketing Officer (CMO). She was previously ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/28/lexisnexis-owner-plans-to-buy-doctrine-top-french-legal-ai-company",
+        "title": "LexisNexis Owner Plans to Buy Doctrine – Top French Legal AI Company",
+        "url": "https://www.artificiallawyer.com/2026/04/28/lexisnexis-owner-plans-to-buy-doctrine-top-french-legal-ai-company/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-28T13:50:08.000Z",
+        "summary": "Breaking News &#8211; RELX Group, the publicly listed company which owns LexisNexis Legal &#38; Professional, has announced that it has entered into a &#8216;put option ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/04/8am-now-guarantees-next-day-payments-to-its-lawpay-customers.html",
         "title": "8am Now Guarantees Next-Day Payments To Its LawPay Customers",
         "url": "https://www.lawnext.com/2026/04/8am-now-guarantees-next-day-payments-to-its-lawpay-customers.html",
@@ -65,6 +155,16 @@
         "publishedAt": "2026-04-28T13:00:09.000Z",
         "summary": "8am, the parent company of a suite of practice and business management products for lawyers and accountants, is now guaranteeing next-day payments for customers of its LawPay and CPACharge payments platforms, it said tod",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/28/is-claude-really-cheaper-than-your-legal-tech-stack",
+        "title": "Is Claude Really Cheaper Than Your Legal Tech Stack?",
+        "url": "https://www.artificiallawyer.com/2026/04/28/is-claude-really-cheaper-than-your-legal-tech-stack/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-28T09:10:25.000Z",
+        "summary": "On face value Claude looks way less expensive than paying for a legal tech tool for the tasks that it’s able to do, such as ...",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -1106,39 +1206,39 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qstolhxvmdj7y7moeto0",
+        "title": "Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”",
+        "url": "https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-29T18:59:11.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/jas7bgxpgx8ibdqqw98a",
+        "title": "腾讯云分布式缓存数据库：AI Agent - 从提示词工程到 Harness 工程 | 腾讯云数据库 DBTalk",
+        "url": "https://www.infoq.cn/video/JAs7bgXPGx8ibDQQw98A?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-29T16:47:06.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/oyq5layrarr2vue40fwm",
+        "title": "不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账",
+        "url": "https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-29T16:17:51.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/xkaonsinyjhsvjekczsa",
         "title": "AI 写代码太烧钱了：Copilot、Claude 一起涨价，不如把程序员请回来？",
@@ -1150,122 +1250,42 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/tqu4mowkh5yxxaufyvqi",
-        "title": "英特尔发布至强600系列工作站处理器与锐炫Pro B70 GPU，全新AI工作站来了",
-        "url": "https://www.infoq.cn/article/TqU4moWkh5yXXauFyvqI?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T15:46:26.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/ca4atzztsraxnxvuskl0",
-        "title": "腾讯云分布式缓存数据库：从 Redis 到 Valkey - 开源社区如何快速创新 | 腾讯云数据库 DBTalk",
-        "url": "https://www.infoq.cn/video/ca4atzztsRAxNxVUsKL0?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T15:44:13.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/syk6bmpe5b4jx2uwyje9",
-        "title": "印奇这次要“从0重做”智驾模型！首谈阶跃和千里双公司布局：中国AI商业闭环要靠车跑出来",
-        "url": "https://www.infoq.cn/article/syK6BMPE5b4Jx2uWyJe9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T15:42:54.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zljgpxurimafw9pf6hpt",
-        "title": "从Cursor返聘归来，90后华裔女高管带Claude开启日更模式：token成本比工程师工资低多了！",
-        "url": "https://www.infoq.cn/article/zljgpXURIMafW9Pf6hpT?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T15:29:33.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/e5ihqgg98wwevmud0mqt",
-        "title": "从 Coding 到 Agent：QCon 北京 2026 全景复盘，优秀出品人 & 明星讲师名单揭晓",
-        "url": "https://www.infoq.cn/article/E5IhQGg98wWEvMud0Mqt?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T14:58:40.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/2y3zzqcxbtyam5wb0yjk",
-        "title": "全链路支撑大模型国产化“Day 0适配”，商汤大装置构建全栈能力底座",
-        "url": "https://www.infoq.cn/article/2y3zZQcXbtyAM5wb0YjK?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T13:58:38.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/dw3ks3hdynmegxg2achz",
-        "title": "凌晨，OpenAI 与亚马逊云科技史上最大联合发布来了",
-        "url": "https://www.infoq.cn/article/DW3kS3hDYNmegxG2achz?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T13:46:13.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/f9r3c36aekcsvsqofoyf",
-        "title": "基于 Apache Camel 编排智能体与多模态 AI 管道",
-        "url": "https://www.infoq.cn/article/f9R3c36aEkCsVSqoFoyF?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T11:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/xjwwsm6m5afakunv12ae",
-        "title": "讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
-        "url": "https://www.infoq.cn/article/xjWWsm6M5afakuNv12aE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T09:54:23.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/yzbjivsoby8nr3gpwrtr",
-        "title": "小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek",
-        "url": "https://www.infoq.cn/article/YzBjivSoby8NR3gPWRtR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T09:41:33.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3787530311785480",
-        "title": "韩国与卡塔尔官员商讨先进产业投资合作事宜",
-        "url": "https://36kr.com/newsflashes/3787530311785480?f=rss",
+        "id": "36Kr:36kr.com/p/3787748082293766",
+        "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
+        "url": "https://36kr.com/p/3787748082293766?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-29T06:35:04.000Z",
-        "summary": "据报道，韩国产业通商部通商交涉本部长吕翰九29日在首尔会见到访的卡塔尔外贸事务国务大臣艾哈迈德·赛义德，双方就深化半导体、生物等先进产业领域投资合作事宜交换意见。双方商定将韩方的制造能力和卡方的丰厚资本相结合，推动战略投资合作进一步深化发展。双方对在制造业人工智能转型（AX）、机器人等新兴产业领域开展合作的可能性表示关注，并就韩国生物企业、AI芯片商与卡方的投资合作方案进行交流。（财联社）",
+        "publishedAt": "2026-04-29T12:44:39.000Z",
+        "summary": "大公司： 魔法原子：目标到2036年营收达140亿美元 36氪获悉，美西时间4月28日，魔法原子在硅谷举办全球具身智能创新大会（GEIS）落幕。会上发布自研世界模型Magic-Mix、灵巧手MagicHand H01及旗舰人形机器人MagicBot X1。大会上，公司首次对外披露魔法原子的长期营收目标：到2036年，公司将向140亿美元营收规模迈进，并宣布未来五年将持续投入10亿美元，打造面向机器人二次开发的专属生态。 吉利汽车：第一季",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3787882892631302",
+        "title": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具",
+        "url": "https://36kr.com/newsflashes/3787882892631302?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-29T12:33:44.000Z",
+        "summary": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具。（财联社）",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3787522956762371",
-        "title": "韩国今年将为AI工厂项目提供530亿韩元支持",
-        "url": "https://36kr.com/newsflashes/3787522956762371?f=rss",
+        "id": "36Kr:36kr.com/p/3787806140636420",
+        "title": "第20届中国投资年会圆满闭幕！ “K型曲线”下，寻找穿越分化的确定性",
+        "url": "https://36kr.com/p/3787806140636420?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-29T06:27:35.000Z",
-        "summary": "韩国产业通商资源部官员周三表示，今年将提供530亿韩元（约合3590万美元）的资金，用于支持旨在建设人工智能（AI）工厂基础设施的项目。据韩国产业通商资源部称，这笔资金将提供给参与“制造业人工智能转型”（M.AX）联盟人工智能工厂部门的企业牵头的项目。（新浪财经）",
+        "publishedAt": "2026-04-29T11:20:42.000Z",
+        "summary": "2026年4月22日至24日，第20届中国投资年会·年度峰会于北京海淀盛大召开。本届大会以“K型曲线”为主题，由北京市海淀区人民政府指导，投中信息、投中网主办，北京中关村科学城创新发展有限公司协办。本届年会连续第二年扎根北京海淀，双方合作正从初次携手走向深度融合。超千名行业领袖、投资人及创业者齐聚海淀，共同研判中国私募股权市场的结构性变局。 群贤毕至，重磅嘉宾阵容 大会嘉宾阵容星光熠熠，政策、学术、投资与产业的领军人物跨界同席，共同为这",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3787661080714497",
+        "title": "“36氪企业全情报”官方股票舆情交流社群，正式开放招募！",
+        "url": "https://36kr.com/p/3787661080714497?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-29T08:50:02.000Z",
+        "summary": "36氪企业全情报官方专属社群现已正式对外开放，正式打造 唯一官方股票舆情情报社群 ，面向所有股民、理财爱好者、个股深度研究者，适配不同投资风格与交易节奏，帮你高效拿捏舆情风向、把握行情先机。 从 股市舆情解读、个股情报拆解 ，到 行情逻辑分析、投资干货交流 ，一站式帮投资者告别信息滞后、看懂涨跌本质。 扫码进入：“36氪企业全情报”官方股票舆情交流社群 为什么要做专属股票舆情交流情报社群？ 炒股早已不是单纯看K线， 舆情、消息、基本面、",
         "category": "updates",
         "region": "cn"
       },
@@ -1288,49 +1308,19 @@
         "summary": "2026 年 4 月 29 日，上海讯 —— AI 原生增长 Agent LeapMind Growth 今日宣布完成天使 + 轮融资，由 CMC 资本领投。本轮融资将主要用于核心产品 GrowthGPT 的研发迭代、产研团队扩充及早期市场拓展。 LeapMind Growth 成立于 2025 年 4 月，由前米哈游全球用户增长负责人、前快手增长策略中心负责人 马如平（Rubin） 创立，此前也曾在 TikTok 负责用户增长，累计主",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3787150633065728",
-        "title": "8点1氪丨百度废除字母职级标签；Meta被曝准备撤销对Manus收购；张雪称曾拒绝了半个亿的商务合作",
-        "url": "https://36kr.com/p/3787150633065728?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-29T00:11:35.000Z",
-        "summary": "今日热点导览 阿联酋宣布将退出欧佩克及“欧佩克+” 比亚迪宣布5月1日起涨价 五粮液：延期披露年报、一季报 普通本科高校上新38种专业 全马“破2”跑鞋被炒至近2万元 韩股市值超越英国，成为全球第八大股市 TOP3大新闻 百度职级体系大调整：字母标签改为5级至12级数字职级体系 4月28日，据《科创板日报》，百度发布全员信，通知职级体系大调整，其将中管层以下的专业通道与管理通道全面打通，原有职级字母标签（T、P、E、Band、M）统一为",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3786324189027332",
-        "title": "氪星晚报｜我国最大规模AI4S集群接入全国一体化算力网；亚马逊低地轨道卫星计划又一批卫星发射升空；我国首款正向设计自转旋翼机完成首飞",
-        "url": "https://36kr.com/p/3786324189027332?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-28T10:09:31.000Z",
-        "summary": "大公司： 拒买新闻就交税，澳洲拟向科技巨头征约2%营收税 澳大利亚政府公布法案草案，拟对Meta、谷歌等科技巨头征收新税，除非这些平台自愿与当地新闻机构签署付费协议，以应对传统媒体在数码平台冲击下面临的生存压力。据报道，根据拟议的新法律安排，这些大型数码平台须就分享本地媒体新闻内容所带来的平台流量，向出版商提供经济补偿。澳洲总理阿尔巴尼斯表明，政府将给予Meta、谷歌等公司机会，与本地新闻出版商达成内容交易。 网信部门依法查处“剪映”A",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3786252394945795",
-        "title": "独家对谈｜缘启智慧CEO邓江，一个80后银行码农出身的AI医疗创业者",
-        "url": "https://36kr.com/p/3786252394945795?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-28T09:12:04.000Z",
-        "summary": "图源：公众号「职场Bonus」（ID：ZhiChangHongLi） 今年三月，《职场Bonus》报道了 前百川智能商业化合伙人 邓江 加入北电数智 的消息。没想到不到半年后，他出来创业了。 如今，他是AI医疗大模型新晋创业者邓江，是 「缘启智慧」公司的创始人兼CEO 邓江。在他低调开张的节骨眼上，我们联系到了这位技术背景的金融老兵，期待他能分享自己 在风口上跨越、历险、不断前进的职业故事 ，以及， 他这次创业要做什么事儿。 ● 欢迎观",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3785955616152839",
-        "title": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
-        "url": "https://36kr.com/p/3785955616152839?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-28T03:53:31.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，专注于焊接垂直场景的具身智能机器人公司——昇视唯盛已完成数千万元A+轮融资。本轮融资由韩国现代、微光创投联合投资，资金将主要用于“具身大脑”的研发、软硬件产品的迭代以及市场推广。 昇视唯盛成立于2020年，核心团队由来自哈尔滨工业大学、上海交通大学等高校的机器人领域专家，以及拥有多年工业自动化从业经验的资深人员组成。创始人王德钊及核心团队在机器人及自动化领域拥有十余年产业经验，对焊接场景的工艺需求及行",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/article/3351894/revenue-jumps-chinas-cambricon-metax-amid-thirst-domestic-ai-chips",
+        "title": "Revenue jumps for China’s Cambricon, MetaX amid thirst for domestic AI chips",
+        "url": "https://www.scmp.com/tech/article/3351894/revenue-jumps-chinas-cambricon-metax-amid-thirst-domestic-ai-chips?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-29T13:15:23.000Z",
+        "summary": "Chinese chip designers Cambricon Technologies and MetaX Integrated Circuits reported substantial growth in the first quarter, as the artificial intelligence boom, lingering US export-control risks and China’s self-suffic",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/article/3351718/meta-manus-ai-deal-difficult-undo-how-will-beijing-exert-its-authority",
         "title": "With Meta-Manus AI deal ‘difficult’ to undo, how will Beijing exert its authority?",
@@ -1389,16 +1379,6 @@
         "publishedAt": "2026-04-24T10:03:43.000Z",
         "summary": "Chinese chipmakers rallied on Friday while artificial intelligence application firms retreated, as investors rotated into semiconductor stocks on expectations of stronger demand for computing power following a new model ",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3351239/deepseek-releases-next-gen-ai-model-world-leading-efficiency",
-        "title": "DeepSeek unveils next-gen AI model as Huawei vows ‘full support’ with new chips",
-        "url": "https://www.scmp.com/tech/big-tech/article/3351239/deepseek-releases-next-gen-ai-model-world-leading-efficiency?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-24T03:25:33.000Z",
-        "summary": "DeepSeek has finally released its much-anticipated next-generation foundational artificial intelligence model, the open-source V4, which it said was competitive with leading US closed-source models from the likes of Open",
-        "category": "updates",
         "region": "cn_en"
       }
     ]
