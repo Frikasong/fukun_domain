@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T13:26:41.339Z",
+  "generatedAt": "2026-04-29T19:12:21.509Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,96 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/jeopardy&",
+        "title": "&#8216;Jeopardy!&#8217; superchampion exits show with over $880K",
+        "url": "https://www.abajournal.com/news/article/jeopardy&#45;superchampion&#45;leaves&#45;show&#45;with&#45;880k/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-29T19:11:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/04/legal-marketing-association-president-rachel-shields-williams-on-ai-innovation-and-why-people-still-come-first.html",
+        "title": "Legal Marketing Association President Rachel Shields Williams On AI, Innovation, and Why People Still Come First",
+        "url": "https://www.lawnext.com/2026/04/legal-marketing-association-president-rachel-shields-williams-on-ai-innovation-and-why-people-still-come-first.html",
+        "source": "LawSites",
+        "publishedAt": "2026-04-29T16:49:44.000Z",
+        "summary": "Recorded live at the annual meeting of the Legal Marketing Association in New Orleans, this episode features my conversation with Rachel Shields Williams, president of the LMA and director of client intelligence at Sidle",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/youre&",
+        "title": "&#8216;You&#8217;re allergic? Good!&#8217; Woman who released bees to protest eviction is sentenced to 6 months in jail",
+        "url": "https://www.abajournal.com/news/article/youre&#45;allergic&#45;good&#45;woman&#45;who&#45;released&#45;bees&#45;to&#45;protest&#45;an&#45;eviction&#45;is&#45;sentenced/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-29T16:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/chemerinsky&",
+        "title": "Chemerinsky: Supreme Court examines how police use of technology may clash with Fourth Amendment",
+        "url": "https://www.abajournal.com/columns/article/chemerinsky&#45;supreme&#45;court&#45;examines&#45;how&#45;police&#45;use&#45;of&#45;technology&#45;may&#45;clash&#45;with&#45;the&#45;fourth&#45;amendment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-29T15:06:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/inmate&",
+        "title": "Inmate says his belief in satanism was improperly used by prosecutors to obtain death sentence",
+        "url": "https://www.abajournal.com/news/article/inmate&#45;says&#45;his&#45;belief&#45;in&#45;satanism&#45;was&#45;improperly&#45;used&#45;by&#45;prosecutors&#45;to&#45;obtain&#45;death&#45;sentence/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-29T14:53:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/04/the-legal-tech-giants-powering-ice-part-2-the-pushback-employees-shareholders-lawyers-and-the-fight-over-may-31.html",
+        "title": "The Legal Tech Giants Powering ICE, Part 2 &#8212; The Pushback: Employees, Shareholders, Lawyers and the Fight Over May 31",
+        "url": "https://www.lawnext.com/2026/04/the-legal-tech-giants-powering-ice-part-2-the-pushback-employees-shareholders-lawyers-and-the-fight-over-may-31.html",
+        "source": "LawSites",
+        "publishedAt": "2026-04-29T14:52:11.000Z",
+        "summary": "On March 11, 2026, some 200 employees of Thomson Reuters – many of them based at the company&#8217;s Westlaw operations in St. Paul, Minn. – sent a letter to management with an unequivocal demand: Do not renew the compan",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
+        "title": "Federal judge limits sanction for DOJ attorney fired over AI errors",
+        "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;limits&#45;sanction&#45;for&#45;doj&#45;attorney&#45;fired&#45;over&#45;ai&#45;errors/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-29T14:37:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/burnout&",
+        "title": "Burnout 2.0: AI’s silent impact on lawyer mental health",
+        "url": "https://www.abajournal.com/voice/article/burnout&#45;2.0&#45;ais&#45;silent&#45;impact&#45;on&#45;lawyer&#45;mental&#45;health/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-29T14:05:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/29/claude-for-word-is-weak-suggests-ivo",
+        "title": "Claude For Word Is Weak, Suggests Ivo",
+        "url": "https://www.artificiallawyer.com/2026/04/29/claude-for-word-is-weak-suggests-ivo/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-29T14:00:10.000Z",
+        "summary": "Ivo, a contract intelligence platform, did one of those classic AI vs human tests, but this time included Claude for Word as a competitor. It ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/29/scaling-europe-top-50-picks-4-legal-ai-companies",
         "title": "Scaling Europe Top 50 Picks 4 Legal AI Companies",
@@ -118,16 +208,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/paramount&",
-        "title": "Paramount Skydance&#8217;s new chief legal officer gets $63M for 3 months of work",
-        "url": "https://www.abajournal.com/news/article/paramount&#45;skydance&#45;lawyer&#45;paid&#45;63&#45;million&#45;for&#45;working&#45;three&#45;months/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-28T14:39:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/28/harvey-hires-former-notion-cmo-rachel-hepworth",
         "title": "Harvey Hires Former Notion CMO Rachel Hepworth",
         "url": "https://www.artificiallawyer.com/2026/04/28/harvey-hires-former-notion-cmo-rachel-hepworth/",
@@ -158,72 +238,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/28/is-claude-really-cheaper-than-your-legal-tech-stack",
-        "title": "Is Claude Really Cheaper Than Your Legal Tech Stack?",
-        "url": "https://www.artificiallawyer.com/2026/04/28/is-claude-really-cheaper-than-your-legal-tech-stack/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-28T09:10:25.000Z",
-        "summary": "On face value Claude looks way less expensive than paying for a legal tech tool for the tasks that it’s able to do, such as ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/negotiating&",
-        "title": "Negotiating Losses: A Big 12 coach is dismissed for cause, and some question the university's motives",
-        "url": "https://www.abajournal.com/web/article/negotiating&#45;losses/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-27T19:20:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/southern&",
-        "title": "Southern University moves toward opening law school in Shreveport",
-        "url": "https://www.abajournal.com/news/article/southern&#45;university&#45;moves&#45;toward&#45;opening&#45;law&#45;school&#45;in&#45;shreveport/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-27T16:42:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/a&",
-        "title": "Law student&#8217;s winning &#8216;Jeopardy!&#8217; streak nets him $882K and place in game show history",
-        "url": "https://www.abajournal.com/news/article/a&#45;law&#45;students&#45;winning&#45;jeopardy&#45;streak&#45;nets&#45;him&#45;882k&#45;and&#45;a&#45;place&#45;in&#45;game&#45;show&#45;history/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-27T16:31:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/04/the-legal-tech-giants-powering-ice-part-1-how-thomson-reuters-and-lexisnexis-helped-support-americas-immigration-surveillance-machine.html",
         "title": "The Legal Tech Giants Powering ICE, Part 1 &#8212; How Thomson Reuters and LexisNexis Helped Support America&#8217;s Immigration Surveillance Machine",
         "url": "https://www.lawnext.com/2026/04/the-legal-tech-giants-powering-ice-part-1-how-thomson-reuters-and-lexisnexis-helped-support-americas-immigration-surveillance-machine.html",
         "source": "LawSites",
         "publishedAt": "2026-04-27T16:16:19.000Z",
         "summary": "[Note: Since first publishing this post, I have made several edits and updates based on information provided by Thomson Reuters and other sources. In most cases, I have indicated where I have changed or added information",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
-        "title": "ABA maintains commitment to bias elimination, diversity enhancement in justice system",
-        "url": "https://www.abajournal.com/news/article/aba&#45;maintains&#45;commitment&#45;to&#45;bias&#45;elimination&#45;diversity&#45;enhancement&#45;in&#45;justice&#45;system/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-27T15:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/biglaw&",
-        "title": "BigLaw campaign contributions largely favor Republicans",
-        "url": "https://www.abajournal.com/news/article/biglaw&#45;campaign&#45;contributions&#45;largely&#45;favor&#45;republicans/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-27T14:22:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1158,26 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/01/a-clio-doubleheader-cmo-reagan-attle-and-vp-of-payments-a-j-axelrod.html",
-        "title": "A Clio Doubleheader: CMO Reagan Attle and VP of Payments A.J. Axelrod",
-        "url": "https://www.lawnext.com/2026/01/a-clio-doubleheader-cmo-reagan-attle-and-vp-of-payments-a-j-axelrod.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-14T18:42:55.000Z",
-        "summary": "In the last in a series of interviews recorded during the ClioCon conference in Boston in October 2025, we bring you a doubleheader – two interviews with two of the legal tech company’s key executives. In the first, LawN",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/01/dyspute-ai-launches-adri-v2-a-24-7-asynchronous-ai-mediation-platform.html",
-        "title": "Dyspute.ai Launches Adri v2, A 24/7 Asynchronous AI Mediation Platform",
-        "url": "https://www.lawnext.com/2026/01/dyspute-ai-launches-adri-v2-a-24-7-asynchronous-ai-mediation-platform.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-13T14:12:06.000Z",
-        "summary": "I have had a strong interest in online dispute resolution ever since at least 1996, when I wrote what I was later told was the first published article about ODR, Cyberspace Becomes Forum for Resolving Disputes. I was so ",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,13 +1210,13 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/qstolhxvmdj7y7moeto0",
-        "title": "Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”",
-        "url": "https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T18:59:11.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
+        "id": "36Kr:36kr.com/p/3788151000751364",
+        "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
+        "url": "https://36kr.com/p/3788151000751364?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-29T17:07:22.000Z",
+        "summary": "文｜周鑫雨 王毓婵 编辑｜杨轩 解读DeepSeek V4的技术报告，是这几天AI行业最狂热的集体活动。 V4很强吗？在工程优化的维度中，答案是毋庸置疑的。过去，大家信奉“Scaling Law的暴力美学”——也就是靠堆更多优质算力、更大参数规模来提升模型性能。而V4走的是一条完全不同的路，它定义了一种“模型训练的克制美学”： 它不靠疯狂堆算力和参数，而是通过一系列组合优化和重构： 注意力机制 （让模型学会“抓重点”，像人读长文章时会自",
+        "category": "skills",
         "region": "cn"
       },
       {
@@ -1298,26 +1298,16 @@
         "summary": "靠着燃油豪华市场稳住基本盘之后，一汽奥迪的电动化节奏开始提速，核心动作就是补齐专属纯电PPE平台的主力车型矩阵。 4月，奥迪正式推出A6L r-tron和Q6L e-tron家族两款新车，分别瞄准中大型豪华纯电轿车和SUV主流市场。主打产品力与用车场景，奥迪这次没有“玩虚的”。 两款新车的定价走的是务实路线。其中，奥迪A6L r-tron纯电轿车推出四款配置，售价区间30.98万至43.98万元，主要承接老款燃油A6L车主换机不换品牌的",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3786123369094405",
-        "title": "前米哈游高管创业，AI 原生增长 Agent LeapMind Growth 获 CMC 资本领投",
-        "url": "https://36kr.com/p/3786123369094405?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-29T01:00:00.000Z",
-        "summary": "2026 年 4 月 29 日，上海讯 —— AI 原生增长 Agent LeapMind Growth 今日宣布完成天使 + 轮融资，由 CMC 资本领投。本轮融资将主要用于核心产品 GrowthGPT 的研发迭代、产研团队扩充及早期市场拓展。 LeapMind Growth 成立于 2025 年 4 月，由前米哈游全球用户增长负责人、前快手增长策略中心负责人 马如平（Rubin） 创立，此前也曾在 TikTok 负责用户增长，累计主",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3351894/revenue-jumps-chinas-cambricon-metax-amid-thirst-domestic-ai-chips",
-        "title": "Revenue jumps for China’s Cambricon, MetaX amid thirst for domestic AI chips",
-        "url": "https://www.scmp.com/tech/article/3351894/revenue-jumps-chinas-cambricon-metax-amid-thirst-domestic-ai-chips?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/presented/business/topics/vgt-steady-growth-26q1-results/article/3351790/capitalizing-ai-computing-industry-upgrade-boom-victory-giant-technology-achieves-steady-start-q1",
+        "title": "Capitalizing on the AI Computing Industry Upgrade Boom: Victory Giant Technology Achieves a Steady Start in Q1 Performance",
+        "url": "https://www.scmp.com/presented/business/topics/vgt-steady-growth-26q1-results/article/3351790/capitalizing-ai-computing-industry-upgrade-boom-victory-giant-technology-achieves-steady-start-q1?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-04-29T13:15:23.000Z",
-        "summary": "Chinese chip designers Cambricon Technologies and MetaX Integrated Circuits reported substantial growth in the first quarter, as the artificial intelligence boom, lingering US export-control risks and China’s self-suffic",
+        "publishedAt": "2026-04-29T16:00:14.000Z",
+        "summary": "[The content of this article has been produced by our advertising partner.] At present, the global wave of AI technological innovation and the computing industry revolution is surging forward, driving explosive growth in",
         "category": "updates",
         "region": "cn_en"
       },
