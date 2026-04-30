@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T19:12:21.509Z",
+  "generatedAt": "2026-04-30T02:09:00.155Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,8 +8,18 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.com/web/article/seashells&",
+        "title": "Seashells and slang weak basis for case against Comey, legal experts say",
+        "url": "https://www.abajournal.com/web/article/seashells&#45;and&#45;slang/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-29T19:37:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "ABA Journal:www.abajournal.com/news/article/jeopardy&",
-        "title": "&#8216;Jeopardy!&#8217; superchampion exits show with over $880K",
+        "title": "&#8216;Jeopardy!&#8217; superchampion, who&#8217;s also law student, exits show with over $880K",
         "url": "https://www.abajournal.com/news/article/jeopardy&#45;superchampion&#45;leaves&#45;show&#45;with&#45;880k/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-04-29T19:11:00.000Z",
@@ -195,16 +205,6 @@
         "publishedAt": "2026-04-28T15:56:00.000Z",
         "summary": "",
         "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/legalist&",
-        "title": "Tech-powered investment company Legalist continues to back suits with $415M fund",
-        "url": "https://www.abajournal.com/news/article/legalist&#45;continues&#45;to&#45;back&#45;lawsuits&#45;with&#45;415m&#45;fund/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-28T14:53:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,6 +1210,76 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/iicj9oxxvzudj8m6qrn5",
+        "title": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+        "url": "https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-30T10:02:01.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fjthiiwejafuxadp3rux",
+        "title": "亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
+        "url": "https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-30T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ziekfmcaydqpcfwheuqs",
+        "title": "OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
+        "url": "https://www.infoq.cn/article/zIEkfmCaYdqpCfwheuqs?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-30T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qumvgfnmyqxmfx8cawj1",
+        "title": "模力工场038周AI应用周榜：工具在消失，工作流在出现",
+        "url": "https://www.infoq.cn/article/qUMVgFNMYqXMFx8CawJ1?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-30T09:48:56.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3788671468510465",
+        "title": "OpenAI提前数年实现关键AI算力目标",
+        "url": "https://36kr.com/newsflashes/3788671468510465?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-30T01:55:55.000Z",
+        "summary": "OpenAI提前数年实现在美国获取人工智能（AI）算力的关键里程碑，为这家初创公司雄心勃勃的数据中心扩张计划注入动力。该公司周三在一篇博客文章中称，已签署了10吉瓦AI算力合同。该公司最初力争在2029年实现这一目标。OpenAI表示，已签订合同的10吉瓦算力中，有3吉瓦是在过去90天敲定的。其中包括亚马逊提供的2吉瓦。1吉瓦的电力足以同时为约75万户美国家庭供电。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3788597224365060",
+        "title": "中金公司：继续看好光通信、芯片定制服务、存储、晶圆代工等核心投资方向",
+        "url": "https://36kr.com/newsflashes/3788597224365060?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-30T00:40:23.000Z",
+        "summary": "36氪获悉，中金公司研报称，第八代自研AI芯片TPU 8t及TPU 8i于Google Cloud Next 2026大会正式发布。这是自TPU诞生以来，Google首度将训练和推理芯片进行分开设计，且在集群组网端引入了更新的配置方案。中金公司认为，精益化分工的AI硬件基础设施有望进一步提高大模型训练及推理效率，进一步增强“供给降本—需求增加”的“飞轮效应”。从产业链维度来看，继续看好光通信、芯片定制服务、存储、晶圆代工等核心投资方向。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3788573115735299",
+        "title": "8点1氪丨官方通报“霸王茶姬中喝出水银”；马斯克称创办OpenAI只为拯救人类；三星家族财富一年翻倍至3000亿跃居亚洲第三",
+        "url": "https://36kr.com/p/3788573115735299?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-30T00:19:17.000Z",
+        "summary": "今日热点导览 四大主播集体离职，东方甄选奖励300名员工超4亿元股份，人均超140万元 马斯克天价薪酬方案曝光，薪酬目标包括火星殖民以及太空数据中心建设 5月1日起北京禁飞禁售无人机，大疆在京门店4月29日将下架相关产品 朋友圈改版，腾讯客服表示会持续优化 8天预计发送旅客1.58亿人次，铁路 “五一”假期运输今天启动 TOP 3大新闻 官方通报“安徽一女子称在霸王茶姬中喝出水银”：异物系购买人投放 4月28日，针对网民反映“砀山万达霸",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3788151000751364",
         "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
         "url": "https://36kr.com/p/3788151000751364?f=rss",
@@ -1240,16 +1310,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/xkaonsinyjhsvjekczsa",
-        "title": "AI 写代码太烧钱了：Copilot、Claude 一起涨价，不如把程序员请回来？",
-        "url": "https://www.infoq.cn/article/XkAoNsINYJhsvJeKcZSa?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T16:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3787748082293766",
         "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
         "url": "https://36kr.com/p/3787748082293766?f=rss",
@@ -1257,16 +1317,6 @@
         "publishedAt": "2026-04-29T12:44:39.000Z",
         "summary": "大公司： 魔法原子：目标到2036年营收达140亿美元 36氪获悉，美西时间4月28日，魔法原子在硅谷举办全球具身智能创新大会（GEIS）落幕。会上发布自研世界模型Magic-Mix、灵巧手MagicHand H01及旗舰人形机器人MagicBot X1。大会上，公司首次对外披露魔法原子的长期营收目标：到2036年，公司将向140亿美元营收规模迈进，并宣布未来五年将持续投入10亿美元，打造面向机器人二次开发的专属生态。 吉利汽车：第一季",
         "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3787882892631302",
-        "title": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具",
-        "url": "https://36kr.com/newsflashes/3787882892631302?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-29T12:33:44.000Z",
-        "summary": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具。（财联社）",
-        "category": "updates",
         "region": "cn"
       },
       {
@@ -1286,16 +1336,6 @@
         "source": "36Kr",
         "publishedAt": "2026-04-29T08:50:02.000Z",
         "summary": "36氪企业全情报官方专属社群现已正式对外开放，正式打造 唯一官方股票舆情情报社群 ，面向所有股民、理财爱好者、个股深度研究者，适配不同投资风格与交易节奏，帮你高效拿捏舆情风向、把握行情先机。 从 股市舆情解读、个股情报拆解 ，到 行情逻辑分析、投资干货交流 ，一站式帮投资者告别信息滞后、看懂涨跌本质。 扫码进入：“36氪企业全情报”官方股票舆情交流社群 为什么要做专属股票舆情交流情报社群？ 炒股早已不是单纯看K线， 舆情、消息、基本面、",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3769086884528640",
-        "title": "搭载华为智驾，奥迪「6系」电车上市，售价30.98万元起｜最前线",
-        "url": "https://36kr.com/p/3769086884528640?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-29T03:17:59.000Z",
-        "summary": "靠着燃油豪华市场稳住基本盘之后，一汽奥迪的电动化节奏开始提速，核心动作就是补齐专属纯电PPE平台的主力车型矩阵。 4月，奥迪正式推出A6L r-tron和Q6L e-tron家族两款新车，分别瞄准中大型豪华纯电轿车和SUV主流市场。主打产品力与用车场景，奥迪这次没有“玩虚的”。 两款新车的定价走的是务实路线。其中，奥迪A6L r-tron纯电轿车推出四款配置，售价区间30.98万至43.98万元，主要承接老款燃油A6L车主换机不换品牌的",
         "category": "updates",
         "region": "cn"
       }
@@ -1359,16 +1399,6 @@
         "publishedAt": "2026-04-27T13:16:17.000Z",
         "summary": "Contemporary Amperex Technology Ltd (CATL) has taken a leap forward in commercialising sodium-ion batteries, signing a large supply contract with an energy-storage system (ESS) provider amid high demand for power infrast",
         "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3351328/investors-rotate-chinas-chipmakers-deepseek-intensifies-ai-competition",
-        "title": "Investors rotate to China’s chipmakers as DeepSeek intensifies AI competition",
-        "url": "https://www.scmp.com/business/china-business/article/3351328/investors-rotate-chinas-chipmakers-deepseek-intensifies-ai-competition?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-24T10:03:43.000Z",
-        "summary": "Chinese chipmakers rallied on Friday while artificial intelligence application firms retreated, as investors rotated into semiconductor stocks on expectations of stronger demand for computing power following a new model ",
-        "category": "tools",
         "region": "cn_en"
       }
     ]
