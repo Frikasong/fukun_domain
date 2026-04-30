@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T08:06:59.301Z",
+  "generatedAt": "2026-04-30T13:24:24.356Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/30/zach-richards-excellent-legal-ai-adventure-4",
+        "title": "Zach + Richard’s Excellent Legal AI Adventure",
+        "url": "https://www.artificiallawyer.com/2026/04/30/zach-richards-excellent-legal-ai-adventure-4/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-30T09:42:06.000Z",
+        "summary": "Welcome to another episode of Zach and Richard’s Excellent Legal AI Adventure, hosted by legal tech expert Zach Abramowitz. In this episode we cover several ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/30/walk-through-chamelio-new-agentic-features-for-inhouse-teams",
         "title": "Walk Through: Chamelio – New Agentic Features For Inhouse Teams",
@@ -34,16 +44,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-30T06:16:11.000Z",
         "summary": "NVIDIA’s venture capital arm NVentures and Atlassian have invested in Legora. The $50m Series D extension that they joined brings the total round to $600m. ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/where-the-goblins-came-from",
-        "title": "Where the goblins came from",
-        "url": "https://openai.com/index/where-the-goblins-came-from",
-        "source": "OpenAI News",
-        "publishedAt": "2026-04-29T20:00:00.000Z",
-        "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
         "category": "updates",
         "region": "na"
       },
@@ -195,16 +195,6 @@
         "publishedAt": "2026-04-29T07:41:54.000Z",
         "summary": "By Henrik Hansson, co-founder, Vesence. Too much of the discussion about AI in legal still assumes a choice between fixed software and open-ended agents. We ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/29/is-ai-actually-making-your-legal-team-faster",
-        "title": "Is AI Actually Making Your Legal Team Faster?",
-        "url": "https://www.artificiallawyer.com/2026/04/29/is-ai-actually-making-your-legal-team-faster/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-29T06:40:53.000Z",
-        "summary": "By Ed Walters, VP Legal Innovation &#38; Strategy, Clio. Every legal AI pitch tells the same story: drafting that took days now takes hours, research ...",
-        "category": "articles",
         "region": "na"
       },
       {
@@ -1206,35 +1196,45 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/oyx1rwyzd6a0zmzkghzt",
-        "title": "Meta 收购 Manus 这事儿泡汤了",
-        "url": "https://www.infoq.cn/article/OYx1rWyzd6A0ZMzkghZT?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/3rniorsqcs1g5vmq8vlo",
+        "title": "“AI预测未来”赛道登顶！北京中关村学院信息智能团队统斩获全球桂冠",
+        "url": "https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-30T15:05:52.000Z",
+        "publishedAt": "2026-04-30T20:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/moxnlb1fzanrpzirnfsk",
-        "title": "5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦",
-        "url": "https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/2c2jx4m7vqprfap5ci6t",
+        "title": "王兴兴亲测后点赞！这家AI公司提前半年把“龙虾”能力带上车，还管住了Token黑洞",
+        "url": "https://www.infoq.cn/article/2c2JX4m7VqPrFaP5cI6t?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-30T15:00:00.000Z",
+        "publishedAt": "2026-04-30T19:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ihrlijt3n5seuqn27oqe",
-        "title": "谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
-        "url": "https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/thktl4m8krwon0vett3b",
+        "title": "从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了",
+        "url": "https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-04-30T14:25:01.000Z",
+        "publishedAt": "2026-04-30T18:06:28.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1270,22 +1270,32 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/p/3789098887077123",
+        "title": "HappyHorse没有惊喜",
+        "url": "https://36kr.com/p/3789098887077123?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-30T09:11:22.000Z",
+        "summary": "作者 | 兰杰 编辑 | 乔芊 4月27日，预热已久的HappyHorse终于开启测试，颇为遗憾的是，它没能像横空出世的Seedance2.0那样掀起巨浪。没有惊喜，对于HappyHorse来讲是一个颇为中肯的评价。 HappyHorse是阿里巴巴ATH事业群旗下创新事业部研发的视频模型，于4月27日开启灰测，并接入千问App。 该视频模型饱受关注的原因有二。 一是因为在开放测试前，HappyHorse在未标注厂商的情况下，登顶了以盲测",
+        "category": "articles",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3789059666173189",
+        "title": "氪星晚报｜澳门一季度GDP按年实质增长7.1%；小红书发内部信：加大AI投入，柯南出任总裁",
+        "url": "https://36kr.com/p/3789059666173189?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-30T08:53:38.000Z",
+        "summary": "大公司： 联发科一季度毛利率为46.3%，同比下滑1.8个百分点 4月30日，联发科举行法说会并公布2026年第一季度财报，单季每股盈余（EPS）为新台币15.17元，环比增加5.6%、同比减少17.4%；合并营收为新台币1491.51亿元，环比减少0.7%、同比减少2.7%；毛利率为46.3%，环比增加0.2个百分点，同比下滑1.8个百分点。公司表示，毛利率季增主要受惠产品组合优化，年减则反映部分产品毛利结构调整。（界面） 阿里云域名",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3788996733803782",
         "title": "不谈空话，谈合作丨这场AI+产业对接会只聊落地",
         "url": "https://36kr.com/p/3788996733803782?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-30T07:28:06.000Z",
         "summary": "“世界咖啡”[AI+]产业对接会正式定档北京亦庄。 搞噱头还是做实事，我们需要一个华丽转身 这是36氪AI Partner系列活动迎来的第三个年头，在这之前，我们已经用四届大会验证了我们在“AI下一站”这个问题上的“把脉”能力，收获了一些口碑和行业认同，但是，长期以媒体观察者和陪伴者的视角出发，就很难跳下那个高台，容易看不清当下。比如，当我们看到行业里类似的AI活动还在聊“AI会不会代替人类”、“具身智能离我们还有多远”的时候，团队就非",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3788932325235716",
-        "title": "Alphabet CFO：将2026年资本支出指引区间上调至1800亿-1900亿美元",
-        "url": "https://36kr.com/newsflashes/3788932325235716?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-30T06:21:16.000Z",
-        "summary": "Alphabet首席财务官阿纳特・阿什肯纳齐在财报电话会上表示，投资方面，我们将2026年全年资本支出指引区间上调至1800亿至1900亿美元，此前预期为1750亿至1850亿美元，新增3月完成的Intersect收购相关投资。我们看到人工智能计算资源的内部与外部需求空前高涨。我们在人工智能领域的投资正带来强劲增长，谷歌云创纪录的收入与订单储备增长、谷歌服务的优异表现均印证了这一点。展望未来，这些优异业绩坚定了我们投入所需资本、持续把握",
         "category": "updates",
         "region": "cn"
       },
@@ -1298,69 +1308,19 @@
         "summary": "一季度过去，具身智能行业的融资热潮还在继续。 36氪获悉，专注于L4低速自动驾驶的公司「优时科技」宣布完成数亿元人民币B2轮融资。 本轮融资由前海方舟领投，前海母基金旗下多支基金参与，联同鲲翎资本、厚天资本等8家投资机构共同完成。 在此之前，「优时科技」已完成了6轮融资： ·2018年6月，拿到 PNP 中国领投、北京汇丰投融、北京金种子和上海平阳复辉跟投的数百万人民币种子轮； ·2019年7月，获得英诺天使领投、驰星创投跟投的千万人民",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3788573115735299",
-        "title": "8点1氪丨官方通报“霸王茶姬中喝出水银”；马斯克称创办OpenAI只为拯救人类；三星家族财富一年翻倍至3000亿跃居亚洲第三",
-        "url": "https://36kr.com/p/3788573115735299?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-30T00:19:17.000Z",
-        "summary": "今日热点导览 四大主播集体离职，东方甄选奖励300名员工超4亿元股份，人均超140万元 马斯克天价薪酬方案曝光，薪酬目标包括火星殖民以及太空数据中心建设 5月1日起北京禁飞禁售无人机，大疆在京门店4月29日将下架相关产品 朋友圈改版，腾讯客服表示会持续优化 8天预计发送旅客1.58亿人次，铁路 “五一”假期运输今天启动 TOP 3大新闻 官方通报“安徽一女子称在霸王茶姬中喝出水银”：异物系购买人投放 4月28日，针对网民反映“砀山万达霸",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3788151000751364",
-        "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
-        "url": "https://36kr.com/p/3788151000751364?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-29T17:07:22.000Z",
-        "summary": "文｜周鑫雨 王毓婵 编辑｜杨轩 解读DeepSeek V4的技术报告，是这几天AI行业最狂热的集体活动。 V4很强吗？在工程优化的维度中，答案是毋庸置疑的。过去，大家信奉“Scaling Law的暴力美学”——也就是靠堆更多优质算力、更大参数规模来提升模型性能。而V4走的是一条完全不同的路，它定义了一种“模型训练的克制美学”： 它不靠疯狂堆算力和参数，而是通过一系列组合优化和重构： 注意力机制 （让模型学会“抓重点”，像人读长文章时会自",
-        "category": "skills",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/jas7bgxpgx8ibdqqw98a",
-        "title": "腾讯云分布式缓存数据库：AI Agent - 从提示词工程到 Harness 工程 | 腾讯云数据库 DBTalk",
-        "url": "https://www.infoq.cn/video/JAs7bgXPGx8ibDQQw98A?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T16:47:06.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3787748082293766",
-        "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
-        "url": "https://36kr.com/p/3787748082293766?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-29T12:44:39.000Z",
-        "summary": "大公司： 魔法原子：目标到2036年营收达140亿美元 36氪获悉，美西时间4月28日，魔法原子在硅谷举办全球具身智能创新大会（GEIS）落幕。会上发布自研世界模型Magic-Mix、灵巧手MagicHand H01及旗舰人形机器人MagicBot X1。大会上，公司首次对外披露魔法原子的长期营收目标：到2036年，公司将向140亿美元营收规模迈进，并宣布未来五年将持续投入10亿美元，打造面向机器人二次开发的专属生态。 吉利汽车：第一季",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3787806140636420",
-        "title": "第20届中国投资年会圆满闭幕！ “K型曲线”下，寻找穿越分化的确定性",
-        "url": "https://36kr.com/p/3787806140636420?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-29T11:20:42.000Z",
-        "summary": "2026年4月22日至24日，第20届中国投资年会·年度峰会于北京海淀盛大召开。本届大会以“K型曲线”为主题，由北京市海淀区人民政府指导，投中信息、投中网主办，北京中关村科学城创新发展有限公司协办。本届年会连续第二年扎根北京海淀，双方合作正从初次携手走向深度融合。超千名行业领袖、投资人及创业者齐聚海淀，共同研判中国私募股权市场的结构性变局。 群贤毕至，重磅嘉宾阵容 大会嘉宾阵���星光熠熠，政策、学术、投资与产业的领军人物跨界同席，共同",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3787661080714497",
-        "title": "“36氪企业全情报”官方股票舆情交流社群，正式开放招募！",
-        "url": "https://36kr.com/p/3787661080714497?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-29T08:50:02.000Z",
-        "summary": "36氪企业全情报官方专属社群现已正式对外开放，正式打造 唯一官方股票舆情情报社群 ，面向所有股民、理财爱好者、个股深度研究者，适配不同投资风格与交易节奏，帮你高效拿捏舆情风向、把握行情先机。 从 股市舆情解读、个股情报拆解 ，到 行情逻辑分析、投资干货交流 ，一站式帮投资者告别信息滞后、看懂涨跌本质。 扫码进入：“36氪企业全情报”官方股票舆情交流社群 为什么要做专属股票舆情交流情报社群？ 炒股早已不是单纯看K线， 舆情、消息、基本面、",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3352001/samsung-sk-hynix-flag-record-supply-squeeze-memory-market-ai-demand-soars",
+        "title": "Samsung, SK Hynix flag record supply squeeze in memory market as AI demand soars",
+        "url": "https://www.scmp.com/tech/big-tech/article/3352001/samsung-sk-hynix-flag-record-supply-squeeze-memory-market-ai-demand-soars?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-04-30T08:30:28.000Z",
+        "summary": "Samsung Electronics and SK Hynix, South Korea’s two memory chip giants, are warning of a prolonged and severe global supply crunch, weeks after the two companies disclosed increased investments in their China wafer fabs ",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/presented/business/topics/vgt-steady-growth-26q1-results/article/3351790/capitalizing-ai-computing-industry-upgrade-boom-victory-giant-technology-achieves-steady-start-q1",
         "title": "Capitalizing on the AI Computing Industry Upgrade Boom: Victory Giant Technology Achieves a Steady Start in Q1 Performance",
