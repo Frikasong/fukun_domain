@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T02:09:00.155Z",
+  "generatedAt": "2026-04-30T08:06:59.301Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/30/walk-through-chamelio-new-agentic-features-for-inhouse-teams",
+        "title": "Walk Through: Chamelio – New Agentic Features For Inhouse Teams",
+        "url": "https://www.artificiallawyer.com/2026/04/30/walk-through-chamelio-new-agentic-features-for-inhouse-teams/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-30T07:30:12.000Z",
+        "summary": "This week’s other AL TV Product Walk Through is with Chamelio, the legal intelligence platform for inhouse teams, and in particular takes a look at ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/30/magic-circle-firm-slaughter-and-may-adopts-harvey",
+        "title": "Magic Circle Firm Slaughter and May Adopts Harvey",
+        "url": "https://www.artificiallawyer.com/2026/04/30/magic-circle-firm-slaughter-and-may-adopts-harvey/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-30T06:54:46.000Z",
+        "summary": "And so the Magic Circle continues to pick their legal AI platforms. Slaughter and May, after a long period of consideration, has gone all-in with ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/30/nvidia-fund-atlassian-join-50m-legora-investment",
+        "title": "NVIDIA Fund + Atlassian Join $50m Legora Investment",
+        "url": "https://www.artificiallawyer.com/2026/04/30/nvidia-fund-atlassian-join-50m-legora-investment/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-04-30T06:16:11.000Z",
+        "summary": "NVIDIA’s venture capital arm NVentures and Atlassian have invested in Legora. The $50m Series D extension that they joined brings the total round to $600m. ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/where-the-goblins-came-from",
+        "title": "Where the goblins came from",
+        "url": "https://openai.com/index/where-the-goblins-came-from",
+        "source": "OpenAI News",
+        "publishedAt": "2026-04-29T20:00:00.000Z",
+        "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/seashells&",
         "title": "Seashells and slang weak basis for case against Comey, legal experts say",
@@ -188,16 +228,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/28/newmod-manifest-os-bags-60m-at-750m-valuation",
-        "title": "NewMod Manifest OS Bags $60m at $750m Valuation",
-        "url": "https://www.artificiallawyer.com/2026/04/28/newmod-manifest-os-bags-60m-at-750m-valuation/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-28T16:33:42.000Z",
-        "summary": "NewMod Manifest OS has announced a $60m Series A funding round at a $750m valuation, with Menlo Ventures, Kleiner Perkins, and First Round Capital, taking ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "ABA Journal:www.abajournal.com/news/article/suspect&",
         "title": "Suspect in students&#8217; killings asked ChatGPT how to dispose of bodies, prosecutors say",
         "url": "https://www.abajournal.com/news/article/suspect&#45;in&#45;students&#45;killings&#45;asked&#45;chatgpt&#45;how&#45;to&#45;dispose&#45;of&#45;bodies&#45;prosecutors&#45;say/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -205,26 +235,6 @@
         "publishedAt": "2026-04-28T15:56:00.000Z",
         "summary": "",
         "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/28/harvey-hires-former-notion-cmo-rachel-hepworth",
-        "title": "Harvey Hires Former Notion CMO Rachel Hepworth",
-        "url": "https://www.artificiallawyer.com/2026/04/28/harvey-hires-former-notion-cmo-rachel-hepworth/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-28T14:38:52.000Z",
-        "summary": "AL doesn’t usually cover marketing roles, but this one is definitely noteworthy. Harvey has hired Rachel Hepworth as Chief Marketing Officer (CMO). She was previously ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/28/lexisnexis-owner-plans-to-buy-doctrine-top-french-legal-ai-company",
-        "title": "LexisNexis Owner Plans to Buy Doctrine – Top French Legal AI Company",
-        "url": "https://www.artificiallawyer.com/2026/04/28/lexisnexis-owner-plans-to-buy-doctrine-top-french-legal-ai-company/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-28T13:50:08.000Z",
-        "summary": "Breaking News &#8211; RELX Group, the publicly listed company which owns LexisNexis Legal &#38; Professional, has announced that it has entered into a &#8216;put option ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1196,45 +1206,55 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/oyx1rwyzd6a0zmzkghzt",
+        "title": "Meta 收购 Manus 这事儿泡汤了",
+        "url": "https://www.infoq.cn/article/OYx1rWyzd6A0ZMzkghZT?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-30T15:05:52.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/moxnlb1fzanrpzirnfsk",
+        "title": "5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦",
+        "url": "https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-30T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ihrlijt3n5seuqn27oqe",
+        "title": "谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
+        "url": "https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-30T14:25:01.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/5rydztlgisqrj65zjbpo",
+        "title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
+        "url": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-04-30T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/iicj9oxxvzudj8m6qrn5",
         "title": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
         "url": "https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-04-30T10:02:01.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fjthiiwejafuxadp3rux",
-        "title": "亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
-        "url": "https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-30T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ziekfmcaydqpcfwheuqs",
-        "title": "OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
-        "url": "https://www.infoq.cn/article/zIEkfmCaYdqpCfwheuqs?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-30T10:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1250,22 +1270,32 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3788671468510465",
-        "title": "OpenAI提前数年实现关键AI算力目标",
-        "url": "https://36kr.com/newsflashes/3788671468510465?f=rss",
+        "id": "36Kr:36kr.com/p/3788996733803782",
+        "title": "不谈空话，谈合作丨这场AI+产业对接会只聊落地",
+        "url": "https://36kr.com/p/3788996733803782?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-30T01:55:55.000Z",
-        "summary": "OpenAI提前数年实现在美国获取人工智能（AI）算力的关键里程碑，为这家初创公司雄心勃勃的数据中心扩张计划注入动力。该公司周三在一篇博客文章中称，已签署了10吉瓦AI算力合同。该公司最初力争在2029年实现这一目标。OpenAI表示，已签订合同的10吉瓦算力中，有3吉瓦是在过去90天敲定的。其中包括亚马逊提供的2吉瓦。1吉瓦的电力足以同时为约75万户美国家庭供电。（新浪财经）",
+        "publishedAt": "2026-04-30T07:28:06.000Z",
+        "summary": "“世界咖啡”[AI+]产业对接会正式定档北京亦庄。 搞噱头还是做实事，我们需要一个华丽转身 这是36氪AI Partner系列活动迎来的第三个年头，在这之前，我们已经用四届大会验证了我们在“AI下一站”这个问题上的“把脉”能力，收获了一些口碑和行业认同，但是，长期以媒体观察者和陪伴者的视角出发，就很难跳下那个高台，容易看不清当下。比如，当我们看到行业里类似的AI活动还在聊“AI会不会代替人类”、“具身智能离我们还有多远”的时候，团队就非",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3788597224365060",
-        "title": "中金公司：继续看好光通信、芯片定制服务、存储、晶圆代工等核心投资方向",
-        "url": "https://36kr.com/newsflashes/3788597224365060?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3788932325235716",
+        "title": "Alphabet CFO：将2026年资本支出指引区间上调至1800亿-1900亿美元",
+        "url": "https://36kr.com/newsflashes/3788932325235716?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-04-30T00:40:23.000Z",
-        "summary": "36氪获悉，中金公司研报称，第八代自研AI芯片TPU 8t及TPU 8i于Google Cloud Next 2026大会正式发布。这是自TPU诞生以来，Google首度将训练和推理芯片进行分开设计，且在集群组网端引入了更新的配置方案。中金公司认为，精益化分工的AI硬件基础设施有望进一步提高大模型训练及推理效率，进一步增强“供给降本—需求增加”的“飞轮效应”。从产业链维度来看，继续看好光通信、芯片定制服务、存储、晶圆代工等核心投资方向。",
+        "publishedAt": "2026-04-30T06:21:16.000Z",
+        "summary": "Alphabet首席财务官阿纳特・阿什肯纳齐在财报电话会上表示，投资方面，我们将2026年全年资本支出指引区间上调至1800亿至1900亿美元，此前预期为1750亿至1850亿美元，新增3月完成的Intersect收购相关投资。我们看到人工智能计算资源的内部与外部需求空前高涨。我们在人工智能领域的投资正带来强劲增长，谷歌云创纪录的收入与订单储备增长、谷歌服务的优异表现均印证了这一点。展望未来，这些优异业绩坚定了我们投入所需资本、持续把握",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3788687934249989",
+        "title": "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
+        "url": "https://36kr.com/p/3788687934249989?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-30T02:13:18.000Z",
+        "summary": "一季度过去，具身智能行业的融资热潮还在继续。 36氪获悉，专注于L4低速自动驾驶的公司「优时科技」宣布完成数亿元人民币B2轮融资。 本轮融资由前海方舟领投，前海母基金旗下多支基金参与，联同鲲翎资本、厚天资本等8家投资机构共同完成。 在此之前，「优时科技」已完成了6轮融资： ·2018年6月，拿到 PNP 中国领投、北京汇丰投融、北京金种子和上海平阳复辉跟投的数百万人民币种子轮； ·2019年7月，获得英诺天使领投、驰星创投跟投的千万人民",
         "category": "updates",
         "region": "cn"
       },
@@ -1300,16 +1330,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/oyq5layrarr2vue40fwm",
-        "title": "不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账",
-        "url": "https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-29T16:17:51.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3787748082293766",
         "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
         "url": "https://36kr.com/p/3787748082293766?f=rss",
@@ -1325,7 +1345,7 @@
         "url": "https://36kr.com/p/3787806140636420?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-04-29T11:20:42.000Z",
-        "summary": "2026年4月22日至24日，第20届中国投资年会·年度峰会于北京海淀盛大召开。本届大会以“K型曲线”为主题，由北京市海淀区人民政府指导，投中信息、投中网主办，北京中关村科学城创新发展有限公司协办。本届年会连续第二年扎根北京海淀，双方合作正从初次携手走向深度融合。超千名行业领袖、投资人及创业者齐聚海淀，共同研判中国私募股权市场的结构性变局。 群贤毕至，重磅嘉宾阵容 大会嘉宾阵容星光熠熠，政策、学术、投资与产业的领军人物跨界同席，共同为这",
+        "summary": "2026年4月22日至24日，第20届中国投资年会·年度峰会于北京海淀盛大召开。本届大会以“K型曲线”为主题，由北京市海淀区人民政府指导，投中信息、投中网主办，北京中关村科学城创新发展有限公司协办。本届年会连续第二年扎根北京海淀，双方合作正从初次携手走向深度融合。超千名行业领袖、投资人及创业者齐聚海淀，共同研判中国私募股权市场的结构性变局。 群贤毕至，重磅嘉宾阵容 大会嘉宾阵���星光熠熠，政策、学术、投资与产业的领军人物跨界同席，共同",
         "category": "updates",
         "region": "cn"
       },
@@ -1378,26 +1398,6 @@
         "source": "The Guardian China",
         "publishedAt": "2026-04-27T14:35:32.000Z",
         "summary": "Beijing says domestic tech companies must seek explicit government approval for accepting US investment Business live – latest updates China has blocked Meta’s $2bn (£1.5bn) acquisition of an AI startup as it cracks down",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3351581/chinese-robotaxi-firms-accelerate-global-roll-outs-cost-edge-drives-expansion",
-        "title": "Chinese robotaxi firms accelerate global roll-outs as cost edge drives expansion",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3351581/chinese-robotaxi-firms-accelerate-global-roll-outs-cost-edge-drives-expansion?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-27T13:30:09.000Z",
-        "summary": "Chinese robotaxi firms from Pony AI to WeRide are accelerating global roll-outs of commercial fleets, leveraging cost competitiveness from the country’s world-leading new energy vehicle (NEV) supply chain and improved op",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3351601/chinas-catl-touts-landmark-order-deepseek-moment-sodium-ion-batteries",
-        "title": "China’s CATL touts landmark order in ‘DeepSeek moment’ for sodium-ion batteries",
-        "url": "https://www.scmp.com/business/china-business/article/3351601/chinas-catl-touts-landmark-order-deepseek-moment-sodium-ion-batteries?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-27T13:16:17.000Z",
-        "summary": "Contemporary Amperex Technology Ltd (CATL) has taken a leap forward in commercialising sodium-ion batteries, signing a large supply contract with an energy-storage system (ESS) provider amid high demand for power infrast",
         "category": "updates",
         "region": "cn_en"
       }
