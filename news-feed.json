@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T08:03:34.909Z",
+  "generatedAt": "2026-05-01T13:00:16.325Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/01/get-your-free-legal-innovators-ticket-wrap",
+        "title": "Get Your Free Legal Innovators Ticket + Wrap",
+        "url": "https://www.artificiallawyer.com/2026/05/01/get-your-free-legal-innovators-ticket-wrap/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-01T09:22:49.000Z",
+        "summary": "Wow, what another incredible week for legal AI. But, first up, how to get your free ticket to attend the Legal Innovators conferences in Europe, ...",
+        "category": "skills",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/01/the-new-era-for-legal-tech-begins",
         "title": "The New Era For Legal Tech Begins",
@@ -215,16 +225,6 @@
         "publishedAt": "2026-04-29T13:04:40.000Z",
         "summary": "The Scaling Europe Top 50 is a data-led ranking for startups based in Europe. Four legal AI companies made the list this year: Legora, Wordsmith, ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/29/legalon-goes-clm-ish-with-contract-vault",
-        "title": "LegalOn Goes ‘CLM-ish’ With Contract Vault",
-        "url": "https://www.artificiallawyer.com/2026/04/29/legalon-goes-clm-ish-with-contract-vault/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-29T12:23:02.000Z",
-        "summary": "LegalOn has launched Vault in the US and Europe, expanding the AI company’s wealth of features around contract management and analysis to the point where ...",
-        "category": "articles",
         "region": "na"
       },
       {
@@ -1210,26 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/k7hpioogpsllpqz4lwxu",
-        "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
-        "url": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-01T14:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3790144920018180",
-        "title": "摩尔线程完成DeepSeek-V4全链路工程化适配",
-        "url": "https://36kr.com/newsflashes/3790144920018180?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-01T03:46:39.000Z",
-        "summary": "5月1日，摩尔线程宣布，依托旗舰级AI训推一体智算卡MTT S5000与自研MUSA软件栈，基于SGLang开源推理框架，已完成DeepSeek-V4的完整运行验证。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/thktl4m8krwon0vett3b",
         "title": "从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了",
         "url": "https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&utm_medium=article",
@@ -1266,36 +1246,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-30T09:48:56.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3789098887077123",
-        "title": "HappyHorse没有惊喜",
-        "url": "https://36kr.com/p/3789098887077123?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-30T09:11:22.000Z",
-        "summary": "作者 | 兰杰 编辑 | 乔芊 4月27日，预热已久的HappyHorse终于开启测试，颇为遗憾的是，它没能像横空出世的Seedance2.0那样掀起巨浪。没有惊喜，对于HappyHorse来讲是一个颇为中肯的评价。 HappyHorse是阿里巴巴ATH事业群旗下创新事业部研发的视频模型，于4月27日开启灰测，并接入千问App。 该视频模型饱受关注的原因有二。 一是因为在开放测试前，HappyHorse在未标注厂商的情况下，登顶了以盲测",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3789059666173189",
-        "title": "氪星晚报｜澳门一季度GDP按年实质增长7.1%；小红书发内部信：加大AI投入，柯南出任总裁",
-        "url": "https://36kr.com/p/3789059666173189?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-30T08:53:38.000Z",
-        "summary": "大公司： 联发科一季度毛利率为46.3%，同比下滑1.8个百分点 4月30日，联发科举行法说会并公布2026年第一季度财报，单季每股盈余（EPS）为新台币15.17元，环比增加5.6%、同比减少17.4%；合并营收为新台币1491.51亿元，环比减少0.7%、同比减少2.7%；毛利率为46.3%，环比增加0.2个百分点，同比下滑1.8个百分点。公司表示，毛利率季增主要受惠产品组合优化，年减则反映部分产品毛利结构调整。（界面） 阿里云域名",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3788996733803782",
-        "title": "不谈空话，谈合作丨这场AI+产业对接会只聊落地",
-        "url": "https://36kr.com/p/3788996733803782?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-30T07:28:06.000Z",
-        "summary": "“世界咖啡”[AI+]产业对接会正式定档北京亦庄。 搞噱头还是做实事，我们需要一个华丽转身 这是36氪AI Partner系列活动迎来的第三个年头，在这之前，我们已经用四届大会验证了我们在“AI下一站”这个问题上的“把脉”能力，收获了一些口碑和行业认同，但是，长期以媒体观察者和陪伴者的视角出发，就很难跳下那个高台，容易看不清当下。比如，当我们看到行业里类似的AI活动还在聊“AI会不会代替人类”、“具身智能离我们还有多远”的时候，团队就非",
         "category": "updates",
         "region": "cn"
       }
