@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T02:13:00.186Z",
+  "generatedAt": "2026-05-01T08:03:34.909Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/01/the-new-era-for-legal-tech-begins",
+        "title": "The New Era For Legal Tech Begins",
+        "url": "https://www.artificiallawyer.com/2026/05/01/the-new-era-for-legal-tech-begins/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-01T06:53:26.000Z",
+        "summary": "Microsoft’s entry into legal tech marks the beginning of a new era for the sector. It also marks a likely shift of user behaviour, with ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/ucla&",
         "title": "UCLA can&#8217;t threaten Federalist Society over ID&#8217;ing students who disrupted event, free speech group says",
@@ -215,16 +225,6 @@
         "publishedAt": "2026-04-29T12:23:02.000Z",
         "summary": "LegalOn has launched Vault in the US and Europe, expanding the AI company’s wealth of features around contract management and analysis to the point where ...",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/29/soren-launches-to-deliver-private-ai",
-        "title": "Soren Launches To Deliver ‘Private AI’",
-        "url": "https://www.artificiallawyer.com/2026/04/29/soren-launches-to-deliver-private-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-29T11:26:24.000Z",
-        "summary": "Soren, which is backed by Y Combinator, has launched what it calls ‘private AI’ aimed at regulated sectors that deal with highly sensitive information. They ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,52 +1210,22 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/w1yiyhh4uxv05aqpihag",
-        "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
-        "url": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/k7hpioogpsllpqz4lwxu",
+        "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+        "url": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-01T10:00:00.000Z",
+        "publishedAt": "2026-05-01T14:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/kbm9s4hsaot7gwqsa8je",
-        "title": "布隆过滤器：理论、工程权衡与Go语言实现",
-        "url": "https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-01T09:49:44.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mn7ha6hgjccyxls2s1gl",
-        "title": "Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本",
-        "url": "https://www.infoq.cn/article/mN7Ha6hgjccyxls2s1Gl?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-01T09:40:26.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/6if6zrsp9u9t13ujggtj",
-        "title": "写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
-        "url": "https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-01T09:36:10.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3790021931883783",
-        "title": "特斯拉去年从SpaceX与xAI斩获5.73亿美元营收",
-        "url": "https://36kr.com/newsflashes/3790021931883783?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3790144920018180",
+        "title": "摩尔线程完成DeepSeek-V4全链路工程化适配",
+        "url": "https://36kr.com/newsflashes/3790144920018180?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-01T01:31:35.000Z",
-        "summary": "特斯拉在修订后的年度备案文件中披露，去年通过向埃隆・马斯克旗下另外两家企业销售产品，创收超5亿美元。特斯拉今年1月首度披露，营收中的大头约4.301亿美元，来自与马斯克旗下人工智能初创公司xAI的业务往来。这家车企于周四提交修订版备案文件，补充称还从马斯克私人控股的航天企业太空探索技术公司（SpaceX）确认营收1.433亿美元。特斯拉在今年1月发布的初始年度报告中，并未披露后一项金额。本月早些时候，媒体曾报道，SpaceX去年第四季度",
+        "publishedAt": "2026-05-01T03:46:39.000Z",
+        "summary": "5月1日，摩尔线程宣布，依托旗舰级AI训推一体智算卡MTT S5000与自研MUSA软件栈，基于SGLang开源推理框架，已完成DeepSeek-V4的完整运行验证。（界面）",
         "category": "updates",
         "region": "cn"
       },
