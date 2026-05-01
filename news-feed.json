@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T19:07:43.374Z",
+  "generatedAt": "2026-05-01T02:13:00.186Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/ucla&",
+        "title": "UCLA can&#8217;t threaten Federalist Society over ID&#8217;ing students who disrupted event, free speech group says",
+        "url": "https://www.abajournal.com/web/article/ucla&#45;cant&#45;threaten&#45;federalist&#45;society&#45;over&#45;iding&#45;students&#45;who&#45;disrupted&#45;event&#45;fire&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-30T20:15:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/senate&",
+        "title": "Senate committee urges investigation of wealthy clients who avoided taxes in Puerto Rico",
+        "url": "https://www.abajournal.com/news/article/senate&#45;committee&#45;urges&#45;investigation&#45;of&#45;wealthy&#45;clients&#45;who&#45;avoided&#45;taxes&#45;in&#45;puerto&#45;rico/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-04-30T20:08:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/30/artificial-lawyer-view-on-the-microsoft-legal-agent",
         "title": "Artificial Lawyer View On The Microsoft Legal Agent",
@@ -154,26 +174,6 @@
         "source": "LawSites",
         "publishedAt": "2026-04-29T16:49:44.000Z",
         "summary": "Recorded live at the annual meeting of the Legal Marketing Association in New Orleans, this episode features my conversation with Rachel Shields Williams, president of the LMA and director of client intelligence at Sidle",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/youre&",
-        "title": "&#8216;You&#8217;re allergic? Good!&#8217; Woman who released bees to protest eviction is sentenced to 6 months in jail",
-        "url": "https://www.abajournal.com/news/article/youre&#45;allergic&#45;good&#45;woman&#45;who&#45;released&#45;bees&#45;to&#45;protest&#45;an&#45;eviction&#45;is&#45;sentenced/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-29T16:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/chemerinsky&",
-        "title": "Chemerinsky: Supreme Court examines how police use of technology may clash with Fourth Amendment",
-        "url": "https://www.abajournal.com/columns/article/chemerinsky&#45;supreme&#45;court&#45;examines&#45;how&#45;police&#45;use&#45;of&#45;technology&#45;may&#45;clash&#45;with&#45;the&#45;fourth&#45;amendment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-29T15:06:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,56 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/w1yiyhh4uxv05aqpihag",
+        "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+        "url": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-01T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/kbm9s4hsaot7gwqsa8je",
+        "title": "布隆过滤器：理论、工程权衡与Go语言实现",
+        "url": "https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-01T09:49:44.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/mn7ha6hgjccyxls2s1gl",
+        "title": "Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本",
+        "url": "https://www.infoq.cn/article/mN7Ha6hgjccyxls2s1Gl?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-01T09:40:26.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/6if6zrsp9u9t13ujggtj",
+        "title": "写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
+        "url": "https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-01T09:36:10.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3790021931883783",
+        "title": "特斯拉去年从SpaceX与xAI斩获5.73亿美元营收",
+        "url": "https://36kr.com/newsflashes/3790021931883783?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-01T01:31:35.000Z",
+        "summary": "特斯拉在修订后的年度备案文件中披露，去年通过向埃隆・马斯克旗下另外两家企业销售产品，创收超5亿美元。特斯拉今年1月首度披露，营收中的大头约4.301亿美元，来自与马斯克旗下人工智能初创公司xAI的业务往来。这家车企于周四提交修订版备案文件，补充称还从马斯克私人控股的航天企业太空探索技术公司（SpaceX）确认营收1.433亿美元。特斯拉在今年1月发布的初始年度报告中，并未披露后一项金额。本月早些时候，媒体曾报道，SpaceX去年第四季度",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/thktl4m8krwon0vett3b",
         "title": "从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了",
         "url": "https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&utm_medium=article",
@@ -1278,29 +1328,9 @@
         "summary": "“世界咖啡”[AI+]产业对接会正式定档北京亦庄。 搞噱头还是做实事，我们需要一个华丽转身 这是36氪AI Partner系列活动迎来的第三个年头，在这之前，我们已经用四届大会验证了我们在“AI下一站”这个问题上的“把脉”能力，收获了一些口碑和行业认同，但是，长期以媒体观察者和陪伴者的视角出发，就很难跳下那个高台，容易看不清当下。比如，当我们看到行业里类似的AI活动还在聊“AI会不会代替人类”、“具身智能离我们还有多远”的时候，团队就非",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3788687934249989",
-        "title": "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
-        "url": "https://36kr.com/p/3788687934249989?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-04-30T02:13:18.000Z",
-        "summary": "一季度过去，具身智能行业的融资热潮还在继续。 36氪获悉，专注于L4低速自动驾驶的公司「优时科技」宣布完成数亿元人民币B2轮融资。 本轮融资由前海方舟领投，前海母基金旗下多支基金参与，联同鲲翎资本、厚天资本等8家投资机构共同完成。 在此之前，「优时科技」已完成了6轮融资： ·2018年6月，拿到 PNP 中国领投、北京汇丰投融、北京金种子和上海平阳复辉跟投的数百万人民币种子轮； ·2019年7月，获得英诺天使领投、驰星创投跟投的千万人民",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3352068/chinese-firms-face-pressure-ai-investments-us-peers-spending-keeps-soaring",
-        "title": "Chinese firms face pressure on AI investments as US peers’ spending keeps soaring",
-        "url": "https://www.scmp.com/tech/big-tech/article/3352068/chinese-firms-face-pressure-ai-investments-us-peers-spending-keeps-soaring?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-30T14:30:09.000Z",
-        "summary": "Artificial intelligence investments by US tech giants continue to soar, dwarfing those of Chinese AI firms, but China’s rising appetite for AI applications will compel its tech companies to increase their AI spending thi",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/presented/business/topics/vgt-steady-growth-26q1-results/article/3351790/capitalizing-ai-computing-industry-upgrade-boom-victory-giant-technology-achieves-steady-start-q1",
         "title": "Capitalizing on the AI Computing Industry Upgrade Boom: Victory Giant Technology Achieves a Steady Start in Q1 Performance",
@@ -1319,16 +1349,6 @@
         "publishedAt": "2026-04-28T14:30:09.000Z",
         "summary": "It could be “time-consuming”, “complex” and “difficult” for Meta Platforms to unwind its acquisition of Manus, an artificial intelligence start-up that originated in China, given how far the deal has gone, according to a",
         "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3351700/deepseek-mystery-who-speaking-start-ceo-liang-wenfeng-remains-out-sight",
-        "title": "DeepSeek mystery: who is speaking for start-up as CEO Liang Wenfeng remains out of sight?",
-        "url": "https://www.scmp.com/tech/big-tech/article/3351700/deepseek-mystery-who-speaking-start-ceo-liang-wenfeng-remains-out-sight?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-28T11:00:15.000Z",
-        "summary": "The potential emergence of a new DeepSeek spokesman has sparked intrigue as speculation over the whereabouts of founder and CEO Liang Wenfeng continues, more than a year after his last public appearance. While the Hangzh",
-        "category": "tools",
         "region": "cn_en"
       },
       {
