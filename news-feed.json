@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T13:00:16.325Z",
+  "generatedAt": "2026-05-01T18:59:48.602Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/the&",
+        "title": "The Burton Book Review: &#8216;Last Branch Standing: A Potentially Surprising, Occasionally Witty Journey Inside Today’s Supreme Court&#8217;",
+        "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;last&#45;branch&#45;standing&#45;a&#45;potentially&#45;surprising&#45;occasionally&#45;witty&#45;journey&#45;inside&#45;todays&#45;supreme&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-01T16:45:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/king&",
+        "title": "King Charles’ flyover tribute pauses Supreme Court arguments",
+        "url": "https://www.abajournal.com/news/article/king&#45;charles&#45;flyover&#45;tribute&#45;pauses&#45;supreme&#45;court&#45;arguments/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-01T16:23:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/former&",
+        "title": "Former judge suspended over Facebook posts seeks relief from SCOTUS",
+        "url": "https://www.abajournal.com/news/article/former&#45;pennsylvania&#45;judge&#45;suspended&#45;over&#45;facebook&#45;posts&#45;seeks&#45;relief&#45;from&#45;supreme&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-01T15:15:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/trump&",
+        "title": "Trump judicial pick, rated unqualified by the ABA, advances in Senate",
+        "url": "https://www.abajournal.com/news/article/trump&#45;judicial&#45;pick&#45;rated&#45;unqualified&#45;by&#45;aba&#45;advanced&#45;in&#45;senate/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-01T14:57:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/microsoft&",
+        "title": "Microsoft introduces new legal artificial intelligence tool",
+        "url": "https://www.abajournal.com/news/article/microsoft&#45;introduces&#45;new&#45;legal&#45;ai&#45;tool/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-01T14:33:00.000Z",
+        "summary": "",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/01/get-your-free-legal-innovators-ticket-wrap",
         "title": "Get Your Free Legal Innovators Ticket + Wrap",
@@ -23,7 +73,7 @@
         "url": "https://www.artificiallawyer.com/2026/05/01/the-new-era-for-legal-tech-begins/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-05-01T06:53:26.000Z",
-        "summary": "Microsoft’s entry into legal tech marks the beginning of a new era for the sector. It also marks a likely shift of user behaviour, with ...",
+        "summary": "Microsoft’s entry into contract review* marks the beginning of a new era for the sector. It also marks a likely shift of user behaviour, with ...",
         "category": "updates",
         "region": "na"
       },
@@ -98,36 +148,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/attorney&",
-        "title": "Attorney will stand trial for leading break-in at beagle breeding farm",
-        "url": "https://www.abajournal.com/news/article/attorney&#45;to&#45;stand&#45;trial&#45;for&#45;leading&#45;break&#45;in&#45;at&#45;wisconsin&#45;beagle&#45;breeding&#45;farm/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-30T14:40:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/harvey&",
-        "title": "Harvey will expand legal AI presence with new Chicago office",
-        "url": "https://www.abajournal.com/news/article/harvey&#45;to&#45;expand&#45;legal&#45;ai&#45;presence&#45;with&#45;new&#45;chicago&#45;office/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-30T14:28:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/after&",
-        "title": "After more than a decade, book explores forensic evidence from shooting death of Trayvon Martin",
-        "url": "https://www.abajournal.com/web/article/after&#45;more&#45;than&#45;a&#45;decade&#45;book&#45;explores&#45;forensic&#45;evidence&#45;from&#45;shooting&#45;death&#45;of&#45;trayvon&#45;martin/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-30T14:21:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/30/zach-richards-excellent-legal-ai-adventure-4",
         "title": "Zach + Richard’s Excellent Legal AI Adventure",
         "url": "https://www.artificiallawyer.com/2026/04/30/zach-richards-excellent-legal-ai-adventure-4/",
@@ -164,26 +184,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-30T06:16:11.000Z",
         "summary": "NVIDIA’s venture capital arm NVentures and Atlassian have invested in Legora. The $50m Series D extension that they joined brings the total round to $600m. ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/seashells&",
-        "title": "Seashells and slang weak basis for case against Comey, legal experts say",
-        "url": "https://www.abajournal.com/web/article/seashells&#45;and&#45;slang/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-29T19:37:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/jeopardy&",
-        "title": "&#8216;Jeopardy!&#8217; superchampion, who&#8217;s also law student, exits show with over $880K",
-        "url": "https://www.abajournal.com/news/article/jeopardy&#45;superchampion&#45;leaves&#45;show&#45;with&#45;880k/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-29T19:11:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "36Kr:36kr.com/p/3790587098832137",
+        "title": "追觅造车，从“火箭”开始",
+        "url": "https://36kr.com/p/3790587098832137?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-01T10:26:42.000Z",
+        "summary": "4月27日，旧金山艺术宫，这座美国百年历史地标迎来了一场科技发布会。 追觅科技以“DREAME NEXT”为主题的全球发布会周在此开幕，展台上那台红色超跑的尾部，两个固体火箭推进器格外醒目。这便是追觅“星空计划”重磅打造的Nebula NEXT 01 JET Edition，业内称其为“火箭车”。 从车企研发负责人到供应链从业者再到行业分析师，目光都聚焦于此。 这款火箭车搭载专属定制双固体火箭助推系统，可实现150毫秒瞬时响应，最大推力",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/thktl4m8krwon0vett3b",
         "title": "从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了",
         "url": "https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&utm_medium=article",
@@ -1246,6 +1256,26 @@
         "source": "InfoQ China",
         "publishedAt": "2026-04-30T09:48:56.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3789098887077123",
+        "title": "HappyHorse没有惊喜",
+        "url": "https://36kr.com/p/3789098887077123?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-30T09:11:22.000Z",
+        "summary": "作者 | 兰杰 编辑 | 乔芊 4月27日，预热已久的HappyHorse终于开启测试，颇为遗憾的是，它没能像横空出世的Seedance2.0那样掀起巨浪。没有惊喜，对于HappyHorse来讲是一个颇为中肯的评价。 HappyHorse是阿里巴巴ATH事业群旗下创新事业部研发的视频模型，于4月27日开启灰测，并接入千问App。 该视频模型饱受关注的原因有二。 一是因为在开放测试前，HappyHorse在未标注厂商的情况下，登顶了以盲测",
+        "category": "articles",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3789059666173189",
+        "title": "氪星晚报｜澳门一季度GDP按年实质增长7.1%；小红书发内部信：加大AI投入，柯南出任总裁",
+        "url": "https://36kr.com/p/3789059666173189?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-04-30T08:53:38.000Z",
+        "summary": "大公司： 联发科一季度毛利率为46.3%，同比下滑1.8个百分点 4月30日，联发科举行法说会并公布2026年第一季度财报，单季每股盈余（EPS）为新台币15.17元，环比增加5.6%、同比减少17.4%；合并营收为新台币1491.51亿元，环比减少0.7%、同比减少2.7%；毛利率为46.3%，环比增加0.2个百分点，同比下滑1.8个百分点。公司表示，毛利率季增主要受惠产品组合优化，年减则反映部分产品毛利结构调整。（界面） 阿里云域名",
         "category": "updates",
         "region": "cn"
       }
