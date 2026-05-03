@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T07:49:58.370Z",
+  "generatedAt": "2026-05-03T12:51:53.743Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,36 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/w3oek9akw8lfprz7qbo4",
-        "title": "微软警告称，AI 正在掏空初级开发者的培养渠道",
-        "url": "https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-03T13:41:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/8k6mqwb5duedy8wulzyk",
-        "title": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
-        "url": "https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-03T13:37:48.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fxbmtqmn3dd29jctodeq",
-        "title": "使用AWS Lambda Extensions在响应后执行遥测刷写",
-        "url": "https://www.infoq.cn/article/fxBMtQmN3Dd29JCTOdEQ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-03T13:33:24.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/zx2kolnl2bz0zh8tuczd",
         "title": "构建分层的Agentic RAG系统：具备自主纠错的多模态推理",
         "url": "https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&utm_medium=article",
@@ -1250,22 +1220,22 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3793154827000832",
+        "title": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
+        "url": "https://36kr.com/newsflashes/3793154827000832?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-03T09:00:29.000Z",
+        "summary": "韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一家估值超过1万亿韩元的独角兽初创公司，致力于开发人工智能解决方案和大型语言模型（LLM）。该公司是继Rebellions之后，第二家获得该政策基金投资的企业。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3789475357400068",
         "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
         "url": "https://36kr.com/p/3789475357400068?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-02T13:17:06.000Z",
         "summary": "文｜肖漫 编辑｜李勤 当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。 卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。 “如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。 在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3792155815304450",
-        "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
-        "url": "https://36kr.com/p/3792155815304450?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-02T13:01:36.000Z",
-        "summary": "文｜周鑫雨 编辑｜杨轩 规模化落地，今年的具身公司都在谈这个。 数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。 激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过",
         "category": "updates",
         "region": "cn"
       },
@@ -1321,16 +1291,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/article/3352056/shenzhen-office-market-gains-steam-tech-and-services-demand-vacancies-remain-high",
-        "title": "Shenzhen office market gains steam on tech and services demand, but vacancies remain high",
-        "url": "https://www.scmp.com/business/article/3352056/shenzhen-office-market-gains-steam-tech-and-services-demand-vacancies-remain-high?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-03T03:00:20.000Z",
-        "summary": "Technology firms are increasingly gravitating towards premium office space in Shenzhen’s core business districts, offering a degree of support to the city’s office market. However, vacancies are expected to remain elevat",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/article/3351718/meta-manus-ai-deal-difficult-undo-how-will-beijing-exert-its-authority",
         "title": "With Meta-Manus AI deal ‘difficult’ to undo, how will Beijing exert its authority?",
