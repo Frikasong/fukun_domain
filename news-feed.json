@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T02:04:46.412Z",
+  "generatedAt": "2026-05-04T08:19:54.825Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/04/mike-the-open-source-legal-ai-platform-will-chen-interview",
+        "title": "Mike, the Open Source Legal AI Platform – Will Chen Interview",
+        "url": "https://www.artificiallawyer.com/2026/05/04/mike-the-open-source-legal-ai-platform-will-chen-interview/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-04T06:51:17.000Z",
+        "summary": "Since former Latham &#38; Watkins lawyer Will Chen launched open source legal AI platform, Mike, social media posts on the subject have surged across the ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/finalized&",
         "title": "Finalized student loan limits will impact law students, law schools and the legal profession",
@@ -215,16 +225,6 @@
         "publishedAt": "2026-04-29T14:00:10.000Z",
         "summary": "Ivo, a contract intelligence platform, did one of those classic AI vs human tests, but this time included Claude for Word as a competitor. It ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/29/scaling-europe-top-50-picks-4-legal-ai-companies",
-        "title": "Scaling Europe Top 50 Picks 4 Legal AI Companies",
-        "url": "https://www.artificiallawyer.com/2026/04/29/scaling-europe-top-50-picks-4-legal-ai-companies/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-29T13:04:40.000Z",
-        "summary": "The Scaling Europe Top 50 is a data-led ranking for startups based in Europe. Four legal AI companies made the list this year: Legora, Wordsmith, ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,32 +1210,22 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ealept08lweoao1hxgfn",
-        "title": "大公司也这样？改完系统：先上线，再看哪儿炸",
-        "url": "https://www.infoq.cn/article/eAlept08lWEOAo1HxGFN?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ir1rjfxfzbchzbukcavl",
+        "title": "CNCF警告：仅靠Kubernetes不足以保障LLM工作负载的安全性",
+        "url": "https://www.infoq.cn/article/IR1rJFXFZbChzBuKcAVl?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-04T10:00:00.000Z",
+        "publishedAt": "2026-05-04T12:29:37.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ksmlvsumhdf7oilxyaj3",
-        "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
-        "url": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-04T09:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/i34jamif0vaqvcdnxe87",
-        "title": "直播出问题，AI 不一定救得了：Netflix 的新解法",
-        "url": "https://www.infoq.cn/article/I34jAMiF0VAqVcDNxE87?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-04T08:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3794495772712195",
+        "title": "豆包将在免费模式外新增付费订阅，官方回应",
+        "url": "https://36kr.com/newsflashes/3794495772712195?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-04T04:40:42.000Z",
+        "summary": "近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线付费服务，满足好这部分复杂场景需求。免费版本则",
         "category": "updates",
         "region": "cn"
       },
@@ -1246,16 +1236,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-05-03T13:24:35.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3793154827000832",
-        "title": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
-        "url": "https://36kr.com/newsflashes/3793154827000832?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-03T09:00:29.000Z",
-        "summary": "韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一家估值超过1万亿韩元的独角兽初创公司，致力于开发人工智能解决方案和大型语言模型（LLM）。该公司是继Rebellions之后，第二家获得该政策基金投资的企业。",
         "category": "updates",
         "region": "cn"
       },
@@ -1296,16 +1276,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-02T03:24:44.000Z",
         "summary": "作者 | 冯晓亭 编辑 | 吾人 来源 | 融中财经 4月28日下午，淘宝阿里拍卖平台上，一场持续近24小时的竞拍结束了。 拍卖标的并不复杂——威马新能源汽车采购（上海）有限公司破产清算后，账面上列出的24笔对外应收款项，金额合计127,591,590.42元。起拍价只有100元。100人报名竞拍，经过332次出价、近24小时的激烈角逐，一位竞买人以“9.35万元”成了这笔“亿元债权”的新主人。 威马对外应收款项拍卖 消息传出，舆论哗然",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/thktl4m8krwon0vett3b",
-        "title": "从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了",
-        "url": "https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-30T18:06:28.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
