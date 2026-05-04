@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T13:26:00.739Z",
+  "generatedAt": "2026-05-04T19:16:57.487Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,86 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/criminal&",
+        "title": "Criminal defense lawyer allegedly punched in face after client gets maximum sentence for murder",
+        "url": "https://www.abajournal.com/news/article/criminal&#45;defense&#45;lawyer&#45;punched&#45;in&#45;the&#45;face&#45;after&#45;his&#45;client&#45;gets&#45;maximum&#45;sentence&#45;for&#45;murder/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-04T19:08:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
+        "title": "Attorney remains jailed for refusing to disclose anonymous plaintiffs in HOA lawsuit",
+        "url": "https://www.abajournal.com/news/article/florida&#45;attorney&#45;remains&#45;jailed&#45;for&#45;refusing&#45;to&#45;disclose&#45;anonymous&#45;plaintiffs&#45;in&#45;hoa&#45;lawsuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-04T17:44:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/thomson&",
+        "title": "Thomson Reuters hit with lawsuit accusing it of violating state privacy statute",
+        "url": "https://www.abajournal.com/news/article/thomson&#45;reuters&#45;hit&#45;with&#45;lawsuit&#45;accusing&#45;it&#45;of&#45;violating&#45;michigan&#45;privacy&#45;statute/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-04T17:21:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/everlaw-and-legora-announce-integration-to-connect-discovery-and-drafting.html",
+        "title": "Everlaw and Legora Announce Integration to Connect Discovery and Drafting",
+        "url": "https://www.lawnext.com/2026/05/everlaw-and-legora-announce-integration-to-connect-discovery-and-drafting.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-04T17:03:01.000Z",
+        "summary": "Everlaw and Legora have announced a technology partnership that will allow litigation teams to access documents stored in Everlaw directly within Legora&#8217;s drafting and collaboration environment. The integration is ",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ftc&",
+        "title": "FTC calls on Tennessee Supreme Court to end reliance on ABA law school accreditation",
+        "url": "https://www.abajournal.com/news/article/ftc&#45;calls&#45;on&#45;tennessee&#45;supreme&#45;court&#45;to&#45;end&#45;reliance&#45;on&#45;aba&#45;law&#45;school&#45;accreditation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-04T15:22:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/former&",
+        "title": "Former jailhouse lawyer turned ‘real lawyer’ blocked from serving elected position",
+        "url": "https://www.abajournal.com/news/article/former&#45;jailhouse&#45;lawyer&#45;turned&#45;real&#45;lawyer&#45;blocked&#45;from&#45;serving&#45;elected&#45;position/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-04T14:32:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/frustrated&",
+        "title": "Lawyers frustrated with law firm HR increasingly air grievances online",
+        "url": "https://www.abajournal.com/news/article/frustrated&#45;attorneys&#45;increasingly&#45;airing&#45;grievances&#45;online/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-04T14:15:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/may&",
+        "title": "May the Fourth Be With You: What Star Wars Teaches Us About Passing the Bar Exam",
+        "url": "https://www.abajournal.com/news/article/may&#45;the&#45;fourth&#45;be&#45;with&#45;you&#45;what&#45;star&#45;wars&#45;teaches&#45;us&#45;about&#45;passing&#45;the&#45;bar&#45;exam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-04T14:06:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/04/mike-the-open-source-legal-ai-platform-will-chen-interview",
         "title": "Mike, the Open Source Legal AI Platform – Will Chen Interview",
@@ -48,36 +128,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former judge suspended over Facebook posts seeks relief from SCOTUS",
-        "url": "https://www.abajournal.com/news/article/former&#45;pennsylvania&#45;judge&#45;suspended&#45;over&#45;facebook&#45;posts&#45;seeks&#45;relief&#45;from&#45;supreme&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-01T15:15:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/trump&",
-        "title": "Trump judicial pick, rated unqualified by the ABA, advances in Senate",
-        "url": "https://www.abajournal.com/news/article/trump&#45;judicial&#45;pick&#45;rated&#45;unqualified&#45;by&#45;aba&#45;advanced&#45;in&#45;senate/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-01T14:57:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/microsoft&",
-        "title": "Microsoft introduces new legal artificial intelligence tool",
-        "url": "https://www.abajournal.com/news/article/microsoft&#45;introduces&#45;new&#45;legal&#45;ai&#45;tool/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-01T14:33:00.000Z",
-        "summary": "",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/01/get-your-free-legal-innovators-ticket-wrap",
         "title": "Get Your Free Legal Innovators Ticket + Wrap",
         "url": "https://www.artificiallawyer.com/2026/05/01/get-your-free-legal-innovators-ticket-wrap/",
@@ -98,52 +148,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/ucla&",
-        "title": "UCLA can&#8217;t threaten Federalist Society over ID&#8217;ing students who disrupted event, free speech group says",
-        "url": "https://www.abajournal.com/web/article/ucla&#45;cant&#45;threaten&#45;federalist&#45;society&#45;over&#45;iding&#45;students&#45;who&#45;disrupted&#45;event&#45;fire&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-30T20:15:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/senate&",
-        "title": "Senate committee urges investigation of wealthy clients who avoided taxes in Puerto Rico",
-        "url": "https://www.abajournal.com/news/article/senate&#45;committee&#45;urges&#45;investigation&#45;of&#45;wealthy&#45;clients&#45;who&#45;avoided&#45;taxes&#45;in&#45;puerto&#45;rico/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-30T20:08:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/30/artificial-lawyer-view-on-the-microsoft-legal-agent",
         "title": "Artificial Lawyer View On The Microsoft Legal Agent",
         "url": "https://www.artificiallawyer.com/2026/04/30/artificial-lawyer-view-on-the-microsoft-legal-agent/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-30T17:09:19.000Z",
         "summary": "Microsoft has well and truly entered legal tech with its Legal Agent &#8211; see previous AL story. So, why does this matter? Well, Anthropic’s entry ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/emory&",
-        "title": "Emory Law kicks out 1L after &#8216;hateful and harassing emails and social media posts&#8217;",
-        "url": "https://www.abajournal.com/news/article/emory&#45;law&#45;kicks&#45;out&#45;1l&#45;after&#45;hateful&#45;and&#45;harassing&#45;emails&#45;and&#45;social&#45;posts/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-30T16:14:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/longtime&",
-        "title": "Longtime federal judge assigned to James Comey criminal case",
-        "url": "https://www.abajournal.com/news/article/longtime&#45;north&#45;carolina&#45;federal&#45;judge&#45;assigned&#45;to&#45;comey&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-04-30T15:33:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1168,16 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/01/did-you-miss-the-legaltech-week-2026-predictions-show-no-worries-heres-the-recording.html",
-        "title": "Did You Miss the Legaltech Week 2026 Predictions Show? No Worries, Here&#8217;s the Recording",
-        "url": "https://www.lawnext.com/2026/01/did-you-miss-the-legaltech-week-2026-predictions-show-no-worries-heres-the-recording.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-15T17:31:15.000Z",
-        "summary": "What’s in store for legal tech and innovation in 2026? That was the topic of our most recent Legaltech Week live show, in which our panel of legal tech journalists shared their predictions for the year ahead. But if you ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1287,16 +1287,6 @@
         "publishedAt": "2026-05-02T06:52:34.000Z",
         "summary": "梦晨 发自 凹非寺 苹果大失误！把自用的Claude.md打包到了官方App里。 这下直接被坐实了： 苹果内部在使用Claude Code构建生产级应用 。 这么大的公司，也在Vibe Coding？ 苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 事故发生后后， 苹果在24小",
         "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3791546608049152",
-        "title": "9.35万, 威马破产大甩卖",
-        "url": "https://36kr.com/p/3791546608049152?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-02T03:24:44.000Z",
-        "summary": "作者 | 冯晓亭 编辑 | 吾人 来源 | 融中财经 4月28日下午，淘宝阿里拍卖平台上，一场持续近24小时的竞拍结束了。 拍卖标的并不复杂——威马新能源汽车采购（上海）有限公司破产清算后，账面上列出的24笔对外应收款项，金额合计127,591,590.42元。起拍价只有100元。100人报名竞拍，经过332次出价、近24小时的激烈角逐，一位竞买人以“9.35万元”成了这笔“亿元债权”的新主人。 威马对外应收款项拍卖 消息传出，舆论哗然",
-        "category": "updates",
         "region": "cn"
       }
     ],
