@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T18:46:19.211Z",
+  "generatedAt": "2026-05-04T02:04:46.412Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,36 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/ealept08lweoao1hxgfn",
+        "title": "大公司也这样？改完系统：先上线，再看哪儿炸",
+        "url": "https://www.infoq.cn/article/eAlept08lWEOAo1HxGFN?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-04T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ksmlvsumhdf7oilxyaj3",
+        "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "url": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-04T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/i34jamif0vaqvcdnxe87",
+        "title": "直播出问题，AI 不一定救得了：Netflix 的新解法",
+        "url": "https://www.infoq.cn/article/I34jAMiF0VAqVcDNxE87?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-04T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/zx2kolnl2bz0zh8tuczd",
         "title": "构建分层的Agentic RAG系统：具备自主纠错的多模态推理",
         "url": "https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&utm_medium=article",
@@ -1278,19 +1308,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/5rydztlgisqrj65zjbpo",
-        "title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
-        "url": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-04-30T14:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3352126/who-could-gain-deepseeks-v4-china-chips-poised-stronger-demand",
+        "title": "Who could gain from DeepSeek’s V4 with China chips poised for stronger demand?",
+        "url": "https://www.scmp.com/business/china-business/article/3352126/who-could-gain-deepseeks-v4-china-chips-poised-stronger-demand?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-03T23:00:10.000Z",
+        "summary": "DeepSeek’s launch of its latest artificial intelligence model could likely trigger a broad reassessment of stocks across the industry chain from chipmakers to large language model developers, analysts say, with the break",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/article/3351718/meta-manus-ai-deal-difficult-undo-how-will-beijing-exert-its-authority",
         "title": "With Meta-Manus AI deal ‘difficult’ to undo, how will Beijing exert its authority?",
