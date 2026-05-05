@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T07:57:12.160Z",
+  "generatedAt": "2026-05-05T13:18:52.793Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/practice-management-platform-clio-to-discontinue-its-longtime-integration-with-payments-processor-lawpay.html",
+        "title": "Practice Management Platform Clio To Discontinue Its Longtime Integration with Payments Processor LawPay",
+        "url": "https://www.lawnext.com/2026/05/practice-management-platform-clio-to-discontinue-its-longtime-integration-with-payments-processor-lawpay.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-05T12:35:32.000Z",
+        "summary": "Legal technology company Clio is discontinuing its integration with the payment processing platform 8am LawPay on Aug. 31, 2026, it has notified customers. After that date, customers of the Clio Manage law practice manag",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/05/everlaw-legora-partner-for-litigation-workflows",
+        "title": "Everlaw + Legora Partner for Litigation Workflows",
+        "url": "https://www.artificiallawyer.com/2026/05/05/everlaw-legora-partner-for-litigation-workflows/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-05T11:24:13.000Z",
+        "summary": "Legora and Everlaw, the AI-powered litigation and investigation platform, have partnered to provide a ‘seamless connection between early case assessment, discovery, analysis, legal research and ...",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/05/corgi-launches-ai-liability-insurance",
+        "title": "Corgi Launches AI Liability Insurance",
+        "url": "https://www.artificiallawyer.com/2026/05/05/corgi-launches-ai-liability-insurance/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-05T08:53:27.000Z",
+        "summary": "Corgi, a new insurance company backed by Y Combinator, is now offering AI liability insurance – for both the AI companies providing the outputs, and ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/05/product-walk-through-thoughtriver-ai-contract-review",
         "title": "Product Walk Through: ThoughtRiver – AI Contract Review",
@@ -194,26 +224,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-04-30T09:42:06.000Z",
         "summary": "Welcome to another episode of Zach and Richard’s Excellent Legal AI Adventure, hosted by legal tech expert Zach Abramowitz. In this episode we cover several ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/30/walk-through-chamelio-new-agentic-features-for-inhouse-teams",
-        "title": "Walk Through: Chamelio – New Agentic Features For Inhouse Teams",
-        "url": "https://www.artificiallawyer.com/2026/04/30/walk-through-chamelio-new-agentic-features-for-inhouse-teams/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-30T07:30:12.000Z",
-        "summary": "This week’s other AL TV Product Walk Through is with Chamelio, the legal intelligence platform for inhouse teams, and in particular takes a look at ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/30/magic-circle-firm-slaughter-and-may-adopts-harvey",
-        "title": "Magic Circle Firm Slaughter and May Adopts Harvey",
-        "url": "https://www.artificiallawyer.com/2026/04/30/magic-circle-firm-slaughter-and-may-adopts-harvey/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-30T06:54:46.000Z",
-        "summary": "And so the Magic Circle continues to pick their legal AI platforms. Slaughter and May, after a long period of consideration, has gone all-in with ...",
         "category": "updates",
         "region": "na"
       },
@@ -1168,16 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/01/alexi-fires-back-at-fastcase-lawsuit-with-counterclaims-alleging-anticompetitive-conduct-following-clios-1b-acquisition.html",
-        "title": "Alexi Fires Back at Fastcase Lawsuit with Counterclaims Alleging Anticompetitive Conduct Following Clio&#8217;s $1B Acquisition",
-        "url": "https://www.lawnext.com/2026/01/alexi-fires-back-at-fastcase-lawsuit-with-counterclaims-alleging-anticompetitive-conduct-following-clios-1b-acquisition.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-18T17:20:49.000Z",
-        "summary": "Alexi Technologies has filed its answer and counterclaim against Fastcase, vLex, and Clio, accusing the newly merged legal technology giant of manufacturing breach-of-contract allegations as a pretext to eliminate a comp",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,56 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/lhzkgpobi5mpkyhokge5",
-        "title": "Java 近期资讯：OpenJDK、 Oracle 关键补丁更新、 Open Liberty、Testcontainers、IntelliJ IDEA",
-        "url": "https://www.infoq.cn/article/LhzkgpOBi5mPkYHoKgE5?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-05T13:57:41.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/2d4ky0aykqu2jgeuw6hn",
-        "title": "Vercel 开源 Open Agents，支持后台运行 AI 编码工作流",
-        "url": "https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-05T13:55:09.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/cvyo9mibdlfo0jmk8swf",
-        "title": "Uber 利用自动化代码转换，将 75000 多个测试类从 JUnit 4 迁移至 JUnit 5",
-        "url": "https://www.infoq.cn/article/CVYo9mibdLfO0jmk8Swf?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-05T13:53:21.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wupljwpxbbllwqxspdgr",
-        "title": "Google发布Room 3.0：Kotlin优先、异步、多平台持久化库",
-        "url": "https://www.infoq.cn/article/WUPLJWpxbBLlWqxspDgR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-05T13:51:13.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vp2p5r78rs1ra5fp4m5i",
-        "title": "Effect v4 Beta：重写运行时、更小的bundle与统一包系统",
-        "url": "https://www.infoq.cn/article/VP2p5R78rS1rA5Fp4M5I?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-05T13:49:11.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/2m5ic7x6sxwwlels7vwz",
         "title": "Java 世界的 MCP：将架构策略应用于 LLM 集成",
         "url": "https://www.infoq.cn/article/2m5IC7x6SxwWlEls7VWz?utm_source=rss&utm_medium=article",
@@ -1270,12 +1220,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3795818949647618",
-        "title": "白宫拟在AI模型发布前实施审查",
-        "url": "https://36kr.com/newsflashes/3795818949647618?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3796122229644550",
+        "title": "东阳光：控股子公司签署算力服务采购框架合同 预计总额160亿元至190亿元",
+        "url": "https://36kr.com/newsflashes/3796122229644550?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-05T03:50:12.000Z",
-        "summary": "特朗普政府正考虑发布一项行政令，成立人工智能工作组，旨在加强对这一新兴技术的监管。其中一项提案要求对新AI模型实施政府审查流程。该报称，白宫官员在上周的会议中，已向Anthropic、谷歌母公司Alphabet以及OpenAI的高管通报了部分拟议计划。（第一财经）",
+        "publishedAt": "2026-05-05T08:32:06.000Z",
+        "summary": "东阳光5月5日公告，近日，公司收到控股子公司东莞东阳光云智算科技有限公司与某企业A公司签署的《算力服务采购框架合同》，合同预计总金额区间为160亿元至190亿元（含税），合同期限为合同约定的订单验收通过后60个月。（证券时报）",
         "category": "updates",
         "region": "cn"
       },
