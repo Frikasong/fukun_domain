@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T19:16:57.487Z",
+  "generatedAt": "2026-05-05T02:04:15.734Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/2m5ic7x6sxwwlels7vwz",
+        "title": "Java 世界的 MCP：将架构策略应用于 LLM 集成",
+        "url": "https://www.infoq.cn/article/2m5IC7x6SxwWlEls7VWz?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-05T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/tsptrqoxs8z9zdusv9wb",
+        "title": "从“没人懂”到“不能裁”：平台团队如何证明价值",
+        "url": "https://www.infoq.cn/article/tsptrQOxS8Z9zduSV9wb?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-05T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3794961189821698",
         "title": "五月，适合想清楚一件事｜幕启",
         "url": "https://36kr.com/p/3794961189821698?f=rss",
@@ -1245,7 +1265,7 @@
         "url": "https://36kr.com/newsflashes/3794495772712195?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-04T04:40:42.000Z",
-        "summary": "近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线付费服务，满足好这部分复杂场景需求。免费版本则",
+        "summary": "近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线���费服务，满足好这部分复杂场景需求。免费版",
         "category": "updates",
         "region": "cn"
       },
