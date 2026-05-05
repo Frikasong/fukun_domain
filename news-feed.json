@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T02:04:15.734Z",
+  "generatedAt": "2026-05-05T07:57:12.160Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/05/product-walk-through-thoughtriver-ai-contract-review",
+        "title": "Product Walk Through: ThoughtRiver – AI Contract Review",
+        "url": "https://www.artificiallawyer.com/2026/05/05/product-walk-through-thoughtriver-ai-contract-review/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-05T07:39:03.000Z",
+        "summary": "This week’s AL TV Product Walk Through is with ThoughtRiver, the AI contract review system. In this video we look at a range of features, ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/05/the-front-door-your-legal-team-already-has",
+        "title": "The Front Door Your Legal Team Already Has",
+        "url": "https://www.artificiallawyer.com/2026/05/05/the-front-door-your-legal-team-already-has/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-05T06:43:07.000Z",
+        "summary": "By Jake Jones, Co-founder, Flank. If you lead an enterprise legal team, your intake process is a mess. It’s a function of the chaos begotten ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/criminal&",
         "title": "Criminal defense lawyer allegedly punched in face after client gets maximum sentence for murder",
@@ -198,16 +218,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/30/nvidia-fund-atlassian-join-50m-legora-investment",
-        "title": "NVIDIA Fund + Atlassian Join $50m Legora Investment",
-        "url": "https://www.artificiallawyer.com/2026/04/30/nvidia-fund-atlassian-join-50m-legora-investment/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-30T06:16:11.000Z",
-        "summary": "NVIDIA’s venture capital arm NVentures and Atlassian have invested in Legora. The $50m Series D extension that they joined brings the total round to $600m. ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/04/legal-marketing-association-president-rachel-shields-williams-on-ai-innovation-and-why-people-still-come-first.html",
         "title": "Legal Marketing Association President Rachel Shields Williams On AI, Innovation, and Why People Still Come First",
         "url": "https://www.lawnext.com/2026/04/legal-marketing-association-president-rachel-shields-williams-on-ai-innovation-and-why-people-still-come-first.html",
@@ -225,16 +235,6 @@
         "publishedAt": "2026-04-29T14:52:11.000Z",
         "summary": "On March 11, 2026, some 200 employees of Thomson Reuters – many of them based at the company&#8217;s Westlaw operations in St. Paul, Minn. – sent a letter to management with an unequivocal demand: Do not renew the compan",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/29/claude-for-word-is-weak-suggests-ivo",
-        "title": "Claude For Word Is Weak, Suggests Ivo",
-        "url": "https://www.artificiallawyer.com/2026/04/29/claude-for-word-is-weak-suggests-ivo/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-29T14:00:10.000Z",
-        "summary": "Ivo, a contract intelligence platform, did one of those classic AI vs human tests, but this time included Claude for Word as a competitor. It ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1210,6 +1210,56 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/lhzkgpobi5mpkyhokge5",
+        "title": "Java 近期资讯：OpenJDK、 Oracle 关键补丁更新、 Open Liberty、Testcontainers、IntelliJ IDEA",
+        "url": "https://www.infoq.cn/article/LhzkgpOBi5mPkYHoKgE5?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-05T13:57:41.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/2d4ky0aykqu2jgeuw6hn",
+        "title": "Vercel 开源 Open Agents，支持后台运行 AI 编码工作流",
+        "url": "https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-05T13:55:09.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/cvyo9mibdlfo0jmk8swf",
+        "title": "Uber 利用自动化代码转换，将 75000 多个测试类从 JUnit 4 迁移至 JUnit 5",
+        "url": "https://www.infoq.cn/article/CVYo9mibdLfO0jmk8Swf?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-05T13:53:21.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wupljwpxbbllwqxspdgr",
+        "title": "Google发布Room 3.0：Kotlin优先、异步、多平台持久化库",
+        "url": "https://www.infoq.cn/article/WUPLJWpxbBLlWqxspDgR?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-05T13:51:13.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vp2p5r78rs1ra5fp4m5i",
+        "title": "Effect v4 Beta：重写运行时、更小的bundle与统一包系统",
+        "url": "https://www.infoq.cn/article/VP2p5R78rS1rA5Fp4M5I?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-05T13:49:11.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/2m5ic7x6sxwwlels7vwz",
         "title": "Java 世界的 MCP：将架构策略应用于 LLM 集成",
         "url": "https://www.infoq.cn/article/2m5IC7x6SxwWlEls7VWz?utm_source=rss&utm_medium=article",
@@ -1220,12 +1270,12 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/tsptrqoxs8z9zdusv9wb",
-        "title": "从“没人懂”到“不能裁”：平台团队如何证明价值",
-        "url": "https://www.infoq.cn/article/tsptrQOxS8Z9zduSV9wb?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-05T08:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3795818949647618",
+        "title": "白宫拟在AI模型发布前实施审查",
+        "url": "https://36kr.com/newsflashes/3795818949647618?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-05T03:50:12.000Z",
+        "summary": "特朗普政府正考虑发布一项行政令，成立人工智能工作组，旨在加强对这一新兴技术的监管。其中一项提案要求对新AI模型实施政府审查流程。该报称，白宫官员在上周的会议中，已向Anthropic、谷歌母公司Alphabet以及OpenAI的高管通报了部分拟议计划。（第一财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1256,16 +1306,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-04T09:49:40.000Z",
         "summary": "近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。 豆包 目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3794495772712195",
-        "title": "豆包将在免费模式外新增付费订阅，官方回应",
-        "url": "https://36kr.com/newsflashes/3794495772712195?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-04T04:40:42.000Z",
-        "summary": "近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线���费服务，满足好这部分复杂场景需求。免费版",
         "category": "updates",
         "region": "cn"
       },
@@ -1319,16 +1359,6 @@
         "publishedAt": "2026-05-03T23:00:10.000Z",
         "summary": "DeepSeek’s launch of its latest artificial intelligence model could likely trigger a broad reassessment of stocks across the industry chain from chipmakers to large language model developers, analysts say, with the break",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3351718/meta-manus-ai-deal-difficult-undo-how-will-beijing-exert-its-authority",
-        "title": "With Meta-Manus AI deal ‘difficult’ to undo, how will Beijing exert its authority?",
-        "url": "https://www.scmp.com/tech/article/3351718/meta-manus-ai-deal-difficult-undo-how-will-beijing-exert-its-authority?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-04-28T14:30:09.000Z",
-        "summary": "It could be “time-consuming”, “complex” and “difficult” for Meta Platforms to unwind its acquisition of Manus, an artificial intelligence start-up that originated in China, given how far the deal has gone, according to a",
-        "category": "updates",
         "region": "cn_en"
       },
       {
