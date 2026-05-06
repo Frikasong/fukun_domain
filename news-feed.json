@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T02:03:41.935Z",
+  "generatedAt": "2026-05-06T08:10:54.550Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/06/how-ai-first-moritz-is-taking-on-big-law",
+        "title": "How AI-First Moritz Is Taking on Big Law",
+        "url": "https://www.artificiallawyer.com/2026/05/06/how-ai-first-moritz-is-taking-on-big-law/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-06T06:42:19.000Z",
+        "summary": "In this Artificial Lawyer interview, we speak to Moritz co-founder, Pamir Ehsas, whose plan is to take the legal delivery fight to Big Law with ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/columns/article/why&",
         "title": "Why do readers leave? Bryan Garner has some thoughts",
@@ -224,16 +234,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-05-01T06:53:26.000Z",
         "summary": "Microsoft’s entry into contract review* marks the beginning of a new era for the sector. It also marks a likely shift of user behaviour, with ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/04/30/artificial-lawyer-view-on-the-microsoft-legal-agent",
-        "title": "Artificial Lawyer View On The Microsoft Legal Agent",
-        "url": "https://www.artificiallawyer.com/2026/04/30/artificial-lawyer-view-on-the-microsoft-legal-agent/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-04-30T17:09:19.000Z",
-        "summary": "Microsoft has well and truly entered legal tech with its Legal Agent &#8211; see previous AL story. So, why does this matter? Well, Anthropic’s entry ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,56 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/d7ilj0aktbpgs3rcqlqr",
+        "title": "OpenChoreo 1.0 将 AI 代理和 GitOps 引入 Kubernetes 开发平台",
+        "url": "https://www.infoq.cn/article/D7iLJ0aKtBPgS3RCQlQr?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-06T16:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fdadsjrh8tnny6rmrjgm",
+        "title": "“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争",
+        "url": "https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-06T15:55:08.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/934tdhvr1m38vmmppl2r",
+        "title": "阿里高绩效员工年终奖上浮1-2个月；追觅CEO要求所有员工开通社交账号，每天发三条视频；马斯克去年在特斯拉挣了0美元｜AI周报",
+        "url": "https://www.infoq.cn/article/934Tdhvr1m38VmMppL2R?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-06T14:35:38.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wd6xzpmotggzwmpgxeag",
+        "title": "DBmaestro 发布 MCP 服务器：用自然语言操控数据库流水线",
+        "url": "https://www.infoq.cn/article/Wd6XzPmoTggZwMpgXEAg?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-06T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/dwxdrniyhkzd8tv9kctv",
+        "title": "0%准确率！图灵奖得主“石破天”：大模型写SQL远不够格，计算机科学不再是增长行业",
+        "url": "https://www.infoq.cn/article/dWXdRNIyHKzd8TV9kctv?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-06T12:01:04.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/g1owujnmi9slcplwv5yr",
         "title": "从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
         "url": "https://www.infoq.cn/article/G1OWuJNmI9slcpLWv5YR?utm_source=rss&utm_medium=article",
@@ -1220,12 +1270,102 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3797510044228616",
+        "title": "智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent",
+        "url": "https://36kr.com/newsflashes/3797510044228616?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-06T07:46:58.000Z",
+        "summary": "36氪获悉，近日，北京智源人工智能研究院（BAAI）联合首都医科大学附属北京安贞医院、河南医药大学第一附属医院，正式发布业内首个心脏磁共振多模态智能体BAAI Cardiac Agent。这套智能体完成了一站式 “结构分割与分析-功能定量评估-疾病诊断与分类-智能化报告” 的全流程诊疗闭环，基于Agent-Expert架构、能够动态协调多个“专家”子模型的智能体系统，可对心脏核磁共振影像完成端到端自动化分析，自动输出符合临床规范的标准化",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3797488530873608",
+        "title": "过去12个月美光科技股价已暴涨700%",
+        "url": "https://36kr.com/newsflashes/3797488530873608?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-06T07:38:12.000Z",
+        "summary": "截止到美东时间5日收盘，美光科技股价涨幅超过11%，市值达到约7220亿美元，使得它成功跻身美国市值最高的10家科技公司之列。美光科技近期股价表现异常强劲，今年以来累计涨幅达124%，市值增加约3950亿美元；过去12个月股价暴涨近7倍，市值增加超过6200亿美元。研究机构IDC最新报告指出，在人工智能需求的支撑下，存储芯片市场有望摆脱传统周期性波动模式。（央视财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3797166332206338",
+        "title": "从二游到种田：米哈游《星布谷地》能否走出舒适圈",
+        "url": "https://36kr.com/p/3797166332206338?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-06T07:31:54.000Z",
+        "summary": "文丨小葵 编辑丨果脯 2026年，生活模拟赛道正在经历一场“神仙打架”。腾讯的《粒粒的小人国》用微观世界把玩家缩回书桌，网易的《星绘友晴天》在外太空搞起了开荒叙事，而在海外，任天堂也上线了新作《朋友收集：梦想生活》。 4月21日，米哈游的《星布谷地》开启了二测。对他们来说，首次挑战社交大DAU品类的生活模拟游戏，无疑是一次不寻常且有压力的跨界。 自《原神》大火后，米哈游就围绕游戏性做过多次尝试，如主打回合制玩法的《崩坏：星穹铁道》，强调",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3797460138335234",
+        "title": "三星电子借AI热潮市值突破1万亿美元",
+        "url": "https://36kr.com/newsflashes/3797460138335234?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-06T07:10:15.000Z",
+        "summary": "在人工智能相关股票需求蓬勃发展的推动下，三星电子市值突破1万亿美元，成为继台积电之后第二家跻身这一精英俱乐部的东亚企业。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3797457275165952",
+        "title": "北京人工智能产业基金等入股无界动力",
+        "url": "https://36kr.com/newsflashes/3797457275165952?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-06T07:06:19.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，无界动力（北京）技术研发有限公司发生工商变更，新增北京市人工智能产业投资基金（有限合伙）、艾希希比二期控股有限公司、广西北海彬景投资有限公司为股东，注册资本由约16.3万人民币增至约18.6万人民币，同时，部分高管发生变更。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3797465257565187",
+        "title": "A股三大指数集体收涨，全市场超3800股飘红",
+        "url": "https://36kr.com/newsflashes/3797465257565187?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-06T07:01:25.000Z",
+        "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.17%，深成指涨2.33%，创业板指涨2.75%；半导体芯片股集体大涨，江波龙、德明利、兆易创新等涨停，海光信息涨超16%，澜起科技涨超14%，寒武纪涨超7%；AI算力走强，东阳光、通富微电涨停；白酒、油气跌幅居前，五粮液、中国海油跌超4%；个股涨多跌少，全市场超3800股飘红。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3797442919275776",
+        "title": "韩国一季度出口近2200亿美元创历史新高，芯片出口飙升139%",
+        "url": "https://36kr.com/newsflashes/3797442919275776?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-06T06:48:45.000Z",
+        "summary": "韩国产业通商资源部周三表示，受全球人工智能（AI）数据中心强劲增长的推动，韩国今年第一季度出口额创历史新高。据该部门统计，今年1月至3月，韩国出口额达2199亿美元，同比增长37.8%，创下历史最高季度出口纪录。半导体出口成为主要驱动力，同比增长139%至785亿美元，主要得益于人工智能相关服务器投资的激增。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3797276726893569",
+        "title": "科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！",
+        "url": "https://36kr.com/p/3797276726893569?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-06T04:04:59.000Z",
+        "summary": "2026年4月28日，一加正式发布「颗秒神器」一加 Ace 6 至尊版。作为游戏性能旗舰最强之选，一加 Ace 6 至尊版搭载当代旗舰芯天玑9500移动平台，并独家写入���加自研芯片级游戏技术——全新一代「风驰游戏内核」，以持续满帧的165超高帧、颗秒级精准的最强触控、感官更沉浸的满配战术工具，重新定义行业最强射击游戏体验。一加 Ace 6 至尊版配备旗舰同款「冰河散热系统」、同档领先的 8600mAh 超巨量「冰川电池」 + 120",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3797224394284033",
+        "title": "早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”",
+        "url": "https://36kr.com/p/3797224394284033?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-06T02:57:18.000Z",
+        "summary": "“传统工业软件太难用了。” 这是Orthogonal的创始人吉洋和他身边一大批工业界同行的共同感受。 “AI时代，软件开发已经可以用Cursor做vibe coding了，而硬件设计还停留在原始社会”吉洋在接受硬氪采访时表示，达索、ANSYS等巨头构建的，是一个由高昂授权费和极陡学习曲线砌成的“高墙”， Orthogonal想做的，是把“vibe”的方式带入硬件开发。 Orthogonal创始人吉洋曾在德国宇航局（DLR）及工业界深耕了",
+        "category": "skills",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3682907323150215",
         "title": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
         "url": "https://36kr.com/p/3682907323150215?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-06T01:34:20.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。 此前公司已获得多家机构加持，包括高秉强教授、松禾资本、启赋资本、北大张海霞教授旗下ICANX基金等。本轮资金将用于旗下DTC消费医疗产品的上市进程、推进B",
+        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。 此前公司已获得多家机构加持，包括高秉强教授、松禾资本、启赋资本、浩方创投、北大张海霞教授旗下ICANX基金等。本轮资金将用于旗下DTC消费医疗产品的上市进",
         "category": "updates",
         "region": "cn"
       },
@@ -1260,16 +1400,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ir1rjfxfzbchzbukcavl",
-        "title": "CNCF警告：仅靠Kubernetes不足以保障LLM工作负载的安全性",
-        "url": "https://www.infoq.cn/article/IR1rJFXFZbChzBuKcAVl?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-04T12:29:37.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3794799114476809",
         "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
         "url": "https://36kr.com/p/3794799114476809?f=rss",
@@ -1288,27 +1418,17 @@
         "summary": "文｜肖漫 编辑｜李勤 当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。 卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。 “如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。 在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3791796527602951",
-        "title": "又一算力独角兽，冲击IPO",
-        "url": "https://36kr.com/p/3791796527602951?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-02T07:38:58.000Z",
-        "summary": "作者丨韦香惠 来源丨东四十条资本 A股即将迎来一只“算力独角兽”，估值已站上500亿元门槛。 主角是来自河南的超聚变数字技术股份有限公司。从今年1月提交上市辅导备案，到IPO辅导工作完成，仅用四个多月时间。 这家公司并非“从零起步”，其前身是华为X86服务器业务，2021年受外部环境影响被整体剥离，并独立运营。随后，河南超聚能科技有限公司成为控股股东，持股31.38%，后者大股东则为河南国资平台豫信电子科技集团。此外，超聚变第二大股东系",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3352477/why-hong-kongs-tech-index-failing-ride-chinese-ai-stock-boom",
-        "title": "Why Hong Kong’s tech index is failing to ride the Chinese AI stock boom",
-        "url": "https://www.scmp.com/business/china-business/article/3352477/why-hong-kongs-tech-index-failing-ride-chinese-ai-stock-boom?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3352533/chinas-chipmakers-pour-revenue-rd-outpacing-us-ratios",
+        "title": "China’s chipmakers pour revenue into R&D, outpacing US ratios",
+        "url": "https://www.scmp.com/tech/big-tech/article/3352533/chinas-chipmakers-pour-revenue-rd-outpacing-us-ratios?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-05-05T22:00:05.000Z",
-        "summary": "Investor frustration is growing with Hong Kong’s technology index, as the benchmark’s prolonged slide contrasts sharply with the soaring share prices of several Chinese AI firms that recently went public in the city. The",
-        "category": "updates",
+        "publishedAt": "2026-05-06T02:30:05.000Z",
+        "summary": "China’s chip champions channelled a larger proportion of revenue into research and development (R&D) than their US peers, first-quarter earnings show, as Beijing presses ahead with its tech self-reliance drive amid an ar",
+        "category": "articles",
         "region": "cn_en"
       },
       {
@@ -1319,16 +1439,6 @@
         "publishedAt": "2026-05-03T23:00:10.000Z",
         "summary": "DeepSeek’s launch of its latest artificial intelligence model could likely trigger a broad reassessment of stocks across the industry chain from chipmakers to large language model developers, analysts say, with the break",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "The Guardian China:www.theguardian.com/world/2026/apr/27/china-blocks-meta-takeover-manus-ai-agent-developer",
-        "title": "China blocks $2bn Meta takeover of AI agent developer Manus",
-        "url": "https://www.theguardian.com/world/2026/apr/27/china-blocks-meta-takeover-manus-ai-agent-developer",
-        "source": "The Guardian China",
-        "publishedAt": "2026-04-27T14:35:32.000Z",
-        "summary": "Beijing says domestic tech companies must seek explicit government approval for accepting US investment Business live – latest updates China has blocked Meta’s $2bn (£1.5bn) acquisition of an AI startup as it cracks down",
-        "category": "updates",
         "region": "cn_en"
       }
     ]
