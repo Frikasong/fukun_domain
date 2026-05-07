@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T02:06:31.786Z",
+  "generatedAt": "2026-05-07T08:19:46.842Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/07/legal-innovators-paris-june-24-25-top-sponsors-announced",
+        "title": "Legal Innovators Paris – June 24 + 25, Top Sponsors Announced",
+        "url": "https://www.artificiallawyer.com/2026/05/07/legal-innovators-paris-june-24-25-top-sponsors-announced/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-07T07:40:16.000Z",
+        "summary": "Legal Innovators Paris takes place on June 24 and 25, and we can now share with you some of our leading legal tech and legal ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/07/the-rise-of-the-litigation-workspace",
+        "title": "The Rise of the Litigation Workspace",
+        "url": "https://www.artificiallawyer.com/2026/05/07/the-rise-of-the-litigation-workspace/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-07T06:41:29.000Z",
+        "summary": "By Eimear McCann, TrialView. Historically, the transformation of in-house legal departments has been narrated as a contracts story. The rise of the CLM platform, the ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/judge&",
         "title": "DOJ attorney referred for discipline over withheld info regarding detainee wanted for murder",
@@ -204,26 +224,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-05-05T08:53:27.000Z",
         "summary": "Corgi, a new insurance company backed by Y Combinator, is now offering AI liability insurance – for both the AI companies providing the outputs, and ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/05/product-walk-through-thoughtriver-ai-contract-review",
-        "title": "Product Walk Through: ThoughtRiver – AI Contract Review",
-        "url": "https://www.artificiallawyer.com/2026/05/05/product-walk-through-thoughtriver-ai-contract-review/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-05T07:39:03.000Z",
-        "summary": "This week’s AL TV Product Walk Through is with ThoughtRiver, the AI contract review system. In this video we look at a range of features, ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/05/the-front-door-your-legal-team-already-has",
-        "title": "The Front Door Your Legal Team Already Has",
-        "url": "https://www.artificiallawyer.com/2026/05/05/the-front-door-your-legal-team-already-has/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-05T06:43:07.000Z",
-        "summary": "By Jake Jones, Co-founder, Flank. If you lead an enterprise legal team, your intake process is a mess. It’s a function of the chaos begotten ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,12 +1210,92 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/hmobxfjys8ay2pnzwdjg",
+        "title": "马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱",
+        "url": "https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-07T15:29:10.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/7dyslcpbmapylportatv",
+        "title": "Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险",
+        "url": "https://www.infoq.cn/article/7dyslCPBMAPyLporTATv?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-07T15:02:06.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/pk5tllqhqqsukb3anhfh",
+        "title": "JobRunr 发布开源 Java AI 智能体 ClawRunr",
+        "url": "https://www.infoq.cn/article/pk5tLlqhqQsukB3ANhFh?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-07T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/cbndgc799hmfjhz5a7qh",
+        "title": "VoidZero的实验性Oxc Angular编译器发布，构建性能提升高达20倍",
+        "url": "https://www.infoq.cn/article/CBNdGC799hmFJhz5A7qH?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-07T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/w9qpmpqgfmxamxfttnt6",
+        "title": "硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰！",
+        "url": "https://www.infoq.cn/article/w9qpMpQGfmxAmxFttNt6?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-07T14:58:02.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/k1aiymtopstswv999wzr",
+        "title": "AI Infra企业无问芯穹再获超7亿元融资！CEO夏立雪：以中国方案回答全球Token经济核心命题",
+        "url": "https://www.infoq.cn/article/K1aiYMtOPSTswV999WZR?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-07T10:49:43.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/ikcbsersyohvbiz0mbxr",
         "title": "Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
         "url": "https://www.infoq.cn/article/ikCBSErsyohVBiZ0MbxR?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-05-07T08:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3798930573794565",
+        "title": "豪恩汽电：获头部新能源汽车品牌智能驾驶雷达感知系统产品定点",
+        "url": "https://36kr.com/newsflashes/3798930573794565?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-07T07:52:01.000Z",
+        "summary": "36氪获悉，豪恩汽电公告，公司近日收到某头部新能源汽车品牌的智能驾驶雷达感知系统（APA）产品的定点信。该定点信显示，项目生命周期为5年，预估生命周期内总营业额约2.75亿元，预计2027年3月开始量产。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3798889072663809",
+        "title": "腾讯等入股机器人灵巧手研发商临界点",
+        "url": "https://36kr.com/newsflashes/3798889072663809?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-07T07:09:48.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，上海临界点创新智能科技有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司、百度旗下三亚百川致新私募股权投资基金合伙企业（有限合伙）等为股东，同时，注册资本由约554万人民币增至约597万人民币。 该公司成立于今年1月，法定代表人为王闯，经营范围包括人工智能硬件销售、智能机器人销售、智能机器人的研发等，现由智元创新（上海）科技股份有限公司、上海蓝驰新皓创业投资合伙企业（有限合伙）及上述新增股东等共同",
         "category": "updates",
         "region": "cn"
       },
@@ -1227,16 +1307,6 @@
         "publishedAt": "2026-05-07T01:30:00.000Z",
         "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，途见科技（北京）有限公司（以下简称“途见科技”）近日完成Pre-A轮、Pre-A+轮融资，两轮累计金额超亿元，投资方包括联想之星、华控基金、元禾璞华、元禾控股、洪泰基金等。资金将主要用于核心技术研发，机器人全身触觉、触觉手套、触觉数据采集工具链等产品矩阵拓展和生产体系升级，加速市场化落地验证。 途见科技成立于2020年1月，聚焦可拉伸多模态柔性电子皮肤和具身触觉感知系统的研发与制造，以及触觉数据采集工",
         "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3798543249464582",
-        "title": "Upstage与Kakao达成协议，收购韩国第二大搜索引擎Daum",
-        "url": "https://36kr.com/newsflashes/3798543249464582?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-07T01:18:00.000Z",
-        "summary": "韩国人工智能初创公司Upstage周四宣布，已与互联网巨头Kakao正式签署协议，收购韩国第二大搜索引擎Daum。根据协议，Upstage将收购Kakao持有的Daum运营商AXZ Corp．的全部股份，而Kakao将获得Upstage的新股份。双方均未披露协议的具体财务条款。（新浪财经）",
-        "category": "updates",
         "region": "cn"
       },
       {
@@ -1290,16 +1360,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/g1owujnmi9slcplwv5yr",
-        "title": "从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
-        "url": "https://www.infoq.cn/article/G1OWuJNmI9slcpLWv5YR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-06T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3797166332206338",
         "title": "从二游到种田：米哈游《星布谷地》能否走出舒适圈",
         "url": "https://36kr.com/p/3797166332206338?f=rss",
@@ -1338,29 +1398,9 @@
         "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。 此前公司已获得多家机构加持，包括高秉强教授、松禾资本、启赋资本、浩方创投、北大张海霞教授旗下ICANX基金等。本轮资金将用于旗下DTC消费医疗产品的上市进",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3797041945304327",
-        "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
-        "url": "https://36kr.com/p/3797041945304327?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-05T23:55:08.000Z",
-        "summary": "今日热点导览 分析师称iPhone 18 Pro定价策略激进，起步价8999元 胖东来郑州店注册成立，预计今年10月开业 保时捷卖掉布加迪，预计2026年销量下滑至3万辆 马斯克就推特持股披露诉讼与美证监会达成和解 三星继承人已付清12万亿韩元遗产税 TOP 3 大新闻 豆包将在免费模式外新增付费订阅，官方回应 近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3352661/bytedances-ai-subscription-gamble-chatbot-faces-reality-check-china",
-        "title": "ByteDance’s AI subscription gamble: chatbot faces reality check in China",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3352661/bytedances-ai-subscription-gamble-chatbot-faces-reality-check-china?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-07T01:59:51.000Z",
-        "summary": "Chloe Wang, a 26-year-old fund employee in Shenzhen, said she “definitely wouldn’t” pay for a subscription to Doubao, Chinese tech giant ByteDance’s artificial intelligence chatbot, at its proposed price. “I’m willing to",
-        "category": "tools",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3352644/chinas-chipmakers-rush-embrace-deepseeks-v4-which-names-stand-out",
         "title": "China’s chipmakers rush to embrace DeepSeek’s V4. Which names stand out?",
