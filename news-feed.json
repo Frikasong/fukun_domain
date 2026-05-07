@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T13:45:04.968Z",
+  "generatedAt": "2026-05-07T19:28:18.662Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,12 +8,132 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.com/web/article/court&",
+        "title": "Court-appointed advocates make an impact on animal cruelty cases in Connecticut",
+        "url": "https://www.abajournal.com/web/article/court&#45;appointed&#45;advocates&#45;make&#45;an&#45;impact&#45;on&#45;animal&#45;cruelty&#45;cases&#45;in&#45;connecticut/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-07T18:50:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
+        "title": "2 lawyers play key role helping team win world record for unlocking escape rooms",
+        "url": "https://www.abajournal.com/news/article/florida&#45;lawyers&#45;are&#45;part&#45;of&#45;the&#45;key&#45;to&#45;winning&#45;world&#45;record&#45;unlocking&#45;escape&#45;rooms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-07T17:33:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/07/legora-launches-aos-agentic-operating-system",
+        "title": "Legora Launches aOS ‘Agentic Operating System’",
+        "url": "https://www.artificiallawyer.com/2026/05/07/legora-launches-aos-agentic-operating-system/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-07T17:00:00.000Z",
+        "summary": "Legora has launched what it’s calling aOS, an agentic operating system, which they say marks the ‘dawn of Agentic Law’. Sounds great. What is it? ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/georgia&",
+        "title": "Prosecutor suspended by state supreme court for artificial intelligence use in court docs",
+        "url": "https://www.abajournal.com/news/article/georgia&#45;prosecutor&#45;suspended&#45;for&#45;ai&#45;use&#45;by&#45;state&#45;supreme&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-07T15:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawyers&",
+        "title": "Lawyers at Perkins Coie in London work with AI avatars to boost soft skills",
+        "url": "https://www.abajournal.com/news/article/lawyers&#45;at&#45;perkins&#45;coie&#45;in&#45;london&#45;are&#45;working&#45;with&#45;ai&#45;avatars&#45;to&#45;boost&#45;soft&#45;skills/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-07T14:58:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/justice&",
+        "title": "Justice Department accuses lawyers of insider trading ring",
+        "url": "https://www.abajournal.com/news/article/justice&#45;department&#45;accuses&#45;charges&#45;lawyers&#45;for&#45;insider&#45;trading&#45;ring/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-07T14:41:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/backstory-how-ted-turner-reshaped-legal-media-and-my-career.html",
+        "title": "Backstory: How Ted Turner Reshaped Legal Media (and My Career)",
+        "url": "https://www.lawnext.com/2026/05/backstory-how-ted-turner-reshaped-legal-media-and-my-career.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-07T14:33:37.000Z",
+        "summary": "Ted Turner died yesterday at 87, and the obituaries are appropriately full of CNN, the Braves, the America&#8217;s Cup, the bison, and the billion-dollar pledge to the U.N. But there is a small, largely forgotten chapter",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/roberts&",
+        "title": "Supreme Court does not makes its rulings ‘based on popular sentiment,’ Chief Justice Roberts says",
+        "url": "https://www.abajournal.com/news/article/roberts&#45;supreme&#45;court&#45;does&#45;not&#45;makes&#45;its&#45;rulings&#45;based&#45;on&#45;popular&#45;sentiment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-07T14:19:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/05/lexisnexis-expands-lexis-with-protege-adding-agentic-skills-collaboration-workrooms-and-customer-held-encryption-keys.html",
         "title": "LexisNexis Expands Lexis+ with Protégé, Adding Agentic Skills, Collaboration Workrooms, and Customer-Held Encryption Keys",
         "url": "https://www.lawnext.com/2026/05/lexisnexis-expands-lexis-with-protege-adding-agentic-skills-collaboration-workrooms-and-customer-held-encryption-keys.html",
         "source": "LawSites",
         "publishedAt": "2026-05-07T12:00:02.000Z",
         "summary": "Less than three months after replacing Lexis+ AI with Lexis+ with Protégé as its flagship legal AI platform, LexisNexis today is announcing a substantial expansion of that platform – what the company is calling its &#822",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/07/lexis-launches-protege-work-expands-offering",
+        "title": "Lexis Launches Protégé Work, Expands Offering",
+        "url": "https://www.artificiallawyer.com/2026/05/07/lexis-launches-protege-work-expands-offering/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-07T12:00:00.000Z",
+        "summary": "LexisNexis has expanded its Lexis+ AI platform with Protégé Work, along with a new definition of its LLM-based offering as the ‘foundational infrastructure for legal ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/07/scissero-launches-suzie-law-open-source-ai-assistant",
+        "title": "Scissero Launches Suzie Law Open-Source AI Assistant",
+        "url": "https://www.artificiallawyer.com/2026/05/07/scissero-launches-suzie-law-open-source-ai-assistant/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-07T09:37:45.000Z",
+        "summary": "Scissero has launched ‘Suzie Law’, an open-source AI assistant to help lawyers with needs such as drafting and knowledge search, with the ability to ‘adapt ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/07/legal-innovators-paris-june-24-25-top-sponsors-announced",
+        "title": "Legal Innovators Paris – June 24 + 25, Top Sponsors Announced",
+        "url": "https://www.artificiallawyer.com/2026/05/07/legal-innovators-paris-june-24-25-top-sponsors-announced/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-07T07:40:16.000Z",
+        "summary": "Legal Innovators Paris takes place on June 24 and 25, and we can now share with you some of our leading legal tech and legal ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/07/the-rise-of-the-litigation-workspace",
+        "title": "The Rise of the Litigation Workspace",
+        "url": "https://www.artificiallawyer.com/2026/05/07/the-rise-of-the-litigation-workspace/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-07T06:41:29.000Z",
+        "summary": "By Eimear McCann, TrialView. Historically, the transformation of in-house legal departments has been narrated as a contracts story. The rise of the CLM platform, the ...",
         "category": "tools",
         "region": "na"
       },
@@ -58,62 +178,42 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/california&",
-        "title": "State Bar of California proposes first AI-specific changes to ethics rules",
-        "url": "https://www.abajournal.com/news/article/california&#45;bar&#45;proposes&#45;first&#45;ai&#45;specific&#45;changes&#45;to&#45;ethics&#45;rules/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-06T14:58:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/06/harvey-launches-legal-agent-bench",
+        "title": "Harvey Launches ‘Legal Agent Bench’",
+        "url": "https://www.artificiallawyer.com/2026/05/06/harvey-launches-legal-agent-bench/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-06T15:31:19.000Z",
+        "summary": "Agents&#8230;.they sound great, but do these autonomous programs actually do what you want? Are they accurate? Are they reliable? Enter Legal Agent Benchmark by Harvey, ...",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
-        "title": "DOJ offers $25K signing bonuses to address lawyer shortage",
-        "url": "https://www.abajournal.com/news/article/doj&#45;offers&#45;25000&#45;signing&#45;bonuses&#45;as/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-06T14:19:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/06/legora-buys-graceview-for-compliance-needs",
+        "title": "Legora Buys Graceview For Compliance Needs",
+        "url": "https://www.artificiallawyer.com/2026/05/06/legora-buys-graceview-for-compliance-needs/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-06T10:13:45.000Z",
+        "summary": "Legora is buying Australian startup Graceview, a ‘regulatory horizon scanning platform’. It follows the deal to buy legal research company Qura just a week ago. ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/06/law-firms-do-innovation-x4",
+        "title": "Law Firms Do Innovation X4",
+        "url": "https://www.artificiallawyer.com/2026/05/06/law-firms-do-innovation-x4/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-06T08:26:15.000Z",
+        "summary": "Here are four bits of news covering recent law firm innovation moves, featuring: Linklaters, Foley, K&#38;L Gates, and Kingsley Napley. &#8212; Linklaters has launched &#8216;Applied ...",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/columns/article/taking&",
-        "title": "Taking dead relatives from graves, bringing them home is illegal, but this community (and prosecutor) understood",
-        "url": "https://www.abajournal.com/columns/article/taking&#45;dead&#45;relatives&#45;from&#45;their&#45;graves&#45;and&#45;bringing&#45;them&#45;home&#45;is&#45;illegal&#45;but&#45;maybe&#45;understandable/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-06T13:51:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/why&",
-        "title": "Why do readers leave? Bryan Garner has some thoughts",
-        "url": "https://www.abajournal.com/columns/article/why&#45;do&#45;readers&#45;leave&#45;bryan&#45;garner&#45;has&#45;some&#45;thoughts/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-05T18:08:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/it&",
-        "title": "It Ends With Them: Blake Lively, Justin Baldoni lawsuit reaches settlement",
-        "url": "https://www.abajournal.com/news/article/it&#45;ends&#45;with&#45;a&#45;settlement&#45;the&#45;blake&#45;lively&#45;and&#45;justin&#45;baldoni&#45;lawsuit&#45;gets&#45;closure/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-05T15:59:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/alabama&",
-        "title": "Alabama cuts ABA Legal Ed council from bar licensure process",
-        "url": "https://www.abajournal.com/web/article/alabama&#45;cuts&#45;aba&#45;council&#45;from&#45;bar&#45;licensure&#45;process/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-05T15:32:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/06/how-ai-first-moritz-is-taking-on-big-law",
+        "title": "How AI-First Moritz Is Taking on Big Law",
+        "url": "https://www.artificiallawyer.com/2026/05/06/how-ai-first-moritz-is-taking-on-big-law/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-06T06:42:19.000Z",
+        "summary": "In this Artificial Lawyer interview, we speak to Moritz co-founder, Pamir Ehsas, whose plan is to take the legal delivery fight to Big Law with ...",
         "category": "updates",
         "region": "na"
       },
@@ -124,6 +224,16 @@
         "source": "LawSites",
         "publishedAt": "2026-05-05T15:03:09.000Z",
         "summary": "When using any technology — including AI — a lawyer &#8220;must independently review, verify, and exercise professional judgment regarding any output generated by the technology that is used in connection with representi",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/05/we-want-to-be-the-biggest-law-firm-in-the-world",
+        "title": "‘We Want To Be the Biggest Law Firm in the World’",
+        "url": "https://www.artificiallawyer.com/2026/05/05/we-want-to-be-the-biggest-law-firm-in-the-world/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-05T14:04:28.000Z",
+        "summary": "Y Combinator-backed NewMod, Moritz, formerly Arcline, has raised $9m &#8211; including investment from founders from Reddit, Dropbox, HuggingFace, and many more senior tech industry figures. ...",
         "category": "updates",
         "region": "na"
       },
@@ -1068,16 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/01/london-based-antidote-raises-5m-to-automate-law-firm-billing-compliance-and-drive-u-s-expansion.html",
-        "title": "London-Based Antidote Raises $5M to Automate Law Firm Billing Compliance and Drive U.S. Expansion",
-        "url": "https://www.lawnext.com/2026/01/london-based-antidote-raises-5m-to-automate-law-firm-billing-compliance-and-drive-u-s-expansion.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-21T08:00:57.000Z",
-        "summary": "Antidote, an AI-powered billing compliance platform for law firms, announced today it has raised $5 million in seed funding led by Lakestar, with participation from Concept Ventures, The LegalTech Fund, and several unnam",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1105,36 +1205,6 @@
         "publishedAt": "2024-05-06T00:00:00.000Z",
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
         "region": "na"
       }
     ],
