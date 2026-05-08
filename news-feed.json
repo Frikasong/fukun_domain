@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T19:28:18.662Z",
+  "generatedAt": "2026-05-08T02:12:55.238Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -85,6 +85,16 @@
         "publishedAt": "2026-05-07T14:19:00.000Z",
         "summary": "",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+        "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+        "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-07T13:00:00.000Z",
+        "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+        "category": "articles",
         "region": "na"
       },
       {
@@ -1196,19 +1206,89 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/nudf12di1whvaqx3qdgs",
+        "title": "算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "url": "https://www.infoq.cn/article/NUDF12Di1WHvAQX3qdGS?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-08T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3800006173973760",
+        "title": "“阶跃星辰”将完成近25亿美元融资",
+        "url": "https://36kr.com/newsflashes/3800006173973760?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-08T02:06:10.000Z",
+        "summary": "36氪获悉，国产大模型公司“阶跃星辰”将完成近 25 亿美元融资，并已拆除红筹架构，加速赴港IPO准备。据了解，最新融资中产业链资本集中入场，包括华勤、龙旗、豪威、中兴等；此外， 香港投资管理有限公司（HKIC）也出现在股东名单中。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3799989766429697",
+        "title": "英伟达CEO黄仁勋：下一代AI基础设施将需要大量的光学连接，铜线已无法满足需求",
+        "url": "https://36kr.com/newsflashes/3799989766429697?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-08T01:49:29.000Z",
+        "summary": "美东时间周三，英伟达首席执行官黄仁勋在接受采访时，大力赞扬其与康宁公司的新合作项目，称其为美国重建技术供应链带来重要机遇。黄仁勋表示，下一代人工智能基础设施将需要大量的光学连接，因为计算需求正在迅速增长，以至于铜线已经无法满足需求。“我们将以一种前所未有的规模来扩大光学技术的应用，坦率地说，没有哪家光学公司曾有过这样的规模。”黄仁勋说道。黄仁勋还表示，当前这波人工智能投资所带来的益处远不止惠及科技公司。他指出，AI产业对电工、建筑工人、",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3799984046333186",
+        "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
+        "url": "https://36kr.com/p/3799984046333186?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-08T01:45:14.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投资，本轮继续跟投，并担任长期独家财务顾问。 AI浪潮下，算力需求激增，传统以CPU为中心的架构瓶颈愈发凸显：CPU成为数据调度与交互的核心限制，GPU之间通信效",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3799129165863937",
+        "title": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
+        "url": "https://36kr.com/p/3799129165863937?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-08T01:31:04.000Z",
+        "summary": "作者｜黄楠 周鑫雨 编辑｜袁斯来 杨轩 硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元； 目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。 有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。 一名接近Plaud人士告诉硬氪，Plaud在2024年的总营收约5600万美金，利润率接近20%，“2025年营收差",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3799967438756872",
+        "title": "A股三大指数集体低开，半导体、光模块概念领跌",
+        "url": "https://36kr.com/newsflashes/3799967438756872?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-08T01:26:46.000Z",
+        "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.39%，深成指低开0.78%，创业板指低开1.07%；半导体、光模块概念领跌，长光华芯、赛英电子跌超4%，光库科技、罗博特科跌超3%；AI应用走强，引力传媒逼近涨停，蓝色光标涨超2%；油气板块涨幅居前，首华燃气张阿红35。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3799949875617031",
+        "title": "Anthropic旗下Mythos模型打乱白宫人工智能战略",
+        "url": "https://36kr.com/newsflashes/3799949875617031?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-08T01:15:47.000Z",
+        "summary": "美国副总统万斯近日在与科技企业首席执行官的通话中，对Anthropic的Mythos等新型人工智能模型表达了担忧与警惕。万斯表示，以Anthropic推出的Mythos为代表的新型AI模型，能够自主挖掘软件漏洞；这类模型可发起网络攻击，冲击乡镇银行、医院及供水设施，而地方政府并无能力应对此类风险。据知情人士透露，万斯向一众企业首席执行官表示：“我们各方必须就此展开协作。”（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3799930271128837",
+        "title": "澳监管机构敦促金融业应对Mythos等人工智能模型的网络安全风险",
+        "url": "https://36kr.com/newsflashes/3799930271128837?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-08T00:58:52.000Z",
+        "summary": "澳大利亚证券和投资委员会（ASIC）周五公布了一封致金融服务业的信函，信中指出，必须采取更多措施，确保网络安全措施尽可能完善。“网络风险已进入一个新时代，前沿人工智能模型的出现既带来了机遇，也显著增加了风险，其暴露漏洞的速度远超许多人的想象，”ASIC委员西蒙娜·康斯坦特表示。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/hmobxfjys8ay2pnzwdjg",
         "title": "马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱",
@@ -1306,36 +1386,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-05-06T16:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3797482256325888",
-        "title": "氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债",
-        "url": "https://36kr.com/p/3797482256325888?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-06T11:25:44.000Z",
-        "summary": "大公司： SpaceX提议投入550亿美元在得州启动Terafab项目 埃隆·马斯克旗下的SpaceX公司提议斥资550亿美元，在得克萨斯州启动一座名为Terafab的新半导体生产设施的建设。根据格兰姆斯县官网发布的一份公告，如果该项目的后续阶段得以完成，预计总投资额可能升至1190亿美元。（财联社） 三星电子借AI热潮市值突破1万亿美元 在人工智能相关股票需求蓬勃发展的推动下，三星电子市值突破1万亿美元，成为继台积电之后第二家跻身这一",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3797166332206338",
-        "title": "从二游到种田：米哈游《星布谷地》能否走出舒适圈",
-        "url": "https://36kr.com/p/3797166332206338?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-06T07:31:54.000Z",
-        "summary": "文丨小葵 编辑丨果脯 2026年，生活模拟赛道正在经历一场“神仙打架”。腾讯的《粒粒的小人国》用微观世界把玩家缩回书桌，网易的《星绘友晴天》在外太空搞起了开荒叙事，而在海外，任天堂也上线了新作《朋友收集：梦想生活》。 4月21日，米哈游的《星布谷地》开启了二测。对他们来说，首次挑战社交大DAU品类的生活模拟游戏，无疑是一次不寻常且有压力的跨界。 自《原神》大火后，米哈游就围绕游戏性做过多次尝试，如主打回合制玩法的《崩坏：星穹铁道》，强调",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3797276726893569",
-        "title": "科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！",
-        "url": "https://36kr.com/p/3797276726893569?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-06T04:04:59.000Z",
-        "summary": "2026年4月28日，一加正式发布「颗秒神器」一加 Ace 6 至尊版。作为游戏性能旗舰最强之选，一加 Ace 6 至尊版搭载当代旗舰芯天玑9500移动平台，并独家写入一加自研芯片级游戏技术——全新一代「风驰游戏内核」，以持续满帧的165超高帧、颗秒级精准的最强触控、感官更沉浸的满配战术工具，重新定义行业最强射击游戏体验。一加 Ace 6 至尊版配备旗舰同款「冰河散热系统」、同档领先的 8600mAh 超巨量「冰川电池」 + 120W ",
         "category": "updates",
         "region": "cn"
       }
