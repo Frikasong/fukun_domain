@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T02:12:55.238Z",
+  "generatedAt": "2026-05-08T07:18:22.984Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -85,16 +85,6 @@
         "publishedAt": "2026-05-07T14:19:00.000Z",
         "summary": "",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-        "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-        "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-07T13:00:00.000Z",
-        "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-        "category": "articles",
         "region": "na"
       },
       {
@@ -1206,6 +1196,16 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
@@ -1220,22 +1220,42 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3800006173973760",
-        "title": "“阶跃星辰”将完成近25亿美元融资",
-        "url": "https://36kr.com/newsflashes/3800006173973760?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3800299958279169",
+        "title": "报告：超四成消费者使用AI工具对比保险产品",
+        "url": "https://36kr.com/newsflashes/3800299958279169?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-08T02:06:10.000Z",
-        "summary": "36氪获悉，国产大模型公司“阶跃星辰”将完成近 25 亿美元融资，并已拆除红筹架构，加速赴港IPO准备。据了解，最新融资中产业链资本集中入场，包括华勤、龙旗、豪威、中兴等；此外， 香港投资管理有限公司（HKIC）也出现在股东名单中。",
+        "publishedAt": "2026-05-08T07:05:01.000Z",
+        "summary": "36氪获悉，5月7日，元保联合清华大学五道口金融学院中国保险与养老金融研究中心发布《2025年中国互联网保险消费者洞察报告》。《报告》显示，2025年，通过AI大模型或相关APP了解保险信息的消费者占比达16%，同比增长60%。超四成消费者会使用AI工具对比保险产品，以快速梳理产品保障责任、保费价格、理赔条件等信息；超半数消费者将AI推荐产品作为购险参考项，但仅15%真正将AI推荐作为核心决策。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3799989766429697",
-        "title": "英伟达CEO黄仁勋：下一代AI基础设施将需要大量的光学连接，铜线已无法满足需求",
-        "url": "https://36kr.com/newsflashes/3799989766429697?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3800237602020361",
+        "title": "“未来智能”完成亿元级A+轮融资，与传音合作打造下一代AI Agent硬件",
+        "url": "https://36kr.com/newsflashes/3800237602020361?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-08T01:49:29.000Z",
-        "summary": "美东时间周三，英伟达首席执行官黄仁勋在接受采访时，大力赞扬其与康宁公司的新合作项目，称其为美国重建技术供应链带来重要机遇。黄仁勋表示，下一代人工智能基础设施将需要大量的光学连接，因为计算需求正在迅速增长，以至于铜线已经无法满足需求。“我们将以一种前所未有的规模来扩大光学技术的应用，坦率地说，没有哪家光学公司曾有过这样的规模。”黄仁勋说道。黄仁勋还表示，当前这波人工智能投资所带来的益处远不止惠及科技公司。他指出，AI产业对电工、建筑工人、",
+        "publishedAt": "2026-05-08T06:01:35.000Z",
+        "summary": "5月8日，AI硬件公司“未来智能”完成亿元级A+轮融资，传音参投并达成战略合作。双方将整合各自在硬件研发及全球渠道上的优势，共同打造具备自主感知与执行能力的下一代AI Agent硬件。据了解，本轮融资资金将重点用于两大方向：一是加大AI Agent领域的人才投入和生态建设，二是拓展上游供应链，联合核心元器件厂商共同开发面向“AI听”与“AI看”的专用硬件组件，构建下一代AI硬件的底层能力。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3800195184336135",
+        "title": "小鹏第二代VIA智驾里程占比突破50%",
+        "url": "https://36kr.com/newsflashes/3800195184336135?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-08T05:18:26.000Z",
+        "summary": "36氪获悉，5月8日，小鹏汽车披露，第二代VLA系统推送一个月后，智驾里程占比已突破50%。同期，小鹏第二代VLA百公里接管次数环比下降25.87%，全程100%使用VLA的行程数环比增长27.84%。五一假期期间，小鹏AI辅助驾驶每日使用率达到93.21%，累计行驶里程8446万公里，单车最长智驾里程达到5441公里。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3799028783439111",
+        "title": "最强「种草」帝国，为何突然加速 AI",
+        "url": "https://36kr.com/p/3799028783439111?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-08T04:38:43.000Z",
+        "summary": "作者 | 肖思佳 编辑 | 乔芊 杨轩 所有互联网大中厂都渴望在AI时代博得位置，在这场比赛中，小红书曾是克制的那个。 在一个搜索属性与社区属性并存，以真实经验分享为核心的产品中，活人感与AI、温情和算法，始终像天平的两端。 很长一段时间里，小红书既没有完全缺席技术探索，也没有像许多同行那样高调推进AI产品化。相反，这家公司始终在两股力量的拉锯和平衡中前行：一边持续投入模型能力，一边谨慎控制AI对社区生态的介入。 但2026年，随着Ag",
         "category": "updates",
         "region": "cn"
       },
@@ -1256,36 +1276,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-08T01:31:04.000Z",
         "summary": "作者｜黄楠 周鑫雨 编辑｜袁斯来 杨轩 硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元； 目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。 有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。 一名接近Plaud人士告诉硬氪，Plaud在2024年的总营收约5600万美金，利润率接近20%，“2025年营收差",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3799967438756872",
-        "title": "A股三大指数集体低开，半导体、光模块概念领跌",
-        "url": "https://36kr.com/newsflashes/3799967438756872?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-08T01:26:46.000Z",
-        "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.39%，深成指低开0.78%，创业板指低开1.07%；半导体、光模块概念领跌，长光华芯、赛英电子跌超4%，光库科技、罗博特科跌超3%；AI应用走强，引力传媒逼近涨停，蓝色光标涨超2%；油气板块涨幅居前，首华燃气张阿红35。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3799949875617031",
-        "title": "Anthropic旗下Mythos模型打乱白宫人工智能战略",
-        "url": "https://36kr.com/newsflashes/3799949875617031?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-08T01:15:47.000Z",
-        "summary": "美国副总统万斯近日在与科技企业首席执行官的通话中，对Anthropic的Mythos等新型人工智能模型表达了担忧与警惕。万斯表示，以Anthropic推出的Mythos为代表的新型AI模型，能够自主挖掘软件漏洞；这类模型可发起网络攻击，冲击乡镇银行、医院及供水设施，而地方政府并无能力应对此类风险。据知情人士透露，万斯向一众企业首席执行官表示：“我们各方必须就此展开协作。”（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3799930271128837",
-        "title": "澳监管机构敦促金融业应对Mythos等人工智能模型的网络安全风险",
-        "url": "https://36kr.com/newsflashes/3799930271128837?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-08T00:58:52.000Z",
-        "summary": "澳大利亚证券和投资委员会（ASIC）周五公布了一封致金融服务业的信函，信中指出，必须采取更多措施，确保网络安全措施尽可能完善。“网络风险已进入一个新时代，前沿人工智能模型的出现既带来了机遇，也显著增加了风险，其暴露漏洞的速度远超许多人的想象，”ASIC委员西蒙娜·康斯坦特表示。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1347,36 +1337,6 @@
         "publishedAt": "2026-05-07T08:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3797155747748867",
-        "title": "斯坦福博士后创立的柔性触觉传感器公司获超亿元融资，低成本触觉手套将量产落地｜硬氪首发",
-        "url": "https://36kr.com/p/3797155747748867?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-07T01:30:00.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，途见科技（北京）有限公司（以下简称“途见科技”）近日完成Pre-A轮、Pre-A+轮融资，两轮累计金额超亿元，投资方包括联想之星、华控基金、元禾璞华、元禾控股、洪泰基金等。资金将主要用于核心技术研发，机器人全身触觉、触觉手套、触觉数据采集工具链等产品矩阵拓展和生产体系升级，加速市场化落地验证。 途见科技成立于2020年1月，聚焦可拉伸多模态柔性电子皮肤和具身触觉感知系统的研发与制造，以及触觉数据采集工",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3797787228151048",
-        "title": "像素绽放PixelBloom完成C轮融资，全面发力AI办公解决方案Agent：从“一分钟生成PPT”到“交付商用级结果”",
-        "url": "https://36kr.com/p/3797787228151048?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-07T01:00:00.000Z",
-        "summary": "作者｜梁键强 △图片来源：像素绽放PixelBloom AI办公正在进入下一个阶段。 随着AI进入办公场景，写文档、做设计、生成PPT等原本耗时耗力的工作，开始被AI快速接手。但到目前为止，大多数AI办公产品仍停留在“生成内容”和“提升效率”的阶段。相比一个只会辅助完成任务的工具，市场更需要的，是一个能够直接理解需求、输出完整方案、交付结果的AI助手。 近日，像素绽放PixelBloom（旗下核心产品 AiPPT.com ，以下简称像素",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3798462137637892",
-        "title": "8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元",
-        "url": "https://36kr.com/p/3798462137637892?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-06T23:58:15.000Z",
-        "summary": "今日热点导览 小米汽车：新一代SU7上市仅48天，锁单已超过80000台 胖东来19名管理人员被降级，1名管理人员被免职 追觅俞浩：建议年轻人别炒股 五一档票房7.58亿元 三星电子借AI热潮市值突破1万亿美元 TOP3大新闻 三星宣布停止在中国大陆市场销售所有家电产品 5月6日，三星电子在官网发布公告称，为应对急剧变化的市场环境，经慎重研究，三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品。 针对已购买三星家电产品的",
-        "category": "articles",
         "region": "cn"
       },
       {
