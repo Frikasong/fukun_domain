@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T02:06:37.738Z",
+  "generatedAt": "2026-05-09T07:45:26.969Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,22 +1210,82 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/w9r1dwxom3ykbjzcv94h",
-        "title": "DuckLake 1.0：具有SQL目录元数据的数据湖格式",
-        "url": "https://www.infoq.cn/article/w9R1DwXoM3yKbjzcV94H?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/foy8aahy8bspvenwwtq1",
+        "title": "Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下",
+        "url": "https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-09T09:53:43.000Z",
+        "publishedAt": "2026-05-09T12:26:47.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3801359034113538",
-        "title": "阿波罗和黑石等机构考虑参与博通近350亿美元融资",
-        "url": "https://36kr.com/newsflashes/3801359034113538?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/wvrsqdh2uloyeu4f6gb0",
+        "title": "Cloudflare构建了面向LLM的高性能基础设施",
+        "url": "https://www.infoq.cn/article/wvRSqDH2uloYeu4f6GB0?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-09T12:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/yawwcrb4ebyrshyvaw2q",
+        "title": "技术·艺术· 算术：京东零售 AIGC 百亿素材供给实践",
+        "url": "https://www.infoq.cn/article/YAWWcRb4eBYRSHyVAw2Q?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-09T11:12:41.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3801731549371905",
+        "title": "百度正式发布文心大模型5.1",
+        "url": "https://36kr.com/newsflashes/3801731549371905?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-09T01:08:28.000Z",
-        "summary": "据报道， 阿波罗全球管理公司和黑石集团都在参与同博通洽谈约350亿美元融资的私募信贷贷款机构之列。据悉，这笔融资将帮助博通为人工智能任务芯片的开发提供资金。知情人士称，洽谈仍在进行，条款可能发生变化。（界面）",
+        "publishedAt": "2026-05-09T07:21:19.000Z",
+        "summary": "36氪获悉，百度正式发布新一代基础大模型文心大模型 5.1。据官方介绍，文心 5.1采用“多维弹性预训练”技术，仅以业界同规模模型约6%的预训练成本，达到基础效果领先水平，登上LMArena搜索榜国内第一。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3801709226483208",
+        "title": "智源FlagSafe平台正式发布",
+        "url": "https://36kr.com/newsflashes/3801709226483208?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-09T07:09:33.000Z",
+        "summary": "36氪获悉，近日，北京智源人工智能研究院联合北京大学、北京邮电大学、北京航空航天大学、上海交通大学、中国科学院信息工程研究所、中国科学院计算技术研究所等国内机构，正式发布FlagSafe大模型安全平台。平台首批汇聚多个前沿大模型安全研究项目，围绕红队演练、蓝队防御、白盒透视三个核心方向，共同打造覆盖风险发现、防御治理与机理解释的高标准安全平台。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3801625136684804",
+        "title": "东土科技等在湖北成立智能机器人产业发展公司，注册资本3.5亿",
+        "url": "https://36kr.com/newsflashes/3801625136684804?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-09T05:48:10.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，湖北省智能机器人产业发展有限公司成立，法定代表人为李平，注册资本3.5亿人民币，经营范围包括工业自动控制系统装置制造、人工智能基础软件开发、人工智能应用软件开发、智能机器人的研发等，由东土科技、宜昌启宸投资发展有限公司、上海科鸿创智技术有限公司共同持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3801547699281665",
+        "title": "小鹏汽车：公司近期并未被“约谈”，也不存在被立案调查",
+        "url": "https://36kr.com/newsflashes/3801547699281665?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-09T04:14:17.000Z",
+        "summary": "36氪获悉，小鹏汽车法务部发文称，公司关注到，部分社交账号通过AI应用，恶意炒作“8家新能源车企被集中约谈”“3家涉嫌违规被立案调查”等信息，并将公司纳入名单，对公司品牌和声誉造成恶劣影响。经核实，公司近期并未收到此类不实信息提到的所谓“约谈”，也不存在被立案调查。公司已经对相关制谣传谣主体进行取证，后续会依法追究其法律责任。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3801461350702855",
+        "title": "AI开始接管年轻人的「精神自留地」",
+        "url": "https://36kr.com/p/3801461350702855?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-09T02:54:40.000Z",
+        "summary": "撰文｜锅包柚 封面来源｜Unsplash（AI辅助扩图） 五一假期已经结束，但打工人的“节后综合症”并未消退。 面对永远99+的工作群消息，和改不完的PPT，打工人蝈蝈在摸鱼时打开灵光APP里的一个小游戏——“老板被我fire了”。 屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击， 伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛扁、原地暴富的爽感。 “老板被我fire了” 这个让蝈蝈短暂",
         "category": "updates",
         "region": "cn"
       },
@@ -1250,33 +1310,13 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3800629382945794",
-        "title": "2连板北投科技：主营业务收入构成不涉及人工智能等相关热门概念",
-        "url": "https://36kr.com/newsflashes/3800629382945794?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-08T12:40:08.000Z",
-        "summary": "36氪获悉，北投科技公告，公司未发现近期公共传媒报道了可能或已经对公司股票交易价格产生较大影响的未公开重大信息、市场传闻，目前公司主营业务收入构成不涉及人工智能等相关热门概念。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3800615656741890",
-        "title": "海光DCU完成与混元Hy3 preview大模型的深度适配",
-        "url": "https://36kr.com/newsflashes/3800615656741890?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-08T12:26:10.000Z",
-        "summary": "36氪获悉，近日，海光信息完成深算3号DCU与腾讯混元Hy3 preview大模型的深度适配。据了解，腾讯混元Hy3 preview是腾讯最新发布的大模型版本，具备295B总参数规模，并支持256K超长上下文，在复杂推理、Agent能力和代码生成等方面实现提升。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3800574318976257",
-        "title": "DeepSeek拟募资最高500亿元",
-        "url": "https://36kr.com/newsflashes/3800574318976257?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-08T11:44:07.000Z",
-        "summary": "据报道，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以来最大的一轮融资。。（财联社）",
-        "category": "updates",
+        "id": "InfoQ China:www.infoq.cn/article/dwbovzphly2hgob0twsu",
+        "title": "DoorDash利用Copilot将基于XCTest的iOS测试套件转换为Swift Testing",
+        "url": "https://www.infoq.cn/article/dWBoVzphLY2HgoB0TwsU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-08T16:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "tools",
         "region": "cn"
       },
       {
@@ -1318,39 +1358,19 @@
         "summary": "作者｜黄楠 周鑫雨 编辑｜袁斯来 杨轩 硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元； 目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。 有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。 一名接近Plaud人士告诉硬氪，Plaud在2024年的总营收约5600万美金，利润率接近20%，“2025年营收差",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hmobxfjys8ay2pnzwdjg",
-        "title": "马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱",
-        "url": "https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-07T15:29:10.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/7dyslcpbmapylportatv",
-        "title": "Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险",
-        "url": "https://www.infoq.cn/article/7dyslCPBMAPyLporTATv?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-07T15:02:06.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/k1aiymtopstswv999wzr",
-        "title": "AI Infra企业无问芯穹再获超7亿元融资！CEO夏立雪：以中国方案回答全球Token经济核心命题",
-        "url": "https://www.infoq.cn/article/K1aiYMtOPSTswV999WZR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-07T10:49:43.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3352938/chinas-huaqiangbei-bets-ai-innovations-revive-global-appeal",
+        "title": "China’s Huaqiangbei bets on AI innovations to revive global appeal",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3352938/chinas-huaqiangbei-bets-ai-innovations-revive-global-appeal?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-09T07:00:05.000Z",
+        "summary": "Huaqiangbei, home to the world’s largest electronics marketplace in southern China’s tech hub Shenzhen, is reinventing itself as the world’s artificial intelligence showroom, drawing back foreign traders and tourists hun",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3352945/deepseek-soon-close-first-external-fundraising-us50b-valuation-sources",
         "title": "DeepSeek to soon close first external fundraising in US$50b valuation: sources",
@@ -1368,16 +1388,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-05-06T12:30:05.000Z",
         "summary": "The release of DeepSeek’s latest large language model, V4, has been followed by a wave of adoption among domestic semiconductor manufacturers and artificial intelligence chipmakers, with firms racing to support the model",
-        "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3352126/who-could-gain-deepseeks-v4-china-chips-poised-stronger-demand",
-        "title": "Who could gain from DeepSeek’s V4 with China chips poised for stronger demand?",
-        "url": "https://www.scmp.com/business/china-business/article/3352126/who-could-gain-deepseeks-v4-china-chips-poised-stronger-demand?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-03T23:00:10.000Z",
-        "summary": "DeepSeek’s launch of its latest artificial intelligence model could likely trigger a broad reassessment of stocks across the industry chain from chipmakers to large language model developers, analysts say, with the break",
         "category": "tools",
         "region": "cn_en"
       }
