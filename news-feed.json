@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T19:06:15.063Z",
+  "generatedAt": "2026-05-09T02:06:37.738Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/w9r1dwxom3ykbjzcv94h",
+        "title": "DuckLake 1.0：具有SQL目录元数据的数据湖格式",
+        "url": "https://www.infoq.cn/article/w9R1DwXoM3yKbjzcV94H?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-09T09:53:43.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3801359034113538",
+        "title": "阿波罗和黑石等机构考虑参与博通近350亿美元融资",
+        "url": "https://36kr.com/newsflashes/3801359034113538?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-09T01:08:28.000Z",
+        "summary": "据报道， 阿波罗全球管理公司和黑石集团都在参与同博通洽谈约350亿美元融资的私募信贷贷款机构之列。据悉，这笔融资将帮助博通为人工智能任务芯片的开发提供资金。知情人士称，洽谈仍在进行，条款可能发生变化。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/gakvcqphr0a1r2plswdz",
         "title": "Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上",
         "url": "https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&utm_medium=article",
@@ -1320,32 +1340,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3786528811572481",
-        "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
-        "url": "https://36kr.com/p/3786528811572481?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-07T11:31:32.000Z",
-        "summary": "文｜王毓婵 周鑫雨 编辑｜杨轩 “看流水（即营收），AI视频类这些项目的表现确实很不错，可以说是AI最赚钱的细分赛道之一。”投资行业人士对36氪说。 中国 AI 视频生成赛道，正在经历大厂模型能力疯狂增长的巨大红利。来自字节跳动的Seedance和来自快手的可灵这两款“超级底座”正在进行一周一小版、两月一大版的高频迭代。阿里巴巴也在4月底，对视频生成模型HappyHorse 1.0开启灰测，720P视频生成刊例价为0.9元/秒。 愿意为",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/k1aiymtopstswv999wzr",
         "title": "AI Infra企业无问芯穹再获超7亿元融资！CEO夏立雪：以中国方案回答全球Token经济核心命题",
         "url": "https://www.infoq.cn/article/K1aiYMtOPSTswV999WZR?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-05-07T10:49:43.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3799089350712324",
-        "title": "氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元",
-        "url": "https://36kr.com/p/3799089350712324?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-07T10:47:09.000Z",
-        "summary": "大公司： 腾讯等入股机器人灵巧手研发商临界点 36氪获悉，天眼查App显示，近日，上海临界点创新智能科技有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司、百度旗下三亚百川致新私募股权投资基金合伙企业（有限合伙）等为股东，同时，注册资本由约554万人民币增至约597万人民币。 该公司成立于今年1月，法定代表人为王闯，经营范围包括人工智能硬件销售、智能机器人销售、智能机器人的研发等，现由智元创新（上海）科技股份有限公司、上海蓝驰新皓创",
         "category": "updates",
         "region": "cn"
       }
