@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T02:07:57.147Z",
+  "generatedAt": "2026-05-10T07:58:46.862Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,36 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/duka4afm1uaemx23f2zb",
+        "title": "GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控",
+        "url": "https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-10T15:11:06.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/yopjqur36lzkru5tpjap",
+        "title": "Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估",
+        "url": "https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-10T15:07:51.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fdqx4ekaqcvbqhfm2mku",
+        "title": "微服务架构进化：从业务加一堆横切代码到 Sidecar 解耦",
+        "url": "https://www.infoq.cn/article/FDQX4EkaqcvBQHFm2mKU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-10T15:05:05.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/sh3kw4ymjqa3odhyfpm7",
         "title": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
         "url": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&utm_medium=article",
@@ -1220,12 +1250,22 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/49peofdkbrncvx41wno7",
-        "title": "借助全新的安全概览仪表板，Cloudflare每日处理超过1000万条洞察数据",
-        "url": "https://www.infoq.cn/article/49peofDkBrNCVx41WNO7?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-10T08:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3803150542675465",
+        "title": "算力、绿能协同悄然提速",
+        "url": "https://36kr.com/newsflashes/3803150542675465?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-10T07:24:47.000Z",
+        "summary": "5月10日，2026年，算电协同被写入政府工作报告，成为社会关注的热词。“十五五”规划纲要也明确提出，推动绿色电力与算力协同布局。记者近日走访了解到，内蒙古、宁夏、贵州等新能源富集地区，通过布局建设源网荷储一体化、绿电直连等重点项目，充分挖掘西部地区就地消纳潜力，促进新能源与算力设施的协同规划布局。一场算力和绿能的“双向奔赴”正在悄然提速。 (新华社)",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3802935832616709",
+        "title": "我国经济增长动能澎湃",
+        "url": "https://36kr.com/newsflashes/3802935832616709?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-10T03:46:22.000Z",
+        "summary": "国家发展改革委国家信息中心今天发布4月份经济各领域先行指标，显示出经济稳步向好的大趋势。投资方面，数字基础设施投资活跃度快速提升，投资加速向新赛道集聚。国家信息中心最新数据显示，4月份，人工智能、人形机器人等前沿领域的资本投资金额同比增长175.2%。数据、算力、网络等领域的基础设施项目中标金额同比增长61.7%，经济增长新动能持续激活。随着财政金融协同促内需、消费品以旧换新等政策持续发力，叠加多地中小学春假及踏青出行热潮，4月份，消费",
         "category": "updates",
         "region": "cn"
       },
@@ -1270,26 +1310,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3801813920144901",
-        "title": "Deepseek和阿里谈崩了？市场人士回应",
-        "url": "https://36kr.com/newsflashes/3801813920144901?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-09T08:45:06.000Z",
-        "summary": "5月8日，有消息称，4月，DeepSeek（深度求索）罕见展开一场巨额融资计划，同时吸引了腾讯和阿里巴巴两家大厂。据该消息，近期，阿里巴巴和DeepSeek谈崩了。对此，市场人士透露，阿里应该没有进行谈判。（每经网）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3801787739282952",
-        "title": "字节跳动据悉计划将AI基础设施支出增加25%",
-        "url": "https://36kr.com/newsflashes/3801787739282952?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-09T08:18:28.000Z",
-        "summary": "据报道，随着内存芯片成本上涨以及字节跳动加速布局人工智能（AI），该公司已将今年的AI基础设施支出计划增加25%至2000亿元人民币。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3801461350702855",
         "title": "AI开始接管年轻人的「精神自留地」",
         "url": "https://36kr.com/p/3801461350702855?f=rss",
@@ -1300,32 +1320,12 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/gakvcqphr0a1r2plswdz",
-        "title": "Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上",
-        "url": "https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-08T18:27:15.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3799028783439111",
         "title": "小红书四年AI 路：FOMO、犹豫，到突然加速",
         "url": "https://36kr.com/p/3799028783439111?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-08T04:38:43.000Z",
         "summary": "作者 | 肖思佳 编辑 | 乔芊 杨轩 所有互联网大中厂都渴望在AI时代博得位置，在这场比赛中，小红书曾是克制的那个。 在一个搜索属性与社区属性并存，以真实经验分享为核心的产品中，活人感与AI、温情和算法，始终像天平的两端。 很长一段时间里，小红书既没有完全缺席技术探索，也没有像许多同行那样高调推进AI产品化。相反，这家公司始终在两股力量的拉锯和平衡中前行：一边持续投入模型能力，一边谨慎控制AI对社区生态的介入。 但2026年，随着Ag",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3799984046333186",
-        "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
-        "url": "https://36kr.com/p/3799984046333186?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-08T01:45:14.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投资，本轮继续跟投，并担任长期独家财务顾问。 AI浪潮下，算力需求激增，传统以CPU为中心的架构瓶颈愈发凸显：CPU成为数据调度与交互的核心限制，GPU之间通信效",
         "category": "updates",
         "region": "cn"
       }
