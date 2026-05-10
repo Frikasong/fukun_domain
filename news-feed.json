@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T07:58:46.862Z",
+  "generatedAt": "2026-05-10T12:59:35.070Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,31 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/duka4afm1uaemx23f2zb",
-        "title": "GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控",
-        "url": "https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-10T15:11:06.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/yopjqur36lzkru5tpjap",
         "title": "Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估",
         "url": "https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-05-10T15:07:51.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fdqx4ekaqcvbqhfm2mku",
-        "title": "微服务架构进化：从业务加一堆横切代码到 Sidecar 解耦",
-        "url": "https://www.infoq.cn/article/FDQX4EkaqcvBQHFm2mKU?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-10T15:05:05.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1256,16 +1236,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-10T07:24:47.000Z",
         "summary": "5月10日，2026年，算电协同被写入政府工作报告，成为社会关注的热词。“十五五”规划纲要也明确提出，推动绿色电力与算力协同布局。记者近日走访了解到，内蒙古、宁夏、贵州等新能源富集地区，通过布局建设源网荷储一体化、绿电直连等重点项目，充分挖掘西部地区就地消纳潜力，促进新能源与算力设施的协同规划布局。一场算力和绿能的“双向奔赴”正在悄然提速。 (新华社)",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3802935832616709",
-        "title": "我国经济增长动能澎湃",
-        "url": "https://36kr.com/newsflashes/3802935832616709?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-10T03:46:22.000Z",
-        "summary": "国家发展改革委国家信息中心今天发布4月份经济各领域先行指标，显示出经济稳步向好的大趋势。投资方面，数字基础设施投资活跃度快速提升，投资加速向新赛道集聚。国家信息中心最新数据显示，4月份，人工智能、人形机器人等前沿领域的资本投资金额同比增长175.2%。数据、算力、网络等领域的基础设施项目中标金额同比增长61.7%，经济增长新动能持续激活。随着财政金融协同促内需、消费品以旧换新等政策持续发力，叠加多地中小学春假及踏青出行热潮，4月份，消费",
         "category": "updates",
         "region": "cn"
       },
@@ -1331,6 +1301,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3353044/alibaba-brings-chat-style-shopping-taobao-and-qwen-amid-ai-gateway-push",
+        "title": "Alibaba brings chat-style shopping to Taobao and Qwen amid AI gateway push: source",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3353044/alibaba-brings-chat-style-shopping-taobao-and-qwen-amid-ai-gateway-push?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-10T10:35:23.000Z",
+        "summary": "Chinese e-commerce giant Alibaba Group Holding is preparing an overhaul of how local consumers shop online, betting that the next trend will feel more like chatting with an artificial intelligence chatbot rather than typ",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3352945/deepseek-soon-close-first-external-fundraising-us50b-valuation-sources",
         "title": "DeepSeek to soon close first external fundraising in US$50b valuation: sources",
