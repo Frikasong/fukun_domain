@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T14:31:18.197Z",
+  "generatedAt": "2026-05-11T19:28:52.356Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/use&",
+        "title": "Use humans, not AI, to take meeting notes, attorneys say",
+        "url": "https://www.abajournal.com/news/article/use&#45;humans&#45;not&#45;ai&#45;to&#45;take&#45;meeting&#45;notes&#45;lawyers&#45;say/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-11T15:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/survey-legal-teams-lack-visibility-into-ai-agents-actions-icertis-research-finds.html",
+        "title": "Survey: Legal Teams Lack Visibility Into AI Agents&#8217; Actions, Icertis Research Finds",
+        "url": "https://www.lawnext.com/2026/05/survey-legal-teams-lack-visibility-into-ai-agents-actions-icertis-research-finds.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-11T15:16:49.000Z",
+        "summary": "Nearly half of in-house legal professionals say they would not detect an unauthorized or incorrect action taken by an AI agent until after it had already occurred — sometimes days or weeks later — according to new survey",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/11/imanage-playbook-analysis-strengthens-ai-contract-strategy",
+        "title": "iManage Playbook Analysis Strengthens AI Contract Strategy",
+        "url": "https://www.artificiallawyer.com/2026/05/11/imanage-playbook-analysis-strengthens-ai-contract-strategy/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-11T14:57:03.000Z",
+        "summary": "For a very long time, iManage was primarily where you stuck your contracts and other documents. More recently they’ve embraced the field of contract review, ...",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
+        "title": "DOJ investigating DA accused of shielding illegal immigrants",
+        "url": "https://www.abajournal.com/news/article/doj&#45;investigating&#45;da&#45;accused&#45;of&#45;shielding&#45;illegal&#45;immigrants/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-11T14:38:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/neal&",
+        "title": "Neal Katyal draws criticism over TED Talk revealing AI use in SCOTUS tariffs case",
+        "url": "https://www.abajournal.com/news/article/neal&#45;katyal&#45;draws&#45;criticism&#45;over&#45;ted&#45;talk&#45;revealing&#45;ai&#45;use&#45;in&#45;scotus&#45;tariffs&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-11T14:11:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/11/jylo-founders-will-help-you-onboard-mike-oss",
         "title": "Jylo Founders Will Help You Onboard Mike OSS",
@@ -158,42 +208,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/court&",
-        "title": "Court-appointed advocates make an impact on animal cruelty cases in Connecticut",
-        "url": "https://www.abajournal.com/web/article/court&#45;appointed&#45;advocates&#45;make&#45;an&#45;impact&#45;on&#45;animal&#45;cruelty&#45;cases&#45;in&#45;connecticut/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-07T18:50:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
-        "title": "2 lawyers play key role helping team win world record for unlocking escape rooms",
-        "url": "https://www.abajournal.com/news/article/florida&#45;lawyers&#45;are&#45;part&#45;of&#45;the&#45;key&#45;to&#45;winning&#45;world&#45;record&#45;unlocking&#45;escape&#45;rooms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-07T17:33:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/07/legora-launches-aos-agentic-operating-system",
         "title": "Legora Launches aOS ‘Agentic Operating System’",
         "url": "https://www.artificiallawyer.com/2026/05/07/legora-launches-aos-agentic-operating-system/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-05-07T17:00:00.000Z",
         "summary": "Legora has launched what it’s calling aOS, an agentic operating system, which they say marks the ‘dawn of Agentic Law’. Sounds great. What is it? ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/georgia&",
-        "title": "Prosecutor suspended by state supreme court for artificial intelligence use in court docs",
-        "url": "https://www.abajournal.com/news/article/georgia&#45;prosecutor&#45;suspended&#45;for&#45;ai&#45;use&#45;by&#45;state&#45;supreme&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-07T15:27:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -245,16 +265,6 @@
         "publishedAt": "2026-05-07T07:40:16.000Z",
         "summary": "Legal Innovators Paris takes place on June 24 and 25, and we can now share with you some of our leading legal tech and legal ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/07/the-rise-of-the-litigation-workspace",
-        "title": "The Rise of the Litigation Workspace",
-        "url": "https://www.artificiallawyer.com/2026/05/07/the-rise-of-the-litigation-workspace/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-07T06:41:29.000Z",
-        "summary": "By Eimear McCann, TrialView. Historically, the transformation of in-house legal departments has been narrated as a contracts story. The rise of the CLM platform, the ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1158,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/01/orbital-raises-60m-series-b-to-automate-real-estate-law-with-ai-and-fuel-u-s-expansion.html",
-        "title": "Orbital Raises $60M Series B to Automate Real Estate Law with AI and Fuel U.S. Expansion",
-        "url": "https://www.lawnext.com/2026/01/orbital-raises-60m-series-b-to-automate-real-estate-law-with-ai-and-fuel-u-s-expansion.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-26T15:36:12.000Z",
-        "summary": "London-based real estate legal AI platform Orbital has raised $60 million in Series B funding to expand its presence in the U.S. market and build what it envisions as a comprehensive workspace for real estate legal work.",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1209,36 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/8q9hedb6cqe9qpw6mjh6",
-        "title": "Figma自研了Redis代理，实现六个9可用性",
-        "url": "https://www.infoq.cn/article/8Q9hEDB6cqe9qpW6mJh6?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-11T21:24:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vcwhpvl26wtsttork6yl",
-        "title": "黄仁勋被授予 CMU 荣誉博士！陈立武亲自为其授袍，不用英特尔为其代工的英伟达，改策略了？",
-        "url": "https://www.infoq.cn/article/VcwHpVl26WTsTtOrK6YL?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-11T21:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/14utzo6myptzq1gqbdog",
-        "title": "Mistral为Le Chat新增远程智能体与Work模式",
-        "url": "https://www.infoq.cn/article/14UTzo6myptzQ1GqBdOG?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-11T20:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/qfyhzwve3srewbwzgtcq",
         "title": "AI工具用了不少，利润为何不涨？网易智企发布CodeWave，直击 AI Coding 提效难题",
@@ -1356,16 +1326,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-05-09T17:56:21.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3801461350702855",
-        "title": "AI开始接管年轻人的「精神自留地」",
-        "url": "https://36kr.com/p/3801461350702855?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-09T02:54:40.000Z",
-        "summary": "撰文｜锅包柚 封面来源｜Unsplash（AI辅助扩图） 五一假期已经结束，但打工人的“节后综合症”并未消退。 面对永远99+的工作群消息，和改不完的PPT，打工人蝈蝈在摸鱼时打开灵光APP里的一个小游戏——“老板被我fire了”。 屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击， 伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛扁、原地暴富的爽感。 “老板被我fire了” 这个让蝈蝈短暂",
         "category": "updates",
         "region": "cn"
       }
