@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T18:49:59.393Z",
+  "generatedAt": "2026-05-11T02:26:43.553Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,36 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/gdqp9lmp0kmrryyjeaaf",
+        "title": "Agent Mesh：企业多智能体系统治理实践｜AICon上海",
+        "url": "https://www.infoq.cn/article/GDqP9LMP0KMrRyyjEaAF?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-11T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3804270010851077",
+        "title": "谷歌母公司Alphabet计划首次发行日元债券",
+        "url": "https://36kr.com/newsflashes/3804270010851077?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-11T02:23:34.000Z",
+        "summary": "5月11日，据报道，谷歌母公司Alphabet计划首次发行日元债券，或为人工智能相关投资进一步提供资金支持。报道称，Alphabet正在进一步拓宽融资来源，此前已经将今年资本支出预估从1850亿美元上调至最多1900亿美元。这家科技巨头有望超过英伟达，成为全球市值最大的公司。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3804265813991173",
+        "title": "MiniMax关联公司增资至40亿，增幅300%",
+        "url": "https://36kr.com/newsflashes/3804265813991173?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-11T02:19:18.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，MiniMax关联公司上海稀宇极智科技有限公司发生工商变更，注册资本由10亿人民币增至40亿人民币，增幅300%。 该公司成立于2021年11月，法定代表人为闫俊杰，经营范围包括计算机系统服务、信息系统集成服务、人工智能基础软件开发、人工智能应用软件开发等，由香港稀宇极智有限公司全资持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/yopjqur36lzkru5tpjap",
         "title": "Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估",
         "url": "https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&utm_medium=article",
@@ -1226,16 +1256,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-05-10T10:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3803150542675465",
-        "title": "算力、绿能协同悄然提速",
-        "url": "https://36kr.com/newsflashes/3803150542675465?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-10T07:24:47.000Z",
-        "summary": "5月10日，2026年，算电协同被写入政府工作报告，成为社会关注的热词。“十五五”规划纲要也明确提出，推动绿色电力与算力协同布局。记者近日走访了解到，内蒙古、宁夏、贵州等新能源富集地区，通过布局建设源网荷储一体化、绿电直连等重点项目，充分挖掘西部地区就地消纳潜力，促进新能源与算力设施的协同规划布局。一场算力和绿能的“双向奔赴”正在悄然提速。 (新华社)",
         "category": "updates",
         "region": "cn"
       },
