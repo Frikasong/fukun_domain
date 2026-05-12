@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T02:12:05.874Z",
+  "generatedAt": "2026-05-12T08:28:28.910Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/product-walk-through-legatics-transaction-management-2",
+        "title": "Product Walk Through: Legatics – Transaction Management",
+        "url": "https://www.artificiallawyer.com/2026/05/12/product-walk-through-legatics-transaction-management-2/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-12T07:30:07.000Z",
+        "summary": "This week’s AL TV Product Walk Through is with Legatics, the legal transaction management pioneer, and takes a look at a range of new capabilities ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/legal-ais-next-act-is-in-house-productivity",
+        "title": "Legal AI’s Next Act Is In-House Productivity",
+        "url": "https://www.artificiallawyer.com/2026/05/12/legal-ais-next-act-is-in-house-productivity/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-12T06:40:17.000Z",
+        "summary": "By Daniel Lewis, Global CEO, LegalOn. Law firm AI is constrained by incentives that resist productivity. In-house legal operates in a model designed to reward ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/fair&",
         "title": "Fair and equal access to the ballot is fundamental to the rule of law, ABA President Michelle Behnke says",
@@ -245,26 +265,6 @@
         "publishedAt": "2026-05-07T12:00:00.000Z",
         "summary": "LexisNexis has expanded its Lexis+ AI platform with Protégé Work, along with a new definition of its LLM-based offering as the ‘foundational infrastructure for legal ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/07/scissero-launches-suzie-law-open-source-ai-assistant",
-        "title": "Scissero Launches Suzie Law Open-Source AI Assistant",
-        "url": "https://www.artificiallawyer.com/2026/05/07/scissero-launches-suzie-law-open-source-ai-assistant/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-07T09:37:45.000Z",
-        "summary": "Scissero has launched ‘Suzie Law’, an open-source AI assistant to help lawyers with needs such as drafting and knowledge search, with the ability to ‘adapt ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/07/legal-innovators-paris-june-24-25-top-sponsors-announced",
-        "title": "Legal Innovators Paris – June 24 + 25, Top Sponsors Announced",
-        "url": "https://www.artificiallawyer.com/2026/05/07/legal-innovators-paris-june-24-25-top-sponsors-announced/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-07T07:40:16.000Z",
-        "summary": "Legal Innovators Paris takes place on June 24 and 25, and we can now share with you some of our leading legal tech and legal ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,11 +1210,81 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/uvgoes0srx3ccrk6nac0",
-        "title": "攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门",
-        "url": "https://www.infoq.cn/article/UVGOeS0SrX3cCRK6Nac0?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/fdgghixiba1hytx0akyf",
+        "title": "从 Redis 到 Valkey，开源社区如何快速创新？",
+        "url": "https://www.infoq.cn/article/FDgGHIxIBa1Hytx0akyf?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-12T10:07:30.000Z",
+        "publishedAt": "2026-05-12T15:38:10.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/xqlfi9fvbo6qinksuyeb",
+        "title": "梁文锋出资200亿元，DeepSeek阿里谈崩？宇树机器人在韩国佛门受戒，法号“迦悲”；员工人均奖金达610万人民币，被婚恋市场追捧？官方回应｜AI周报",
+        "url": "https://www.infoq.cn/article/xqLfi9FVBo6qINKSuyeb?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-12T14:43:14.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zsdvwseqeywq3d4tqtoe",
+        "title": "专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU",
+        "url": "https://www.infoq.cn/article/ZsDVWSEQEYWq3D4TQTOe?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-12T14:23:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vk4mli3ltolektlvt0gt",
+        "title": "在大厂，token用少了不“健康”",
+        "url": "https://www.infoq.cn/article/VK4MLI3LtolekTLVT0Gt?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-12T14:11:08.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jv9wvvulsvzrjegukbpm",
+        "title": "Kubernetes 自主AI智能体安全防护：新型云工作负载的信任边界、密钥管理与可观测性",
+        "url": "https://www.infoq.cn/article/JV9WVVULSvzrjEGuKBpm?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-12T12:12:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fzzzoo8hcq9queqxeuw6",
+        "title": "企业每月烧掉数百万元Token却算不清账，谁来解决大模型的“最后一公里”工程难题？",
+        "url": "https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-12T11:40:08.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vr3wflnwggxd4zdehtyv",
+        "title": "从买算力到卖能力：嬴彻科技七亿商用里程背后的云上飞轮",
+        "url": "https://www.infoq.cn/article/VR3wFlNWgGXD4zDEHTYv?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-12T11:08:18.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/yxxhwlctwcli5erkrokv",
+        "title": "Anthropic 的Harness 工程白做了？Claude Code 被曝不遵守CLAUDE.md，开发者烧光 credits 怒喊退钱",
+        "url": "https://www.infoq.cn/article/YxxhwlcTWclI5ErKROKv?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-12T10:19:56.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1240,22 +1310,62 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3805990985801476",
+        "title": "网易有道发布ThinkFlow平台，实现全链路Token可视化",
+        "url": "https://36kr.com/newsflashes/3805990985801476?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-12T07:34:14.000Z",
+        "summary": "36氪获悉，网易有道近日发布企业级大模型聚合平台ThinkFlow。该平台旨在解决企业面对碎片化的大模型供给时，实现Token生产、分发、计费与效率优化的标准化问题。通过标准API接口，允许企业一次接入即可调用DeepSeek、Kimi、Qwen、MiniMax等20余款主流大模型，业务端切换模型无需重写代码。平台内置智能路由和负载均衡机制，支持毫秒级故障切换与熔断降级。ThinkFlow还提供了全链路Token消费可视化看板，将大模型",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3805975998488073",
+        "title": "谷歌称首次发现利用AI开发“零日漏洞”攻击工具",
+        "url": "https://36kr.com/newsflashes/3805975998488073?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-12T07:18:59.000Z",
+        "summary": "美国谷歌公司威胁情报小组11日发布报告说，该小组首次发现网络攻击者利用人工智能（AI）技术开发“零日漏洞”攻击工具。“零日漏洞”指软件厂商尚未发现或来不及修复的安全漏洞。谷歌威胁情报小组在报告中说，这个“零日漏洞”攻击工具针对一款“流行的开源、基于网页的系统管理工具”，利用Python脚本实现，可绕过双重认证。谷歌方面表示，已经向受影响公司通报该漏洞，并阻断相关威胁活动。（新华社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3805975086849793",
+        "title": "网易云音乐全面接入DeepSeek-V4",
+        "url": "https://36kr.com/newsflashes/3805975086849793?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-12T07:18:04.000Z",
+        "summary": "36氪获悉，近日，网易云音乐宣布全面接入DeepSeek-V4，进一步提升听歌找歌、社区互动、创作服务及各类个性化场景体验。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3805958512467461",
+        "title": "A股三大指数收盘涨跌不一，华正新材涨停",
+        "url": "https://36kr.com/newsflashes/3805958512467461?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-12T07:01:12.000Z",
+        "summary": "36氪获悉，A股三大指数收盘涨跌不一，沪指跌0.25%，深成指跌0.47%，创业板指涨0.15%；半导体设备、特高压、覆铜板概念走强，通光线缆、华正新材涨停，芯源微涨超15%；稀土、工业气体、猪肉概念跌幅居前，华特气体跌超10%，天康生物跌超6%，北方稀土跌超5%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3805761383751427",
+        "title": "Walulu：用六个月撕开一条新赛道",
+        "url": "https://36kr.com/p/3805761383751427?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-12T03:46:38.000Z",
+        "summary": "文丨果脯 近日，成都雨之灵动科技有限公司（后称雨之灵动）宣布完成总额数千万人民币的天使轮及Pre-A轮融资。 目前其投资方阵容已颇为亮眼，包含KK集团、4399、科大讯飞和一家知名财务投资机构，涵盖了财务资本、渠道资源、游戏行业及AI技术四大维度。做到这种程度，基本已经覆盖了一家AI消费品公司的所需的核心拼图。 雨之灵动能同时吸引到这四类资方，一定程度上说明他们的项目不仅打动了财务投资人的直觉，也获得了产品方对其产品的市场期望。 雨之灵",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3805672617959173",
         "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
         "url": "https://36kr.com/p/3805672617959173?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-12T02:11:24.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。 熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同创立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆盖人工智能、理论物理与微型无人机系统。 目前，熵约科技的首款产品针对家庭空间设计，为全球首",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3805649433534215",
-        "title": "太阳能：已与多家算力企业沟通对接，尝试开展绿电直连项目合作",
-        "url": "https://36kr.com/newsflashes/3805649433534215?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-12T01:46:47.000Z",
-        "summary": "36氪获悉，太阳能在业绩说明会上表示，公司积极关注绿电相关产业发展情况，正在积极开发算力中心供电及算力储能业务，已与多家算力企业开展了沟通对接，尝试开展绿电直连项目合作。",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。 熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同��立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆盖人工智能、理论物理与微型无人机系统。 目前，熵约科技的首款产品针对家庭空间设计，为全球",
         "category": "updates",
         "region": "cn"
       },
@@ -1336,26 +1446,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-11T02:38:17.000Z",
         "summary": "作者 | 邱晓芬 编辑 | 袁斯来 余轶南似乎是那种总能提前踩中风口的冒险家。 他总在追逐更新、更刺激，早期甚至带着些浪漫想象。博士毕业后，他没有如很多同侪一般，进入学术圈，过上平稳安定的一生，而是冲入互联网浪潮，2015年，他又因为余凯一句“我们一起去做 AI 芯片吧？” ，便追随余凯加入地平线创始团队，成为001号员工。此后几年，地平线逐渐成长为国际上自动驾驶领域最受关注的科技公司之一，并于2024年在港交所上市，成为当年港股最大的",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/yopjqur36lzkru5tpjap",
-        "title": "Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估",
-        "url": "https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-10T15:07:51.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/sh3kw4ymjqa3odhyfpm7",
-        "title": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
-        "url": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-10T10:00:00.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
