@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T13:59:54.461Z",
+  "generatedAt": "2026-05-12T19:29:29.022Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,146 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/al-interview-mark-pike-anthropic-associate-general-counsel",
+        "title": "AL Interview: Mark Pike, Anthropic Associate General Counsel",
+        "url": "https://www.artificiallawyer.com/2026/05/12/al-interview-mark-pike-anthropic-associate-general-counsel/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-12T17:35:56.000Z",
+        "summary": "As you have seen, (AL article), Anthropic has today formally launched Claude for Legal. Here is the full Artificial Lawyer interview with Mark Pike, Anthropic ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/justice-technology-association-named-access-to-justice-partner-in-anthropics-legal-ai-launch.html",
+        "title": "Justice Technology Association Named Access to Justice Partner in Anthropic&#8217;s Legal AI Launch",
+        "url": "https://www.lawnext.com/2026/05/justice-technology-association-named-access-to-justice-partner-in-anthropics-legal-ai-launch.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-12T17:35:23.000Z",
+        "summary": "The Justice Technology Association (JTA), a nonprofit trade group representing mission-driven companies focused on the access to justice crisis, announced today that it has joined Anthropic as a launch partner in what An",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/two-legal-research-providers-launch-mcp-integrations-with-claude-thomson-reuters-and-free-law-project-connect-their-data-to-ai.html",
+        "title": "Two Legal Research Providers Launch MCP Integrations with Claude: Thomson Reuters and Free Law Project Connect Their Data to AI",
+        "url": "https://www.lawnext.com/2026/05/two-legal-research-providers-launch-mcp-integrations-with-claude-thomson-reuters-and-free-law-project-connect-their-data-to-ai.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-12T17:24:39.000Z",
+        "summary": "Two legal research providers — one a global publicly traded corporation, the other a relatively scrappy nonprofit — are today both announcing integrations with Anthropic&#8217;s Claude that allow the AI assistant to tap ",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/anthropic-goes-all-in-on-legal-releasing-more-than-20-connectors-and-12-practice-area-plugins-for-claude.html",
+        "title": "Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude",
+        "url": "https://www.lawnext.com/2026/05/anthropic-goes-all-in-on-legal-releasing-more-than-20-connectors-and-12-practice-area-plugins-for-claude.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-12T17:17:06.000Z",
+        "summary": "Anthropic today took its biggest step yet into the legal market, releasing more than 20 new MCP connectors linking Claude to the software that law firms and legal departments run on, along with 12 new plugins tailored to",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/we&",
+        "title": "Pathway Pioneers: A look at supervised practice bar alternatives in 2 states",
+        "url": "https://www.abajournal.com/web/article/we&#45;asked&#45;candidates&#45;and&#45;their&#45;bosses&#45;whats&#45;it&#45;like&#45;to&#45;take&#45;a&#45;new&#45;pathway&#45;to&#45;the&#45;bar/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-12T17:08:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world",
+        "title": "Claude For Legal Launches, May Reshape the Legal Tech World",
+        "url": "https://www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-12T17:00:09.000Z",
+        "summary": "We have been building toward this moment, and now it’s finally arrived. Anthropic has formally launched ‘Claude For Legal’, a comprehensive offering that could reshape ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/the&",
+        "title": "The loneliness of judging",
+        "url": "https://www.abajournal.com/voice/article/the&#45;loneliness&#45;of&#45;judging/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-12T16:37:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/standards&",
+        "title": "Diversity standard should be abolished, standards committee says to ABA Legal Ed council",
+        "url": "https://www.abajournal.com/web/article/standards&#45;committee&#45;to&#45;aba&#45;legal&#45;ed&#45;council&#45;kill&#45;dei&#45;standard/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-12T16:18:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/lawnext-how-ai-is-transforming-the-way-law-firms-win-business-with-ikaun-president-jason-noble.html",
+        "title": "LawNext: How AI Is Transforming the Way Law Firms Win Business, with Ikaun President Jason Noble",
+        "url": "https://www.lawnext.com/2026/05/lawnext-how-ai-is-transforming-the-way-law-firms-win-business-with-ikaun-president-jason-noble.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-12T15:50:56.000Z",
+        "summary": "Law firms sell experience — but for decades, harnessing and operationalizing that experience has been a largely manual, chaotic process. In this episode, recorded live at the Legal Marketing Association annual conference",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/preservationists&",
+        "title": "Advocacy group sues to stop repainting of landmark DC reflecting pool",
+        "url": "https://www.abajournal.com/news/article/preservationists&#45;sue&#45;to&#45;stop&#45;repainting&#45;of&#45;landmark&#45;dc&#45;reflecting&#45;pool/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-12T15:47:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
+        "title": "Judge in Charlie Kirk case won’t ban cameras from courtroom",
+        "url": "https://www.abajournal.com/news/article/judge&#45;in&#45;charlie&#45;kirk&#45;case&#45;wont&#45;ban&#45;cameras&#45;from&#45;courtroom/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-12T14:59:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
+        "title": "Lawyer hit with 2 lawsuits alleging use of client trust accounts to run Ponzi scheme",
+        "url": "https://www.abajournal.com/news/article/lawyer&#45;hit&#45;with&#45;two&#45;lawsuits&#45;accusing&#45;him&#45;of&#45;using&#45;client&#45;trust&#45;accounts&#45;to&#45;run&#45;ponzi&#45;scam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-12T14:45:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/legal&",
+        "title": "Legal sector jobs rebound in April, new government data shows",
+        "url": "https://www.abajournal.com/news/article/legal&#45;sector&#45;jobs&#45;rebound&#45;in&#45;april&#45;government&#45;data&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-12T14:28:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/aderant-introduces-agent-center-at-momentum-global-targeting-law-firm-back-office-operations-with-ai.html",
+        "title": "Aderant Introduces Agent Center at Momentum Global, Targeting Law Firm Back-Office Operations with AI",
+        "url": "https://www.lawnext.com/2026/05/aderant-introduces-agent-center-at-momentum-global-targeting-law-firm-back-office-operations-with-ai.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-12T14:00:48.000Z",
+        "summary": "Aderant, the Atlanta-based legal business management software company, used its Momentum Global 2026 conference this week to unveil the Aderant Agent Center — a new framework for deploying AI agents across law firm finan",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/eudia-assembles-unified-workspace-inc-digital-twins",
         "title": "Eudia Assembles Unified Workspace, Inc. Digital Twins +",
@@ -108,32 +248,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/neal&",
-        "title": "Neal Katyal draws criticism over TED Talk revealing AI use in SCOTUS tariffs case",
-        "url": "https://www.abajournal.com/news/article/neal&#45;katyal&#45;draws&#45;criticism&#45;over&#45;ted&#45;talk&#45;revealing&#45;ai&#45;use&#45;in&#45;scotus&#45;tariffs&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-11T14:11:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/11/jylo-founders-will-help-you-onboard-mike-oss",
         "title": "Jylo Founders Will Help You Onboard Mike OSS",
         "url": "https://www.artificiallawyer.com/2026/05/11/jylo-founders-will-help-you-onboard-mike-oss/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-05-11T14:02:52.000Z",
         "summary": "While some legal tech companies are politely trying to avoid the subject, Jylo’s founders, Sam Lansley and Shawn Curran, are not just embracing the work ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/penn&",
-        "title": "Penn State Dickinson Law goals include an &#8216;antiracism&#8217; focus",
-        "url": "https://www.abajournal.com/news/article/penn&#45;state&#45;dickinson&#45;law&#45;goals&#45;include&#45;an&#45;antiracism&#45;focus/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-11T13:31:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -165,76 +285,6 @@
         "publishedAt": "2026-05-11T13:00:25.000Z",
         "summary": "Timed to coincide with today&#8217;s opening of the Corporate Legal Operations Consortium (CLOC) Global Institute in Chicago, Exterro is making two related announcements: the launch of a new autonomous subpoena managemen",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
-        "title": "Judge who teared up during child abuse testimony does not warrant new trial, appeals court says",
-        "url": "https://www.abajournal.com/news/article/judge&#45;who&#45;teared&#45;up&#45;during&#45;child&#45;abuse&#45;testimony&#45;does&#45;not&#45;warrant&#45;new&#45;trial&#45;appeals&#45;court&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-11T12:40:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/11/webinar-better-judgment-in-the-ai-era-may-21",
-        "title": "Webinar: Better Judgment in the AI Era – May 21",
-        "url": "https://www.artificiallawyer.com/2026/05/11/webinar-better-judgment-in-the-ai-era-may-21/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-11T12:18:37.000Z",
-        "summary": "On May 21, Thursday 11AM EST, 4PM UK, AltaClaro in partnership with Artificial Lawyer will be holding a lawyer education and training webinar on the ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/11/using-ai-means-you-work-the-same-or-longer",
-        "title": "Using AI Means You Work the Same, or Longer",
-        "url": "https://www.artificiallawyer.com/2026/05/11/using-ai-means-you-work-the-same-or-longer/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-11T06:47:30.000Z",
-        "summary": "A survey by Artificial Lawyer shows that the arrival of AI means we work either the same hours as before, or we work even longer. ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/willkie&",
-        "title": "Former Willkie Farr & Gallagher counsel pleads guilty, agrees to cooperate in M&A insider trading case",
-        "url": "https://www.abajournal.com/news/article/willkie&#45;farr&#45;counsel&#45;pleads&#45;guilty&#45;agrees&#45;to&#45;cooperate&#45;in&#45;ma&#45;insider&#45;trading&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-08T16:01:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/nyu&",
-        "title": "New York University School of Law dean will step down in 2027",
-        "url": "https://www.abajournal.com/news/article/nyu&#45;law&#45;dean&#45;troy&#45;mckenzie&#45;to&#45;step&#45;down/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-08T15:17:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/it&",
-        "title": "It Hasn’t Ended With Them: Blake Lively, Justin Baldoni lawsuit not fully settled",
-        "url": "https://www.abajournal.com/news/article/it&#45;hasnt&#45;ended&#45;with&#45;us&#45;blake&#45;lively&#45;justin&#45;baldoni&#45;lawsuit&#45;not&#45;fully&#45;settled/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-08T14:40:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/5000&",
-        "title": "US attorney&#8217;s office in DC gives prosecutors $5K bonuses",
-        "url": "https://www.abajournal.com/news/article/5000&#45;bonuses&#45;to&#45;keep&#45;prosecutors&#45;from&#45;leaving&#45;dc&#45;us&#45;attorneys&#45;office/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-08T14:27:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1114,56 +1164,6 @@
         "source": "LawSites",
         "publishedAt": "2026-01-28T14:45:12.000Z",
         "summary": "EvenUp, a company that specializes in AI tools for personal injury law practices, today launched Communication Agents, AI-powered voice and text assistants designed to automate routine communications in PI case managemen",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/01/can-ai-agents-settle-pi-cases-mighty-says-they-can-and-have-as-it-launches-free-direct-to-consumer-platform-to-resolve-accident-claims.html",
-        "title": "Can AI Agents Settle PI Cases? Mighty Says They Can and Have, As It Launches Free, Direct-to-Consumer Platform To Resolve Accident Claims",
-        "url": "https://www.lawnext.com/2026/01/can-ai-agents-settle-pi-cases-mighty-says-they-can-and-have-as-it-launches-free-direct-to-consumer-platform-to-resolve-accident-claims.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-28T12:49:17.000Z",
-        "summary": "Joshua Schwadron is fed up with personal injury lawyers’ failure to pass on to their clients the savings they realize from technology. He is so fed up, in fact, that he is pivoting his legal technology company Mighty – w",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/01/aiming-to-make-ai-more-easily-accessible-for-smaller-law-firms-legal-ai-company-august-launches-self-service-platform-and-free-educational-library.html",
-        "title": "Aiming To Make AI More Easily Accessible for Smaller Law Firms, Legal AI Company August Launches Self-Service Platform and Free Educational Library",
-        "url": "https://www.lawnext.com/2026/01/aiming-to-make-ai-more-easily-accessible-for-smaller-law-firms-legal-ai-company-august-launches-self-service-platform-and-free-educational-library.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-27T14:16:46.000Z",
-        "summary": "Aiming to remove the sales-cycle obstacles that have kept generative AI tools out of reach for many solo and smaller-firm lawyers, August today launched immediate self-service access to its legal AI platform, including a",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/01/zebraworks-launches-dataq-ai-to-help-law-firms-accelerate-cash-flow-through-ai-driven-revenue-analytics.html",
-        "title": "Zebraworks Launches DataQ AI to Help Law Firms Accelerate Cash Flow Through AI-Driven Revenue Analytics",
-        "url": "https://www.lawnext.com/2026/01/zebraworks-launches-dataq-ai-to-help-law-firms-accelerate-cash-flow-through-ai-driven-revenue-analytics.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-27T13:55:43.000Z",
-        "summary": "Zebraworks today announced the launch of DataQ AI, an artificial intelligence-powered analytics platform designed to help law firms identify and address revenue cycle issues before they impact cash flow. The new product,",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/01/litera-expands-kiras-ai-capabilities-with-hybrid-gen-ai-proprietary-approach-to-contract-review.html",
-        "title": "Litera Expands Kira&#8217;s AI Capabilities with Hybrid Gen AI/Proprietary Approach to Contract Review",
-        "url": "https://www.lawnext.com/2026/01/litera-expands-kiras-ai-capabilities-with-hybrid-gen-ai-proprietary-approach-to-contract-review.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-27T13:00:11.000Z",
-        "summary": "Litera is significantly enhancing Kira, its AI-powered contract review platform, with new capabilities designed to address the growing demands for speed, accuracy and trusted generative AI in contract review work, the co",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/01/legal-tech-leaders-join-other-legal-professionals-in-open-letter-supporting-the-rule-of-law.html",
-        "title": "Legal Tech Leaders Join Other Legal Professionals In Open Letter Supporting the Rule of Law",
-        "url": "https://www.lawnext.com/2026/01/legal-tech-leaders-join-other-legal-professionals-in-open-letter-supporting-the-rule-of-law.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-26T17:01:13.000Z",
-        "summary": "A number of leaders from the legal technology community are joining other legal professionals in an open letter supporting the rule of law. &#8220;Lawyers, judges, and government officials all take an oath to support and",
         "category": "updates",
         "region": "na"
       },
