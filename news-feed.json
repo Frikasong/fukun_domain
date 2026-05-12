@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T19:28:52.356Z",
+  "generatedAt": "2026-05-12T02:12:05.874Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/fair&",
+        "title": "Fair and equal access to the ballot is fundamental to the rule of law, ABA President Michelle Behnke says",
+        "url": "https://www.abajournal.com/news/article/fair&#45;and&#45;equal&#45;access&#45;to&#45;the&#45;ballot&#45;is&#45;fundamental&#45;to&#45;the&#45;rule&#45;of&#45;law&#45;aba&#45;president&#45;michelle&#45;behnke&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-11T19:55:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/use&",
         "title": "Use humans, not AI, to take meeting notes, attorneys say",
@@ -69,7 +79,7 @@
       },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/penn&",
-        "title": "Penn State Dickinson Law goals include an &#8220;antiracism&#8221; focus",
+        "title": "Penn State Dickinson Law goals include an &#8216;antiracism&#8217; focus",
         "url": "https://www.abajournal.com/news/article/penn&#45;state&#45;dickinson&#45;law&#45;goals&#45;include&#45;an&#45;antiracism&#45;focus/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-05-11T13:31:00.000Z",
@@ -173,16 +183,6 @@
         "url": "https://www.abajournal.com/news/article/5000&#45;bonuses&#45;to&#45;keep&#45;prosecutors&#45;from&#45;leaving&#45;dc&#45;us&#45;attorneys&#45;office/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-05-08T14:27:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/a&",
-        "title": "Lawyers sharpen their skills while telling jokes at comedy shows",
-        "url": "https://www.abajournal.com/news/article/a&#45;lawyer&#45;walks&#45;into&#45;a&#45;bar&#45;and&#45;tells&#45;a&#45;joke/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-08T14:13:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,6 +1210,76 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/uvgoes0srx3ccrk6nac0",
+        "title": "攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门",
+        "url": "https://www.infoq.cn/article/UVGOeS0SrX3cCRK6Nac0?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-12T10:07:30.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/pj9tgucrejorym1zyuzx",
+        "title": "Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+        "url": "https://www.infoq.cn/article/pj9tgUcrEjORYM1zyUzx?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-12T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/5grihxtlpqpgtqtjy5pg",
+        "title": "Grafana的Kubernetes Monitoring Helm Chart v4版本修复了多项问题",
+        "url": "https://www.infoq.cn/article/5GrIHXTlPQpGTQtjY5pg?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-12T09:17:20.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3805672617959173",
+        "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
+        "url": "https://36kr.com/p/3805672617959173?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-12T02:11:24.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。 熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同创立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆盖人工智能、理论物理与微型无人机系统。 目前，熵约科技的首款产品针对家庭空间设计，为全球首",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3805649433534215",
+        "title": "太阳能：已与多家算力企业沟通对接，尝试开展绿电直连项目合作",
+        "url": "https://36kr.com/newsflashes/3805649433534215?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-12T01:46:47.000Z",
+        "summary": "36氪获悉，太阳能在业绩说明会上表示，公司积极关注绿电相关产业发展情况，正在积极开发算力中心供电及算力储能业务，已与多家算力企业开展了沟通对接，尝试开展绿电直连项目合作。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3805557782486785",
+        "title": "8点1氪丨美国总统特朗普：非常期待中国之行 ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
+        "url": "https://36kr.com/p/3805557782486785?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-12T00:16:27.000Z",
+        "summary": "今日热点导览 天舟十号货运飞船与空间站组合体完成交会对接 国家广播电视总局：4月经备案国产电视动画片51部、9659分钟 任天堂股价因Switch 2游戏前景不佳大幅下跌 千问与淘宝打通，正式上线AI购物 TOP3大新闻 美国总统特朗普：非常期待中国之行 外交部发言人宣布：应国家主席习近平邀请，美利坚合众国总统唐纳德·特朗普将于5月13日至15日对中国进行国事访问。 当地时间5月11日，美国总统特朗普在其社交媒体“真实社交”发文表示，非",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3804356346879495",
+        "title": "量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例",
+        "url": "https://36kr.com/p/3804356346879495?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-12T00:00:00.000Z",
+        "summary": "文｜胡香赟 编辑｜海若镜 在科幻电影《流浪地球2》中，拥有指数级运算能力的智能量子计算机“MOSS”，不仅能统筹起全世界的计算资源，支撑1万台“行星发动机”同步运转，还承载足“数字生命计划”那海量的、近乎无底洞般的计算需求，引发大众对量子计算机的无限遐想。这种曾经令人惊叹的科幻设定，如今已慢慢从实验室走向商业化落地。 按照“十五五规划纲要”，量子科技已被列入六大未来产业之一；市场层面的热度同样高涨：据IT桔子数据，到今年4月，国内量子计",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/qfyhzwve3srewbwzgtcq",
         "title": "AI工具用了不少，利润为何不涨？网易智企发布CodeWave，直击 AI Coding 提效难题",
         "url": "https://www.infoq.cn/article/qFyHzWVe3SrEwbwzGtCq?utm_source=rss&utm_medium=article",
@@ -1236,36 +1306,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-05-11T18:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3804875318812164",
-        "title": "软银孙正义拟在法国投资数十亿美元建设人工智能数据中心",
-        "url": "https://36kr.com/newsflashes/3804875318812164?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-11T12:39:19.000Z",
-        "summary": "5月11日消息，据报道，软银集团创始人孙正义正与法国总统马克龙进行深度磋商，计划在未来几周内宣布一项法国AI数据中心项目。作为软银构建全球人工智能基础设施战略的一部分，孙正义正考虑在法国投入数十亿美元。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3804850707570440",
-        "title": "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元",
-        "url": "https://36kr.com/newsflashes/3804850707570440?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-11T12:14:17.000Z",
-        "summary": "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元，此前目标为35亿美元。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3804805665906435",
-        "title": "央行：展望未来，人工智能行业将为经济高质量发展注入更多动能",
-        "url": "https://36kr.com/newsflashes/3804805665906435?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-11T11:28:28.000Z",
-        "summary": "36氪获悉，央行发布2026年第一季度中国货币政策执行报告，其中提到展望未来，人工智能行业将为经济高质量发展注入更多动能。一是技术迭代持续加速。随着多模态、强逻辑推理等关键技术不断突破，国产大模型性能有望进一步提升。二是产业融合向纵深发展。人工智能将深度融入智能制造、金融、医疗、交通等关键领域，推动传统产业全流程智能化重构。三是国际市场空间持续拓展。国内人工智能企业在东南亚、中东等新兴市场落地应用项目，产品与服务出海步伐进一步加快，国际",
         "category": "updates",
         "region": "cn"
       },
@@ -1315,16 +1355,6 @@
         "url": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-05-10T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/4plw4wvn9lqcmkiu2eov",
-        "title": "DeepSeek 被曝融资500亿，梁文锋自己掏了 200亿！阿里或无缘参投",
-        "url": "https://www.infoq.cn/article/4pLw4WvN9LqCMkiu2eoV?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-09T17:56:21.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
