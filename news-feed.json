@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T08:28:28.910Z",
+  "generatedAt": "2026-05-12T13:59:54.461Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/eudia-assembles-unified-workspace-inc-digital-twins",
+        "title": "Eudia Assembles Unified Workspace, Inc. Digital Twins +",
+        "url": "https://www.artificiallawyer.com/2026/05/12/eudia-assembles-unified-workspace-inc-digital-twins/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-12T13:06:21.000Z",
+        "summary": "Eudia, the multi-faceted legal AI business focused on inhouse teams, has bundled together a range of its capabilities into a single unified workspace in a ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/dealcloser-integrates-cocounsel-for-ai-doc-review",
+        "title": "DealCloser Integrates CoCounsel For AI Doc Review",
+        "url": "https://www.artificiallawyer.com/2026/05/12/dealcloser-integrates-cocounsel-for-ai-doc-review/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-12T12:00:55.000Z",
+        "summary": "Transaction Management company DealCloser has struck a deal with Thomson Reuters that brings CoCounsel Legal’s AI document review capability into its deal platform. DealCloser, which ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/openai-launches-deployment-company-will-it-impact-legal-tech",
+        "title": "OpenAI Launches ‘Deployment Company’ &#8211; Will It Impact Legal Tech?",
+        "url": "https://www.artificiallawyer.com/2026/05/12/openai-launches-deployment-company-will-it-impact-legal-tech/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-12T08:46:17.000Z",
+        "summary": "OpenAI – the LLM pioneer that had it all, but has more recently squandered some of its lead – is now going all-in on driving ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/product-walk-through-legatics-transaction-management-2",
         "title": "Product Walk Through: Legatics – Transaction Management",
@@ -218,26 +248,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/08/jude-law-litera-altaclaro-legal-innovators-california-speakers",
-        "title": "Jude.Law, Litera, AltaClaro, Legal Innovators California Speakers +",
-        "url": "https://www.artificiallawyer.com/2026/05/08/jude-law-litera-altaclaro-legal-innovators-california-speakers/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-08T09:59:14.000Z",
-        "summary": "Wow, another incredible week in legal AI – which has now gone very agentic! We start this week’s Wrap with news that Jude Law has ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/07/legora-launches-aos-agentic-operating-system",
-        "title": "Legora Launches aOS ‘Agentic Operating System’",
-        "url": "https://www.artificiallawyer.com/2026/05/07/legora-launches-aos-agentic-operating-system/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-07T17:00:00.000Z",
-        "summary": "Legora has launched what it’s calling aOS, an agentic operating system, which they say marks the ‘dawn of Agentic Law’. Sounds great. What is it? ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/05/backstory-how-ted-turner-reshaped-legal-media-and-my-career.html",
         "title": "Backstory: How Ted Turner Reshaped Legal Media (and My Career)",
         "url": "https://www.lawnext.com/2026/05/backstory-how-ted-turner-reshaped-legal-media-and-my-career.html",
@@ -254,16 +264,6 @@
         "source": "LawSites",
         "publishedAt": "2026-05-07T12:00:02.000Z",
         "summary": "Less than three months after replacing Lexis+ AI with Lexis+ with Protégé as its flagship legal AI platform, LexisNexis today is announcing a substantial expansion of that platform – what the company is calling its &#822",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/07/lexis-launches-protege-work-expands-offering",
-        "title": "Lexis Launches Protégé Work, Expands Offering",
-        "url": "https://www.artificiallawyer.com/2026/05/07/lexis-launches-protege-work-expands-offering/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-07T12:00:00.000Z",
-        "summary": "LexisNexis has expanded its Lexis+ AI platform with Protégé Work, along with a new definition of its LLM-based offering as the ‘foundational infrastructure for legal ...",
         "category": "tools",
         "region": "na"
       },
@@ -1210,11 +1210,21 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/fdgghixiba1hytx0akyf",
-        "title": "从 Redis 到 Valkey，开源社区如何快速创新？",
-        "url": "https://www.infoq.cn/article/FDgGHIxIBa1Hytx0akyf?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ac0kvqlz4cs2phacwvpp",
+        "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
+        "url": "https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-12T15:38:10.000Z",
+        "publishedAt": "2026-05-12T20:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/bnvwzwb29pu4aorhpqbz",
+        "title": "谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理",
+        "url": "https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-12T17:02:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1230,22 +1240,12 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/zsdvwseqeywq3d4tqtoe",
-        "title": "专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU",
-        "url": "https://www.infoq.cn/article/ZsDVWSEQEYWq3D4TQTOe?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-12T14:23:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vk4mli3ltolektlvt0gt",
-        "title": "在大厂，token用少了不“健康”",
-        "url": "https://www.infoq.cn/article/VK4MLI3LtolekTLVT0Gt?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-12T14:11:08.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3806269522779648",
+        "title": "3M加入行业联盟，推进人工智能数据中心光互联技术发展",
+        "url": "https://36kr.com/newsflashes/3806269522779648?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-12T12:17:35.000Z",
+        "summary": "3M加入行业联盟，推进人工智能数据中心光互联技术发展。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1270,12 +1270,32 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/p/3806196073242112",
+        "title": "氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%",
+        "url": "https://36kr.com/p/3806196073242112?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-12T11:22:30.000Z",
+        "summary": "大公司： 京东：第一季度营收3157亿元，同比增长4.9% 36氪获悉，京东发布2026年第一季度财报，第一季度营收3157亿元，同比增长4.9%；非美国通用会计准则下（Non-GAAP）归母净利润74亿元；京东零售经营利润率提升至5.6%，经营利润创历史新高。截至一季度，京东年度活跃用户数超7.4亿，季度活跃用户数实现连续10个季度的同比双位数增长。京东体系研发投入在一季度同比增长59%。 华硕第一季度营收2083.7亿元台币 华硕第",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/vr3wflnwggxd4zdehtyv",
         "title": "从买算力到卖能力：嬴彻科技七亿商用里程背后的云上飞轮",
         "url": "https://www.infoq.cn/article/VR3wFlNWgGXD4zDEHTYv?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-05-12T11:08:18.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3806179759496711",
+        "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+        "url": "https://36kr.com/p/3806179759496711?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-12T10:52:40.000Z",
+        "summary": "5月19日至20日，带上你的需求， 带上你的方案，我们在亦庄，不见不散。 如果说过去两年，我们还在争论AI的能力边界，那么2026年的资本市场与产业端已经给出了最直接的回答：AI正经历着一场严苛的“前线压力测试”。 从资本市场用真金白银为应用层投票，到全球科技界重新校准AI的价值尺度，聚光灯正从晦涩的参数竞赛，转向了真实的生产生活。当行业洗牌加速，所有人都在寻找那个能将技术兑换为价值的确定性坐标。 在这样的关键时刻，北京经开区充分发挥产",
         "category": "updates",
         "region": "cn"
       },
@@ -1310,46 +1330,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3805990985801476",
-        "title": "网易有道发布ThinkFlow平台，实现全链路Token可视化",
-        "url": "https://36kr.com/newsflashes/3805990985801476?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-12T07:34:14.000Z",
-        "summary": "36氪获悉，网易有道近日发布企业级大模型聚合平台ThinkFlow。该平台旨在解决企业面对碎片化的大模型供给时，实现Token生产、分发、计费与效率优化的标准化问题。通过标准API接口，允许企业一次接入即可调用DeepSeek、Kimi、Qwen、MiniMax等20余款主流大模型，业务端切换模型无需重写代码。平台内置智能路由和负载均衡机制，支持毫秒级故障切换与熔断降级。ThinkFlow还提供了全链路Token消费可视化看板，将大模型",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3805975998488073",
-        "title": "谷歌称首次发现利用AI开发“零日漏洞”攻击工具",
-        "url": "https://36kr.com/newsflashes/3805975998488073?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-12T07:18:59.000Z",
-        "summary": "美国谷歌公司威胁情报小组11日发布报告说，该小组首次发现网络攻击者利用人工智能（AI）技术开发“零日漏洞”攻击工具。“零日漏洞”指软件厂商尚未发现或来不及修复的安全漏洞。谷歌威胁情报小组在报告中说，这个“零日漏洞”攻击工具针对一款“流行的开源、基于网页的系统管理工具”，利用Python脚本实现，可绕过双重认证。谷歌方面表示，已经向受影响公司通报该漏洞，并阻断相关威胁活动。（新华社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3805975086849793",
-        "title": "网易云音乐全面接入DeepSeek-V4",
-        "url": "https://36kr.com/newsflashes/3805975086849793?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-12T07:18:04.000Z",
-        "summary": "36氪获悉，近日，网易云音乐宣布全面接入DeepSeek-V4，进一步提升听歌找歌、社区互动、创作服务及各类个性化场景体验。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3805958512467461",
-        "title": "A股三大指数收盘涨跌不一，华正新材涨停",
-        "url": "https://36kr.com/newsflashes/3805958512467461?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-12T07:01:12.000Z",
-        "summary": "36氪获悉，A股三大指数收盘涨跌不一，沪指跌0.25%，深成指跌0.47%，创业板指涨0.15%；半导体设备、特高压、覆铜板概念走强，通光线缆、华正新材涨停，芯源微涨超15%；稀土、工业气体、猪肉概念跌幅居前，华特气体跌超10%，天康生物跌超6%，北方稀土跌超5%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3805761383751427",
         "title": "Walulu：用六个月撕开一条新赛道",
         "url": "https://36kr.com/p/3805761383751427?f=rss",
@@ -1365,7 +1345,7 @@
         "url": "https://36kr.com/p/3805672617959173?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-12T02:11:24.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。 熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同��立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆盖人工智能、理论物理与微型无人机系统。 目前，熵约科技的首款产品针对家庭空间设计，为全球",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。 熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同创立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆盖人工智能、理论物理与微型无人机系统。 目前，熵约科技的首款产品针对家庭空间设计，为全球首",
         "category": "updates",
         "region": "cn"
       },
@@ -1395,16 +1375,6 @@
         "url": "https://www.infoq.cn/article/qFyHzWVe3SrEwbwzGtCq?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-05-11T18:54:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/umuobcu1lj6jrosqglzk",
-        "title": "Claude Code的Auto模式深度解析：Anthropic带有人类审批门控的自治编码系统",
-        "url": "https://www.infoq.cn/article/UMuOBcU1lJ6jrOsQGlZK?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-11T18:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
