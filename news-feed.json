@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T14:10:20.984Z",
+  "generatedAt": "2026-05-13T19:42:54.130Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,76 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "OpenAI News:openai.com/index/building-codex-windows-sandbox",
+        "title": "Building a safe, effective sandbox to enable Codex on Windows",
+        "url": "https://openai.com/index/building-codex-windows-sandbox",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-15T00:00:00.000Z",
+        "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/alex&",
+        "title": "Ex-lawyer Alex Murdaugh’s murder conviction overturned; prosecutors vow retrial",
+        "url": "https://www.abajournal.com/news/article/alex&#45;murdaughs&#45;murder&#45;conviction&#45;overturned&#45;prosecutors&#45;vow&#45;to&#45;retrial/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-13T18:59:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/parents&",
+        "title": "Parents accuse ChatGPT of assisting in son’s drug-induced death",
+        "url": "https://www.abajournal.com/news/article/parents&#45;accuse&#45;chatgpt&#45;of&#45;assisting&#45;in&#45;sons&#45;drug&#45;induced&#45;death/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-13T16:40:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/jany&",
+        "title": "Lawyer brings experience as a Cuban immigrant to work with Hispanic community",
+        "url": "https://www.abajournal.com/web/article/jany&#45;martinez&#45;ward&#45;brings&#45;experience&#45;as&#45;a&#45;cuban&#45;immigrant&#45;to&#45;work&#45;with&#45;hispanic&#45;community/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-13T16:02:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/former&",
+        "title": "Former DLA Piper summer associate sues firm for allegedly revoking job offer over Palestinian ties",
+        "url": "https://www.abajournal.com/news/article/former&#45;dla&#45;piper&#45;summer&#45;associate&#45;sues&#45;firm&#45;for&#45;allegedly&#45;revoking&#45;job&#45;offer&#45;over&#45;palestinian&#45;ties/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-13T15:31:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/women&",
+        "title": "2 women sue Las Vegas hotels for allegedly allowing trafficking on premises",
+        "url": "https://www.abajournal.com/news/article/women&#45;sue&#45;vegas&#45;hotels&#45;for&#45;allowing&#45;trafficking/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-13T15:08:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/new&",
+        "title": "Undergrads&#8217; paths to postgrad education, careers examined in new LSAC, AALS study",
+        "url": "https://www.abajournal.com/news/article/new&#45;lsac&#45;and&#45;aals&#45;study&#45;to&#45;examine&#45;undergrads&#45;paths&#45;to&#45;postgrad&#45;education&#45;and&#45;careers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-13T14:43:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/legalrebels/article/rebels&",
         "title": "How AI has supercharged dispute resolution and arbitration",
@@ -148,26 +218,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/voice/article/the&",
-        "title": "The loneliness of judging",
-        "url": "https://www.abajournal.com/voice/article/the&#45;loneliness&#45;of&#45;judging/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-12T16:37:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/standards&",
-        "title": "Diversity standard should be abolished, standards committee says to ABA Legal Ed council",
-        "url": "https://www.abajournal.com/web/article/standards&#45;committee&#45;to&#45;aba&#45;legal&#45;ed&#45;council&#45;kill&#45;dei&#45;standard/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-12T16:18:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/05/lawnext-how-ai-is-transforming-the-way-law-firms-win-business-with-ikaun-president-jason-noble.html",
         "title": "LawNext: How AI Is Transforming the Way Law Firms Win Business, with Ikaun President Jason Noble",
         "url": "https://www.lawnext.com/2026/05/lawnext-how-ai-is-transforming-the-way-law-firms-win-business-with-ikaun-president-jason-noble.html",
@@ -175,46 +225,6 @@
         "publishedAt": "2026-05-12T15:50:56.000Z",
         "summary": "Law firms sell experience — but for decades, harnessing and operationalizing that experience has been a largely manual, chaotic process. In this episode, recorded live at the Legal Marketing Association annual conference",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/preservationists&",
-        "title": "Advocacy group sues to stop repainting of landmark DC reflecting pool",
-        "url": "https://www.abajournal.com/news/article/preservationists&#45;sue&#45;to&#45;stop&#45;repainting&#45;of&#45;landmark&#45;dc&#45;reflecting&#45;pool/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-12T15:47:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
-        "title": "Judge in Charlie Kirk case won’t ban cameras from courtroom",
-        "url": "https://www.abajournal.com/news/article/judge&#45;in&#45;charlie&#45;kirk&#45;case&#45;wont&#45;ban&#45;cameras&#45;from&#45;courtroom/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-12T14:59:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
-        "title": "Lawyer hit with 2 lawsuits alleging use of client trust accounts to run Ponzi scheme",
-        "url": "https://www.abajournal.com/news/article/lawyer&#45;hit&#45;with&#45;two&#45;lawsuits&#45;accusing&#45;him&#45;of&#45;using&#45;client&#45;trust&#45;accounts&#45;to&#45;run&#45;ponzi&#45;scam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-12T14:45:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/legal&",
-        "title": "Legal sector jobs rebound in April, new government data shows",
-        "url": "https://www.abajournal.com/news/article/legal&#45;sector&#45;jobs&#45;rebound&#45;in&#45;april&#45;government&#45;data&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-12T14:28:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1195,16 +1205,6 @@
         "publishedAt": "2024-05-06T00:00:00.000Z",
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
         "region": "na"
       }
     ],
