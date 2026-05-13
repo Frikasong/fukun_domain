@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T02:26:54.271Z",
+  "generatedAt": "2026-05-13T08:35:32.173Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/13/al-interview-greg-lambert-the-realities-of-legal-ai-adoption",
+        "title": "AL Interview: Greg Lambert &#8211; The Realities of Legal AI Adoption",
+        "url": "https://www.artificiallawyer.com/2026/05/13/al-interview-greg-lambert-the-realities-of-legal-ai-adoption/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-13T07:41:06.000Z",
+        "summary": "In this AL interview with well-known legal tech expert, Greg Lambert, who runs the Geek in Review podcast and is also Chief Innovation Officer at ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/13/are-legal-tech-ai-acquisitions-masking-an-architectural-problem",
+        "title": "Are Legal Tech AI Acquisitions Masking an Architectural Problem?",
+        "url": "https://www.artificiallawyer.com/2026/05/13/are-legal-tech-ai-acquisitions-masking-an-architectural-problem/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-13T06:43:25.000Z",
+        "summary": "By Sabrina Pervez, SpotDraft. Recent years have witnessed several legal tech M&#38;A deals. DocuSign bought Lexion to add AI to its IAM platform. Workday&#8217;s CLM ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/trumps&",
         "title": "Trump’s New York US attorney pick committed misconduct, disciplinary investigation finds",
@@ -248,16 +268,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/11/jylo-founders-will-help-you-onboard-mike-oss",
-        "title": "Jylo Founders Will Help You Onboard Mike OSS",
-        "url": "https://www.artificiallawyer.com/2026/05/11/jylo-founders-will-help-you-onboard-mike-oss/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-11T14:02:52.000Z",
-        "summary": "While some legal tech companies are politely trying to avoid the subject, Jylo’s founders, Sam Lansley and Shawn Curran, are not just embracing the work ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/05/ediscovery-ai-launches-casebot-a-conversational-ai-assistant-for-case-data.html",
         "title": "eDiscovery AI Launches CaseBot, a Conversational AI Assistant for Case Data",
         "url": "https://www.lawnext.com/2026/05/ediscovery-ai-launches-casebot-a-conversational-ai-assistant-for-case-data.html",
@@ -265,16 +275,6 @@
         "publishedAt": "2026-05-11T13:15:11.000Z",
         "summary": "eDiscovery AI, which was acquired in February by HaystackID, today announced the general availability of CaseBot, a conversational AI assistant that allows legal teams to interrogate case data in natural language and rec",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/11/clio-for-word-add-in-launches-in-beta",
-        "title": "Clio For Word Add-In Launches in Beta",
-        "url": "https://www.artificiallawyer.com/2026/05/11/clio-for-word-add-in-launches-in-beta/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-11T13:07:47.000Z",
-        "summary": "Recently, we’ve seen Claude for Word, as well as the Microsoft Legal Agent, and now Clio is launching an AI-driven Word add-in, which allows you ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,52 +1210,132 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ch60mr1dejecc2dp9dhf",
-        "title": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
-        "url": "https://www.infoq.cn/article/ch60MR1deJECc2dP9dhf?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/acta4vllcqbotu5vw2cr",
+        "title": "GitHub 如何保障现代CI/CD系统中智能体工作流的安全",
+        "url": "https://www.infoq.cn/article/ACTA4vlLcqBOTu5vw2cR?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-13T10:17:10.000Z",
+        "publishedAt": "2026-05-13T16:08:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/xqvu8sexktamingt8wva",
-        "title": "火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
-        "url": "https://www.infoq.cn/article/xQVU8SEXkTaMiNGT8WVa?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/bqjnfpzk9b3uovxav3ee",
+        "title": "Manus 交易失败后，创始人仍在谈论 Agent 时代的成功经验",
+        "url": "https://www.infoq.cn/article/bqjNfpZk9b3UoVXav3ee?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-13T10:00:00.000Z",
+        "publishedAt": "2026-05-13T16:02:25.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/obhn72iw4lwzlfvhpkjy",
-        "title": "平台工程三大支柱的良性循环",
-        "url": "https://www.infoq.cn/article/oBhN72Iw4LwZLfvHpKjy?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/i1arv0axjw1xsdxt3kzv",
+        "title": "MediaTek 发布 AI 与游戏开发新工具，聚焦端侧智能体与移动图形能力",
+        "url": "https://www.infoq.cn/article/i1arV0AXjw1xSdXt3kzv?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-13T09:33:19.000Z",
+        "publishedAt": "2026-05-13T15:49:34.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3807097353805321",
-        "title": "百度搭子DuMate正式亮相",
-        "url": "https://36kr.com/newsflashes/3807097353805321?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/kka2kit9bxipqtztzg79",
+        "title": "把 RAG 做成主流的公司，现在开始“做空”RAG 了",
+        "url": "https://www.infoq.cn/article/KKa2KiT9BxipQtZTZG79?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-13T15:47:24.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/r63e4s6zyxrgjfiov96v",
+        "title": "6 天、96 万行 Rust、直接合并？Claude Code 被 Bun 的内存泄漏拖垮后，Bun 让 Claude 亲手重写了自己",
+        "url": "https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-13T15:43:56.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fiagqokzer2jcqclxmuw",
+        "title": "摩尔线程 MUSA 合入SGLang主线，国产GPU开源生态从“代码共建”迈入“原生支持时代”",
+        "url": "https://www.infoq.cn/article/fiAgqOKzER2JCqcLXMuW?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-13T15:17:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/9lisqifbwyzki9j3d88i",
+        "title": "智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解",
+        "url": "https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-13T14:18:40.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ulpbgiehyo3i9octrgr9",
+        "title": "Cloudflare 推出 Artifacts Beta 测试版，为 AI 代理引入类似 Git 的版本控制功能",
+        "url": "https://www.infoq.cn/article/ULPBgiEHyo3i9OCTrgr9?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-13T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3807442490203649",
+        "title": "恒指收涨0.15%，恒生科技指数涨0.46%",
+        "url": "https://36kr.com/newsflashes/3807442490203649?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-13T02:19:41.000Z",
-        "summary": "36氪获悉，在5月13日举办的Create2026百度AI开发者大会上，百度搭子DuMate全新推出移动端App。据了解，DuMate将百度AI搜索、秒哒、伐谋、百科等核心产品能力集成为可随时调用的内置技能，同时强化长程任务执行与主动决策能力",
+        "publishedAt": "2026-05-13T08:10:47.000Z",
+        "summary": "36氪获悉，恒指收涨0.15%，恒生科技指数涨0.46%；AI应用、半导体集体走强，智谱涨近37%，澜起科技涨超21%，英诺赛科、MINIMAX-WP涨超18%；传媒、煤炭走弱，中国秦发跌超6%，凤凰卫视跌近5%；南向资金净流出67.71亿港元。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3807072758734345",
-        "title": "李彦宏：“自我进化”包含智能体、人类个体、企业组织的自我进化",
-        "url": "https://36kr.com/newsflashes/3807072758734345?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3807398622830345",
+        "title": "林俊旸创业，新公司估值约20亿美金",
+        "url": "https://36kr.com/newsflashes/3807398622830345?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-13T01:54:40.000Z",
-        "summary": "36氪获悉，5月13日举办的Create2026百度AI开发者大会开幕式上，百度创始人李彦宏表示，本届开幕式主题“自我进化”包含三层涵义：一是智能体的自我进化，从被动响应到从环境中不断吸取营养来提升自己，并主动执行；二是人类个体的自我进化，从普通个体到超级个体，并学会跟AI共存；三是企业组织的自我进化，从人与人的分工协作，到人与智能体的混合编队，成为超级组织。",
+        "publishedAt": "2026-05-13T07:26:09.000Z",
+        "summary": "36氪独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。目前，林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约20亿美金的估值开启融资，接触基金包括红杉中国、高榕创投等。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3807382930251523",
+        "title": "林俊旸创业，新公司估值约20亿美金丨智能涌现独家",
+        "url": "https://36kr.com/p/3807382930251523?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-13T07:24:16.000Z",
+        "summary": "文｜周鑫雨 邓咏仪 编辑｜杨轩 林俊旸以创业者的身份，重新加入AI模型的战场。 《智能涌现》独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。 目前， 林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约20亿美金的估值开启融资，接触基金包括红杉中国、高榕创投等 。 截至发稿前，有关上述信息，林俊旸尚未回复。 时间距离3月初的那场“闪电”诀别，已经过去了两个月。 2026年3月4日凌晨，林俊旸在",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3807375173131783",
+        "title": "A股三大指数集体收涨，创业板指刷新历史新高",
+        "url": "https://36kr.com/newsflashes/3807375173131783?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-13T07:02:18.000Z",
+        "summary": "36氪获悉，A股三大指数集体收涨，沪指涨0.67%，深成指涨1.67%，创业板指涨2.63%刷新历史新高；算力产业链全线爆发，德明利、大族激光、生益科技、工业富联涨停，天孚通信涨超10%；电力、培育钻石走强，黄河旋风涨停，力量钻石涨超9%，上海电气涨超7%；创新药、白酒跌幅居前，泰格医药跌超4%，古井贡酒、迎驾贡酒跌超3%；个股涨多跌少，沪深京三市超3200股飘红。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3807234971131656",
+        "title": "6月上海，这场论坛聊透出海真问题",
+        "url": "https://36kr.com/p/3807234971131656?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-13T05:04:56.000Z",
+        "summary": "副标题：韧性全球化，AI向未来｜EqualOcean2026出海全球化百人论坛（GGF2026）将于6月11日在上海举行 出海这件事，已经变了。 如果今天还把出海理解为“寻找增量市场”，大概率已经慢了一步。 如今，中国企业出海已经进入一个全新的阶段。真正拉开差距的，早已不是“是否出海”，而是： · 下一阶段最值得重仓的区域市场在哪里？ · AI应该优先进入哪些关键环节，才能形成真正差异化？ · 在资本趋于理性、增长更重质量的背景下，什么",
         "category": "updates",
         "region": "cn"
       },
@@ -1276,16 +1356,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-13T01:24:00.000Z",
         "summary": "36氪获悉，智能建造机器人本体开发商北京方石机器人有限公司（下称「方石机器人」）近期宣布完成近亿元A轮融资，由北京科创亦庄直投基金、航发基金等机构联合投资。资金将主要用于核心产品的研发迭代投入、批量化生产交付能力建设以及海外市场体系布局。 方石机器人产品矩阵 方石机器人成立于2019年，致力于解决建筑行业用工老龄化、作业环境高危低效等痛点，通过打造全栈自研的“具身智能+建筑大模型”AI解决方案，推动传统建筑业向智能建造模式转型。 目前，",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3807001886301702",
-        "title": "国金证券：煤炭二季度业绩有望超预期，底部配置机会显现",
-        "url": "https://36kr.com/newsflashes/3807001886301702?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-13T00:42:34.000Z",
-        "summary": "36氪获悉，国金证券研报称，四部委联合印发AI与能源双向赋能方案，提出2027年清洁能源与算力设施互动能力显著提升，2030年算力清洁能源供给达世界领先。政策聚焦算电协同、低碳管控及AI能源场景应用，强化算电融合产业趋势。三维框架持续演绎：煤价电价上涨、火电业绩韧性兑现、板块低配低估。火电Q1业绩好于预期，自由现金流2025年首次转正至775亿元，公用事业属性凸显。算电协同主题下，电力企业正从能源底座转向算力底座。",
         "category": "updates",
         "region": "cn"
       },
@@ -1311,7 +1381,7 @@
       },
       {
         "id": "InfoQ China:www.infoq.cn/article/bnvwzwb29pu4aorhpqbz",
-        "title": "谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理",
+        "title": "谷歌在 Next 26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理",
         "url": "https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-05-12T17:02:00.000Z",
@@ -1330,42 +1400,12 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/jv9wvvulsvzrjegukbpm",
-        "title": "Kubernetes 自主AI智能体安全防护：新型云工作负载的信任边界、密钥管理与可观测性",
-        "url": "https://www.infoq.cn/article/JV9WVVULSvzrjEGuKBpm?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-12T12:12:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fzzzoo8hcq9queqxeuw6",
-        "title": "企业每月烧掉数百万元Token却算不清账，谁来解决大模型的“最后一公里”工程难题？",
-        "url": "https://www.infoq.cn/article/FzzzoO8hcq9QUEqxEuw6?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-12T11:40:08.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3806196073242112",
         "title": "氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%",
         "url": "https://36kr.com/p/3806196073242112?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-12T11:22:30.000Z",
-        "summary": "大公司： 京东：第一季度营收3157亿元，同比增长4.9% 36氪获悉，京东发布2026年第一季度财报，第一季度营收3157亿元，同比增长4.9%；非美国通用会计准则下（Non-GAAP）归母净利润74亿元；京东零售经营利润��提升至5.6%，经营利润创历史新高。截至一季度，京东年度活跃用户数超7.4亿，季度活跃用户数实现连续10个季度的同比双位数增长。京东体系研发投入在一季度同比增长59%。 华硕第一季度营收2083.7亿元台币 华硕",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vr3wflnwggxd4zdehtyv",
-        "title": "从买算力到卖能力：嬴彻科技七亿商用里程背后的云上飞轮",
-        "url": "https://www.infoq.cn/article/VR3wFlNWgGXD4zDEHTYv?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-12T11:08:18.000Z",
-        "summary": "点击查看原文>",
+        "summary": "大公司： 京东：第一季度营收3157亿元，同比增长4.9% 36氪获悉，京东发布2026年第一季度财报，第一季度营收3157亿元，同比增长4.9%；非美国通用会计准则下（Non-GAAP）归母净利润74亿元；京东零售经营利润率提升至5.6%，经营利润创历史新高。截至一季度，京东年度活跃用户数超7.4亿，季度活跃用户数实现连续10个季度的同比双位数增长。京东体系研发投入在一季度同比增长59%。 华硕第一季度营收2083.7亿元台币 华硕第",
         "category": "updates",
         "region": "cn"
       },
@@ -1376,36 +1416,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-12T10:52:40.000Z",
         "summary": "5月19日至20日，带上你的需求， 带上你的方案，我们在亦庄，不见不散。 如果说过去两年，我们还在争论AI的能力边界，那么2026年的资本市场与产业端已经给出了最直接的回答：AI正经历着一场严苛的“前线压力测试”。 从资本市场用真金白银为应用层投票，到全球科技界重新校准AI的价值尺度，聚光灯正从晦涩的参数竞赛，转向了真实的生产生活。当行业洗牌加速，所有人都在寻找那个能将技术兑换为价值的确定性坐标。 在这样的关键时刻，北京经开区充分发挥产",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/yxxhwlctwcli5erkrokv",
-        "title": "Anthropic 的Harness 工程白做了？Claude Code 被曝不遵守CLAUDE.md，开发者烧光 credits 怒喊退钱",
-        "url": "https://www.infoq.cn/article/YxxhwlcTWclI5ErKROKv?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-12T10:19:56.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/pj9tgucrejorym1zyuzx",
-        "title": "Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
-        "url": "https://www.infoq.cn/article/pj9tgUcrEjORYM1zyUzx?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-12T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/5grihxtlpqpgtqtjy5pg",
-        "title": "Grafana的Kubernetes Monitoring Helm Chart v4版本修复了多项问题",
-        "url": "https://www.infoq.cn/article/5GrIHXTlPQpGTQtjY5pg?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-12T09:17:20.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
@@ -1428,49 +1438,9 @@
         "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。 熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同创立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆盖人工智能、理论物理与微型无人机系统。 目前，熵约科技的首款产品针对家庭空间设计，为全球首",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3805557782486785",
-        "title": "8点1氪丨美国总统特朗普：非常期待中国之行 ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
-        "url": "https://36kr.com/p/3805557782486785?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-12T00:16:27.000Z",
-        "summary": "今日热点导览 天舟十号货运飞船与空间站组合体完成交会对接 国家广播电视总局：4月经备案国产电视动画片51部、9659分钟 任天堂股价因Switch 2游戏前景不佳大幅下跌 千问与淘宝打通，正式上线AI购物 TOP3大新闻 美国总统特朗普：非常期待中国之行 外交部发言人宣布：应国家主席习近平邀请，美利坚合众国总统唐纳德·特朗普将于5月13日至15日对中国进行国事访问。 当地时间5月11日，美国总统特朗普在其社交媒体“真实社交”发文表示，非",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3804356346879495",
-        "title": "量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例",
-        "url": "https://36kr.com/p/3804356346879495?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-12T00:00:00.000Z",
-        "summary": "文｜胡香赟 编辑｜海若镜 在科幻电影《流浪地球2》中，拥有指数级运算能力的智能量子计算机“MOSS”，不仅能统筹起全世界的计算资源，支撑1万台“行星发动机”同步运转，还承载足“数字生命计划”那海量的、近乎无底洞般的计算需求，引发大众对量子计算机的无限遐想。这种曾经令人惊叹的科幻设定，如今已慢慢从实验室走向商业化落地。 按照“十五五规划纲要”，量子科技已被列入六大未来产业之一；市场层面的热度同样高涨：据IT桔子数据，到今年4月，国内量子计",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3353310/how-bytedance-plans-turn-openclaw-craze-profitable-ai-business",
-        "title": "How ByteDance plans to turn OpenClaw craze into a profitable AI business",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3353310/how-bytedance-plans-turn-openclaw-craze-profitable-ai-business?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-13T02:00:05.000Z",
-        "summary": "ByteDance’s Volcano Engine, the cloud unit that released an OpenClaw-based cloud agent tool ArkClaw, is betting that the next phase of artificial intelligence will hinge on cheaper tokens, higher inference efficiency and",
-        "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3353341/hong-kong-biotech-firm-uses-ai-produce-nano-rockets-deliver-life-saving-drugs",
-        "title": "Hong Kong-listed biotech firm uses AI to produce nano-rockets to deliver life-saving drugs",
-        "url": "https://www.scmp.com/business/banking-finance/article/3353341/hong-kong-biotech-firm-uses-ai-produce-nano-rockets-deliver-life-saving-drugs?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-13T01:30:13.000Z",
-        "summary": "Shares of METiS TechBio surged 173 per cent on their Hong Kong debut on Wednesday as the AI-driven drug design start-up’s initial public offering drew strong demand from investors amid buoyant sentiment for AI-related st",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3353044/alibaba-brings-chat-style-shopping-taobao-and-qwen-amid-ai-gateway-push",
         "title": "Alibaba brings chat-style shopping to Taobao and Qwen amid AI gateway push: source",
@@ -1489,16 +1459,6 @@
         "publishedAt": "2026-05-08T13:06:07.000Z",
         "summary": "Chinese artificial intelligence high-flier DeepSeek is expected to close its first external financing round soon, boosting its valuation to up to US$50 billion, according to three people familiar with the matter, as the ",
         "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3352644/chinas-chipmakers-rush-embrace-deepseeks-v4-which-names-stand-out",
-        "title": "China’s chipmakers rush to embrace DeepSeek’s V4. Which names stand out?",
-        "url": "https://www.scmp.com/tech/big-tech/article/3352644/chinas-chipmakers-rush-embrace-deepseeks-v4-which-names-stand-out?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-06T12:30:05.000Z",
-        "summary": "The release of DeepSeek’s latest large language model, V4, has been followed by a wave of adoption among domestic semiconductor manufacturers and artificial intelligence chipmakers, with firms racing to support the model",
-        "category": "tools",
         "region": "cn_en"
       }
     ]
