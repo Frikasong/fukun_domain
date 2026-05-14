@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T08:29:00.791Z",
+  "generatedAt": "2026-05-14T13:49:42.416Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/netdocuments-unveils-legal-context-graph-to-map-legal-knowledge-alongside-a-reimagined-platform.html",
+        "title": "NetDocuments Unveils Legal Context Graph to Map Legal Knowledge, Alongside A &#8216;Reimagined&#8217; Platform",
+        "url": "https://www.lawnext.com/2026/05/netdocuments-unveils-legal-context-graph-to-map-legal-knowledge-alongside-a-reimagined-platform.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-14T12:00:06.000Z",
+        "summary": "NetDocuments today announced what it calls the first legal context graph — a proprietary knowledge infrastructure that the company says continuously maps the relationships among every matter, document, communication and ",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/14/litera-webinar-education-training-in-the-age-of-legal-ai",
         "title": "Litera Webinar: Education + Training in the Age of Legal AI",
@@ -1158,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/01/lawnext-from-customer-to-acquirer-filevines-ryan-anderson-and-pincites-sona-sulakian-on-building-ai-contract-intelligence.html",
-        "title": "LawNext: From Customer to Acquirer: Filevine&#8217;s Ryan Anderson and Pincites&#8217; Sona Sulakian on Building AI Contract Intelligence",
-        "url": "https://www.lawnext.com/2026/01/lawnext-from-customer-to-acquirer-filevines-ryan-anderson-and-pincites-sona-sulakian-on-building-ai-contract-intelligence.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-29T14:54:14.000Z",
-        "summary": "In this episode of LawNext, we talk with Ryan Anderson, co-founder and CEO of Filevine, and Sona Sulakian, former CEO and co-founder of Pincites, about Filevine&#8217;s acquisition of the AI-powered contract redlining co",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,21 +1210,41 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ktrp5kz1fmkw5rmmmfor",
-        "title": "AWS WorkSpaces 支持 AI 智能体直接操作遗留桌面应用程序",
-        "url": "https://www.infoq.cn/article/ktRP5kz1fMkW5rmmMFoR?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/gepoh90zqdwlpimrcqez",
+        "title": "当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化",
+        "url": "https://www.infoq.cn/article/gEPoH90ZqdWLPimRcQez?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-14T14:29:00.000Z",
+        "publishedAt": "2026-05-14T19:45:22.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/rlhmqfieosqutuhq7bjc",
-        "title": "Gemini 进手机，Android 翻身；Gemini进电脑，全网开喷！",
-        "url": "https://www.infoq.cn/article/rLHmQFIEosQUtUHq7bjc?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/gfihdw48whuo5yo61adb",
+        "title": "当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化",
+        "url": "https://www.infoq.cn/video/GfiHDW48wHUO5yO61ADB?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-14T14:04:30.000Z",
+        "publishedAt": "2026-05-14T19:33:56.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/uebjftee771jvijextqh",
+        "title": "AWS 改进 Aurora Serverless：扩容速度提升 45%，吞吐量提高 30%",
+        "url": "https://www.infoq.cn/article/UeBJfTee771jVIJextqH?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-14T18:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/40uq0bey3l25lo1rwvzb",
+        "title": "从服务器 OS 到 Agent 沙箱：腾讯云如何打通 AI Infra 的生态底座",
+        "url": "https://www.infoq.cn/article/40UQ0beY3L25lo1rWVzb?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-14T17:50:56.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1240,22 +1260,32 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/p/3809007831375621",
+        "title": "氪星晚报｜千里智驾CEO辟谣离职传闻；三星在计划罢工前夕启动减产",
+        "url": "https://36kr.com/p/3809007831375621?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-14T10:43:16.000Z",
+        "summary": "大公司： 苏州高新：董事长王平因个人原因辞职 36氪获悉，苏州高新公告，公司董事会近日收到董事长王平的书面辞职报告。王平因个人原因，申请辞去公司董事长、董事等职务，辞职后不在公司担任任何职务。根据《公司法》《公司章程》及相关规定，董事长王平的离任未导致公司董事会人数低于法定最低人数，不影响公司董事会正常运行，不会对公司经营产生影响。公司将按照法定程序，尽快完成新任董事长的选举、法定代表人变更工作。为保障公司经营工作正常开展，由副董事长、",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3808710182034944",
+        "title": "腾讯，把AI塞入一切",
+        "url": "https://36kr.com/p/3808710182034944?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-14T10:36:23.000Z",
+        "summary": "文｜王毓婵 2026年Q1，腾讯的一切都与AI相关。 一季度，腾讯营收1964.6亿元，同比增长9%；Non-IFRS经营利润756.3亿元，同比增长9%。从整体上来说，在AI上的高投入确实让Non-IFRS经营利润从本该有的双位数增长掉到了单位数。 财报显示，若剔除新AI产品（Hy、元宝、CodeBuddy、WorkBuddy及QClaw）的收入、成本及开支影响，Non-IFRS经营利润本该有17%的同比增长。 为支持模型迭代和AI基",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/vkyzqxqd2pmn666vc0cf",
         "title": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
         "url": "https://www.infoq.cn/article/vKYzQxqd2pmN666VC0CF?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-05-14T10:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3808851948068608",
-        "title": "达实智能：目前公司AIoT平台及AI应用业务整体规模仍相对较小",
-        "url": "https://36kr.com/newsflashes/3808851948068608?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-14T08:04:33.000Z",
-        "summary": "36氪获悉，达实智能在互动平台表示，2025年，公司AIoT平台及AI应用签约金额达7847.14万元，全年增长趋势显著。目前公司AIoT平台及AI应用业务整体规模仍相对较小，在公司营业收入中的占比较低，对公司整体经营业绩尚未构成重大影响。",
         "category": "updates",
         "region": "cn"
       },
@@ -1326,36 +1356,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-05-13T16:08:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/r63e4s6zyxrgjfiov96v",
-        "title": "6 天、96 万行 Rust、直接合并？Claude Code 被 Bun 的内存泄漏拖垮后，Bun 让 Claude 亲手重写了自己",
-        "url": "https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-13T15:43:56.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3807623172235011",
-        "title": "2026 AI最佳场景渗透案例重磅揭晓",
-        "url": "https://36kr.com/p/3807623172235011?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-13T11:21:17.000Z",
-        "summary": "如果用一个词来描述当下的AI产业，“落地”已有些过时，“渗透”则更为准确。 “渗透”意味着AI不再是发布会上的炫技Demo，也不再是PPT里的概念模型，而是像水电煤一样，悄无声息地融入企业运营的毛细血管和用户日常的消费决策中。 据麦肯锡《2025 AI应用现状调研》报告显示，在国内大模型的快速崛起推动下，生成式AI已广泛渗透至企业运营中，83%的企业在至少一个职能中实现了常态化使用，这一比例显著领跑全球。更关键的是，45%的受访企业表示",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3807382930251523",
-        "title": "林俊旸创业，新公司估值约20亿美金丨智能涌现独家",
-        "url": "https://36kr.com/p/3807382930251523?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-13T07:24:16.000Z",
-        "summary": "文｜周鑫雨 邓咏仪 编辑｜杨轩 林俊旸以创业者的身份，重新加入AI模型的战场。 《智能涌现》独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。 目前， 林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约20亿美金的估值开启融资，接触基金包括红杉中国、高榕创投等 。 截至发稿前，有关上述信息，林俊旸尚未回复。 时间距离3月初的那场“闪电”诀别，已经过去了两个月。 2026年3月4日凌晨，林俊旸在",
         "category": "updates",
         "region": "cn"
       }
