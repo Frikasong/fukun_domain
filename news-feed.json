@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T02:28:56.273Z",
+  "generatedAt": "2026-05-14T08:29:00.791Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/14/litera-webinar-education-training-in-the-age-of-legal-ai",
+        "title": "Litera Webinar: Education + Training in the Age of Legal AI",
+        "url": "https://www.artificiallawyer.com/2026/05/14/litera-webinar-education-training-in-the-age-of-legal-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-14T08:09:48.000Z",
+        "summary": "On May 26, 11:30 AM EDT, 4:30 PM BST, Litera in partnership with Artificial Lawyer will be holding a vital webinar on legal education and ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/alex&",
         "title": "Ex-lawyer Alex Murdaugh’s murder conviction overturned; prosecutors vow retrial",
@@ -265,16 +275,6 @@
         "publishedAt": "2026-05-12T07:30:07.000Z",
         "summary": "This week’s AL TV Product Walk Through is with Legatics, the legal transaction management pioneer, and takes a look at a range of new capabilities ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/legal-ais-next-act-is-in-house-productivity",
-        "title": "Legal AI’s Next Act Is In-House Productivity",
-        "url": "https://www.artificiallawyer.com/2026/05/12/legal-ais-next-act-is-in-house-productivity/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-12T06:40:17.000Z",
-        "summary": "By Daniel Lewis, Global CEO, LegalOn. Law firm AI is constrained by incentives that resist productivity. In-house legal operates in a model designed to reward ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,11 +1210,31 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/omiei3rqzgxwjohihmwu",
-        "title": "Netflix 推出“模型生命周期图”，扩展企业级机器学习",
-        "url": "https://www.infoq.cn/article/omIEI3rqzgXWJOHiHMWU?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ktrp5kz1fmkw5rmmmfor",
+        "title": "AWS WorkSpaces 支持 AI 智能体直接操作遗留桌面应用程序",
+        "url": "https://www.infoq.cn/article/ktRP5kz1fMkW5rmmMFoR?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-14T10:19:00.000Z",
+        "publishedAt": "2026-05-14T14:29:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/rlhmqfieosqutuhq7bjc",
+        "title": "Gemini 进手机，Android 翻身；Gemini进电脑，全网开喷！",
+        "url": "https://www.infoq.cn/article/rLHmQFIEosQUtUHq7bjc?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-14T14:04:30.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/opaycpzkc45zmvxcnblw",
+        "title": "前阿里Qwen负责人林俊旸再创业，新AI Lab估值136亿元",
+        "url": "https://www.infoq.cn/article/OpaYcpzKc45zmvxCNBlW?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-14T11:40:13.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1230,12 +1250,32 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/iggukfh9qmkmfeizer4t",
-        "title": "谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报",
-        "url": "https://www.infoq.cn/article/IgGuKFh9qmKmFEIZeR4t?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-14T09:23:19.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3808851948068608",
+        "title": "达实智能：目前公司AIoT平台及AI应用业务整体规模仍相对较小",
+        "url": "https://36kr.com/newsflashes/3808851948068608?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-14T08:04:33.000Z",
+        "summary": "36氪获悉，达实智能在互动平台表示，2025年，公司AIoT平台及AI应用签约金额达7847.14万元，全年增长趋势显著。目前公司AIoT平台及AI应用业务整体规模仍相对较小，在公司营业收入中的占比较低，对公司整体经营业绩尚未构成重大影响。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3808769298767369",
+        "title": "03年创始人造火箭，40万做出原型发动机，选了一条没人走过的路｜产业专访",
+        "url": "https://36kr.com/p/3808769298767369?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-14T06:42:23.000Z",
+        "summary": "文 | 阿至 执宇航天创始人张子瀚看起来不像一个还在读大学的本科生。 他说话语速略快，不苟言笑，气质有些老练，习惯用三段式推演的方式来回答问题：先给结论，再拆解前提和路线，最后补充例外或风险。 用张子瀚自己的话说，他是一个 “几乎百分百理性的人，没有任何感性因素去参与我的任何决策”。 这种气质和航天领域有着天然的契合，极度理性、高度自省、目标驱动。但作为闯入这个赛道的异类创业者，他身上又有着天然的矛盾点——过于年轻、没有“背景”、不拘传",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3808685381885700",
+        "title": "万科最值钱的资产浮出水面",
+        "url": "https://36kr.com/p/3808685381885700?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-14T05:16:08.000Z",
+        "summary": "作者 | 王晗玉 编辑 | 张帆 从王石辟谣“被抓”，到今年一季度持续亏损、瘦身，拟32.7亿元转让环山集团股权，进入2026年的万科，依旧深陷舆论漩涡。 风波不断的背景下，普洛斯再度赴港IPO的传闻对当下的万科来说可算是一个利好消息。 此前据多家媒体援引消息人士称，全球物流及新型基础设施巨头普洛斯（GLP）计划最快于今年第二季度向港交所递交上市申请。此次IPO目标集资额不少于10亿美元，公司目标估值约达200亿美元。 尽管普洛斯官方对",
         "category": "updates",
         "region": "cn"
       },
@@ -1261,7 +1301,7 @@
       },
       {
         "id": "36Kr:36kr.com/p/3808362853834502",
-        "title": "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发��掺超高剂量伟哥",
+        "title": "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥",
         "url": "https://36kr.com/p/3808362853834502?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-13T23:50:37.000Z",
@@ -1318,39 +1358,9 @@
         "summary": "文｜周鑫雨 邓咏仪 编辑｜杨轩 林俊旸以创业者的身份，重新加入AI模型的战场。 《智能涌现》独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。 目前， 林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约20亿美金的估值开启融资，接触基金包括红杉中国、高榕创投等 。 截至发稿前，有关上述信息，林俊旸尚未回复。 时间距离3月初的那场“闪电”诀别，已经过去了两个月。 2026年3月4日凌晨，林俊旸在",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3807234971131656",
-        "title": "6月上海，这场论坛聊透出海真问题",
-        "url": "https://36kr.com/p/3807234971131656?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-13T05:04:56.000Z",
-        "summary": "副标题：韧性全球化，AI向未来｜EqualOcean2026出海全球化百人论坛（GGF2026）将于6月11日在上海举行 出海这件事，已经变了。 如果今天还把出海理解为“寻找增量市场”，大概率已经慢了一步。 如今，中国企业出海已经进入一个全新的阶段。真正拉开差距的，早已不是“是否出海”，而是： · 下一阶段最值得重仓的区域市场在哪里？ · AI应该优先进入哪些关键环节，才能形成真正差异化？ · 在资本趋于理性、增长更重质量的背景下，什么",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3807043342475009",
-        "title": "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构",
-        "url": "https://36kr.com/p/3807043342475009?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-13T01:26:14.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，近日，光子芯力（北京）科技有限公司（以下简称“光子芯力”）宣布完成数千万元天使轮融资，由苏州芯阳基金、驰星创投、盛景嘉成联合领投，开源创投跟投。 光子芯力成立于2024年，总部位于北京，是一家专注于光电融合计算芯片的硬科技初创公司。公司创始人杨其晟博士毕业于清华大学集成电路学院，具备光电融合交叉背景，核心团队亦主要来自清华大学，成员覆盖光学、算法、半导体及产业资源等方向。 当前，光计算正被视",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3353487/alibaba-shares-surge-8-new-york-firm-accelerates-pivot-ai",
-        "title": "Alibaba shares surge 7% in Hong Kong as firm accelerates pivot to AI",
-        "url": "https://www.scmp.com/tech/big-tech/article/3353487/alibaba-shares-surge-8-new-york-firm-accelerates-pivot-ai?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-14T01:19:53.000Z",
-        "summary": "Shares of Alibaba Group Holding opened up 7.8 per cent in Hong Kong, after the firm reported strong growth from its artificial intelligence products and ramped up its commitment to the technology. The Chinese tech giant ",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3353044/alibaba-brings-chat-style-shopping-taobao-and-qwen-amid-ai-gateway-push",
         "title": "Alibaba brings chat-style shopping to Taobao and Qwen amid AI gateway push: source",
