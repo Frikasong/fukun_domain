@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T19:42:54.130Z",
+  "generatedAt": "2026-05-14T02:28:56.273Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,16 +7,6 @@
   },
   "panels": {
     "na": [
-      {
-        "id": "OpenAI News:openai.com/index/building-codex-windows-sandbox",
-        "title": "Building a safe, effective sandbox to enable Codex on Windows",
-        "url": "https://openai.com/index/building-codex-windows-sandbox",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-15T00:00:00.000Z",
-        "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
-        "category": "updates",
-        "region": "na"
-      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/alex&",
         "title": "Ex-lawyer Alex Murdaugh’s murder conviction overturned; prosecutors vow retrial",
@@ -1206,9 +1196,79 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/omiei3rqzgxwjohihmwu",
+        "title": "Netflix 推出“模型生命周期图”，扩展企业级机器学习",
+        "url": "https://www.infoq.cn/article/omIEI3rqzgXWJOHiHMWU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-14T10:19:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vkyzqxqd2pmn666vc0cf",
+        "title": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+        "url": "https://www.infoq.cn/article/vKYzQxqd2pmN666VC0CF?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-14T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/iggukfh9qmkmfeizer4t",
+        "title": "谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报",
+        "url": "https://www.infoq.cn/article/IgGuKFh9qmKmFEIZeR4t?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-14T09:23:19.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3807162054106624",
+        "title": "30万亿细胞迷宫里寻路，MIT博士7年跑出一家上市公司",
+        "url": "https://36kr.com/p/3807162054106624?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-14T02:13:54.000Z",
+        "summary": "文 | 胡香赟 编辑 | 海若镜 5月13日，招股书秘交三个多月后，37岁的赖才达带领剂泰科技登陆港交所。开盘上涨170%，上市首日收涨127%，市值超270亿港币。 在这位带着几分书生气的麻省理工学院(MIT)化工博士背后，站着贝莱德、瑞银、国新基金、高瓴等基石投资机构，香港公开发售环节超购6900倍。 从成立到IPO，剂泰科技用了七年时间。2019年，晶泰科技内部筹备孵化剂泰科技，由时任执行COO赖才达牵头。他与晶泰科技联合创始人温",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3807831328300549",
+        "title": "36氪首发 | 九号领投一家AI智能影像设备公司，在巨头夹缝中年增长近4倍",
+        "url": "https://36kr.com/p/3807831328300549?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-14T01:30:37.000Z",
+        "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能体育影像品牌「XbotGo」（深眸远智）于近期完成近亿元的新一轮融资。由九号资本领投，元禾控股、不同资本跟投，老股东零一创投超额跟投，云岫资本担任长期独家财务顾问。 在青少年体育运动文化发达的美国，体育不仅仅是竞技，更是家庭生活的核心。相关数据显示，美国有超过3000万青少年参与专业体育训练，美国家庭每周花在孩子体育活动上的时间平均高达10小时。 然而，一个长期困扰家长的痛点是：在赛场上",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3808362853834502",
+        "title": "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发��掺超高剂量伟哥",
+        "url": "https://36kr.com/p/3808362853834502?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-13T23:50:37.000Z",
+        "summary": "今日热点导览 腾讯刘炽平：腾讯没有大裁员计划 韩国政府称将支持三星与工会对话解决纠纷，以避免罢工 中美经贸磋商在韩国开始举行 宇树科技已注册多款机器人商标 TikTok在印尼、美国、日本三国官宣生活服务品牌TikTok GO TOP 3 大新闻 林俊旸创业，新公司估值约20亿美金 36氪独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。目前，林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约2",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/79trpwbenjeshu3c3ylb",
         "title": "当 AI Agent 走进生产数据库，DBA 的角色正在被重新定义",
@@ -1236,26 +1296,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-05-13T15:43:56.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3807695701663496",
-        "title": "截至4月30日累计有868款生成式人工智能服务完成备案",
-        "url": "https://36kr.com/newsflashes/3807695701663496?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-13T12:38:16.000Z",
-        "summary": "36氪获悉，据“网信中国”消息，2026年3月至4月新增72款生成式人工智能服务在国家网信办完成备案，对于通过API接口或其他方式直接调用已备案模型能力的生成式人工智能应用或功能，由地方网信办开展登记，新增49款完成登记。截至4月30日，累计有868款生成式人工智能服务完成备案，530款生成式人工智能应用或功能完成登记。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3807650611420676",
-        "title": "众合科技：公司主营业务不涉及算力业务，并无光通信领域业务布局",
-        "url": "https://36kr.com/newsflashes/3807650611420676?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-13T11:50:24.000Z",
-        "summary": "36氪获悉，众合科技公告，股票交易价格于2026年5月12日、2026年5月13日连续两个交易日收盘价格涨幅偏离值累计为20.15%，属于股票交易异常波动情形。公司关注到近期有部分媒体、自媒体报道和股吧等平台对公司业务相关讨论涉及“磷化铟”“光芯片”“半导体材料”“算力”等热点概念。上市公司没有“磷化铟”和“光芯片”相关产品和业务。经核实，截至目前，公司主营业务不涉及算力业务，公司并无光通信领域的业务布局。",
         "category": "updates",
         "region": "cn"
       },
@@ -1298,59 +1338,19 @@
         "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，近日，光子芯力（北京）科技有限公司（以下简称“光子芯力”）宣布完成数千万元天使轮融资，由苏州芯阳基金、驰星创投、盛景嘉成联合领投，开源创投跟投。 光子芯力成立于2024年，总部位于北京，是一家专注于光电融合计算芯片的硬科技初创公司。公司创始人杨其晟博士毕业于清华大学集成电路学院，具备光电融合交叉背景，核心团队亦主要来自清华大学，成员覆盖光学、算法、半导体及产业资源等方向。 当前，光计算正被视",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3807039782116865",
-        "title": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
-        "url": "https://36kr.com/p/3807039782116865?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-13T01:24:00.000Z",
-        "summary": "36氪获悉，智能建造机器人本体开发商北京方石机器人有限公司（下称「方石机器人」）近期宣布完成近亿元A轮融资，由北京科创亦庄直投基金、航发基金等机构联合投资。资金将主要用于核心产品的研发迭代投入、批量化生产交付能力建设以及海外市场体系布局。 方石机器人产品矩阵 方石机器人成立于2019年，致力于解决建筑行业用工老龄化、作业环境高危低效等痛点，通过打造全栈自研的“具身智能+建筑大模型”AI解决方案，推动传统建筑业向智能建造模式转型。 目前，",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3806970999955201",
-        "title": "8点1氪丨宇树发布载人变形机甲，定价390万起；微信确认不会开发已读、访客功能；国内航线燃油附加费将再上调",
-        "url": "https://36kr.com/p/3806970999955201?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-13T00:11:51.000Z",
-        "summary": "今日热点导览 中央网信办：平台发布短视频必选6类标签 抖音集团短剧版权中心：2026年真人短剧的保底扶持预算超15亿元 快手：正在评估拟议重组可灵AI之相关资产及业务的方案，拟议方案仍处于初步阶段 网易云音乐全面接入DeepSeek-V4 阿里发布AI店小蜜，平均询单转化提升超10% TOP3大新闻 宇树科技发布GD01载人变形机甲，投资人回应 5月12日，宇树发布GD01载人变形机甲GD01，定价390万元起。宇树创始人王兴兴亲自登上",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ac0kvqlz4cs2phacwvpp",
-        "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
-        "url": "https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-12T20:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3806196073242112",
-        "title": "氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%",
-        "url": "https://36kr.com/p/3806196073242112?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-12T11:22:30.000Z",
-        "summary": "大公司： 京东：第一季度营收3157亿元，同比增长4.9% 36氪获悉，京东发布2026年第一季度财报，第一季度营收3157亿元，同比增长4.9%；非美国通用会计准则下（Non-GAAP）归母净利润74亿元；京东零售经营利润率提升至5.6%，经营利润创历史新高。截至一季度，京东年度活跃用户数超7.4亿，季度活跃用户数实现连续10个季度的同比双位数增长。京东体系研发投入在一季度同比增长59%。 华硕第一季度营收2083.7亿元台币 华硕第",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3806179759496711",
-        "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
-        "url": "https://36kr.com/p/3806179759496711?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-12T10:52:40.000Z",
-        "summary": "5月19日至20日，带上你的需求， 带上你的方案，我们在亦庄，不见不散。 如果说过去两年，我们还在争论AI的能力边界，那么2026年的资本市场与产业端已经给出了最直接的回答：AI正经历着一场严苛的“前线压力测试”。 从资本市场用真金白银为应用层投票，到全球科技界重新校准AI的价值尺度，聚光灯正从晦涩的参数竞赛，转向了真实的生产生活。当行业洗牌加速，所有人都在寻找那个能将技术兑换为价值的确定性坐标。 在这样的关键时刻，北京经开区充分发挥产",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3353487/alibaba-shares-surge-8-new-york-firm-accelerates-pivot-ai",
+        "title": "Alibaba shares surge 7% in Hong Kong as firm accelerates pivot to AI",
+        "url": "https://www.scmp.com/tech/big-tech/article/3353487/alibaba-shares-surge-8-new-york-firm-accelerates-pivot-ai?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-14T01:19:53.000Z",
+        "summary": "Shares of Alibaba Group Holding opened up 7.8 per cent in Hong Kong, after the firm reported strong growth from its artificial intelligence products and ramped up its commitment to the technology. The Chinese tech giant ",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3353044/alibaba-brings-chat-style-shopping-taobao-and-qwen-amid-ai-gateway-push",
         "title": "Alibaba brings chat-style shopping to Taobao and Qwen amid AI gateway push: source",
