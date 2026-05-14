@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T13:49:42.416Z",
+  "generatedAt": "2026-05-14T19:28:35.355Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,96 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/happy&",
+        "title": "Happy to reach out, but how? Do clients prefer texts or emails, and what makes the most sense for counsel?",
+        "url": "https://www.abajournal.com/web/article/happy&#45;to&#45;reach&#45;out&#45;but&#45;how/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-14T18:41:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/employees&",
+        "title": "Employees sue USDA secretary over &#8216;increasingly proselytizing&#8217; Christian emails",
+        "url": "https://www.abajournal.com/news/article/employees&#45;sue&#45;usda&#45;secretary&#45;over&#45;increasingly&#45;proselytizing&#45;christian&#45;emails/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-14T18:35:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/evenup-extends-beyond-software-with-launch-of-pre-litigation-as-a-service-offering-for-pi-law-firms.html",
+        "title": "EvenUp Extends Beyond Software with Launch of &#8216;Pre-Litigation-as-a-Service&#8217; Offering For PI Law Firms",
+        "url": "https://www.lawnext.com/2026/05/evenup-extends-beyond-software-with-launch-of-pre-litigation-as-a-service-offering-for-pi-law-firms.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-14T17:51:55.000Z",
+        "summary": "EvenUp, the personal injury AI company that reached a $2 billion valuation last fall, is making a significant shift in its business model – one that extends it beyond software vendor to something closer to an outsourced ",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/new&",
+        "title": "Former Brooklyn Supreme Court judge arrested for alleged involvement in real estate fraud schemes",
+        "url": "https://www.abajournal.com/news/article/new&#45;york&#45;ex&#45;judge&#45;arrested&#45;in&#45;fraud&#45;investigation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-14T17:13:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/anthropic&",
+        "title": "Anthropic launches Claude for Legal, expands generative AI offerings for lawyers",
+        "url": "https://www.abajournal.com/news/article/anthropic&#45;launches&#45;claude&#45;for&#45;legal&#45;giving&#45;lawyers&#45;20&#45;new&#45;program&#45;integrations&#45;and&#45;12&#45;practice&#45;area&#45;plugins/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-14T16:40:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/fewer&",
+        "title": "Fewer law school grads head to government, public interest or clerkship jobs",
+        "url": "https://www.abajournal.com/news/article/fewer&#45;law&#45;school&#45;grads&#45;head&#45;to&#45;government&#45;public&#45;interest&#45;or&#45;clerkship&#45;jobs/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-14T16:05:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
+        "title": "DOJ sues DC Bar amid fight over disciplining Trump administration attorneys",
+        "url": "https://www.abajournal.com/news/article/doj&#45;sues&#45;dc&#45;bar&#45;amid&#45;fight&#45;over&#45;disciplining&#45;trump&#45;administration&#45;attorneys/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-14T15:24:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/edig365-aims-to-gives-legal-teams-reporting-and-visibility-within-microsoft-purview-e-discovery.html",
+        "title": "eDig365 Aims To Gives Legal Teams Reporting and Visibility within Microsoft Purview E-Discovery",
+        "url": "https://www.lawnext.com/2026/05/edig365-aims-to-gives-legal-teams-reporting-and-visibility-within-microsoft-purview-e-discovery.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-14T15:18:48.000Z",
+        "summary": "A new legal technology product called eDig365 is making its public debut this week at the CLOC Global Institute in Chicago, offering a reporting and observability layer built on top of Microsoft Purview eDiscovery. The p",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
+        "title": "Federal judge sentenced to probation in drunk driving case",
+        "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;in&#45;michigan&#45;sentenced&#45;to&#45;probation&#45;in&#45;drunk&#45;driving&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-14T15:02:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/05/netdocuments-unveils-legal-context-graph-to-map-legal-knowledge-alongside-a-reimagined-platform.html",
         "title": "NetDocuments Unveils Legal Context Graph to Map Legal Knowledge, Alongside A &#8216;Reimagined&#8217; Platform",
@@ -58,62 +148,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former DLA Piper summer associate sues firm for allegedly revoking job offer over Palestinian ties",
-        "url": "https://www.abajournal.com/news/article/former&#45;dla&#45;piper&#45;summer&#45;associate&#45;sues&#45;firm&#45;for&#45;allegedly&#45;revoking&#45;job&#45;offer&#45;over&#45;palestinian&#45;ties/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-13T15:31:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/women&",
-        "title": "2 women sue Las Vegas hotels for allegedly allowing trafficking on premises",
-        "url": "https://www.abajournal.com/news/article/women&#45;sue&#45;vegas&#45;hotels&#45;for&#45;allowing&#45;trafficking/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-13T15:08:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/new&",
-        "title": "Undergrads&#8217; paths to postgrad education, careers examined in new LSAC, AALS study",
-        "url": "https://www.abajournal.com/news/article/new&#45;lsac&#45;and&#45;aals&#45;study&#45;to&#45;examine&#45;undergrads&#45;paths&#45;to&#45;postgrad&#45;education&#45;and&#45;careers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-13T14:43:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/legalrebels/article/rebels&",
-        "title": "How AI has supercharged dispute resolution and arbitration",
-        "url": "https://www.abajournal.com/legalrebels/article/rebels&#45;podcast&#45;episode&#45;124/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-13T14:06:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/05/clio-says-it-has-surpassed-500m-in-annual-recurring-revenue.html",
         "title": "Clio, Once A Feisty Startup, Says It Has Now Surpassed $500M In Annual Recurring Revenue",
         "url": "https://www.lawnext.com/2026/05/clio-says-it-has-surpassed-500m-in-annual-recurring-revenue.html",
         "source": "LawSites",
         "publishedAt": "2026-05-13T14:01:05.000Z",
         "summary": "Amid all the hubbub yesterday around Claude for legal, Clio quietly slipped in a notable story of its own: that it has now surpassed $500 million in annual recurring revenue. Since few legal tech companies are public, it",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/repeat&",
-        "title": "Repeat test-takers drag down bar pass rates for February exam",
-        "url": "https://www.abajournal.com/web/article/repeat&#45;test&#45;takers&#45;drag&#45;down&#45;bar&#45;pass&#45;rates&#45;for&#45;february&#45;exam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-13T13:57:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -158,16 +198,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/trumps&",
-        "title": "Trump’s New York US attorney pick committed misconduct, disciplinary investigation finds",
-        "url": "https://www.abajournal.com/news/article/trumps&#45;pick&#45;for&#45;albany&#45;us&#45;attorney&#45;committed&#45;professional&#45;misconduct&#45;according&#45;to&#45;disciplinary&#45;investigation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-12T19:35:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/al-interview-mark-pike-anthropic-associate-general-counsel",
         "title": "AL Interview: Mark Pike, Anthropic Associate General Counsel",
         "url": "https://www.artificiallawyer.com/2026/05/12/al-interview-mark-pike-anthropic-associate-general-counsel/",
@@ -205,16 +235,6 @@
         "publishedAt": "2026-05-12T17:17:06.000Z",
         "summary": "Anthropic today took its biggest step yet into the legal market, releasing more than 20 new MCP connectors linking Claude to the software that law firms and legal departments run on, along with 12 new plugins tailored to",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/we&",
-        "title": "Pathway Pioneers: A look at supervised practice bar alternatives in 2 states",
-        "url": "https://www.abajournal.com/web/article/we&#45;asked&#45;candidates&#45;and&#45;their&#45;bosses&#45;whats&#45;it&#45;like&#45;to&#45;take&#45;a&#45;new&#45;pathway&#45;to&#45;the&#45;bar/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-12T17:08:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1148,26 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/02/with-two-weeks-left-to-vote-here-are-the-standings-for-aba-techshows-startup-alley.html",
-        "title": "With Two Weeks Left to Vote, Here Are the Standings for ABA Techshow&#8217;s Startup Alley",
-        "url": "https://www.lawnext.com/2026/02/with-two-weeks-left-to-vote-here-are-the-standings-for-aba-techshows-startup-alley.html",
-        "source": "LawSites",
-        "publishedAt": "2026-02-02T15:05:36.000Z",
-        "summary": "With just two weeks left to pick the 15 legal tech startups that will get to compete at the 10th-annual Startup Alley at ABA TECHSHOW, below are the standings so far, ranked by total votes received. Remember, your votes ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/01/guest-post-in-the-second-of-his-three-part-series-ken-crutchfield-looks-at-whether-upl-will-hit-the-breaking-point-in-2026.html",
-        "title": "Guest Post: In the Second of His Three-Part Series, Ken Crutchfield Looks At Whether UPL Will Hit the Breaking Point in 2026",
-        "url": "https://www.lawnext.com/2026/01/guest-post-in-the-second-of-his-three-part-series-ken-crutchfield-looks-at-whether-upl-will-hit-the-breaking-point-in-2026.html",
-        "source": "LawSites",
-        "publishedAt": "2026-01-30T19:57:34.000Z",
-        "summary": "Where does all the pressure building in legal tech concentrate? On unauthorized practice of law (UPL), says Ken Crutchfield — and something&#8217;s got to give. In Part 1 of his series on &#8220;The New Physics of Legal ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1209,26 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/gepoh90zqdwlpimrcqez",
-        "title": "当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化",
-        "url": "https://www.infoq.cn/article/gEPoH90ZqdWLPimRcQez?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-14T19:45:22.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/gfihdw48whuo5yo61adb",
-        "title": "当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化",
-        "url": "https://www.infoq.cn/video/GfiHDW48wHUO5yO61ADB?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-14T19:33:56.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/uebjftee771jvijextqh",
         "title": "AWS 改进 Aurora Serverless：扩容速度提升 45%，吞吐量提高 30%",
