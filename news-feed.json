@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T02:27:16.242Z",
+  "generatedAt": "2026-05-15T08:40:15.363Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,13 +1210,33 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/fz17lfx18bjzvbg31aiw",
-        "title": "GitHub 推出 MCP 服务器集成，全面扩展机密扫描功能",
-        "url": "https://www.infoq.cn/article/Fz17LfX18bjZVBG31AIW?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/8jh0uinm7sdakzprlxwq",
+        "title": "JEP 533 加强 JDK 27 中 Java 结构化并发的异常处理",
+        "url": "https://www.infoq.cn/article/8jh0UiNm7SdaKzprlXWq?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-15T10:12:00.000Z",
+        "publishedAt": "2026-05-15T16:12:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/rtbxo0yg1cq0kfwd2uek",
+        "title": "兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T",
+        "url": "https://www.infoq.cn/article/rtbXo0YG1cQ0kFwd2ueK?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-15T15:08:25.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/mjfmxfhf29sa5ufhr2qv",
+        "title": "Anthropic 推出 Claude Platform on AWS",
+        "url": "https://www.infoq.cn/article/mjFmXfhf29SA5UFhr2QV?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-15T11:10:20.000Z",
+        "summary": "点击查看原文>",
+        "category": "tools",
         "region": "cn"
       },
       {
@@ -1230,22 +1250,42 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/yuljk2ubszxszowbzhos",
-        "title": "科大讯飞面向超大规模教育场景的 Agent 系统架构演进与工程实践｜AICon上海",
-        "url": "https://www.infoq.cn/article/yuljK2uBsZXszoWbZhOS?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-15T10:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3810274127306246",
+        "title": "恒指收跌1.62%，恒生科技指数跌2.66%",
+        "url": "https://36kr.com/newsflashes/3810274127306246?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-15T08:11:16.000Z",
+        "summary": "36氪获悉，恒指收跌1.62%，恒生科技指数跌2.66%；科技、AI应用领跌，华虹半导体、哔哩哔哩跌超8%，MINIMAX-WP跌超6%，阿里巴巴、智谱跌超4%；家电、煤炭板块逆势走强，首钢资源涨近4%，海信家电涨超3%；南向资金净买入249.55亿港元。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/1huccjrazwgf7qnt232r",
-        "title": "复制失败与脏碎片：Linux 页面缓存漏洞影响所有主流发行版",
-        "url": "https://www.infoq.cn/article/1HucCJrazwgF7QNT232r?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-15T09:37:08.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3810245246934793",
+        "title": "港交所IPO募资额暴增571%",
+        "url": "https://36kr.com/newsflashes/3810245246934793?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-15T07:50:49.000Z",
+        "summary": "香港交易所近日公布的数据显示，今年以来，有53家企业在港交所上市，累计募资1578亿港元，同比增长571%。其中，内地企业赴港上市数量为48家，撑起港股IPO大盘，直接助推港交所登顶全球IPO市场。分析人士表示，这轮港交所上市热潮，既是中国科技企业依托香港金融平台对接全球资本，也是全球资本在争相布局中国新质生产力红利。在申请上市的企业中，人工智能、高端半导体、生物医药、先进制造等硬科技企业成了绝对主力，百亿港元级别龙头企业更是占比超过七",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3810091479293449",
+        "title": "长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家",
+        "url": "https://36kr.com/p/3810091479293449?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-15T06:49:06.000Z",
+        "summary": "36氪从多位产业人士处了解到，千里科技正积极与长安、奥迪、奇瑞等车企，洽谈智能化合作。 其中，长安不仅有意向搭载千里科技辅助驾驶方案，还计划入股千里科技，双方原定于今年年初完成股权变更。但目前，据知情人士透露，该计划暂无实质性进展。 36氪了解到，北汽是千里科技眼下最具确定性的外部客户，双方计划于今年内成立合资公司。 千里科技与北汽计划合作5款车型，其中包含一款轿车，一款越野车型，还有一款轿跑猎装版。其中部分车型计划于今年发布。 除长安",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3809936183860740",
+        "title": "36氪首发｜航天发动机核心部件厂商获投，国内唯一具备核心部件一站式制造能力的民营企业",
+        "url": "https://36kr.com/p/3809936183860740?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-15T02:28:57.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京思创航天精密制造有限公司（以下简称“思创航天”）近日完成新一轮数千万元融资，由丹诚资本独家投资。 思创航天前身为沈阳融创精密制造有限公司航天项目中心（融创精密为上市公司富创精密全资子公司），早在2020年3月便已开始参与航天发动机零部件制造业务，并于2025年正式独立成立公司。 目前，公司专注于航天发动机、卫星及其他航天产品核心零部件的精密制造。主要客户包括星河动力、星际荣耀、东方空间、",
         "category": "updates",
         "region": "cn"
       },
@@ -1300,42 +1340,12 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/opaycpzkc45zmvxcnblw",
-        "title": "前阿里Qwen负责人林俊旸再创业，新AI Lab估值136亿元",
-        "url": "https://www.infoq.cn/article/OpaYcpzKc45zmvxCNBlW?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-14T11:40:13.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3809007831375621",
         "title": "氪星晚报｜千里智驾CEO辟谣离职传闻；三星在计划罢工前夕启动减产",
         "url": "https://36kr.com/p/3809007831375621?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-14T10:43:16.000Z",
         "summary": "大公司： 苏州高新：董事长王平因个人原因辞职 36氪获悉，苏州高新公告，公司董事会近日收到董事长王平的书面辞职报告。王平因个人原因，申请辞去公司董事长、董事等职务，辞职后不在公司担任任何职务。根据《公司法》《公司章程》及相关规定，董事长王平的离任未导致公司董事会人数低于法定最低人数，不影响公司董事会正常运行，不会对公司经营产生影响。公司将按照法定程序，尽快完成新任董事长的选举、法定代表人变更工作。为保障公司经营工作正常开展，由副董事长、",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3808710182034944",
-        "title": "腾讯，把AI塞入一切",
-        "url": "https://36kr.com/p/3808710182034944?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-14T10:36:23.000Z",
-        "summary": "文｜王毓婵 2026年Q1，腾讯的一切都与AI相关。 一季度，腾讯营收1964.6亿元，同比增长9%；Non-IFRS经营利润756.3亿元，同比增长9%。从整体上来说，在AI上的高投入确实让Non-IFRS经营利润从本该有的双位数增长掉到了单位数。 财报显示，若剔除新AI产品（Hy、元宝、CodeBuddy、WorkBuddy及QClaw）的收入、成本及开支影响，Non-IFRS经营利润本该有17%的同比增长。 为支持模型迭代和AI基",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vkyzqxqd2pmn666vc0cf",
-        "title": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
-        "url": "https://www.infoq.cn/article/vKYzQxqd2pmN666VC0CF?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-14T10:00:00.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
