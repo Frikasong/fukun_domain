@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T19:28:35.355Z",
+  "generatedAt": "2026-05-15T02:27:16.242Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,76 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/fz17lfx18bjzvbg31aiw",
+        "title": "GitHub 推出 MCP 服务器集成，全面扩展机密扫描功能",
+        "url": "https://www.infoq.cn/article/Fz17LfX18bjZVBG31AIW?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-15T10:12:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/5qhoqqcudrgbbnfmm4dk",
+        "title": "蚂蚁灵波开源LingBot-VLA真机后训练全流程代码，150条示教数据即可适配新机器人",
+        "url": "https://www.infoq.cn/article/5QHOQQCUdrGBBNfmm4Dk?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-15T10:08:15.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/yuljk2ubszxszowbzhos",
+        "title": "科大讯飞面向超大规模教育场景的 Agent 系统架构演进与工程实践｜AICon上海",
+        "url": "https://www.infoq.cn/article/yuljK2uBsZXszoWbZhOS?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-15T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/1huccjrazwgf7qnt232r",
+        "title": "复制失败与脏碎片：Linux 页面缓存漏洞影响所有主流发行版",
+        "url": "https://www.infoq.cn/article/1HucCJrazwgF7QNT232r?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-15T09:37:08.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3809919654403587",
+        "title": "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元",
+        "url": "https://36kr.com/p/3809919654403587?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-15T02:11:30.000Z",
+        "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，消费级桌面CNC与智能数字制造平台「无限工坊（Infimaker）」近日宣布，连续获得多轮融资，融资金额近亿元，投资机构包括美团战投、昆仑资本及奇绩创坛。本轮资金将主要用于产品研发、供应链建设以及高质量量产交付。 无限工坊成立于2024年11月，由多位前DJI核心成员及机器人领域海归博士联合创立。团队所切入的消费级CNC（数控机床）也是Maker赛道里的最后一块拼图。 在消费级3D打印、消费",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3807527591058948",
+        "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
+        "url": "https://36kr.com/p/3807527591058948?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-15T01:25:50.000Z",
+        "summary": "文｜彭倩 编辑｜乔芊 阿里千亿巨额投入后，回报正在逐一兑现。 财报显示，阿里巴巴2026年第四财季（即自然年Q1）营收2433.8亿元，同比增长3%。若不考虑高鑫零售和银泰等已出售业务的收入，同口径收入同比增长为11%。 营收同比双位数增长主要由云业务（包含 AI 云和传统云）推动。Q1阿里云表现依然亮眼，保持了高增长态势，营收整体同比增长38%，符合市场预期。其中来自外部客户的收入同比增长超过40%，较上个季度同比增长35%继续加速，",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3809785128869641",
+        "title": "8点1氪丨周大福回应金饰又涨价；韩国一季度未成年人股票账户暴涨近十倍；张雪机车820RR暂停生产交付",
+        "url": "https://36kr.com/p/3809785128869641?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-14T23:57:02.000Z",
+        "summary": "今日热点导览 李强会见美国工商界代表 微信成立800人团队适配鸿蒙，约占开发人员一半 周大福回应金饰又涨价 韩国要求三星与工会5月16日恢复谈判 美参议院批准凯文·沃什出任美联储主席 TOP 3 大新闻 韩国一季度未成年人股票账户暴涨近十倍 近日，三星电子市值突破1万亿美元大关，成为亚洲市值第二高企业。推动这股强劲势头的，正是韩国那支多达1400万人交易大军的回归，他们已向本土股市投入了约37.7万亿韩元（约合人民币1722亿元）。 在",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/uebjftee771jvijextqh",
         "title": "AWS 改进 Aurora Serverless：扩容速度提升 45%，吞吐量提高 30%",
         "url": "https://www.infoq.cn/article/UeBJfTee771jVIJextqH?utm_source=rss&utm_medium=article",
@@ -1265,76 +1335,6 @@
         "url": "https://www.infoq.cn/article/vKYzQxqd2pmN666VC0CF?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-05-14T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3808769298767369",
-        "title": "03年创始人造火箭，40万做出原型发动机，选了一条没人走过的路｜产业专访",
-        "url": "https://36kr.com/p/3808769298767369?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-14T06:42:23.000Z",
-        "summary": "文 | 阿至 执宇航天创始人张子瀚看起来不像一个还在读大学的本科生。 他说话语速略快，不苟言笑，气质有些老练，习惯用三段式推演的方式来回答问题：先给结论，再拆解前提和路线，最后补充例外或风险。 用张子瀚自己的话说，他是一个 “几乎百分百理性的人，没有任何感性因素去参与我的任何决策”。 这种气质和航天领域有着天然的契合，极度理性、高度自省、目标驱动。但作为闯入这个赛道的异类创业者，他身上又有着天然的矛盾点——过于年轻、没有“背景”、不拘传",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3808685381885700",
-        "title": "万科最值钱的资产浮出水面",
-        "url": "https://36kr.com/p/3808685381885700?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-14T05:16:08.000Z",
-        "summary": "作者 | 王晗玉 编辑 | 张帆 从王石辟谣“被抓”，到今年一季度持续亏损、瘦身，拟32.7亿元转让环山集团股权，进入2026年的万科，依旧深陷舆论漩涡。 风波不断的背景下，普洛斯再度赴港IPO的传闻对当下的万科来说可算是一个利好消息。 此前据多家媒体援引消息人士称，全球物流及新型基础设施巨头普洛斯（GLP）计划最快于今年第二季度向港交所递交上市申请。此次IPO目标集资额不少于10亿美元，公司目标估值约达200亿美元。 尽管普洛斯官方对",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3807162054106624",
-        "title": "30万亿细胞迷宫里寻路，MIT博士7年跑出一家上市公司",
-        "url": "https://36kr.com/p/3807162054106624?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-14T02:13:54.000Z",
-        "summary": "文 | 胡香赟 编辑 | 海若镜 5月13日，招股书秘交三个多月后，37岁的赖才达带领剂泰科技登陆港交所。开盘上涨170%，上市首日收涨127%，市值超270亿港币。 在这位带着几分书生气的麻省理工学院(MIT)化工博士背后，站着贝莱德、瑞银、国新基金、高瓴等基石投资机构，香港公开发售环节超购6900倍。 从成立到IPO，剂泰科技用了七年时间。2019年，晶泰科技内部筹备孵化剂泰科技，由时任执行COO赖才达牵头。他与晶泰科技联合创始人温",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3807831328300549",
-        "title": "36氪首发 | 九号领投一家AI智能影像设备公司，在巨头夹缝中年增长近4倍",
-        "url": "https://36kr.com/p/3807831328300549?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-14T01:30:37.000Z",
-        "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能体育影像品牌「XbotGo」（深眸远智）于近期完成近亿元的新一轮融资。由九号资本领投，元禾控股、不同资本跟投，老股东零一创投超额跟投，云岫资本担任长期独家财务顾问。 在青少年体育运动文化发达的美国，体育不仅仅是竞技，更是家庭生活的核心。相关数据显示，美国有超过3000万青少年参与专业体育训练，美国家庭每周花在孩子体育活动上的时间平均高达10小时。 然而，一个长期困扰家长的痛点是：在赛场上",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3808362853834502",
-        "title": "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥",
-        "url": "https://36kr.com/p/3808362853834502?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-13T23:50:37.000Z",
-        "summary": "今日热点导览 腾讯刘炽平：腾讯没有大裁员计划 韩国政府称将支持三星与工会对话解决纠纷，以避免罢工 中美经贸磋商在韩国开始举行 宇树科技已注册多款机器人商标 TikTok在印尼、美国、日本三国官宣生活服务品牌TikTok GO TOP 3 大新闻 林俊旸创业，新公司估值约20亿美金 36氪独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。目前，林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约2",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/79trpwbenjeshu3c3ylb",
-        "title": "当 AI Agent 走进生产数据库，DBA 的角色正在被重新定义",
-        "url": "https://www.infoq.cn/article/79tRpwBeNjESHu3c3YLb?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-13T17:22:58.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/acta4vllcqbotu5vw2cr",
-        "title": "GitHub 如何保障现代CI/CD系统中智能体工作流的安全",
-        "url": "https://www.infoq.cn/article/ACTA4vlLcqBOTu5vw2cR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-13T16:08:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
