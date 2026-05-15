@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T08:40:15.363Z",
+  "generatedAt": "2026-05-15T13:46:45.641Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/15/claude-for-legal-clio-500m-legal-innovators-california",
+        "title": "Claude For Legal, Clio $500m, Legal Innovators California +",
+        "url": "https://www.artificiallawyer.com/2026/05/15/claude-for-legal-clio-500m-legal-innovators-california/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-15T09:31:16.000Z",
+        "summary": "And another massive week for legal AI! But first, let’s hear it for our amazing Legal Innovators California sponsors. Below are many of the legal ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/happy&",
         "title": "Happy to reach out, but how? Do clients prefer texts or emails, and what makes the most sense for counsel?",
@@ -295,16 +305,6 @@
         "publishedAt": "2026-05-12T08:46:17.000Z",
         "summary": "OpenAI – the LLM pioneer that had it all, but has more recently squandered some of its lead – is now going all-in on driving ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/product-walk-through-legatics-transaction-management-2",
-        "title": "Product Walk Through: Legatics – Transaction Management",
-        "url": "https://www.artificiallawyer.com/2026/05/12/product-walk-through-legatics-transaction-management-2/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-12T07:30:07.000Z",
-        "summary": "This week’s AL TV Product Walk Through is with Legatics, the legal transaction management pioneer, and takes a look at a range of new capabilities ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1210,13 +1210,23 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/8jh0uinm7sdakzprlxwq",
-        "title": "JEP 533 加强 JDK 27 中 Java 结构化并发的异常处理",
-        "url": "https://www.infoq.cn/article/8jh0UiNm7SdaKzprlXWq?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/knkrhgzrva7r6prtlgb5",
+        "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
+        "url": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-15T16:12:00.000Z",
+        "publishedAt": "2026-05-15T20:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/mjfmxfhf29sa5ufhr2qv",
+        "title": "Anthropic 推出 Claude Platform on AWS",
+        "url": "https://www.infoq.cn/article/mjFmXfhf29SA5UFhr2QV?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-15T18:12:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "tools",
         "region": "cn"
       },
       {
@@ -1230,13 +1240,33 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/mjfmxfhf29sa5ufhr2qv",
-        "title": "Anthropic 推出 Claude Platform on AWS",
-        "url": "https://www.infoq.cn/article/mjFmXfhf29SA5UFhr2QV?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-15T11:10:20.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
+        "id": "36Kr:36kr.com/newsflashes/3810508672458248",
+        "title": "麦肯锡推行人工智能时代薪酬改革，削减合伙人现金分红比例",
+        "url": "https://36kr.com/newsflashes/3810508672458248?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-15T12:31:45.000Z",
+        "summary": "为简化薪酬体系、扩充资本金规模，并抵御咨询行业市场波动风险，麦肯锡计划下调合伙人可直接现金支取的利润分成比例。据知情人士透露，这家顶尖咨询机构已告知全体合伙人，未来薪酬中将有更大比例以股权形式发放，以此增厚公司资金储备，部分合伙人收入因此变动金额可达数万美元。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3810482830089984",
+        "title": "杰瑞股份：2026年以来与美国四客户签署燃气轮机发电机组合同累计超9亿美元",
+        "url": "https://36kr.com/newsflashes/3810482830089984?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-15T11:54:31.000Z",
+        "summary": "36氪获悉，杰瑞股份在投资者关系活动记录表中披露，2026年以来公司共与美国四个不同客户签署四份燃气轮机发电机组销售合同，累计合同金额超9亿美元。随着全球人工智能高速发展，数据中心用电需求持续增加，燃气轮机发电市场需求空间广阔。在业务规划方面，燃气轮机发电设备业务是公司电力业务板块布局之一。电力板块将在数据中心、工业能源和新型电力系统三大赛道持续深耕，不断拓展不同领域业务，构建多元化客户群体。未来，电力板块的战略地位与重要性将进一步凸显",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3810460460916226",
+        "title": "北方华创：“CCP设备定价通常较中微低”的传闻说法不属实",
+        "url": "https://36kr.com/newsflashes/3810460460916226?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-15T11:20:49.000Z",
+        "summary": "36氪获悉，北方华创在业绩说明会上表示，从目前行业景气度和客户端资本开支规划来看，2026年国内逻辑、存储、先进封装等领域需求保持旺盛。公司对2026年整体订单规模保持乐观。2026-2027年国内半导体设备整体资本开支仍会维持高位，整体处在景气扩张区间。此外，北方华创在回答“市场反馈CCP设备定价通常较中微低10–15%，公司是否考虑通过更积极的价格或促销策略来获取新老品类的市场份额？”的提问时表示，市场传闻说法并不属实。公司始终坚持",
+        "category": "updates",
         "region": "cn"
       },
       {
@@ -1250,22 +1280,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3810274127306246",
-        "title": "恒指收跌1.62%，恒生科技指数跌2.66%",
-        "url": "https://36kr.com/newsflashes/3810274127306246?f=rss",
+        "id": "36Kr:36kr.com/p/3810308239465986",
+        "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
+        "url": "https://36kr.com/p/3810308239465986?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-15T08:11:16.000Z",
-        "summary": "36氪获悉，恒指收跌1.62%，恒生科技指数跌2.66%；科技、AI应用领跌，华虹半导体、哔哩哔哩跌超8%，MINIMAX-WP跌超6%，阿里巴巴、智谱跌超4%；家电、煤炭板块逆势走强，首钢资源涨近4%，海信家电涨超3%；南向资金净买入249.55亿港元。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3810245246934793",
-        "title": "港交所IPO募资额暴增571%",
-        "url": "https://36kr.com/newsflashes/3810245246934793?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-15T07:50:49.000Z",
-        "summary": "香港交易所近日公布的数据显示，今年以来，有53家企业在港交所上市，累计募资1578亿港元，同比增长571%。其中，内地企业赴港上市数量为48家，撑起港股IPO大盘，直接助推港交所登顶全球IPO市场。分析人士表示，这轮港交所上市热潮，既是中国科技企业依托香港金融平台对接全球资本，也是全球资本在争相布局中国新质生产力红利。在申请上市的企业中，人工智能、高端半导体、生物医药、先进制造等硬科技企业成了绝对主力，百亿港元级别龙头企业更是占比超过七",
+        "publishedAt": "2026-05-15T08:51:47.000Z",
+        "summary": "当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择是：直接问AI。 “20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面？”……这些曾经需要查阅大量攻略、对比无数参数的消费决策，如今正被一个个简洁的AI问答窗口所承接。DeepSeek、豆包、通义千问、腾讯元宝等主流AI助手，正以前所未有的深度渗透进我们的消费生活，成为事实",
         "category": "updates",
         "region": "cn"
       },
@@ -1310,42 +1330,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3809785128869641",
-        "title": "8点1氪丨周大福回应金饰又涨价；韩国一季度未成年人股票账户暴涨近十倍；张雪机车820RR暂停生产交付",
-        "url": "https://36kr.com/p/3809785128869641?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-14T23:57:02.000Z",
-        "summary": "今日热点导览 李强会见美国工商界代表 微信成立800人团队适配鸿蒙，约占开发人员一半 周大福回应金饰又涨价 韩国要求三星与工会5月16日恢复谈判 美参议院批准凯文·沃什出任美联储主席 TOP 3 大新闻 韩国一季度未成年人股票账户暴涨近十倍 近日，三星电子市值突破1万亿美元大关，成为亚洲市值第二高企业。推动这股强劲势头的，正是韩国那支多达1400万人交易大军的回归，他们已向本土股市投入了约37.7万亿韩元（约合人民币1722亿元）。 在",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/uebjftee771jvijextqh",
         "title": "AWS 改进 Aurora Serverless：扩容速度提升 45%，吞吐量提高 30%",
         "url": "https://www.infoq.cn/article/UeBJfTee771jVIJextqH?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-05-14T18:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/40uq0bey3l25lo1rwvzb",
-        "title": "从服务器 OS 到 Agent 沙箱：腾讯云如何打通 AI Infra 的生态底座",
-        "url": "https://www.infoq.cn/article/40UQ0beY3L25lo1rWVzb?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-14T17:50:56.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3809007831375621",
-        "title": "氪星晚报｜千里智驾CEO辟谣离职传闻；三星在计划罢工前夕启动减产",
-        "url": "https://36kr.com/p/3809007831375621?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-14T10:43:16.000Z",
-        "summary": "大公司： 苏州高新：董事长王平因个人原因辞职 36氪获悉，苏州高新公告，公司董事会近日收到董事长王平的书面辞职报告。王平因个人原因，申请辞去公司董事长、董事等职务，辞职后不在公司担任任何职务。根据《公司法》《公司章程》及相关规定，董事长王平的离任未导致公司董事会人数低于法定最低人数，不影响公司董事会正常运行，不会对公司经营产生影响。公司将按照法定程序，尽快完成新任董事长的选举、法定代表人变更工作。为保障公司经营工作正常开展，由副董事长、",
         "category": "updates",
         "region": "cn"
       }
@@ -1359,16 +1349,6 @@
         "publishedAt": "2026-05-10T10:35:23.000Z",
         "summary": "Chinese e-commerce giant Alibaba Group Holding is preparing an overhaul of how local consumers shop online, betting that the next trend will feel more like chatting with an artificial intelligence chatbot rather than typ",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3352945/deepseek-soon-close-first-external-fundraising-us50b-valuation-sources",
-        "title": "DeepSeek to soon close first external fundraising in US$50b valuation: sources",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3352945/deepseek-soon-close-first-external-fundraising-us50b-valuation-sources?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-08T13:06:07.000Z",
-        "summary": "Chinese artificial intelligence high-flier DeepSeek is expected to close its first external financing round soon, boosting its valuation to up to US$50 billion, according to three people familiar with the matter, as the ",
-        "category": "updates",
         "region": "cn_en"
       }
     ]
