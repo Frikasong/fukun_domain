@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T13:46:45.641Z",
+  "generatedAt": "2026-05-15T19:19:39.198Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,66 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
+        "title": "ABA Journal earns honorable mention as Magazine of the Year from business publication editors",
+        "url": "https://www.abajournal.com/news/article/aba&#45;journal&#45;earns&#45;honorable&#45;mention&#45;as&#45;magazine&#45;of&#45;the&#45;year&#45;from&#45;business&#45;publication&#45;editors/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-15T19:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/california&",
+        "title": "State Bar of California recommends state supreme court pick NextGen UBE for 2028",
+        "url": "https://www.abajournal.com/web/article/california&#45;state&#45;bar&#45;recommends&#45;state&#45;supreme&#45;court&#45;pick&#45;nextgen&#45;ube&#45;for&#45;2028/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-15T18:37:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/la&",
+        "title": "Judge’s ‘disparaging’ courtroom remarks publicly reproved by disciplinary commission",
+        "url": "https://www.abajournal.com/news/article/la&#45;judges&#45;disparaging&#45;courtroom&#45;remarks&#45;result&#45;in&#45;public&#45;reproval&#45;by&#45;disciplinary&#45;commission/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-15T16:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/biglaw&",
+        "title": "BigLaw firm commits nearly $1M to summer associates, nonprofits in new program",
+        "url": "https://www.abajournal.com/news/article/biglaw&#45;firm&#45;commits&#45;nearly&#45;1m&#45;to&#45;summer&#45;associates&#45;nonprofits&#45;in&#45;new&#45;program/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-15T14:51:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/trump&",
+        "title": "Trump lawyer picked for appeals court advances to Senate floor",
+        "url": "https://www.abajournal.com/news/article/trump&#45;lawyer&#45;picked&#45;for&#45;appeals&#45;court&#45;advances&#45;through&#45;senate&#45;panel/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-15T14:35:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/law-librarians-name-thomson-reuters-cocounsel-as-winner-of-2026-new-product-award.html",
+        "title": "Law Librarians Name Thomson Reuters CoCounsel As Winner Of 2026 New Product Award",
+        "url": "https://www.lawnext.com/2026/05/law-librarians-name-thomson-reuters-cocounsel-as-winner-of-2026-new-product-award.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-15T13:51:47.000Z",
+        "summary": "The American Association of Law Libraries has named Thomson Reuters CoCounsel Legal the recipient of its 2026 New Product Award, the organization announced yesterday. AALL&#8217;s New Product Award recognizes commercial ",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/15/claude-for-legal-clio-500m-legal-innovators-california",
         "title": "Claude For Legal, Clio $500m, Legal Innovators California +",
@@ -78,16 +138,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
-        "title": "DOJ sues DC Bar amid fight over disciplining Trump administration attorneys",
-        "url": "https://www.abajournal.com/news/article/doj&#45;sues&#45;dc&#45;bar&#45;amid&#45;fight&#45;over&#45;disciplining&#45;trump&#45;administration&#45;attorneys/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-14T15:24:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/05/edig365-aims-to-gives-legal-teams-reporting-and-visibility-within-microsoft-purview-e-discovery.html",
         "title": "eDig365 Aims To Gives Legal Teams Reporting and Visibility within Microsoft Purview E-Discovery",
         "url": "https://www.lawnext.com/2026/05/edig365-aims-to-gives-legal-teams-reporting-and-visibility-within-microsoft-purview-e-discovery.html",
@@ -95,16 +145,6 @@
         "publishedAt": "2026-05-14T15:18:48.000Z",
         "summary": "A new legal technology product called eDig365 is making its public debut this week at the CLOC Global Institute in Chicago, offering a reporting and observability layer built on top of Microsoft Purview eDiscovery. The p",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
-        "title": "Federal judge sentenced to probation in drunk driving case",
-        "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;in&#45;michigan&#45;sentenced&#45;to&#45;probation&#45;in&#45;drunk&#45;driving&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-14T15:02:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -124,36 +164,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-05-14T08:09:48.000Z",
         "summary": "On May 26, 11:30 AM EDT, 4:30 PM BST, Litera in partnership with Artificial Lawyer will be holding a vital webinar on legal education and ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/alex&",
-        "title": "Ex-lawyer Alex Murdaugh’s murder conviction overturned; prosecutors vow retrial",
-        "url": "https://www.abajournal.com/news/article/alex&#45;murdaughs&#45;murder&#45;conviction&#45;overturned&#45;prosecutors&#45;vow&#45;to&#45;retrial/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-13T18:59:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/parents&",
-        "title": "Parents accuse ChatGPT of assisting in son’s drug-induced death",
-        "url": "https://www.abajournal.com/news/article/parents&#45;accuse&#45;chatgpt&#45;of&#45;assisting&#45;in&#45;sons&#45;drug&#45;induced&#45;death/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-13T16:40:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/jany&",
-        "title": "Lawyer brings experience as a Cuban immigrant to work with Hispanic community",
-        "url": "https://www.abajournal.com/web/article/jany&#45;martinez&#45;ward&#45;brings&#45;experience&#45;as&#45;a&#45;cuban&#45;immigrant&#45;to&#45;work&#45;with&#45;hispanic&#45;community/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-13T16:02:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1158,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/02/at-the-legal-services-corporations-innovation-conference-talk-of-radical-collaboration-cutting-edge-ai-and-doing-more-with-what-you-have.html",
-        "title": "At the Legal Services Corporation&#8217;s Innovation Conference, Talk of &#8216;Radical Collaboration,&#8217; Cutting-Edge AI, and Doing More with What You Have",
-        "url": "https://www.lawnext.com/2026/02/at-the-legal-services-corporations-innovation-conference-talk-of-radical-collaboration-cutting-edge-ai-and-doing-more-with-what-you-have.html",
-        "source": "LawSites",
-        "publishedAt": "2026-02-02T16:02:14.000Z",
-        "summary": "In video remarks that opened the second day of the Legal Services Corporation&#8217;s annual Innovations in Technology Conference in San Antonio last week, Bridget Mary McCormack, president and CEO of the American Arbitr",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1236,6 +1236,16 @@
         "source": "InfoQ China",
         "publishedAt": "2026-05-15T15:08:25.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3810562142445058",
+        "title": "理想出牌：全新L9上市，45.98万元起｜最前线",
+        "url": "https://36kr.com/p/3810562142445058?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-15T14:28:10.000Z",
+        "summary": "理想汽车CEO 李想 能让李想豁出去跳舞挣眼球的发布会，仅在全新一代理想L9上市。 5月15日，理想发布会了全新一代理想L9，推出两个版本——理想L9 livis，售价 50.98万元；理想L9 Ultra版，售价45.98万元。且理想给出了现金2万元的首销权益，截止于6月30日。 36氪汽车曾报道指出 ，理想今年第一目标就是加固增程和高端市场的基本盘。今年产品重心将回归增程市场，用换代产品拿回增程领先的位置。 全新一代理想L9就是第一",
         "category": "updates",
         "region": "cn"
       },
@@ -1316,16 +1326,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-15T02:11:30.000Z",
         "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，消费级桌面CNC与智能数字制造平台「无限工坊（Infimaker）」近日宣布，连续获得多轮融资，融资金额近亿元，投资机构包括美团战投、昆仑资本及奇绩创坛。本轮资金将主要用于产品研发、供应链建设以及高质量量产交付。 无限工坊成立于2024年11月，由多位前DJI核心成员及机器人领域海归博士联合创立。团队所切入的消费级CNC（数控机床）也是Maker赛道里的最后一块拼图。 在消费级3D打印、消费",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3807527591058948",
-        "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
-        "url": "https://36kr.com/p/3807527591058948?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-15T01:25:50.000Z",
-        "summary": "文｜彭倩 编辑｜乔芊 阿里千亿巨额投入后，回报正在逐一兑现。 财报显示，阿里巴巴2026年第四财季（即自然年Q1）营收2433.8亿元，同比增长3%。若不考虑高鑫零售和银泰等已出售业务的收入，同口径收入同比增长为11%。 营收同比双位数增长主要由云业务（包含 AI 云和传统云）推动。Q1阿里云表现依然亮眼，保持了高增长态势，营收整体同比增长38%，符合市场预期。其中来自外部客户的收入同比增长超过40%，较上个季度同比增长35%继续加速，",
         "category": "updates",
         "region": "cn"
       },
