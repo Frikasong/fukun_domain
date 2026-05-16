@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T19:19:39.198Z",
+  "generatedAt": "2026-05-16T02:09:44.239Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/aba&",
+        "title": "ABA Legal Ed council votes to repeal diversity and inclusion standard",
+        "url": "https://www.abajournal.com/web/article/aba&#45;legal&#45;ed&#45;council&#45;votes&#45;to&#45;repeal&#45;diversity&#45;and&#45;inclusion&#45;standard/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-15T20:31:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/aba&",
         "title": "ABA Journal earns honorable mention as Magazine of the Year from business publication editors",
@@ -123,16 +133,6 @@
         "url": "https://www.abajournal.com/news/article/anthropic&#45;launches&#45;claude&#45;for&#45;legal&#45;giving&#45;lawyers&#45;20&#45;new&#45;program&#45;integrations&#45;and&#45;12&#45;practice&#45;area&#45;plugins/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-05-14T16:40:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/fewer&",
-        "title": "Fewer law school grads head to government, public interest or clerkship jobs",
-        "url": "https://www.abajournal.com/news/article/fewer&#45;law&#45;school&#45;grads&#45;head&#45;to&#45;government&#45;public&#45;interest&#45;or&#45;clerkship&#45;jobs/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-14T16:05:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/jrjkdccvrjyznuahl9lm",
+        "title": "记忆感知的大模型 KVCache 优化｜AICon上海",
+        "url": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-16T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3811265856626440",
+        "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
+        "url": "https://36kr.com/p/3811265856626440?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-16T01:03:11.000Z",
+        "summary": "今日热点导览 OpenAI正考虑采取法律手段起诉苹果公司 三星电子开发下一代HBM封装技术，或用于智能手机等移动设备 海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群 世界银行首席经济学家英德米特・吉尔将于8月卸任退休 “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示 TOP 3大新闻 央视确认获得2026年世界杯版权，费用为6000万美元 5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/knkrhgzrva7r6prtlgb5",
         "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
         "url": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
@@ -1270,16 +1290,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3810460460916226",
-        "title": "北方华创：“CCP设备定价通常较中微低”的传闻说法不属实",
-        "url": "https://36kr.com/newsflashes/3810460460916226?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-15T11:20:49.000Z",
-        "summary": "36氪获悉，北方华创在业绩说明会上表示，从目前行业景气度和客户端资本开支规划来看，2026年国内逻辑、存储、先进封装等领域需求保持旺盛。公司对2026年整体订单规模保持乐观。2026-2027年国内半导体设备整体资本开支仍会维持高位，整体处在景气扩张区间。此外，北方华创在回答“市场反馈CCP设备定价通常较中微低10–15%，公司是否考虑通过更积极的价格或促销策略来获取新老品类的市场份额？”的提问时表示，市场传闻说法并不属实。公司始终坚持",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/5qhoqqcudrgbbnfmm4dk",
         "title": "蚂蚁灵波开源LingBot-VLA真机后训练全流程代码，150条示教数据即可适配新机器人",
         "url": "https://www.infoq.cn/article/5QHOQQCUdrGBBNfmm4Dk?utm_source=rss&utm_medium=article",
@@ -1316,26 +1326,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-15T02:28:57.000Z",
         "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京思创航天精密制造有限公司（以下简称“思创航天”）近日完成新一轮数千万元融资，由丹诚资本独家投资。 思创航天前身为沈阳融创精密制造有限公司航天项目中心（融创精密为上市公司富创精密全资子公司），早在2020年3月便已开始参与航天发动机零部件制造业务，并于2025年正式独立成立公司。 目前，公司专注于航天发动机、卫星及其他航天产品核心零部件的精密制造。主要客户包括星河动力、星际荣耀、东方空间、",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3809919654403587",
-        "title": "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元",
-        "url": "https://36kr.com/p/3809919654403587?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-15T02:11:30.000Z",
-        "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，消费级桌面CNC与智能数字制造平台「无限工坊（Infimaker）」近日宣布，连续获得多轮融资，融资金额近亿元，投资机构包括美团战投、昆仑资本及奇绩创坛。本轮资金将主要用于产品研发、供应链建设以及高质量量产交付。 无限工坊成立于2024年11月，由多位前DJI核心成员及机器人领域海归博士联合创立。团队所切入的消费级CNC（数控机床）也是Maker赛道里的最后一块拼图。 在消费级3D打印、消费",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/uebjftee771jvijextqh",
-        "title": "AWS 改进 Aurora Serverless：扩容速度提升 45%，吞吐量提高 30%",
-        "url": "https://www.infoq.cn/article/UeBJfTee771jVIJextqH?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-14T18:00:00.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
