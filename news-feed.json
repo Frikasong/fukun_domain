@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T07:52:34.065Z",
+  "generatedAt": "2026-05-16T13:03:11.070Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/16/al-view-claude-for-legal-moves-centre-stage",
+        "title": "AL View: Claude For Legal Moves Centre Stage",
+        "url": "https://www.artificiallawyer.com/2026/05/16/al-view-claude-for-legal-moves-centre-stage/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-16T08:12:04.000Z",
+        "summary": "Friday’s Claude for Legal webinar confirmed – without any doubt – what AL has believed since the first plugin arrived, namely that Anthropic intends to ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/aba&",
         "title": "ABA Legal Ed council votes to repeal diversity and inclusion standard",
@@ -305,16 +315,6 @@
         "publishedAt": "2026-05-12T12:00:55.000Z",
         "summary": "Transaction Management company DealCloser has struck a deal with Thomson Reuters that brings CoCounsel Legal’s AI document review capability into its deal platform. DealCloser, which ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/openai-launches-deployment-company-will-it-impact-legal-tech",
-        "title": "OpenAI Launches ‘Deployment Company’ &#8211; Will It Impact Legal Tech?",
-        "url": "https://www.artificiallawyer.com/2026/05/12/openai-launches-deployment-company-will-it-impact-legal-tech/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-12T08:46:17.000Z",
-        "summary": "OpenAI – the LLM pioneer that had it all, but has more recently squandered some of its lead – is now going all-in on driving ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1220,6 +1220,16 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3811663965560329",
+        "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+        "url": "https://36kr.com/newsflashes/3811663965560329?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-16T08:01:59.000Z",
+        "summary": "36氪获悉，近日，网易传媒旗下网易新闻、网易小蜜蜂正式宣布接入DeepSeek-V4大模型。全面升级新闻资讯分发、智能内容创作、社区互动服务、AI工具辅助及个性化推荐等核心场景。据了解，网易小蜜蜂近期即将推出“校园龙虾养成计划”，创新地将前沿人工智能技术融入年轻用户日常社交场景。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/newsflashes/3811623947476489",
         "title": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
         "url": "https://36kr.com/newsflashes/3811623947476489?f=rss",
@@ -1236,16 +1246,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-16T06:13:31.000Z",
         "summary": "36氪获悉，近日，蔚来高管力洪全面解读神玑NX9031智驾芯片，直面车载芯片行业参数注水、概念营销的乱象，重新明确了高端先进车载芯片的核心评判标准，打破行业唯算力论的片面宣传误区。 当下AI智驾时代，芯片综合调度能力远比纸面算力重要，高内存带宽、真实算力、高效协同、稳定量产，才是先进车载芯片的四大硬核标准。针对行业稀疏、稠密算力模糊概念泛滥，算力数值普遍注水3-6倍的乱象，蔚来坚持硬核自研、拒绝文字营销，不以片面参数误导用户。 性能层面",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3811348121100035",
-        "title": "上海电信率先发布Token资费套餐：1元对应25万额度点 支持手机账单付",
-        "url": "https://36kr.com/newsflashes/3811348121100035?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-16T02:57:38.000Z",
-        "summary": "面对AI时代日益增长的Token需求，上海电信宣布，即日起面向上海电信用户正式推出Token算力服务，成为上海首个发布Token资费套餐运营商。具体来说，一是按量订购，1元对应25万额度点（以KiMi-K2.5模型为例，约可支持调用25万输入Tokens）；二是按需选择，用多少买多少，多买可享折扣，支持话费账单支付。另据记者从上海电信获悉，用户购买额度点后，通过标准API接口即可调用30余款主流大模型（文本、多模态），将AI能力集成到自",
         "category": "updates",
         "region": "cn"
       },
