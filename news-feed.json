@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T18:52:20.715Z",
+  "generatedAt": "2026-05-17T02:14:41.854Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,26 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/xv4rl7fwmoncizoiryt9",
+        "title": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+        "url": "https://www.infoq.cn/article/xV4rl7FWmONciZOiRyt9?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-17T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3812663316274949",
+        "title": "印度股市市值蒸发9240亿美元，错失人工智能浪潮",
+        "url": "https://36kr.com/newsflashes/3812663316274949?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-17T01:28:35.000Z",
+        "summary": "在人工智能贸易重塑全球投资格局的大背景下，印度俨然成为最大输家之一。形势发生急剧转变，印度股市时隔三年即将首次跌出全球市值前五。韩股凭借人工智能行情大涨，印度非但无力收复失地，反而面临进一步被甩开的巨大风险。造成这一局面的原因，远不止印度股市估值偏高、企业盈利增速放缓。此前全球投资者曾大举布局印度，如今资金却纷纷涌向印度市场稀缺的赛道：芯片制造、算力基建与人工智能模型领域。印度虽具备人才、市场需求与庞大数字经济体量，但本土头部企业极少直",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/jrjkdccvrjyznuahl9lm",
         "title": "记忆感知的大模型 KVCache 优化｜AICon上海",
