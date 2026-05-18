@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T18:56:31.255Z",
+  "generatedAt": "2026-05-18T02:35:04.204Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,32 +1210,72 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/prtg5mys9cj38fclfcpl",
+        "title": "从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+        "url": "https://www.infoq.cn/article/PrTG5MYs9cj38FclfCPl?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-18T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/afqttwhiy3tadjtnv8gj",
+        "title": "从批处理迁移到微批次流式处理的实战经验",
+        "url": "https://www.infoq.cn/article/AFqttwhIy3TAdjTNv8GJ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-18T09:53:56.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3814174639988226",
+        "title": "北京今日宜休公司增资",
+        "url": "https://36kr.com/newsflashes/3814174639988226?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T02:19:05.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，北京今日宜休科技有限责任公司发生工商变更，新增深圳弘晖天使创新投资合伙企业（有限合伙）、青岛君礼星浩创业投资合伙企业（有限合伙）等为股东，注册资本由约110.9万人民币增至约120万人民币，同时，部分高管发生变更。该公司成立于2026年1月，法定代表人为王腾，经营范围包括软件开发、人工智能应用软件开发、智能家庭消费设备销售等，由王腾、北京星河好梦企业管理咨询合伙企业（有限合伙）及上述新增股东等共同持股",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3814142548762372",
+        "title": "“绮算法”完成数千万元融资",
+        "url": "https://36kr.com/newsflashes/3814142548762372?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T01:46:26.000Z",
+        "summary": "36氪获悉，宠物大模型健康公司“绮算法”、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3813463119863553",
+        "title": "36氪首发 | 获超千万融资，「律动节拍」用演出票撬起千亿跨城观演赛道",
+        "url": "https://36kr.com/p/3813463119863553?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T01:29:37.000Z",
+        "summary": "36 氪获悉，「律动节拍」已于近期完成超千万级新一轮融资，由天空工场创投基金领投，投后估值达数亿元。 「律动节拍」成立于2025 年，是一家为用户提供跨城观演全消费场景的科技型文旅服务企业。公司聚焦 “因演出行” 垂直领域，以 “让一张票成为一座城市的游乐场” 为理念，搭建了面向 C 端用户的 AI演出行程管家。 依托集团其背后的生态资源与市场化合作，律动节拍已完成演出票品、酒旅、交通、餐饮、衍生品等多维度供给接入，通过AI与大数据模型",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3814030630084354",
+        "title": "8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元",
+        "url": "https://36kr.com/p/3814030630084354?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-17T23:55:00.000Z",
+        "summary": "今日热点导览 张雪机车，再夺冠 长安汽车否认与千里科技合作 深圳发布2026年住房发展计划 贵州茅台宣布公斤茅台等四款产品提价 法拉第未来宣布获得2500万美元融资 三星电子会长就公司“内部问题”公开道歉 TOP 3 大新闻 多款燃油车大降价，降幅最高近30% 日前，长安汽车旗下长安逸动经典版正式上市，新车售价6.49万元，限时享23000元购车现金优惠；相较于指导价8.79万元降幅达到26%。该款车型还享有限时的保养礼和流量礼。 其实",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3813305543794440",
         "title": "科氪 | 对话韶音高层：开放式耳机，凭什么成为下一场颠覆TWS的“品类革命”？",
         "url": "https://36kr.com/p/3813305543794440?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-17T11:57:23.000Z",
         "summary": "从运动孤岛到品类革命：解构韶音的“开放式”野心与底层技术硬实力 在消费电子行业普遍面临增长红利见顶的今天，音频赛道却正在上演一场深刻的结构性变革。2026年5月15日下午，大雨初晴的深圳湾广场，Shokz韶音举办了备受瞩目的媒体专访会。韶音中国区CEO杨云与产品线总裁张浩锋悉数到场，向外界系统阐述了这家以“骨传导”和“运动”起家的品牌，如何在稳坐全球开放式耳机出货量第一王座的同时，向更广阔的泛场景音频帝国发起攻坚。 过去两年，开放式耳机",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3813028969406216",
-        "title": "中信证券：AI+能化可能是今年更合适的杠铃结构",
-        "url": "https://36kr.com/newsflashes/3813028969406216?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-17T08:45:26.000Z",
-        "summary": "36氪获悉，中信证券研报表示，AI+能化可能是今年更合适的杠铃结构。今年的AI+能化，或与2023-2024年的AI+红利、2025年的AI+资源类似，有望在全年维度上，成为主要的供需缺口和超额收益来源。配置上，底层逻辑依然是中国优势制造业定价权的重估，最具代表性的行业是新能源、化工、有色、电力设备；继续密切关注国产AI的进展，硬件侧“量”的逻辑爆发仍然是目前AI链条上预期差较大的方向，而国产模型的进步有望推动云服务量价齐升，看好国产算",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3813109650890498",
-        "title": "九连板*ST准油：公司、控股股东和实际控制人并无注入算力资产的计划",
-        "url": "https://36kr.com/newsflashes/3813109650890498?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-17T08:15:43.000Z",
-        "summary": "36氪获悉，*ST准油发布股票交易异常波动暨风险提示性公告称，近期公司关注到，东方财富股吧有投资者发帖称公司有“可能注入算力资产”的计划，公司特此澄清，公司、控股股东和实际控制人并无注入算力资产的计划。截至目前，公司不存在应披露而未披露的重大事项，或处于筹划阶段的重大事项，包括但不限于重大资产重组、股份发行、收购、债务重组、业务重组、资产剥离及资产注入等。公司已连续6年扣非前后净利润孰低为负值，截至本公告发出日，公司基本面未有明显改善。",
         "category": "updates",
         "region": "cn"
       },
@@ -1290,16 +1330,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3811265856626440",
-        "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
-        "url": "https://36kr.com/p/3811265856626440?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-16T01:03:11.000Z",
-        "summary": "今日热点导览 OpenAI正考虑采取法律手段起诉苹果公司 三星电子开发下一代HBM封装技术，或用于智能手机等移动设备 海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群 世界银行首席经济学家英德米特・吉尔将于8月卸任退休 “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示 TOP 3大新闻 央视确认获得2026年世界杯版权，费用为6000万美元 5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/knkrhgzrva7r6prtlgb5",
         "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
         "url": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
@@ -1340,17 +1370,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3353044/alibaba-brings-chat-style-shopping-taobao-and-qwen-amid-ai-gateway-push",
-        "title": "Alibaba brings chat-style shopping to Taobao and Qwen amid AI gateway push: source",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3353044/alibaba-brings-chat-style-shopping-taobao-and-qwen-amid-ai-gateway-push?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-10T10:35:23.000Z",
-        "summary": "Chinese e-commerce giant Alibaba Group Holding is preparing an overhaul of how local consumers shop online, betting that the next trend will feel more like chatting with an artificial intelligence chatbot rather than typ",
-        "category": "tools",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
