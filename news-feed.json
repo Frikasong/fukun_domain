@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T02:35:04.204Z",
+  "generatedAt": "2026-05-18T09:43:09.839Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/18/openai-plans-codex-for-legal",
+        "title": "OpenAI Plans ‘Codex For Legal’",
+        "url": "https://www.artificiallawyer.com/2026/05/18/openai-plans-codex-for-legal/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-18T06:49:59.000Z",
+        "summary": "OpenAI is planning to launch a legal AI offering, joining Anthropic and Microsoft in the strategy of providing legal-specific tools for lawyers. Sources told Artificial ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/16/al-view-claude-for-legal-moves-centre-stage",
         "title": "AL View: Claude For Legal Moves Centre Stage",
@@ -305,16 +315,6 @@
         "publishedAt": "2026-05-12T13:06:21.000Z",
         "summary": "Eudia, the multi-faceted legal AI business focused on inhouse teams, has bundled together a range of its capabilities into a single unified workspace in a ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/dealcloser-integrates-cocounsel-for-ai-doc-review",
-        "title": "DealCloser Integrates CoCounsel For AI Doc Review",
-        "url": "https://www.artificiallawyer.com/2026/05/12/dealcloser-integrates-cocounsel-for-ai-doc-review/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-12T12:00:55.000Z",
-        "summary": "Transaction Management company DealCloser has struck a deal with Thomson Reuters that brings CoCounsel Legal’s AI document review capability into its deal platform. DealCloser, which ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1210,43 +1210,103 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/prtg5mys9cj38fclfcpl",
-        "title": "从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
-        "url": "https://www.infoq.cn/article/PrTG5MYs9cj38FclfCPl?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/qofjdpj1gqkubzg7ybqi",
+        "title": "Cangjie：一门新的开源编译型语言，原生支持效应处理器和代数数据类型",
+        "url": "https://www.infoq.cn/article/qoFJdpJ1GqkUBzg7yBQI?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-18T10:00:00.000Z",
+        "publishedAt": "2026-05-18T17:10:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/afqttwhiy3tadjtnv8gj",
-        "title": "从批处理迁移到微批次流式处理的实战经验",
-        "url": "https://www.infoq.cn/article/AFqttwhIy3TAdjTNv8GJ?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/sakoysnt3r2lcy7ubsir",
+        "title": "Snowflake Observe：可观测性与 AI 数据云的融合 ｜ 技术趋势",
+        "url": "https://www.infoq.cn/article/saKOYsNT3R2lCY7UBSiR?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-18T09:53:56.000Z",
+        "publishedAt": "2026-05-18T17:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3814174639988226",
-        "title": "北京今日宜休公司增资",
-        "url": "https://36kr.com/newsflashes/3814174639988226?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-18T02:19:05.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，北京今日宜休科技有限责任公司发生工商变更，新增深圳弘晖天使创新投资合伙企业（有限合伙）、青岛君礼星浩创业投资合伙企业（有限合伙）等为股东，注册资本由约110.9万人民币增至约120万人民币，同时，部分高管发生变更。该公司成立于2026年1月，法定代表人为王腾，经营范围包括软件开发、人工智能应用软件开发、智能家庭消费设备销售等，由王腾、北京星河好梦企业管理咨询合伙企业（有限合伙）及上述新增股东等共同持股",
+        "id": "InfoQ China:www.infoq.cn/article/retnxlidsyw8hb0hlezr",
+        "title": "H200还没到中国，Anthropic先急了：千亿美元抢芯片，转头涨价让开发者买单",
+        "url": "https://www.infoq.cn/article/retNxLIdsyw8Hb0HlEZr?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-18T16:07:09.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3814142548762372",
-        "title": "“绮算法”完成数千万元融资",
-        "url": "https://36kr.com/newsflashes/3814142548762372?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-18T01:46:26.000Z",
-        "summary": "36氪获悉，宠物大模型健康公司“绮算法”、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。",
+        "id": "InfoQ China:www.infoq.cn/article/dc22nuwr2kfuqew7bb13",
+        "title": "曝Kimi 后训练团队研究员离职，曾为K2.5贡献者；MiniMax最新招聘，兼职也拿期权；传蜜雪CEO隔空回复黄仁勋，“大佬同款”卖爆｜AI周报",
+        "url": "https://www.infoq.cn/article/dC22NUwr2kfuqEW7bb13?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-18T16:04:36.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3814570248412677",
+        "title": "科氪 | 性能极限与跨界尝试：红魔11S Pro系列深度体验",
+        "url": "https://36kr.com/p/3814570248412677?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T09:35:19.000Z",
+        "summary": "在智能手机行业普遍面临镜头模组日益凸出、机身内部堆叠空间受限的背景下，电竞旗舰由于其对散热和功耗的极端要求，往往表现出更为激进的工业设计。作为新一代的性能导向型产品，红魔11S Pro系列通过软硬件的垂直堆叠，试图在移动终端上探索更进一步的性能上限。以下我们将从设计、理论性能释放、以及实际软硬件体验三个维度，对其进行深度拆解。 一、 外观设计：纯平后盖的内部堆叠与电竞美学 从视觉和握持逻辑来看，红魔11S Pro最显著的特征在于其坚守的",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3814580870110978",
+        "title": "张朝阳：搜狐未入局大模型研发，将聚焦AI应用落地",
+        "url": "https://36kr.com/newsflashes/3814580870110978?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T09:12:19.000Z",
+        "summary": "36氪获悉，在2026搜狐科技年度论坛上，搜狐CEO张朝阳表示，“搜狐并未入局大模型第一阵营的研发，大模型研发需要雄厚的资金实力和技术背景，企业应基于自身业务基础理智选择。”他提到，搜狐将聚焦AI应用落地，在提升编程效率、节约运营成本的同时，对内容生成保持克制，保持内容中立性，规避AI带来的内容乱象风险。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3814564513275394",
+        "title": "商务部：正在抓紧筹划出台“人工智能+消费”政策体系",
+        "url": "https://36kr.com/newsflashes/3814564513275394?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T08:55:41.000Z",
+        "summary": "5月18日，商务部副部长盛秋平在国新办新闻发布会上表示，下一步，商务部将以更大力度、更实举措精准有效实施好消费政策，并围绕商品消费、服务消费、线下消费三方面加力谋划出台一批新举措。结合能源转型，商务部将出台针对11万座加油站转型的举措，推动加油站高质量发展。结合城市更新，商务部将聚焦全屋智能家居消费，鼓励推广套餐式、定制化的服务。近期，国家发布了《人工智能终端智能化分级》系列国家标准，商务部正在抓紧筹划出台“人工智能+消费”政策体系。扩",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3814408307711492",
+        "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+        "url": "https://36kr.com/p/3814408307711492?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T07:03:20.000Z",
+        "summary": "进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问： 朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？ AI创业、AI融资如火如荼，属于我的机会又在哪里？ 别人已经在用AI做视频、写代码、跑项目，我是不是已经慢了一拍？ …… 到最后，几乎所有问题都会汇成同一个问题： 我，到底该如何用AI？ 如果你对这些问题还很模糊，不妨来第四届中国AIGC产业峰会走一趟——一天时间，把这一年AI产业最",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3814368445259270",
+        "title": "「宇石空间」完成5亿元A轮融资，今年计划交付三枚火箭，累计融资额已达10亿元｜36氪首发",
+        "url": "https://36kr.com/p/3814368445259270?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T05:38:42.000Z",
+        "summary": "文 | 阿至 36 氪获悉，宇石空间已完成5亿元A轮融资，由高榕创投、昆仑资本联合领投 ，建发新兴、蓝湖资本、弘晖基金、东证资本、臻泰资本、庚辛资本跟投；产业方股东紫金矿业、知名互联网战投、智能终端产业方联合投资，老股东高瓴创投、基石资本、千乘资本、知盛睿盈连续多轮追投。 本轮资金将主要用于火箭总装测试、筷子回收技术验证、火箭产能建设和团队建设，为宇石空间AS-1火箭首飞及后续规模化运营提供保障。 宇石空间 是我们长期关注的企业，专注于",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3814337101111044",
+        "title": "对话万成云商：发文章≠GEO优化，大模型不是喂什么就推什么",
+        "url": "https://36kr.com/p/3814337101111044?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T05:05:40.000Z",
+        "summary": "“帮我搭配一套适合海边度假的衣服。” “帮我推荐一家适合约会的西餐厅。” “3000元预算，买哪款扫地机器人最划算？” 这类与AI的问答正发生在全球数亿用户身上。过去，人们会把这些问题输入百度、谷歌等搜索引擎，因此产生了SEO（Search EngineOptimization，搜索引擎优化）营销。而当流量入口从搜索引擎转向AI工具，GEO（Generative EngineOptimization，生成引擎优化）也应运而生。 区别于传",
+        "category": "tools",
         "region": "cn"
       },
       {
@@ -1290,36 +1350,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3812800346742274",
-        "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
-        "url": "https://36kr.com/p/3812800346742274?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-17T04:59:08.000Z",
-        "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线 ，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达 6.4k 。 academic-research-skills 项目名叫 academic-research-skills （以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的 研究、写作、审稿、定稿 。 只需两行命令安装，直接",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3812789087264519",
-        "title": "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
-        "url": "https://36kr.com/p/3812789087264519?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-17T04:22:40.000Z",
-        "summary": "SpaceX 5月16日，SpaceX向股东发出内部邮件，宣布普通股“一拆五”的拆股方案已获批并生效，所有C类普通股将同步转换为A类普通股。美股IPO市场正迎来今年最重磅的选手，埃隆·马斯克旗下的太空探索巨头SpaceX，正以史无前例的体量加速驶入纳斯达克。 综合 | 路透社 WSJ 中国基金报编辑 | Echo 本文仅为信息交流之用，不构成任何交易建议 据路透社和华尔街日报援引知情人士报道，SpaceX正大幅加快IPO进程。原定于6月",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3812788568907520",
-        "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
-        "url": "https://36kr.com/p/3812788568907520?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-17T02:50:05.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。 绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个融合线上线下、软硬件协同的宠物健康品牌。 绮算法创始人陈立毕业于英国国王学院，为Qlalgorit",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/jrjkdccvrjyznuahl9lm",
         "title": "记忆感知的大模型 KVCache 优化｜AICon上海",
         "url": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&utm_medium=article",
@@ -1347,26 +1377,6 @@
         "publishedAt": "2026-05-15T18:12:00.000Z",
         "summary": "点击查看原文>",
         "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/rtbxo0yg1cq0kfwd2uek",
-        "title": "兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T",
-        "url": "https://www.infoq.cn/article/rtbXo0YG1cQ0kFwd2ueK?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-15T15:08:25.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/5qhoqqcudrgbbnfmm4dk",
-        "title": "蚂蚁灵波开源LingBot-VLA真机后训练全流程代码，150条示教数据即可适配新机器人",
-        "url": "https://www.infoq.cn/article/5QHOQQCUdrGBBNfmm4Dk?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-15T10:08:15.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
         "region": "cn"
       }
     ],
