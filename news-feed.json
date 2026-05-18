@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T09:43:09.839Z",
+  "generatedAt": "2026-05-18T14:56:48.222Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/colorado&",
+        "title": "Colorado moves to ban fee sharing with nonlawyers",
+        "url": "https://www.abajournal.com/news/article/colorado&#45;moves&#45;to&#45;ban&#45;fee&#45;sharing&#45;with&#45;nonlawyers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-18T14:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
+        "title": "Judge in Google antitrust case blasts attorney fees request as ‘shockingly huge’",
+        "url": "https://www.abajournal.com/news/article/judge&#45;in&#45;google&#45;antitrust&#45;case&#45;blasts&#45;attorneys&#45;fee&#45;request&#45;as&#45;shockingly&#45;huge/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-18T14:33:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/18/david-wang-cooley-legal-innovators-california-keynote",
+        "title": "David Wang, Cooley – Legal Innovators California Keynote",
+        "url": "https://www.artificiallawyer.com/2026/05/18/david-wang-cooley-legal-innovators-california-keynote/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-18T12:26:02.000Z",
+        "summary": "Ahead of the Legal Innovators California conference in San Francisco &#8211; June 10 and 11, Artificial Lawyer spoke to Cooley&#8217;s innovation chief, David Wang, who ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/18/openai-plans-codex-for-legal",
         "title": "OpenAI Plans ‘Codex For Legal’",
@@ -135,26 +165,6 @@
         "publishedAt": "2026-05-14T17:51:55.000Z",
         "summary": "EvenUp, the personal injury AI company that reached a $2 billion valuation last fall, is making a significant shift in its business model – one that extends it beyond software vendor to something closer to an outsourced ",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/new&",
-        "title": "Former Brooklyn Supreme Court judge arrested for alleged involvement in real estate fraud schemes",
-        "url": "https://www.abajournal.com/news/article/new&#45;york&#45;ex&#45;judge&#45;arrested&#45;in&#45;fraud&#45;investigation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-14T17:13:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/anthropic&",
-        "title": "Anthropic launches Claude for Legal, expands generative AI offerings for lawyers",
-        "url": "https://www.abajournal.com/news/article/anthropic&#45;launches&#45;claude&#45;for&#45;legal&#45;giving&#45;lawyers&#45;20&#45;new&#45;program&#45;integrations&#45;and&#45;12&#45;practice&#45;area&#45;plugins/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-14T16:40:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -305,16 +315,6 @@
         "publishedAt": "2026-05-12T14:00:48.000Z",
         "summary": "Aderant, the Atlanta-based legal business management software company, used its Momentum Global 2026 conference this week to unveil the Aderant Agent Center — a new framework for deploying AI agents across law firm finan",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/eudia-assembles-unified-workspace-inc-digital-twins",
-        "title": "Eudia Assembles Unified Workspace, Inc. Digital Twins +",
-        "url": "https://www.artificiallawyer.com/2026/05/12/eudia-assembles-unified-workspace-inc-digital-twins/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-12T13:06:21.000Z",
-        "summary": "Eudia, the multi-faceted legal AI business focused on inhouse teams, has bundled together a range of its capabilities into a single unified workspace in a ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,36 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/qofjdpj1gqkubzg7ybqi",
-        "title": "Cangjie：一门新的开源编译型语言，原生支持效应处理器和代数数据类型",
-        "url": "https://www.infoq.cn/article/qoFJdpJ1GqkUBzg7yBQI?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-18T17:10:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/sakoysnt3r2lcy7ubsir",
-        "title": "Snowflake Observe：可观测性与 AI 数据云的融合 ｜ 技术趋势",
-        "url": "https://www.infoq.cn/article/saKOYsNT3R2lCY7UBSiR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-18T17:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/retnxlidsyw8hb0hlezr",
-        "title": "H200还没到中国，Anthropic先急了：千亿美元抢芯片，转头涨价让开发者买单",
-        "url": "https://www.infoq.cn/article/retNxLIdsyw8Hb0HlEZr?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-18T16:07:09.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/dc22nuwr2kfuqew7bb13",
         "title": "曝Kimi 后训练团队研究员离职，曾为K2.5贡献者；MiniMax最新招聘，兼职也拿期权；传蜜雪CEO隔空回复黄仁勋，“大佬同款”卖爆｜AI周报",
         "url": "https://www.infoq.cn/article/dC22NUwr2kfuqEW7bb13?utm_source=rss&utm_medium=article",
@@ -1250,32 +1220,72 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3814800262373120",
+        "title": "670亿美元创下“史上最大电力收购案”，新纪元能源吞并道明尼能源剑指AI算力电网霸主",
+        "url": "https://36kr.com/newsflashes/3814800262373120?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T12:55:30.000Z",
+        "summary": "新纪元能源已同意以约670亿美元的股票收购道明尼能源，这是有史以来规模最大的电力收购案，此举将创造一个业务从佛罗里达州延伸至弗吉尼亚州密集数据中心集群的公用事业巨头。这笔交易将使新纪元能源获得横跨弗吉尼亚州、北卡罗来纳州和南卡罗来纳州的大片电力资产，并使其在这片正努力满足新建人工智能（AI）设施需求激增的地区中，成为占据主导地位的公用事业公司。新纪元能源目前已经是按市值计算美国最大的公用事业公司，也是该国最大的可再生能源开发商。（财联社",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3814777548627719",
+        "title": "京东：今年京东体系的AI相关研发投入增长将超200%",
+        "url": "https://36kr.com/newsflashes/3814777548627719?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T12:38:20.000Z",
+        "summary": "36氪获悉，今年京东6·18将是首次全场景、全产业融入AI的一届6·18。今年，京东体系的AI相关研发投入增长将超200%，并已构建了全栈AI产品矩阵，以及京东JoyAI基础大模型、京东物流超脑大模型、京东健康京医千询大模型、京东工业JoyIndustrial大模型、JoyAI-RA具身智能模型等垂域模型。目前，JoyInside已与近200个家电家居、机器人、健康、玩具等品牌深度合作，为智能硬件植入AI大脑。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3814758816587523",
+        "title": "网易有道旗下多项产品服务接入DeepSeek-V4",
+        "url": "https://36kr.com/newsflashes/3814758816587523?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T12:29:17.000Z",
+        "summary": "36氪获悉，网易有道宣布旗下核心产品矩阵全面接入DeepSeek-V4，覆盖有道词典、有道翻译、有道AI答疑笔、虚拟人口语教练应用Hi Echo、企业级大模型聚合平台ThinkFlow等系列产品和服务，全面升级个性化语言学习、理科答疑、AI 工具辅助等核心场景，为用户带来更智能、更便捷的使用体验。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3814719549693698",
+        "title": "豆包上线博物馆讲解模式，官方合作覆盖超20家博物馆",
+        "url": "https://36kr.com/newsflashes/3814719549693698?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T11:50:21.000Z",
+        "summary": "36氪获悉，5月18日，第50个国际博物馆日，字节跳动旗下豆包正式上线了博物馆讲解模式。观众可使用豆包博物馆讲解功能，对准展品即可自动识别，豆包会针对具体展品进行专业个性化讲解。据了解，此次上线的豆包博物馆模式，官方合作覆盖了包括中国国家博物馆、浦东美术馆、甘肃省博物馆、河北博物院、首都博物馆、中国美术馆等20余家博物馆、美术馆。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3814695536336387",
+        "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
+        "url": "https://36kr.com/p/3814695536336387?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T11:11:14.000Z",
+        "summary": "大公司： 索辰科技：物理AI业务目前尚处于布局初期 36氪获悉，索辰科技公告，公司股票于2026年5月14日至5月18日连续三个交易日内收盘价格涨幅偏离值累计达到30%，属于股票交易异常波动情形。公司近期实施的募投项目“物理合成数据核心技术基座构建与多领域场景示范应用项目”尚处于筹备阶段，若出现募集资金投资项目未能顺利实施、新技术开发进度不达预期、研发遭遇技术瓶颈甚至失败，将会对公司经营业绩造成一定影响。公司物理AI业务目前尚处于布局初",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3810598875307780",
+        "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
+        "url": "https://36kr.com/p/3810598875307780?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-18T09:46:47.000Z",
+        "summary": "作者｜兰杰 李晓霞 编辑｜乔芊 36氪独家获悉，据多位接近字节跳动人士消息，字节旗下的番茄小说正在推动AI动漫上院线。在这一过程中，会开放番茄小说平台头部IP的改编权限。 之于番茄小说，如何更好地挖掘平台上好IP的潜力和商业价值，是一个亟待解决的难题。 一方面，以文字形式为载体的IP内容，缺乏统一的视觉形象，使得平台上的IP难以有联名、衍生品等更丰富的变现形式。另一方面，AI漫剧这一新事物迅速发展壮大，其中不乏改编自番茄小说IP的粗制滥",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3814570248412677",
         "title": "科氪 | 性能极限与跨界尝试：红魔11S Pro系列深度体验",
         "url": "https://36kr.com/p/3814570248412677?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-18T09:35:19.000Z",
-        "summary": "在智能手机行业普遍面临镜头模组日益凸出、机身内部堆叠空间受限的背景下，电竞旗舰由于其对散热和功耗的极端要求，往往表现出更为激进的工业设计。作为新一代的性能导向型产品，红魔11S Pro系列通过软硬件的垂直堆叠，试图在移动终端上探索更进一步的性能上限。以下我们将从设计、理论性能释放、以及实际软硬件体验三个维度，对其进行深度拆解。 一、 外观设计：纯平后盖的内部堆叠与电竞美学 从视觉和握持逻辑来看，红魔11S Pro最显著的特征在于其坚守的",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3814580870110978",
-        "title": "张朝阳：搜狐未入局大模型研发，将聚焦AI应用落地",
-        "url": "https://36kr.com/newsflashes/3814580870110978?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-18T09:12:19.000Z",
-        "summary": "36氪获悉，在2026搜狐科技年度论坛上，搜狐CEO张朝阳表示，“搜狐并未入局大模型第一阵营的研发，大模型研发需要雄厚的资金实力和技术背景，企业应基于自身业务基础理智选择。”他提到，搜狐将聚焦AI应用落地，在提升编程效率、节约运营成本的同时，对内容生成保持克制，保持内容中立性，规避AI带来的内容乱象风险。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3814564513275394",
-        "title": "商务部：正在抓紧筹划出台“人工智能+消费”政策体系",
-        "url": "https://36kr.com/newsflashes/3814564513275394?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-18T08:55:41.000Z",
-        "summary": "5月18日，商务部副部长盛秋平在国新办新闻发布会上表示，下一步，商务部将以更大力度、更实举措精准有效实施好消费政策，并围绕商品消费、服务消费、线下消费三方面加力谋划出台一批新举措。结合能源转型，商务部将出台针对11万座加油站转型的举措，推动加油站高质量发展。结合城市更新，商务部将聚焦全屋智能家居消费，鼓励推广套餐式、定制化的服务。近期，国家发布了《人工智能终端智能化分级》系列国家标准，商务部正在抓紧筹划出台“人工智能+消费”政策体系。扩",
+        "summary": "在智能手机行业普遍面临镜头模组日益凸出、机身内部堆叠空间受限的背景下，电竞旗舰由于其对散热和功耗的极端要求，往往表现出更为激进的工业设计。作为新一代的性能导向型产品，红魔11S Pro系列通过软硬件的垂直堆叠，试图在移动终端上探索更进一步的性能上限。以下我们将从设计、理论性能释放、以及实际软硬件体验三个维度，对其进行深度拆解。 &amp;nbsp; 一、 外观设计：纯平后盖的内部堆叠与电竞美学 从视觉和握持逻辑来看，红魔11S Pro最",
         "category": "updates",
         "region": "cn"
       },
@@ -1340,16 +1350,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3812925591887368",
-        "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
-        "url": "https://36kr.com/p/3812925591887368?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-17T06:08:32.000Z",
-        "summary": "Peter Steinberger 编辑：所罗门 【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。 别人晒工资条，他晒账单—— 一个月130万美元！ 也就是将近900万人民币/每月。直接把网友们看傻了。 OpenClaw之父Peter Steinberger在X上轻描淡写地甩出一张截图。 Peter Steinberger 但截图上的数字",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/jrjkdccvrjyznuahl9lm",
         "title": "记忆感知的大模型 KVCache 优化｜AICon上海",
         "url": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&utm_medium=article",
@@ -1380,6 +1380,17 @@
         "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3353928/baidu-says-ai-now-primary-revenue-driver-despite-2-drop-first-quarter-revenue",
+        "title": "Baidu says AI now primary business driver despite 2% drop in first-quarter revenue",
+        "url": "https://www.scmp.com/tech/big-tech/article/3353928/baidu-says-ai-now-primary-revenue-driver-despite-2-drop-first-quarter-revenue?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-18T09:57:52.000Z",
+        "summary": "Baidu has reached a historic milestone as its artificial intelligence businesses surged to become its primary revenue driver in the first quarter, despite a 2 per cent dip in overall income, the Chinese tech giant said o",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
