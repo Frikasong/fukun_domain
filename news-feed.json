@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T02:33:26.343Z",
+  "generatedAt": "2026-05-19T09:28:24.327Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/19/inhouse-ai-still-a-long-way-to-go",
+        "title": "Inhouse AI? Still A Long Way To Go",
+        "url": "https://www.artificiallawyer.com/2026/05/19/inhouse-ai-still-a-long-way-to-go/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-19T08:18:58.000Z",
+        "summary": "A new survey by World CC and CLM company Sirion has found that despite many promising legal AI offerings in the market, and great leadership ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/19/walk-through-june-ai-driven-case-management",
+        "title": "Walk Through: June, AI-Driven Case Management",
+        "url": "https://www.artificiallawyer.com/2026/05/19/walk-through-june-ai-driven-case-management/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-19T06:42:21.000Z",
+        "summary": "This week’s AL TV Product Walk Through is with June, an AI-driven case management and legal automation company. The walk through, with Katja Nikolaus, Chief ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/7th&",
         "title": "7th Circuit upholds &#8216;Are We Dating the Same Guy?&#8217; ruling, muses sanctions for &#8216;fictitious&#8217; citations",
@@ -248,16 +268,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/al-interview-mark-pike-anthropic-associate-general-counsel",
-        "title": "AL Interview: Mark Pike, Anthropic Associate General Counsel",
-        "url": "https://www.artificiallawyer.com/2026/05/12/al-interview-mark-pike-anthropic-associate-general-counsel/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-12T17:35:56.000Z",
-        "summary": "As you have seen, (AL article), Anthropic has today formally launched Claude for Legal. Here is the full Artificial Lawyer interview with Mark Pike, Anthropic ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/05/justice-technology-association-named-access-to-justice-partner-in-anthropics-legal-ai-launch.html",
         "title": "Justice Technology Association Named Access to Justice Partner in Anthropic&#8217;s Legal AI Launch",
         "url": "https://www.lawnext.com/2026/05/justice-technology-association-named-access-to-justice-partner-in-anthropics-legal-ai-launch.html",
@@ -285,16 +295,6 @@
         "publishedAt": "2026-05-12T17:17:06.000Z",
         "summary": "Anthropic today took its biggest step yet into the legal market, releasing more than 20 new MCP connectors linking Claude to the software that law firms and legal departments run on, along with 12 new plugins tailored to",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world",
-        "title": "Claude For Legal Launches, May Reshape the Legal Tech World",
-        "url": "https://www.artificiallawyer.com/2026/05/12/claude-for-legal-launches-may-reshape-the-legal-tech-world/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-12T17:00:09.000Z",
-        "summary": "We have been building toward this moment, and now it’s finally arrived. Anthropic has formally launched ‘Claude For Legal’, a comprehensive offering that could reshape ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,22 +1210,82 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/h9fllwbtrwbf88bsisss",
-        "title": "Netflix借助Apache Druid中的区间感知缓存让84%的查询结果直接命中缓存",
-        "url": "https://www.infoq.cn/article/h9FlLwbtrwbF88BSISss?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/jfhwewqoncambotnyw5l",
+        "title": "AMD苏妈对话李开复：AI转型只能由CEO驱动、未来“DRI”（直接负责人）将是企业核心｜直击现场",
+        "url": "https://www.infoq.cn/article/jFHWeWQONCamboTNyw5l?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-19T10:18:02.000Z",
+        "publishedAt": "2026-05-19T16:50:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/0cmu1bseszkzdf09op2m",
-        "title": "小红书 vibe coding 平台（Muse）之高可用人机共创 Agentic 系统架构实践｜AICon上海",
-        "url": "https://www.infoq.cn/article/0cMu1bsEszkZDf09OP2M?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/minibook/tidmbxojtlaqgx12x5ip",
+        "title": "8大岗位AI技能图谱",
+        "url": "https://www.infoq.cn/minibook/TiDmbxOjtLAqgX12x5Ip?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-19T10:00:00.000Z",
+        "publishedAt": "2026-05-19T16:46:16.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/yxuh0iznuvwpgdaekcfx",
+        "title": "Anthropic发布工程事故报告，说明六周来Claude Code质量下降源于三项产品调整",
+        "url": "https://www.infoq.cn/article/yxuH0IZNUvwPGdAEKCFX?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-19T16:07:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fahj08ig1ffzxw1oyyza",
+        "title": "05·29 腾讯云「数据库+AI」产品发布会重磅启幕",
+        "url": "https://www.infoq.cn/article/FAhJ08IG1ffzxw1OYYza?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-19T14:50:50.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/8afm65dk2wfmypqoz6ok",
+        "title": "Anthropic首次揭秘下一代Claude怎么造！用户吐槽直接喂模型，连AI“做梦”都被训练",
+        "url": "https://www.infoq.cn/article/8AFM65dK2wFMypqoz6ok?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-19T13:21:43.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3815989324455681",
+        "title": "毕马威聘请人工智能公司Anthropic重组其全球税务和咨询服务",
+        "url": "https://36kr.com/newsflashes/3815989324455681?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-19T09:05:04.000Z",
+        "summary": "据报道，毕马威聘请人工智能公司Anthropic重组其全球税务和咨询服务。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3815973163753222",
+        "title": "数篷科技发布首款面向个人用户的AI沙箱产品“艾灵坞”",
+        "url": "https://36kr.com/newsflashes/3815973163753222?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-19T08:48:38.000Z",
+        "summary": "36氪获悉，5月19日，企业级安全解决方案提供商数篷科技正式推出旗下首款2C产品艾灵坞AI沙箱。这款桌面级AI Agent沙箱采用企业级容器隔离技术，将2B安全技术下沉到消费级市场。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3815841756028425",
+        "title": "影石：重新定义性价比",
+        "url": "https://36kr.com/p/3815841756028425?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-19T06:58:30.000Z",
+        "summary": "作者 | 张帆 坚持做后来者 近日，影石创新发布了登陆资本市场后的首份年报。2025年，公司实现营业收入97.41亿元，同比大幅增长74.76%，创下成立以来的最高营收纪录。然而，同期由于研发、销售等费用高企，公司归母净利润仅为9.29亿元，同比下降了6.62%。 面对这样一份“营收大增、利润下滑”的财报，公司召开了上市后的首次投资者交流会，以回应资本市场的关切。 根据2025年年报显示，报告期内，公司影像业务营收增长了78%，主要得益",
         "category": "updates",
         "region": "cn"
       },
@@ -1240,16 +1300,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3815566042488322",
-        "title": "清华大学深圳国际研究生院与英博数科举行GPU云平台应用论坛暨校企智算合作签约仪式",
-        "url": "https://36kr.com/newsflashes/3815566042488322?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-19T01:54:29.000Z",
-        "summary": "近期，恰逢清华大学深圳国际研究生院二十五周年，“智算赋能·云启新程”GPU云平台应用论坛暨校企智算合作签约仪式在清华大学深圳国际研究生院举行。活动围绕GPU云平台应用、高校科研算力需求、校企智算合作等议题展开深入交流，并完成校企合作签约与免费云算力交付。据了解，英博数科是国内较早专注于AI智算服务的企业之一，长期围绕GPU云服务、智算基础设施建设与运营、平台化算力服务等方向持续布局。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3805660478184966",
         "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
         "url": "https://36kr.com/p/3805660478184966?f=rss",
@@ -1257,16 +1307,6 @@
         "publishedAt": "2026-05-19T01:30:00.000Z",
         "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。 SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得李泽湘教授旗下清水湾基金的天使轮投资。 过去几",
         "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3815541151719168",
-        "title": "苹果公布年度全球开发者大会日程安排",
-        "url": "https://36kr.com/newsflashes/3815541151719168?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-19T01:29:10.000Z",
-        "summary": "36氪获悉，苹果公司官网公布年度全球开发者大会（WWDC）日程安排。大会定于北京时间6月9日至13日举行，届时将举行主题演讲和Platforms State of the Union，介绍Apple平台更新，包括人工智能的进展以及新软件和开发者工具。",
-        "category": "updates",
         "region": "cn"
       },
       {
@@ -1348,56 +1388,16 @@
         "summary": "“帮我搭配一套适合海边度假的衣服。” “帮我推荐一家适合约会的西餐厅。” “3000元预算，买哪款扫地机器人最划算？” 这类与AI的问答正发生在全球数亿用户身上。过去，人们会把这些问题输入百度、谷歌等搜索引擎，因此产生了SEO（Search EngineOptimization，搜索引擎优化）营销。而当流量入口从搜索引擎转向AI工具，GEO（Generative EngineOptimization，生成引擎优化）也应运而生。 区别于传",
         "category": "tools",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3813463119863553",
-        "title": "36氪首发 | 获超千万融资，「律动节拍」用演出票撬起千亿跨城观演赛道",
-        "url": "https://36kr.com/p/3813463119863553?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-18T01:29:37.000Z",
-        "summary": "36 氪获悉，「律动节拍」已于近期完成超千万级新一轮融资，由天空工场创投基金领投，投后估值达数亿元。 「律动节拍」成立于2025 年，是一家为用户提供跨城观演全消费场景的科技型文旅服务企业。公司聚焦 “因演出行” 垂直领域，以 “让一张票成为一座城市的游乐场” 为理念，搭建了面向 C 端用户的 AI演出行程管家。 依托集团其背后的生态资源与市场化合作，律动节拍已完成演出票品、酒旅、交通、餐饮、衍生品等多维度供给接入，通过AI与大数据模型",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/jrjkdccvrjyznuahl9lm",
-        "title": "记忆感知的大模型 KVCache 优化｜AICon上海",
-        "url": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-16T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/knkrhgzrva7r6prtlgb5",
-        "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
-        "url": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-15T20:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mjfmxfhf29sa5ufhr2qv",
-        "title": "Anthropic 推出 Claude Platform on AWS",
-        "url": "https://www.infoq.cn/article/mjFmXfhf29SA5UFhr2QV?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-15T18:12:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-evs/article/3354034/chinese-firm-xpeng-builds-driverless-cabs-likely-challenge-teslas-fsd-software-ai-race",
-        "title": "Chinese firm Xpeng builds driverless cabs, likely to challenge Tesla’s FSD software in AI race",
-        "url": "https://www.scmp.com/business/china-evs/article/3354034/chinese-firm-xpeng-builds-driverless-cabs-likely-challenge-teslas-fsd-software-ai-race?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354078/chinas-moonshot-ai-moves-unwind-offshore-structure-ipo-pursuit-sources",
+        "title": "China’s Moonshot AI moves to unwind offshore structure in IPO pursuit: sources",
+        "url": "https://www.scmp.com/tech/big-tech/article/3354078/chinas-moonshot-ai-moves-unwind-offshore-structure-ipo-pursuit-sources?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-05-19T02:08:20.000Z",
-        "summary": "Chinese electric vehicle (EV) maker Xpeng has begun mass production of autonomous cabs powered by its own chips, likely to mount yet another challenge on Tesla as both companies pursue a leading position in self-driving.",
+        "publishedAt": "2026-05-19T07:35:47.000Z",
+        "summary": "Moonshot AI, the Chinese AI unicorn behind the popular Kimi chatbot, has informed shareholders that it intends to dismantle its offshore structure to pave the way for an initial public offering, likely in Hong Kong, acco",
         "category": "updates",
         "region": "cn_en"
       }
