@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T19:27:12.725Z",
+  "generatedAt": "2026-05-19T02:33:26.343Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,52 +1210,82 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/h9fllwbtrwbf88bsisss",
+        "title": "Netflix借助Apache Druid中的区间感知缓存让84%的查询结果直接命中缓存",
+        "url": "https://www.infoq.cn/article/h9FlLwbtrwbF88BSISss?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-19T10:18:02.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/0cmu1bseszkzdf09op2m",
+        "title": "小红书 vibe coding 平台（Muse）之高可用人机共创 Agentic 系统架构实践｜AICon上海",
+        "url": "https://www.infoq.cn/article/0cMu1bsEszkZDf09OP2M?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-19T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3814860909600261",
+        "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
+        "url": "https://36kr.com/p/3814860909600261?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-19T02:00:00.000Z",
+        "summary": "文｜王欣逸 编辑｜邱晓芬 一句话介绍 鲸跃动力成立于2026年，以「数据+模型+末端执行」闭环，提供面向场景、可快速部署的Robo Labor（机器人劳动力），让物理劳动力像AWS算力一样，可订阅、可弹性扩容、开箱即用，替代人类从事高危、繁重、脏乱、重复（Deadly/Difficult/Dirty/Duplicate）的物理作业。 融资进展 近日，鲸跃动力已完成由星海图独家领投的数千万元种子轮融资，深渡资本担任独家财务顾问。 本轮融资",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3815566042488322",
+        "title": "清华大学深圳国际研究生院与英博数科举行GPU云平台应用论坛暨校企智算合作签约仪式",
+        "url": "https://36kr.com/newsflashes/3815566042488322?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-19T01:54:29.000Z",
+        "summary": "近期，恰逢清华大学深圳国际研究生院二十五周年，“智算赋能·云启新程”GPU云平台应用论坛暨校企智算合作签约仪式在清华大学深圳国际研究生院举行。活动围绕GPU云平台应用、高校科研算力需求、校企智算合作等议题展开深入交流，并完成校企合作签约与免费云算力交付。据了解，英博数科是国内较早专注于AI智算服务的企业之一，长期围绕GPU云服务、智算基础设施建设与运营、平台化算力服务等方向持续布局。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3805660478184966",
+        "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
+        "url": "https://36kr.com/p/3805660478184966?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-19T01:30:00.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。 SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得李泽湘教授旗下清水湾基金的天使轮投资。 过去几",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3815541151719168",
+        "title": "苹果公布年度全球开发者大会日程安排",
+        "url": "https://36kr.com/newsflashes/3815541151719168?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-19T01:29:10.000Z",
+        "summary": "36氪获悉，苹果公司官网公布年度全球开发者大会（WWDC）日程安排。大会定于北京时间6月9日至13日举行，届时将举行主题演讲和Platforms State of the Union，介绍Apple平台更新，包括人工智能的进展以及新软件和开发者工具。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3815459487587847",
+        "title": "8点1氪丨贾跃亭又融资4.77亿元；巨力索具旗下十余家企业已注销；超越茅台，A股“新股王”诞生",
+        "url": "https://36kr.com/p/3815459487587847?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-19T00:08:58.000Z",
+        "summary": "今日热点导览 瑞幸咖啡正式上线两款含酒精的特调饮品 京张高铁试点推出“自行车随身行”服务 马斯克：计划今年进行首例用于治疗失明的Neuralink植入手术 韩国法院要求三星电子罢工行动不得影响产量 多家理财公司集中提前终止理财产品 TOP 3 大新闻 贾跃亭又拿到7000万美元投资 贾跃亭发布视频，宣布法拉第未来近期完成了7000万美元（现汇率约合4.77亿元人民币）机构投资者募资，并将启动战略、产品技术&业务、财务、资本、AI体系五大",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/dc22nuwr2kfuqew7bb13",
         "title": "曝Kimi 后训练团队研究员离职，曾为K2.5贡献者；MiniMax最新招聘，兼职也拿期权；传蜜雪CEO隔空回复黄仁勋，“大佬同款”卖爆｜AI周报",
         "url": "https://www.infoq.cn/article/dC22NUwr2kfuqEW7bb13?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-05-18T16:04:36.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3814800262373120",
-        "title": "670亿美元创下“史上最大电力收购案”，新纪元能源吞并道明尼能源剑指AI算力电网霸主",
-        "url": "https://36kr.com/newsflashes/3814800262373120?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-18T12:55:30.000Z",
-        "summary": "新纪元能源已同意以约670亿美元的股票收购道明尼能源，这是有史以来规模最大的电力收购案，此举将创造一个业务从佛罗里达州延伸至弗吉尼亚州密集数据中心集群的公用事业巨头。这笔交易将使新纪元能源获得横跨弗吉尼亚州、北卡罗来纳州和南卡罗来纳州的大片电力资产，并使其在这片正努力满足新建人工智能（AI）设施需求激增的地区中，成为占据主导地位的公用事业公司。新纪元能源目前已经是按市值计算美国最大的公用事业公司，也是该国最大的可再生能源开发商。（财联社",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3814777548627719",
-        "title": "京东：今年京东体系的AI相关研发投入增长将超200%",
-        "url": "https://36kr.com/newsflashes/3814777548627719?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-18T12:38:20.000Z",
-        "summary": "36氪获悉，今年京东6·18将是首次全场景、全产业融入AI的一届6·18。今年，京东体系的AI相关研发投入增长将超200%，并已构建了全栈AI产品矩阵，以及京东JoyAI基础大模型、京东物流超脑大模型、京东健康京医千询大模型、京东工业JoyIndustrial大模型、JoyAI-RA具身智能模型等垂域模型。目前，JoyInside已与近200个家电家居、机器人、健康、玩具等品牌深度合作，为智能硬件植入AI大脑。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3814758816587523",
-        "title": "网易有道旗下多项产品服务接入DeepSeek-V4",
-        "url": "https://36kr.com/newsflashes/3814758816587523?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-18T12:29:17.000Z",
-        "summary": "36氪获悉，网易有道宣布旗下核心产品矩阵全面接入DeepSeek-V4，覆盖有道词典、有道翻译、有道AI答疑笔、虚拟人口语教练应用Hi Echo、企业级大模型聚合平台ThinkFlow等系列产品和服务，全面升级个性化语言学习、理科答疑、AI 工具辅助等核心场景，为用户带来更智能、更便捷的使用体验。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3814719549693698",
-        "title": "豆包上线博物馆讲解模式，官方合作覆盖超20家博物馆",
-        "url": "https://36kr.com/newsflashes/3814719549693698?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-18T11:50:21.000Z",
-        "summary": "36氪获悉，5月18日，第50个国际博物馆日，字节跳动旗下豆包正式上线了博物馆讲解模式。观众可使用豆包博物馆讲解功能，对准展品即可自动识别，豆包会针对具体展品进行���业个性化讲解。据了解，此次上线的豆包博物馆模式，官方合作覆盖了包括中国国家博物馆、浦东美术馆、甘肃省博物馆、河北博物院、首都博物馆、中国美术馆等20余家博物馆、美术馆。",
         "category": "updates",
         "region": "cn"
       },
@@ -1330,26 +1360,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3814030630084354",
-        "title": "8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元",
-        "url": "https://36kr.com/p/3814030630084354?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-17T23:55:00.000Z",
-        "summary": "今日热点导览 张雪机车，再夺冠 长安汽车否认与千里科技合作 深圳发布2026年住房发展计划 贵州茅台宣布公斤茅台等四款产品提价 法拉第未来宣布获得2500万美元融资 三星电子会长就公司“内部问题”公开道歉 TOP 3 大新闻 多款燃油车大降价，降幅最高近30% 日前，长安汽车旗下长安逸动经典版正式上市，新车售价6.49万元，限时享23000元购车现金优惠；相较于指导价8.79万元降幅达到26%。该款车型还享有限时的保养礼和流量礼。 其实",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3813305543794440",
-        "title": "科氪 | 对话韶音高层：开放式耳机，凭什么成为下一场颠覆TWS的“品类革命”？",
-        "url": "https://36kr.com/p/3813305543794440?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-17T11:57:23.000Z",
-        "summary": "从运动孤岛到品类革命：解构韶音的“开放式”野心与底层技术硬实力 在消费电子行业普遍面临增长红利见顶的今天，音频赛道却正在上演一场深刻的结构性变革。2026年5月15日下午，大雨初晴的深圳湾广场，Shokz韶音举办了备受瞩目的媒体专访会。韶音中国区CEO杨云与产品线总裁张浩锋悉数到场，向外界系统阐述了这家以“骨传导”和“运动”起家的品牌，如何在稳坐全球开放式耳机出货量第一王座的同时，向更广阔的泛场景音频帝国发起攻坚。 过去两年，开放式耳机",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/jrjkdccvrjyznuahl9lm",
         "title": "记忆感知的大模型 KVCache 优化｜AICon上海",
         "url": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&utm_medium=article",
@@ -1380,6 +1390,17 @@
         "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-evs/article/3354034/chinese-firm-xpeng-builds-driverless-cabs-likely-challenge-teslas-fsd-software-ai-race",
+        "title": "Chinese firm Xpeng builds driverless cabs, likely to challenge Tesla’s FSD software in AI race",
+        "url": "https://www.scmp.com/business/china-evs/article/3354034/chinese-firm-xpeng-builds-driverless-cabs-likely-challenge-teslas-fsd-software-ai-race?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-19T02:08:20.000Z",
+        "summary": "Chinese electric vehicle (EV) maker Xpeng has begun mass production of autonomous cabs powered by its own chips, likely to mount yet another challenge on Tesla as both companies pursue a leading position in self-driving.",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
