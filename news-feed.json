@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T14:40:55.476Z",
+  "generatedAt": "2026-05-19T19:44:33.317Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/gen&",
+        "title": "Generative AI’s Impact on Lawyers: In praise of the mundane",
+        "url": "https://www.abajournal.com/columns/article/gen&#45;ais&#45;impact&#45;on&#45;lawyers&#45;in&#45;praise&#45;of&#45;the&#45;mundane/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-19T19:40:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/murdaugh&",
+        "title": "Ex-lawyer Alex Murdaugh sues clerk for alleged jury tampering that led to overturned murder conviction",
+        "url": "https://www.abajournal.com/news/article/murdaugh&#45;sues&#45;clerk&#45;who&#45;wrote&#45;tell&#45;all&#45;book&#45;that&#45;overturned&#45;his&#45;murder&#45;convictions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-19T18:42:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/colorado&",
+        "title": "Court orders hospital to resume gender-affirming care for transgender kids",
+        "url": "https://www.abajournal.com/news/article/colorado&#45;court&#45;orders&#45;hospital&#45;to&#45;resume&#45;gender&#45;affirming&#45;care&#45;for&#45;kids/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-19T16:17:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/some-thoughts-on-harveys-launch-of-lab-an-open-source-long-horizon-benchmark-for-legal-ai-agents.html",
+        "title": "Some Thoughts On Harvey&#8217;s Launch of &#8216;LAB,&#8217; An Open-Source, Long-Horizon Benchmark for Legal AI Agents",
+        "url": "https://www.lawnext.com/2026/05/some-thoughts-on-harveys-launch-of-lab-an-open-source-long-horizon-benchmark-for-legal-ai-agents.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-19T15:55:07.000Z",
+        "summary": "Harvey, the legal AI company whose valuation recently hit $11 billion, recently released what it is calling the Legal Agent Benchmark, or LAB — an open-source evaluation framework designed to measure how well AI agents c",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/the&",
+        "title": "Netflix&#8217;s &#8216;The Lincoln Lawyer&#8217; will rest his case at end of season 5",
+        "url": "https://www.abajournal.com/news/article/the&#45;lincoln&#45;lawyer&#45;to&#45;rest&#45;his&#45;case&#45;at&#45;the&#45;end&#45;of&#45;season&#45;5/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-19T14:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/play&",
         "title": "Play-Based Learning: Can simulation games help lawyers learn management and business development skills?",
@@ -108,36 +158,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/bar&",
-        "title": "Bar candidates without ABA-accredited degree more likely to flunk, new study finds",
-        "url": "https://www.abajournal.com/news/article/bar&#45;candidates&#45;without&#45;aba&#45;accredited&#45;degree&#45;more&#45;likely&#45;to&#45;flunk&#45;study&#45;finds/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-18T15:38:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/colorado&",
-        "title": "Colorado moves to ban fee sharing with nonlawyers",
-        "url": "https://www.abajournal.com/news/article/colorado&#45;moves&#45;to&#45;ban&#45;fee&#45;sharing&#45;with&#45;nonlawyers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-18T14:56:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
-        "title": "Judge in Google antitrust case blasts attorney fees request as ‘shockingly huge’",
-        "url": "https://www.abajournal.com/news/article/judge&#45;in&#45;google&#45;antitrust&#45;case&#45;blasts&#45;attorneys&#45;fee&#45;request&#45;as&#45;shockingly&#45;huge/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-18T14:33:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/18/david-wang-cooley-legal-innovators-california-keynote",
         "title": "David Wang, Cooley – Legal Innovators California Keynote",
         "url": "https://www.artificiallawyer.com/2026/05/18/david-wang-cooley-legal-innovators-california-keynote/",
@@ -165,16 +185,6 @@
         "publishedAt": "2026-05-16T08:12:04.000Z",
         "summary": "Friday’s Claude for Legal webinar confirmed – without any doubt – what AL has believed since the first plugin arrived, namely that Anthropic intends to ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/aba&",
-        "title": "ABA Legal Ed council votes to repeal diversity and inclusion standard",
-        "url": "https://www.abajournal.com/web/article/aba&#45;legal&#45;ed&#45;council&#45;votes&#45;to&#45;repeal&#45;diversity&#45;and&#45;inclusion&#45;standard/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-15T20:31:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1158,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/02/anthropics-legal-plugin-for-claude-cowork-may-be-the-opening-salvo-in-a-competition-between-foundation-models-and-legal-tech-incumbents.html",
-        "title": "Anthropic’s Legal Plugin for Claude Cowork May Be the Opening Salvo In A Competition Between Foundation Models and Legal Tech Incumbents",
-        "url": "https://www.lawnext.com/2026/02/anthropics-legal-plugin-for-claude-cowork-may-be-the-opening-salvo-in-a-competition-between-foundation-models-and-legal-tech-incumbents.html",
-        "source": "LawSites",
-        "publishedAt": "2026-02-03T19:55:32.000Z",
-        "summary": "To read today&#8217;s news, you&#8217;d think it was the shot heard &#8217;round the world — or around the legal tech world, at least. &#8220;Legal software companies have suffered sharp declines in their share prices,&#",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1321,16 +1321,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3354118/ai-infrastructure-investment-bubble-unlikely-burst-2027-macquarie",
-        "title": "AI infrastructure investment bubble unlikely to burst by 2027: Macquarie",
-        "url": "https://www.scmp.com/business/banking-finance/article/3354118/ai-infrastructure-investment-bubble-unlikely-burst-2027-macquarie?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-19T11:00:04.000Z",
-        "summary": "Fuelled by excessive spending on artificial intelligence-linked commodities and computing capacity, AI infrastructure investment has become a global bubble that is unlikely to burst in 2026 or 2027, according to Viktor S",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354113/deepseek-recruits-former-jane-street-engineer-catch-ai-agents-revenue-race",
         "title": "DeepSeek recruits former Jane Street engineer to catch up on AI agents, revenue race",
