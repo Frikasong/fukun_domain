@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T02:33:49.118Z",
+  "generatedAt": "2026-05-20T08:55:14.510Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/20/when-legal-terminology-is-correct-but-the-answer-is-still-wrong",
+        "title": "When Legal Terminology is Correct But the Answer is Still Wrong",
+        "url": "https://www.artificiallawyer.com/2026/05/20/when-legal-terminology-is-correct-but-the-answer-is-still-wrong/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-20T08:03:38.000Z",
+        "summary": "By Michael Krallmann, CEO, TransLegal. Legal AI is increasingly capable of producing outputs that look correct, not only linguistically, but also terminologically. Definitions align with ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/20/lavern-the-agentic-law-firm-has-arrived",
+        "title": "Lavern the Agentic ‘Law Firm’ Has Arrived",
+        "url": "https://www.artificiallawyer.com/2026/05/20/lavern-the-agentic-law-firm-has-arrived/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-20T06:52:22.000Z",
+        "summary": "Lavern, which is figuratively a ‘law firm’, has formally launched and now offers 67 specialist legal agents that can perform key tasks. Together they form ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/columns/article/gen&",
         "title": "Generative AI’s Impact on Lawyers: In praise of the mundane",
@@ -265,26 +285,6 @@
         "publishedAt": "2026-05-13T12:57:12.000Z",
         "summary": "The long-running copyright litigation between legal research giant Thomson Reuters and now-shuttered legal research startup ROSS Intelligence took another interesting turn this week, following the 3rd U.S. Circuit Court ",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/13/carta-buys-alsp-avantia-launches-ai-first-law-firm",
-        "title": "Carta Buys ALSP Avantia, Launches AI-First Law Firm",
-        "url": "https://www.artificiallawyer.com/2026/05/13/carta-buys-alsp-avantia-launches-ai-first-law-firm/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-13T11:01:01.000Z",
-        "summary": "Carta, a specialist ERP provider for the private capital world, has bought UK-based ALSP Avantia, which handles managed services for asset managers. The result is ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/13/al-interview-greg-lambert-the-realities-of-legal-ai-adoption",
-        "title": "AL Interview: Greg Lambert &#8211; The Realities of Legal AI Adoption",
-        "url": "https://www.artificiallawyer.com/2026/05/13/al-interview-greg-lambert-the-realities-of-legal-ai-adoption/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-13T07:41:06.000Z",
-        "summary": "In this AL interview with well-known legal tech expert, Greg Lambert, who runs the Geek in Review podcast and is also Chief Innovation Officer at ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,32 +1210,92 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/4vgulvyou52z6tfgf3r5",
-        "title": "训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海",
-        "url": "https://www.infoq.cn/article/4vGULVYou52z6TfGF3r5?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/pyorleuwjzjvkccxtf1d",
+        "title": "Snowflake Intelligence 合作伙伴生态：把 AI 能力带入千行百业 ｜技术趋势",
+        "url": "https://www.infoq.cn/article/PYoRlEUWJZJvkCCXTF1D?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-20T10:00:00.000Z",
+        "publishedAt": "2026-05-20T16:48:01.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/pbbekucqzhdlxb7vwrbe",
-        "title": "如何在软件组织中扩展社会化的系统",
-        "url": "https://www.infoq.cn/article/pbbEkUcqzHdLXb7VwrBE?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/vbxsf5zxbosikbt7hqpc",
+        "title": "一个隐蔽的循环依赖如何导致了 Discord 3 月份的语音服务中断",
+        "url": "https://www.infoq.cn/article/vBxsf5ZXBoSiKbT7HqpC?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-20T09:26:39.000Z",
+        "publishedAt": "2026-05-20T15:15:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3817018077447040",
-        "title": "阿里发布基于新一代真武芯片的超节点服务器，可支持海量Agent并发推理",
-        "url": "https://36kr.com/newsflashes/3817018077447040?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/lwyb2c8t1g9yrhp07kzw",
+        "title": "Arm 携手通义实验室，发起手机上的创意 AI 挑战赛",
+        "url": "https://www.infoq.cn/article/LwYB2c8t1g9yrhp07kZW?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-20T15:05:29.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/whlyjd6dqgpyxmcxwfzo",
+        "title": "不换 Kimi 底座，1/10 成本追平 Opus 4.7？Cursor 用 Composer 2.5 反击 Claude Code",
+        "url": "https://www.infoq.cn/article/WHlyjD6dQgPYxmcXWFzO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-20T11:38:13.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3817372493284484",
+        "title": "6连板威龙股份：截至目前无注入“算力”相关计划",
+        "url": "https://36kr.com/newsflashes/3817372493284484?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-20T02:31:34.000Z",
-        "summary": "36氪获悉，5月20日，在2026阿里云峰会上，阿里发布基于平头哥新一代AI芯片真武M890的128卡超节点服务器，搭载互联芯片ICN Switch 1.0，通信时延低至百纳秒级，可让128张AI芯片组成一台计算机，满足Agentic时代的并发推理和大模型训练需求。",
+        "publishedAt": "2026-05-20T08:32:06.000Z",
+        "summary": "36氪获悉，威龙股份公告，近期有媒体报道公司将注入算力资产，为避免相关信息对广大投资者造成误导，现予澄清，公司截至目前无注入“算力”相关计划。公司股价短期上涨幅度较大，高于同期行业及上证指数涨幅，且偏离上市公司基本面，存在市场情绪过热、非理性炒作风险，未来存在快速下跌的风险。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3817353357968516",
+        "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
+        "url": "https://36kr.com/p/3817353357968516?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-20T08:22:01.000Z",
+        "summary": "今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。 2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？ 正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产业头部企业、新锐创业公司、顶尖学术力量，围绕AI Ag",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3817318342214784",
+        "title": "阶跃与金蝶达成战略合作",
+        "url": "https://36kr.com/newsflashes/3817318342214784?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-20T07:37:01.000Z",
+        "summary": "36氪获悉，5月20日，中国企业服务领域头部厂商金蝶与基础大模型公司阶跃星辰达成战略合作。双方将在模型平台、产品联合研发、生态共建等方面展开深度合作，共同探索下一代Agent（智能体）企业服务形态，打造Agentic Service（智能体服务）。据了解，金蝶亦参与了阶跃总额25亿美元的新一轮融资，双方将在资本与业务层面展开长期协同。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3817307506426758",
+        "title": "首批搭载Agent PC电脑将在天猫618首发",
+        "url": "https://36kr.com/newsflashes/3817307506426758?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-20T07:26:00.000Z",
+        "summary": "36氪获悉，5月20日，首批搭载阿里云自研AI Agent（JVS Claw）的PC电脑在天猫618独家首发。来酷、机械革命、机械师、雷神、京天华盛、攀升、宁美国度、技嘉、天钡、AOC等10余家品牌同期推出笔记本电脑、台式机、mini主机等新品，全面接入JVS Claw智能助手。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3817039204139908",
+        "title": "长鑫科技更新招股书，碧桂园错失300亿",
+        "url": "https://36kr.com/p/3817039204139908?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-20T02:54:58.000Z",
+        "summary": "地产行业内，曾有望跑出两家明星创投企业，一家是世纪金源，另一家是碧桂园。前者现在做得顺风顺水，收获一个又一个IPO，而碧桂园因为地产业务暴雷，需要大量资金保交楼，被迫中断了在科技领域的投资“大爆发”。 01 5月17日，计划登陆科创板的长鑫科技集团股份有限公司（以下简称：长鑫科技）更新了招股书。新招股书的财务数据显示，2026年第一季度，长鑫科技营收508亿元，同比增长719.13%；归母净利润247.62亿元，同比大增1688%，完成",
         "category": "updates",
         "region": "cn"
       },
@@ -1246,26 +1306,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-20T02:24:46.000Z",
         "summary": "文 | 徐蔡钰 编辑 | 李勤 “爆了，试驾根本约不上”，5月16至17日，理想新L9上市的首个周末，门店挤满了前来试驾的用户们。 这款在2022年首次面世的增程大六座SUV，发布了第四代车型。新L9分Ultra与Livis两种版本，起售价分别为45.98万元、50.98万元。 相较此前的年度改款，本次新L9的更新幅度更加显著： 全系标配72.7kWh电池，纯电续航达到420公里，综合续航突破1600公里。理想自研马赫芯片首次上车，单颗",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3816998205801352",
-        "title": "FSD入华信号增强？特斯拉九城急招智驾测试技师，官方客服：正积极推进审批",
-        "url": "https://36kr.com/newsflashes/3816998205801352?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-20T02:11:21.000Z",
-        "summary": "日前，特斯拉中国发布多个与智能驾驶测试相关的招聘岗位，引发行业对FSD（Full Self-Driving，完全自动驾驶）即将真正落地中国市场的相关猜测。根据招聘信息，此次开放的岗位包括智驾测试（实车测试）技师、智驾测试工程师、智驾场地测试专员等，办公地点覆盖北京、上海、广州、深圳、苏州、武汉等9个城市。记者以消费者身份咨询官方客服，询问购买6.4万元智能辅助驾驶功能后能否通过OTA（空中升级）使用，对方回复称：“您的车辆暂不适配该功能",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3816955624047749",
-        "title": "A股三大指数集体低开",
-        "url": "https://36kr.com/newsflashes/3816955624047749?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-20T01:28:02.000Z",
-        "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.4%，深成指低开0.53%，创业板指低开0.48%；锂矿、算力走弱，*ST元道跌超13%，*ST威领跌超5%，中矿资源跌超4%；存储器、冰雪旅游走强，万润科技涨超9%，联芸科技科技涨超5%。",
         "category": "updates",
         "region": "cn"
       },
@@ -1287,26 +1327,6 @@
         "publishedAt": "2026-05-20T01:20:43.000Z",
         "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，Visual Agent（视觉智能体）创业公司Chance AI宣布完成数百万美元天使轮融资。本轮由美图领投，NYX Ventures、阿里系投资机构等跟投。融资将用于模型能力迭代、北美学生群体增长、以及社区与商业化探索。 Chance AI成立于2025年，核心产品是全球第一款以摄像头为主要交互入口的AI产品——Visual Agent（视觉智能体）。 与传统AI产品依赖输入框不同，用户打开Chan",
         "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3816933425857670",
-        "title": "江苏：实施提振消费专项行动，培育壮大智能穿戴设备、首发首店经济、AI流量消费等新增长点",
-        "url": "https://36kr.com/newsflashes/3816933425857670?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-20T01:05:28.000Z",
-        "summary": "5月19日，江苏省政府召开经济运行调度会议，省长刘小涛指出，要深入挖掘消费潜力，实施提振消费专项行动，全力稳住大宗消费，聚焦供给、平台、节点促进服务消费扩容提质，培育壮大智能穿戴设备、首发首店经济、AI流量消费等新增长点。要加快“六张网”投资，狠抓招商引资，支持优势企业增资扩产、增加技改投入；加强好房子建设，努力稳定房地产市场。要因地制宜加快发展新质生产力，进一步整合集聚创新资源加强科技创新，体系化推进六大新兴支柱产业、六大未来产业发展",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3816914719949952",
-        "title": "谷歌和三星电子公布智能眼镜设计，计划秋季上市",
-        "url": "https://36kr.com/newsflashes/3816914719949952?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-20T01:00:34.000Z",
-        "summary": "三星电子和Alphabet Inc.旗下的谷歌发布了与眼镜合作伙伴Warby Parker和Gentle Monster共同开发的智能眼镜设计，计划秋季上市。这一产品将进入一个目前由Meta Platforms Inc.主导的领域，是一系列搭载人工智能AI眼镜产品中的首个，消费者可以通过语音指令与谷歌的AI代理Gemini进行交互——类似于Meta AI在Ray-Ban智能眼镜上的运行方式。内置显示屏的型号正在研发之中，预计2027年发",
-        "category": "updates",
         "region": "cn"
       },
       {
@@ -1338,49 +1358,29 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/8afm65dk2wfmypqoz6ok",
-        "title": "Anthropic首次揭秘下一代Claude怎么造！用户吐槽直接喂模型，连AI“做梦”都被训练",
-        "url": "https://www.infoq.cn/article/8AFM65dK2wFMypqoz6ok?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-19T13:21:43.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3815841756028425",
-        "title": "影石：重新定义性价比",
-        "url": "https://36kr.com/p/3815841756028425?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-19T06:58:30.000Z",
-        "summary": "作者 | 张帆 坚持做后来者 近日，影石创新发布了登陆资本市场后的首份年报。2025年，公司实现营业收入97.41亿元，同比大幅增长74.76%，创下成立以来的最高营收纪录。然而，同期由于研发、销售等费用高企，公司归母净利润仅为9.29亿元，同比下降了6.62%。 面对这样一份“营收大增、利润下滑”的财报，公司召开了上市后的首次投资者交流会，以回应资本市场的关切。 根据2025年年报显示，报告期内，公司影像业务营收增长了78%，主要得益",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3814860909600261",
-        "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
-        "url": "https://36kr.com/p/3814860909600261?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-19T02:00:00.000Z",
-        "summary": "文｜王欣逸 编辑｜邱晓芬 一句话介绍 鲸跃动力成立于2026年，以「数据+模型+末端执行」闭环，提供面向场景、可快速部署的Robo Labor（机器人劳动力），让物理劳动力像AWS算力一样，可订阅、可弹性扩容、开箱即用，替代人类从事高危、繁重、脏乱、重复（Deadly/Difficult/Dirty/Duplicate）的物理作业。 融资进展 近日，鲸跃动力已完成由星海图独家领投的数千万元种子轮融资，深渡资本担任独家财务顾问。 本轮融资",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/dc22nuwr2kfuqew7bb13",
-        "title": "曝Kimi 后训练团队研究员离职，曾为K2.5贡献者；MiniMax最新招聘，兼职也拿期权；传蜜雪CEO隔空回复黄仁勋，“大佬同款”卖爆｜AI周报",
-        "url": "https://www.infoq.cn/article/dC22NUwr2kfuqEW7bb13?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-18T16:04:36.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3354204/hsbcs-ceo-says-ai-will-both-create-and-destroy-financial-industry-jobs",
+        "title": "HSBC’s CEO says AI will both create and destroy financial industry jobs",
+        "url": "https://www.scmp.com/business/banking-finance/article/3354204/hsbcs-ceo-says-ai-will-both-create-and-destroy-financial-industry-jobs?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-20T06:57:45.000Z",
+        "summary": "HSBC’s top boss says artificial intelligence will both destroy and create certain jobs in the financial industry, but emphasised that Hong Kong’s biggest lender will focus on retraining its workforce to embrace the chall",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/article/3354168/how-tiny-capacitors-became-latest-ai-driven-investor-darling",
+        "title": "How tiny capacitors became the latest AI-driven investor darling",
+        "url": "https://www.scmp.com/tech/article/3354168/how-tiny-capacitors-became-latest-ai-driven-investor-darling?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-20T03:22:03.000Z",
+        "summary": "Demand for multilayer ceramic capacitors (MLCCs), tiny electronic components found in everything from smartphones to electric vehicles, is surging as the artificial intelligence boom triggers new production. MLCCs, which",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354113/deepseek-recruits-former-jane-street-engineer-catch-ai-agents-revenue-race",
         "title": "DeepSeek recruits former Jane Street engineer to catch up on AI agents, revenue race",
