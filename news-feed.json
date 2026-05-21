@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T02:35:26.947Z",
+  "generatedAt": "2026-05-21T08:59:11.643Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,12 +8,42 @@
   "panels": {
     "na": [
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/21/justima-spins-out-of-osborne-clarke",
+        "title": "Justima Spins Out of Osborne Clarke",
+        "url": "https://www.artificiallawyer.com/2026/05/21/justima-spins-out-of-osborne-clarke/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-21T07:01:05.000Z",
+        "summary": "In what is the first spin out in international law firm Osborne Clarke’s history, Justima, a Germany-based regulatory monitoring platform, is forming a separate business. ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/21/walk-through-spotdraft-ai-powered-clm",
+        "title": "Walk Through: SpotDraft &#8211; AI-Powered CLM",
+        "url": "https://www.artificiallawyer.com/2026/05/21/walk-through-spotdraft-ai-powered-clm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-21T06:47:23.000Z",
+        "summary": "Today’s AL TV Product Walk Through is with SpotDraft, an AI-powered CLM platform. We explore a range of capabilities, from contract data extraction and analysis, ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "ABA Journal:www.abajournal.com/news/article/aba&",
         "title": "ABA announces eight winners of the 2026 Silver Gavel Awards for Media and the Arts",
         "url": "https://www.abajournal.com/news/article/aba&#45;announces&#45;eight&#45;winners&#45;of&#45;the&#45;2026&#45;silver&#45;gavel&#45;awards&#45;for&#45;media&#45;and&#45;the&#45;arts/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-05-20T17:29:00.000Z",
         "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/20/imanage-rolls-out-multiple-new-features",
+        "title": "iManage Rolls Out Multiple New Features",
+        "url": "https://www.artificiallawyer.com/2026/05/20/imanage-rolls-out-multiple-new-features/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-20T16:52:19.000Z",
+        "summary": "iManage is rolling out a range of new features across the KM company’s environment, along with updating others, which they said is all about an ...",
         "category": "updates",
         "region": "na"
       },
@@ -78,6 +108,16 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/20/harvey-launches-command-center-partners-with-deepjudge",
+        "title": "Harvey Launches Command Center, Partners With DeepJudge",
+        "url": "https://www.artificiallawyer.com/2026/05/20/harvey-launches-command-center-partners-with-deepjudge/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-20T13:30:17.000Z",
+        "summary": "There’s a lot happening at Harvey this week. First, they’ve forged a partnership with genAI KM pioneer DeepJudge (more below), and also have launched Command ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/05/the-claude-pocalypse-bypassed-legal-aid-lawdroids-new-plugin-remedies-that-with-15-targeted-skills.html",
         "title": "The Claude-pocalypse Bypassed Legal Aid; LawDroid&#8217;s New Plugin Remedies That, with 15 Targeted Skills",
         "url": "https://www.lawnext.com/2026/05/the-claude-pocalypse-bypassed-legal-aid-lawdroids-new-plugin-remedies-that-with-15-targeted-skills.html",
@@ -85,6 +125,36 @@
         "publishedAt": "2026-05-20T13:00:57.000Z",
         "summary": "In last week&#8217;s Claude-pocalypse, Anthropic, one of the world&#8217;s leading artificial intelligence companies, released 12 legal-specific plugins for its Claude AI assistant. It was big news, signalling a frontier",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/20/legal-innovators-california-interview-joy-sherrod-intel",
+        "title": "Legal Innovators California Interview: Joy Sherrod, Intel",
+        "url": "https://www.artificiallawyer.com/2026/05/20/legal-innovators-california-interview-joy-sherrod-intel/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-20T11:58:22.000Z",
+        "summary": "Ahead of the Legal Innovators California conference we spoke with Joy Sherrod, Director of Discovery and Associate General Counsel at Intel Corporation, who has spent ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/20/when-legal-terminology-is-correct-but-the-answer-is-still-wrong",
+        "title": "When Legal Terminology is Correct But the Answer is Still Wrong",
+        "url": "https://www.artificiallawyer.com/2026/05/20/when-legal-terminology-is-correct-but-the-answer-is-still-wrong/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-20T08:03:38.000Z",
+        "summary": "By Michael Krallmann, CEO, TransLegal. Legal AI is increasingly capable of producing outputs that look correct, not only linguistically, but also terminologically. Definitions align with ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/20/lavern-the-agentic-law-firm-has-arrived",
+        "title": "Lavern the Agentic ‘Law Firm’ Has Arrived",
+        "url": "https://www.artificiallawyer.com/2026/05/20/lavern-the-agentic-law-firm-has-arrived/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-20T06:52:22.000Z",
+        "summary": "Lavern, which is figuratively a ‘law firm’, has formally launched and now offers 67 specialist legal agents that can perform key tasks. Together they form ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -128,6 +198,16 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/19/eudia-co-building-with-openai-for-us-gov",
+        "title": "Eudia ‘Co-Building’ With OpenAI for US Gov",
+        "url": "https://www.artificiallawyer.com/2026/05/19/eudia-co-building-with-openai-for-us-gov/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-19T14:33:25.000Z",
+        "summary": "Eudia has announced a strategic partnership with OpenAI, which involves &#8216;co-building&#8217; for the legal and acquisition teams in the Department of War (DoW) and other ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/05/stilta-a-stockholm-startup-bringing-agentic-ai-to-patent-litigation-raises-10-5m-seed-led-by-andreessen-horowitz.html",
         "title": "Stilta, A Swedish Startup Bringing Agentic AI To Patent Litigation, Raises $10.5M Seed Led By Andreessen Horowitz",
         "url": "https://www.lawnext.com/2026/05/stilta-a-stockholm-startup-bringing-agentic-ai-to-patent-litigation-raises-10-5m-seed-led-by-andreessen-horowitz.html",
@@ -135,6 +215,16 @@
         "publishedAt": "2026-05-19T13:00:57.000Z",
         "summary": "A five-month-old Swedish startup that says its AI agents can do the heavy lifting of patent invalidity and infringement analysis has raised a $10.5 million seed round led by Andreessen Horowitz, one of the world&#8217;s ",
         "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/19/inhouse-ai-still-a-long-way-to-go",
+        "title": "Inhouse AI? Still A Long Way To Go",
+        "url": "https://www.artificiallawyer.com/2026/05/19/inhouse-ai-still-a-long-way-to-go/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-19T08:18:58.000Z",
+        "summary": "A new survey by World CC and CLM company Sirion has found that despite many promising legal AI offerings in the market, and great leadership ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1120,32 +1210,122 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/4j0eeb3wopshjxuhubvr",
-        "title": "腾讯混元世界模型的研发布局与思考｜AICon上海",
-        "url": "https://www.infoq.cn/article/4j0EEB3WoPsHJXUHubVR?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/tbgvhdcciqulleemfbbu",
+        "title": "Cloudflare与Stripe推出新协议，让AI智能体创建账号、购买域名和进行生产部署",
+        "url": "https://www.infoq.cn/article/TbgvhdcciqULlEEmFBbU?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-21T10:00:00.000Z",
+        "publishedAt": "2026-05-21T16:06:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/jaicqmzyvqq8shdgszeh",
-        "title": "阿里发布新一代千问旗舰模型Qwen3.7-Max，登顶最佳国产模型",
-        "url": "https://www.infoq.cn/article/jAICqmzYVqQ8sHdGSzEH?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/r8at75qb1xbqof2wojq8",
+        "title": "词元时代，万物智能 | 摩尔线程2026产品发布会：打造全场景AI算力基石",
+        "url": "https://www.infoq.cn/article/R8aT75QB1XbqoF2Wojq8?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-21T09:47:10.000Z",
+        "publishedAt": "2026-05-21T15:37:39.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/5zg1bw19utfkmetfrc3h",
-        "title": "谷歌推出Cloud Fraud Defense，作为reCAPTCHA的继任者",
-        "url": "https://www.infoq.cn/article/5Zg1Bw19UtfKMETfrC3H?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ltw6dfwe3e15fpeyblzw",
+        "title": "Altman拿Token换股权只够烧45天，20亿Token捐母校只值100块：Token真成“钱”了，谁更赚？",
+        "url": "https://www.infoq.cn/article/lTw6dfwe3e15fPEyBlZW?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-21T09:36:56.000Z",
+        "publishedAt": "2026-05-21T15:33:45.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fs0qhziygmzjzznwk5v3",
+        "title": "马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家",
+        "url": "https://www.infoq.cn/article/fS0QHZiYGmZJZZNwk5V3?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-21T15:23:49.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/odxlpi1fcuhdfc2gq7w2",
+        "title": "中国最神秘AI孵化器正式亮相：11位“大佬”导师成为超强外挂",
+        "url": "https://www.infoq.cn/article/odXlpi1FCUhDFC2gQ7W2?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-21T15:18:25.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/oi49yhutnwabak5kwjwg",
+        "title": "从兼容 CUDA 到自我进化，摩尔线程想用 MUSA 解决真正的难题",
+        "url": "https://www.infoq.cn/article/Oi49yHUTNwABaK5kWjWG?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-21T15:16:50.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/kmcvx8qntqrypphvdq4b",
+        "title": "OpenAI开源Symphony：面向自主编码智能体编排的SPEC规范文档",
+        "url": "https://www.infoq.cn/article/kmcvx8qNTQRYpPHVDq4B?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-21T14:39:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3817502775329667",
+        "title": "从算力到价值：AI时代的基础设施重构与产业增长新引擎| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3817502775329667?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-21T08:54:17.000Z",
+        "summary": "token经济如何重塑AI产业链？从芯片到智算中心，从模型服务到终端应用，token正在成为贯穿全链的计价单位。而当推理算力需求超越训练，智算中心的角色正从算力仓库变为token工厂，一个万亿级市场的大门刚刚打开。 token正在成为AI时代的新质生产力单位。宋琛指出，随着Agent成为新交互入口，单次任务token消耗已从几千飙升至百万级别，而中国token调用量已占全球61%。在这一趋势下，AI基础设施的竞争焦点正在从“谁的模型参数",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3818784445465731",
+        "title": "开场致辞 建设“全域人工智能之城” | 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3818784445465731?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-21T08:51:34.000Z",
+        "summary": "AI的聚光灯正从炫酷的C端应用，转向轰鸣的工厂、无声的手术室和奔跑的人形机器人。当“落地”成为当下的关键词，2026北京亦庄AI+产业大会吹响了“走！带着AI去前线”的号角，在产业第一线求解人工智能的真实生产力。我们记录下这场务实者的聚会，捕捉那些让技术扎根泥土的坚定声音。 5月19日，2026北京亦庄AI+产业大会在亦庄启幕。大会由北京经开区管委会指导��36氪主办、国家信创园承办，告别高台论道，将议题直接对准工厂、医院、社区、田间地",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3818802171921538",
+        "title": "阿里云重磅发布金融级智能体平台点金",
+        "url": "https://36kr.com/newsflashes/3818802171921538?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-21T08:46:27.000Z",
+        "summary": "5月20日，在2026阿里云峰会上，阿里云正式推出金融级通用智能体点金，直连市场行情、阿里资产，并原生支持Wind万得、盈米且慢、东方财富、恒生聚源等数据源，内置全链路审计与三重合规防线。通过零代码配置与混合算力架构，点金可实现毫秒级响应及异构渠道统一接入，助力金融机构的计算准确可信，决策透明可靠。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3818799926707329",
+        "title": "Alphabet斥资150亿美元在密苏里州新建数据中心",
+        "url": "https://36kr.com/newsflashes/3818799926707329?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-21T08:44:10.000Z",
+        "summary": "谷歌母公司Alphabet宣布斥资150亿美元，在美国密苏里州新弗洛伦斯兴建全新数据中心。随着人工智能催生云端与算力需求持续高涨，该项目也成为该州规模最大的科技基建项目之一。谷歌已在密苏里州签约拿下超10亿瓦新增发电装机容量，并携手公用事业企业Ameren，助力落地超5亿瓦配套电力产能。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3818651789182080",
+        "title": "开场致辞 从技术狂欢到价值深水区 | 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3818651789182080?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-21T08:10:17.000Z",
+        "summary": "AI叙事不再是颠覆一切，真正值得关注的是那些沉默的行业壁垒和经验能否被智能照亮。 四年间，这场大会从趋势观察走向落地实践，36氪也从AI的观察者转型为助推者。36氪CEO冯大刚在2026北京亦庄AI+产业大会的开场中，为焦虑的商业世界开出一剂解药，AI不是一家公司的机会，而是千行百业的机会。两天会期、六七十位实操嘉宾、一个让供需双方面对面碰撞的舞台，这里不谈虚的概念，只讲做成了没有。我们记录下这段冷静而笃定的开场白，在技术狂欢中找回商业",
         "category": "updates",
         "region": "cn"
       },
@@ -1160,32 +1340,32 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3818424667260032",
-        "title": "摩根大通投行高管：香港及中国内地IPO活动料显著增加",
-        "url": "https://36kr.com/newsflashes/3818424667260032?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3818743882974345",
+        "title": "SpaceX据悉计划五年内实现每年1万次发射",
+        "url": "https://36kr.com/newsflashes/3818743882974345?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-21T02:22:26.000Z",
-        "summary": "摩根大通全球投资银行联席主管Kevin Foley在接受采访时表示，全球首次公开募股（IPO）市场有望迎来自2021年以来最活跃的一年，其中香港和中国内地的增长预计尤为显著。推动投资和IPO的关键长期主题包括人工智能、机器人和医疗保健。（新浪财经）",
+        "publishedAt": "2026-05-21T07:55:04.000Z",
+        "summary": "据美国联邦航空管理局（FAA）局长周三透露，SpaceX正抛出一个宏大的计划，即在五年内实现每年10000次发射。但该机构对此表示，在批准此类扩张计划之前，政府官员需要看到其可靠性有所提升。今年1月，SpaceX公司还曾表示，其计划发射并组建一个由100万个卫星组成的星座，这些卫星将环绕地球运行，并利用太阳为人工智能数据中心供电。（财联社）",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3818361394496390",
-        "title": "腾讯推出操作系统层级AI助手“马维斯”",
-        "url": "https://36kr.com/newsflashes/3818361394496390?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3818738782667904",
+        "title": "英杰电气：射频电源已切入国内头部存储企业供应链并实现供货",
+        "url": "https://36kr.com/newsflashes/3818738782667904?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-21T01:18:04.000Z",
-        "summary": "36氪获悉，腾讯宣布旗下操作系统层级AI助手Marvis（马维斯）正式上线。Marvis将终端系统、文件、应用、算力和跨端连接纳入同一个AI中间层，出厂预置6个Agent协同的“AI团队”——主Agent统筹任务，并调度File、Computer、App、Browser、Search等专项Agent并行执行，装机即用。Marvis同步提供效率模式与隐私模式。",
+        "publishedAt": "2026-05-21T07:41:58.000Z",
+        "summary": "36氪获悉，英杰电气在互动平台表示，公司射频电源产品已切入国内头部存储企业供应链并实现供货。目前公司射频电源产能可满足现阶段需求，公司正在建设的成都半导体基地，可以进一步提升公司射频电源产能，进一步匹配行业高速增长的要求。公司半导体电源已批量服务刻蚀/薄膜沉积/晶圆制造三大环节头部客户，目前业务体量占比以中微公司和拓荆科技为主，晶圆厂也有供应，正在逐步拓展与更多的半导体设备以及晶圆厂的合作。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3818342793610112",
-        "title": "白宫举行吹风会，向人工智能公司介绍审查AI模型的行政令",
-        "url": "https://36kr.com/newsflashes/3818342793610112?f=rss",
+        "id": "36Kr:36kr.com/p/3818450346738823",
+        "title": "9亿次点击背后，AI应用的真实江湖｜2026中国AI应用全景图谱报告",
+        "url": "https://36kr.com/p/3818450346738823?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-21T00:59:09.000Z",
-        "summary": "5月21日消息，据报道，白宫国家网络总监办公室19日为人工智能公司举行了一场吹风会，介绍一项计划中的人工智能行政令，行政令将授权情报机构和其他政府机构在先进模型发布前对其进行审查，参加吹风会的公司包括OpenAI、Anthropic和Reflection AI。预计特朗普最快在21日签署该命令。云服务提供商、半导体公司、网络安全公司和银行的代表也参加了吹风会。（界面）",
+        "publishedAt": "2026-05-21T03:52:45.000Z",
+        "summary": "有一个问题，值得在2026年认真问一次—— 你上一次用AI应用，是让它回答了一个问题，还是让它完成了一件事？ 这两个动作之间，隔着一个时代。 2026年，AI应用的产品范式，正在从「聊天」走向「做事」。 这不是预言，是已经发生的现实。 从「回答」到「执行」，背后的数据是怎样的？推手是什么？有哪些代表企业？ 为了回答这些问题，量子位智库发布2026年中国AI应用全景图谱报告。 报告中，我们通过2026年中国AI应用全景图谱试图记录当下AI",
         "category": "updates",
         "region": "cn"
       },
@@ -1220,32 +1400,12 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/lwyb2c8t1g9yrhp07kzw",
-        "title": "Arm 携手通义实验室，发起手机上的创意 AI 挑战赛",
-        "url": "https://www.infoq.cn/article/LwYB2c8t1g9yrhp07kZW?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-20T15:05:29.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3816942423000196",
         "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
         "url": "https://36kr.com/p/3816942423000196?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-20T11:40:36.000Z",
         "summary": "大公司： 新加坡加码人工智能布局，英伟达将落地本地研发中心 全球AI芯片巨头英伟达将在新加坡新设研发中心，这也是新加坡周三集中公布的一系列人工智能相关举措之一。这座全新实验室是英伟达在新加坡设立的首个研发据点，同时也是其在亚太地区布局的第二处同类研发机构。（新浪财经） 2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选 36氪获悉，《2026福布斯中国人工智能科技企业TOP 50》正式揭晓，中关村科金成功入选，是榜单中唯",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/whlyjd6dqgpyxmcxwfzo",
-        "title": "不换 Kimi 底座，1/10 成本追平 Opus 4.7？Cursor 用 Composer 2.5 反击 Claude Code",
-        "url": "https://www.infoq.cn/article/WHlyjD6dQgPYxmcXWFzO?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-20T11:38:13.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
@@ -1258,49 +1418,19 @@
         "summary": "今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。 2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？ 正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产业头部企业、新锐创业公司、顶尖学术力量，围绕AI Ag",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3817039204139908",
-        "title": "长鑫科技更新招股书，碧桂园错失300亿",
-        "url": "https://36kr.com/p/3817039204139908?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-20T02:54:58.000Z",
-        "summary": "地产行业内，曾有望跑出两家明星创投企业，一家是世纪金源，另一家是碧桂园��前者现在做得顺风顺水，收获一个又一个IPO，而碧桂园因为地产业务暴雷，需要大量资金保交楼，被迫中断了在科技领域的投资“大爆发”。 01 5月17日，计划登陆科创板的长鑫科技集团股份有限公司（以下简称：长鑫科技）更新了招股书。新招股书的财务数据显示，2026年第一季度，长鑫科技营收508亿元，同比增长719.13%；归母净利润247.62亿元，同比大增1688%，完",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3709756082466949",
-        "title": "理想新L9上市72小时：老车主复购占大头，仍需从“家庭”破圈",
-        "url": "https://36kr.com/p/3709756082466949?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-20T02:24:46.000Z",
-        "summary": "文 | 徐蔡钰 编辑 | 李勤 “爆了，试驾根本约不上”，5月16至17日，理想新L9上市的首个周末，门店挤满了前来试驾的用户们。 这款在2022年首次面世的增程大六座SUV，发布了第四代车型。新L9分Ultra与Livis两种版本，起售价分别为45.98万元、50.98万元。 相较此前的年度改款，本次新L9的更新幅度更加显著： 全系标配72.7kWh电池，纯电续航达到420公里，综合续航突破1600公里。理想自研马赫芯片首次上车，单颗",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3816909945029760",
-        "title": "要做数字劳动力生产工厂，「未来式智能」完成Pre-A轮融资",
-        "url": "https://36kr.com/p/3816909945029760?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-20T01:21:27.000Z",
-        "summary": "文｜王欣逸 编辑｜邓咏仪 36氪获悉，未来式智能（AutoAgents.ai）近日完成Pre-A轮融资，新进投资方包括凡创资本、中关村资本、探元资本，老股东东证创新、麟阁创投跟投，本轮融资主要用于算力投入、团队扩张以及新产品的生态建设运营。 未来式智能成立于2023年6月，专注于以智能体技术赋能知识工作者。核心团队来自达摩院、腾讯、字节跳动和谷歌。创始人兼CEO杨劲松曾在达摩院担任产品/商业化总监，曾任字节飞书AI负责人、亚马逊AWS ",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3816947890471812",
-        "title": "早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万",
-        "url": "https://36kr.com/p/3816947890471812?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-20T01:20:43.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，Visual Agent（视觉智能体）创业公司Chance AI宣布完成数百万美元天使轮融资。本轮由美图领投，NYX Ventures、阿里系投资机构等跟投。融资将用于模型能力迭代、北美学生群体增长、以及社区与商业化探索。 Chance AI成立于2025年，核心产品是全球第一款以摄像头为主要交互入口的AI产品——Visual Agent（视觉智能体）。 与传统AI产品依赖输入框不同，用户打开Chan",
-        "category": "tools",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354324/alibaba-signals-next-phase-ai-growth-investment-commercialisation",
+        "title": "Alibaba signals next phase of AI growth from investment to commercialisation",
+        "url": "https://www.scmp.com/tech/big-tech/article/3354324/alibaba-signals-next-phase-ai-growth-investment-commercialisation?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-21T06:00:41.000Z",
+        "summary": "Alibaba Group Holding’s heavy investments in artificial intelligence have moved beyond the “initial” phase and entered “full-scale commercialisation”, the Chinese e-commerce and cloud computing giant says in a shareholde",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354113/deepseek-recruits-former-jane-street-engineer-catch-ai-agents-revenue-race",
         "title": "DeepSeek recruits former Jane Street engineer to catch up on AI agents, revenue race",
