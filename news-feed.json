@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T02:36:41.273Z",
+  "generatedAt": "2026-05-22T08:50:41.146Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1200,6 +1200,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/zvey7iegqotcilxdpj0i",
+        "title": "千问云发布，阿里云将模型路由、认证、用量查询全面 CLI、SKill化",
+        "url": "https://www.infoq.cn/article/zvEY7iEgQOTcIlXDPJ0i?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-22T16:08:57.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/epxugq7czvwnwkohe1vt",
+        "title": "TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵",
+        "url": "https://www.infoq.cn/article/ePxUGQ7cZvWNWkOhE1vT?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-22T16:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/vck5bvdskqz2j7uedbvn",
         "title": "阶跃星辰副总裁俞刚确认出席AICon上海站，分享多模态生成与理解的架构演进",
         "url": "https://www.infoq.cn/article/VcK5bVdskQZ2j7uEdbvN?utm_source=rss&utm_medium=article",
@@ -1210,52 +1230,102 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/4dhnbedpjl4q8ca8cxso",
-        "title": "Cloudflare 发布 Dynamic Workflows，将持久化执行扩展到按租户与按 Agent 动态运行的代码",
-        "url": "https://www.infoq.cn/article/4DhNBEdPJL4q8cA8cXso?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-22T09:47:34.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/p/3820169156890759",
+        "title": "能落地的请留下，讲故事的请离场",
+        "url": "https://36kr.com/p/3820169156890759?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-22T07:58:39.000Z",
+        "summary": "让合作当场发生！ 2026年的AI行业，正在经历一次价值体系的深层重构。过去两年，聚光灯始终偏向技术侧——参数、算力、榜单排名。但今天，话语权正在向产业方转移：那些拥有真实需求、真实场景、真实业务压力的企业，开始掌握定义权。产业界最关切的问题变得具体而迫切：在必须交付结果的地方，AI到底靠不靠得住？ 5月19日，以“带着AI去前线”为主题的2026 AI Partner大会在北京亦庄通明湖会展中心开幕。本次大会由北京经开区管委会指导、3",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3819853603443079",
-        "title": "“中科沌序”完成数千万天使轮融资",
-        "url": "https://36kr.com/newsflashes/3819853603443079?f=rss",
+        "id": "36Kr:36kr.com/p/3820150778531972",
+        "title": "圆桌对话：看见实效：从技术到处方，AI +医疗的场景落地与价值闭环| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3820150778531972?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-22T02:36:01.000Z",
-        "summary": "北京中科沌序科技有限公司宣布完成数千万规模的天使轮融资。本次融资由首程资本领投，钧犀资本、顺禧基金跟投，获多元资本类型追捧。中科沌序脱胎于人工智能“国家队”中国科学院自动化所，以Collective AGI（群体通用人工智能）为使命，既布局未来无人社会广阔场景，又有当下低空安全产品落地的AI公司，致力于打破AI行业“远景美好、落地艰难”困境，实现“技术+商业”双轨并行。",
+        "publishedAt": "2026-05-22T07:38:36.000Z",
+        "summary": "从五年前的技术炫技到今天的临床刚需，AI+医疗终于走过了“证明我能”的喧嚣，进入“解决痛点”的深水区。不做替代医生的空想，只做减轻负担的助手——这场对话告诉我们，AI医疗落地的第一步不是说服院长，而是赢得科室主任的信任；关键不是单点突破，而是多元数据联动形成闭环 圆桌对话直面AI进医院的真实卡点：系统对接难、医生怕麻烦、责任划不清。从左医科技深耕九年的实战出发，从协和到宁夏中卫，揭示了分层落地的差异化逻辑——三甲提效率，基层补人力。用病",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3819853216288898",
-        "title": "国家发改委：正在谋划出台加快人工智能落地的配套文件",
-        "url": "https://36kr.com/newsflashes/3819853216288898?f=rss",
+        "id": "36Kr:36kr.com/p/3820143885455751",
+        "title": "以场景为锚，以AI为翼：大健康产业的实践与突破| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3820143885455751?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-22T02:35:37.000Z",
-        "summary": "5月22日，国家发展改革委召开新闻发布会。会上，国家发展改革委政策研究室副主任李超表示，近期发改委正在谋划出台加快人工智能落地的配套文件，进一步加大要素保障。同时，我们还将持续推动央国企开放高价值的应用场景，面向各个行业和领域、各个地方打造人工智能标杆应用，加快引导人工智能融入经营管理等各方面、各环节。（证券时报）",
+        "publishedAt": "2026-05-22T07:32:35.000Z",
+        "summary": "当大健康产业遇上AI，最大的难题不是技术够不够强，而是场景够不够深、信任够不够厚。百度健康用六年时间给出了自己的答案：从单点智能走向全局协同，从技术赋能走向价值创造。 中国慢病人群超5亿，每千人执业医生数却远低于发达国家——供需矛盾之下，AI成为医疗健康供给侧改革的新基建。百度健康总经理杨明璐结合百度健康的实战经验，拆解了AI在用户、医生、医院三大场景的落地实践。AI不是炫技，而是让每一环都更专业、更可信 。 杨明璐作为百度健康品牌的创",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3819852924244357",
-        "title": "阶跃星辰增资至6052万",
-        "url": "https://36kr.com/newsflashes/3819852924244357?f=rss",
+        "id": "36Kr:36kr.com/p/3818843802665862",
+        "title": "算力浪潮下，AI智能影像的无线化变革| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3818843802665862?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-22T02:35:20.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，上海阶跃星辰智能科技股份有限公司发生工商变更，注册资本由约5727万人民币增至约6052万人民币。此前，上海阶跃星辰智能科技股份有限公司已多次增资。该公司成立于2023年4月，法定代表人为印奇，经营范围包括人工智能行业应用系统集成服务、人工智能应用软件开发、信息系统集成服务、人工智能理论与算法软件开发等。",
+        "publishedAt": "2026-05-22T07:29:37.000Z",
+        "summary": "神眸做的事情不是追逐英伟达，而是在算力浪潮的下游，用极致的低功耗芯片设计，让摄像头摆脱电线的束缚，打开一个千亿只智能视觉终端的未来。 杨作兴带领神眸实现了摄像头功耗降低一个数量级的突破——第一代芯片达业界三分之一功耗，第二代达十分之一，首次用1瓦太阳能板驱动全天候智能摄像机。他认为，当前全球安防摄像头年出货量仅3到4亿只，但到2035年将达100亿只，2045年更将达1000亿只，因为世界大模型需要万亿级摄像头来实时映射物理世界。而在推",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3819709302329735",
-        "title": "8点1氪丨“拉勾网”被曝主动申请破产；特斯拉Model S和X正式停产退役；三星内存工人，奖金或达280万元",
-        "url": "https://36kr.com/p/3819709302329735?f=rss",
+        "id": "36Kr:36kr.com/p/3820136301728135",
+        "title": "AI+数字资产：激活企业沉睡数据，释放商业价值| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3820136301728135?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-22T00:14:12.000Z",
-        "summary": "今日热点导览 马斯克或成全球首位万亿美元富翁 三星内存工人，奖金或达280万元 东方甄选首家线下店正式营业 追觅俞浩回应“花4000万请员工去迪士尼” 妙鸭APP被曝团队解散 多地公布520结婚登记数据 TOP3大新闻 Manus创始人计划融资10亿美元回购公司 据彭博社报道，肖弘��季逸超和张涛正在筹划一轮约10亿美元的融资，估值不低于Meta此前收购时支付的20亿美元。如果计划推进，Manus将先以中外合资企业的形式重新落地中国，再",
+        "publishedAt": "2026-05-22T07:24:24.000Z",
+        "summary": "当AI开始帮投资机构“面试”企业、帮合作伙伴“背调”公司时，你的数据还在沉睡吗？艾迪普用22年经验告诉我们：AI时代的第一场战役，是数据治理战。 现在投资方、银行甚至客户都在用AI智能体“打听”你的企业——如果你的数据没有被主动整理、标注、推向市场，就等于在AI的“筛选网”里隐身。艾迪普推出元典大模型+企业数字资产专区，80%的整理工作可由AI完成，但安全底线不能丢——拒绝大厂直接索要工程文件，坚持在可信容器内训练。从品牌营销到内部Ag",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3820121808540034",
+        "title": "圆桌对话：降本增效 风控提智：数字员工驱动金融数智化转型的实战样本| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3820121808540034?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-22T07:09:25.000Z",
+        "summary": "金智维与银河期货七年合作，从十万级的RPA项目走到百万级的智能流程重构，证明了一件事：企业级AI的价值不在于回答问题，而在于把事办成。 从RPA到Agentic Flow，金智维与银河期货用七年时间跑通了企业流程智能化的完整路径。如今，数字员工已在银河期货落地50多个场景，每天执行超三千条业务流程，准确率99.97%。2025年，双方再度联手探索“智能流程”新范式，试图让流程本身具备自构建、自优化、自演化的能力。 以下为圆桌对话内容，经",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3820112276951170",
+        "title": "圆桌对话：进化的终极思考：引入AI，先改流程还是先换脑袋？| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3820112276951170?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-22T06:59:37.000Z",
+        "summary": "企业引入AI，先改流程还是先换脑袋？没有标准答案，只有实战经验——学者、制造业主、工业赋能者三种视角碰撞出一个共识，不要指望把全公司的认知统一好再动手，也不要贪大求全一步到位，用小流程换结果，用结果赢共识，才是AI转型最稳的路径。 圆桌对话直面AI落地中“上热下冷”、过度追求全智能、数据治理欠账等现实之坑，并给出了一句建议：找准场景先干起来，用1%的成功促进100%的变革。 以下为圆桌演讲内容，经36氪整理编辑： 何思翀丨蚂蚁集团NEX",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3820107133555077",
+        "title": "AI+供应链：大模型与智能决策如何重构供应链全链路| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3820107133555077?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-22T06:54:18.000Z",
+        "summary": "AI究竟如何为产业创造价值？见证AI从“热点”转化为“生产力”的关键一跃。 今天的顺丰已经用AI调度着中国三分之一的航空货运。从百万人的协同、二十万辆车的调度，到每天五千万票件的动态路由——物流供应链的复杂度，正是AI落地的最佳试验田。一个超大规模网络如何用大模型、Agent和运筹算法，将“24小时达”从承诺变成日常，并将这份能力输送给更多中国企业。 以下为顺丰集团数智供应链解决方案事业群高级副总裁 唐恺 演讲内容，经36氪整理编辑： ",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3820101654106243",
+        "title": "人形机器人走进工业制造：共育新质生产力",
+        "url": "https://36kr.com/p/3820101654106243?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-22T06:48:48.000Z",
+        "summary": "前十年被问“为什么做人形机器人”，如今被追问“怎么落地场景”。谭旻告诉我们，优必选作为人形机器人赛道的“长期主义者”，如何锚定应用落地，一步步将人形机器人送入真实世界，并让中国站上全球具身智能创新链的顶端。 从去年全球率先跑通全尺寸人形机器人量产，并实现超千台交付，到今年冲刺万台规模量产，优必选正在用持续的工业场景实训和三代产品迭代，证明人形机器人进工厂不是科幻，是刚需。谭旻在演讲中指出，中国智能制造核心缺口已超三千万人，人形机器人要做",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3820091365871748",
+        "title": "圆桌对话：AI+的“国家推进计划”与企业的“生存路线图”| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3820091365871748?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-22T06:38:43.000Z",
+        "summary": "AI+正从技术指引转向产业实战，政策红利如何兑现？投入如何变成产出？企业如何在浪潮中生存、打赢？2026北京亦庄AI+产业大会首场圆桌对话，将这些问题摆上台面，不谈空想，只谈干法。 2026北京亦庄AI+产业大会首场圆桌对话聚焦“AI+的国家推进计划与企业的生存路线图”。贝恩公司全球合伙人成鑫主持，上海市人工智能行业协会部长周晗、美的集团AI研究院院长徐翼、云岫资本创始合伙人兼CEO高超、京东AI智能硬件项目负责人张量四位嘉宾，从政策落",
         "category": "updates",
         "region": "cn"
       },
@@ -1288,89 +1358,9 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3816942732133510",
-        "title": "氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》",
-        "url": "https://36kr.com/p/3816942732133510?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-21T13:14:15.000Z",
-        "summary": "大公司： SpaceX据悉计划五年内实现每年1万次发射 据美国联邦航空管理局（FAA）局长周三透露，SpaceX正抛出一个宏大的计划，即在五年内实现每年10000次发射。但该机构对此表示，在批准此类扩张计划之前，政府官员需要看到其可靠性有所提升。今年1月，SpaceX公司还曾表示，其计划发射并组建一个由100万个卫星组成的星座，这些卫星将环绕地球运行，并利用太阳为人工智能数据中心供电。（财联社） 阿里股东信释放信号，即时零售已成为淘宝天",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3818927367046018",
-        "title": "新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3818927367046018?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-21T10:55:09.000Z",
-        "summary": "管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。 新石器用七年时间走完从合规落地、规模量产到万台运营的三级跳，如今推出AI Agent“Neo Claw”——让用户像聊天一样指挥车队，把单人管理效率从10台拉升到100台以上。颉晶华强调，AI的价值不在于写多少代码，而在于解放双手——让无人车管理从“专业操作”变成“说话就行”。 以下为演讲内容，经36氪整理编辑： 颉",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3818889074557829",
-        "title": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3818889074557829?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-21T10:15:31.000Z",
-        "summary": "当Robotaxi还在为L4苦苦挣扎时，酷哇的环卫机器人、无人小巴、机器狗已经在50多个城市“上岗”赚钱了。 具身智能最大的瓶颈不是算法，而是数据——没有量产就没有数据，没有数据就无法进化。酷哇的解法是“以战养战”：让机器人在真实运营中一边干活一边成长，用万台规模反哺模型迭代。李柯宏强调，中国是全球少有的支持机器人规模化应用的市场，酷哇正依托“一带一路”先行布点，用真实的运营数据驱动具身智能的持续进化。 以下为酷哇科技联合创始人、COO",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3818877539091333",
-        "title": "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3818877539091333?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-21T10:03:58.000Z",
-        "summary": "5月19日，2026北京亦庄AI+产业大会上，36氪与PureblueAI清蓝正式达成战略合作，并联合发布《2026消费品牌AI推荐力名册》。随着AI逐渐成为新的信息入口和消费决策入口，品牌在AI回答中是否被提及、是否被推荐、排序是否靠前，正在成为新的竞争维度。36氪副总裁迟涵表示，36氪是最早发现和报道GEO的媒体，PureblueAI清蓝在自研技术算法和“科学GEO”方法论上的积累令其成为可信的合作伙伴。PureblueAI清蓝市场",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3818800487679111",
-        "title": "把确定性，写进农业：四个外行、两次失败、三千万学费换来的答案| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3818800487679111?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-21T09:01:52.000Z",
-        "summary": "两次失败、三千万学费——创业没有爽剧剧本，这是陆渔科技深耕农业AI真实的“入场券”。当99%的人还在用AI写文案、做设计时，有人把它扔进了鱼塘，只为解决一个最朴素的问题：不确定性。 鲁敏用18年IT男转型“新农民”的经历，揭开了水产养殖最残酷的真相：1.38万亿的市场，数字化渗透率不足5%，一叶方塘，百万归零。这场分享没有宏大叙事，只有从黑箱到白盒、从赌运气到算数据的血泪教训：农业要的不是快，是确定性。 以下为陆渔科技联合创始人、首席技",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3817502775329667",
-        "title": "从算力到价值：AI时代的基础设施重构与产业增长新引擎| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3817502775329667?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-21T08:54:17.000Z",
-        "summary": "token经济如何重塑AI产业链？从芯片到智算中心，从模型服务到终端应用，token正在成为贯穿全链的计价单位。而当推理算力需求超越训练，智算中心的角色正从算力仓库变为token工厂，一个万亿级市场的大门刚刚打开。 token正在成为AI时代的新质生产力单位。宋琛指出，随着Agent成为新交互入口，单次任务token消耗已从几千飙升至百万级别，而中国token调用量已占全球61%。在这一趋势下，AI基础设施的竞争焦点正在从“谁的模型参数",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/kmltcrbiwmlazlswks6a",
-        "title": "AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势",
-        "url": "https://www.infoq.cn/article/KMlTCRBIWmlaZLSWks6A?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-21T08:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/article/3354407/ai-boom-fuels-us116b-data-centre-investment-asia-pacific-hong-kong-eyes-niche-role",
-        "title": "AI boom fuels US$11.6b data centre investment in Asia-Pacific as Hong Kong eyes niche role",
-        "url": "https://www.scmp.com/business/article/3354407/ai-boom-fuels-us116b-data-centre-investment-asia-pacific-hong-kong-eyes-niche-role?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-21T23:00:10.000Z",
-        "summary": "The artificial intelligence boom is partially spurring investment in Asia-Pacific’s data centre properties with a record US$11.6 billion worth of capital poured into the segment in 2025, according to CBRE. In Hong Kong, ",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354324/alibaba-signals-next-phase-ai-growth-investment-commercialisation",
         "title": "Alibaba signals next phase of AI growth from investment to commercialisation",
