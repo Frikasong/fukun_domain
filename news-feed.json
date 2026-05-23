@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T02:13:07.079Z",
+  "generatedAt": "2026-05-23T08:07:39.547Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -29,7 +29,7 @@
       },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/grads&",
-        "title": "Grads of non-ABA accredited law school can sit for Washington state bar exam",
+        "title": "Grads of non-ABA-accredited law school can sit for Washington state bar exam",
         "url": "https://www.abajournal.com/news/article/grads&#45;of&#45;non&#45;aba&#45;accredited&#45;law&#45;school&#45;can&#45;sit&#45;for&#45;washington&#45;state&#45;bar&#45;exam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-05-22T14:25:00.000Z",
@@ -1200,12 +1200,72 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ss6hiq6yvrjav4pjmhg1",
-        "title": "华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
-        "url": "https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/hztpyj4siqzfohybio2q",
+        "title": "OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构",
+        "url": "https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-23T10:00:00.000Z",
+        "publishedAt": "2026-05-23T14:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3821591669166214",
+        "title": "DeepSeek-V4-Pro API永久降价",
+        "url": "https://36kr.com/newsflashes/3821591669166214?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-23T08:04:04.000Z",
+        "summary": "36氪获悉，据DeepSeek官微，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3821542483857801",
+        "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3821542483857801?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-23T07:14:29.000Z",
+        "summary": "稀缺的，到底是懂AI的人，还是懂业务的人？ 一个反直觉的判断——懂AI这件事正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复的工作最容易被AI替代，但在打造爆品、建立品牌等低频高影响力的决策上，人的判断依然不可替代，企业AI转型的最大卡点也不是技术或数据，而是“想不到应用场景”， 当前AI的利润大头仍在基础设施层，应用端的ROI尚未完全释放，但拐点会比预想来得更快。 以下为圆桌对话内容，经36氪整理编辑： 郑王",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3821533415985283",
+        "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3821533415985283?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-23T07:05:47.000Z",
+        "summary": "真正AI原生的人，甚至不会来这个现场。但对于那些积极转型的20%，如何找到、培养并留住他们，这里有一本实战手册。 只有1%的企业是AI原生企业，20%积极拥抱变化，80%在苦苦挣扎；人才亦然。圆桌深入探讨了企业“赶时髦招AI人才”的焦虑、通过黑客松内部挖掘AI人才的方法、以及“事业留人、文化留人”的留存策略。 以下为圆桌对话内容，经36氪整理编辑： 帮主丨36氪《AI局内人》主播（主持） 郑鹏宇丨杭州颜柯教育科技有限公司创始人 肖玛峰丨",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3821521291038856",
+        "title": "对话王小川：离开通用人工智能的主干道之后",
+        "url": "https://36kr.com/p/3821521291038856?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-23T06:53:35.000Z",
+        "summary": "“如果没有转型，继续走主流道路，你也会有同等程度的焦虑。”王小川说，这次转型，让他真正回归到从创业第一天就最想做的事情：造AI医生。 访谈｜邓咏仪 杨轩 文｜邓咏仪 编辑｜张雨忻 一年前，王小川带着百川智能来了一次激烈的“大刹车”：大幅缩减通用模型团队，关闭金融等多条行业线，All in医疗大模型。但与此同时，整个大模型行业却热闹非凡，大厂和创业公司轮番进行“轰炸式更新”——过去半年里，平均3天就有一个新版本的通用大模型面世。 而看起来",
+        "category": "skills",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3821519307591811",
+        "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
+        "url": "https://36kr.com/p/3821519307591811?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-23T06:53:25.000Z",
+        "summary": "AI浓度并非越高越好，转化率的秘密在于人机共生的平衡点。 “AI应像手机一样贯穿全流程”，而面对亲子游客和老年群体，主动将AI浓度降至50%，却实现了超50%的转化率。浓度的关键是以人为本、文化温度先行。 以下为圆桌对话内容，经36氪整理编辑： 薛冰丨上海蜚语信息科技副总裁（主持） 崔健南丨广州搞搞镇文化科技创始人兼CEO 杨晟丨珀乐互动科技创始人 薛冰： 各位嘉宾大家下午好，我是主持人薛冰，很荣幸受到36氪以及北京亦庄的邀请主持下午的",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3821371042877575",
+        "title": "36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资",
+        "url": "https://36kr.com/p/3821371042877575?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-23T04:20:48.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京维泛智能科技有限公司（以下简称“维泛智能”）近日完成数亿元种子轮融资，由中关村资本及旗下启航投资联合领投，上海未来产业基金、石溪资本、佰维存储、燕创集团、海益投资、探元创投共同投资。 维泛智能成立于2025年5月，孵化自北京大学类脑芯片实验室（PAICORE Lab），专注于具身智能“大小脑”融合芯片研发，致力于打造全国产化机器人核心计算方案。 联合创始人殷积磊毕业于北京大学，拥有超过2",
         "category": "updates",
         "region": "cn"
       },
@@ -1216,16 +1276,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-23T02:00:00.000Z",
         "summary": "作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。 招聘Eva覆盖招聘全流程，辅助企业完成识人、筛选和面试；人事Eva聚焦报表处理、流程流转和员工咨询等重复事务；BPEva则用于动态更新人才画像，辅助企业进行人才识别和组织决策。 支撑这三款产品的是Moka AI工坊，它相当于底",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3821194878947715",
-        "title": "Anthropic最快下周完成逾300亿美元融资轮",
-        "url": "https://36kr.com/newsflashes/3821194878947715?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-23T01:30:22.000Z",
-        "summary": "Anthropic PBC最快将于下周完成最新一轮融资，融资额可能超过300亿美元，公司估值超过9000亿美元，从而超越竞争对手OpenAI，成为全球估值最高的人工智能初创公司。据报道，红杉资本、Dragoneer Investment Group、Altimeter Capital和Greenoaks Capital Partners预计将联合领投本轮融资。上述每家公司计划投资约20亿美元。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1300,51 +1350,11 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3820318177841541",
-        "title": "AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3820318177841541?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-22T10:37:09.000Z",
-        "summary": "AI不是某一个超级单品的故事，而是一个多端协同的生态故事，消费者的期待与顾虑，正在定义这个生态的进化方向。 AI与硬件的融合分为四个阶段，当前正处于从深度融合走向生态化的关键节点。AI渗透率在手机端已从15%涨到40%，但仍是“加分项”而非“决策项”。未来，AI硬件生态的四个步骤——感知、记忆、决策、行动，或将分别由眼镜、手机、PC协同完成。 以下为演讲内容，经36氪整理编辑： 赵晓鹏丨NIQ GfK创新事业部总经理 大家好，很荣幸有这",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3820298219425924",
-        "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3820298219425924?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-22T10:23:21.000Z",
-        "summary": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。 江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成100到200个子任务，这对AI的稳定性和可靠性提出了远超消费级",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/vck5bvdskqz2j7uedbvn",
         "title": "阶跃星辰副总裁俞刚确认出席AICon上海站，分享多模态生成与理解的架构演进",
         "url": "https://www.infoq.cn/article/VcK5bVdskQZ2j7uEdbvN?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-05-22T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3820220616495492",
-        "title": "让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3820220616495492?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-22T08:57:09.000Z",
-        "summary": "让智能体“看见”世界，不是给它装上摄像头那么简单。当CV遇上AI Agent，乘数效应正在发生。AI Agent不等于Chatbot，真正的价值在于静默看护与自主决策。 AI进入产业腹地仍面临两大鸿沟：视觉认知与行业的理解。为此，大华股份构建了星汉大模型系列——V系列视觉大模型让系统“看得懂”物理世界，L系列行业模型打通业务逻辑。未来“基模+行业Know-how”将成为新范式，而AI的终局不是刷榜，是让每个行业、每个个体都不掉队。 以下",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/bqh3altntbo78pj8kwyr",
-        "title": "Navigation API 达基线版本，已经可以作为 History API 的替代方案使用",
-        "url": "https://www.infoq.cn/article/Bqh3ALTNTBO78PJ8kwyR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-21T18:30:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
