@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T19:24:39.712Z",
+  "generatedAt": "2026-05-23T02:13:07.079Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1200,6 +1200,46 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/ss6hiq6yvrjav4pjmhg1",
+        "title": "华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
+        "url": "https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-23T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3819979202253189",
+        "title": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
+        "url": "https://36kr.com/p/3819979202253189?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-23T02:00:00.000Z",
+        "summary": "作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。 招聘Eva覆盖招聘全流程，辅助企业完成识人、筛选和面试；人事Eva聚焦报表处理、流程流转和员工咨询等重复事务；BPEva则用于动态更新人才画像，辅助企业进行人才识别和组织决策。 支撑这三款产品的是Moka AI工坊，它相当于底",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3821194878947715",
+        "title": "Anthropic最快下周完成逾300亿美元融资轮",
+        "url": "https://36kr.com/newsflashes/3821194878947715?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-23T01:30:22.000Z",
+        "summary": "Anthropic PBC最快将于下周完成最新一轮融资，融资额可能超过300亿美元，公司估值超过9000亿美元，从而超越竞争对手OpenAI，成为全球估值最高的人工智能初创公司。据报道，红杉资本、Dragoneer Investment Group、Altimeter Capital和Greenoaks Capital Partners预计将联合领投本轮融资。上述每家公司计划投资约20亿美元。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3821177784881541",
+        "title": "9点1氪丨永辉超市向王健林等追债超36亿元；《柳叶刀》：全球近12亿人有精神障碍；微信回应“只能撤回2分钟内消息”",
+        "url": "https://36kr.com/p/3821177784881541?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-23T01:13:16.000Z",
+        "summary": "今日热点导览 曝泡泡玛特8.8亿买楼：不予置评 雷军透露小米YU7临时降价 教育部拟同意设置34所新大学 腾讯承诺不再与相关版权方达成或变相达成版权独家授权合同 特朗普凯旋门方案获批 TOP 3大新闻 永辉超市向王健林等追债超36亿元 5月21日，永辉超市发布公告称，公司于近日收到法院出具的《受理案件通知书》。永辉超市与大连御锦贸易有限公司（以下简称大连御锦）、王健林、孙喜双、大连一方集团有限公司（以下简称一方集团）仲裁裁决一案，上海国",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/tlramzy8ppicvfvwmu6p",
         "title": "买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场",
         "url": "https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p?utm_source=rss&utm_medium=article",
@@ -1300,36 +1340,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3820169156890759",
-        "title": "能落地的请留下，讲故事的请离场",
-        "url": "https://36kr.com/p/3820169156890759?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-22T07:58:39.000Z",
-        "summary": "让合作当场发生！ 2026年的AI行业，正在经历一次价值体系的深层重构。过去两年，聚光灯始终偏向技术侧——参数、算力、榜单排名。但今天，话语权正在向产业方转移：那些拥有真实需求、真实场景、真实业务压力的企业，开始掌握定义权。产业界最关切的问题变得具体而迫切：在必须交付结果的地方，AI到底靠不靠得住？ 5月19日，以“带着AI去前线”为主题的2026 AI Partner大会在北京亦庄通明湖会展中心开幕。本次大会由北京经开区管委会指导、3",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3820150778531972",
-        "title": "圆桌对话：看见实效：从技术到处方，AI +医疗的场景落地与价值闭环| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3820150778531972?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-22T07:38:36.000Z",
-        "summary": "从五年前的技术炫技到今天的临床刚需，AI+医疗终于走过了“证明我能”的喧嚣，进入“解决痛点”的深水区。不做替代医生的空想，只做减轻负担的助手——这场对话告诉我们，AI医疗落地的第一步不是说服院长，而是赢得科室主任的信任；关键不是单点突破，而是多元数据联动形成闭环 圆桌对话直面AI进医院的真实卡点：系统对接难、医生怕麻烦、责任划不清。从左医科技深耕九年的实战出发，从协和到宁夏中卫，揭示了分层落地的差异化逻辑——三甲提效率，基层补人力。用病",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3820143885455751",
-        "title": "以场景为锚，以AI为翼：大健康产业的实践与突破| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3820143885455751?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-22T07:32:35.000Z",
-        "summary": "当大健康产业遇上AI，最大的难题不是技术够不够强，而是场景够不够深、信任够不够厚。百度健康用六年时间给出了自己的答案：从单点智能走向全局协同，从技术赋能走向价值创造。 中国慢病人群超5亿，每千人执业医生数却远低于发达国家——供需矛盾之下，AI成为医疗健康供给侧改革的新基建。百度健康总经理杨明璐结合百度健康的实战经验，拆解了AI在用户、医生、医院三大场景的落地实践。AI不是炫技，而是让每一环都更专业、更可信 。 杨明璐作为百度健康品牌的创",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/bqh3altntbo78pj8kwyr",
         "title": "Navigation API 达基线版本，已经可以作为 History API 的替代方案使用",
         "url": "https://www.infoq.cn/article/Bqh3ALTNTBO78PJ8kwyR?utm_source=rss&utm_medium=article",
@@ -1341,16 +1351,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3354580/china-ai-firms-zhipu-minimax-join-hong-kongs-hang-seng-tech-index",
-        "title": "China AI firms Zhipu, MiniMax to join Hong Kong’s Hang Seng Tech Index",
-        "url": "https://www.scmp.com/business/china-business/article/3354580/china-ai-firms-zhipu-minimax-join-hong-kongs-hang-seng-tech-index?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-22T14:51:54.000Z",
-        "summary": "Chinese AI firms MiniMax Group and Knowledge Atlas Technology – better known as Zhipu AI – will join the Hang Seng Tech Index next month. Their inclusion follows investor criticism that the city’s primary technology gaug",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354324/alibaba-signals-next-phase-ai-growth-investment-commercialisation",
         "title": "Alibaba signals next phase of AI growth from investment to commercialisation",
