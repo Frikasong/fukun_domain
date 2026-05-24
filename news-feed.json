@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T02:31:46.121Z",
+  "generatedAt": "2026-05-24T08:19:34.086Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1200,32 +1200,32 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/0fppymvsnjv9lbaihxxo",
-        "title": "破局多端困境，拥抱 AI 变革：飞猪跨端技术的过去、现在与未来｜AICon上海",
-        "url": "https://www.infoq.cn/article/0FPPymvSNjV9LbAIhXxO?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-24T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/7dfzeiqh0zm08p88xiw9",
-        "title": "大规模工程支撑场景下的多智能体系统设计：Grab 实践案例",
-        "url": "https://www.infoq.cn/article/7DfZeiQH0zm08P88xIw9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-24T08:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3822612389941383",
-        "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
-        "url": "https://36kr.com/newsflashes/3822612389941383?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3822778010079362",
+        "title": "芬兰大学说新型AI聊天机器人有助抵抗错误健康信息",
+        "url": "https://36kr.com/newsflashes/3822778010079362?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-24T02:00:17.000Z",
-        "summary": "华泰证券研报称，作为数据中心互联的核心组件，交换芯片用于处理数据交换和报文转发，占交换机成本比例达30%以上。华泰证券看好2026年起交换芯片在AI驱动下开启二次成长：1.万卡级以上集群需要更加稳定可靠的网络系统，推动数据中心Scale out交换机向更高容量、速率发展，Scale out交换芯片有望量价齐升；2.超节点架构或为国产算力追赶海外算力的破局之道，超节点放大集群内Scale up作用，交换芯片配比通常高于Scale out，",
+        "publishedAt": "2026-05-24T05:45:44.000Z",
+        "summary": "芬兰奥卢大学日前发布新闻公报说，该校研究人员与国际同行合作开发出一款人工智能（AI）聊天机器人，通过使用“认知接种”方法，可帮助人们抵抗健康领域的错误信息。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3822778731368838",
+        "title": "一季度韩国前五大企业出口占比达44%",
+        "url": "https://36kr.com/newsflashes/3822778731368838?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-24T05:30:31.000Z",
+        "summary": "周日发布数据显示，受人工智能热潮带动，全球存储芯片需求激增，三星电子、SK海力士等五家头部企业，一季度出口额占韩国出口总额比重约44%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3822775103607172",
+        "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
+        "url": "https://36kr.com/newsflashes/3822775103607172?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-24T05:00:48.000Z",
+        "summary": "近期人工智能创投市场热度攀升。5月，月之暗面、阶跃星辰等国产大模型拿下超过300亿元融资。具身智能同样受到市场关注，一周内维他动力、鹿明机器人等接连斩获数亿元融资。有创投机构统计，一季度人工智能领域的融资有近600起，总额超1100亿元，同比激增185.4%。AI创业公司拿到融资后不少都投向三大方向。一是研发，头部大模型公司2025年研发投入普遍达到数十亿，远超当期营收。二是算力，GPU采购和云服务租赁占融资额的30%到50%。三是招揽",
         "category": "updates",
         "region": "cn"
       },
@@ -1237,16 +1237,6 @@
         "publishedAt": "2026-05-23T10:10:00.000Z",
         "summary": "下一个杀手级AI产品，是眼镜、是Agent，还是某个尚未命名的“物理世界入口”？这场圆桌没有标准答案，却达成一个共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为下一个百亿级赛道。从AI眼镜到具身智能，入口之争已悄然打响。 硬件先行还是生态为王？C端规模还是B端付费？最终指向同一个逻辑：纯套壳应用、弱交互硬件注定被淘汰，只有“多模态底座+AI原生智能体+可穿戴硬件”三位一体，才能让AI从",
         "category": "skills",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3821591669166214",
-        "title": "DeepSeek-V4-Pro API永久降价",
-        "url": "https://36kr.com/newsflashes/3821591669166214?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-23T08:04:04.000Z",
-        "summary": "36氪获悉，据DeepSeek官微，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。",
-        "category": "updates",
         "region": "cn"
       },
       {
