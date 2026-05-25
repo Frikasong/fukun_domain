@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T02:40:19.556Z",
+  "generatedAt": "2026-05-25T09:52:25.566Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1200,22 +1200,162 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/akcxjxpag42yek1t4idi",
-        "title": "AI时代数据面临的新挑战和解决之道｜AICon上海",
-        "url": "https://www.infoq.cn/article/AKcxjxPAG42yek1t4idI?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/78t9qsuozwscuxadorto",
+        "title": "Bintrail：利用索引二进制日志实现 MySQL 时间旅行查询",
+        "url": "https://www.infoq.cn/article/78T9QsuOzWscUxadORto?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-25T10:00:00.000Z",
+        "publishedAt": "2026-05-25T17:41:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/yu4mwje1mjgmbxencqwc",
-        "title": "数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
-        "url": "https://www.infoq.cn/article/YU4mWJE1mjgMbXENcQwC?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/dtavgowfndlomi7ldj2a",
+        "title": "Oracle XStream 技术揭秘：高吞吐 OLTP 场景下的 CDC 影响评估 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-25T09:17:01.000Z",
+        "publishedAt": "2026-05-25T16:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/oledsnifw48ydletazdg",
+        "title": "ClickHouse实战：Agentic Coding，是“神”还是“坑”？",
+        "url": "https://www.infoq.cn/article/OLEDsNifw48YdleTAZDg?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-25T15:46:38.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/uayjt4mxti5osgg46lll",
+        "title": "借助 Android CLI，谷歌正让 Android 工具链更便于代理使用",
+        "url": "https://www.infoq.cn/article/UAYjt4mXTI5oSGg46LLL?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-25T15:36:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/e17xvwlzf8rqrarwafr6",
+        "title": "Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样”",
+        "url": "https://www.infoq.cn/article/e17xvwLZf8rQrArWAFR6?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-25T11:25:40.000Z",
+        "summary": "点击查看原文>",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vvvdvygbzh1ukht2mxh7",
+        "title": "人工智能无法加速软件交付",
+        "url": "https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-25T11:19:57.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/51fcfjwwftjbdh04slvq",
+        "title": "C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码",
+        "url": "https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-25T11:07:09.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zqychre48rgrbwtx7vht",
+        "title": "模型之外，皆属Harness！DeepSeek终于出手：招人、组队、从零造一个中国版Claude Code",
+        "url": "https://www.infoq.cn/article/zqYChrE48RgRbWTX7vhT?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-25T10:51:55.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3824513366987141",
+        "title": "上海：支持微短剧企业租用智能算力，对租用智能算力的主体给予支持",
+        "url": "https://36kr.com/newsflashes/3824513366987141?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T09:36:10.000Z",
+        "summary": "36氪获悉，上海市文化和旅游局印发《上海市加快推进人工智能赋能微短剧高质量发展的若干措施》。其中提出，优化“AI+微短剧”核心要素供给。支持智能算力使用，支持微短剧企业租用智能算力，对租用智能算力的主体给予支持。支持视听模型使用，支持微短剧企业调用云平台部署的第三方大模型API（应用程序接口）。支持视听语料使用，支持微短剧企业采购非关联方的语料进行垂类模型训练、智能体应用研发。鼓励创制资源共建共享，支持微短剧企业建设数字资产库、IP库。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3824513091752069",
+        "title": "上海：布局市级“AI+微短剧”中试基地，支持“AI+微短剧”应用创新",
+        "url": "https://36kr.com/newsflashes/3824513091752069?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T09:35:54.000Z",
+        "summary": "36氪获悉，上海市文化和旅游局印发《上海市加快推进人工智能赋能微短剧高质量发展的若干措施》。其中提出，布局市级“AI+微短剧”中试基地。支持企业、科研院所、高校联合开展中试基地建设与运营，推动人工智能深度赋能微短剧内容生产传播全链路，探索形成具有推广示范效应的行业解决方案。支持“AI+微短剧”应用创新。鼓励企业聚焦行业典型应用场景，打造AI微短剧技能库、智能体。对自主研发、市场认可的智能体项目，按不超过实际研发投入20%给予最高1000",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3824164325412992",
+        "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3824164325412992?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T08:54:18.000Z",
+        "summary": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。 麻亚炜将AI转型划分为四个递进阶段： 第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。 第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3824461967986820",
+        "title": "昀冢科技：目前公司MLCC产品主要应用于消费电子领域，暂未应用于AI算力服务器",
+        "url": "https://36kr.com/newsflashes/3824461967986820?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T08:43:53.000Z",
+        "summary": "36氪获悉，昀冢科技公告，公司股票于2026年5月21日、22日、25日连续三个交易日收盘价格涨幅偏离值累计达30%，属于股票交易异常波动。公司MLCC业务具有前期资金投入大、投资周期长等特点，尚处于亏损状态。如果未来行业竞争加剧、行业技术发展趋势发生难以预见的变化、下游行业需求发生重大变化，存在项目效益不及预期的风险。目前公司MLCC产品主要应用于消费电子领域，暂未应用于AI算力服务器。敬请广大投资者注意投资风险，理性决策，审慎投资。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3824439681520002",
+        "title": "氪星晚报｜全国首单挂钩蓝色债券合约类信用衍生品交易落地山东；到2030年底全国城市生活垃圾资源化利用率力争达到76%以上；新加坡寻求将富人开户时间缩短至一个月",
+        "url": "https://36kr.com/p/3824439681520002?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T08:24:54.000Z",
+        "summary": "大公司： 番茄小说持续加强低质内容治理，5月处置低质书籍超15万本 36氪获悉，近日，番茄小说发布《关于加强低质内容治理公告》。公告显示，5月以来，番茄小说已累计处置低质书籍超15万本，其中拒绝签约低质书籍112706本，处置低质违规书籍40275本。 全国首单挂钩蓝色债券合约类信用衍生品交易落地山东 36氪获悉，据上海清算所，近日，在中国人民银行山东省分行指导和推动下，山东省成功落地挂钩蓝色债券的合约类信用衍生品交易。该业务是全国首单",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3824158896312709",
+        "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3824158896312709?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T06:26:35.000Z",
+        "summary": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。 广州因特智能科技有限公司孵化于 西安电子科技大学广州研究院 ，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持 软硬一体 ，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。 以下为演讲内容，经36氪整理编辑： 刘金硕丨广州因特智能科技",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3824154127093892",
+        "title": "圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会",
+        "url": "https://36kr.com/p/3824154127093892?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T06:08:00.000Z",
+        "summary": "AIGC如何从生产工具进阶到情感洞察？当AI能写出剧本、生成音乐、表演微表情，人还剩什么？ 内容产业正在发生生产模式跃迁，传统用户画像在AI时代正在被颠覆，真正要做的是理解用户的情感状态而非静态标签。厂牌效应不会消失，越过技术线之后，人最后坚守的是“手搓”的审美与意义。 以下为圆桌对话内容，经36氪整理编辑： 刘士武丨36氪游戏主编（主持） 庄明浩丨趣丸科技副总裁兼首席战略官 胡维琦丨MiniMax To B 中国区商业化负责人 郑安迪",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3820241871409543",
+        "title": "对话欧洲地图商TomTom：中国订单暴涨10倍，帮助中国辅助驾驶出海｜最前线",
+        "url": "https://36kr.com/p/3820241871409543?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T03:52:40.000Z",
+        "summary": "中国汽车出海，离不开“地图” 当下，中国车企全球化进程正全面提速，出海已经从企业的可选增量，变为行业确定性增长主线。比亚迪、奇瑞等企业海外销量规模持续走高，小鹏、蔚来、理想、小米等新势力车企也纷纷发力海外高端市场。 区别于过往靠性价比、电动化优势打开市场的模式，现阶段中国车企出海的核心壁垒转变为智能化。在海外市场竞争中，智能座舱与高阶辅助驾驶，已经成为中国汽车差异化突围的关键。 智能座舱板块，导航是用户车机使用频次最高、感知最强的功能，",
         "category": "updates",
         "region": "cn"
       },
@@ -1230,32 +1370,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3824063200301449",
-        "title": "高德问店选址Skill接入钉钉悟空",
-        "url": "https://36kr.com/newsflashes/3824063200301449?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-25T01:58:14.000Z",
-        "summary": "36氪获悉，近日，钉钉企业级AI原生工作平台“悟空”技能广场正式上线了一款名为“高德问店选址智能助手”的Skill。该技能面向连锁品牌加盟商及中小商家，可通过自然语言对话方式，提供开店需要的位置推荐、点位评估、点位对比、立项报告等全流程选址服务。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3824053061652616",
         "title": "机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局",
         "url": "https://36kr.com/p/3824053061652616?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-25T01:50:58.000Z",
-        "summary": "硬氪获悉，近日， 六维力传感器企业 蓝点触控宣布完成C++轮数亿元人民币融资，��轮由 上汽金控、尚颀资本领投，由中芯聚源、正大机器人以及厚为资本 跟投。本轮融资将主要用于新产品研发、生产数智化建设以及全球市场拓展。 蓝点触控半年完成了三轮亿元级融资，此次融资距上一轮C+轮融资仅一个月。股东阵容目前已囊括红杉中国、宁德时代旗下溥泉资本、智元机器人、银河通用、上汽系资本、中芯产业资本等多路力量。 本轮融资投资方在产业链方向的纵深值得关注。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3824047189971332",
-        "title": "香港交易所回应“算力期货布局规划”：暂无评论可提供，将来如有相关信息将及时公布",
-        "url": "https://36kr.com/newsflashes/3824047189971332?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-25T01:41:57.000Z",
-        "summary": "近日，芝加哥商品交易所集团宣布计划年内合作推出针对AI算力的期货市场。随着算力需求呈现指数级增长态势，算力将加速资产化与金融化，有望从单一产品走向生态体系。伴随海外市场加速布局，对于“香港是否已启动算力期货产品研究论证”的问题，香港交易所回应记者称，目前对算力期货暂无评论可以提供，将来如有相关信息，香港交易所会及时向市场公布。（证券时报）",
+        "summary": "硬氪获悉，近日， 六维力传感器企业 蓝点触控宣布完成C++轮数亿元人民币融资，本轮由 上汽金控、尚颀资本领投，由中芯聚源、正大机器人以及厚为资本 跟投。本轮融资将主要用于新产品研发、生产数智化建设以及全球市场拓展。 蓝点触控半年完成了三轮亿元级融资，此次融资距上一轮C+轮融资仅一个月。股东阵容目前已囊括红杉中国、宁德时代旗下溥泉资本、智元机器人、银河通用、上汽系资本、中芯产业资本等多路力量。 本轮融资投资方在产业链方向的纵深值得关注。 ",
         "category": "updates",
         "region": "cn"
       },
@@ -1270,46 +1390,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3822747968196993",
-        "title": "从服务沉默玩家，到技术外溢至千行百业：游戏+AI的下一站是什么？",
-        "url": "https://36kr.com/p/3822747968196993?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-25T01:16:04.000Z",
-        "summary": "文丨小葵 编辑丨果脯、刘士武 2026年GDC大会上，《和平精英》策划副总监薛冰披露了一组数据。 AI队友周末活跃玩家突破1770万，累计1.1亿人体验过AI功能，单局消息互动70条，麦克风开启率高达75%，超过了真人双排的历史峰值。 这意味着，大量玩家不仅选择了AI队友，还愿意对着屏幕那头的“数字人”开口说话。它像是一个切口，让我们得以窥见某种长期被行业忽视的集体情绪。从业者们不再追问“AI能否融入游戏”，一个更尖锐的问题浮出水面：当",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3823941399826566",
-        "title": "8点1氪丨“壹号土猪”商标被宣告无效；山西煤矿爆炸时近一半下井工人在系统中查不到有效信息；小米通报空调抽真空造假事件",
-        "url": "https://36kr.com/p/3823941399826566?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-24T23:57:08.000Z",
-        "summary": "今日热点导览 特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元 端午连休3天，高速不免费 SpaceX IPO将包含散户配售 加密货币集体跳水超12万人爆仓，全网合约爆仓超5亿元 美国调整移民政策，申请绿卡须返回本国递交申请 TOP3大新闻 “壹号土猪”商标被宣告无效，企业提起诉讼维权 备受关注的“壹号土猪”商标争议事件迎来最新进展。国家知识产权局商标局已正式宣告，广东壹号食品股份有限公司旗下4件应用于猪肉及猪肉制品的\"",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3823013049045380",
-        "title": "对话VITURE姜公略：什么才是XR眼镜该有的样子？",
-        "url": "https://36kr.com/p/3823013049045380?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-24T09:09:30.000Z",
-        "summary": "过去十年，XR（扩展现实）赛道始终陷在一种怪异的叙事里—— 在从业者高呼着“下一代计算平台”的宏大愿景时，资本市场也曾在元宇宙的热潮中疯狂押注，而一旦落地到消费端，这个行业却始终未能摆脱极客玩具的宿命。 从Google Glass的黯然退场，再到一众VR/AR厂商的折戟，XR行业在跌宕中，迎来了前所未有的冷静时刻。 行业的艰辛在于，尽管所有人都清楚技术终局，但抵达终局的路径却布满荆棘。在种种“不可能三角”中，行业在缺乏共识中蜿蜒前进。 ",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3821714896408713",
-        "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3821714896408713?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-23T10:10:00.000Z",
-        "summary": "下一个杀手级AI产品，是眼镜、是Agent，还是某个尚未命名的“物理世界入口”？这场圆桌没有标准答案，却达成一个共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为下一个百亿级赛道。从AI眼镜到具身智能，入口之争已悄然打响。 硬件先行还是生态为王？C端规模还是B端付费？最终指向同一个逻辑：纯套壳应用、弱交互硬件注定被淘汰，只有“多模态底座+AI原生智能体+可穿戴硬件”三位一体，才能让AI从",
-        "category": "skills",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/tlramzy8ppicvfvwmu6p",
         "title": "买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场",
         "url": "https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p?utm_source=rss&utm_medium=article",
@@ -1318,69 +1398,9 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/l48truhzjve9omiaa2ih",
-        "title": "Agoda 构建多模态内容系统，链接图片和评论",
-        "url": "https://www.infoq.cn/article/l48TRuhZJve9omIaa2Ih?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-22T18:47:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/sutze24r2utrkr82odl9",
-        "title": "别再骂 Claude 限速了，Anthropic Boris 亲口承认：最挑剔的用户，反而最离不开我们",
-        "url": "https://www.infoq.cn/article/SuTZe24r2UTRkR82ODl9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-22T18:42:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vz4kvktoy57zj0ycsdbf",
-        "title": "GitHub面临生存之战！多位员工曝内部乱象：独立文化要没了，封杀Claude Code才能“活”",
-        "url": "https://www.infoq.cn/article/VZ4KvkToY57zj0ycsdBF?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-22T18:17:13.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/l2joj8ccghk126zbga2h",
-        "title": "AI Coding 很强，为什么企业没提速？",
-        "url": "https://www.infoq.cn/video/L2Joj8CCghK126zbga2h?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-22T18:15:47.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wcwtsfi13xoy4xkqg0oh",
-        "title": "虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
-        "url": "https://www.infoq.cn/article/wCwTSfI13xoY4xKQg0Oh?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-22T17:32:03.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354556/how-xiaomis-push-ai-chips-and-evs-future-proofing-its-hardware-empire",
-        "title": "How Xiaomi’s push into AI, chips and EVs is future-proofing its hardware empire",
-        "url": "https://www.scmp.com/tech/big-tech/article/3354556/how-xiaomis-push-ai-chips-and-evs-future-proofing-its-hardware-empire?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-25T01:00:11.000Z",
-        "summary": "Xiaomi is betting on artificial intelligence to future-proof its sprawling hardware empire, pouring massive resources into open-source models to ensure its next generation of smartphones and electric vehicles (EVs) does ",
-        "category": "tools",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354113/deepseek-recruits-former-jane-street-engineer-catch-ai-agents-revenue-race",
         "title": "DeepSeek recruits former Jane Street engineer to catch up on AI agents, revenue race",
