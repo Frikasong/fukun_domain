@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T09:52:25.566Z",
+  "generatedAt": "2026-05-25T14:38:07.915Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1200,43 +1200,13 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/78t9qsuozwscuxadorto",
-        "title": "Bintrail：利用索引二进制日志实现 MySQL 时间旅行查询",
-        "url": "https://www.infoq.cn/article/78T9QsuOzWscUxadORto?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-25T17:41:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/dtavgowfndlomi7ldj2a",
-        "title": "Oracle XStream 技术揭秘：高吞吐 OLTP 场景下的 CDC 影响评估 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-25T16:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/oledsnifw48ydletazdg",
-        "title": "ClickHouse实战：Agentic Coding，是“神”还是“坑”？",
-        "url": "https://www.infoq.cn/article/OLEDsNifw48YdleTAZDg?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-25T15:46:38.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/uayjt4mxti5osgg46lll",
-        "title": "借助 Android CLI，谷歌正让 Android 工具链更便于代理使用",
-        "url": "https://www.infoq.cn/article/UAYjt4mXTI5oSGg46LLL?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-25T15:36:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
+        "id": "36Kr:36kr.com/p/3824601267196037",
+        "title": "消除“罪证”：给写作去除“AI味”的不完全手册（2026版）",
+        "url": "https://36kr.com/p/3824601267196037?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T11:32:24.000Z",
+        "summary": "图源：公众号「有三思 U Sense」 做个测试。读一下这段话： “熊猫是最可爱的动物，它最爱吃竹子，样子最憨态可掬，是世界上最珍贵的宝藏。” 如果你笑了，或者皱了眉，很明显，你的 “鉴AI雷达” 已经觉醒。 近期把网友笑到打鸣的“豆包体”里，“最”是高频词汇。大家纷纷晒出自己使用、调教AI，结果内容啼笑皆非的截图。这场围绕AI味写作的调侃就此出圈。 ● 网友@也许像星星发布的AI味吐槽突破 微博AI味相关话题浏览阅读量不小，小红书相关",
+        "category": "skills",
         "region": "cn"
       },
       {
@@ -1280,42 +1250,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3824513366987141",
-        "title": "上海：支持微短剧企业租用智能算力，对租用智能算力的主体给予支持",
-        "url": "https://36kr.com/newsflashes/3824513366987141?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-25T09:36:10.000Z",
-        "summary": "36氪获悉，上海市文化和旅游局印发《上海市加快推进人工智能赋能微短剧高质量发展的若干措施》。其中提出，优化“AI+微短剧”核心要素供给。支持智能算力使用，支持微短剧企业租用智能算力，对租用智能算力的主体给予支持。支持视听模型使用，支持微短剧企业调用云平台部署的第三方大模型API（应用程序接口）。支持视听语料使用，支持微短剧企业采购非关联方的语料进行垂类模型训练、智能体应用研发。鼓励创制资源共建共享，支持微短剧企业建设数字资产库、IP库。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3824513091752069",
-        "title": "上海：布局市级“AI+微短剧”中试基地，支持“AI+微短剧”应用创新",
-        "url": "https://36kr.com/newsflashes/3824513091752069?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-25T09:35:54.000Z",
-        "summary": "36氪获悉，上海市文化和旅游局印发《上海市加快推进人工智能赋能微短剧高质量发展的若干措施》。其中提出，布局市级“AI+微短剧”中试基地。支持企业、科研院所、高校联合开展中试基地建设与运营，推动人工智能深度赋能微短剧内容生产传播全链路，探索形成具有推广示范效应的行业解决方案。支持“AI+微短剧”应用创新。鼓励企业聚焦行业典型应用场景，打造AI微短剧技能库、智能体。对自主研发、市场认可的智能体项目，按不超过实际研发投入20%给予最高1000",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3824164325412992",
         "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
         "url": "https://36kr.com/p/3824164325412992?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-25T08:54:18.000Z",
         "summary": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。 麻亚炜将AI转型划分为四个递进阶段： 第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。 第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3824461967986820",
-        "title": "昀冢科技：目前公司MLCC产品主要应用于消费电子领域，暂未应用于AI算力服务器",
-        "url": "https://36kr.com/newsflashes/3824461967986820?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-25T08:43:53.000Z",
-        "summary": "36氪获悉，昀冢科技公告，公司股票于2026年5月21日、22日、25日连续三个交易日收盘价格涨幅偏离值累计达30%，属于股票交易异常波动。公司MLCC业务具有前期资金投入大、投资周期长等特点，尚处于亏损状态。如果未来行业竞争加剧、行业技术发展趋势发生难以预见的变化、下游行业需求发生重大变化，存在项目效益不及预期的风险。目前公司MLCC产品主要应用于消费电子领域，暂未应用于AI算力服务器。敬请广大投资者注意投资风险，理性决策，审慎投资。",
         "category": "updates",
         "region": "cn"
       },
@@ -1380,16 +1320,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3819931562414467",
-        "title": "华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
-        "url": "https://36kr.com/p/3819931562414467?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-25T01:30:00.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能大脑公司「具脑磐石」完成新一轮亿元级融资，本轮融资由具备深厚类脑与具身产业背景的顶尖产业资本领投，老股东及多家顶尖基金复投和跟投，多维资本担任独家财务顾问。同时，更新一轮融资也在同步交割中。 资金将重点投入核心技术研发、人才团队扩容及全球化市场拓展，以加速认知世界模型（Cognitive World Model）的研发、工程化落地与真实场景验证。 类脑智能世界模型（图源/企业） 具脑磐石成立于",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/tlramzy8ppicvfvwmu6p",
         "title": "买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场",
         "url": "https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p?utm_source=rss&utm_medium=article",
@@ -1401,6 +1331,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354778/alibabas-qwen-catches-sharif-speed-help-forge-pakistan-deal",
+        "title": "Alibaba’s Qwen catches up with ‘Sharif speed’ to help forge Pakistan deal",
+        "url": "https://www.scmp.com/tech/big-tech/article/3354778/alibabas-qwen-catches-sharif-speed-help-forge-pakistan-deal?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-25T11:30:05.000Z",
+        "summary": "On the first leg of his four-day China visit, Pakistan’s prime minister – famed for “Sharif speed”, a term describing his swift execution of development projects – met his match in a leading AI tool. Shehbaz Sharif, keen",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354113/deepseek-recruits-former-jane-street-engineer-catch-ai-agents-revenue-race",
         "title": "DeepSeek recruits former Jane Street engineer to catch up on AI agents, revenue race",
