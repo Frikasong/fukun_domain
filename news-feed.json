@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T19:04:54.764Z",
+  "generatedAt": "2026-05-25T02:40:19.556Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1200,42 +1200,102 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/akcxjxpag42yek1t4idi",
+        "title": "AI时代数据面临的新挑战和解决之道｜AICon上海",
+        "url": "https://www.infoq.cn/article/AKcxjxPAG42yek1t4idI?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-25T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/yu4mwje1mjgmbxencqwc",
+        "title": "数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+        "url": "https://www.infoq.cn/article/YU4mWJE1mjgMbXENcQwC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-25T09:17:01.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3824089662853513",
+        "title": "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据",
+        "url": "https://36kr.com/p/3824089662853513?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T02:25:26.000Z",
+        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，消费级空间相机公司竹马创新近日完成了数千万天使+轮融资，本轮由商汤国香资本领投，鼎晖VGC、峰瑞资本跟投，深渡资本担任后续独家财务顾问。资金将主要用于产品研发、量产准备及海外市场拓展。 竹马创新成立于2025年11月，是一家以Camera + AI为核心的空间智能公司。公司希望定义一种新的AI硬件品类——空间相机：既是消费级3D内容创作工具，更是面向具身智能与世界模型的真实世界三维数据入口。 团队方面",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3824063200301449",
+        "title": "高德问店选址Skill接入钉钉悟空",
+        "url": "https://36kr.com/newsflashes/3824063200301449?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T01:58:14.000Z",
+        "summary": "36氪获悉，近日，钉钉企业级AI原生工作平台“悟空”技能广场正式上线了一款名为“高德问店选址智能助手”的Skill。该技能面向连锁品牌加盟商及中小商家，可通过自然语言对话方式，提供开店需要的位置推荐、点位评估、点位对比、立项报告等全流程选址服务。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3824053061652616",
+        "title": "机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局",
+        "url": "https://36kr.com/p/3824053061652616?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T01:50:58.000Z",
+        "summary": "硬氪获悉，近日， 六维力传感器企业 蓝点触控宣布完成C++轮数亿元人民币融资，��轮由 上汽金控、尚颀资本领投，由中芯聚源、正大机器人以及厚为资本 跟投。本轮融资将主要用于新产品研发、生产数智化建设以及全球市场拓展。 蓝点触控半年完成了三轮亿元级融资，此次融资距上一轮C+轮融资仅一个月。股东阵容目前已囊括红杉中国、宁德时代旗下溥泉资本、智元机器人、银河通用、上汽系资本、中芯产业资本等多路力量。 本轮融资投资方在产业链方向的纵深值得关注。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3824047189971332",
+        "title": "香港交易所回应“算力期货布局规划”：暂无评论可提供，将来如有相关信息将及时公布",
+        "url": "https://36kr.com/newsflashes/3824047189971332?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T01:41:57.000Z",
+        "summary": "近日，芝加哥商品交易所集团宣布计划年内合作推出针对AI算力的期货市场。随着算力需求呈现指数级增长态势，算力将加速资产化与金融化，有望从单一产品走向生态体系。伴随海外市场加速布局，对于“香港是否已启动算力期货产品研究论证”的问题，香港交易所回应记者称，目前对算力期货暂无评论可以提供，将来如有相关信息，香港交易所会及时向市场公布。（证券时报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3819931562414467",
+        "title": "华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
+        "url": "https://36kr.com/p/3819931562414467?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T01:30:00.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能大脑公司「具脑磐石」完成新一轮亿元级融资，本轮融资由具备深厚类脑与具身产业背景的顶尖产业资本领投，老股东及多家顶尖基金复投和跟投，多维资本担任独家财务顾问。同时，更新一轮融资也在同步交割中。 资金将重点投入核心技术研发、人才团队扩容及全球化市场拓展，以加速认知世界模型（Cognitive World Model）的研发、工程化落地与真实场景验证。 类脑智能世界模型（图源/企业） 具脑磐石成立于",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3822747968196993",
+        "title": "从服务沉默玩家，到技术外溢至千行百业：游戏+AI的下一站是什么？",
+        "url": "https://36kr.com/p/3822747968196993?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T01:16:04.000Z",
+        "summary": "文丨小葵 编辑丨果脯、刘士武 2026年GDC大会上，《和平精英》策划副总监薛冰披露了一组数据。 AI队友周末活跃玩家突破1770万，累计1.1亿人体验过AI功能，单局消息互动70条，麦克风开启率高达75%，超过了真人双排的历史峰值。 这意味着，大量玩家不仅选择了AI队友，还愿意对着屏幕那头的“数字人”开口说话。它像是一个切口，让我们得以窥见某种长期被行业忽视的集体情绪。从业者们不再追问“AI能否融入游戏”，一个更尖锐的问题浮出水面：当",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3823941399826566",
+        "title": "8点1氪丨“壹号土猪”商标被宣告无效；山西煤矿爆炸时近一半下井工人在系统中查不到有效信息；小米通报空调抽真空造假事件",
+        "url": "https://36kr.com/p/3823941399826566?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-24T23:57:08.000Z",
+        "summary": "今日热点导览 特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元 端午连休3天，高速不免费 SpaceX IPO将包含散户配售 加密货币集体跳水超12万人爆仓，全网合约爆仓超5亿元 美国调整移民政策，申请绿卡须返回本国递交申请 TOP3大新闻 “壹号土猪”商标被宣告无效，企业提起诉讼维权 备受关注的“壹号土猪”商标争议事件迎来最新进展。国家知识产权局商标局已正式宣告，广东壹号食品股份有限公司旗下4件应用于猪肉及猪肉制品的\"",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3823013049045380",
         "title": "对话VITURE姜公略：什么才是XR眼镜该有的样子？",
         "url": "https://36kr.com/p/3823013049045380?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-24T09:09:30.000Z",
         "summary": "过去十年，XR（扩展现实）赛道始终陷在一种怪异的叙事里—— 在从业者高呼着“下一代计算平台”的宏大愿景时，资本市场也曾在元宇宙的热潮中疯狂押注，而一旦落地到消费端，这个行业却始终未能摆脱极客玩具的宿命。 从Google Glass的黯然退场，再到一众VR/AR厂商的折戟，XR行业在跌宕中，迎来了前所未有的冷静时刻。 行业的艰辛在于，尽管所有人都清楚技术终局，但抵达终局的路径却布满荆棘。在种种“不可能三角”中，行业在缺乏共识中蜿蜒前进。 ",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3822778010079362",
-        "title": "芬兰大学说新型AI聊天机器人有助抵抗错误健康信息",
-        "url": "https://36kr.com/newsflashes/3822778010079362?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-24T05:45:44.000Z",
-        "summary": "芬兰奥卢大学日前发布新闻公报说，该校研究人员与国际同行合作开发出一款人工智能（AI）聊天机器人，通过使用“认知接种”方法，可帮助人们抵抗健康领域的错误信息。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3822778731368838",
-        "title": "一季度韩国前五大企业出口占比达44%",
-        "url": "https://36kr.com/newsflashes/3822778731368838?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-24T05:30:31.000Z",
-        "summary": "周日发布数据显示，受人工智能热潮带动，全球存储芯片需求激增，三星电子、SK海力士等五家头部企业，一季度出口额占韩国出口总额比重约44%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3822775103607172",
-        "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
-        "url": "https://36kr.com/newsflashes/3822775103607172?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-24T05:00:48.000Z",
-        "summary": "近期人工智能创投市场热度攀升。5月，月之暗面、阶跃星辰等国产大模型拿下超过300亿元融资。具身智能同样受到市场关注，一周内维他动力、鹿明机器人等接连斩获数亿元融资。有创投机构统计，一季度人工智能领域的融资有近600起，总额超1100亿元，同比激增185.4%。AI创业公司拿到融资后不少都投向三大方向。一是研发，头部大模型公司2025年研发投入普遍达到数十亿，远超当期营收。二是算力，GPU采购和云服务租赁占融资额的30%到50%。三是招揽",
         "category": "updates",
         "region": "cn"
       },
@@ -1247,66 +1307,6 @@
         "publishedAt": "2026-05-23T10:10:00.000Z",
         "summary": "下一个杀手级AI产品，是眼镜、是Agent，还是某个尚未命名的“物理世界入口”？这场圆桌没有标准答案，却达成一个共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为下一个百亿级赛道。从AI眼镜到具身智能，入口之争已悄然打响。 硬件先行还是生态为王？C端规模还是B端付费？最终指向同一个逻辑：纯套壳应用、弱交互硬件注定被淘汰，只有“多模态底座+AI原生智能体+可穿戴硬件”三位一体，才能让AI从",
         "category": "skills",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3821542483857801",
-        "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3821542483857801?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-23T07:14:29.000Z",
-        "summary": "稀缺的，到底是懂AI的人，还是懂业务的人？ 一个反直觉的判断——懂AI这件事正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复的工作最容易被AI替代，但在打造爆品、建立品牌等低频高影响力的决策上，人的判断依然不可替代，企业AI转型的最大卡点也不是技术或数据，而是“想不到应用场景”， 当前AI的利润大头仍在基础设施层，应用端的ROI尚未完全释放，但拐点会比预想来得更快。 以下为圆桌对话内容，经36氪整理编辑： 郑王",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3821533415985283",
-        "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3821533415985283?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-23T07:05:47.000Z",
-        "summary": "真正AI原生的人，甚至不会来这个现场。但对于那些积极转型的20%，如何找到、培养并留住他们，这里有一本实战手册。 只有1%的企业是AI原生企业，20%积极拥抱变化，80%在苦苦挣扎；人才亦然。圆桌深入探讨了企业“赶时髦招AI人才”的焦虑、通过黑客松内部挖掘AI人才的方法、以及“事业留人、文化留人”的留存策略。 以下为圆桌对话内容，经36氪整理编辑： 帮主丨36氪《AI局内人》主播（主持） 郑鹏宇丨杭州颜柯教育科技有限公司创始人 肖玛峰丨",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3821521291038856",
-        "title": "对话王小川：离开通用人工智能的主干道之后",
-        "url": "https://36kr.com/p/3821521291038856?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-23T06:53:35.000Z",
-        "summary": "“如果没有转型，继续走主流道路，你也会有同等程度的焦虑。”王小川说，这次转型，让他真正回归到从创业第一天就最想做的事情：造AI医生。 访谈｜邓咏仪 杨轩 文｜邓咏仪 编辑｜张雨忻 一年前，王小川带着百川智能来了一次激烈的“大刹车”：大幅缩减通用模型团队，关闭金融等多条行业线，All in医疗大模型。但与此同时，整个大模型行业却热闹非凡，大厂和创业公司轮番进行“轰炸式更新”——过去半年里，平均3天就有一个新版本的通用大模型面世。 而看起来",
-        "category": "skills",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3821519307591811",
-        "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
-        "url": "https://36kr.com/p/3821519307591811?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-23T06:53:25.000Z",
-        "summary": "AI浓度并非越高越好，转化率的秘密在于人机共生的平衡点。 “AI应像手机一样贯穿全流程”，而面对亲子游客和老年群体，主动将AI浓度降至50%，却实现了超50%的转化率。浓度的关键是以人为本、文化温度先行。 以下为圆桌对话内容，经36氪整理编辑： 薛冰丨上海蜚语信息科技副总裁（主持） 崔健南丨广州搞搞镇文化科技创始人兼CEO 杨晟丨珀乐互动科技创始人 薛冰： 各位嘉宾大家下午好，我是主持人薛冰，很荣幸受到36氪以及北京亦庄的邀请主持下午的",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3821371042877575",
-        "title": "36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资",
-        "url": "https://36kr.com/p/3821371042877575?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-23T04:20:48.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京维泛智能科技有限公司（以下简称“维泛智能”）近日完成数亿元种子轮融资，由中关村资本及旗下启航投资联合领投，上海未来产业基金、石溪资本、佰维存储、燕创集团、海益投资、探元创投共同投资。 维泛智能成立于2025年5月，孵化自北京大学类脑芯片实验室（PAICORE Lab），专注于具身智能“大小脑”融合芯片研发，致力于打造全国产化机器人核心计算方案。 联合创始人殷积磊毕业于北京大学，拥有超过2",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3819979202253189",
-        "title": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
-        "url": "https://36kr.com/p/3819979202253189?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-23T02:00:00.000Z",
-        "summary": "作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。 招聘Eva覆盖招聘全流程，辅助企业完成识人、筛选和面试；人事Eva聚焦报表处理、流程流转和员工咨询等重复事务；BPEva则用于动态更新人才画像，辅助企业进行人才识别和组织决策。 支撑这三款产品的是Moka AI工坊，它相当于底",
-        "category": "updates",
         "region": "cn"
       },
       {
@@ -1368,19 +1368,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vck5bvdskqz2j7uedbvn",
-        "title": "阶跃星辰副总裁俞刚确认出席AICon上海站，分享多模态生成与理解的架构演进",
-        "url": "https://www.infoq.cn/article/VcK5bVdskQZ2j7uEdbvN?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-22T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354556/how-xiaomis-push-ai-chips-and-evs-future-proofing-its-hardware-empire",
+        "title": "How Xiaomi’s push into AI, chips and EVs is future-proofing its hardware empire",
+        "url": "https://www.scmp.com/tech/big-tech/article/3354556/how-xiaomis-push-ai-chips-and-evs-future-proofing-its-hardware-empire?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-25T01:00:11.000Z",
+        "summary": "Xiaomi is betting on artificial intelligence to future-proof its sprawling hardware empire, pouring massive resources into open-source models to ensure its next generation of smartphones and electric vehicles (EVs) does ",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354113/deepseek-recruits-former-jane-street-engineer-catch-ai-agents-revenue-race",
         "title": "DeepSeek recruits former Jane Street engineer to catch up on AI agents, revenue race",
