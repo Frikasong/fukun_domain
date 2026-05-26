@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T02:30:04.680Z",
+  "generatedAt": "2026-05-26T09:38:03.077Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1200,6 +1200,36 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/vduuuvpvw0fiicplftgd",
+        "title": "Gemma 4 多词元预测：生成速度最高提升约 3 倍",
+        "url": "https://www.infoq.cn/article/vduuUvpVw0FiIcplFtGd?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-26T16:24:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/yb9yjljadmfbnurnueag",
+        "title": "如何在 Snowflake 上构建可编程 AI Agent？Cortex Code Agent SDK 深度解析 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/yB9yJlJADmFBNurNUEaG?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-26T11:24:26.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/4gwxqyrps4rtuimprte7",
+        "title": "AWS MCP服务器正式可用，全面适配API并支持IAM权限控制",
+        "url": "https://www.infoq.cn/article/4gwXqyRPs4RTUIMpRte7?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-26T10:56:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/yhd4cguvebwjled2fk96",
         "title": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
         "url": "https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&utm_medium=article",
@@ -1210,12 +1240,32 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/gssotxhzl4bkuwua52ur",
-        "title": "Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
-        "url": "https://www.infoq.cn/article/gSSOTxhzL4BkUwuA52ur?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-26T09:18:20.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3825890026984072",
+        "title": "小马智行：第一季度营收同比增长145%，Robotaxi收入创新高",
+        "url": "https://36kr.com/newsflashes/3825890026984072?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-26T08:56:35.000Z",
+        "summary": "36氪获悉，5月26日，小马智行发布2026年第一季度财报。财报显示，一季度总营收2.36亿元，同比增长145%；毛利润3836万元，同比增长140.1%。Robotaxi业务创下单季收入新高达5912万元，同比增长395.4%，环比增长28.7%；乘客车费收入同比增长456.5%。截至2026年5月，Robotaxi车队规模达1700辆以上。基于一季度的强劲表现，公司上调2026年Robotaxi业务目标：预计全年Robotaxi收入",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3825884360872833",
+        "title": "知情人士：字节跳动本月向Seed员工开放“豆包股”认购权",
+        "url": "https://36kr.com/newsflashes/3825884360872833?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-26T08:50:49.000Z",
+        "summary": "据四位了解该激励计划的知情人士透露，字节跳动正为旗下Seed人工智能部门员工提供与该部门挂钩的低价股票期权。这是字节跳动首次针对特定业务单元发行股权。该激励机制让员工能分享Seed部门的成长收益，且不会被字节跳动其他业务线的业绩稀释收益。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3825834410333062",
+        "title": "求购Deepseek老股份额；求购长鑫存储老股份额｜资情留言板第183期",
+        "url": "https://36kr.com/p/3825834410333062?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-26T08:15:55.000Z",
+        "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。 本文是这个栏目的第183期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com） 一、本月新增 1、求购Deepseek",
         "category": "updates",
         "region": "cn"
       },
@@ -1226,16 +1276,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-05-26T08:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3825499233817224",
-        "title": "思特威与紫光展锐联合布局MicroLED高速光互连",
-        "url": "https://36kr.com/newsflashes/3825499233817224?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-26T02:19:03.000Z",
-        "summary": "36氪获悉，据思特威消息，近日，思特威（上海）电子科技股份有限公与紫光展锐（上海）科技股份有限公司正式达成战略合作。双方联合布局MicroLED高速光互连领域，围绕光互连芯片设计与系统解决方案落地展开深度协同，为AI算力集群短距高速互连场景，提供高带宽、低功耗、高集成、高可靠的国产化核心解决方案。",
         "category": "updates",
         "region": "cn"
       },
@@ -1300,16 +1340,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/zqychre48rgrbwtx7vht",
-        "title": "模型之外，皆属Harness！DeepSeek终于出手：招人、组队、从零造一个中国版Claude Code",
-        "url": "https://www.infoq.cn/article/zqYChrE48RgRbWTX7vhT?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-25T10:51:55.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3824164325412992",
         "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
         "url": "https://36kr.com/p/3824164325412992?f=rss",
@@ -1338,26 +1368,6 @@
         "summary": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。 广州因特智能科技有限公司孵化于 西安电子科技大学广州研究院 ，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持 软硬一体 ，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。 以下为演讲内容，经36氪整理编辑： 刘金硕丨广州因特智能科技",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3824154127093892",
-        "title": "圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3824154127093892?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-25T06:08:00.000Z",
-        "summary": "AIGC如何从生产工具进阶到情感洞察？当AI能写出剧本、生成音乐、表演微表情，人还剩什么？ 内容产业正在发生生产模式跃迁，传统用户画像在AI时代正在被颠覆，真正要做的是理解用户的情感状态而非静态标签。厂牌效应不会消失，越过技术线之后，人最后坚守的是“手搓”的审美与意义。 以下为圆桌对话内容，经36氪整理编辑： 刘士武丨36氪游戏主编（主持） 庄明浩丨趣丸科技副总裁兼首席战略官 胡维琦丨MiniMax To B 中国区商业化负责人 郑安迪",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3820241871409543",
-        "title": "对话欧洲地图商TomTom：中国订单暴涨10倍，帮助中国辅助驾驶出海｜最前线",
-        "url": "https://36kr.com/p/3820241871409543?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-25T03:52:40.000Z",
-        "summary": "中国汽车出海，离不开“地图” 当下，中国车企全球化进程正全面提速，出海已经从企业的可选增量，变为行业确定性增长主线。比亚迪、奇瑞等企业海外销量规模持续走高，小鹏、蔚来、理想、小米等新势力车企也纷纷发力海外高端市场。 区别于过往靠性价比、电动化优势打开市场的模式，现阶段中国车企出海的核心壁垒转变为智能化。在海外市场竞争中，智能座舱与高阶辅助驾驶，已经成为中国汽车差异化突围的关键。 智能座舱板块，导航是用户车机使用频次最高、感知最强的功能，",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
@@ -1369,26 +1379,6 @@
         "publishedAt": "2026-05-25T11:30:05.000Z",
         "summary": "On the first leg of his four-day China visit, Pakistan’s prime minister – famed for “Sharif speed”, a term describing his swift execution of development projects – met his match in a leading AI tool. Shehbaz Sharif, keen",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354113/deepseek-recruits-former-jane-street-engineer-catch-ai-agents-revenue-race",
-        "title": "DeepSeek recruits former Jane Street engineer to catch up on AI agents, revenue race",
-        "url": "https://www.scmp.com/tech/big-tech/article/3354113/deepseek-recruits-former-jane-street-engineer-catch-ai-agents-revenue-race?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-19T10:30:28.000Z",
-        "summary": "Chinese artificial intelligence heavyweight DeepSeek has recruited a former Jane Street star engineer to its new AI “harness” team, as it looks to ensure it does not fall behind in the agentic AI era. Cui Tianyi joined t",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3354087/alibaba-teases-new-qwen-previews-highest-ranking-chinese-ai-models-arena",
-        "title": "Alibaba teases new Qwen previews, highest-ranking Chinese AI models on Arena",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3354087/alibaba-teases-new-qwen-previews-highest-ranking-chinese-ai-models-arena?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-19T08:31:45.000Z",
-        "summary": "Alibaba Group Holding has teased preview versions of its next flagship artificial intelligence model, as the tech giant sharpens its AI operations and ramps up spending. The new model previews, the Qwen3.7-Max-Preview an",
-        "category": "updates",
         "region": "cn_en"
       }
     ]
