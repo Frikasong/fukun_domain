@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T14:48:52.018Z",
+  "generatedAt": "2026-05-26T19:58:41.134Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/the&",
+        "title": "The quiet restructuring of legal services",
+        "url": "https://www.abajournal.com/voice/article/the&#45;quiet&#45;restructuring&#45;of&#45;legal&#45;services/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-26T19:19:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/with&",
+        "title": "With support from AI, more pro se cases hit court dockets",
+        "url": "https://www.abajournal.com/news/article/with&#45;support&#45;from&#45;ai&#45;more&#45;pro&#45;se&#45;cases&#45;hit&#45;court&#45;dockets/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-26T17:58:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/ahead-of-june-10-shareholder-vote-union-investor-renews-push-for-thomson-reuters-to-assess-human-rights-impact-of-its-products-used-by-ice.html",
+        "title": "Ahead of June 10 Shareholder Vote, Union Investor Renews Push for Thomson Reuters to Assess Human Rights Impact of Its Products Used By ICE",
+        "url": "https://www.lawnext.com/2026/05/ahead-of-june-10-shareholder-vote-union-investor-renews-push-for-thomson-reuters-to-assess-human-rights-impact-of-its-products-used-by-ice.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-26T17:47:18.000Z",
+        "summary": "Last month, I wrote about the pushback by employees, shareholders and others against Thomson Reuters over its contracts to sell law enforcement data to U.S. Immigration and Customs Enforcement (ICE), primarily through tw",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/north&",
+        "title": "Woman accused of shooting 2 lawyers outside courthouse",
+        "url": "https://www.abajournal.com/news/article/north&#45;carolina&#45;woman&#45;accused&#45;of&#45;shooting&#45;2&#45;lawyers&#45;outside&#45;courthouse/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-26T16:09:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/justice&",
+        "title": "DOJ swears in largest-ever class of new immigration judges",
+        "url": "https://www.abajournal.com/news/article/justice&#45;department&#45;swears&#45;in&#45;largest&#45;ever&#45;class&#45;of&#45;new&#45;immigration&#45;judges/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-26T15:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/former&",
         "title": "Former Texas US attorney for the Southern District arrested, charged with felony hit-and-run",
@@ -84,26 +134,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-05-22T08:54:47.000Z",
         "summary": "And another major week in legal AI, just as AL goes on holiday until June 1st. First up, OpenAI Co-founder, Greg Brockman, announced on X ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ftc&",
-        "title": "FTC warns companies to comply with Take It Down Act",
-        "url": "https://www.abajournal.com/news/article/ftc&#45;warns&#45;companies&#45;to&#45;comply&#45;with&#45;the&#45;take&#45;it&#45;down&#45;act/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-21T15:58:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/lsat&",
-        "title": "LSAT moves to in-person testing in August after China cheating scandal",
-        "url": "https://www.abajournal.com/news/article/lsat&#45;moves&#45;in&#45;person&#45;in&#45;august&#45;after&#45;china&#45;cheating&#45;scandal/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-21T15:28:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1128,16 +1158,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/02/friday-is-the-deadline-to-vote-here-are-the-current-standings-vote-now-to-pick-the-15-startups-that-will-go-to-startup-alley-at-aba-techshow-in-march.html",
-        "title": "Friday Is the Deadline to Vote! Here Are the Current Standings. Vote Now to Pick the 15 Startups that Will Go to Startup Alley at ABA Techshow in March",
-        "url": "https://www.lawnext.com/2026/02/friday-is-the-deadline-to-vote-here-are-the-current-standings-vote-now-to-pick-the-15-startups-that-will-go-to-startup-alley-at-aba-techshow-in-march.html",
-        "source": "LawSites",
-        "publishedAt": "2026-02-09T21:00:41.000Z",
-        "summary": "This Friday, Feb. 13, is the deadline to vote. Your votes determine the 15 legal tech startups that will get to compete at the 10th-annual Startup Alley at ABA TECHSHOW. Below are the standings so far, ranked by total vo",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1185,16 +1205,6 @@
         "publishedAt": "2024-01-04T08:00:00.000Z",
         "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
         "region": "na"
       }
     ],
