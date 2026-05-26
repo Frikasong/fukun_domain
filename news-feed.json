@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T19:16:48.101Z",
+  "generatedAt": "2026-05-26T02:30:04.680Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1200,6 +1200,66 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/yhd4cguvebwjled2fk96",
+        "title": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+        "url": "https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-26T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/gssotxhzl4bkuwua52ur",
+        "title": "Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
+        "url": "https://www.infoq.cn/article/gSSOTxhzL4BkUwuA52ur?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-26T09:18:20.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qdvne5mrkvpkps2jgmx2",
+        "title": "微软将弃用Claude：太贵了还是薅明白了？",
+        "url": "https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-26T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3825499233817224",
+        "title": "思特威与紫光展锐联合布局MicroLED高速光互连",
+        "url": "https://36kr.com/newsflashes/3825499233817224?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-26T02:19:03.000Z",
+        "summary": "36氪获悉，据思特威消息，近日，思特威（上海）电子科技股份有限公与紫光展锐（上海）科技股份有限公司正式达成战略合作。双方联合布局MicroLED高速光互连领域，围绕光互连芯片设计与系统解决方案落地展开深度协同，为AI算力集群短距高速互连场景，提供高带宽、低功耗、高集成、高可靠的国产化核心解决方案。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3823033729061253",
+        "title": "两部 AI 剧集闯入戛纳，水母智能要做 AI 内容工业化的破局者｜项目报道",
+        "url": "https://36kr.com/p/3823033729061253?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-26T01:00:00.000Z",
+        "summary": "5月8日，第79届戛纳国际电影节內 Fantastic Pavilion 单元公布竖屏剧展演名单。 由水母智能旗下中国AI影视公司水母映画出品的竖屏剧集《摸金之天机入梦》（英文名：The Golden Tomb Seeker）以及水母星际出品的《饿塔》（英文名：Series Tower）从全球120个国家、超过1000件竖屏作品中脱颖而出，成为正式展映的21部作品之一。 竖屏剧集《摸金之天机入梦》 当两部纯 AI 制作的竖屏短剧，出现在",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3825357879497346",
+        "title": "8点1氪丨胖东来投资65亿的“梦之城”开工；“稚晖君”彭志辉正式出任上纬新材董事长；“死了么”App改名“在么在么”",
+        "url": "https://36kr.com/p/3825357879497346?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-25T23:58:09.000Z",
+        "summary": "今日热点导览 美媒：美伊已就全面开放霍尔木兹海峡达成一致 拉勾网及创始人被限消 宇树科技6月1日科创板IPO上会，一季度扣非净利润同比下降52.55% 1瓶水蜜桃只有0.01克水蜜桃汁，康师傅被指蹭奉化水蜜桃玩文字游戏 寒武纪盘中涨超11%，总市值超9000亿创历史新高 TOP3大新闻 胖东来进军房地产？投资65亿元的“梦之城”开工 胖东来或将进军地产市场。近日，于东来在直播中称，梦之城建好后，如果还有空间的情况下，会建几个小区，“一个",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3824601267196037",
         "title": "消除“罪证”：给写作去除“AI味”的不完全手册（2026版）",
         "url": "https://36kr.com/p/3824601267196037?f=rss",
@@ -1298,36 +1358,6 @@
         "summary": "中国汽车出海，离不开“地图” 当下，中国车企全球化进程正全面提速，出海已经从企业的可选增量，变为行业确定性增长主线。比亚迪、奇瑞等企业海外销量规模持续走高，小鹏、蔚来、理想、小米等新势力车企也纷纷发力海外高端市场。 区别于过往靠性价比、电动化优势打开市场的模式，现阶段中国车企出海的核心壁垒转变为智能化。在海外市场竞争中，智能座舱与高阶辅助驾驶，已经成为中国汽车差异化突围的关键。 智能座舱板块，导航是用户车机使用频次最高、感知最强的功能，",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3824089662853513",
-        "title": "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据",
-        "url": "https://36kr.com/p/3824089662853513?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-25T02:25:26.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，消费级空间相机公司竹马创新近日完成了数千万天使+轮融资，本轮由商汤国香资本领投，鼎晖VGC、峰瑞资本跟投，深渡资本担任后续独家财务顾问。资金将主要用于产品研发、量产准备及海外市场拓展。 竹马创新成立于2025年11月，是一家以Camera + AI为核心的空间智能公司。公司希望定义一种新的AI硬件品类——空间相机：既是消费级3D内容创作工具，更是面向具身智能与世界模型的真实世界三维数据入口。 团队方面",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3824053061652616",
-        "title": "机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局",
-        "url": "https://36kr.com/p/3824053061652616?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-25T01:50:58.000Z",
-        "summary": "硬氪获悉，近日， 六维力传感器企业 蓝点触控宣布完成C++轮数亿元人民币融资，本轮由 上汽金控、尚颀资本领投，由中芯聚源、正大机器人以及厚为资本 跟投。本轮融资将主要用于新产品研发、生产数智化建设以及全球市场拓展。 蓝点触控半年完成了三轮亿元级融资，此次融资距上一轮C+轮融资仅一个月。股东阵容目前已囊括红杉中国、宁德时代旗下溥泉资本、智元机器人、银河通用、上汽系资本、中芯产业资本等多路力量。 本轮融资投资方在产业链方向的纵深值得关注。 ",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/tlramzy8ppicvfvwmu6p",
-        "title": "买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场",
-        "url": "https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-22T20:34:12.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
@@ -1358,16 +1388,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-05-19T08:31:45.000Z",
         "summary": "Alibaba Group Holding has teased preview versions of its next flagship artificial intelligence model, as the tech giant sharpens its AI operations and ramps up spending. The new model previews, the Qwen3.7-Max-Preview an",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354078/chinas-moonshot-ai-moves-unwind-offshore-structure-ipo-pursuit-sources",
-        "title": "China’s Moonshot AI moves to unwind offshore structure in IPO pursuit: sources",
-        "url": "https://www.scmp.com/tech/big-tech/article/3354078/chinas-moonshot-ai-moves-unwind-offshore-structure-ipo-pursuit-sources?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-19T07:35:47.000Z",
-        "summary": "Moonshot AI, the Chinese AI unicorn behind the popular Kimi chatbot, has informed shareholders that it intends to dismantle its offshore structure to pave the way for an initial public offering, likely in Hong Kong, acco",
         "category": "updates",
         "region": "cn_en"
       }
