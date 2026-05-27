@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T14:58:14.841Z",
+  "generatedAt": "2026-05-27T20:02:54.336Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/ai&",
+        "title": "Artificial intelligence can be used for grading law school exams, but should it be?",
+        "url": "https://www.abajournal.com/web/article/ai&#45;can&#45;be&#45;used&#45;for&#45;grading&#45;law&#45;school&#45;exams&#45;but&#45;should&#45;it&#45;be/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-27T19:08:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ny&",
+        "title": "Lawyer sentenced to year in prison after conviction in $20M bank fraud trial",
+        "url": "https://www.abajournal.com/news/article/ny&#45;lawyer&#45;sentenced&#45;to&#45;a&#45;year&#45;in&#45;prison&#45;after&#45;20m&#45;bank&#45;fraud&#45;trial/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-27T16:15:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
+        "title": "Federal judge had in-chambers sex with top police officer, judicial conduct committee concludes",
+        "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;had&#45;sex&#45;in&#45;chambers&#45;with&#45;high&#45;ranking&#45;officer&#45;panel&#45;concludes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-27T15:37:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/justice&",
+        "title": "DOJ sues UCLA over alleged &#8216;deliberate indifference&#8217; to antisemitism",
+        "url": "https://www.abajournal.com/news/article/justice&#45;department&#45;sues&#45;ucla&#45;over&#45;deliberate&#45;indifference&#45;to&#45;antisemitism/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-27T15:22:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/law&",
         "title": "Majority of law profs find workload manageable, new study finds",
@@ -83,56 +123,6 @@
         "url": "https://www.abajournal.com/news/article/north&#45;carolina&#45;woman&#45;accused&#45;of&#45;shooting&#45;2&#45;lawyers&#45;outside&#45;courthouse/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-05-26T16:09:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/justice&",
-        "title": "DOJ swears in largest-ever class of new immigration judges",
-        "url": "https://www.abajournal.com/news/article/justice&#45;department&#45;swears&#45;in&#45;largest&#45;ever&#45;class&#45;of&#45;new&#45;immigration&#45;judges/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-26T15:34:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former Texas US attorney for the Southern District arrested, charged with felony hit-and-run",
-        "url": "https://www.abajournal.com/news/article/former&#45;texas&#45;us&#45;attorney&#45;for&#45;the&#45;southern&#45;district&#45;arrested&#45;charged&#45;with&#45;felony&#45;hit&#45;and&#45;run/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-22T16:13:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
-        "title": "Alleging millions in fraud involving Medicaid and other programs, DOJ charges 15 individuals",
-        "url": "https://www.abajournal.com/news/article/doj&#45;charges&#45;15&#45;people&#45;in&#45;minnesota&#45;for&#45;autism&#45;healthcare&#45;fraud&#45;scheme/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-22T15:33:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/grads&",
-        "title": "Grads of non-ABA-accredited law school can sit for Washington state bar exam",
-        "url": "https://www.abajournal.com/news/article/grads&#45;of&#45;non&#45;aba&#45;accredited&#45;law&#45;school&#45;can&#45;sit&#45;for&#45;washington&#45;state&#45;bar&#45;exam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-22T14:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/lexisnexis&",
-        "title": "LexisNexis AI Symposium charts transformative change",
-        "url": "https://www.abajournal.com/columns/article/lexisnexis&#45;ai&#45;symposium&#45;charts&#45;transformative&#45;change/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-22T14:10:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,16 +1200,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/znlumcbqhirjqcrulxzt",
-        "title": "利润暴涨755%，AI赚疯了，芯片工人却不干了",
-        "url": "https://www.infoq.cn/article/ZNlUMcBQHIRjQcRuLxzT?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-27T21:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/zlerjmwuenf4c9ztex8p",
         "title": "让具身模型学会“先想后做”！星源智推出400万问答对大规模数据集，训练框架决策性能碾压GPT-5",
         "url": "https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p?utm_source=rss&utm_medium=article",
@@ -1266,16 +1246,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-27T12:11:45.000Z",
         "summary": "36氪获悉，在2026年第一季度业绩电话会上，快手科技首席财务官金秉表示，在今年30亿港币年度分红基础上，快手将继续积极进行股份回购，预计2026年全年包括分红和股份回购在内的股东回报金额将较去年进一步增加，使股东回报率进一步提升至约4%。资本开支方面，金秉表示，公司预计2026年资本开支约260亿元人民币，目前看指引暂不会调整，且大部分资本开支预计发生在上半年。同时，为应对算力价格上涨，公司已进行提前采购储备，以更好控制市场价格上行阶",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3827487780492161",
-        "title": "程一笑：可灵AI 3月ARR近5亿美元，较去年同期增长4倍",
-        "url": "https://36kr.com/newsflashes/3827487780492161?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-27T12:01:54.000Z",
-        "summary": "36氪获悉，在2026年第一季度业绩电话会上，快手科技创始人兼首席执行官程一笑表示，2026年3月，可灵AI年化收入运行率（ARR）近5亿美元，较去年3月的1亿美元增长4倍。程一笑表示，可灵AI一季度收入高速增长，主要来自B端企业客户API调用收入和P端付费会员订阅收入的双轮驱动。无论是用户数还是月均付费金额，可灵AI均实现了高速增长。从留存看，B端企业客户和P端付费会员均保持较好留存趋势，体现出可灵AI在专业创作场景中的技术和产品实力",
         "category": "updates",
         "region": "cn"
       },
