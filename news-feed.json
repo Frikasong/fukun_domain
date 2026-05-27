@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T19:58:41.134Z",
+  "generatedAt": "2026-05-27T02:39:41.754Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,13 +1210,113 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3826076760920711",
-        "title": "Spotify高管抨击AI生成音乐",
-        "url": "https://36kr.com/newsflashes/3826076760920711?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-26T12:25:33.000Z",
-        "summary": "Spotify联合首席执行官亚历克斯·诺斯特伦为公司布局人工智能生成音乐业务作出辩护，他表示，合规管控下的相关产品，要优于目前网络上泛滥的、缺乏监管的劣质AI音乐内容。本周四，Spotify与环球音乐集团达成合作。根据协议，平台用户可利用AI对签约艺人的歌曲进行翻唱与二次混音创作。（新浪财经）",
+        "id": "InfoQ China:www.infoq.cn/article/et26czlczqoek2wskksc",
+        "title": "中国首次提出半导体演进新原则：华为“韬定律”5 年内冲刺等效1.4nm制程，麒麟、昇腾将先后落地量产",
+        "url": "https://www.infoq.cn/article/et26CZlCZQoEK2wSkkSc?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-27T10:12:52.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ixyk6vifhtsf3jl63egk",
+        "title": "得物算法平台部算法专家任巨伟确认出席AICon上海站，分享高可控智能客服的 Agent 工程实践",
+        "url": "https://www.infoq.cn/article/ixyk6VIFhTSF3JL63EgK?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-27T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/kaddsta9jwuoghujwdoz",
+        "title": "Google Cloud 在 BigQuery 中引入跨引擎 Apache Iceberg 支持",
+        "url": "https://www.infoq.cn/article/kadDStA9JWuOGHujwdoz?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-27T09:07:37.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3826932509364869",
+        "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
+        "url": "https://36kr.com/p/3826932509364869?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-27T02:38:25.000Z",
+        "summary": "当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。 2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。 5月19日至20日，以“带着AI去前线”为主题的2026 AI Partner·北京亦庄AI+产业大会在北京经开区通明湖会展中",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3826922264286083",
+        "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
+        "url": "https://36kr.com/p/3826922264286083?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-27T02:27:05.000Z",
+        "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，AI母婴智能硬件品牌珂迪Coddie（以下简称“Coddie”）完成天使轮融资，融资金额数千万元，由钟鼎资本投资，向阳资本担任独家财务顾问。 Coddie团队于2026年初组建，由95后连续创业者何鋡威创立。何鋡威毕业于德国慕尼黑工业大学，先后任职华为、传音控股、拓竹科技等全球化科技企业。技术负责人毕业于国内顶级高校计算机专业，曾就职半导体龙头上市公司，负责大疆与Insta360影像IC方案",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3826910909092480",
+        "title": "“杉岩数据”完成亿元级D轮融资",
+        "url": "https://36kr.com/newsflashes/3826910909092480?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-27T02:15:05.000Z",
+        "summary": "36氪获悉，5月27日，“杉岩数据”宣布完成亿元级D轮融资。本轮融资由福田资本运营集团旗下的长胜产业基金领投，达晨财智湖南中小二期基金跟投。依托本轮资金，杉岩数据将全面推动AI原生数据基础设施及行业数智解决方案的战略升级，持续加大关键技术研发投入，加速重点行业及全球市场布局，深化多元应用场景的落地实践，构建具有全球竞争力的人才体系。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3826354349412992",
+        "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
+        "url": "https://36kr.com/p/3826354349412992?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-27T02:05:05.000Z",
+        "summary": "文丨果脯 2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破3000万，全平台预约人数达6000万，DAU达到1300万。 S2赛季上线前，这款产品更是被寄予厚望， 腾讯方面称其“有望成为下一款长青产品”。 此时，距离《三角洲行动》正式官宣跻身“长青游戏”，也才过去一",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3826873622090625",
+        "title": "国家统计局：1-4月份规模以上原材料制造业利润同比增长88.1%",
+        "url": "https://36kr.com/newsflashes/3826873622090625?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-27T01:37:09.000Z",
+        "summary": "36氪获悉，国家统计局数据显示，1-4月份，规模以上原材料制造业利润同比增长88.1%，较1-3月份加快10.2个百分点，拉动全部规模以上工业企业利润增长10.3个百分点。从行业看，国际原油价格上行带动相关产业链条产品价格上涨，石油加工行业同比扭亏为盈，实现利润总额404.2亿元，化工行业利润增长73.4%，较1—3月份加快18.9个百分点；新能源、人工智能、新一代信息技术等新兴产业快速发展，带动铝、铜、金、锂等有色金属需求大幅增长，推",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3826390617870984",
+        "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
+        "url": "https://36kr.com/p/3826390617870984?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-27T00:25:50.000Z",
+        "summary": "文｜周鑫雨 邓咏仪 编辑｜张雨忻 硅谷持续了两个多月的Token-Maxxing（Token军备竞赛）焦虑，在Meta以一种戏谑的方式按下了休止符。 前情大家都知道了：2026年3月，为了鼓吹自己是一家“AI-Native”公司，Meta曾在内部上线了一个“Claudeonomics（Claude经济学）”榜单：员工消耗的Token越多，排名就越高；垫底的员工，有被裁的风险。 不过，当我们在4月末来到硅谷，Meta的朋友带来了故事的后续",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3826385821192841",
+        "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
+        "url": "https://36kr.com/p/3826385821192841?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-27T00:20:58.000Z",
+        "summary": "文｜周鑫雨 编辑｜张雨忻 打开“观猹”，能看到一个完全不同于机构投资榜单所呈现出来的AI创业生态： 这里很少有动辄估值几亿美金的项目，活跃在社区中的，也常常不是有着名校、大厂背景的创业者，更多是普通的设计师、产品经理，甚至退休教师。 观猹。 “观猹”创始人仲泰告诉我：“ 这才是AI行业最真实的生态。 ” 仲泰，一个在AI创业者和开发者群体中并不陌生的名字。这名02年出生、带着黑框眼镜的瘦高男生，“创龄”已高达6年——高三做试题交流平台，",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3826779946930822",
+        "title": "8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐",
+        "url": "https://36kr.com/p/3826779946930822?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-27T00:04:26.000Z",
+        "summary": "今日热点导览 三体公司原CEO许垚被执行死刑，投毒致使其老板林奇中毒身亡 算力租赁，遭传闻突袭，上市公司回应 胖东来成立文化娱乐公司 双汇子公司猪肉被曝抗生素超标37倍，公司回应超标原因 知情人士：字节跳动本月向Seed员工开放“豆包股”认购权 TOP3大新闻 商品标签陷性暗示争议，盒马致歉并下架整改 近日，盒马旗下一款“粉木耳”产品因标签设计涉嫌性暗示引发争议。图片显示，该产品名为“盒马菌菇星球贵妃粉耳”，产地为山东，产品标签右侧有一",
+        "category": "articles",
         "region": "cn"
       },
       {
@@ -1280,26 +1380,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3825882266407815",
-        "title": "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用",
-        "url": "https://36kr.com/p/3825882266407815?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-26T09:48:33.000Z",
-        "summary": "5月26日，昆仑万维旗下天工 AI 正式推出高性能 Agent 模型 SkyClaw-v1.0，并同步发布轻量化版本 SkyClaw-v1.0-lite，兼具顶尖性能与极致性价比。 SkyClaw-v1.0 支持百万token上下文，深度适配各类真实智能体工作场景，重点优化复杂工具调用、多轮任务执行、代码生成、文件编辑、交互式应用构建与研究型数据分析。模型经过大规模 mid-train、高质量合成任务 SFT 与端到端强化学习优化，可在",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3825834410333062",
-        "title": "求购Deepseek老股份额；求购长鑫存储老股份额｜资情留言板第183期",
-        "url": "https://36kr.com/p/3825834410333062?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-26T08:15:55.000Z",
-        "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。 本文是这个栏目的第183期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com） 一、本月新增 1、求购Deepseek",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/qdvne5mrkvpkps2jgmx2",
         "title": "微软将弃用Claude：太贵了还是薅明白了？",
         "url": "https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&utm_medium=article",
@@ -1308,49 +1388,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3823033729061253",
-        "title": "两部 AI 剧集闯入戛纳，水母智能要做 AI 内容工业化的破局者｜项目报道",
-        "url": "https://36kr.com/p/3823033729061253?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-26T01:00:00.000Z",
-        "summary": "5月8日，第79届戛纳国际电影节內 Fantastic Pavilion 单元公布竖屏剧展演名单。 由水母智能旗下中国AI影视公司水母映画出品的竖屏剧集《摸金之天机入梦》（英文名：The Golden Tomb Seeker）以及水母星际出品的《饿塔》（英文名：Series Tower）从全球120个国家、超过1000件竖屏作品中脱颖而出，成为正式展映的21部作品之一。 竖屏剧集《摸金之天机入梦》 当两部纯 AI 制作的竖屏短剧，出现在",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3825357879497346",
-        "title": "8点1氪丨胖东来投资65亿的“梦之城”开工；“稚晖君”彭志辉正式出任上纬新材董事长；“死了么”App改名“在么在么”",
-        "url": "https://36kr.com/p/3825357879497346?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-25T23:58:09.000Z",
-        "summary": "今日热点导览 美媒：美伊已就全面开放霍尔木兹海峡达成一致 拉勾网及创始人被限消 宇树科技6月1日科创板IPO上会，一季度扣非净利润同比下降52.55% 1瓶水蜜桃只有0.01克水蜜桃汁，康师傅被指蹭奉化水蜜桃玩文字游戏 寒武纪盘中涨超11%，总市值超9000亿创历史新高 TOP3大新闻 胖东来进军房地产？投资65亿元的“梦之城”开工 胖东来或将进军地产市场。近日，于东来在直播中称，梦之城建好后，如果还有空间的情况下，会建几个小区，“一个",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/e17xvwlzf8rqrarwafr6",
-        "title": "Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样”",
-        "url": "https://www.infoq.cn/article/e17xvwLZf8rQrArWAFR6?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-25T11:25:40.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vvvdvygbzh1ukht2mxh7",
-        "title": "人工智能无法加速软件交付",
-        "url": "https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-25T11:19:57.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3354923/insilico-teams-us-firm-build-ai-models-predicting-disease-decades-ahead",
+        "title": "Insilico teams up with US firm to build AI models predicting disease decades ahead",
+        "url": "https://www.scmp.com/business/china-business/article/3354923/insilico-teams-us-firm-build-ai-models-predicting-disease-decades-ahead?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-27T00:30:06.000Z",
+        "summary": "Hong Kong-listed artificial intelligence drug-discovery company Insilico Medicine has struck a collaboration with US-headquartered Human Longevity to co-develop what they describe as “the industry’s first large-scale” AI",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354778/alibabas-qwen-catches-sharif-speed-help-forge-pakistan-deal",
         "title": "Alibaba’s Qwen catches up with ‘Sharif speed’ to help forge Pakistan deal",
