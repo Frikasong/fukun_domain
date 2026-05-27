@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T02:39:41.754Z",
+  "generatedAt": "2026-05-27T09:31:30.397Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/27/legal-innovators-california-breakfast-june-9",
+        "title": "Legal Innovators California Breakfast – June 9",
+        "url": "https://www.artificiallawyer.com/2026/05/27/legal-innovators-california-breakfast-june-9/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-27T08:36:45.000Z",
+        "summary": "Before Legal Innovators California kicks off on June 10 and 11, we&#8217;re gathering Partners, CTOs, General Counsel, Legal Ops leaders, CIOs, knowledge officers, legal tech ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/voice/article/the&",
         "title": "The quiet restructuring of legal services",
@@ -234,16 +244,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-05-20T08:03:38.000Z",
         "summary": "By Michael Krallmann, CEO, TransLegal. Legal AI is increasingly capable of producing outputs that look correct, not only linguistically, but also terminologically. Definitions align with ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/20/lavern-the-agentic-law-firm-has-arrived",
-        "title": "Lavern the Agentic ‘Law Firm’ Has Arrived",
-        "url": "https://www.artificiallawyer.com/2026/05/20/lavern-the-agentic-law-firm-has-arrived/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-20T06:52:22.000Z",
-        "summary": "Lavern, which is figuratively a ‘law firm’, has formally launched and now offers 67 specialist legal agents that can perform key tasks. Together they form ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,36 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/et26czlczqoek2wskksc",
-        "title": "中国首次提出半导体演进新原则：华为“韬定律”5 年内冲刺等效1.4nm制程，麒麟、昇腾将先后落地量产",
-        "url": "https://www.infoq.cn/article/et26CZlCZQoEK2wSkkSc?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-27T10:12:52.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ixyk6vifhtsf3jl63egk",
-        "title": "得物算法平台部算法专家任巨伟确认出席AICon上海站，分享高可控智能客服的 Agent 工程实践",
-        "url": "https://www.infoq.cn/article/ixyk6VIFhTSF3JL63EgK?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-27T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/kaddsta9jwuoghujwdoz",
-        "title": "Google Cloud 在 BigQuery 中引入跨引擎 Apache Iceberg 支持",
-        "url": "https://www.infoq.cn/article/kadDStA9JWuOGHujwdoz?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-27T09:07:37.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3826932509364869",
         "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
         "url": "https://36kr.com/p/3826932509364869?f=rss",
@@ -1260,32 +1230,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3826910909092480",
-        "title": "“杉岩数据”完成亿元级D轮融资",
-        "url": "https://36kr.com/newsflashes/3826910909092480?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-27T02:15:05.000Z",
-        "summary": "36氪获悉，5月27日，“杉岩数据”宣布完成亿元级D轮融资。本轮融资由福田资本运营集团旗下的长胜产业基金领投，达晨财智湖南中小二期基金跟投。依托本轮资金，杉岩数据将全面推动AI原生数据基础设施及行业数智解决方案的战略升级，持续加大关键技术研发投入，加速重点行业及全球市场布局，深化多元应用场景的落地实践，构建具有全球竞争力的人才体系。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3826354349412992",
         "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
         "url": "https://36kr.com/p/3826354349412992?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-27T02:05:05.000Z",
         "summary": "文丨果脯 2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破3000万，全平台预约人数达6000万，DAU达到1300万。 S2赛季上线前，这款产品更是被寄予厚望， 腾讯方面称其“有望成为下一款长青产品”。 此时，距离《三角洲行动》正式官宣跻身“长青游戏”，也才过去一",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3826873622090625",
-        "title": "国家统计局：1-4月份规模以上原材料制造业利润同比增长88.1%",
-        "url": "https://36kr.com/newsflashes/3826873622090625?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-27T01:37:09.000Z",
-        "summary": "36氪获悉，国家统计局数据显示，1-4月份，规模以上原材料制造业利润同比增长88.1%，较1-3月份加快10.2个百分点，拉动全部规模以上工业企业利润增长10.3个百分点。从行业看，国际原油价格上行带动相关产业链条产品价格上涨，石油加工行业同比扭亏为盈，实现利润总额404.2亿元，化工行业利润增长73.4%，较1—3月份加快18.9个百分点；新能源、人工智能、新一代信息技术等新兴产业快速发展，带动铝、铜、金、锂等有色金属需求大幅增长，推",
         "category": "updates",
         "region": "cn"
       },
@@ -1335,7 +1285,7 @@
         "url": "https://36kr.com/p/3826003757437573?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-26T10:59:01.000Z",
-        "summary": "炒股的朋友都有同感：现在信息太多太杂，消息慢一步、判断错一步，都可能影响操作。刷新闻、翻研报、逛股吧，花了大把时间，还是抓不住重点、分不清真假，越看越乱。 好消息是 —— 36氪企业全情报小程序新版本正式上线啦 ！这次更新完全站在大家的使用习惯上，把体验和功能都做了优化，帮你少走弯路、少花时间，轻松拿到靠谱情报，不再被信息差牵着走。 点击直达小程序： https://wxaurl.cn/J8iJTlzFWSr 本次更新，4 个超实用亮点",
+        "summary": "炒股的朋友都有同感：现在信息太多太杂，消息慢一步、判断错一步，都可能影响操作。刷新闻、翻研报、逛股吧，花了大把时间，还是抓不住重点、分不清真假，越看越乱。 好消息是 —— 36氪企业全情报小程序新版本正式上线啦 ！这次更新完全站在��家的使用习惯上，把体验和功能都做了优化，帮你少走弯路、少花时间，轻松拿到靠谱情报，不再被信息差牵着走。 点击直达小程序： https://wxaurl.cn/J8iJTlzFWSr 本次更新，4 个超实用亮",
         "category": "updates",
         "region": "cn"
       },
@@ -1355,7 +1305,7 @@
         "url": "https://36kr.com/p/3825969453699970?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-26T10:29:09.000Z",
-        "summary": "2024年，强化学习奠基人理查德·萨顿与他的导师安德鲁·巴托共同获得了图灵奖。 这个奖项来得不算早。过去三十年，萨顿的理论支撑了AlphaGo、ChatGPT等系统的进化，但他三十年前写下的理论，直到今天才被具身智能行业真正理解： 智能体要从试错中学习，要从真实经验里进化。 2023年，萨顿参与创办非营利研究机构Openmind。2025年4月，萨顿在联合发表的文章《欢迎来到经验时代（Welcome to the Era of Expe",
+        "summary": "2024年，强化学习奠基人理查��·萨顿与他的导师安德鲁·巴托共同获得了图灵奖。 这个奖项来得不算早。过去三十年，萨顿的理论支撑了AlphaGo、ChatGPT等系统的进化，但他三十年前写下的理论，直到今天才被具身智能行业真正理解： 智能体要从试错中学习，要从真实经验里进化。 2023年，萨顿参与创办非营利研究机构Openmind。2025年4月，萨顿在联合发表的文章《欢迎来到经验时代（Welcome to the Era of Exp",
         "category": "updates",
         "region": "cn"
       },
@@ -1392,12 +1342,22 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3354923/insilico-teams-us-firm-build-ai-models-predicting-disease-decades-ahead",
-        "title": "Insilico teams up with US firm to build AI models predicting disease decades ahead",
-        "url": "https://www.scmp.com/business/china-business/article/3354923/insilico-teams-us-firm-build-ai-models-predicting-disease-decades-ahead?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3355026/30-rally-boe-tech-shows-how-ai-buildout-can-galvanise-chinese-lcd-maker",
+        "title": "A 30% rally in BOE Tech shows how AI buildout can galvanise Chinese LCD maker",
+        "url": "https://www.scmp.com/business/china-business/article/3355026/30-rally-boe-tech-shows-how-ai-buildout-can-galvanise-chinese-lcd-maker?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-05-27T00:30:06.000Z",
-        "summary": "Hong Kong-listed artificial intelligence drug-discovery company Insilico Medicine has struck a collaboration with US-headquartered Human Longevity to co-develop what they describe as “the industry’s first large-scale” AI",
+        "publishedAt": "2026-05-27T08:59:49.000Z",
+        "summary": "BOE Technology is on investors’ radar screens again after announcing its foray into a business linked to artificial intelligence infrastructure, causing the stock price of the Chinese maker of liquid-crystal displays (LC",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354938/another-deepseek-moment-huawei-milestone-alters-china-trajectory-chip-race-analysts",
+        "title": "Another ‘DeepSeek moment’? Huawei milestone alters China trajectory in chip race: analysts",
+        "url": "https://www.scmp.com/tech/big-tech/article/3354938/another-deepseek-moment-huawei-milestone-alters-china-trajectory-chip-race-analysts?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-27T03:00:09.000Z",
+        "summary": "Huawei Technologies’ unveiling of a chip architectural workaround to bypass US sanctions marks a major step towards China’s semiconductor self-sufficiency, giving Beijing powerful new leverage in its tech tug of war with",
         "category": "updates",
         "region": "cn_en"
       },
