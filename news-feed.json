@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T02:26:30.459Z",
+  "generatedAt": "2026-05-28T09:48:29.083Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/28/legal-innovators-europe-webinar-implementing-legal-ai",
+        "title": "Legal Innovators Europe Webinar &#8211; Implementing Legal AI",
+        "url": "https://www.artificiallawyer.com/2026/05/28/legal-innovators-europe-webinar-implementing-legal-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-28T06:24:28.000Z",
+        "summary": "Ahead of the landmark Legal Innovators Europe conference in Paris on June 24 and 25, the event organisers Cosmonauts, and Artificial Lawyer, are holding a ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/columns/article/chemerinsky&",
         "title": "Chemerinsky: What to expect from SCOTUS in the coming month",
@@ -244,16 +254,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-05-20T11:58:22.000Z",
         "summary": "Ahead of the Legal Innovators California conference we spoke with Joy Sherrod, Director of Discovery and Associate General Counsel at Intel Corporation, who has spent ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/20/when-legal-terminology-is-correct-but-the-answer-is-still-wrong",
-        "title": "When Legal Terminology is Correct But the Answer is Still Wrong",
-        "url": "https://www.artificiallawyer.com/2026/05/20/when-legal-terminology-is-correct-but-the-answer-is-still-wrong/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-20T08:03:38.000Z",
-        "summary": "By Michael Krallmann, CEO, TransLegal. Legal AI is increasingly capable of producing outputs that look correct, not only linguistically, but also terminologically. Definitions align with ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,42 +1210,52 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/4wj8if5mljhd3qdvkztt",
-        "title": "小红书AI 工程架构师郝栩彬确认出席AICon上海站，分享Self-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案",
-        "url": "https://www.infoq.cn/article/4wj8IF5MLjHd3QdvkzTt?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/e0h31r7giumbixdkelei",
+        "title": "Agent 能用，为什么还是不好用？",
+        "url": "https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-28T10:02:30.000Z",
+        "publishedAt": "2026-05-28T15:45:04.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/video/a9okjbcwkwypiqvp48au",
-        "title": "「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
-        "url": "https://www.infoq.cn/video/A9OKjbcWKWYPIqvP48AU?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/lxegvvlzaotpjefj9ret",
+        "title": "米哈游一夜烧掉200万元Token，大厂高管也开始质疑：Token烧不出价值，但养肥了谁？",
+        "url": "https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-28T09:21:37.000Z",
+        "publishedAt": "2026-05-28T15:32:05.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/video/x7spzjajyoexdhizv198",
-        "title": "「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
-        "url": "https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/hxdxrkiglowu0y6fwa96",
+        "title": "全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍",
+        "url": "https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-28T09:19:26.000Z",
+        "publishedAt": "2026-05-28T15:27:30.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/vk2wb5zk9sfhhp7fx5no",
-        "title": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
-        "url": "https://www.infoq.cn/article/vk2wb5zk9sFHhP7fx5NO?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/rjwcjaxgrafwym1fd5uv",
+        "title": "腾讯云 DatabaseClaw：让 AI Agent 真正接管生产数据库 | 腾讯云数据库 DBTalk",
+        "url": "https://www.infoq.cn/video/RjWCjAxGrAfWYM1fD5uv?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-05-28T09:15:19.000Z",
+        "publishedAt": "2026-05-28T14:46:52.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3820602297208966",
+        "title": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型",
+        "url": "https://36kr.com/p/3820602297208966?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-28T08:20:12.000Z",
+        "summary": "文｜王欣逸 李嘉星 编辑｜周鑫雨 一家Day 1就在做多模态大模型的公司，无法拒绝参与到具身智能和世界模型热潮之中。 2026年，随着Seedance 2.0、GPT Image 2.0等模型的爆火，多模态能力越来越成为行业内绕不开的关键词。5月19日，智象未来首届开放日上，智象未来给出了他们的判断和回答：“原生多模态是实现AGI的必经之路。” 本场开放日活动主题为“Imaging the World”，不过，对于智象未来而言，「Wor",
         "category": "updates",
         "region": "cn"
       },
@@ -1326,46 +1336,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-27T02:05:05.000Z",
         "summary": "文丨果脯 2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破3000万，全平台预约人数达6000万，DAU达到1300万。 S2赛季上线前，这款产品更是被寄予厚望， 腾讯方面称其“有望成为下一款长青产品”。 此时，距离《三角洲行动》正式官宣跻身“长青游戏”，也才过去一",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3826390617870984",
-        "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
-        "url": "https://36kr.com/p/3826390617870984?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-27T00:25:50.000Z",
-        "summary": "文｜周鑫雨 邓咏仪 编辑｜张雨忻 硅谷持续了两个多月的Token-Maxxing（Token军备竞赛）焦虑，在Meta以一种戏谑的方式按下了休止符。 前情大家都知道了：2026年3月，为了鼓吹自己是一家“AI-Native”公司，Meta曾在内部上线了一个“Claudeonomics（Claude经济学）”榜单：员工消耗的Token越多，排名就越高；垫底的员工，有被裁的风险。 不过，当我们在4月末来到硅谷，Meta的朋友带来了故事的后续",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3826385821192841",
-        "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
-        "url": "https://36kr.com/p/3826385821192841?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-27T00:20:58.000Z",
-        "summary": "文｜周鑫雨 编辑｜张雨忻 打开“观猹”，能看到一个完全不同于机构投资榜单所呈现出来的AI创业生态： 这里很少有动辄估值几亿美金的项目，活跃在社区中的，也常常不是有着名校、大厂背景的创业者，更多是普通的设计师、产品经理，甚至退休教师。 观猹。 “观猹”创始人仲泰告诉我：“ 这才是AI行业最真实的生态。 ” 仲泰，一个在AI创业者和开发者群体中并不陌生的名字。这名02年出生、带着黑框眼镜的瘦高男生，“创龄”已高达6年——高三做试题交流平台，",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/yb9yjljadmfbnurnueag",
-        "title": "如何在 Snowflake 上构建可编程 AI Agent？Cortex Code Agent SDK 深度解析 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/yB9yJlJADmFBNurNUEaG?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-26T11:24:26.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/4gwxqyrps4rtuimprte7",
-        "title": "AWS MCP服务器正式可用，全面适配API并支持IAM权限控制",
-        "url": "https://www.infoq.cn/article/4gwXqyRPs4RTUIMpRte7?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-26T10:56:00.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
