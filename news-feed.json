@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T20:02:54.336Z",
+  "generatedAt": "2026-05-28T02:26:30.459Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/chemerinsky&",
+        "title": "Chemerinsky: What to expect from SCOTUS in the coming month",
+        "url": "https://www.abajournal.com/columns/article/chemerinsky&#45;what&#45;to&#45;expect&#45;from&#45;scotus&#45;in&#45;the&#45;coming&#45;month/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-27T20:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/ai&",
         "title": "Artificial intelligence can be used for grading law school exams, but should it be?",
@@ -1200,6 +1210,76 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/4wj8if5mljhd3qdvkztt",
+        "title": "小红书AI 工程架构师郝栩彬确认出席AICon上海站，分享Self-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案",
+        "url": "https://www.infoq.cn/article/4wj8IF5MLjHd3QdvkzTt?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-28T10:02:30.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/a9okjbcwkwypiqvp48au",
+        "title": "「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
+        "url": "https://www.infoq.cn/video/A9OKjbcWKWYPIqvP48AU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-28T09:21:37.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/x7spzjajyoexdhizv198",
+        "title": "「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
+        "url": "https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-28T09:19:26.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vk2wb5zk9sfhhp7fx5no",
+        "title": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+        "url": "https://www.infoq.cn/article/vk2wb5zk9sFHhP7fx5NO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-28T09:15:19.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3827585618154118",
+        "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+        "url": "https://36kr.com/p/3827585618154118?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-28T00:35:00.000Z",
+        "summary": "文丨刘士武 封面来源 | Funloom 官网 36氪获悉， AI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。 本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&连尚网络创始人陈大年。本轮融资后，公司估值已达到2亿元，资金将用于产品研发升级和团队扩张。 库兰织梦成立于2023年， 创始人吴同 曾任职Unity，拥有5年游戏行业创业经验，推出《1",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3828191630348934",
+        "title": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
+        "url": "https://36kr.com/p/3828191630348934?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-28T00:00:20.000Z",
+        "summary": "今日热点导览 阿里员工十三薪将并入年终奖 曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方 微信小游戏月活跃用户超过5亿 聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争 SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温 长鑫科技科创板IPO获上市委会议通过 TOP 3大新闻 “高考期间AI工具将禁用”？豆包、元宝等回应 日前，“高考期间AI工具将禁用”的话题引发关注，有不少网友讨论，高考期间AI工具是",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3827658881323649",
+        "title": "腾讯游戏的One More Thing，是AI",
+        "url": "https://36kr.com/p/3827658881323649?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-27T23:00:49.000Z",
+        "summary": "文丨贝果树 编辑丨刘士武 5月27日，2026年腾讯游戏发布会于晚上八点举办。在发布会上，腾讯从制作、发行、投资三个板块带来了42款游戏的新动态，其中包含15款新品，新品的数量相较于2025年发布会的24款有所减少。 来源：2026腾讯游戏发布会 与往届发布会不同的是，此次的发布会上，腾讯在AI游戏应用方面有了更多的输出。在游戏制作板块，腾讯介绍了如《和平精英》中的新AI队友小田、《王者荣耀》中的AI助手灵宝和电竞的AI解说等应用。 当",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/zlerjmwuenf4c9ztex8p",
         "title": "让具身模型学会“先想后做”！星源智推出400万问答对大规模数据集，训练框架决策性能碾压GPT-5",
         "url": "https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p?utm_source=rss&utm_medium=article",
@@ -1210,52 +1290,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3827533509038985",
-        "title": "雄韬股份澄清：华为公司发表了韬（τ）定律与公司业务不存在关联",
-        "url": "https://36kr.com/newsflashes/3827533509038985?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-27T12:48:25.000Z",
-        "summary": "36氪获悉，雄韬股份公告，公司关注到网络平台发布不实传闻，包括与华为、微软、英伟达等合作及“AI算力基础设施核心供应商”等表述。经核实，公司未与华为公司存在合作关系，华为公司发布的韬（τ）定律相关概念与公司主营业务不存在关联关系。公司不属于AI算力基础设施核心供应商，电源系统仅占数据中心投资的5%-10%；氢能业务2025年收入869万元，影响很小；固态电池未量产，钠离子电池参股公司亏损。公司经营正常，无应披露未披露事项。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3827497128465287",
         "title": "氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖",
         "url": "https://36kr.com/p/3827497128465287?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-27T12:17:05.000Z",
         "summary": "大公司： 程一笑：可灵AI 3月ARR近5亿美元，较去年同期增长4倍 36氪获悉，在2026年第一季度业绩电话会上，快手科技创始人兼首席执行官程一笑表示，2026年3月，可灵AI年化收入运行率（ARR）近5亿美元，较去年3月的1亿美元增长4倍。程一笑表示，可灵AI一季度收入高速增长，主要来自B端企业客户API调用收入和P端付费会员订阅收入的双轮驱动。无论是用户数还是月均付费金额，可灵AI均实现了高速增长。从留存看，B端企业客户和P端付费",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3827488691212934",
-        "title": "金仕达与华为联合发布AI风控一体机",
-        "url": "https://36kr.com/newsflashes/3827488691212934?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-27T12:15:46.000Z",
-        "summary": "36氪获悉，近日，金仕达与华为联合发布了面向金融行业高性能计算的AI风控一体机，为行业提供自主可控的软硬件一体化解决方案。同时，金仕达与玻色量子完成了战略合作签约，双方将共同探索量子计算在投资组合优化、复杂风险模拟等前沿场景的应用，布局下一代算力。据了解，金仕达通过自主研发春晓大模型、因果AI、高性能分布式架构等核心技术，致力于打造可解释、可追溯、可信赖的智能风控体系。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3827497462616963",
-        "title": "快手：预计2026年股东回报率提升至约4%，全年目标保持正向自由现金流",
-        "url": "https://36kr.com/newsflashes/3827497462616963?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-27T12:11:45.000Z",
-        "summary": "36氪获悉，在2026年第一季度业绩电话会上，快手科技首席财务官金秉表示，在今年30亿港币年度分红基础上，快手将继续积极进行股份回购，预计2026年全年包括分红和股份回购在内的股东回报金额将较去年进一步增加，使股东回报率进一步提升至约4%。资本开支方面，金秉表示，公司预计2026年资本开支约260亿元人民币，目前看指引暂不会调整，且大部分资本开支预计发生在上半年。同时，为应对算力价格上涨，公司已进行提前采购储备，以更好控制市场价格上行阶",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3827467208413825",
-        "title": "高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动",
-        "url": "https://36kr.com/newsflashes/3827467208413825?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-27T11:57:53.000Z",
-        "summary": "高盛集团策略师预计今年标普500指数回报将达17%，加入摩根士丹利和德意志银行同行之列。由Ben Snider领导的高盛团队表示，人工智能（AI）热潮推动的盈利增长将进一步提振股市，因此他们将该美国基准指数的年底目标点位上调至8000点，放弃了此前7600点的预测。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1310,16 +1350,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3826779946930822",
-        "title": "8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐",
-        "url": "https://36kr.com/p/3826779946930822?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-27T00:04:26.000Z",
-        "summary": "今日热点导览 三体公司原CEO许垚被执行死刑，投毒致使其老板林奇中毒身亡 算力租赁，遭传闻突袭，上市公司回应 胖东来成立文化娱乐公司 双汇子公司猪肉被曝抗生素超标37倍，公司回应超标原因 知情人士：字节跳动本月向Seed员工开放“豆包股”认购权 TOP3大新闻 商品标签陷性暗示争议，盒马致歉并下架整改 近日，盒马旗下一款“粉木耳”产品因标签设计涉嫌性暗示引发争议。图片显示，该产品名为“盒马菌菇星球贵妃粉耳”，产地为山东，产品标签右侧有一",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/yb9yjljadmfbnurnueag",
         "title": "如何在 Snowflake 上构建可编程 AI Agent？Cortex Code Agent SDK 深度解析 ｜ 技术实践",
         "url": "https://www.infoq.cn/article/yB9yJlJADmFBNurNUEaG?utm_source=rss&utm_medium=article",
@@ -1330,51 +1360,11 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3826003757437573",
-        "title": "36氪企业全情报｜更懂股民的舆情数据工具，好用又省心",
-        "url": "https://36kr.com/p/3826003757437573?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-26T10:59:01.000Z",
-        "summary": "炒股的朋友都有同感：现在信息太多太杂，消息慢一步、判断错一步，都可能影响操作。刷新闻、翻研报、逛股吧，花了大把时间，还是抓不住重点、分不清真假，越看越乱。 好消息是 —— 36氪企业全情报小程序新版本正式上线啦 ！这次更新完全站在大家的使用习惯上，把体验和功能都做了优化，帮你少走弯路、少花时间，轻松拿到靠谱情报，不再被信息差牵着走。 点击直达小程序： https://wxaurl.cn/J8iJTlzFWSr 本次更新，4 个超实用亮点",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/4gwxqyrps4rtuimprte7",
         "title": "AWS MCP服务器正式可用，全面适配API并支持IAM权限控制",
         "url": "https://www.infoq.cn/article/4gwXqyRPs4RTUIMpRte7?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-05-26T10:56:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3825969453699970",
-        "title": "机器人启蒙，需要一所能“犯错”的幼儿园",
-        "url": "https://36kr.com/p/3825969453699970?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-26T10:29:09.000Z",
-        "summary": "2024年，强化学习奠基人理查德·萨顿与他的导师安德鲁·巴托共同获得了图灵奖。 这个奖项来得不算早。过去三十年，萨顿的理论支撑了AlphaGo、ChatGPT等系统的进化，但他三十年前写下的理论，直到今天才被具身智能行业真正理解： 智能体要从试错中学习，要从真实经验里进化。 2023年，萨顿参与创办非营利研究机构Openmind。2025年4月，萨顿在联合发表的文章《欢迎来到经验时代（Welcome to the Era of Expe",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/yhd4cguvebwjled2fk96",
-        "title": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
-        "url": "https://www.infoq.cn/article/YHD4cguvebWJled2FK96?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-26T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qdvne5mrkvpkps2jgmx2",
-        "title": "微软将弃用Claude：太贵了还是薅明白了？",
-        "url": "https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-26T08:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1389,26 +1379,6 @@
         "publishedAt": "2026-05-27T10:00:15.000Z",
         "summary": "Alibaba Group Holding’s latest artificial intelligence model has clinched a top-tier spot on a major global coding leaderboard, making the Chinese technology giant the only developer other than Anthropic to break into th",
         "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354938/another-deepseek-moment-huawei-milestone-alters-china-trajectory-chip-race-analysts",
-        "title": "Another ‘DeepSeek moment’? Huawei milestone alters China trajectory in chip race: analysts",
-        "url": "https://www.scmp.com/tech/big-tech/article/3354938/another-deepseek-moment-huawei-milestone-alters-china-trajectory-chip-race-analysts?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-27T03:00:09.000Z",
-        "summary": "Huawei Technologies’ unveiling of a chip architectural workaround to bypass US sanctions marks a major step towards China’s semiconductor self-sufficiency, giving Beijing powerful new leverage in its tech tug of war with",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3354778/alibabas-qwen-catches-sharif-speed-help-forge-pakistan-deal",
-        "title": "Alibaba’s Qwen catches up with ‘Sharif speed’ to help forge Pakistan deal",
-        "url": "https://www.scmp.com/tech/big-tech/article/3354778/alibabas-qwen-catches-sharif-speed-help-forge-pakistan-deal?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-25T11:30:05.000Z",
-        "summary": "On the first leg of his four-day China visit, Pakistan’s prime minister – famed for “Sharif speed”, a term describing his swift execution of development projects – met his match in a leading AI tool. Shehbaz Sharif, keen",
-        "category": "tools",
         "region": "cn_en"
       }
     ]
