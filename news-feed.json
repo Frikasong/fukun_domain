@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T14:44:05.981Z",
+  "generatedAt": "2026-05-29T20:10:23.221Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/ohio&",
+        "title": "Ohio proposes steps to expand law school accreditation beyond ABA",
+        "url": "https://www.abajournal.com/web/article/ohio&#45;proposes&#45;steps&#45;to&#45;expand&#45;law&#45;school&#45;accreditation&#45;beyond&#45;the&#45;aba/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-29T18:47:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/justice&",
+        "title": "Justice Barrett’s home targeted in attempted swatting call",
+        "url": "https://www.abajournal.com/news/article/justice&#45;barretts&#45;home&#45;targeted&#45;in&#45;swatting&#45;call/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-29T15:46:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/texting&",
+        "title": "Texting-and-driving charges dropped against woman without right hand",
+        "url": "https://www.abajournal.com/news/article/texting&#45;and&#45;driving&#45;charges&#45;dropped&#45;against&#45;florida&#45;woman&#45;without&#45;a&#45;right&#45;hand/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-29T15:03:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/fender&",
         "title": "Fender warns guitar makers to stop producing Stratocaster look-a-likes",
@@ -18,12 +48,12 @@
         "region": "na"
       },
       {
-        "id": "OpenAI News:openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-        "title": "Strengthening societal resilience with Rosalind Biodefense",
-        "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+        "id": "OpenAI News:openai.com/index/braintrust",
+        "title": "How Braintrust turns customer requests into code with Codex",
+        "url": "https://openai.com/index/braintrust",
         "source": "OpenAI News",
-        "publishedAt": "2026-05-29T03:00:00.000Z",
-        "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+        "publishedAt": "2026-05-29T12:00:00.000Z",
+        "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
         "category": "updates",
         "region": "na"
       },
@@ -114,36 +144,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-05-28T06:24:28.000Z",
         "summary": "Ahead of the landmark Legal Innovators Europe conference in Paris on June 24 and 25, the event organisers Cosmonauts, and Artificial Lawyer, are holding a ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/chemerinsky&",
-        "title": "Chemerinsky: What to expect from SCOTUS in the coming month",
-        "url": "https://www.abajournal.com/columns/article/chemerinsky&#45;what&#45;to&#45;expect&#45;from&#45;scotus&#45;in&#45;the&#45;coming&#45;month/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-27T20:07:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/ai&",
-        "title": "Artificial intelligence can be used for grading law school exams, but should it be?",
-        "url": "https://www.abajournal.com/web/article/ai&#45;can&#45;be&#45;used&#45;for&#45;grading&#45;law&#45;school&#45;exams&#45;but&#45;should&#45;it&#45;be/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-27T19:08:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ny&",
-        "title": "Lawyer sentenced to year in prison after conviction in $20M bank fraud trial",
-        "url": "https://www.abajournal.com/news/article/ny&#45;lawyer&#45;sentenced&#45;to&#45;a&#45;year&#45;in&#45;prison&#45;after&#45;20m&#45;bank&#45;fraud&#45;trial/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-27T16:15:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1250,26 +1250,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3827323136004992",
-        "title": "半年访谈600+用户、获千万元融资，这名清华毕业生想把脑机“戴”进运动场｜早期项目",
-        "url": "https://36kr.com/p/3827323136004992?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-29T00:30:00.000Z",
-        "summary": "文｜胡香赟 编辑｜海若镜 “运动场景中的脑状态监测，正在成为高水平训练和运动健康管理中的新需求。”创业两年，张昊天这样判断。 张昊天毕业于清华大学，研究生期间开始探索如何将脑机接口技术应用在C端场景。他坦言，自己最初也没想好具体的落地方向，研究过程中，团队陆续接触过一些运动类企业，发现“重视运动表现结果的场景，对大脑状态监测都存在一定需求”。 运动健康类可穿戴设备的需求其实早已得到验证，估值百亿美元、从极客圈火到大众市场的Whoop、O",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3829622140593288",
-        "title": "8点1氪丨Anthropic完成650亿融资，估值9650亿首次反超OpenAI；售卖不合格足银手镯，周六福被罚；黄仁勋加入清华大学，任经管学院顾问",
-        "url": "https://36kr.com/p/3829622140593288?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-29T00:15:27.000Z",
-        "summary": "今日热点导览 盒马APP可下单租地种菜？客服：正在小范围试点 追觅回应“机构报价一天4980元，能与追觅核心高管面对面交流” 京东：未来5年培养10万名工程师 蔚来CEO李斌：原材料价格上涨，整车成本已涨了1万元左右 加密币集体下跌，加密币24小时超16万人爆仓 TOP 3大新闻 Anthropic新一轮融资后估值达9650亿美元，超越OpenAI，预计仍将按原定时间表推进IPO 人工智能公司Anthropic PBC在新一轮融资中募资",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/hxdxrkiglowu0y6fwa96",
         "title": "全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍",
         "url": "https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&utm_medium=article",
@@ -1291,26 +1271,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/markets/article/3355329/hkex-revamps-tech-100-index-hong-kong-benchmark-struggles-keep-pace-ai-rally",
-        "title": "HKEX revamps Tech 100 Index as Hong Kong benchmark struggles to keep pace with AI rally",
-        "url": "https://www.scmp.com/business/markets/article/3355329/hkex-revamps-tech-100-index-hong-kong-benchmark-struggles-keep-pace-ai-rally?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-29T10:37:37.000Z",
-        "summary": "Hong Kong Exchanges and Clearing (HKEX) has overhauled its Tech 100 Index, adding seven technology-focused companies and removing seven others, as Hong Kong’s benchmark providers face growing pressure to reflect the rapi",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3355310/lenovos-status-hang-seng-index-top-performer-2026-validates-ai-push",
-        "title": "Lenovo’s status as Hang Seng Index top performer in 2026 validates AI push",
-        "url": "https://www.scmp.com/business/china-business/article/3355310/lenovos-status-hang-seng-index-top-performer-2026-validates-ai-push?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-29T09:17:16.000Z",
-        "summary": "Lenovo Group has unexpectedly emerged as the best performer on the Hang Seng Index this year after its shares more than doubled, as optimism builds that the Chinese personal computer (PC) maker will become more reliant o",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3355175/why-mulerun-could-be-next-craze-new-alibaba-ai-agent-platform-promises-safer-adoption",
         "title": "Why MuleRun could be the next craze: new Alibaba AI agent platform promises safer adoption",
