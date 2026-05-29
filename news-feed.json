@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T09:38:44.911Z",
+  "generatedAt": "2026-05-29T14:44:05.981Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/fender&",
+        "title": "Fender warns guitar makers to stop producing Stratocaster look-a-likes",
+        "url": "https://www.abajournal.com/news/article/fender&#45;warns&#45;guitar&#45;makers&#45;to&#45;stop&#45;producing&#45;stratocaster&#45;look&#45;a&#45;likes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-05-29T14:40:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+        "title": "Strengthening societal resilience with Rosalind Biodefense",
+        "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-29T03:00:00.000Z",
+        "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/05/florida-supreme-court-tackles-ai-hallucinations-with-new-rule.html",
         "title": "Florida Supreme Court Tackles AI Hallucinations with New Rule Applicable to All State Courts",
@@ -123,16 +143,6 @@
         "url": "https://www.abajournal.com/news/article/ny&#45;lawyer&#45;sentenced&#45;to&#45;a&#45;year&#45;in&#45;prison&#45;after&#45;20m&#45;bank&#45;fraud&#45;trial/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-05-27T16:15:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
-        "title": "Federal judge had in-chambers sex with top police officer, judicial conduct committee concludes",
-        "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;had&#45;sex&#45;in&#45;chambers&#45;with&#45;high&#45;ranking&#45;officer&#45;panel&#45;concludes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-27T15:37:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1196,39 +1206,9 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/8uvgtm994lb7whitmpxv",
-        "title": "OpenShift年入20亿美元、虚拟化业务狂飙417%，市场重构后，红帽靠什么持续领跑？",
-        "url": "https://www.infoq.cn/article/8UVgTm994lb7wHITMpXV?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-29T15:40:58.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/rkzo8wterq0tlxbqp1tr",
-        "title": "半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图",
-        "url": "https://www.infoq.cn/article/rkzo8wTerq0TlxbqP1tR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-29T15:10:02.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/oukcgdohsn6mrctxfakm",
         "title": "把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率",
@@ -1236,6 +1216,16 @@
         "source": "InfoQ China",
         "publishedAt": "2026-05-29T11:18:01.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3830254963517318",
+        "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
+        "url": "https://36kr.com/p/3830254963517318?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-29T11:00:15.000Z",
+        "summary": "36氪获悉，北京穿越者载人航天科技有限公司（以下简称“穿越者”）近日完成Pre-A轮亿元融资，由某头部互联网战投领投，探路者集团等跟投，老股东中天汇富、彬复资本持续加注。光源资本担任本轮独家财务顾问。本轮融资资金将重点用于“穿越者壹号（CYZ1）”载人飞船核心系统研发、地面试验验证及关键技术攻关。 公司方面表示，引入互联网、人工智能、智能制造、户外装备及文旅场景等领域的产业资本，源于商业载人航天在科技、人文、消费与场景协同上的多重需求。",
         "category": "updates",
         "region": "cn"
       },
@@ -1250,12 +1240,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3830122726221698",
-        "title": "智元机器人在惠州成立新公司",
-        "url": "https://36kr.com/newsflashes/3830122726221698?f=rss",
+        "id": "36Kr:36kr.com/p/3830194503526277",
+        "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
+        "url": "https://36kr.com/p/3830194503526277?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-29T08:42:19.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，惠州智元创新科技有限公司成立，法定代表人为邓泰华，注册资本100万人民币，经营范围包括智能机器人的研发、人工智能理论与算法软件开发等。股东信息显示，该公司由智元机器人关联公司智元创新（上海）科技股份有限公司全资持股。",
+        "publishedAt": "2026-05-29T09:57:52.000Z",
+        "summary": "大公司： 上汽通用五菱全球车EKSION在印尼雅加达向首批用户交付 36氪获悉，5月28日，上汽集团迎来全球第一亿辆整车交付，成为我国首家累计产销量突破一亿辆的汽车集团。其中，上汽通用五菱累计贡献超3200万辆。当日，上汽通用五菱全球车EKSION在印尼雅加达向首批用户交付。 特斯拉Optimus专属机器人工厂动工，规划年产能最高可达1000万台 据报道，特斯拉位于得克萨斯州的超级工厂内，专属Optimus人形机器人工厂正式动工建设，规",
         "category": "updates",
         "region": "cn"
       },
@@ -1298,29 +1288,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3828915666441090",
-        "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
-        "url": "https://36kr.com/p/3828915666441090?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-28T12:17:29.000Z",
-        "summary": "封面来源 | 官方供图 5月27日，快手（证券代码：1024.HK）公布了2026年一季度财报。 财报显示，快手在2026年一季度实现营业收入337亿元，同比增长3.4%，符合市场预期；利润方面，同期实现经营利润36亿元，同比减少15.6%；同期经调整净利润录得34亿元，对应的经调整净利率为10%。 运营层面，2026年一季度，快手的用户增长表现不俗，尤其是平均月活跃用户数增长势头强劲。数据显示，季度内快手平均日活跃用户高达4.13亿，",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3828898785858185",
-        "title": "科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵",
-        "url": "https://36kr.com/p/3828898785858185?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-28T11:57:48.000Z",
-        "summary": "5月28日，雷神在北京举办以《聚势共生 智算同行》为主题的AI工作站新品发布会，正式推出覆盖塔式、迷你PC和移动三大类别的AI工作站全场景产品矩阵。这是业内首批完成三大形态全覆盖的AI工作站产品发布，以行业领先的品类矩阵和旗舰级算力水准，重新定义了AI工作站的性能基准。 官方图片 AI 正式迈入智能体时代，行业从文本预测转向自主逻辑思考，未来 AI 算力需求将迎来百倍增长，普及速度持续加快。 发布会上，AMD大中华区销售副总裁晁亚新首先",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/markets/article/3355329/hkex-revamps-tech-100-index-hong-kong-benchmark-struggles-keep-pace-ai-rally",
+        "title": "HKEX revamps Tech 100 Index as Hong Kong benchmark struggles to keep pace with AI rally",
+        "url": "https://www.scmp.com/business/markets/article/3355329/hkex-revamps-tech-100-index-hong-kong-benchmark-struggles-keep-pace-ai-rally?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-29T10:37:37.000Z",
+        "summary": "Hong Kong Exchanges and Clearing (HKEX) has overhauled its Tech 100 Index, adding seven technology-focused companies and removing seven others, as Hong Kong’s benchmark providers face growing pressure to reflect the rapi",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/business/china-business/article/3355310/lenovos-status-hang-seng-index-top-performer-2026-validates-ai-push",
         "title": "Lenovo’s status as Hang Seng Index top performer in 2026 validates AI push",
@@ -1339,16 +1319,6 @@
         "publishedAt": "2026-05-28T13:00:06.000Z",
         "summary": "A new Chinese artificial intelligence agent platform is looking to replicate the “lobster craze” sparked by AI agent tool OpenClaw earlier this year, while avoiding some of the privacy and security risks associated with ",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3355194/chinaamc-launches-low-cost-gold-etf-hong-kong-links-bullion-trading-blockchain",
-        "title": "ChinaAMC launches low-cost gold ETF as Hong Kong links bullion trading with blockchain",
-        "url": "https://www.scmp.com/business/banking-finance/article/3355194/chinaamc-launches-low-cost-gold-etf-hong-kong-links-bullion-trading-blockchain?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-28T12:12:58.000Z",
-        "summary": "China Asset Management (Hong Kong) launched a new gold exchange-traded fund (ETF) on Thursday, giving retail investors low-cost access to physical gold as the city pushes to link traditional financial products with digit",
-        "category": "updates",
         "region": "cn_en"
       },
       {
