@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T20:08:27.694Z",
+  "generatedAt": "2026-05-29T02:31:22.151Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,76 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/yy7b7bqzt7wp4wptw1fa",
+        "title": "美图Roboneo：设计生产场景下多智能体编排工程实践｜AICon上海",
+        "url": "https://www.infoq.cn/article/YY7B7bqzT7Wp4wpTW1Fa?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-29T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3829744162907269",
+        "title": "美联储巴尔金：AI投资正给中性利率带来压力",
+        "url": "https://36kr.com/newsflashes/3829744162907269?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-29T02:17:13.000Z",
+        "summary": "据报道，美联储巴尔金5月28日表示，人工智能领域的投资正对中性利率构成压力。巴尔金称：“一系列与AI相关的因素正显现出通胀压力。围绕这些投资的所有事物，无论是建筑、劳动力还是电工，都是观察通胀压力迹象时需要关注的方面。”（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3829722234086784",
+        "title": "网络安全公司SentinelOne将裁员约8%，加大对AI等领域投资",
+        "url": "https://36kr.com/newsflashes/3829722234086784?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-29T02:00:50.000Z",
+        "summary": "网络安全公司SentinelOne当地时间5月28日宣布将裁员约8%，以加大对人工智能、数据和云计算等增长领域的投资。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3829710858544513",
+        "title": "SpaceX据悉将IPO估值目标下调至至少1.8万亿美元",
+        "url": "https://36kr.com/newsflashes/3829710858544513?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-29T01:43:20.000Z",
+        "summary": "据知情人士透露，SpaceX当前对首次公开募股（IPO）的目标估值至少为1.8万亿美元。上个月有报道称，其目标估值逾2万亿美元。但知情人士透露，这家火箭、数据和人工智能公司在与顾问和投资者磋商后，将目标估值下调。知情人士表示，IPO的发行规模和估值等细节通常会在定价前根据各方反馈调整。据此前报道，SpaceX预计最早将于6月4日正式启动IPO推介，并最早于6月11日定价。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3829677504226440",
+        "title": "中兵红箭：目前金刚石热沉材料的应用只是少数企业样机验证阶段",
+        "url": "https://36kr.com/newsflashes/3829677504226440?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-29T01:09:24.000Z",
+        "summary": "36氪获悉，中兵红箭在互动平台表示，目前金刚石热沉材料在半导体功率器件、Al算力芯片等领域的应用只是少数企业样机验证阶段，受技术成熟度、生产成本等多重因素影响，距市场化批量应用还需要攻克较多技术难关。中南钻石依托HPHT（高温高压）及CVD（化学气象沉积）双技术路线优势，在关键技术攻关及生产成本控制等方面有一定优势。目前，公司正积极围绕有关关键核心技术攻关，与国内科研院所共同开展技术合作，为以后低成本市场化产业布局做技术准备。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3827323136004992",
+        "title": "半年访谈600+用户、获千万元融资，这名清华毕业生想把脑机“戴”进运动场｜早期项目",
+        "url": "https://36kr.com/p/3827323136004992?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-29T00:30:00.000Z",
+        "summary": "文｜胡香赟 编辑｜海若镜 “运动场景中的脑状态监测，正在成为高水平训练和运动健康管理中的新需求。”创业两年，张昊天这样判断。 张昊天毕业于清华大学，研究生期间开始探索如何将脑机接口技术应用在C端场景。他坦言，自己最初也没想好具体的落地方向，研究过程中，团队陆续接触过一些运动类企业，发现“重视运动表现结果的场景，对大脑状态监测都存在一定需求”。 运动健康类可穿戴设备的需求其实早已得到验证，估值百亿美元、从极客圈火到大众市场的Whoop、O",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3829622140593288",
+        "title": "8点1氪丨Anthropic完成650亿融资，估值9650亿首次反超OpenAI；售卖不合格足银手镯，周六福被罚；黄仁勋加入清华大学，任经管学院顾问",
+        "url": "https://36kr.com/p/3829622140593288?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-29T00:15:27.000Z",
+        "summary": "今日热点导览 盒马APP可下单租地种菜？客服：正在小范围试点 追觅回应“机构报价一天4980元，能与追觅核心高管面对面交流” 京东：未来5年培养10万名工程师 蔚来CEO李斌：原材料价格上涨，整车成本已涨了1万元左右 加密币集体下跌，加密币24小时超16万人爆仓 TOP 3大新闻 Anthropic新一轮融资后估值达9650亿美元，超越OpenAI，预计仍将按原定时间表推进IPO 人工智能公司Anthropic PBC在新一轮融资中募资",
+        "category": "articles",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/hxdxrkiglowu0y6fwa96",
         "title": "全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍",
         "url": "https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&utm_medium=article",
@@ -1256,66 +1326,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-28T11:35:17.000Z",
         "summary": "大公司： 格林生物创业板IPO过会 36氪获悉，深交所上市审核委员会召开2026年第27次上市审核委员会审议会议，审议结果显示，格林生物科技股份有限公司首发符合发行条件、上市条件和信息披露要求。 晨光股份：拟以5亿元至10亿元回购股份用于股权激励或员工持股计划 36氪获悉，晨光股份公告，公司拟以自有资金通过集中竞价方式回购股份，回购资金总额不低于5亿元（含），不超过10亿元（含），回购价格不超过35元/股。回购股份将用于股权激励或员工持",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3828875762143874",
-        "title": "同济医院与阿里云达成合作",
-        "url": "https://36kr.com/newsflashes/3828875762143874?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-28T11:33:50.000Z",
-        "summary": "36氪获悉，近日，华中科技大学同济医学院附属同济医院与阿里云智能集团正式签署全面合作协议。双方将围绕脑科学与神经疾病、消化系统肿瘤等重点临床领域，依托阿里云全栈AI技术与千问大模型，共同探索AI驱动的精准诊疗新范式。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3820602297208966",
-        "title": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型",
-        "url": "https://36kr.com/p/3820602297208966?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-28T08:20:12.000Z",
-        "summary": "文｜王欣逸 李嘉星 编辑｜周鑫雨 一家Day 1就在做多模态大模型的公司，无法拒绝参与到具身智能和世界模型热潮之中。 2026年，随着Seedance 2.0、GPT Image 2.0等模型的爆火，多模态能力越来越成为行业内绕不开的关键词。5月19日，智象未来首届开放日上，智象未来给出了他们的判断和回答：“原生多模态是实现AGI的必经之路。” 本场开放日活动主题为“Imaging the World”，不过，对于智象未来而言，「Wor",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3827585618154118",
-        "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
-        "url": "https://36kr.com/p/3827585618154118?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-28T00:35:00.000Z",
-        "summary": "文丨刘士武 封面来源 | Funloom 官网 36氪获悉， AI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。 本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&连尚网络创始人陈大年。本轮融资后，公司估值已达到2亿元，资金将用于产品研发升级和团队扩张。 库兰织梦成立于2023年， 创始人吴同 曾任职Unity，拥有5年游戏行业创业经验，推出《1",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3828191630348934",
-        "title": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
-        "url": "https://36kr.com/p/3828191630348934?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-28T00:00:20.000Z",
-        "summary": "今日热点导览 阿里员工十三薪将并入年终奖 曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方 微信小游戏月活跃用户超过5亿 聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争 SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温 长鑫科技科创板IPO获上市委会议通过 TOP 3大新闻 “高考期间AI工具将禁用”？豆包、元宝等回应 日前，“高考期间AI工具将禁用”的话题引发关注，有不少网友讨论，高考期间AI工具是",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3827658881323649",
-        "title": "腾讯游戏的One More Thing，是AI",
-        "url": "https://36kr.com/p/3827658881323649?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-27T23:00:49.000Z",
-        "summary": "文丨贝果树 编辑丨刘士武 5月27日，2026年腾讯游戏发布会于晚上八点举办。在发布会上，腾讯从制作、发行、投资三个板块带来了42款游戏的新动态，其中包含15款新品，新品的数量相较于2025年发布会的24款有所减少。 来源：2026腾讯游戏发布会 与往届发布会不同的是，此次的发布会上，腾讯在AI游戏应用方面有了更多的输出。在游戏制作板块，腾讯介绍了如《和平精英》中的新AI队友小田、《王者荣耀》中的AI助手灵宝和电竞的AI解说等应用。 当",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zlerjmwuenf4c9ztex8p",
-        "title": "让具身模型学会“先想后做”！星源智推出400万问答对大规模数据集，训练框架决策性能碾压GPT-5",
-        "url": "https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-27T18:00:25.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
