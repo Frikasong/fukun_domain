@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T20:10:23.221Z",
+  "generatedAt": "2026-05-30T02:15:12.920Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -44,16 +44,6 @@
         "source": "ABA Journal",
         "publishedAt": "2026-05-29T14:40:00.000Z",
         "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/braintrust",
-        "title": "How Braintrust turns customer requests into code with Codex",
-        "url": "https://openai.com/index/braintrust",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-29T12:00:00.000Z",
-        "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
         "category": "updates",
         "region": "na"
       },
@@ -1206,9 +1196,79 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/u6lpg0ujcguf1asxrumc",
+        "title": "腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+        "url": "https://www.infoq.cn/article/u6lPG0uJcGuF1aSxrumc?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-30T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3831107976013700",
+        "title": "Meta计划今年下半年售出1000万台可穿戴设备",
+        "url": "https://36kr.com/newsflashes/3831107976013700?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-30T01:57:34.000Z",
+        "summary": "据报道，Meta计划通过推出新品、拓展销售市场等举措在今年下半年售出1000万台可穿戴设备，目标年底实现可穿戴设备月活跃用户达680万人。另外，Meta计划明年启动一款人工智能吊坠的测试工作。（界面新闻）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3831135917107075",
+        "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+        "url": "https://36kr.com/p/3831135917107075?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-30T01:53:46.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，乘物机器人（深圳）有限公司（以下简称“乘物机器人”）近日完成天使轮融资，由中国台湾工业自动化与智能机器人解决方案领域龙头企业和椿科技战略投资，华君资本担任独家财务顾问。 乘物机器人成立于2025年，总部位于深圳，专注工业具身智能技术研发与产品解决方案，具备从软硬件研发、数据采集、模型训练、场景部署与维护的一体化技术能力。 创始人黄金龙技术出身，拥有十余年机器人全栈研发与产业化经验，主导过多类",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3831088984057732",
+        "title": "美股三大股指集体收涨，戴尔大涨近33%创最大单日涨幅",
+        "url": "https://36kr.com/newsflashes/3831088984057732?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-30T01:05:14.000Z",
+        "summary": "36氪获悉，5月29日收盘，美股三大股指集体上涨，道琼斯指数涨0.72%，标普500指数涨0.22%，纳斯达克综合指数涨0.20%。AI服务器制造商涨幅居前，戴尔大涨近33%，创最大单日涨幅；超微电脑涨超11%，慧与科技涨近13%。SaaS板块延续强势表现，ServiceNow涨超14%，赛富时涨超8%，Adobe涨超7%，微软涨超5%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3831073348855433",
+        "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
+        "url": "https://36kr.com/p/3831073348855433?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-30T00:52:20.000Z",
+        "summary": "今日热点导览 黄仁勋披露“赶飞机”细节，特朗普要出发时来电话 国内航线燃油附加费6月5日起首次下调 铁路将实施新规：违规乘车拒不补票将被限制购票 iPhone 17系列中国销量破3000万台，Pro Max版占近一半 SpaceX据悉将IPO估值目标下调至至少1.8万亿美元 TOP3大新闻 泡泡玛特上涨，段永平单日盈利近10亿港币 泡泡玛特迎来强势上涨，5月29日盘中最大涨幅超12%，截至29日记者发稿报收176港元，涨幅达8.98%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3831071878358659",
+        "title": "最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策",
+        "url": "https://36kr.com/p/3831071878358659?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-30T00:48:34.000Z",
+        "summary": "“太空智驾时代将到来，卫星和星座会如同L4级自动驾驶汽车一样，在太空具备自主环境感知、任务规划和机动决策能力。” 5月28日，在上海举行的“好望角科学沙龙”上，中国科学院西安光学精密机械研究所（简称“西安光机所”）副所长邵晓鹏在演讲中提出了这一判断。 西安光机所副所长邵晓鹏在沙龙上演讲 “好望角科学沙龙”是由中科创星发起，中科创星、东壁科技数据、上海市研发公共服务平台管理中心、曲率引擎共同主办的科创融合与跨界交流平台。本期沙龙以“星际智",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/oukcgdohsn6mrctxfakm",
         "title": "把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率",
