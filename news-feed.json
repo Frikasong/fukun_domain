@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T08:18:37.857Z",
+  "generatedAt": "2026-05-30T13:07:10.832Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1215,7 +1215,7 @@
         "url": "https://36kr.com/newsflashes/3831338125076103?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-05-30T06:46:13.000Z",
-        "summary": "哈萨克斯坦总统托卡耶夫29日说，欧亚经济联盟保持良好发展势头，今年联盟内部贸易额预计同比增长6%，将突破1000亿美元。欧亚经济委员会最高理事会会议29日在阿斯塔纳举行，托卡耶夫主持并致辞。他说，为增强联盟内部稳定性，深化经济一体化并提高竞争力，欧亚经济联盟将把加强数字基础一体化、打造数字欧亚交通走廊、实现工农业数字化转型以及大力发展人工智能当作优先发展方向。俄罗斯总统普京说，紧密的欧亚一体化能为每个成员国带来实际利益。欧亚经济联盟正积",
+        "summary": "哈萨克斯坦总统托卡耶夫29日说，欧亚经济联盟保持良好发展势头，今年联盟内部贸易额预计同比增长6%，将突破1000亿美元。欧亚经济委员会最高理事会会议29日在阿斯塔纳举行，托卡耶夫主持并致辞。他说，为增强联盟内部稳定性，深化经济一体化并��高竞争力，欧亚经济联盟将把加强数字基础一体化、打造数字欧亚交通走廊、实现工农业数字化转型以及大力发展人工智能当作优先发展方向。俄罗斯总统普京说，紧密的欧亚一体化能为每个成员国带来实际利益。欧亚经济联盟正",
         "category": "updates",
         "region": "cn"
       },
@@ -1236,16 +1236,6 @@
         "source": "36Kr",
         "publishedAt": "2026-05-30T05:26:49.000Z",
         "summary": "36氪获悉，2026世界智能产业博览会期间，人工智能创新与太空数智设施发展交流会在天开园举行。会上，天津市2025年度人工智能十大应用标杆场景正式发布，涵盖科研、制造、医疗、康养、教育、农业、治理、交通、文旅9大领域，总投资额超6亿元。（天津日报）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3831203586745984",
-        "title": "40余款AI大模型集中亮相2026世界智能产业博览会",
-        "url": "https://36kr.com/newsflashes/3831203586745984?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-30T03:01:49.000Z",
-        "summary": "正在天津举行的2026世界智能产业博览会上，“AI大模型对话”“生成式AI演示”“AI智能体应用”是本届展会上的关注热点。博览会上还展示了语言大模型、视觉大模型、基础科学大模型等40余款大模型，广泛应用在搜索引擎、智能体以及基础科学等领域。与以往不同的是，本届智博会大模型从以前的能力展示真正迈向了产业应用。（央视新闻）",
         "category": "updates",
         "region": "cn"
       },
@@ -1341,6 +1331,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/opinion/world-opinion/article/3355192/writings-wall-bond-market-those-who-can-read-it",
+        "title": "Writing’s on the wall for the bond market – for those who can read it",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3355192/writings-wall-bond-market-those-who-can-read-it?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-30T08:30:05.000Z",
+        "summary": "There is a good deal more to the rapid rise in bond yields around the world, not least in Asia, than meets the eye. It suggests a recognition by financial markets that governments are spending beyond their means, tax rev",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3355175/why-mulerun-could-be-next-craze-new-alibaba-ai-agent-platform-promises-safer-adoption",
         "title": "Why MuleRun could be the next craze: new Alibaba AI agent platform promises safer adoption",
