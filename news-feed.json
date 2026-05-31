@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T19:01:14.200Z",
+  "generatedAt": "2026-05-31T02:41:14.767Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,32 +1210,22 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3831338125076103",
-        "title": "哈总统：欧亚经济联盟内贸易额今年将破千亿美元",
-        "url": "https://36kr.com/newsflashes/3831338125076103?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-30T06:46:13.000Z",
-        "summary": "哈萨克斯坦总统托卡耶夫29日说，欧亚经济联盟保持良好发展势头，今年联盟内部贸易额预计同比增长6%，将突破1000亿美元。欧亚经济委员会最高理事会会议29日在阿斯塔纳举行，托卡耶夫主持并致辞。他说，为增强联盟内部稳定性，深化经济一体化并提高竞争力，欧亚经济联盟将把加强数字基础一体化、打造数字欧亚交通走廊、实现工农业数字化转型以及大力发展人工智能当作优先发展方向。俄罗斯总统普京说，紧密的欧亚一体化能为每个成员国带来实际利益。欧亚经济联盟正积",
+        "id": "InfoQ China:www.infoq.cn/article/gln4vsis105mkmajccjz",
+        "title": "网易智企 IM 研发多智能体中心建设与实践：从单点 Agent 到研发基础设施｜AICon上海",
+        "url": "https://www.infoq.cn/article/GlN4vSis105MkMajCcJz?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-05-31T10:00:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3831356538529409",
-        "title": "海光信息完成阶跃星辰Step 3.7 Flash适配",
-        "url": "https://36kr.com/newsflashes/3831356538529409?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3832525007284097",
+        "title": "小米技术：MiMo-V2.5实现五大核心突破，降价后仍能实现收支平衡",
+        "url": "https://36kr.com/newsflashes/3832525007284097?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-30T05:37:24.000Z",
-        "summary": "36氪获悉，5月29日，阶跃星辰发布Step 3.7 Flash，海光团队依托DTK异构计算平台与全栈软件栈，于发布当天即完成全流程适配与深度调优，实现“发布即适配、适配即高效”。即日起，开发者即可在海光平台上高效运行该模型，快速搭建多模态Agent、智能代码助手和复杂工作流应用，大幅降低接入与编排成本。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3831325232670338",
-        "title": "天津发布2025年度人工智能十大应用标杆场景，总投资超6亿元",
-        "url": "https://36kr.com/newsflashes/3831325232670338?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-30T05:26:49.000Z",
-        "summary": "36氪获悉，2026世界智能产业博览会期间，人工智能创新与太空数智设施发展交流会在天开园举行。会上，天津市2025年度人工智能十大应用标杆场景正式发布，涵盖科研、制造、医疗、康养、教育、农业、治理、交通、文旅9大领域，总投资额超6亿元。（天津日报）",
+        "publishedAt": "2026-05-31T01:26:02.000Z",
+        "summary": "36氪获悉，小米MiMo大模型团队在官方技术博客发布文章，首次完整公开MiMo-V2.5系列大模型API永久降价背后的技术路径。文章称，MiMO-V2.5实现了KVCache双池+SWA-aware前缀树、GCache分布式缓存、KVCache亲和调度、Decode阶段MTP加速、多模态推理优化五大核心突破，降价后仍能维持收支平衡。此外，4月28日推出的“百万亿Token创造者激励计划”，总申请人数超过54万人，累计发放100万亿免费T",
         "category": "updates",
         "region": "cn"
       },
