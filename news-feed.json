@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T02:41:14.767Z",
+  "generatedAt": "2026-05-31T08:35:45.100Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,22 +1210,22 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/gln4vsis105mkmajccjz",
-        "title": "网易智企 IM 研发多智能体中心建设与实践：从单点 Agent 到研发基础设施｜AICon上海",
-        "url": "https://www.infoq.cn/article/GlN4vSis105MkMajCcJz?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-31T10:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3832743456695943",
+        "title": "申万宏源：短期结构分化走向极致，市场再突破仍需蓄力",
+        "url": "https://36kr.com/newsflashes/3832743456695943?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-05-31T07:28:09.000Z",
+        "summary": "36氪获悉，申万宏源发布研究报告称，短期总体市场难有效突破，结构分化行情正走向极致，动量延续的AI算力通胀方向减少，已向PCB细分领域、电容等方向聚焦。中期，继续看好新能源、新能车和出口链的景气验证机会，同时，继续围绕着AI产业链和战略资源做配置。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3832525007284097",
-        "title": "小米技术：MiMo-V2.5实现五大核心突破，降价后仍能实现收支平衡",
-        "url": "https://36kr.com/newsflashes/3832525007284097?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3832585694193541",
+        "title": "软银承诺斥资750亿欧元在法国建设人工智能设施",
+        "url": "https://36kr.com/newsflashes/3832585694193541?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-05-31T01:26:02.000Z",
-        "summary": "36氪获悉，小米MiMo大模型团队在官方技术博客发布文章，首次完整公开MiMo-V2.5系列大模型API永久降价背后的技术路径。文章称，MiMO-V2.5实现了KVCache双池+SWA-aware前缀树、GCache分布式缓存、KVCache亲和调度、Decode阶段MTP加速、多模态推理优化五大核心突破，降价后仍能维持收支平衡。此外，4月28日推出的“百万亿Token创造者激励计划”，总申请人数超过54万人，累计发放100万亿免费T",
+        "publishedAt": "2026-05-31T04:32:41.000Z",
+        "summary": "软银承诺最高投入750亿欧元，在法国打造大型人工智能计算集群网络，该项目将成为欧洲规模最大的数据中心工程。这也是软银在美国以外完成的单笔最大规模人工智能投资。知情人士称，今年4月初法国总统马克龙与孙正义在东京共进晚餐后，双方迅速敲定了此项合作。软银首期将牵头投入450亿欧元，计划到2031年在上法兰西大区建成3.1吉瓦的算力规模，后续还规划新增2吉瓦算力。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1321,6 +1321,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3355418/ai-firm-minimax-prepares-mainland-china-listing-after-shares-surge-hong-kong",
+        "title": "AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong",
+        "url": "https://www.scmp.com/business/china-business/article/3355418/ai-firm-minimax-prepares-mainland-china-listing-after-shares-surge-hong-kong?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-05-31T08:15:23.000Z",
+        "summary": "MiniMax Group, the Chinese artificial intelligence model company, has officially kicked off plans to sell shares in mainland China. This offers onshore investors access to AI players beyond chipmakers and completes a dua",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3355175/why-mulerun-could-be-next-craze-new-alibaba-ai-agent-platform-promises-safer-adoption",
         "title": "Why MuleRun could be the next craze: new Alibaba AI agent platform promises safer adoption",
