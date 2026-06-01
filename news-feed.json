@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T02:50:41.543Z",
+  "generatedAt": "2026-06-01T11:12:07.254Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/01/claude-for-legal-has-over-90-ai-agents",
+        "title": "Claude For Legal Has Over 90 AI Agents",
+        "url": "https://www.artificiallawyer.com/2026/06/01/claude-for-legal-has-over-90-ai-agents/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-01T09:00:18.000Z",
+        "summary": "When Claude for Legal announced its formal launch most of the focus was on the 12 main plugins and the MCP connectors to legal tech ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/01/kirkland-hints-it-could-fine-tune-llms-for-own-legal-ai-model",
+        "title": "Kirkland Hints It Could Fine-Tune LLMs For Own Legal AI Model",
+        "url": "https://www.artificiallawyer.com/2026/06/01/kirkland-hints-it-could-fine-tune-llms-for-own-legal-ai-model/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-01T06:51:43.000Z",
+        "summary": "Kirkland &#38; Ellis’s $500m tech project could involve fine-tuning open source LLMs to create their ‘own’ legal AI model, their hiring binge for innovation roles ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/ohio&",
         "title": "Ohio proposes steps to expand law school accreditation beyond ABA",
@@ -258,16 +278,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/20/harvey-launches-command-center-partners-with-deepjudge",
-        "title": "Harvey Launches Command Center, Partners With DeepJudge",
-        "url": "https://www.artificiallawyer.com/2026/05/20/harvey-launches-command-center-partners-with-deepjudge/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-20T13:30:17.000Z",
-        "summary": "There’s a lot happening at Harvey this week. First, they’ve forged a partnership with genAI KM pioneer DeepJudge (more below), and also have launched Command ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/05/the-claude-pocalypse-bypassed-legal-aid-lawdroids-new-plugin-remedies-that-with-15-targeted-skills.html",
         "title": "The Claude-pocalypse Bypassed Legal Aid; LawDroid&#8217;s New Plugin Remedies That, with 15 Targeted Skills",
         "url": "https://www.lawnext.com/2026/05/the-claude-pocalypse-bypassed-legal-aid-lawdroids-new-plugin-remedies-that-with-15-targeted-skills.html",
@@ -275,16 +285,6 @@
         "publishedAt": "2026-05-20T13:00:57.000Z",
         "summary": "In last week&#8217;s Claude-pocalypse, Anthropic, one of the world&#8217;s leading artificial intelligence companies, released 12 legal-specific plugins for its Claude AI assistant. It was big news, signalling a frontier",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/20/legal-innovators-california-interview-joy-sherrod-intel",
-        "title": "Legal Innovators California Interview: Joy Sherrod, Intel",
-        "url": "https://www.artificiallawyer.com/2026/05/20/legal-innovators-california-interview-joy-sherrod-intel/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-20T11:58:22.000Z",
-        "summary": "Ahead of the Legal Innovators California conference we spoke with Joy Sherrod, Director of Discovery and Associate General Counsel at Intel Corporation, who has spent ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,6 +1210,86 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/lxsdgqh0mhms06wrowht",
+        "title": "智能体把CPU“救”回来了：英特尔押注18A至强6+，288核要接管AI调度战场",
+        "url": "https://www.infoq.cn/article/lxSdgQH0mHms06WrOWhT?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-01T18:03:36.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/owpmvx8stv5ewup49os6",
+        "title": "微软推出 MDASH，用于大规模 AI 漏洞研究",
+        "url": "https://www.infoq.cn/article/oWPMVX8STv5EwuP49oS6?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-01T18:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/i6etw4jyyygiikq9e0s5",
+        "title": "Opus 4.8被曝“蒸馏”中国模型；智谱盘中市值一度超小米；字节向Seed员工开放“豆包股”，正开发定制CPU｜AI周报",
+        "url": "https://www.infoq.cn/article/I6eTw4jyyyGIIKq9E0s5?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-01T16:53:16.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/tqsnb1cfplpmrm7kojas",
+        "title": "OpenJDK 近期新闻：Vector API、紧凑对象头以及 G1GC 成为 JDK 27 的默认垃圾回收器",
+        "url": "https://www.infoq.cn/article/TqSNB1CfplPmRM7kojaS?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-01T13:26:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3826034537223043",
+        "title": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家",
+        "url": "https://36kr.com/p/3826034537223043?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-01T11:06:39.000Z",
+        "summary": "「暗涌Waves」独家获悉，量子计算公司「量坤科技」近日完成数亿元人民币天使轮、天使+轮融资。本轮系列融资由英诺天使基金领投，国汽投资、北工投资、BV百度风投、水木清华校友基金、明势创投等多家机构参与投资。光源资本担任独家财务顾问。 这笔融资背后，是一个逐渐清晰的判断： AI for Science需要量子计算。 AI可以学习规律，但模型能力上限，受制于它所见过世界的“分辨率”。在化学、材料与医药等研发场景中，如果底层数据的精度不够，模",
+        "category": "skills",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3834354415347337",
+        "title": "氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用",
+        "url": "https://36kr.com/p/3834354415347337?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-01T10:56:21.000Z",
+        "summary": "大公司： 中通快递在广州成立新物流公司，注册资本5亿 36氪获悉，天眼查App显示，近日，广州中竞物流有限公司成立，法定代表人为范嘉玮，注册资本5亿人民币，经营范围包括国内货物运输代理、机械设备租赁、计算机系统服务等。股东信息显示，该公司由中通快递股份有限公司全资持股。 OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人 OpenAI CEO山姆·奥特曼在社交平台发布OpenAI Robotics招聘信息，称公司正在寻找杰出的全",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3834491535107973",
+        "title": "豆包6月下旬正式付费，并加速打通抖音电商",
+        "url": "https://36kr.com/newsflashes/3834491535107973?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-01T10:46:29.000Z",
+        "summary": "5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露，豆包预计将在6月下旬正式上线付费内容，并于同期举行的Force大会上更新相关功能。之所以选择这一时间节点，是因为PC端与移动端仍需约一个月时间，完成基础功能与收费体系的适配改造。据36氪了解，若进展顺利，豆包将于三季度进一步结合电商功能更新完善付费场景，并通过补贴为抖音商城",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3834276149356420",
+        "title": "今年盛夏，WAVES之夜会浪的一群年轻人",
+        "url": "https://36kr.com/p/3834276149356420?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-01T10:26:33.000Z",
+        "summary": "一、每一年，我们都在找一个地方，让年轻人在一起 WAVES之夜是WAVES独有的标签。 不是又一个分论坛，不是又一个颁奖礼，不是又一场穿西装坐两小时的行业对话。它是WAVES的\"晚上\"——白天属于议程和逻辑，夜晚属于人和直觉。 2023年，我们把年轻人和创业者拉到了北京金海湖的碧波岛上。那个夜晚，有人在草坪上喝啤酒，有人在帐篷里聊融资条款，有人在露天电影前什么都没想，发了一小时呆。暗涌WAVES后来写了一段话，成了WAVES之夜最好的一",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/te9jmyeshy8qevq2boey",
         "title": "大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
         "url": "https://www.infoq.cn/article/TE9JmYeShY8qevQ2bOEy?utm_source=rss&utm_medium=article",
@@ -1230,42 +1310,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3833859545343618",
-        "title": "8点1氪丨停服三年后，天涯社区正式恢复访问；广东辟谣高考将用AI改卷；MiniMax拟科创板上市",
-        "url": "https://36kr.com/p/3833859545343618?f=rss",
+        "id": "36Kr:36kr.com/p/3834310434875011",
+        "title": "连续完成五源、峰瑞两轮数千万元融资，清华00后团队要解决Token账单焦虑｜智能涌现首发",
+        "url": "https://36kr.com/p/3834310434875011?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-01T00:05:59.000Z",
-        "summary": "今日热点导览 OpenAI称使用AI攻克“80岁”数学难题 亚马逊：关停词元跟踪榜单 马斯克辟谣SpaceX估值下调 三花智控高管“为孩子教育”减持套现超4.3亿 哈根达斯中国被曝将被柠季收购 TOP 3大新闻 天涯社区正式恢复访问 6月1日起，天涯社区正式恢复访问。据“天涯社区”官方微博发布的《关于天涯社区恢复访问进展的情况说明》，自2023年4月1日起，天涯社区因电信IDC欠费而暂停访问。为了确保涉及上亿用户的天涯数据完整存续以及天",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3831135917107075",
-        "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
-        "url": "https://36kr.com/p/3831135917107075?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-30T01:53:46.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，乘物机器人（深圳）有限公司（以下简称“乘物机器人”）近日完成天使轮融资，由中国台湾工业自动化与智能机器人解决方案领域龙头企业和椿科技战略投资，华君资本担任独家财务顾问。 乘物机器人成立于2025年，总部位于深圳，专注工业具身智能技术研发与产品解决方案，具备从软硬件研发、数据采集、模型训练、场景部署与维护的一体化技术能力。 创始人黄金龙技术出身，拥有十余年机器人全栈研发与产业化经验，主导过多类",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3831073348855433",
-        "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
-        "url": "https://36kr.com/p/3831073348855433?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-30T00:52:20.000Z",
-        "summary": "今日热点导览 黄仁勋披露“赶飞机”细节，特朗普要出发时来电话 国内航线燃油附加费6月5日起首次下调 铁路将实施新规：违规乘车拒不补票将被限制购票 iPhone 17系列中国销量破3000万台，Pro Max版占近一半 SpaceX据悉将IPO估值目标下调至至少1.8万亿美元 TOP3大新闻 泡泡玛特上涨，段永平单日盈利近10亿港币 泡泡玛特迎来强势上涨，5月29日盘中最大涨幅超12%，截至29日记者发稿报收176港元，涨幅达8.98%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3831071878358659",
-        "title": "最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策",
-        "url": "https://36kr.com/p/3831071878358659?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-05-30T00:48:34.000Z",
-        "summary": "“太空智驾时代将到来，卫星和星座会如同L4级自动驾驶汽车一样，在太空具备自主环境感知、任务规划和机动决策能力。” 5月28日，在上海举行的“好望角科学沙龙”上，中国科学院西安光学精密机械研究所（简称“西安光机所”）副所长邵晓鹏在演讲中提出了这一判断。 西安光机所副所长邵晓鹏在沙龙上演讲 “好望角科学沙龙”是由中科创星发起，中科创星、东壁科技数据、上海市研发公共服务平台管理中心、曲率引擎共同主办的科创融合与跨界交流平台。本期沙龙以“星际智",
+        "publishedAt": "2026-06-01T07:49:38.000Z",
+        "summary": "文｜王欣逸 编辑｜邓咏仪 万格智元团队有这样一些标签：00后、博士团队、埋头搞技术。 CEO王冠博恰好占全了，他现博士就读于清华大学计算机系，是一位00后连续创业者。 其团队相当年轻，规模约20人，其中近90%的成员为00后，大多数为清华、北大等院校的硕博生，也有来自亚马逊、OpenAI、字节跳动等公司的成员。 《智能涌现》独家获悉， 近日，万格智元连续完成两轮五源资本、峰瑞资本参投的数千万元天使轮及天使+轮融资，源合资本担任独家财务顾",
         "category": "updates",
         "region": "cn"
       },
@@ -1288,27 +1338,17 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hxdxrkiglowu0y6fwa96",
-        "title": "全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍",
-        "url": "https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-05-28T15:27:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-evs/article/3355400/chinese-ev-makers-shift-focus-price-wars-ai-capability-morgan-stanley",
-        "title": "Chinese EV makers shift focus from price wars to AI capability: Morgan Stanley",
-        "url": "https://www.scmp.com/business/china-evs/article/3355400/chinese-ev-makers-shift-focus-price-wars-ai-capability-morgan-stanley?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3355579/akeso-lung-cancer-drug-shines-trials-boosting-hopes-us20b-market",
+        "title": "Akeso lung cancer drug shines in trials, boosting hopes in US$20b market",
+        "url": "https://www.scmp.com/business/china-business/article/3355579/akeso-lung-cancer-drug-shines-trials-boosting-hopes-us20b-market?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-05-31T23:00:08.000Z",
-        "summary": "The focus of competition for Chinese electric vehicles (EVs) is shifting from prices to artificial intelligence capability, as carmakers try to manage weakening demand amid tightened regulations, according to Morgan Stan",
-        "category": "articles",
+        "publishedAt": "2026-06-01T10:49:08.000Z",
+        "summary": "Akeso, whose drug ivonescimab was hailed as biotech’s “DeepSeek moment” amid US competition last year, announced better-than-expected clinical results showing it can treat a type of lung cancer commonly found in smokers,",
+        "category": "updates",
         "region": "cn_en"
       },
       {
