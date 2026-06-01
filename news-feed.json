@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T17:20:54.755Z",
+  "generatedAt": "2026-06-01T21:22:48.228Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch",
+        "title": "Ironclad Founder Jason Boehmig Joins OpenAI For Legal Vertical Launch",
+        "url": "https://www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-01T21:08:17.000Z",
+        "summary": "Jason Boehmig, the founder of CLM pioneer Ironclad, has joined OpenAI to ‘lead product for the legal vertical’. As first revealed by Artificial Lawyer on ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/shooting&",
+        "title": "Guardianship rights may have fueled woman&#8217;s actions for allegedly shooting 2 lawyers outside courthouse",
+        "url": "https://www.abajournal.com/news/article/shooting&#45;outside&#45;north&#45;carolina&#45;courthouse&#45;targets&#45;two&#45;attorneys/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-01T20:16:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/what&",
+        "title": "What the independent accreditation process means for the legal profession—and for the broader ABA",
+        "url": "https://www.abajournal.com/news/article/what&#45;the&#45;independent&#45;accreditation&#45;process&#45;means&#45;for&#45;the&#45;legal&#45;professionand&#45;for&#45;the&#45;broader&#45;aba/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-01T19:25:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/legal&",
         "title": "Legal talent leaving Trump administration in droves",
@@ -113,26 +143,6 @@
         "url": "https://www.abajournal.com/news/article/justice&#45;barretts&#45;home&#45;targeted&#45;in&#45;swatting&#45;call/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-05-29T15:46:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/texting&",
-        "title": "Texting-and-driving charges dropped against woman without right hand",
-        "url": "https://www.abajournal.com/news/article/texting&#45;and&#45;driving&#45;charges&#45;dropped&#45;against&#45;florida&#45;woman&#45;without&#45;a&#45;right&#45;hand/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-29T15:03:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/fender&",
-        "title": "Fender warns guitar makers to stop producing Stratocaster look-a-likes",
-        "url": "https://www.abajournal.com/news/article/fender&#45;warns&#45;guitar&#45;makers&#45;to&#45;stop&#45;producing&#45;stratocaster&#45;look&#45;a&#45;likes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-29T14:40:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -254,16 +264,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-05-21T07:01:05.000Z",
         "summary": "In what is the first spin out in international law firm Osborne Clarke’s history, Justima, a Germany-based regulatory monitoring platform, is forming a separate business. ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/21/walk-through-spotdraft-ai-powered-clm",
-        "title": "Walk Through: SpotDraft &#8211; AI-Powered CLM",
-        "url": "https://www.artificiallawyer.com/2026/05/21/walk-through-spotdraft-ai-powered-clm/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-21T06:47:23.000Z",
-        "summary": "Today’s AL TV Product Walk Through is with SpotDraft, an AI-powered CLM platform. We explore a range of capabilities, from contract data extraction and analysis, ...",
         "category": "tools",
         "region": "na"
       },
