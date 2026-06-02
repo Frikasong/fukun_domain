@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T10:07:32.401Z",
+  "generatedAt": "2026-06-02T16:05:03.771Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,32 +8,42 @@
   "panels": {
     "na": [
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/mcp-the-standard-that-decides-legal-ais-future",
-        "title": "MCP: The Standard that Decides Legal AI&#8217;s Future",
-        "url": "https://www.artificiallawyer.com/2026/06/02/mcp-the-standard-that-decides-legal-ais-future/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-02T08:59:51.000Z",
-        "summary": "By Liam Reid, Senior Product Manager, Legatics. Most law firms now have at least one generative AI tool in production. Many have several. The frontier ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/openai-targets-the-legal-vertical-what-happens-to-legal-tech",
-        "title": "OpenAI Targets the Legal Vertical – What Happens to Legal Tech?",
-        "url": "https://www.artificiallawyer.com/2026/06/02/openai-targets-the-legal-vertical-what-happens-to-legal-tech/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-02T06:45:01.000Z",
-        "summary": "The starting gun has been fired and the legal tech world faces significant change. With the hire of Jason Boehmig, founder of Ironclad, OpenAI is ...",
+        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
+        "title": "Florida AG brings &#8216;first-in-the-nation state-led lawsuit&#8217; against OpenAI and its CEO",
+        "url": "https://www.abajournal.com/news/article/florida&#45;ag&#45;brings&#45;first&#45;in&#45;the&#45;nation&#45;state&#45;led&#45;lawsuit&#45;against&#45;openai&#45;and&#45;its&#45;ceo/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-02T14:59:00.000Z",
+        "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch",
-        "title": "Ironclad Founder Jason Boehmig Joins OpenAI For Legal Vertical Launch",
-        "url": "https://www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-01T21:08:17.000Z",
-        "summary": "Jason Boehmig, the founder of CLM pioneer Ironclad, has joined OpenAI to ‘lead product for the legal vertical’. As first revealed by Artificial Lawyer on ...",
+        "id": "ABA Journal:www.abajournal.com/news/article/lawyers&",
+        "title": "Lawyers plead not guilty in alleged insider trading ring",
+        "url": "https://www.abajournal.com/news/article/lawyers&#45;plead&#45;not&#45;guilty&#45;in&#45;insider&#45;trading&#45;ring/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-02T14:37:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/former&",
+        "title": "Former judge sentenced to 60 days in jail for falsifying records",
+        "url": "https://www.abajournal.com/news/article/former&#45;ohio&#45;judge&#45;sentenced&#45;to&#45;60&#45;days&#45;in&#45;jail&#45;for&#45;falsifying&#45;records/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-02T14:19:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-the-legal-sector.html",
+        "title": "Ironclad Founder Jason Boehmig Joins OpenAI To Develop Products for the Legal Sector",
+        "url": "https://www.lawnext.com/2026/06/ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-the-legal-sector.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-02T12:38:07.000Z",
+        "summary": "The legal industry is turning into a battleground for the two dominant frontier AI companies. Less than a month ago, Anthropic — developer of the Claude AI assistant — took a major step into the legal market, releasing m",
         "category": "tools",
         "region": "na"
       },
@@ -98,76 +108,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
-        "title": "Florida Supreme Court issues new AI rules for lawyers",
-        "url": "https://www.abajournal.com/news/article/florida&#45;supreme&#45;court&#45;issues&#45;new&#45;ai&#45;rules&#45;for&#45;lawyers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-01T14:24:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
-        "title": "Lawyer reprimanded for claiming he had dementia to get excused from case",
-        "url": "https://www.abajournal.com/news/article/lawyer&#45;reprimanded&#45;for&#45;claiming&#45;he&#45;had&#45;dementia&#45;to&#45;get&#45;excused&#45;from&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-01T14:13:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/01/amlaw-200-firm-hanson-bridgett-goes-all-in-with-claude",
-        "title": "AmLaw 200 Firm Hanson Bridgett Goes All-In with Claude",
-        "url": "https://www.artificiallawyer.com/2026/06/01/amlaw-200-firm-hanson-bridgett-goes-all-in-with-claude/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-01T13:48:43.000Z",
-        "summary": "San Francisco-based AmLaw 200 firm, Hanson Bridgett, has announced it has gone all-in with Claude, with the general model &#8211; plus legal add-ons &#8211; adopted ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/01/claude-for-legal-has-over-90-ai-agents",
-        "title": "Claude For Legal Has Over 90 AI Agents",
-        "url": "https://www.artificiallawyer.com/2026/06/01/claude-for-legal-has-over-90-ai-agents/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-01T09:00:18.000Z",
-        "summary": "When Claude for Legal announced its formal launch most of the focus was on the 12 main plugins and the MCP connectors to legal tech ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/01/kirkland-hints-it-could-fine-tune-llms-for-own-legal-ai-model",
-        "title": "Kirkland Hints It Could Fine-Tune LLMs For Own Legal AI Model",
-        "url": "https://www.artificiallawyer.com/2026/06/01/kirkland-hints-it-could-fine-tune-llms-for-own-legal-ai-model/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-01T06:51:43.000Z",
-        "summary": "Kirkland &#38; Ellis’s $500m tech project could involve fine-tuning open source LLMs to create their ‘own’ legal AI model, their hiring binge for innovation roles ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/ohio&",
-        "title": "Ohio proposes steps to expand law school accreditation beyond ABA",
-        "url": "https://www.abajournal.com/web/article/ohio&#45;proposes&#45;steps&#45;to&#45;expand&#45;law&#45;school&#45;accreditation&#45;beyond&#45;the&#45;aba/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-29T18:47:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/justice&",
-        "title": "Justice Barrett’s home targeted in attempted swatting call",
-        "url": "https://www.abajournal.com/news/article/justice&#45;barretts&#45;home&#45;targeted&#45;in&#45;swatting&#45;call/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-05-29T15:46:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/05/florida-supreme-court-tackles-ai-hallucinations-with-new-rule.html",
         "title": "Florida Supreme Court Tackles AI Hallucinations with New Rule Applicable to All State Courts",
         "url": "https://www.lawnext.com/2026/05/florida-supreme-court-tackles-ai-hallucinations-with-new-rule.html",
@@ -185,16 +125,6 @@
         "publishedAt": "2026-05-28T12:41:38.000Z",
         "summary": "For Illinois attorneys who are curious about trying artificial intelligence for contract review, now is their chance to do it for free. The Illinois State Bar Association and the AI contract review platform SimpleDocs sa",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/28/legal-innovators-europe-webinar-implementing-legal-ai",
-        "title": "Legal Innovators Europe Webinar &#8211; Implementing Legal AI",
-        "url": "https://www.artificiallawyer.com/2026/05/28/legal-innovators-europe-webinar-implementing-legal-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-28T06:24:28.000Z",
-        "summary": "Ahead of the landmark Legal Innovators Europe conference in Paris on June 24 and 25, the event organisers Cosmonauts, and Artificial Lawyer, are holding a ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -218,16 +148,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/27/legal-innovators-california-breakfast-june-9",
-        "title": "Legal Innovators California Breakfast – June 9",
-        "url": "https://www.artificiallawyer.com/2026/05/27/legal-innovators-california-breakfast-june-9/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-27T08:36:45.000Z",
-        "summary": "Before Legal Innovators California kicks off on June 10 and 11, we&#8217;re gathering Partners, CTOs, General Counsel, Legal Ops leaders, CIOs, knowledge officers, legal tech ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/05/ahead-of-june-10-shareholder-vote-union-investor-renews-push-for-thomson-reuters-to-assess-human-rights-impact-of-its-products-used-by-ice.html",
         "title": "Ahead of June 10 Shareholder Vote, Union Investor Renews Push for Thomson Reuters to Assess Human Rights Impact of Its Products Used By ICE",
         "url": "https://www.lawnext.com/2026/05/ahead-of-june-10-shareholder-vote-union-investor-renews-push-for-thomson-reuters-to-assess-human-rights-impact-of-its-products-used-by-ice.html",
@@ -245,26 +165,6 @@
         "publishedAt": "2026-05-22T12:56:08.000Z",
         "summary": "iManage used the opening of its annual ConnectLive user conference in Chicago earlier this week to introduce what it describes as the next evolution of its document- and knowledge-management platform, a redesign the comp",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/22/openai-announcement-law-school-crushes-ai-use-legal-innovators",
-        "title": "OpenAI Announcement, Law School Crushes AI Use, Legal Innovators +",
-        "url": "https://www.artificiallawyer.com/2026/05/22/openai-announcement-law-school-crushes-ai-use-legal-innovators/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-22T08:54:47.000Z",
-        "summary": "And another major week in legal AI, just as AL goes on holiday until June 1st. First up, OpenAI Co-founder, Greg Brockman, announced on X ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/21/harvey-announces-contract-intelligence-for-inhouse",
-        "title": "Harvey Announces Contract Intelligence for Inhouse",
-        "url": "https://www.artificiallawyer.com/2026/05/21/harvey-announces-contract-intelligence-for-inhouse/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-21T13:31:21.000Z",
-        "summary": "After yesterday’s double reveal, Harvey is announcing the arrival of Contract Intelligence, which is especially made for inhouse lawyers. It has a waitlist for early ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1158,16 +1058,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/02/the-votes-are-in-here-are-the-15-legal-tech-startups-selected-for-the-2026-startup-alley-at-aba-techshow.html",
-        "title": "The Votes Are In! Here Are the 15 Legal Tech Startups Selected for the 2026 Startup Alley at ABA TECHSHOW",
-        "url": "https://www.lawnext.com/2026/02/the-votes-are-in-here-are-the-15-legal-tech-startups-selected-for-the-2026-startup-alley-at-aba-techshow.html",
-        "source": "LawSites",
-        "publishedAt": "2026-02-16T18:57:02.000Z",
-        "summary": "The results are in! Voting has now closed and your votes have been tallied to pick the 15 legal tech startups that will get to participate as finalists in the 10th-annual Startup Alley at ABA TECHSHOW, March 25-28, 2026,",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1206,15 +1096,35 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/afq4ivzrz7cqr934jfyr",
-        "title": "Token 卖疯了挣的也是小钱，Snowflake 盯上了 AI 时代最贵的资产",
-        "url": "https://www.infoq.cn/article/Afq4IVzRZ7cqr934jFYR?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/50win1cuff0ioqwebzvj",
+        "title": "Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？",
+        "url": "https://www.infoq.cn/article/50wIN1CuFf0ioqwebZvj?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-02T17:14:56.000Z",
+        "publishedAt": "2026-06-02T18:40:19.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1230,26 +1140,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/tqy0ybkqajzk9b6ovfez",
-        "title": "Sarang Kulkarni 谈在生产环境中构建深度研究智能体的经验教训",
-        "url": "https://www.infoq.cn/article/TQY0ybkQAjZK9b6oVfeZ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-02T17:07:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/1xvhpad4se8w1r88aajc",
-        "title": "黄仁勋宣布 Rubin 全面投产，4万名工程师参与构建！史上最强CPU同步亮相",
-        "url": "https://www.infoq.cn/article/1xVhPAd4se8w1r88AaJC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-02T16:51:29.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/nkqxbxubpzgu21avaxor",
         "title": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览",
         "url": "https://www.infoq.cn/article/NkqXbxUbPZgu21AvAxor?utm_source=rss&utm_medium=article",
@@ -1260,12 +1150,22 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3835864864093317",
-        "title": "英特尔在Computex发布多项AI创新成果",
-        "url": "https://36kr.com/newsflashes/3835864864093317?f=rss",
+        "id": "36Kr:36kr.com/p/3834354708031111",
+        "title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度",
+        "url": "https://36kr.com/p/3834354708031111?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-02T10:03:31.000Z",
-        "summary": "36氪获悉，英特尔在Computex 2026发布了一系列全新创新成果，以满足客户从芯片到系统级的AI需求，并提供针对其特定行业挑战量身定制的解决方案，具体包括：全新机架级AI基础设施、全新机架级AI基础设施、英特尔至强6+处理器等。",
+        "publishedAt": "2026-06-02T11:50:30.000Z",
+        "summary": "大公司： 高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜 36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用于新加坡，基于自研空间智能技术，以360°全景视角呈现景点、酒店、街区和餐厅实景，让游客出",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3835957284795526",
+        "title": "北京经开区召开太空算力企业座谈会，研究部署太空算力创新中心建设工作",
+        "url": "https://36kr.com/newsflashes/3835957284795526?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-02T11:37:32.000Z",
+        "summary": "6月1日，北京经济技术开发区工委副书记、管委会主任王磊主持召开太空算力企业座谈会，听取相关企业对北京亦庄打造太空算力产业高地的意见建议，研究部署太空算力创新中心建设工作。与会企业家一致表示，太空算力是商业航天与数字经济融合发展的新赛道，已成为全球科技竞争的新前沿，具有重大战略价值和商业前景。北京经开区近日发起成立北京太空智算研究院，是高水平建设北京太空算力创新中心的重要步骤，是推动太空算力产业从蓝图走向现实的关键落子，企业将积极参与研究",
         "category": "updates",
         "region": "cn"
       },
@@ -1290,62 +1190,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3835830434919552",
-        "title": "联发科承诺扩大招聘，以助力向新的人工智能业务领域推进",
-        "url": "https://36kr.com/newsflashes/3835830434919552?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-02T09:45:30.000Z",
-        "summary": "芯片制造商联发科将扩大招聘，以支持其向新的人工智能业务领域推进。此举呼应了其他科技公司的表态，旨在缓解外界对AI时代岗位流失的担忧。联发科资深副总经理胡俊弘表示，公司对自身增长前景充满信心。他指出，未来几年，联发科新数据中心业务的订单可见度良好。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3835840134116744",
-        "title": "香港证监会敦促持牌机构防范AI驱动的新兴网络威胁",
-        "url": "https://36kr.com/newsflashes/3835840134116744?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-02T09:38:21.000Z",
-        "summary": "36氪获悉，香港证监会发出通函，要求持牌机构加强网络安全措施，以应对由前沿人工智能（artificial intelligence，简称AI）模型驱动的新兴威胁。在今天发出的通函中，香港证监会敦促持牌机构（尤其是网上经纪行和虚拟资产交易平台）实施稳健的措施并适时作出更新，以保护其系统，防止客户机密资料遭到未经授权的接达或披露，以及保障客户资产免被挪用。此外，香港证监会列出持牌机构的网络安全框架内应予检讨及加强的范畴，以确保其适时更新并有",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3835822532769153",
-        "title": "曹操出行在上海成立新科技公司，注册资本5000万",
-        "url": "https://36kr.com/newsflashes/3835822532769153?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-02T09:34:24.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，曹操智行科技（上海）有限公司成立，法定代表人为陈佳，注册资本5000万人民币，经营范围包括人工智能基础软件开发、人工智能应用软件开发、软件开发等，由曹操出行关联公司杭州优行科技有限公司全资持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3835821979333764",
-        "title": "三菱重工与Preferred Networks将合作开发AI技术",
-        "url": "https://36kr.com/newsflashes/3835821979333764?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-02T09:30:46.000Z",
-        "summary": "三菱重工6月2日宣布与日本AI公司Preferred Networks达成商业联盟协议，将共同开发尖端人工智能技术，目标2026财年内达成资本和业务联盟协议。声明称，两家公司将探索联合开发用于关键任务的自主AI驱动型机械和系统，结合三菱重工的硬件、控制和仿真技术，以及Preferred Networks自主研发的AI基础模型、AI芯片和计算基础设施。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3835814792492416",
         "title": "美团在竞争中看清自己",
         "url": "https://36kr.com/p/3835814792492416?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-02T09:20:31.000Z",
         "summary": "作者｜任彩茹 编辑｜乔芊 参与外卖大战的三家公司中，美团最晚发出一季度财报，但给出了最超预期的“减亏”成果。 2026年一季度，美团实现收入910亿元，同比增长5.6%，基本符合预期。亮点在于经营亏损的大幅收窄，由上季度的161亿元减至65亿元，其中最受关注的核心本地商业，经营亏损从上季度的100亿元减少到20亿元，明显好于投行预测的40-45亿元。 业绩提振下，6月2日港股开盘后，美团盘中最高涨幅超9%，截至发稿，报85.25港元/股",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3835811814372738",
-        "title": "13天8板达实智能：不涉及液冷及机器人相关元器件的生产、制造等",
-        "url": "https://36kr.com/newsflashes/3835811814372738?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-02T09:19:01.000Z",
-        "summary": "36氪获悉，达实智能发布异动公告，经核查，公司近期生产经营情况、内外部经营环境未发生且未预计将要发生重大变化。目前市场热议的AIoT、液冷、智能机器人等概念对应的相关业务，尚不足以对公司经营情况构成重大影响。其中，2025年AIoT平台及AI应用签约金额为7,847.14万元，占公司2025年度营业收入比例较小。此外，公司不涉及液冷及机器人相关元器件的生产、制造等。敬请广大投资者理性判断、谨慎投资，注意投资风险。",
         "category": "updates",
         "region": "cn"
       },
@@ -1410,16 +1260,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/tqsnb1cfplpmrm7kojas",
-        "title": "OpenJDK 近期新闻：Vector API、紧凑对象头以及 G1GC 成为 JDK 27 的默认垃圾回收器",
-        "url": "https://www.infoq.cn/article/TqSNB1CfplPmRM7kojaS?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-01T13:26:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3834544830721671",
         "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
         "url": "https://36kr.com/p/3834544830721671?f=rss",
@@ -1428,37 +1268,17 @@
         "summary": "5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。 随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了解，以上只是豆包商业化的预热动",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3826034537223043",
-        "title": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家",
-        "url": "https://36kr.com/p/3826034537223043?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-01T11:06:39.000Z",
-        "summary": "「暗涌Waves」独家获悉，量子计算公司「量坤科技」近日完成数亿元人民币天使轮、天使+轮融资。本轮系列融资由英诺天使基金领投，国汽投资、北工投资、BV百度风投、水木清华校友基金、明势创投等多家机构参与投资。光源资本担任独家财务顾问。 这笔融资背后，是一个逐渐清晰的判断： AI for Science需要量子计算。 AI可以学习规律，但模型能力上限，受制于它所见过世界的“分辨率”。在化学、材料与医药等研发场景中，如果底层数据的精度不够，模",
-        "category": "skills",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3355676/why-hong-kong-now-launch-pad-mainland-chinas-ai-champions",
-        "title": "Why Hong Kong is now the launch pad for mainland China’s AI champions",
-        "url": "https://www.scmp.com/business/china-business/article/3355676/why-hong-kong-now-launch-pad-mainland-chinas-ai-champions?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/business/article/3355713/ai-biotech-and-new-energy-likely-targets-hkic-yuan-fund",
+        "title": "AI, biotech and new energy likely targets of HKIC yuan fund",
+        "url": "https://www.scmp.com/business/article/3355713/ai-biotech-and-new-energy-likely-targets-hkic-yuan-fund?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-06-02T10:00:15.000Z",
-        "summary": "Chinese artificial intelligence companies are upending a decades-old dual-listing practice of selling shares domestically first and then in Hong Kong, as they reverse the sequence to anchor market-based valuations from g",
-        "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3355642/fear-missing-out-why-asia-pacific-firms-pour-money-ai-despite-scant-returns",
-        "title": "Fear of missing out: why Asia-Pacific firms pour money into AI despite scant returns",
-        "url": "https://www.scmp.com/business/banking-finance/article/3355642/fear-missing-out-why-asia-pacific-firms-pour-money-ai-despite-scant-returns?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-02T05:15:29.000Z",
-        "summary": "Enterprises across the Asia-Pacific region are investing heavily in artificial intelligence with limited evaluation of its effectiveness, driven largely by fears of being left behind, according to a survey released on Tu",
-        "category": "articles",
+        "publishedAt": "2026-06-02T10:30:09.000Z",
+        "summary": "The Hong Kong government’s planned offshore yuan-denominated venture capital fund is set to attract investors looking to invest in a wide range of artificial intelligence, biotechnology and new energy firms in the coming",
+        "category": "updates",
         "region": "cn_en"
       },
       {
@@ -1479,16 +1299,6 @@
         "publishedAt": "2026-05-28T13:00:06.000Z",
         "summary": "A new Chinese artificial intelligence agent platform is looking to replicate the “lobster craze” sparked by AI agent tool OpenClaw earlier this year, while avoiding some of the privacy and security risks associated with ",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3355039/alibabas-new-ai-model-scores-higher-openai-google-rivals-coding-ranking",
-        "title": "Alibaba’s new AI model scores higher than OpenAI, Google rivals in coding ranking",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3355039/alibabas-new-ai-model-scores-higher-openai-google-rivals-coding-ranking?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-05-27T10:00:15.000Z",
-        "summary": "Alibaba Group Holding’s latest artificial intelligence model has clinched a top-tier spot on a major global coding leaderboard, making the Chinese technology giant the only developer other than Anthropic to break into th",
-        "category": "updates",
         "region": "cn_en"
       }
     ]
