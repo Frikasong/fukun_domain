@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T02:47:28.069Z",
+  "generatedAt": "2026-06-02T10:07:32.401Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/mcp-the-standard-that-decides-legal-ais-future",
+        "title": "MCP: The Standard that Decides Legal AI&#8217;s Future",
+        "url": "https://www.artificiallawyer.com/2026/06/02/mcp-the-standard-that-decides-legal-ais-future/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-02T08:59:51.000Z",
+        "summary": "By Liam Reid, Senior Product Manager, Legatics. Most law firms now have at least one generative AI tool in production. Many have several. The frontier ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/openai-targets-the-legal-vertical-what-happens-to-legal-tech",
+        "title": "OpenAI Targets the Legal Vertical – What Happens to Legal Tech?",
+        "url": "https://www.artificiallawyer.com/2026/06/02/openai-targets-the-legal-vertical-what-happens-to-legal-tech/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-02T06:45:01.000Z",
+        "summary": "The starting gun has been fired and the legal tech world faces significant change. With the hire of Jason Boehmig, founder of Ironclad, OpenAI is ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch",
         "title": "Ironclad Founder Jason Boehmig Joins OpenAI For Legal Vertical Launch",
@@ -255,16 +275,6 @@
         "publishedAt": "2026-05-21T13:18:36.000Z",
         "summary": "Last week, when Anthropic released its biggest legal push to date — more than 20 MCP connectors, 12 practice-area plugins,a and integrations with Microsoft Word, Outlook, Excel and PowerPoint — much of the coverage focus",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/21/justima-spins-out-of-osborne-clarke",
-        "title": "Justima Spins Out of Osborne Clarke",
-        "url": "https://www.artificiallawyer.com/2026/05/21/justima-spins-out-of-osborne-clarke/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-05-21T07:01:05.000Z",
-        "summary": "In what is the first spin out in international law firm Osborne Clarke’s history, Justima, a Germany-based regulatory monitoring platform, is forming a separate business. ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1196,19 +1206,69 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/afq4ivzrz7cqr934jfyr",
+        "title": "Token 卖疯了挣的也是小钱，Snowflake 盯上了 AI 时代最贵的资产",
+        "url": "https://www.infoq.cn/article/Afq4IVzRZ7cqr934jFYR?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-02T17:14:56.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/dxwdemzrgm23d9y5152j",
+        "title": "不会写代码的“鲸鱼哥”，被 DeepSeek 改写人生 | 专访 Hunter Bown",
+        "url": "https://www.infoq.cn/article/dxWDEmZrgm23D9Y5152j?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-02T17:09:19.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/tqy0ybkqajzk9b6ovfez",
+        "title": "Sarang Kulkarni 谈在生产环境中构建深度研究智能体的经验教训",
+        "url": "https://www.infoq.cn/article/TQY0ybkQAjZK9b6oVfeZ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-02T17:07:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/1xvhpad4se8w1r88aajc",
+        "title": "黄仁勋宣布 Rubin 全面投产，4万名工程师参与构建！史上最强CPU同步亮相",
+        "url": "https://www.infoq.cn/article/1xVhPAd4se8w1r88AaJC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-02T16:51:29.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/nkqxbxubpzgu21avaxor",
+        "title": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览",
+        "url": "https://www.infoq.cn/article/NkqXbxUbPZgu21AvAxor?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-02T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3835864864093317",
+        "title": "英特尔在Computex发布多项AI创新成果",
+        "url": "https://36kr.com/newsflashes/3835864864093317?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-02T10:03:31.000Z",
+        "summary": "36氪获悉，英特尔在Computex 2026发布了一系列全新创新成果，以满足客户从芯片到系统级的AI需求，并提供针对其特定行业挑战量身定制的解决方案，具体包括：全新机架级AI基础设施、全新机架级AI基础设施、英特尔至强6+处理器等。",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/6x2s5ssdadh0reosfgtg",
         "title": "上海人工智能实验室青年科学家何聪辉确认出席AICon上海站，分享面向 Agent 时代的文档解析基础设施演进与实践",
@@ -1226,6 +1286,76 @@
         "source": "InfoQ China",
         "publishedAt": "2026-06-02T09:47:01.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3835830434919552",
+        "title": "联发科承诺扩大招聘，以助力向新的人工智能业务领域推进",
+        "url": "https://36kr.com/newsflashes/3835830434919552?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-02T09:45:30.000Z",
+        "summary": "芯片制造商联发科将扩大招聘，以支持其向新的人工智能业务领域推进。此举呼应了其他科技公司的表态，旨在缓解外界对AI时代岗位流失的担忧。联发科资深副总经理胡俊弘表示，公司对自身增长前景充满信心。他指出，未来几年，联发科新数据中心业务的订单可见度良好。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3835840134116744",
+        "title": "香港证监会敦促持牌机构防范AI驱动的新兴网络威胁",
+        "url": "https://36kr.com/newsflashes/3835840134116744?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-02T09:38:21.000Z",
+        "summary": "36氪获悉，香港证监会发出通函，要求持牌机构加强网络安全措施，以应对由前沿人工智能（artificial intelligence，简称AI）模型驱动的新兴威胁。在今天发出的通函中，香港证监会敦促持牌机构（尤其是网上经纪行和虚拟资产交易平台）实施稳健的措施并适时作出更新，以保护其系统，防止客户机密资料遭到未经授权的接达或披露，以及保障客户资产免被挪用。此外，香港证监会列出持牌机构的网络安全框架内应予检讨及加强的范畴，以确保其适时更新并有",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3835822532769153",
+        "title": "曹操出行在上海成立新科技公司，注册资本5000万",
+        "url": "https://36kr.com/newsflashes/3835822532769153?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-02T09:34:24.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，曹操智行科技（上海）有限公司成立，法定代表人为陈佳，注册资本5000万人民币，经营范围包括人工智能基础软件开发、人工智能应用软件开发、软件开发等，由曹操出行关联公司杭州优行科技有限公司全资持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3835821979333764",
+        "title": "三菱重工与Preferred Networks将合作开发AI技术",
+        "url": "https://36kr.com/newsflashes/3835821979333764?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-02T09:30:46.000Z",
+        "summary": "三菱重工6月2日宣布与日本AI公司Preferred Networks达成商业联盟协议，将共同开发尖端人工智能技术，目标2026财年内达成资本和业务联盟协议。声明称，两家公司将探索联合开发用于关键任务的自主AI驱动型机械和系统，结合三菱重工的硬件、控制和仿真技术，以及Preferred Networks自主研发的AI基础模型、AI芯片和计算基础设施。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3835814792492416",
+        "title": "美团在竞争中看清自己",
+        "url": "https://36kr.com/p/3835814792492416?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-02T09:20:31.000Z",
+        "summary": "作者｜任彩茹 编辑｜乔芊 参与外卖大战的三家公司中，美团最晚发出一季度财报，但给出了最超预期的“减亏”成果。 2026年一季度，美团实现收入910亿元，同比增长5.6%，基本符合预期。亮点在于经营亏损的大幅收窄，由上季度的161亿元减至65亿元，其中最受关注的核心本地商业，经营亏损从上季度的100亿元减少到20亿元，明显好于投行预测的40-45亿元。 业绩提振下，6月2日港股开盘后，美团盘中最高涨幅超9%，截至发稿，报85.25港元/股",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3835811814372738",
+        "title": "13天8板达实智能：不涉及液冷及机器人相关元器件的生产、制造等",
+        "url": "https://36kr.com/newsflashes/3835811814372738?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-02T09:19:01.000Z",
+        "summary": "36氪获悉，达实智能发布异动公告，经核查，公司近期生产经营情况、内外部经营环境未发生且未预计将要发生重大变化。目前市场热议的AIoT、液冷、智能机器人等概念对应的相关业务，尚不足以对公司经营情况构成重大影响。其中，2025年AIoT平台及AI应用签约金额为7,847.14万元，占公司2025年度营业收入比例较小。此外，公司不涉及液冷及机器人相关元器件的生产、制造等。敬请广大投资者理性判断、谨慎投资，注意投资风险。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3835814391100550",
+        "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
+        "url": "https://36kr.com/p/3835814391100550?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-02T09:13:50.000Z",
+        "summary": "文｜肖思佳 编辑｜乔芊 杨轩 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。 随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了",
         "category": "updates",
         "region": "cn"
       },
@@ -1308,49 +1438,29 @@
         "summary": "「暗涌Waves」独家获悉，量子计算公司「量坤科技」近日完成数亿元人民币天使轮、天使+轮融资。本轮系列融资由英诺天使基金领投，国汽投资、北工投资、BV百度风投、水木清华校友基金、明势创投等多家机构参与投资。光源资本担任独家财务顾问。 这笔融资背后，是一个逐渐清晰的判断： AI for Science需要量子计算。 AI可以学习规律，但模型能力上限，受制于它所见过世界的“分辨率”。在化学、材料与医药等研发场景中，如果底层数据的精度不够，模",
         "category": "skills",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3834354415347337",
-        "title": "氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用",
-        "url": "https://36kr.com/p/3834354415347337?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-01T10:56:21.000Z",
-        "summary": "大公司： 中通快递在广州成立新物流公司，注册资本5亿 36氪获悉，天眼查App显示，近日，广州中竞物流有限公司成立，法定代表人为范嘉玮，注册资本5亿人民币，经营范围包括国内货物运输代理、机械设备租赁、计算机系统服务等。股东信息显示，该公司由中通快递股份有限公司全资持股。 OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人 OpenAI CEO山姆·奥特曼在社交平台发布OpenAI Robotics招聘信息，称公司正在寻找杰出的全",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3834276149356420",
-        "title": "今年盛夏，WAVES之夜会浪的一群年轻人",
-        "url": "https://36kr.com/p/3834276149356420?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-01T10:26:33.000Z",
-        "summary": "一、每一年，我们都在找一个地方，让年轻人在一起 WAVES之夜是WAVES独有的标签。 不是又一个分论坛，不是又一个颁奖礼，不是又一场穿西装坐两小时的行业对话。它是WAVES的\"晚上\"——白天属于议程和逻辑，夜晚属于人和直觉。 2023年，我们把年轻人和创业者拉到了北京金海湖的碧波岛上。那个夜晚，有人在草坪上喝啤酒，有人在帐篷里聊融资条款，有人在露天电影前什么都没想，发了一小时呆。暗涌WAVES后来写了一段话，成了WAVES之夜最好的一",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/te9jmyeshy8qevq2boey",
-        "title": "大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
-        "url": "https://www.infoq.cn/article/TE9JmYeShY8qevQ2bOEy?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-01T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/4lvrepvgnc6vuckkvzke",
-        "title": "Anthropic在Code With Claude上发布托管式智能体、主动式工作流与能力曲线",
-        "url": "https://www.infoq.cn/article/4lvrePvgNC6vuCKkvZKe?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-01T09:57:18.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3355676/why-hong-kong-now-launch-pad-mainland-chinas-ai-champions",
+        "title": "Why Hong Kong is now the launch pad for mainland China’s AI champions",
+        "url": "https://www.scmp.com/business/china-business/article/3355676/why-hong-kong-now-launch-pad-mainland-chinas-ai-champions?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-02T10:00:15.000Z",
+        "summary": "Chinese artificial intelligence companies are upending a decades-old dual-listing practice of selling shares domestically first and then in Hong Kong, as they reverse the sequence to anchor market-based valuations from g",
+        "category": "tools",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3355642/fear-missing-out-why-asia-pacific-firms-pour-money-ai-despite-scant-returns",
+        "title": "Fear of missing out: why Asia-Pacific firms pour money into AI despite scant returns",
+        "url": "https://www.scmp.com/business/banking-finance/article/3355642/fear-missing-out-why-asia-pacific-firms-pour-money-ai-despite-scant-returns?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-02T05:15:29.000Z",
+        "summary": "Enterprises across the Asia-Pacific region are investing heavily in artificial intelligence with limited evaluation of its effectiveness, driven largely by fears of being left behind, according to a survey released on Tu",
+        "category": "articles",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/business/china-business/article/3355579/akeso-lung-cancer-drug-shines-trials-boosting-hopes-us20b-market",
         "title": "Akeso lung cancer drug shines in trials, boosting hopes in US$20b market",
