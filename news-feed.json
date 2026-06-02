@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:05:03.771Z",
+  "generatedAt": "2026-06-02T20:36:49.598Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,96 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/what&",
+        "title": "What 75 conversations taught me about networking as an internationally trained lawyer",
+        "url": "https://www.abajournal.com/voice/article/what&#45;75&#45;conversations&#45;taught&#45;me&#45;about&#45;networking&#45;as&#45;an&#45;internationally&#45;trained&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-02T19:52:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/context-is-everything-ceo-neil-araujo-on-imanages-ai-strategy.html",
+        "title": "Context Is Everything: CEO Neil Araujo on iManage&#8217;s AI Strategy",
+        "url": "https://www.lawnext.com/2026/06/context-is-everything-ceo-neil-araujo-on-imanages-ai-strategy.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-02T19:09:07.000Z",
+        "summary": "Neil Araujo, the CEO and cofounder of iManage, was last on this podcast almost exactly two years ago. In the dog years of the legal industry’s AI age, that feels like a long time ago. Our conversation then was about law ",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/touro&",
+        "title": "Touro Law Center will expand to Montana with hybrid program",
+        "url": "https://www.abajournal.com/news/article/touro&#45;law&#45;to&#45;expand&#45;to&#45;montana&#45;with&#45;hybrid&#45;program/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-02T18:42:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/legal&",
+        "title": "Legal tech companies make a play for more sports deals",
+        "url": "https://www.abajournal.com/web/article/legal&#45;tech&#45;companies&#45;make&#45;a&#45;play&#45;for&#45;more&#45;sports&#45;deals/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-02T17:36:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/blake&",
+        "title": "Blake Lively seeks damages, legal fees from Justin Baldoni",
+        "url": "https://www.abajournal.com/news/article/blake&#45;lively&#45;seeks&#45;damages&#45;legal&#45;fees&#45;from&#45;justin&#45;baldoni/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-02T17:17:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/guest-editorial-tell-the-whole-truth-thomson-reuters.html",
+        "title": "Guest Editorial: Tell the Whole Truth, Thomson Reuters",
+        "url": "https://www.lawnext.com/2026/06/guest-editorial-tell-the-whole-truth-thomson-reuters.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-02T17:09:27.000Z",
+        "summary": "(This is a guest editorial by Emma Pullman, head of shareholder engagement and responsible investment at the British Columbia General Employees’ Union (BCGEU) in Canada, a minority shareholder in Thomson Reuters, and Sar",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/universal-migrator-launches-new-website-built-for-migration-experts.html",
+        "title": "Universal Migrator Launches New Website Built for Migration Experts",
+        "url": "https://www.lawnext.com/2026/06/universal-migrator-launches-new-website-built-for-migration-experts.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-02T16:35:39.000Z",
+        "summary": "Universal Migrator has launched a brand-new website designed to make legal data migrations easier to research, explain, plan, and execute. The new site gives migration consultants, IT professionals, legal technology advi",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/join-600-legal-innovators-in-san-francisco-next-week",
+        "title": "Join 600+ Legal Innovators in San Francisco Next Week!",
+        "url": "https://www.artificiallawyer.com/2026/06/02/join-600-legal-innovators-in-san-francisco-next-week/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-02T15:57:14.000Z",
+        "summary": "We already have 600 people attending the landmark Legal Innovators California conference in San Francisco at the CJM on June 10 and 11, but the ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/spellbook-hires-former-shopify-cto",
+        "title": "Spellbook Hires Former Shopify CTO",
+        "url": "https://www.artificiallawyer.com/2026/06/02/spellbook-hires-former-shopify-cto/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-02T15:05:59.000Z",
+        "summary": "Spellbook, the contract AI pioneer for the LLM generation, has hired Jean-Michel Lemieux, who has quite an amazing CV. Past roles include CTO of Shopify ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/florida&",
         "title": "Florida AG brings &#8216;first-in-the-nation state-led lawsuit&#8217; against OpenAI and its CEO",
@@ -38,12 +128,52 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/legora-buys-cadastral-agentic-real-estate-platform",
+        "title": "Legora Buys Cadastral Agentic Real Estate Platform",
+        "url": "https://www.artificiallawyer.com/2026/06/02/legora-buys-cadastral-agentic-real-estate-platform/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-02T13:31:50.000Z",
+        "summary": "In news that (shock&#8230;!) doesn’t directly involve OpenAI, Anthropic, or Microsoft &#8211; Legora has made its fourth purchase of a smaller tech company / team. ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/06/ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-the-legal-sector.html",
         "title": "Ironclad Founder Jason Boehmig Joins OpenAI To Develop Products for the Legal Sector",
         "url": "https://www.lawnext.com/2026/06/ironclad-founder-jason-boehmig-joins-openai-to-develop-products-for-the-legal-sector.html",
         "source": "LawSites",
         "publishedAt": "2026-06-02T12:38:07.000Z",
         "summary": "The legal industry is turning into a battleground for the two dominant frontier AI companies. Less than a month ago, Anthropic — developer of the Claude AI assistant — took a major step into the legal market, releasing m",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/mcp-the-standard-that-decides-legal-ais-future",
+        "title": "MCP: The Standard that Decides Legal AI&#8217;s Future",
+        "url": "https://www.artificiallawyer.com/2026/06/02/mcp-the-standard-that-decides-legal-ais-future/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-02T08:59:51.000Z",
+        "summary": "By Liam Reid, Senior Product Manager, Legatics. Most law firms now have at least one generative AI tool in production. Many have several. The frontier ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/openai-targets-the-legal-vertical-what-happens-to-legal-tech",
+        "title": "OpenAI Targets the Legal Vertical – What Happens to Legal Tech?",
+        "url": "https://www.artificiallawyer.com/2026/06/02/openai-targets-the-legal-vertical-what-happens-to-legal-tech/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-02T06:45:01.000Z",
+        "summary": "The starting gun has been fired and the legal tech world faces significant change. With the hire of Jason Boehmig, founder of Ironclad, OpenAI is ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch",
+        "title": "Ironclad Founder Jason Boehmig Joins OpenAI For Legal Vertical Launch",
+        "url": "https://www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-01T21:08:17.000Z",
+        "summary": "Jason Boehmig, the founder of CLM pioneer Ironclad, has joined OpenAI to ‘lead product for the legal vertical’. As first revealed by Artificial Lawyer on ...",
         "category": "tools",
         "region": "na"
       },
@@ -78,32 +208,32 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/texas&",
-        "title": "No more masks in courtroom, Texas Supreme Court tells judge with autoimmune disorder",
-        "url": "https://www.abajournal.com/news/article/texas&#45;supreme&#45;court&#45;tell&#45;judge&#45;no&#45;more&#45;masks&#45;in&#45;cour/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-01T16:04:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/01/amlaw-200-firm-hanson-bridgett-goes-all-in-with-claude",
+        "title": "AmLaw 200 Firm Hanson Bridgett Goes All-In with Claude",
+        "url": "https://www.artificiallawyer.com/2026/06/01/amlaw-200-firm-hanson-bridgett-goes-all-in-with-claude/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-01T13:48:43.000Z",
+        "summary": "San Francisco-based AmLaw 200 firm, Hanson Bridgett, has announced it has gone all-in with Claude, with the general model &#8211; plus legal add-ons &#8211; adopted ...",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/indiana&",
-        "title": "Mayor went to law school to address attorney shortage in small town",
-        "url": "https://www.abajournal.com/news/article/indiana&#45;mayor&#45;went&#45;to&#45;law&#45;school&#45;to&#45;address&#45;the&#45;attorney&#45;shortage&#45;in&#45;his&#45;small&#45;town/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-01T14:56:00.000Z",
-        "summary": "",
-        "category": "updates",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/01/claude-for-legal-has-over-90-ai-agents",
+        "title": "Claude For Legal Has Over 90 AI Agents",
+        "url": "https://www.artificiallawyer.com/2026/06/01/claude-for-legal-has-over-90-ai-agents/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-01T09:00:18.000Z",
+        "summary": "When Claude for Legal announced its formal launch most of the focus was on the 12 main plugins and the MCP connectors to legal tech ...",
+        "category": "tools",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/columns/article/learning&",
-        "title": "Farming and lawyering have many similarities, BigLaw partner says",
-        "url": "https://www.abajournal.com/columns/article/learning&#45;from&#45;the&#45;land/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-01T14:31:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/01/kirkland-hints-it-could-fine-tune-llms-for-own-legal-ai-model",
+        "title": "Kirkland Hints It Could Fine-Tune LLMs For Own Legal AI Model",
+        "url": "https://www.artificiallawyer.com/2026/06/01/kirkland-hints-it-could-fine-tune-llms-for-own-legal-ai-model/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-01T06:51:43.000Z",
+        "summary": "Kirkland &#38; Ellis’s $500m tech project could involve fine-tuning open source LLMs to create their ‘own’ legal AI model, their hiring binge for innovation roles ...",
         "category": "updates",
         "region": "na"
       },
@@ -125,6 +255,16 @@
         "publishedAt": "2026-05-28T12:41:38.000Z",
         "summary": "For Illinois attorneys who are curious about trying artificial intelligence for contract review, now is their chance to do it for free. The Illinois State Bar Association and the AI contract review platform SimpleDocs sa",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/05/28/legal-innovators-europe-webinar-implementing-legal-ai",
+        "title": "Legal Innovators Europe Webinar &#8211; Implementing Legal AI",
+        "url": "https://www.artificiallawyer.com/2026/05/28/legal-innovators-europe-webinar-implementing-legal-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-05-28T06:24:28.000Z",
+        "summary": "Ahead of the landmark Legal Innovators Europe conference in Paris on June 24 and 25, the event organisers Cosmonauts, and Artificial Lawyer, are holding a ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1028,36 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/02/altaclaro-and-verbit-launch-deposim-an-ai-powered-deposition-simulator-for-litigators.html",
-        "title": "AltaClaro and Verbit Launch DepoSim, an AI-Powered Deposition Simulator for Litigators",
-        "url": "https://www.lawnext.com/2026/02/altaclaro-and-verbit-launch-deposim-an-ai-powered-deposition-simulator-for-litigators.html",
-        "source": "LawSites",
-        "publishedAt": "2026-02-18T14:15:44.000Z",
-        "summary": "AltaClaro, the legal training company that builds simulation-based experiential learning, is today launching DepoSim, an AI-powered deposition simulator developed in partnership with Verbit.ai, the verbal intelligence an",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/02/simpledocs-launches-contract-intelligence-layer-putting-policy-precedent-and-market-data-inside-microsoft-word.html",
-        "title": "SimpleDocs Launches &#8216;Contract Intelligence Layer,&#8217; Putting Policy, Precedent and Market Data Inside Microsoft Word",
-        "url": "https://www.lawnext.com/2026/02/simpledocs-launches-contract-intelligence-layer-putting-policy-precedent-and-market-data-inside-microsoft-word.html",
-        "source": "LawSites",
-        "publishedAt": "2026-02-18T13:30:47.000Z",
-        "summary": "SimpleDocs today announced the launch of what it is calling its Contract Intelligence Layer, an advanced benchmarking feature that integrates a law department&#8217;s internal policies, historical contract precedent and ",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/02/harvey-partners-with-well-harvey-its-namesake-as-brand-spokesperson.html",
-        "title": "Harvey Partners with &#8230; well, Harvey, Its Namesake, As Brand Spokesperson",
-        "url": "https://www.lawnext.com/2026/02/harvey-partners-with-well-harvey-its-namesake-as-brand-spokesperson.html",
-        "source": "LawSites",
-        "publishedAt": "2026-02-17T14:00:20.000Z",
-        "summary": "The legal AI company Harvey said today that it has partnered with Harvey — the original one. The Harvey in question — the non-AI one, that is — is Gabriel Macht, the actor who played the role of lawyer Harvey Specter in ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1094,26 +1204,6 @@
         "source": "OpenAI News",
         "publishedAt": "2024-01-31T08:00:00.000Z",
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
         "category": "articles",
         "region": "na"
       }
@@ -1271,16 +1361,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/article/3355713/ai-biotech-and-new-energy-likely-targets-hkic-yuan-fund",
-        "title": "AI, biotech and new energy likely targets of HKIC yuan fund",
-        "url": "https://www.scmp.com/business/article/3355713/ai-biotech-and-new-energy-likely-targets-hkic-yuan-fund?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-02T10:30:09.000Z",
-        "summary": "The Hong Kong government’s planned offshore yuan-denominated venture capital fund is set to attract investors looking to invest in a wide range of artificial intelligence, biotechnology and new energy firms in the coming",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/business/china-business/article/3355579/akeso-lung-cancer-drug-shines-trials-boosting-hopes-us20b-market",
         "title": "Akeso lung cancer drug shines in trials, boosting hopes in US$20b market",
