@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T10:44:57.781Z",
+  "generatedAt": "2026-06-03T16:20:33.884Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,126 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/law&",
+        "title": "Artificial intelligence is better tutor than law profs, new study finds",
+        "url": "https://www.abajournal.com/news/article/law&#45;profs&#45;find&#45;ai&#45;is&#45;a&#45;better&#45;tutor&#45;than&#45;they&#45;are/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-03T15:58:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/senate&",
+        "title": "Senate confirms Trump judicial pick who was rated ‘not qualified’ by ABA",
+        "url": "https://www.abajournal.com/news/article/senate&#45;confirms&#45;trump&#45;judicial&#45;pick&#45;who&#45;was&#45;rated&#45;not&#45;qualified&#45;by&#45;aba/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-03T14:57:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/senators&",
+        "title": "Senators introduce bill to increase access to federal court records",
+        "url": "https://www.abajournal.com/news/article/senators&#45;trying&#45;to&#45;increase&#45;access&#45;to&#45;federal&#45;court&#45;records/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-03T14:45:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/attacks&",
+        "title": "Attacks on Judges and Judicial Independence: The international dimension",
+        "url": "https://www.abajournal.com/columns/article/attacks&#45;on&#45;judges&#45;and&#45;judicial&#45;independence&#45;the&#45;international&#45;dimension/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-03T14:21:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/alix&",
+        "title": "Alix Rogers builds pathways to rural practice in Tennessee",
+        "url": "https://www.abajournal.com/web/article/alix&#45;rogers&#45;builds&#45;pathways&#45;to&#45;rural&#45;practice&#45;in&#45;tennessee/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-03T14:20:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/lawgeex-founders-launch-superlegal-newmod-firm",
+        "title": "LawGeex Founders Launch Superlegal NewMod Firm",
+        "url": "https://www.artificiallawyer.com/2026/06/03/lawgeex-founders-launch-superlegal-newmod-firm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-03T14:08:55.000Z",
+        "summary": "Noory Bechor, the Israel-based legal AI pioneer who co-founded LawGeex – but later saw the company broken up and sold off – has now launched ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/consulting-firm-harbor-acquires-ce-global-partners-expanding-its-hr-and-payroll-advisory-capabilities.html",
+        "title": "Consulting Firm Harbor Acquires CE Global Partners, Expanding Its HR and Payroll Advisory Capabilities",
+        "url": "https://www.lawnext.com/2026/06/consulting-firm-harbor-acquires-ce-global-partners-expanding-its-hr-and-payroll-advisory-capabilities.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-03T13:00:57.000Z",
+        "summary": "Harbor, a global professional and technology services firm focused on the legal industry, has acquired CE Global Partners, a specialist in HR transformation, payroll transformation, and people-process change, it announce",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/foundation-365-literas-ai-powered-crm-platform-for-law-firms-is-now-available-within-microsoft-365.html",
+        "title": "Foundation 365, Litera&#8217;s AI-Powered CRM Platform for Law Firms, Is Now Available within Microsoft 365",
+        "url": "https://www.lawnext.com/2026/06/foundation-365-literas-ai-powered-crm-platform-for-law-firms-is-now-available-within-microsoft-365.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-03T12:03:16.000Z",
+        "summary": "Foundation 365, Litera&#8217;s AI-powered CRM platform for law firms, is now available across Microsoft 365, including Outlook, Teams and Microsoft 365 Copilot, the company said today. Built on Microsoft Dynamics 365, Fo",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/wordsmith-raises-70m-series-b",
+        "title": "Wordsmith Raises $70m Series B",
+        "url": "https://www.artificiallawyer.com/2026/06/03/wordsmith-raises-70m-series-b/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-03T09:47:05.000Z",
+        "summary": "Breaking News: Wordsmith AI has announced a $70 million Series B funding round with investment from Highland Europe and Index Ventures among others. Wordsmith will ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/legal-ai-has-a-growing-token-price-problem",
+        "title": "Legal AI Has A Growing Token Price Problem",
+        "url": "https://www.artificiallawyer.com/2026/06/03/legal-ai-has-a-growing-token-price-problem/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-03T09:13:48.000Z",
+        "summary": "If legal AI tools are the vehicles our work is now transported by, then tokens are the oil that drives it all. And that’s an ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/agents-knowledge-graphs-with-netdocuments-dan-hauck",
+        "title": "Agents + Knowledge Graphs with NetDocuments&#8217; Dan Hauck",
+        "url": "https://www.artificiallawyer.com/2026/06/03/agents-knowledge-graphs-with-netdocuments-dan-hauck/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-03T07:35:38.000Z",
+        "summary": "In this AL TV Interview with NetDocuments&#8217; CPO Dan Hauck we talk about agents, KM and knowledge graphs. The central point here is that to ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/in-ctos-we-trust-legal-ais-challenge-is-confidence-at-scale",
+        "title": "In CTOs We Trust: Legal AI’s Challenge is Confidence at Scale",
+        "url": "https://www.artificiallawyer.com/2026/06/03/in-ctos-we-trust-legal-ais-challenge-is-confidence-at-scale/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-03T06:40:56.000Z",
+        "summary": "By Karen Waldron, LexisNexis. The legal profession is built on trust, which creates a very specific challenge for AI. Even the most advanced technology will ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/voice/article/what&",
         "title": "What 75 conversations taught me about networking as an internationally trained lawyer",
@@ -78,6 +198,26 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/join-600-legal-innovators-in-san-francisco-next-week",
+        "title": "Join 600+ Legal Innovators in San Francisco Next Week!",
+        "url": "https://www.artificiallawyer.com/2026/06/02/join-600-legal-innovators-in-san-francisco-next-week/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-02T15:57:14.000Z",
+        "summary": "We already have 600 people attending the landmark Legal Innovators California conference in San Francisco at the CJM on June 10 and 11, but the ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/spellbook-hires-former-shopify-cto",
+        "title": "Spellbook Hires Former Shopify CTO",
+        "url": "https://www.artificiallawyer.com/2026/06/02/spellbook-hires-former-shopify-cto/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-02T15:05:59.000Z",
+        "summary": "Spellbook, the contract AI pioneer for the LLM generation, has hired Jean-Michel Lemieux, who has quite an amazing CV. Past roles include CTO of Shopify ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "ABA Journal:www.abajournal.com/news/article/florida&",
         "title": "Florida AG brings &#8216;first-in-the-nation state-led lawsuit&#8217; against OpenAI and its CEO",
         "url": "https://www.abajournal.com/news/article/florida&#45;ag&#45;brings&#45;first&#45;in&#45;the&#45;nation&#45;state&#45;led&#45;lawsuit&#45;against&#45;openai&#45;and&#45;its&#45;ceo/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -88,23 +228,13 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/lawyers&",
-        "title": "Lawyers plead not guilty in alleged insider trading ring",
-        "url": "https://www.abajournal.com/news/article/lawyers&#45;plead&#45;not&#45;guilty&#45;in&#45;insider&#45;trading&#45;ring/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-02T14:37:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former judge sentenced to 60 days in jail for falsifying records",
-        "url": "https://www.abajournal.com/news/article/former&#45;ohio&#45;judge&#45;sentenced&#45;to&#45;60&#45;days&#45;in&#45;jail&#45;for&#45;falsifying&#45;records/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-02T14:19:00.000Z",
-        "summary": "",
-        "category": "updates",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/legora-buys-cadastral-agentic-real-estate-platform",
+        "title": "Legora Buys Cadastral Agentic Real Estate Platform",
+        "url": "https://www.artificiallawyer.com/2026/06/02/legora-buys-cadastral-agentic-real-estate-platform/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-02T13:31:50.000Z",
+        "summary": "In news that (shock&#8230;!) doesn’t directly involve OpenAI, Anthropic, or Microsoft &#8211; Legora has made its fourth purchase of a smaller tech company / team. ...",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -118,32 +248,22 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/shooting&",
-        "title": "Guardianship rights may have fueled woman&#8217;s actions for allegedly shooting 2 lawyers outside courthouse",
-        "url": "https://www.abajournal.com/news/article/shooting&#45;outside&#45;north&#45;carolina&#45;courthouse&#45;targets&#45;two&#45;attorneys/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-01T20:16:00.000Z",
-        "summary": "",
-        "category": "updates",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/mcp-the-standard-that-decides-legal-ais-future",
+        "title": "MCP: The Standard that Decides Legal AI&#8217;s Future",
+        "url": "https://www.artificiallawyer.com/2026/06/02/mcp-the-standard-that-decides-legal-ais-future/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-02T08:59:51.000Z",
+        "summary": "By Liam Reid, Senior Product Manager, Legatics. Most law firms now have at least one generative AI tool in production. Many have several. The frontier ...",
+        "category": "tools",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/what&",
-        "title": "What the independent accreditation process means for the legal profession—and for the broader ABA",
-        "url": "https://www.abajournal.com/news/article/what&#45;the&#45;independent&#45;accreditation&#45;process&#45;means&#45;for&#45;the&#45;legal&#45;professionand&#45;for&#45;the&#45;broader&#45;aba/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-01T19:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/legal&",
-        "title": "Legal talent leaving Trump administration in droves",
-        "url": "https://www.abajournal.com/news/article/legal&#45;talent&#45;leaving&#45;trump&#45;administration&#45;in&#45;droves/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-01T16:18:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/openai-targets-the-legal-vertical-what-happens-to-legal-tech",
+        "title": "OpenAI Targets the Legal Vertical – What Happens to Legal Tech?",
+        "url": "https://www.artificiallawyer.com/2026/06/02/openai-targets-the-legal-vertical-what-happens-to-legal-tech/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-02T06:45:01.000Z",
+        "summary": "The starting gun has been fired and the legal tech world faces significant change. With the hire of Jason Boehmig, founder of Ironclad, OpenAI is ...",
         "category": "updates",
         "region": "na"
       },
@@ -1048,26 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/02/lawnext-on-location-lunch-with-alex-su-of-latitude-legal-in-alameda-calif.html",
-        "title": "LawNext on Location: Lunch with Alex Su of Latitude Legal In Alameda, Calif.",
-        "url": "https://www.lawnext.com/2026/02/lawnext-on-location-lunch-with-alex-su-of-latitude-legal-in-alameda-calif.html",
-        "source": "LawSites",
-        "publishedAt": "2026-02-18T17:56:08.000Z",
-        "summary": "While I am visiting San Francisco for two weeks, I am sitting down for conversations with legal tech innovators and entrepreneurs “in their natural habitats” – places in the Bay Area they consider special. Today, in the ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/02/universal-migrator-reduces-pricing-on-migration-tools-for-imanage-sharepoint-and-netdocuments.html",
-        "title": "Universal Migrator Reduces Pricing on Migration Tools for iManage, SharePoint, and NetDocuments",
-        "url": "https://www.lawnext.com/2026/02/universal-migrator-reduces-pricing-on-migration-tools-for-imanage-sharepoint-and-netdocuments.html",
-        "source": "LawSites",
-        "publishedAt": "2026-02-18T14:28:24.000Z",
-        "summary": "Universal Migrator today announced reduced pricing for access to its migration script library covering iManage, Microsoft SharePoint, and NetDocuments, lowering the cost barrier for legal technology consultants performin",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1106,75 +1206,15 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/o8xvqlsgz7oexq7i9w3f",
-        "title": "AI辅助迁移工具：数分钟完成ingress-nginx向Higress迁移",
-        "url": "https://www.infoq.cn/article/O8xvQlsgZ7OExQ7I9w3f?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-03T18:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/gdzxtoelatvox4hicpc6",
-        "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
-        "url": "https://www.infoq.cn/article/GdZXtOelATVOX4HIcPc6?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-03T17:33:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fpby2dk3y9zic48ijexd",
-        "title": "10年未发1.0、全面禁止 AI 编程：Zig创始人的“反商业”生存法则",
-        "url": "https://www.infoq.cn/article/FPBy2dk3Y9ZIC48iJexD?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-03T17:26:12.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/ziu2rr7q1ldqcvd0gtqh",
         "title": "Anthropic冲刺IPO：Claude一个月烧掉客户5亿美元，却成了上市前最强广告",
         "url": "https://www.infoq.cn/article/ZIU2RR7Q1ldqCvD0gTQH?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-06-03T17:17:04.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/rcdbal3vhkndqvpevprd",
-        "title": "Codex新升级：彻底打通Windows生态！手机也能远程跑开发任务，效率拉满",
-        "url": "https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-03T16:33:15.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1190,12 +1230,32 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/sj1huamvjf0iiducluxc",
-        "title": "4年烧掉90亿，人均95后的MiniMax再冲A股！",
-        "url": "https://www.infoq.cn/article/Sj1hUamVJF0iIDuclUXC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-03T16:26:09.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/p/3837330582008963",
+        "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
+        "url": "https://36kr.com/p/3837330582008963?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-03T15:01:21.000Z",
+        "summary": "大公司： 瑞典AI初创公司Lovable与Google Cloud扩大多年期合作 据报道，瑞典AI初创公司Lovable扩大了与Google Cloud的多年期合作，以整合Gemini模型和AI优化基础设施，从而向全球用户扩展其AI驱动的软件开发服务。（界面） 美银：英伟达2027财年下半年Vera CPU销售额有望达200亿美元 美银分析师Vivek Arya团队更新了英伟达研报。该机构测算2027财年下半年Vera CPU销售额有望",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3837454258391555",
+        "title": "Kimi发布桌面端产品Kimi Work，定位通用型本地Agent",
+        "url": "https://36kr.com/newsflashes/3837454258391555?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-03T13:00:20.000Z",
+        "summary": "36氪获悉，今日，Kimi发布桌面端产品Kimi Work，是一款面向知识工作者的通用型本地Agent，可以在电脑上拆解任务、调用工具、使用浏览器、创建和整理文件夹，并完成文档、表格、PPT等工作产物的交付。Kimi Work由Kimi Code深度参与开发，支持13小时连续编码、300个子Agent并行协作及4000余次自主工具调用。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3837447480641801",
+        "title": "罗曼股份：拟定增募资不超2.93亿元，用于智能算力集群建设及运营项目",
+        "url": "https://36kr.com/newsflashes/3837447480641801?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-03T12:53:26.000Z",
+        "summary": "36氪获悉，罗曼股份公告，公司拟以简易程序向不超过35名特定投资者发行股票，发行数量不超过本次发行前公司总股本的30%，募集资金总额不超过2.93亿元。扣除发行费用后的募集资金净额将用于智能算力集群建设及运营项目。",
         "category": "updates",
         "region": "cn"
       },
@@ -1210,22 +1270,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3837318784234885",
-        "title": "晶盛机电：改变部分募集资金用途，投资半导体装备精密零部件智能化生产项目等新项目",
-        "url": "https://36kr.com/newsflashes/3837318784234885?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3837369693341961",
+        "title": "Gartner：到2026年，75%的新增风险投资将流向AI原生公司",
+        "url": "https://36kr.com/newsflashes/3837369693341961?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-03T10:42:31.000Z",
-        "summary": "36氪获悉，晶盛机电公告，公司董事会同意将“12英寸集成电路大硅片设备测试实验线项目”募集资金投资总额调整为1.78亿元，并将剩余募集资金及已终止项目剩余募集资金合计8.61亿元（含利息及理财收益）投资于新项目“半导体装备精密零部件智能化生产项目”和“高端半导体设备碳化硅零部件产业化项目”。该事项尚需提交股东会审议。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3837310670451840",
-        "title": "阶跃星辰接连增资",
-        "url": "https://36kr.com/newsflashes/3837310670451840?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-03T10:34:16.000Z",
-        "summary": "36氪获悉天眼查App显示，近日，上海阶跃星辰智能科技股份有限公司发生工商变更，注册资本由约6052万人民币增至约6362万人民币。该公司成立于2023年4月，法定代表人为印奇，经营范围包括人工智能行业应用系统集成服务、人工智能应用软件开发、信息系统集成服务等。值得一提的是，该公司曾接连增资。",
+        "publishedAt": "2026-06-03T11:34:18.000Z",
+        "summary": "36氪获悉，近日，Gartner 2026大中华区科技行业高管交流大会在上海举办。会上，Gartner研究副总裁孙志勇发表《不可不知的中国五大科技与创新趋势》演讲，提出AI原生、智能体驱动的新生态、智能体产出即服务、AI隐私计算、具身智能五大趋势。Gartner预测，到2026年，75%的新增风险投资将流向AI原生公司。",
         "category": "updates",
         "region": "cn"
       },
@@ -1295,7 +1345,7 @@
         "url": "https://36kr.com/p/3834354708031111?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-02T11:50:30.000Z",
-        "summary": "大公司： 高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜 36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用于新加坡，基于自研空间智能技术，以360°全景视角呈现景点、酒店、街区和餐厅实景，让游客出",
+        "summary": "大公司： 高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜 36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游��共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用于新加坡，基于自研空间智能技术，以360°全景视角呈现景点、酒店、街区和餐厅实景，让游客",
         "category": "updates",
         "region": "cn"
       },
@@ -1316,16 +1366,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-02T09:13:50.000Z",
         "summary": "文｜肖思佳 编辑｜乔芊 杨轩 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。 随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3835387558065541",
-        "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
-        "url": "https://36kr.com/p/3835387558065541?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-02T02:00:58.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，近日，居家养老消费电子品牌「元生智能」完成新一轮超千万元Pre-A轮融资。本轮融资由银创资本领投，东科创跟投。本轮资金将主要用于渠道拓展以及相关新产品的持续迭代。 元生智能是硬氪长期关注的企业，成立于2022年，主要为65岁以上空巢、独居老人提供居家看护产品。公司创始人、CEO邓龙生曾任小天才学习平板产品负责人、星火教育合伙人；联合创始人房少杰同样来自小天才，曾任小天才电话手表及火火兔产品负",
         "category": "updates",
         "region": "cn"
       }
