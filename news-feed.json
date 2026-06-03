@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T16:20:33.884Z",
+  "generatedAt": "2026-06-03T20:48:10.135Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/more&",
+        "title": "More top partners are earning over $40M, including bonuses",
+        "url": "https://www.abajournal.com/news/article/more&#45;top&#45;partners&#45;earn&#45;over&#45;40m&#45;including&#45;bonuses/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-03T18:45:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/law&",
         "title": "Artificial intelligence is better tutor than law profs, new study finds",
@@ -65,6 +75,16 @@
         "publishedAt": "2026-06-03T14:08:55.000Z",
         "summary": "Noory Bechor, the Israel-based legal AI pioneer who co-founded LawGeex – but later saw the company broken up and sold off – has now launched ...",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+        "title": "Introducing new capabilities to GPT-Rosalind",
+        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+        "source": "OpenAI News",
+        "publishedAt": "2026-06-03T13:15:00.000Z",
+        "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+        "category": "articles",
         "region": "na"
       },
       {
@@ -214,16 +234,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-02T15:05:59.000Z",
         "summary": "Spellbook, the contract AI pioneer for the LLM generation, has hired Jean-Michel Lemieux, who has quite an amazing CV. Past roles include CTO of Shopify ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
-        "title": "Florida AG brings &#8216;first-in-the-nation state-led lawsuit&#8217; against OpenAI and its CEO",
-        "url": "https://www.abajournal.com/news/article/florida&#45;ag&#45;brings&#45;first&#45;in&#45;the&#45;nation&#45;state&#45;led&#45;lawsuit&#45;against&#45;openai&#45;and&#45;its&#45;ceo/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-02T14:59:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1196,16 +1206,6 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
@@ -1345,7 +1345,7 @@
         "url": "https://36kr.com/p/3834354708031111?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-02T11:50:30.000Z",
-        "summary": "大公司： 高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜 36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游��共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用于新加坡，基于自研空间智能技术，以360°全景视角呈现景点、酒店、街区和餐厅实景，让游客",
+        "summary": "大公司： 高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜 36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用于新加坡，基于自研空间智能技术，以360°全景视角呈现景点、酒店、街区和餐厅实景，让游客出",
         "category": "updates",
         "region": "cn"
       },
