@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T20:36:49.598Z",
+  "generatedAt": "2026-06-03T02:56:08.014Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,86 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/xyr1xqyy8fhatw97mdg9",
+        "title": "一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜",
+        "url": "https://www.infoq.cn/article/xYR1xqyy8fhAtW97MdG9?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-03T10:14:12.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/o8yskfi4cb2msdcz2pz1",
+        "title": "高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+        "url": "https://www.infoq.cn/article/o8yskfI4cb2msdcz2Pz1?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-03T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ffagof6sydfi7ljjkubx",
+        "title": "Cloudflare 新增对 Claude 托管代理的支持",
+        "url": "https://www.infoq.cn/article/fFAGOf6SYDfi7Ljjkubx?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-03T09:16:30.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3836820673574024",
+        "title": "微信将推出一款AI智能体？腾讯人士回应",
+        "url": "https://36kr.com/newsflashes/3836820673574024?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-03T02:15:49.000Z",
+        "summary": "昨日，媒体报道称，微信将推出一款AI（人工智能）智能体，计划最快将于本月启动公开上线前所需的合规审批流程。腾讯人士表示，目前无法确定微信AI智能体何时推出，其上线时间很大程度上取决于监管方对智能体的审批进度，微信14亿的用户体量，合规流程可能比其他产品更加严格。关于微信智能体，腾讯相关负责人表示暂无回应。（财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3836068296209537",
+        "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+        "url": "https://36kr.com/p/3836068296209537?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-03T01:30:00.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。 目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。 商业化方面，星尘智能还同步拿下",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3836744788014208",
+        "title": "36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑",
+        "url": "https://36kr.com/p/3836744788014208?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-03T01:10:00.000Z",
+        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。 旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学百人",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3836755069170824",
+        "title": "AI热刺激芯片设备陶瓷需求，日本卫浴制造商东陶加码进军半导体材料业",
+        "url": "https://36kr.com/newsflashes/3836755069170824?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-03T01:09:05.000Z",
+        "summary": "日本卫浴制造商东陶预计，未来几年其芯片相关业务支出将占公司总资本支出的一半以上，以借助人工智能热潮开辟新的增长空间。这家生产加热马桶座圈和智能马桶盖的公司，正受益于芯片设备制造商需求的意外激增。后者寻求东陶在陶瓷材料方面的专长，这些材料被设计用于抵御灰尘颗粒、腐蚀性物质和高温。全球AI投资热潮正带动东陶静电吸盘以及其他芯片制造材料的销售增长。静电吸盘用于在芯片制造过程中固定硅晶圆。在截至今年3月的财年中，东陶半导体相关产品支出占资本开支",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3836703946257542",
+        "title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈",
+        "url": "https://36kr.com/p/3836703946257542?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-03T00:21:18.000Z",
+        "summary": "今日热点导览 豆包付费或专注复杂任务， 定价锚定ChatGPT 英伟达CEO黄仁勋：Vera CPU将比GPU更受欢迎，将成为公司新的主要增长动力 中国内地航线燃油附加费将下调 标签上存在拼写错误，瑞幸客服称遇到“HeeloKitty”可退款 马尔代夫将限制16岁以下青少年访问部分社媒平台 TOP 3大新闻 腾讯股价暴涨：创2021年1月以来单日最高涨幅纪录 6月2日午后，香港恒生科技指数一度涨超4%。恒生科技指数成分股中，美团、腾讯控",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/50win1cuff0ioqwebzvj",
         "title": "Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？",
         "url": "https://www.infoq.cn/article/50wIN1CuFf0ioqwebZvj?utm_source=rss&utm_medium=article",
@@ -1246,16 +1326,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-02T11:50:30.000Z",
         "summary": "大公司： 高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜 36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用于新加坡，基于自研空间智能技术，以360°全景视角呈现景点、酒店、街区和餐厅实景，让游客出",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3835957284795526",
-        "title": "北京经开区召开太空算力企业座谈会，研究部署太空算力创新中心建设工作",
-        "url": "https://36kr.com/newsflashes/3835957284795526?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-02T11:37:32.000Z",
-        "summary": "6月1日，北京经济技术开发区工委副书记、管委会主任王磊主持召开太空算力企业座谈会，听取相关企业对北京亦庄打造太空算力产业高地的意见建议，研究部署太空算力创新中心建设工作。与会企业家一致表示，太空算力是商业航天与数字经济融合发展的新赛道，已成为全球科技竞争的新前沿，具有重大战略价值和商业前景。北京经开区近日发起成立北京太空智算研究院，是高水平建设北京太空算力创新中心的重要步骤，是推动太空算力产业从蓝图走向现实的关键落子，企业将积极参与研究",
         "category": "updates",
         "region": "cn"
       },
@@ -1316,46 +1386,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-02T01:57:17.000Z",
         "summary": "具身智能的落地，正在从实验室走向最真实、最繁忙的物理世界。 而元节智能（AtomBite.AI）选择了一个看起来并不性感、但足够真实的场景：餐饮后厨。 36氪获悉，具身智能公司元节智能近日完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金、知名投资人个人跟投。资金将主要用于餐饮场景具身世界模型研发及核心产品落地。 元节核心团队在成立公司前有过较长时期的探索和孵化，此次融资标志着项目初步验证可行性，并已拿到国内外多家头部公司的",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3835278829008257",
-        "title": "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿",
-        "url": "https://36kr.com/p/3835278829008257?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-02T00:12:57.000Z",
-        "summary": "今日热点导览 闲鱼回应读取用户手机内文物照片上架售卖 赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力 英伟达推出NVIDIA DSX平台 OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人 4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车 TOP 3大新闻 豆包预计6月下旬正式付费，并加速打通抖音电商 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3834400181741440",
-        "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
-        "url": "https://36kr.com/p/3834400181741440?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-02T00:00:06.000Z",
-        "summary": "36氪获悉， NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。 本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。 Aippy成立于2025年，由港股上市公司赤子城科技孵化，其创始人、CEO Evan (叶椿建）是赤子城联合创始人，并长期担任赤子城CTO，在海外社交、游戏领域有十余年深耕经验。目前团队规模接近30人，",
-        "category": "skills",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/i6etw4jyyygiikq9e0s5",
-        "title": "Opus 4.8被曝“蒸馏”中国模型；智谱盘中市值一度超小米；字节向Seed员工开放“豆包股”，正开发定制CPU｜AI周报",
-        "url": "https://www.infoq.cn/article/I6eTw4jyyyGIIKq9E0s5?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-01T16:53:16.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3834544830721671",
-        "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
-        "url": "https://36kr.com/p/3834544830721671?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-01T11:44:01.000Z",
-        "summary": "5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。 随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了解，以上只是豆包商业化的预热动",
         "category": "updates",
         "region": "cn"
       }
