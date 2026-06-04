@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T02:51:55.424Z",
+  "generatedAt": "2026-06-04T09:44:33.018Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/token-costs-and-the-future-of-law-firm-ai-spend",
+        "title": "Token Costs and the Future of Law Firm AI Spend",
+        "url": "https://www.artificiallawyer.com/2026/06/04/token-costs-and-the-future-of-law-firm-ai-spend/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-04T08:48:48.000Z",
+        "summary": "First, this is a thought experiment, so take a deep breath and a large pinch of salt&#8230;.Artificial Lawyer asked ChatGPT to estimate the total token ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/what-6200-matters-reveal-about-running-transactions",
+        "title": "What 6,200 Matters Reveal About Running Transactions",
+        "url": "https://www.artificiallawyer.com/2026/06/04/what-6200-matters-reveal-about-running-transactions/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-04T06:42:03.000Z",
+        "summary": "By Rob MacAdam, CPO, Legatics. Ask most transactional partners where the work on a deal happens, and you&#8217;ll get a confident answer: at signing. Closing ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/more&",
         "title": "More top partners are earning over $40M, including bonuses",
@@ -245,26 +265,6 @@
         "publishedAt": "2026-06-02T12:38:07.000Z",
         "summary": "The legal industry is turning into a battleground for the two dominant frontier AI companies. Less than a month ago, Anthropic — developer of the Claude AI assistant — took a major step into the legal market, releasing m",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/mcp-the-standard-that-decides-legal-ais-future",
-        "title": "MCP: The Standard that Decides Legal AI&#8217;s Future",
-        "url": "https://www.artificiallawyer.com/2026/06/02/mcp-the-standard-that-decides-legal-ais-future/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-02T08:59:51.000Z",
-        "summary": "By Liam Reid, Senior Product Manager, Legatics. Most law firms now have at least one generative AI tool in production. Many have several. The frontier ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/02/openai-targets-the-legal-vertical-what-happens-to-legal-tech",
-        "title": "OpenAI Targets the Legal Vertical – What Happens to Legal Tech?",
-        "url": "https://www.artificiallawyer.com/2026/06/02/openai-targets-the-legal-vertical-what-happens-to-legal-tech/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-02T06:45:01.000Z",
-        "summary": "The starting gun has been fired and the legal tech world faces significant change. With the hire of Jason Boehmig, founder of Ironclad, OpenAI is ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,72 +1210,82 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/mmvsqxlc1b5bwhyrugo4",
-        "title": "以模治模：支付宝 Agent 安全漏洞智能化检测实践｜AICon上海",
-        "url": "https://www.infoq.cn/article/MmVSQxLc1b5BWHYRuGo4?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/lhhiqfegrfmwlqkphq76",
+        "title": "数据库告警看不懂？DBbrain 内核级诊断，秒出根因",
+        "url": "https://www.infoq.cn/video/LhHiqfEGRFMwlQKPHQ76?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-04T10:00:00.000Z",
+        "publishedAt": "2026-06-04T17:40:38.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/cdtk9cdzediymswoydze",
-        "title": "Meta 重构 PB 级高可靠数据摄取架构",
-        "url": "https://www.infoq.cn/article/CDTK9cDzediYmswOYDze?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/brvoqukzgrrl5xt9ooyj",
+        "title": "OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义，今年拿出神秘AI硬件",
+        "url": "https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-04T09:49:18.000Z",
+        "publishedAt": "2026-06-04T17:33:16.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/lremzrrtzb3dcplmhmhr",
-        "title": "clickhousectl 赋能：轻松对比 ClickHouse 版本性能！",
-        "url": "https://www.infoq.cn/article/LREmzrrTzb3DcpLmHmhr?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/wbsymfvekiahecgkyoca",
+        "title": "Arm 开源 AI 安全框架 Metis，性能优于传统 SAST 工具",
+        "url": "https://www.infoq.cn/article/WBSYmfvEkiaHEcgkYOcA?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-04T09:00:00.000Z",
+        "publishedAt": "2026-06-04T16:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3838268830403077",
-        "title": "英国监管机构给谷歌AI搜索“立新规”",
-        "url": "https://36kr.com/newsflashes/3838268830403077?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-04T02:48:57.000Z",
-        "summary": "英国竞争与市场管理局6月3日说，已勒令美国谷歌公司整改其人工智能（AI）搜索服务，允许英国网站运营商和出版商退出谷歌“AI概览”模式，以免其内容和链接被谷歌搜索自动抓取。（新华社）",
+        "id": "InfoQ China:www.infoq.cn/article/ykelhesd692pgutqbwsi",
+        "title": "把数据库运维这件苦差事，交给 AI Agent",
+        "url": "https://www.infoq.cn/article/YKeLhEsd692pgUtqBwSI?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-04T15:10:24.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3838242373667077",
-        "title": "台积电魏哲家：预计今年全年营收成长仍将超过30%",
-        "url": "https://36kr.com/newsflashes/3838242373667077?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-04T02:22:03.000Z",
-        "summary": "台积电召开股东会，针对AI需求，董事长魏哲家指出，从生成式AI、查询模式，进一步转向代理式AI与指令行动模式，正推升大型语言模型处理文本所需的token消耗量，也使运算能力需求持续成长，进一步支撑先进半导体需求。公司客户以及客户的客户，仍持续给予对AI产业的正面展望。魏哲家强调，台积电仍对未来数年AI大趋势保持信心，半导体需求也具备根本性支撑。在技​​术差异化与广泛客户群支持下，公司维持强劲信心，若以美元计算，预计今年全年营收成长仍将超",
+        "id": "InfoQ China:www.infoq.cn/article/w37w3zzglpg1utihlbrh",
+        "title": "运维不再需要“老师傅”，阿里云操作系统控制台重磅发布 OS 运维 Skills",
+        "url": "https://www.infoq.cn/article/W37w3zzGlPG1UtIhLbRh?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-04T15:07:03.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3838218104604936",
-        "title": "香港推出首个生产力级超级智能体",
-        "url": "https://36kr.com/newsflashes/3838218104604936?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3838671893449224",
+        "title": "“星灿智能”获力合科创千万级天使+轮投资",
+        "url": "https://36kr.com/newsflashes/3838671893449224?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-04T01:57:21.000Z",
-        "summary": "香港生成式人工智能研发中心（HKGAI）3日举行“HKGAIV3大模型发布暨生态合作大会”，正式发布最新版本的本地大模型HKGAIV3，并推出香港首个生产力级超级智能体，助力香港人工智能发展。（新华社）",
+        "publishedAt": "2026-06-04T09:38:58.000Z",
+        "summary": "近日，家庭具身智能企业“星灿智能”（XCANBOT）完成千万级天使+轮战略融资，由A股科创平台力合科创投资。至此，公司已获山东亚华电子、浙江亚特、力合科创三大上市产业资本投资。团队核心成员来自头部自动驾驶企业，核心产品为自研XcanBrain具身大模型与5D全域空间感知系统。区别于传统机器人远程遥控、单视角采集存在盲区、数据固化滞后的短板，星灿依托实景无盲区数据闭环实现模型持续自进化。其双赛道产品已完成市场验证，在手订单破亿元，即将规模",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3838197819672840",
-        "title": "现代汽车与英伟达商讨在韩设立人工智能研发中心",
-        "url": "https://36kr.com/newsflashes/3838197819672840?f=rss",
+        "id": "36Kr:36kr.com/p/3838652242823687",
+        "title": "氪星晚报 ｜OpenAI首席财务官谈公司AI设备：今年年底前将正式发布；腾讯客服回应与华为、小米等合作；香港推出首个生产力级超级智能体",
+        "url": "https://36kr.com/p/3838652242823687?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-04T01:36:43.000Z",
-        "summary": "韩国经济日报援引匿名政府及业内人士消息：现代汽车联合韩国政府正与英伟达就落地韩国人工智能技术中心进入最终磋商阶段，新万金成为选址首选。该研发中心将是英伟达级别顶尖的研发基地，这类高规格基地目前仅布局在新加坡、中国台湾等少数地区；英伟达去年10月已与现代汽车签署谅解备忘录，约定供应GPU芯片并共建AI研发中心。（新浪财经）",
+        "publishedAt": "2026-06-04T09:37:38.000Z",
+        "summary": "大公司： OpenAI首席财务官谈公司AI设备：今年年底前将正式发布 OpenAI首席财务官Sarah Friar日前在受访时透露，已经亲自体验过OpenAI的AI设备。她表示到“今年年底之前”OpenAI将正式发布这款产品。此前，OpenAI曾在一份文件中表示，预计最早也要到2027年2月才会开始发货。（财联社） LG Innotek计划扩建半导体基板工厂 LG Innotek将于下月开始扩建其位于越南的半导体基板工厂。此次扩建将通过",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3838454229027072",
+        "title": "36氪独家｜2026 年字节 AI 的四个关键命题",
+        "url": "https://36kr.com/p/3838454229027072?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-04T06:06:37.000Z",
+        "summary": "文｜周鑫雨 编辑｜张雨忻 杨轩 《智能涌现》从多个信源处独家获悉，2026 年，字节 AI 有四个重要的命题： 加大对世界模型训练的投入，年底前，模型 性能达到现阶段世界模型全球 SOTA（最佳）Google Genie 3 的水平。 视频模型继续保持领先地位， 探索“动态生成”等新方向。 进一步打好 Coding 的地基， 做好 Coding 的 Dogfooding（数据回流、评测，形成飞轮），提升 Agent 能力。 豆包强化商业",
         "category": "updates",
         "region": "cn"
       },
@@ -1286,26 +1296,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-04T01:30:00.000Z",
         "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，戴盟机器人近日完成亿元A轮融资，由汇川技术旗下产业基金汇川产投与中国电信联合投资。资金将用于进一步打造超大规模含物理交互信息数据集，加速物理世界模型研发、并驱动真实物理场景下的数据飞轮与商业闭环。 戴盟机器人于2023年正式运营，核心团队长期聚焦机器人灵巧操作与物理交互智能领域。联合创始人兼首席科学家王煜教授曾任港科大机器人研究院创始院长，他所提出的“具身技能”与“技能克隆”等概念，是戴盟机器人核心技",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3838146032077056",
-        "title": "AI基建催生“算力金属”热潮，供给端“硬约束”成为核心逻辑",
-        "url": "https://36kr.com/newsflashes/3838146032077056?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-04T01:00:56.000Z",
-        "summary": "随着全球人工智能（AI）竞赛持续升温，围绕算力基建展开的新一轮投资浪潮正席卷全球。从海外科技巨头持续加码数据中心，到国内“东数西算”工程加速推进，再到AI服务器、光模块及先进封装需求爆发，一批原本相对小众的金属品种正在迎来价值重估。今年以来，被市场冠以“算力金属”概念的铜、锡、铟、锗、镓等品种集体走强。相比于需求增长，市场更关注的是供给端长期存在的瓶颈。国信期货首席分析师顾冯达认为，本轮“算力金属”行情背后最核心的逻辑并非AI概念本身，",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3838145260505602",
-        "title": "AI与新能源需求共振，高端铜箔产能供不应求",
-        "url": "https://36kr.com/newsflashes/3838145260505602?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-04T00:58:08.000Z",
-        "summary": "AI算力需求日益增长，加上新能源汽车、储能产业持续高景气，铜箔产业正迎来新一轮景气上行周期。近日采访获悉，多家铜箔企业的高端PCB铜箔和锂电铜箔均满产满销，且两类产品价格均有不同程度的上涨。据了解，铜箔行业刚走出上一轮下行周期，行业整体扩产意愿较为谨慎。与此同时，受技术门槛、扩产壁垒及资本开支等影响，高端铜箔扩产存在较高瓶颈。业内人士对记者分析称，由于扩产速度不及需求增速，高端铜箔供求错配、价格上涨的情况或进一步催化。（上证报）",
         "category": "updates",
         "region": "cn"
       },
@@ -1360,16 +1350,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ffagof6sydfi7ljjkubx",
-        "title": "Cloudflare 新增对 Claude 托管代理的支持",
-        "url": "https://www.infoq.cn/article/fFAGOf6SYDfi7Ljjkubx?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-03T09:16:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3836973710423429",
         "title": "36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元",
         "url": "https://36kr.com/p/3836973710423429?f=rss",
@@ -1398,28 +1378,19 @@
         "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香资本投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。 旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3836703946257542",
-        "title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈",
-        "url": "https://36kr.com/p/3836703946257542?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-03T00:21:18.000Z",
-        "summary": "今日热点导览 豆包付费或专注复杂任务， 定价锚定ChatGPT 英伟达CEO黄仁勋：Vera CPU将比GPU更受欢迎，将成为公司新的主要增长动力 中国内地航线燃油附加费将下调 标签上存在拼写错误，瑞幸客服称遇到“HeeloKitty”可退款 马尔代夫将限制16岁以下青少年访问部分社媒平台 TOP 3大新闻 腾讯股价暴涨：创2021年1月以来单日最高涨幅纪录 6月2日午后，香港恒生科技指数一度涨超4%。恒生科技指数成分股中，美团、腾讯控",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3834354708031111",
-        "title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度",
-        "url": "https://36kr.com/p/3834354708031111?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-02T11:50:30.000Z",
-        "summary": "大公司： 高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜 36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用于新加坡，基于自研空间智能技术，以360°全景视角呈现景点、酒店、街区和餐厅实景，让游客出",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai",
+        "title": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-04T07:00:10.000Z",
+        "summary": "Chinese artificial intelligence start-up DeepSeek took the top spot on a major US business spending index in June, as more companies swap out expensive American options like OpenAI and Anthropic in favour of more afforda",
+        "category": "tools",
+        "region": "cn_en"
+      }
+    ]
   }
 }
