@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T20:48:10.135Z",
+  "generatedAt": "2026-06-04T02:51:55.424Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -75,16 +75,6 @@
         "publishedAt": "2026-06-03T14:08:55.000Z",
         "summary": "Noory Bechor, the Israel-based legal AI pioneer who co-founded LawGeex – but later saw the company broken up and sold off – has now launched ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-        "title": "Introducing new capabilities to GPT-Rosalind",
-        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-        "source": "OpenAI News",
-        "publishedAt": "2026-06-03T13:15:00.000Z",
-        "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-        "category": "articles",
         "region": "na"
       },
       {
@@ -1206,9 +1196,129 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/mmvsqxlc1b5bwhyrugo4",
+        "title": "以模治模：支付宝 Agent 安全漏洞智能化检测实践｜AICon上海",
+        "url": "https://www.infoq.cn/article/MmVSQxLc1b5BWHYRuGo4?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-04T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/cdtk9cdzediymswoydze",
+        "title": "Meta 重构 PB 级高可靠数据摄取架构",
+        "url": "https://www.infoq.cn/article/CDTK9cDzediYmswOYDze?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-04T09:49:18.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/lremzrrtzb3dcplmhmhr",
+        "title": "clickhousectl 赋能：轻松对比 ClickHouse 版本性能！",
+        "url": "https://www.infoq.cn/article/LREmzrrTzb3DcpLmHmhr?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-04T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3838268830403077",
+        "title": "英国监管机构给谷歌AI搜索“立新规”",
+        "url": "https://36kr.com/newsflashes/3838268830403077?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-04T02:48:57.000Z",
+        "summary": "英国竞争与市场管理局6月3日说，已勒令美国谷歌公司整改其人工智能（AI）搜索服务，允许英国网站运营商和出版商退出谷歌“AI概览”模式，以免其内容和链接被谷歌搜索自动抓取。（新华社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3838242373667077",
+        "title": "台积电魏哲家：预计今年全年营收成长仍将超过30%",
+        "url": "https://36kr.com/newsflashes/3838242373667077?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-04T02:22:03.000Z",
+        "summary": "台积电召开股东会，针对AI需求，董事长魏哲家指出，从生成式AI、查询模式，进一步转向代理式AI与指令行动模式，正推升大型语言模型处理文本所需的token消耗量，也使运算能力需求持续成长，进一步支撑先进半导体需求。公司客户以及客户的客户，仍持续给予对AI产业的正面展望。魏哲家强调，台积电仍对未来数年AI大趋势保持信心，半导体需求也具备根本性支撑。在技​​术差异化与广泛客户群支持下，公司维持强劲信心，若以美元计算，预计今年全年营收成长仍将超",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3838218104604936",
+        "title": "香港推出首个生产力级超级智能体",
+        "url": "https://36kr.com/newsflashes/3838218104604936?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-04T01:57:21.000Z",
+        "summary": "香港生成式人工智能研发中心（HKGAI）3日举行“HKGAIV3大模型发布暨生态合作大会”，正式发布最新版本的本地大模型HKGAIV3，并推出香港首个生产力级超级智能体，助力香港人工智能发展。（新华社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3838197819672840",
+        "title": "现代汽车与英伟达商讨在韩设立人工智能研发中心",
+        "url": "https://36kr.com/newsflashes/3838197819672840?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-04T01:36:43.000Z",
+        "summary": "韩国经济日报援引匿名政府及业内人士消息：现代汽车联合韩国政府正与英伟达就落地韩国人工智能技术中心进入最终磋商阶段，新万金成为选址首选。该研发中心将是英伟达级别顶尖的研发基地，这类高规格基地目前仅布局在新加坡、中国台湾等少数地区；英伟达去年10月已与现代汽车签署谅解备忘录，约定供应GPU芯片并共建AI研发中心。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3837269482091656",
+        "title": "深圳具身公司获得汇川、中国电信亿元融资，“视触觉”传感器出货量行业第一｜硬氪首发",
+        "url": "https://36kr.com/p/3837269482091656?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-04T01:30:00.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，戴盟机器人近日完成亿元A轮融资，由汇川技术旗下产业基金汇川产投与中国电信联合投资。资金将用于进一步打造超大规模含物理交互信息数据集，加速物理世界模型研发、并驱动真实物理场景下的数据飞轮与商业闭环。 戴盟机器人于2023年正式运营，核心团队长期聚焦机器人灵巧操作与物理交互智能领域。联合创始人兼首席科学家王煜教授曾任港科大机器人研究院创始院长，他所提出的“具身技能”与“技能克隆”等概念，是戴盟机器人核心技",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3838146032077056",
+        "title": "AI基建催生“算力金属”热潮，供给端“硬约束”成为核心逻辑",
+        "url": "https://36kr.com/newsflashes/3838146032077056?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-04T01:00:56.000Z",
+        "summary": "随着全球人工智能（AI）竞赛持续升温，围绕算力基建展开的新一轮投资浪潮正席卷全球。从海外科技巨头持续加码数据中心，到国内“东数西算”工程加速推进，再到AI服务器、光模块及先进封装需求爆发，一批原本相对小众的金属品种正在迎来价值重估。今年以来，被市场冠以“算力金属”概念的铜、锡、铟、锗、镓等品种集体走强。相比于需求增长，市场更关注的是供给端长期存在的瓶颈。国信期货首席分析师顾冯达认为，本轮“算力金属”行情背后最核心的逻辑并非AI概念本身，",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3838145260505602",
+        "title": "AI与新能源需求共振，高端铜箔产能供不应求",
+        "url": "https://36kr.com/newsflashes/3838145260505602?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-04T00:58:08.000Z",
+        "summary": "AI算力需求日益增长，加上新能源汽车、储能产业持续高景气，铜箔产业正迎来新一轮景气上行周期。近日采访获悉，多家铜箔企业的高端PCB铜箔和锂电铜箔均满产满销，且两类产品价格均有不同程度的上涨。据了解，铜箔行业刚走出上一轮下行周期，行业整体扩产意愿较为谨慎。与此同时，受技术门槛、扩产壁垒及资本开支等影响，高端铜箔扩产存在较高瓶颈。业内人士对记者分析称，由于扩产速度不及需求增速，高端铜箔供求错配、价格上涨的情况或进一步催化。（上证报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3838091144464644",
+        "title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
+        "url": "https://36kr.com/p/3838091144464644?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-03T23:53:43.000Z",
+        "summary": "今日热点导览 名创优品称会员买单仅限潮玩商品 谷歌扩大Quick Share与AirDrop互传适配范围，覆盖更多安卓机型 Meta在全球范围扩大青少年内容管控 多家银行下架3年期5年期定期存款 TOP 3大新闻 A股第4只两千元股诞生，联讯仪器盘中股价冲破2000元 6月3日，联讯仪器盘中股价冲破2000元，最高达2047.88元。公司总市值超2000亿元。数据显示，自A股1990年12月19日开市以来，最高价曾突破2000元的股票屈",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/ziu2rr7q1ldqcvd0gtqh",
         "title": "Anthropic冲刺IPO：Claude一个月烧掉客户5亿美元，却成了上市前最强广告",
@@ -1240,42 +1350,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3837454258391555",
-        "title": "Kimi发布桌面端产品Kimi Work，定位通用型本地Agent",
-        "url": "https://36kr.com/newsflashes/3837454258391555?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-03T13:00:20.000Z",
-        "summary": "36氪获悉，今日，Kimi发布桌面端产品Kimi Work，是一款面向知识工作者的通用型本地Agent，可以在电脑上拆解任务、调用工具、使用浏览器、创建和整理文件夹，并完成文档、表格、PPT等工作产物的交付。Kimi Work由Kimi Code深度参与开发，支持13小时连续编码、300个子Agent并行协作及4000余次自主工具调用。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3837447480641801",
-        "title": "罗曼股份：拟定增募资不超2.93亿元，用于智能算力集群建设及运营项目",
-        "url": "https://36kr.com/newsflashes/3837447480641801?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-03T12:53:26.000Z",
-        "summary": "36氪获悉，罗曼股份公告，公司拟以简易程序向不超过35名特定投资者发行股票，发行数量不超过本次发行前公司总股本的30%，募集资金总额不超过2.93亿元。扣除发行费用后的募集资金净额将用于智能算力集群建设及运营项目。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/chrm7o35alibpeyjzuis",
         "title": "看完 Snowflake 这套新品，我更确信大模型吃不掉数据这个赛道",
         "url": "https://www.infoq.cn/article/ChrM7o35aliBpeyJzuIs?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-06-03T12:01:59.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3837369693341961",
-        "title": "Gartner：到2026年，75%的新增风险投资将流向AI原生公司",
-        "url": "https://36kr.com/newsflashes/3837369693341961?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-03T11:34:18.000Z",
-        "summary": "36氪获悉，近日，Gartner 2026大中华区科技行业高管交流大会在上海举办。会上，Gartner研究副总裁孙志勇发表《不可不知的中国五大科技与创新趋势》演讲，提出AI原生、智能体驱动的新生态、智能体产出即服务、AI隐私计算、具身智能五大趋势。Gartner预测，到2026年，75%的新增风险投资将流向AI原生公司。",
         "category": "updates",
         "region": "cn"
       },
@@ -1311,11 +1391,11 @@
       },
       {
         "id": "36Kr:36kr.com/p/3836744788014208",
-        "title": "36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑",
+        "title": "36氪首发 | 浙大教授团队获财通、商汤国香资本投资，做高危场景具身机器人大脑",
         "url": "https://36kr.com/p/3836744788014208?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-03T01:10:00.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。 旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学百人",
+        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香资本投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。 旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学",
         "category": "updates",
         "region": "cn"
       },
@@ -1330,16 +1410,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/50win1cuff0ioqwebzvj",
-        "title": "Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？",
-        "url": "https://www.infoq.cn/article/50wIN1CuFf0ioqwebZvj?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-02T18:40:19.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3834354708031111",
         "title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度",
         "url": "https://36kr.com/p/3834354708031111?f=rss",
@@ -1348,39 +1418,8 @@
         "summary": "大公司： 高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜 36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用于新加坡，基于自研空间智能技术，以360°全景视角呈现景点、酒店、街区和餐厅实景，让游客出",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3835814792492416",
-        "title": "美团在竞争中看清自己",
-        "url": "https://36kr.com/p/3835814792492416?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-02T09:20:31.000Z",
-        "summary": "作者｜任彩茹 编辑｜乔芊 参与外卖大战的三家公司中，美团最晚发出一季度财报，但给出了最超预期的“减亏”成果。 2026年一季度，美团实现收入910亿元，同比增长5.6%，基本符合预期。亮点在于经营亏损的大幅收窄，由上季度的161亿元减至65亿元，其中最受关注的核心本地商业，经营亏损从上季度的100亿元减少到20亿元，明显好于投行预测的40-45亿元。 业绩提振下，6月2日港股开盘后，美团盘中最高涨幅超9%，截至发稿，报85.25港元/股",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3835814391100550",
-        "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
-        "url": "https://36kr.com/p/3835814391100550?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-02T09:13:50.000Z",
-        "summary": "文｜肖思佳 编辑｜乔芊 杨轩 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。 随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3355579/akeso-lung-cancer-drug-shines-trials-boosting-hopes-us20b-market",
-        "title": "Akeso lung cancer drug shines in trials, boosting hopes in US$20b market",
-        "url": "https://www.scmp.com/business/china-business/article/3355579/akeso-lung-cancer-drug-shines-trials-boosting-hopes-us20b-market?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-01T10:49:08.000Z",
-        "summary": "Akeso, whose drug ivonescimab was hailed as biotech’s “DeepSeek moment” amid US competition last year, announced better-than-expected clinical results showing it can treat a type of lung cancer commonly found in smokers,",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
