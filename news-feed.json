@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T14:28:24.905Z",
+  "generatedAt": "2026-06-05T19:43:07.461Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,22 +8,32 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.com/news/article/los&",
+        "title": "Los Angeles law firm accused of unauthorized practice in Texas, Virginia, Arizona, Iowa and Michigan",
+        "url": "https://www.abajournal.com/news/article/los&#45;angeles&#45;law&#45;firm&#45;accused&#45;of&#45;unauthorized&#45;practice&#45;in&#45;texas&#45;virginia&#45;arizona&#45;iowa&#45;and&#45;michigan/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-05T16:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ai&",
+        "title": "AI video mocks federal judge who is leading efforts to combat deepfakes",
+        "url": "https://www.abajournal.com/news/article/ai&#45;video&#45;mocks&#45;federal&#45;judge&#45;who&#45;is&#45;leading&#45;efforts&#45;to&#45;combat&#45;deepfakes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-05T14:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "ABA Journal:www.abajournal.com/news/article/hawaii&",
         "title": "Hawaii Supreme Court considers whether refusing sobriety tests is evidence of guilt",
         "url": "https://www.abajournal.com/news/article/hawaii&#45;supreme&#45;court&#45;considers&#45;whether&#45;refusing&#45;sobriety&#45;tests&#45;is&#45;evidence&#45;of&#45;guilt/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-06-05T12:05:00.000Z",
         "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/05/what-a-time-for-legal-ai-legal-innovators-california",
-        "title": "What A Time For Legal AI! + Legal Innovators California",
-        "url": "https://www.artificiallawyer.com/2026/06/05/what-a-time-for-legal-ai-legal-innovators-california/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-05T07:52:39.000Z",
-        "summary": "What an incredible time it is now for legal AI! Palantir has just entered the legal tech room, joining OpenAI, Anthropic, and Microsoft. So, four ...",
         "category": "updates",
         "region": "na"
       },
@@ -68,16 +78,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/join-650-legal-innovators-in-sf-next-week",
-        "title": "Join 650+ Legal Innovators in SF Next Week!",
-        "url": "https://www.artificiallawyer.com/2026/06/04/join-650-legal-innovators-in-sf-next-week/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-04T16:15:02.000Z",
-        "summary": "Come and join amazing speakers from OpenAI, Meta, Google, Y Combinator, Cooley, and Wilson Sonsini, along with 650+ others already attending the landmark&#160;Legal Innovators California&#160;conference ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "ABA Journal:www.abajournal.com/web/article/courtroom&",
         "title": "Courtroom Courage: Judge doesn't like your objections? Here are some tips to keep them coming in meaningful way",
         "url": "https://www.abajournal.com/web/article/courtroom&#45;courage/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -118,36 +118,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/kirkland-palantir-partner-for-pe-platform",
-        "title": "Kirkland + Palantir Partner For PE Platform",
-        "url": "https://www.artificiallawyer.com/2026/06/04/kirkland-palantir-partner-for-pe-platform/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-04T13:21:20.000Z",
-        "summary": "Palantir and Kirkland &#38; Ellis have launched a proprietary enterprise platform for private equity fundraising. It follows the news that the US firm will build ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/token-costs-and-the-future-of-law-firm-ai-spend",
-        "title": "Token Costs and the Future of Law Firm AI Spend",
-        "url": "https://www.artificiallawyer.com/2026/06/04/token-costs-and-the-future-of-law-firm-ai-spend/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-04T08:48:48.000Z",
-        "summary": "First, this is a thought experiment, so take a deep breath and a large pinch of salt&#8230;.Artificial Lawyer asked ChatGPT to estimate the total token ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/what-6200-matters-reveal-about-running-transactions",
-        "title": "What 6,200 Matters Reveal About Running Transactions",
-        "url": "https://www.artificiallawyer.com/2026/06/04/what-6200-matters-reveal-about-running-transactions/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-04T06:42:03.000Z",
-        "summary": "By Rob MacAdam, CPO, Legatics. Ask most transactional partners where the work on a deal happens, and you&#8217;ll get a confident answer: at signing. Closing ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "ABA Journal:www.abajournal.com/news/article/more&",
         "title": "More top partners are earning over $40M, including bonuses",
         "url": "https://www.abajournal.com/news/article/more&#45;top&#45;partners&#45;earn&#45;over&#45;40m&#45;including&#45;bonuses/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -155,26 +125,6 @@
         "publishedAt": "2026-06-03T18:45:00.000Z",
         "summary": "",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/senate&",
-        "title": "Senate confirms Trump judicial pick who was rated ‘not qualified’ by ABA",
-        "url": "https://www.abajournal.com/news/article/senate&#45;confirms&#45;trump&#45;judicial&#45;pick&#45;who&#45;was&#45;rated&#45;not&#45;qualified&#45;by&#45;aba/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-03T14:57:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/lawgeex-founders-launch-superlegal-newmod-firm",
-        "title": "LawGeex Founders Launch Superlegal NewMod Firm",
-        "url": "https://www.artificiallawyer.com/2026/06/03/lawgeex-founders-launch-superlegal-newmod-firm/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-03T14:08:55.000Z",
-        "summary": "Noory Bechor, the Israel-based legal AI pioneer who co-founded LawGeex – but later saw the company broken up and sold off – has now launched ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -195,46 +145,6 @@
         "publishedAt": "2026-06-03T12:03:16.000Z",
         "summary": "Foundation 365, Litera&#8217;s AI-powered CRM platform for law firms, is now available across Microsoft 365, including Outlook, Teams and Microsoft 365 Copilot, the company said today. Built on Microsoft Dynamics 365, Fo",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/wordsmith-raises-70m-series-b",
-        "title": "Wordsmith Raises $70m Series B",
-        "url": "https://www.artificiallawyer.com/2026/06/03/wordsmith-raises-70m-series-b/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-03T09:47:05.000Z",
-        "summary": "Breaking News: Wordsmith AI has announced a $70 million Series B funding round with investment from Highland Europe and Index Ventures among others. Wordsmith will ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/legal-ai-has-a-growing-token-price-problem",
-        "title": "Legal AI Has A Growing Token Price Problem",
-        "url": "https://www.artificiallawyer.com/2026/06/03/legal-ai-has-a-growing-token-price-problem/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-03T09:13:48.000Z",
-        "summary": "If legal AI tools are the vehicles our work is now transported by, then tokens are the oil that drives it all. And that’s an ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/agents-knowledge-graphs-with-netdocuments-dan-hauck",
-        "title": "Agents + Knowledge Graphs with NetDocuments&#8217; Dan Hauck",
-        "url": "https://www.artificiallawyer.com/2026/06/03/agents-knowledge-graphs-with-netdocuments-dan-hauck/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-03T07:35:38.000Z",
-        "summary": "In this AL TV Interview with NetDocuments&#8217; CPO Dan Hauck we talk about agents, KM and knowledge graphs. The central point here is that to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/in-ctos-we-trust-legal-ais-challenge-is-confidence-at-scale",
-        "title": "In CTOs We Trust: Legal AI’s Challenge is Confidence at Scale",
-        "url": "https://www.artificiallawyer.com/2026/06/03/in-ctos-we-trust-legal-ais-challenge-is-confidence-at-scale/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-03T06:40:56.000Z",
-        "summary": "By Karen Waldron, LexisNexis. The legal profession is built on trust, which creates a very specific challenge for AI. Even the most advanced technology will ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,6 +1116,26 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
@@ -1358,16 +1288,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-06-05T10:45:05.000Z",
         "summary": "Hong Kong’s de facto central bank has formed a group of industry experts to help remove legal and regulatory hurdles to tokenized bonds, as authorities seek to move beyond pilot projects and encourage wider adoption from",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3356097/china-sees-revival-foreign-investors-through-ipos-convertibles-ubs",
-        "title": "China sees revival of foreign investors through IPOs, convertibles: UBS",
-        "url": "https://www.scmp.com/business/china-business/article/3356097/china-sees-revival-foreign-investors-through-ipos-convertibles-ubs?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-05T10:00:16.000Z",
-        "summary": "Foreign investors are returning to Chinese assets through convertible bonds and IPOs, helping fuel a fundraising rebound in Hong Kong as global investors seek exposure to the country’s artificial intelligence (AI), semic",
         "category": "updates",
         "region": "cn_en"
       },
