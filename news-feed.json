@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T09:33:29.464Z",
+  "generatedAt": "2026-06-05T14:28:24.905Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/hawaii&",
+        "title": "Hawaii Supreme Court considers whether refusing sobriety tests is evidence of guilt",
+        "url": "https://www.abajournal.com/news/article/hawaii&#45;supreme&#45;court&#45;considers&#45;whether&#45;refusing&#45;sobriety&#45;tests&#45;is&#45;evidence&#45;of&#45;guilt/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-05T12:05:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/05/what-a-time-for-legal-ai-legal-innovators-california",
         "title": "What A Time For Legal AI! + Legal Innovators California",
@@ -153,16 +163,6 @@
         "url": "https://www.abajournal.com/news/article/senate&#45;confirms&#45;trump&#45;judicial&#45;pick&#45;who&#45;was&#45;rated&#45;not&#45;qualified&#45;by&#45;aba/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-06-03T14:57:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/senators&",
-        "title": "Senators introduce bill to increase access to federal court records",
-        "url": "https://www.abajournal.com/news/article/senators&#45;trying&#45;to&#45;increase&#45;access&#45;to&#45;federal&#45;court&#45;records/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-03T14:45:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,22 +1210,52 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/lk4pwqkxhgpslm7a8acu",
-        "title": "openJiuwen 社区又上新： JiuwenSwarm 给 Harness 装上「后训练」",
-        "url": "https://www.infoq.cn/article/lk4PwQKXhgPSlM7a8ACU?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-05T16:27:21.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/p/3840267945969929",
+        "title": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
+        "url": "https://36kr.com/p/3840267945969929?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-05T12:50:46.000Z",
+        "summary": "大公司： 首关15亿元，英诺科创三期基金持续聚焦早期科技投资 36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。 比特币“金库”公司市值蒸发620亿美元 比特币本周下跌约14%，至四个月低点附近。随着加密货6月5日下午，追觅科技创始人俞浩在公司内部大群发文，表示未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。（界面）币整体滑坡，数字资产“",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3840029113469188",
-        "title": "“智美科技”完成近2亿元战略轮融资",
-        "url": "https://36kr.com/newsflashes/3840029113469188?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3840230258936065",
+        "title": "加拿大出台国家人工智能战略",
+        "url": "https://36kr.com/newsflashes/3840230258936065?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-05T08:39:36.000Z",
-        "summary": "36氪获悉，“智美科技”宣布完成近2亿元战略轮融资，本轮融资由麦澜德、国石智达资本、老股东共同投资。本轮资金将主要用于深化“皮肤全球大模型”的研发及3D皮肤智能设备的迭代升级，加速与全球产业链伙伴的商业化落地合作，构建皮肤AI智能设备生态体系。",
+        "publishedAt": "2026-06-05T12:21:04.000Z",
+        "summary": "加拿大政府4日正式公布名为“全民人工智能”（AI for All）的国家人工智能新战略。该战略计划投入数十亿加元公共资金，通过设立技术增长基金、扩大主权算力基础设施以及加强法律监管等核心举措，加快构建本土人工智能产业体系，全面推动技术普及与主权安全。新战略的核心举措之一是设立规模达5亿加元（约合3.6亿美元）的“加拿大技术增长基金”（Canadian Tech Growth Fund）。该基金旨在填补本土高成长性AI企业面临的规模化资本",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3840228196256263",
+        "title": "麦捷科技：Bias-Tee模块产品收入占公司营业总收入比例较小",
+        "url": "https://36kr.com/newsflashes/3840228196256263?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-05T12:13:04.000Z",
+        "summary": "36氪获悉，麦捷科技公告，Bias-Tee（偏置器）模块是公司自2023年起向光模块厂商推出的适用于其内部激光器驱动与信号传输的无源器件，公司磁珠可同样适用于光模块应用场景，目前该产品收入占公司营业总收入比例较小，对公司业绩影响有限，但该产品是光模块产品必须使用的器件，也是公司在光模块市场领域持续推广的主力产品之一；客户方面，公司已获得英伟达平台研发项目的开放权限，目前部分一体成型和高算力用铜铁共烧电感料号已实现小批量试产，但国际贸易等",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3840204240931080",
+        "title": "高盛预计xAI营收5年增长约100倍",
+        "url": "https://36kr.com/newsflashes/3840204240931080?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-05T11:58:42.000Z",
+        "summary": "美国太空探索技术公司——SpaceX将于下周在纳斯达克上市，有望募集750亿美元，成为全球有史以来规模最大的IPO。作为SpaceX首次公开募股的主承销商，美国高盛集团表示，SpaceX之所以有望获得约1.75万亿美元的估值，除了火箭和卫星互联网业务，市场还在押注其人工智能部门xAI能够实现爆发式增长。高盛预计，xAI的营收将从2025年的约32亿美元增至2030年的约3220亿美元，五年增长约100倍，届时将成为SpaceX最大的收入",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3840197754718721",
+        "title": "七匹狼：拟出资1亿元认缴基金份额 主要投资于人工智能、半导体等项目",
+        "url": "https://36kr.com/newsflashes/3840197754718721?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-05T11:52:22.000Z",
+        "summary": "36氪获悉，七匹狼公告，公司作为有限合伙人，与普通合伙人上海麒鹏投资管理有限公司于近日签署了《上海云锋元创私募基金中心（有限合伙）有限合伙协议》。上海云锋元创私募基金中心（有限合伙）（简称“基金”）目标认缴出资总额不低于30亿元，其中，公司拟出资1亿元，占目标认缴出资总额的比例为3.33%。该基金主要投资于人工智能、半导体、智能终端、机器人、先进制造、新能源、新材料、生物医药、医疗科技等重点领域以及将受益于或赋能前述领域的相关领域内的投",
         "category": "updates",
         "region": "cn"
       },
@@ -1308,26 +1338,36 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3838702884604421",
-        "title": "00后创业者站上C位，「go big or go home」｜36氪离线聚会第二期",
-        "url": "https://36kr.com/p/3838702884604421?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-04T10:12:58.000Z",
-        "summary": "“妨碍真理发现过程的，不是谎言，而是极其精辟的错误见解。”德国物理学家兼讽刺作家利希滕贝格在面对启蒙运动中的种种愚昧时，戏谑式地写下了这一句名言。 许多误判之所以危险，恰恰因为它们看上去过于正确。它们能在一个短周期里解释世界，也容易在世界已经变化之后，继续以“共识”的面貌停留在原地。 AI也曾经历类似的混沌阶段。 过去两年，人们习惯用一些简单指标理解这场变化：谁拥有更多GPU，谁训练了更大参数的模型，谁的团队烧掉了更多Token。以至于",
-        "category": "tools",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3356074/ai-hyperscaler-effect-vaults-chinas-zhongji-innolight-top-csi-300-benchmark",
-        "title": "AI hyperscaler effect vaults China’s Zhongji Innolight to top of CSI 300 benchmark",
-        "url": "https://www.scmp.com/business/china-business/article/3356074/ai-hyperscaler-effect-vaults-chinas-zhongji-innolight-top-csi-300-benchmark?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3356102/china-launches-space-computing-hub-spacex-gears-historic-ipo",
+        "title": "China launches space computing hub as SpaceX gears up for historic IPO",
+        "url": "https://www.scmp.com/tech/big-tech/article/3356102/china-launches-space-computing-hub-spacex-gears-historic-ipo?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-06-05T07:30:11.000Z",
-        "summary": "The artificial intelligence frenzy has made Zhongji Innolight, a supplier of optical modules to US hyperscalers, the biggest constituent of China’s stock benchmark, highlighting AI’s profound impact on the world’s second",
+        "publishedAt": "2026-06-05T14:00:07.000Z",
+        "summary": "China is ramping up its bets on space-based artificial intelligence computing with the launch of a state-backed research institute in Beijing, accelerating a frontier tech race with the US just as Elon Musk’s SpaceX eyes",
+        "category": "tools",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3356125/hong-kong-taps-banks-lawyers-and-crypto-firms-help-rewrite-rules-tokenised-bonds",
+        "title": "Hong Kong taps banks, lawyers and crypto firms to help rewrite rules for tokenised bonds",
+        "url": "https://www.scmp.com/business/cryptocurrency/article/3356125/hong-kong-taps-banks-lawyers-and-crypto-firms-help-rewrite-rules-tokenised-bonds?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-05T10:45:05.000Z",
+        "summary": "Hong Kong’s de facto central bank has formed a group of industry experts to help remove legal and regulatory hurdles to tokenized bonds, as authorities seek to move beyond pilot projects and encourage wider adoption from",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3356097/china-sees-revival-foreign-investors-through-ipos-convertibles-ubs",
+        "title": "China sees revival of foreign investors through IPOs, convertibles: UBS",
+        "url": "https://www.scmp.com/business/china-business/article/3356097/china-sees-revival-foreign-investors-through-ipos-convertibles-ubs?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-05T10:00:16.000Z",
+        "summary": "Foreign investors are returning to Chinese assets through convertible bonds and IPOs, helping fuel a fundraising rebound in Hong Kong as global investors seek exposure to the country’s artificial intelligence (AI), semic",
         "category": "updates",
         "region": "cn_en"
       },
