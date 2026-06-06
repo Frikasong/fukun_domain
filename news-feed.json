@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T19:43:07.461Z",
+  "generatedAt": "2026-06-06T02:27:07.932Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/9th&",
+        "title": "9th Circuit judge faces misdemeanor charges of battery and property damage",
+        "url": "https://www.abajournal.com/web/article/9th&#45;circuit&#45;judge&#45;faces&#45;misdemeanor&#45;charges&#45;of&#45;battery&#45;and&#45;property&#45;damage/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-05T20:37:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/los&",
         "title": "Los Angeles law firm accused of unauthorized practice in Texas, Virginia, Arizona, Iowa and Michigan",
@@ -34,6 +44,16 @@
         "source": "ABA Journal",
         "publishedAt": "2026-06-05T12:05:00.000Z",
         "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/05/what-a-time-for-legal-ai-legal-innovators-california",
+        "title": "What A Time For Legal AI! + Legal Innovators California",
+        "url": "https://www.artificiallawyer.com/2026/06/05/what-a-time-for-legal-ai-legal-innovators-california/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-05T07:52:39.000Z",
+        "summary": "What an incredible time it is now for legal AI! Palantir has just entered the legal tech room, joining OpenAI, Anthropic, and Microsoft. So, four ...",
         "category": "updates",
         "region": "na"
       },
@@ -78,6 +98,16 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/join-650-legal-innovators-in-sf-next-week",
+        "title": "Join 650+ Legal Innovators in SF Next Week!",
+        "url": "https://www.artificiallawyer.com/2026/06/04/join-650-legal-innovators-in-sf-next-week/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-04T16:15:02.000Z",
+        "summary": "Come and join amazing speakers from OpenAI, Meta, Google, Y Combinator, Cooley, and Wilson Sonsini, along with 650+ others already attending the landmark&#160;Legal Innovators California&#160;conference ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "ABA Journal:www.abajournal.com/web/article/courtroom&",
         "title": "Courtroom Courage: Judge doesn't like your objections? Here are some tips to keep them coming in meaningful way",
         "url": "https://www.abajournal.com/web/article/courtroom&#45;courage/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -118,13 +148,43 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/more&",
-        "title": "More top partners are earning over $40M, including bonuses",
-        "url": "https://www.abajournal.com/news/article/more&#45;top&#45;partners&#45;earn&#45;over&#45;40m&#45;including&#45;bonuses/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-03T18:45:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/kirkland-palantir-partner-for-pe-platform",
+        "title": "Kirkland + Palantir Partner For PE Platform",
+        "url": "https://www.artificiallawyer.com/2026/06/04/kirkland-palantir-partner-for-pe-platform/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-04T13:21:20.000Z",
+        "summary": "Palantir and Kirkland &#38; Ellis have launched a proprietary enterprise platform for private equity fundraising. It follows the news that the US firm will build ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/token-costs-and-the-future-of-law-firm-ai-spend",
+        "title": "Token Costs and the Future of Law Firm AI Spend",
+        "url": "https://www.artificiallawyer.com/2026/06/04/token-costs-and-the-future-of-law-firm-ai-spend/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-04T08:48:48.000Z",
+        "summary": "First, this is a thought experiment, so take a deep breath and a large pinch of salt&#8230;.Artificial Lawyer asked ChatGPT to estimate the total token ...",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/what-6200-matters-reveal-about-running-transactions",
+        "title": "What 6,200 Matters Reveal About Running Transactions",
+        "url": "https://www.artificiallawyer.com/2026/06/04/what-6200-matters-reveal-about-running-transactions/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-04T06:42:03.000Z",
+        "summary": "By Rob MacAdam, CPO, Legatics. Ask most transactional partners where the work on a deal happens, and you&#8217;ll get a confident answer: at signing. Closing ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/lawgeex-founders-launch-superlegal-newmod-firm",
+        "title": "LawGeex Founders Launch Superlegal NewMod Firm",
+        "url": "https://www.artificiallawyer.com/2026/06/03/lawgeex-founders-launch-superlegal-newmod-firm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-03T14:08:55.000Z",
+        "summary": "Noory Bechor, the Israel-based legal AI pioneer who co-founded LawGeex – but later saw the company broken up and sold off – has now launched ...",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -145,6 +205,46 @@
         "publishedAt": "2026-06-03T12:03:16.000Z",
         "summary": "Foundation 365, Litera&#8217;s AI-powered CRM platform for law firms, is now available across Microsoft 365, including Outlook, Teams and Microsoft 365 Copilot, the company said today. Built on Microsoft Dynamics 365, Fo",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/wordsmith-raises-70m-series-b",
+        "title": "Wordsmith Raises $70m Series B",
+        "url": "https://www.artificiallawyer.com/2026/06/03/wordsmith-raises-70m-series-b/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-03T09:47:05.000Z",
+        "summary": "Breaking News: Wordsmith AI has announced a $70 million Series B funding round with investment from Highland Europe and Index Ventures among others. Wordsmith will ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/legal-ai-has-a-growing-token-price-problem",
+        "title": "Legal AI Has A Growing Token Price Problem",
+        "url": "https://www.artificiallawyer.com/2026/06/03/legal-ai-has-a-growing-token-price-problem/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-03T09:13:48.000Z",
+        "summary": "If legal AI tools are the vehicles our work is now transported by, then tokens are the oil that drives it all. And that’s an ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/agents-knowledge-graphs-with-netdocuments-dan-hauck",
+        "title": "Agents + Knowledge Graphs with NetDocuments&#8217; Dan Hauck",
+        "url": "https://www.artificiallawyer.com/2026/06/03/agents-knowledge-graphs-with-netdocuments-dan-hauck/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-03T07:35:38.000Z",
+        "summary": "In this AL TV Interview with NetDocuments&#8217; CPO Dan Hauck we talk about agents, KM and knowledge graphs. The central point here is that to ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/in-ctos-we-trust-legal-ais-challenge-is-confidence-at-scale",
+        "title": "In CTOs We Trust: Legal AI’s Challenge is Confidence at Scale",
+        "url": "https://www.artificiallawyer.com/2026/06/03/in-ctos-we-trust-legal-ais-challenge-is-confidence-at-scale/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-03T06:40:56.000Z",
+        "summary": "By Karen Waldron, LexisNexis. The legal profession is built on trust, which creates a very specific challenge for AI. Even the most advanced technology will ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1106,39 +1206,49 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ztm2hnuc8cfwt6ft7cgb",
+        "title": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "url": "https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-06T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/nwjh4oth0j4hsxjscraf",
+        "title": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "url": "https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-06T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3841028145236227",
+        "title": "SpaceX与谷歌达成每月9.2亿美元的云服务协议",
+        "url": "https://36kr.com/newsflashes/3841028145236227?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-06T01:35:53.000Z",
+        "summary": "6月6日，SpaceX和谷歌达成云服务协议。根据该协议，谷歌同意从2026年10月到2029年6月每月向SpaceX支付9.2亿美元。SpaceX提供的算力包括11万块英伟达GPU、CPU以及内存。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3840996342073604",
+        "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+        "url": "https://36kr.com/p/3840996342073604?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-06T01:07:19.000Z",
+        "summary": "今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好 B站宣布启动AI创造公开赛 TOP3大新闻 数据显示，豆包推出付费后月活减少610万 据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以来该应用罕见的下滑。Aicpb.com创始人李邦竹表示：“中国的免费人工智能",
+        "category": "articles",
+        "region": "cn"
+      },
       {
         "id": "36Kr:36kr.com/p/3840267945969929",
         "title": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
@@ -1211,7 +1321,7 @@
       },
       {
         "id": "36Kr:36kr.com/p/3839600052898054",
-        "title": "前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发",
+        "title": "前华为员工创业线控底盘，曾参编国��，获松禾、苏高新投资丨36氪首发",
         "url": "https://36kr.com/p/3839600052898054?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-05T01:23:23.000Z",
@@ -1240,16 +1350,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3839505332161026",
-        "title": "8点1氪丨分析师曝苹果Vision Pro产品线被移除；黄仁勋将首次亮相综艺节目；粉笔CEO就骂人大学生“活该找不到工作”道歉",
-        "url": "https://36kr.com/p/3839505332161026?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-04T23:46:55.000Z",
-        "summary": "今日热点导览 微信正与手机厂商合作推出Agent-to-Agent助手能力 擅用“LABUBU”相近标识商业推广，泡泡玛特告奈雪的茶获赔32万 腾讯客服回应与华为、小米等合作 神农旅游集团就国道收费进行道歉 苹果智能眼镜推迟至2029年，无显示屏AI眼镜仍将于2027年推出 TOP 3 大新闻 分析师曝苹果Vision Pro产品线被移除，2027年推AI眼镜 知名苹果分析师郭明錤发布最新供应链调查称，苹果已正式从其XR头显与智能眼镜路",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/video/7ycbappt1xwsjpbfdlij",
         "title": "凌晨 3 点数据库 P0，AI Agent 是怎么自己修好的？",
         "url": "https://www.infoq.cn/video/7yCbAPpT1xWSJPBfDLIJ?utm_source=rss&utm_medium=article",
@@ -1271,16 +1371,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3356102/china-launches-space-computing-hub-spacex-gears-historic-ipo",
-        "title": "China launches space computing hub as SpaceX gears up for historic IPO",
-        "url": "https://www.scmp.com/tech/big-tech/article/3356102/china-launches-space-computing-hub-spacex-gears-historic-ipo?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-05T14:00:07.000Z",
-        "summary": "China is ramping up its bets on space-based artificial intelligence computing with the launch of a state-backed research institute in Beijing, accelerating a frontier tech race with the US just as Elon Musk’s SpaceX eyes",
-        "category": "tools",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3356125/hong-kong-taps-banks-lawyers-and-crypto-firms-help-rewrite-rules-tokenised-bonds",
         "title": "Hong Kong taps banks, lawyers and crypto firms to help rewrite rules for tokenised bonds",
