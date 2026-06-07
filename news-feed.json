@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T02:44:55.088Z",
+  "generatedAt": "2026-06-07T08:46:31.047Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,22 +1210,42 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/powonlmel9zv0aodlvb9",
-        "title": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
-        "url": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-07T10:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3842694357092869",
+        "title": "AI等机器网络请求量首超人类",
+        "url": "https://36kr.com/newsflashes/3842694357092869?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-07T06:31:42.000Z",
+        "summary": "全球最大的互联网托管服务商之一——云网络安全服务公司发布的最新数据显示，在其托管网站收到的网络访问请求中，约57.4%来自人工智能和自动化程序，42.6%来自人类用户。该公司称，这是互联网历史上来自人类的网络访问请求数量首次被机器超越。 (央视新闻)",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3842464225921536",
-        "title": "百度成立数字人创新业务部",
-        "url": "https://36kr.com/newsflashes/3842464225921536?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3842626008647945",
+        "title": "多家供给方下调算力价格 算力普惠再提速",
+        "url": "https://36kr.com/newsflashes/3842626008647945?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-07T02:30:36.000Z",
-        "summary": "36氪获悉，日前，百度MEG进行了新的一轮组织调整：合并商业部与电商事业部，成立大商业事业部，数字人创新业务部也升级为独立部门。 此前5月13日Create 2026百度AI开发者大会上，百度正式宣布旗下数字人品牌慧播星升级为百度一镜，推出全球首个全场景多智能体数字人平台——集数字人直播、数字人视频、实时互动数字人于一体，并发布百度一镜海外版。截至2025年底，百度一镜数字人主播数已突破10万，服务30+行业。",
+        "publishedAt": "2026-06-07T06:00:11.000Z",
+        "summary": "随着全国算力基建规模化、标准化不断提速，多家算力价格也迎来持续普惠。让曾经昂贵的“高端稀缺资源”变身为各行各业可普惠使用的“数字水电”。前不久，多家模型厂商宣布永久下调算力价格，其中DeepSeek与小米MiMo降价尤为显著，最高降幅接近99%。极大降低了用户日常高频问答、网页设计、代码编程等多场景AI使用成本，让各类轻量化、常态化AI应用告别高门槛、高成本的制约。（央视新闻）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3842621948233991",
+        "title": "OpenAI正准备对ChatGPT进行上线以来最大幅度升级",
+        "url": "https://36kr.com/newsflashes/3842621948233991?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-07T05:30:04.000Z",
+        "summary": "OpenAI 正准备对 ChatGPT 进行上线以来最大幅度升级，此次升级也引爆了人工智能热潮。这家估值 8500 亿美元的集团计划在今年上市前寻找新的增长引擎。该公司打算将这款聊天机器人转型为 “超级应用”，整合编程工具与人工智能智能体，新增多款高管认为能带来更高收入的产品。据十多位现任及前任员工透露，这些调整是 OpenAI 整体重组计划的一部分。这家总部位于旧金山的公司正调配资源，全力争取高利润企业客户，并与竞争对手 Anthro",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3842587763493382",
+        "title": "算力普惠再提速 全球首个“预制算力中心底座”正式投用",
+        "url": "https://36kr.com/newsflashes/3842587763493382?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-07T04:28:16.000Z",
+        "summary": "昨天（6日），全球首个预制算力中心底座在山东青岛正式启用。相较于传统算力中心节约施工周期近70%，为当前算力基础设施建设提供更高效、更低碳的新方案。算力中心底座，简单来说就是算力中心的能源枢纽和电力堡垒，也可以称为算力中心的“心脏”，为算力中心提供持续稳定的电力。而底座的供电稳定性、能效利用率则直接关系到算力中心的整体工作能力。（央视新闻）",
         "category": "updates",
         "region": "cn"
       },
@@ -1236,26 +1256,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-06-06T10:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3841455348746496",
-        "title": "特锐德：推出算力中心供电站“算电岛” Token成本可降低30%",
-        "url": "https://36kr.com/newsflashes/3841455348746496?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-06T08:50:27.000Z",
-        "summary": "特锐德推出算力中心高压交直流预制舱供电站“算电岛”，重构智算中心供电底层架构，设备工厂模块化预制，可直入110/220kV高压，800V直流直供机房。建设周期缩至150天；依托碳化硅SST技术，供电效率98.5%；依托算电协同AI平台优化调度，Token用电成本下降约30%；800V母线直挂储能，实现绿电就地100%消纳；集成化方案使项目综合造价下降20%、运维成本降低40%。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3841354006645248",
-        "title": "证监会主席吴清：坚决遏制概念炒作、复杂嵌套、过度投机、通道空转等伪创新、乱创新",
-        "url": "https://36kr.com/newsflashes/3841354006645248?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-06T07:07:22.000Z",
-        "summary": "证监会官网发布吴清主席在中国证券投资基金业协会第四届会员代表大会上的致辞。吴清表示，随着人工智能等前沿技术蓬勃发展，基金行业经营模式和发展生态正在发生深刻变革。行业机构要持续提升产品、服务、业务、组织等方面创新的广度和深度，更加全面、更加有效对接市场需求。要加强科技赋能，稳妥有序探索运用人工智能、大数据等新技术，有效赋能投资投研、客户服务、内控管理等重点场景，加快数字化、智能化转型。要突出错位发展，头部机构要全面提升综合竞争实力，中小机",
         "category": "updates",
         "region": "cn"
       },
@@ -1351,16 +1351,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/markets/article/3356193/why-cant-investors-buy-mainlands-hottest-ai-stocks-stock-connect",
-        "title": "Why can’t investors buy the mainland’s hottest AI stocks via Stock Connect?",
-        "url": "https://www.scmp.com/business/markets/article/3356193/why-cant-investors-buy-mainlands-hottest-ai-stocks-stock-connect?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-07T02:30:07.000Z",
-        "summary": "Since 2014, the Stock Connect scheme has become a major channel for Hong Kong and international investors to buy stocks on the Chinese mainland. But cross-border traders have grown frustrated in recent months, as they ha",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3356125/hong-kong-taps-banks-lawyers-and-crypto-firms-help-rewrite-rules-tokenised-bonds",
         "title": "Hong Kong taps banks, lawyers and crypto firms to help rewrite rules for tokenised bonds",
