@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T15:32:43.623Z",
+  "generatedAt": "2026-06-08T20:03:17.464Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/ambiguity&",
+        "title": "Ambiguity in Law: It’s not established by disagreement alone",
+        "url": "https://www.abajournal.com/columns/article/ambiguity&#45;in&#45;law&#45;its&#45;not&#45;established&#45;by&#45;disagreement&#45;alone/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-08T19:19:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/bar&",
+        "title": "Lawyer quits law to become restaurant server",
+        "url": "https://www.abajournal.com/news/article/bar&#45;trade&#45;attorney&#45;quits&#45;law&#45;to&#45;become&#45;a&#45;restaurant&#45;server/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-08T18:12:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/increase&",
+        "title": "Increase in legal jobs driven by litigation, life sciences work",
+        "url": "https://www.abajournal.com/news/article/increase&#45;in&#45;legal&#45;jobs&#45;driven&#45;by&#45;litigation&#45;life&#45;sciences&#45;work/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-08T15:37:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/ohio&",
         "title": "Attorney convicted of theft is disbarred by state supreme court",
@@ -108,42 +138,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
-        "title": "DOJ seeks 8-year prison sentence for SCOTUSblog founder Tom Goldstein",
-        "url": "https://www.abajournal.com/news/article/doj&#45;seeks&#45;8&#45;year&#45;prison&#45;sentence&#45;for&#45;former&#45;supreme&#45;court&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-04T16:40:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/attorneys&",
-        "title": "Attorneys&#8217; lack of candor over AI errors leads to stricter sanctions",
-        "url": "https://www.abajournal.com/news/article/attorneys&#45;lack&#45;of&#45;candor&#45;over&#45;ai&#45;errors&#45;leads&#45;to&#45;stricter&#45;sanctions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-04T16:24:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/join-650-legal-innovators-in-sf-next-week",
         "title": "Join 650+ Legal Innovators in SF Next Week!",
         "url": "https://www.artificiallawyer.com/2026/06/04/join-650-legal-innovators-in-sf-next-week/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-04T16:15:02.000Z",
         "summary": "Come and join amazing speakers from OpenAI, Meta, Google, Y Combinator, Cooley, and Wilson Sonsini, along with 650+ others already attending the landmark&#160;Legal Innovators California&#160;conference ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/courtroom&",
-        "title": "Courtroom Courage: Judge doesn't like your objections? Here are some tips to keep them coming in meaningful way",
-        "url": "https://www.abajournal.com/web/article/courtroom&#45;courage/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-04T16:07:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1361,26 +1361,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3356310/leaks-and-backdoors-china-warns-security-risks-relay-services-foreign-ai-models",
-        "title": "Leaks and backdoors: China warns of security risks in relay services for foreign AI models",
-        "url": "https://www.scmp.com/tech/big-tech/article/3356310/leaks-and-backdoors-china-warns-security-risks-relay-services-foreign-ai-models?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-08T14:00:06.000Z",
-        "summary": "China’s national security authority has warned of risks in using “artificial intelligence relay services” that provide access to overseas AI models, highlighting concerns over data leaks, privacy breaches and unauthorise",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3356396/chinas-ev-giants-challenge-tesla-race-commercialise-humanoid-robots",
-        "title": "China’s EV giants challenge Tesla in race to commercialise humanoid robots",
-        "url": "https://www.scmp.com/business/china-business/article/3356396/chinas-ev-giants-challenge-tesla-race-commercialise-humanoid-robots?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-08T12:30:13.000Z",
-        "summary": "Chinese electric vehicle (EV) makers are opening a new front in their battle with Tesla: humanoid robots. After spending years competing on electric cars and autonomous driving technology, leading Chinese manufacturers i",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai",
         "title": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI",
