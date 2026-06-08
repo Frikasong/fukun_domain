@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T19:08:14.193Z",
+  "generatedAt": "2026-06-08T02:48:17.974Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,23 +1210,53 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3842694357092869",
-        "title": "AI等机器网络请求量首超人类",
-        "url": "https://36kr.com/newsflashes/3842694357092869?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-07T06:31:42.000Z",
-        "summary": "全球最大的互联网托管服务商之一——云网络安全服务公司发布的最新数据显示，在其托管网站收到的网络访问请求中，约57.4%来自人工智能和自动化程序，42.6%来自人类用户。该公司称，这是互联网历史上来自人类的网络访问请求数量首次被机器超越。 (央视新闻)",
+        "id": "InfoQ China:www.infoq.cn/article/xh4lhslwqtqo1lp4oqia",
+        "title": "别再碰瓷100 亿美元“身价”的世界模型了，李飞飞这次手把手教你分辨",
+        "url": "https://www.infoq.cn/article/xh4lHSLWQtqo1lp4oqIA?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-08T10:09:32.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3842626008647945",
-        "title": "多家供给方下调算力价格 算力普惠再提速",
-        "url": "https://36kr.com/newsflashes/3842626008647945?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-07T06:00:11.000Z",
-        "summary": "随着全国算力基建规模化、标准化不断提速，多家算力价格也迎来持续普惠。让曾经昂贵的“高端稀缺资源”变身为各行各业可普惠使用的“数字水电”。前不久，多家模型厂商宣布永久下调算力价格，其中DeepSeek与小米MiMo降价尤为显著，最高降幅接近99%。极大降低了用户日常高频问答、网页设计、代码编程等多场景AI使用成本，让各类轻量化、常态化AI应用告别高门槛、高成本的制约。（央视新闻）",
+        "id": "InfoQ China:www.infoq.cn/article/72dowa3serwcsqx5poay",
+        "title": "Agent正把基础设施逼到极限！GitLab盈利大涨后裁员350人，下一代Git重构已启动",
+        "url": "https://www.infoq.cn/article/72doWa3SERwCsQX5pOAy?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-08T10:04:37.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/htlxgklt8ixjxr6by28y",
+        "title": "拖尾请求不是故障：自适应 Hedged Request 如何降低 74% 的 p99 延迟",
+        "url": "https://www.infoq.cn/article/htLxGkLT8ixjxR6bY28Y?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-08T10:01:26.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/gf4722xxwc2qlhzx6qke",
+        "title": "Seal：小红书企业级 AI 个人助理的从 0 到全员覆盖｜AICon上海",
+        "url": "https://www.infoq.cn/article/gF4722XXWC2qLhZx6Qke?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-08T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3843764238174729",
+        "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
+        "url": "https://36kr.com/p/3843764238174729?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-08T00:01:39.000Z",
+        "summary": "今日热点导览 AI等机器网络请求量首超人类 瑞幸咖啡回应拿铁去冰仅半杯 宗馥莉自有品牌KELLYONE回归 多家低成本航空公司对登机箱登机收费 黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案 TOP3大新闻 八家上市公司集中公告“补税” 6月1日至6日，不到一周内，八家A股上市公司先后披露补缴税款公告。这八家公司合计补缴税款及滞纳金约4亿元。其中，苹果中国最大授权经销商爱施德（002416.SZ）一家补缴3.08亿元，占八家总额的近八",
+        "category": "skills",
         "region": "cn"
       },
       {
@@ -1285,18 +1315,8 @@
         "url": "https://36kr.com/p/3838835333253385?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-05T01:00:00.000Z",
-        "summary": "作者 | 邱晓芬 编辑 | 袁��来 硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括 智谱、阶跃星辰、商汤科技。 此外， 华勤、上汽恒旭 等产业投资方持续加注 。 「原力灵机」 是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO 唐文斌 创立，团队核心创始成员为旷视科技原班人马。 有意思的是，此次融资也是商汤、旷视这两家曾经的对手，在具身智能的热潮中罕见“会师”； 另外，算上A",
+        "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括 智谱、阶跃星辰、商汤科技。 此外， 华勤、上汽恒旭 等产业投资方持续加注 。 「原力灵机」 是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO 唐文斌 创立，团队核心创始成员为旷视科技原班人马。 有意思的是，此次融资也是商汤、旷视这两家曾经的对手，在具身智能的热潮中罕见“会师”； 另外，算上A+",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3835460873385348",
-        "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
-        "url": "https://36kr.com/p/3835460873385348?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-05T00:30:00.000Z",
-        "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建设以及加速产业化落地。 百曜科技是36氪持续追踪报道的企业（ 附链接 ），公司创始团队依托中国科学院动物研究所、北京干细胞与再生医学研究院的",
-        "category": "articles",
         "region": "cn"
       },
       {
@@ -1308,29 +1328,9 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ykelhesd692pgutqbwsi",
-        "title": "把数据库运维这件苦差事，交给 AI Agent",
-        "url": "https://www.infoq.cn/article/YKeLhEsd692pgUtqBwSI?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-04T15:10:24.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3356125/hong-kong-taps-banks-lawyers-and-crypto-firms-help-rewrite-rules-tokenised-bonds",
-        "title": "Hong Kong taps banks, lawyers and crypto firms to help rewrite rules for tokenised bonds",
-        "url": "https://www.scmp.com/business/cryptocurrency/article/3356125/hong-kong-taps-banks-lawyers-and-crypto-firms-help-rewrite-rules-tokenised-bonds?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-05T10:45:05.000Z",
-        "summary": "Hong Kong’s de facto central bank has formed a group of industry experts to help remove legal and regulatory hurdles to tokenized bonds, as authorities seek to move beyond pilot projects and encourage wider adoption from",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai",
         "title": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI",
