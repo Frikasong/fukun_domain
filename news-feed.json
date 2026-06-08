@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T02:48:17.974Z",
+  "generatedAt": "2026-06-08T10:20:22.767Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,42 +1210,182 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/xh4lhslwqtqo1lp4oqia",
-        "title": "别再碰瓷100 亿美元“身价”的世界模型了，李飞飞这次手把手教你分辨",
-        "url": "https://www.infoq.cn/article/xh4lHSLWQtqo1lp4oqIA?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/uopvfbkh0jnk6hse9xr0",
+        "title": "Notion 封禁 Anthropic，并用模型降智把 Opus 4.8 送上热搜！12小时后紧急澄清系笔误",
+        "url": "https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-08T10:09:32.000Z",
+        "publishedAt": "2026-06-08T18:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/72dowa3serwcsqx5poay",
-        "title": "Agent正把基础设施逼到极限！GitLab盈利大涨后裁员350人，下一代Git重构已启动",
-        "url": "https://www.infoq.cn/article/72doWa3SERwCsQX5pOAy?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/qhsuhmxx4csduhl0348d",
+        "title": "不卷Token总量，华为云改卷token生产力：Agentic Infra背后，AI云竞争进入下半场",
+        "url": "https://www.infoq.cn/article/QHSuhmxx4CsdUHl0348D?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-08T10:04:37.000Z",
+        "publishedAt": "2026-06-08T17:48:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/htlxgklt8ixjxr6by28y",
-        "title": "拖尾请求不是故障：自适应 Hedged Request 如何降低 74% 的 p99 延迟",
-        "url": "https://www.infoq.cn/article/htLxGkLT8ixjxR6bY28Y?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/umwulaa4bmhln9yhfgit",
+        "title": "Token日生成数百万亿，传统负载均衡不够用了：F5 开始做Token级调度",
+        "url": "https://www.infoq.cn/article/uMwuLAA4BmHlN9YhFgIT?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-08T10:01:26.000Z",
+        "publishedAt": "2026-06-08T17:35:16.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/gf4722xxwc2qlhzx6qke",
-        "title": "Seal：小红书企业级 AI 个人助理的从 0 到全员覆盖｜AICon上海",
-        "url": "https://www.infoq.cn/article/gF4722XXWC2qLhZx6Qke?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/wmug5jeyhwroxvpa2b0n",
+        "title": "全球近1.8万人参赛，科研智能体同台竞技，第四届世界科学智能大赛初赛收官、复赛开启",
+        "url": "https://www.infoq.cn/article/WMUg5jeYhWrOXVpA2b0N?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-08T10:00:00.000Z",
+        "publishedAt": "2026-06-08T17:07:56.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/z45xgvupf2eqizy3sscr",
+        "title": "借助广度优先引擎，Shopify 将 GraphQL 执行速度提升了 15 倍",
+        "url": "https://www.infoq.cn/article/Z45xgVupF2eQizy3SScr?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-08T17:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/dxrsfgkc1e2ck60igyht",
+        "title": "云知声U2，重新计算通用大模型的商业价值",
+        "url": "https://www.infoq.cn/article/dXrSfgKc1E2Ck60IGYhT?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-08T16:43:44.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/e1omvu7a5eh9hdmcajle",
+        "title": "“英伟达也缺算力！”顶尖AI研究员转投xAI内幕：谁GPU管够，就去哪里",
+        "url": "https://www.infoq.cn/article/E1oMvU7A5EH9hDMcAJLE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-08T16:34:49.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/trqr8xptugwc9yut3gkw",
+        "title": "腾讯内部宣布调整 token额度；宇树回应牵手英伟达；阿里员工7万字离职帖引爆内网｜AI周报",
+        "url": "https://www.infoq.cn/article/trQR8xPTugwC9YuT3gkw?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-08T16:20:52.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/komjeqrrmbv6tujqaslh",
+        "title": "Claude Code 引入动态工作流，用于并行代理协调",
+        "url": "https://www.infoq.cn/article/koMjEQrRMBV6TuJqASLH?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-08T15:56:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/a0yhe6dd2vu3v2amyolu",
+        "title": "利用尾斜杠绕过 AWS API Gateway 授权",
+        "url": "https://www.infoq.cn/article/A0yhe6dD2Vu3V2AmyoLu?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-08T11:03:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3844363937483267",
+        "title": "国家数据局：创新行业高质量数据集商业模式，探索词元交易等新型交易模式",
+        "url": "https://36kr.com/newsflashes/3844363937483267?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-08T10:09:13.000Z",
+        "summary": "36氪获悉，国家数据局发布《关于推进行业高质量数据集建设行动的实施方案》，其中提到，创新行业高质量数据集商业模式。完善数据集长效运营机制，鼓励数据集在数据交易所（中心）等数据流通服务机构挂牌交易，发展“订阅模式”“商场模式”“定制模式”等多元服务形态，推动商业模式从基础数据包销售向API调用、模型化解决方案及全栈服务梯次跃升。探索词元交易等新型交易模式，构建以词元为基础，可量化、可定价的数据价值体系。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3844346048743689",
+        "title": "英国首相斯塔默斥资5.33亿美元投资人工智能芯片，支持“主权计算”",
+        "url": "https://36kr.com/newsflashes/3844346048743689?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-08T09:57:56.000Z",
+        "summary": "英国首相基尔·斯塔默周一宣布了一项旨在发展自主计算能力的新战略，承诺投入约4亿英镑（5.33亿美元）用于采购专用人工智能芯片，并支持本土初创企业。“我们将利用公共采购的力量来支持英国的创新精神，”斯塔默周一在伦敦科技周大会上的演讲中表示。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3844349427992833",
+        "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
+        "url": "https://36kr.com/newsflashes/3844349427992833?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-08T09:54:28.000Z",
+        "summary": "今天，国家数据局发布《关于推进行业高质量数据集建设行动的实施方案》，这是国家层面首次对数据赋能人工智能发展作出的系统性部署。《实施方案》围绕行业高质量数据集供给、流通、应用等关键环节，部署六大专项行动，提出面向人工智能应用需求，持续推进文本、图像、音视频等多模态高质量数据集建设；聚焦智能体、具身智能和世界模型等重点方向，要求加快推进数据集建设；引导具备条件的地区因地制宜开展数据标注创新试验区建设。（央视新闻）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3844339389254145",
+        "title": "阿里巴巴升级大模型组织架构，成立Token Foundry事业部",
+        "url": "https://36kr.com/newsflashes/3844339389254145?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-08T09:44:15.000Z",
+        "summary": "36氪获悉，6月8日，阿里巴巴宣布合并通义大模型事业部和未来生活实验室，成立Token Foundry事业部，由集团CEO吴泳铭直接负责。据了解，此次调整涉及到一批AI业务。周靖人将担任阿里巴巴首席科学家，牵头成立阿里巴巴AI未来研究院，专注前沿AI科技的探索与突破。郑波带领Happy Horse、Happy Oyster等加入Token Foundry事业部。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3844318693837317",
+        "title": "上海：截至6月8日新增6款已完成登记的生成式人工智能服务",
+        "url": "https://36kr.com/newsflashes/3844318693837317?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-08T09:39:25.000Z",
+        "summary": "36氪获悉，据网信上海消息，截至6月8日，上海市新增6款已完成登记的生成式人工智能服务，累计已完成183款生成式人工智能服务登记。已上线的生成式人工智能应用或功能，应在显著位置或产品详情页面标明所取得的上线编号，并根据《人工智能生成合成内容标识办法》添加生成合成内容标识。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3844018911889924",
+        "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
+        "url": "https://36kr.com/p/3844018911889924?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-08T09:01:03.000Z",
+        "summary": "文｜王毓婵 编辑｜张雨忻 6月5日，腾讯云AI产业应用大会最受外界关注的是什么？ 毫无疑问，是汤道生与姚顺雨的对话。 在这场发布了一系列覆盖20多个垂直场景Agent的大会上，因为产品过于To B，也没有提及大家最关注的“微信AI”，导致外界的关注重心几乎全部被那场对话吸引走。 腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生，在对谈中问腾讯首席AI科学家、腾讯混元大语言模型及AI Infra负责人姚顺雨，“很多人说腾讯在AI上慢",
+        "category": "skills",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3844199957236227",
+        "title": "改变全球速度的AI，付款却卡在上一个时代",
+        "url": "https://36kr.com/p/3844199957236227?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-08T07:30:56.000Z",
+        "summary": "2026年，全球平均每小时就有一家新的AI公司诞生。 AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁的产品先跑出来，谁就能在这场军备竞赛里站稳脚跟。 但在这场喧嚣之外，一个被大多数人忽视的问题，正在悄悄侵蚀每一家AI企业的利润：钱，到底能不能顺畅地流动起来？ 当AI企业的采购清单越来越全球化，支付链路的每一个断",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3844006775360002",
+        "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
+        "url": "https://36kr.com/p/3844006775360002?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-08T04:07:08.000Z",
+        "summary": "作者 | 邱晓芬 编辑 | 袁斯来 「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。 作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。 但范典做第一款产品用了三年。 2024年，智能硬件还是很冷僻的赛道，范典的选择更是小众中的小众。 他没做当时已被市场验证过的AI可穿戴设备、",
         "category": "updates",
         "region": "cn"
       },
@@ -1257,16 +1397,6 @@
         "publishedAt": "2026-06-08T00:01:39.000Z",
         "summary": "今日热点导览 AI等机器网络请求量首超人类 瑞幸咖啡回应拿铁去冰仅半杯 宗馥莉自有品牌KELLYONE回归 多家低成本航空公司对登机箱登机收费 黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案 TOP3大新闻 八家上市公司集中公告“补税” 6月1日至6日，不到一周内，八家A股上市公司先后披露补缴税款公告。这八家公司合计补缴税款及滞纳金约4亿元。其中，苹果中国最大授权经销商爱施德（002416.SZ）一家补缴3.08亿元，占八家总额的近八",
         "category": "skills",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ztm2hnuc8cfwt6ft7cgb",
-        "title": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
-        "url": "https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-06T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
         "region": "cn"
       },
       {
@@ -1296,36 +1426,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-05T08:28:25.000Z",
         "summary": "作者 | 邓咏仪 编辑 | 张雨忻 “在当前国产化算力正在成长的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。” 6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。 他举了个例子：一个人闲来无事在手机上问 AI 一个问题，也会产生 Token，但这种 Token 的价值",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3839575253993985",
-        "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
-        "url": "https://36kr.com/p/3839575253993985?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-05T03:39:48.000Z",
-        "summary": "文｜王毓婵 梁键强 编辑｜张雨忻 昨日，腾讯客服回应称，微信正在与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，目前已有多家厂商完成接入。 “您可以通过对应手机系统的AI助手发起 微信音视频通话 或 向指定好友发送消息 。该功能基于A2A（Agent-to-Agent）协作机制，数据安全与隐私通过双重授权机制保障。合作旨在将微信高频沟通功能融入手机系统助手，为您提供更便捷的使用体验。”腾讯客服表示。 与之前字节跳",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3838835333253385",
-        "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
-        "url": "https://36kr.com/p/3838835333253385?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-05T01:00:00.000Z",
-        "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括 智谱、阶跃星辰、商汤科技。 此外， 华勤、上汽恒旭 等产业投资方持续加注 。 「原力灵机」 是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO 唐文斌 创立，团队核心创始成员为旷视科技原班人马。 有意思的是，此次融资也是商汤、旷视这两家曾经的对手，在具身智能的热潮中罕见“会师”； 另外，算上A+",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/7ycbappt1xwsjpbfdlij",
-        "title": "凌晨 3 点数据库 P0，AI Agent 是怎么自己修好的？",
-        "url": "https://www.infoq.cn/video/7yCbAPpT1xWSJPBfDLIJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-04T18:51:31.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
