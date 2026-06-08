@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T10:20:22.767Z",
+  "generatedAt": "2026-06-08T15:32:43.623Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ohio&",
+        "title": "Attorney convicted of theft is disbarred by state supreme court",
+        "url": "https://www.abajournal.com/news/article/ohio&#45;supreme&#45;court&#45;disbars&#45;attorney&#45;convicted&#45;of&#45;theft/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-08T15:18:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/new&",
+        "title": "Attorney charged with trying to smuggle drugs into prison, allegedly possessing child pornography",
+        "url": "https://www.abajournal.com/news/article/new&#45;mexico&#45;attorney&#45;charged&#45;with&#45;trying&#45;to&#45;smuggle&#45;drugs&#45;into&#45;prison&#45;possessing&#45;child&#45;pornography/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-08T14:49:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/casepoint-names-govtech-veteran-paul-colangelo-ceo-as-thoma-bravo-backed-company-pushes-deeper-into-government.html",
+        "title": "Casepoint Names GovTech Veteran Paul Colangelo CEO, As Thoma Bravo–Backed Company Pushes Deeper Into Government",
+        "url": "https://www.lawnext.com/2026/06/casepoint-names-govtech-veteran-paul-colangelo-ceo-as-thoma-bravo-backed-company-pushes-deeper-into-government.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-08T12:15:36.000Z",
+        "summary": "Casepoint has named Paul Colangelo, a longtime government- and enterprise-software executive, as its chief executive officer, the company announced this morning. He will oversee the company&#8217;s continuing integration",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/9th&",
         "title": "9th Circuit judge faces misdemeanor charges of battery and property damage",
@@ -113,26 +143,6 @@
         "url": "https://www.abajournal.com/web/article/courtroom&#45;courage/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-06-04T16:07:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
-        "title": "Family sues Campbell Soup over alleged &#8216;worm-like organisms&#8217; inside SpaghettiOs",
-        "url": "https://www.abajournal.com/news/article/florida&#45;family&#45;sues&#45;over&#45;worm&#45;like&#45;organisms&#45;inside&#45;spaghettios/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-04T15:06:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/law&",
-        "title": "88 law school deans unite to support professional independence",
-        "url": "https://www.abajournal.com/news/article/law&#45;school&#45;deans&#45;unite&#45;to&#45;support&#45;professional&#45;independence/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-04T14:37:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1168,16 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/02/lexisnexis-launches-lexis-with-protege-replacing-lexis-ai-with-an-end-to-end-workflow-platform.html",
-        "title": "LexisNexis Launches Lexis+ with Protégé, Replacing Lexis+ AI with an End-to-End Workflow Platform",
-        "url": "https://www.lawnext.com/2026/02/lexisnexis-launches-lexis-with-protege-replacing-lexis-ai-with-an-end-to-end-workflow-platform.html",
-        "source": "LawSites",
-        "publishedAt": "2026-02-24T13:00:33.000Z",
-        "summary": "You can bid adieu to Lexis+ AI. LexisNexis is today announcing the general availability in the United States of Lexis+ with Protégé, an integrated flagship platform that fully replaces Lexis+ AI — which the company now d",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,56 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/uopvfbkh0jnk6hse9xr0",
-        "title": "Notion 封禁 Anthropic，并用模型降智把 Opus 4.8 送上热搜！12小时后紧急澄清系笔误",
-        "url": "https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-08T18:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qhsuhmxx4csduhl0348d",
-        "title": "不卷Token总量，华为云改卷token生产力：Agentic Infra背后，AI云竞争进入下半场",
-        "url": "https://www.infoq.cn/article/QHSuhmxx4CsdUHl0348D?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-08T17:48:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/umwulaa4bmhln9yhfgit",
-        "title": "Token日生成数百万亿，传统负载均衡不够用了：F5 开始做Token级调度",
-        "url": "https://www.infoq.cn/article/uMwuLAA4BmHlN9YhFgIT?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-08T17:35:16.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wmug5jeyhwroxvpa2b0n",
-        "title": "全球近1.8万人参赛，科研智能体同台竞技，第四届世界科学智能大赛初赛收官、复赛开启",
-        "url": "https://www.infoq.cn/article/WMUg5jeYhWrOXVpA2b0N?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-08T17:07:56.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/z45xgvupf2eqizy3sscr",
-        "title": "借助广度优先引擎，Shopify 将 GraphQL 执行速度提升了 15 倍",
-        "url": "https://www.infoq.cn/article/Z45xgVupF2eQizy3SScr?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-08T17:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/dxrsfgkc1e2ck60igyht",
         "title": "云知声U2，重新计算通用大模型的商业价值",
         "url": "https://www.infoq.cn/article/dXrSfgKc1E2Ck60IGYhT?utm_source=rss&utm_medium=article",
@@ -1280,16 +1230,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/trqr8xptugwc9yut3gkw",
-        "title": "腾讯内部宣布调整 token额度；宇树回应牵手英伟达；阿里员工7万字离职帖引爆内网｜AI周报",
-        "url": "https://www.infoq.cn/article/trQR8xPTugwC9YuT3gkw?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-08T16:20:52.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/komjeqrrmbv6tujqaslh",
         "title": "Claude Code 引入动态工作流，用于并行代理协调",
         "url": "https://www.infoq.cn/article/koMjEQrRMBV6TuJqASLH?utm_source=rss&utm_medium=article",
@@ -1300,62 +1240,52 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/p/3844559758936582",
+        "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+        "url": "https://36kr.com/p/3844559758936582?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-08T13:29:53.000Z",
+        "summary": "大公司： 热门中概股美股盘前多数上涨，哔哩哔哩涨超5% 36氪获悉，热门中概股美股盘前多数上涨，截至发稿，哔哩哔哩涨超5%，蔚来、理想汽车涨超2%，阿里巴巴涨0.87%，京东涨0.48%，小鹏集团涨0.31%，百度跌超1%，拼多多跌0.35%。 天娱数科：目前无物理AI业务，未形成相关业务收入 36氪获悉，天娱数科公告，公司股票于2026年6月5日、6月8日连续两个交易日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。经公司自查",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3844521049065737",
+        "title": "金安国纪：公司覆铜板主要客户为PCB厂商，未发现在AI服务器及算力领域的应用",
+        "url": "https://36kr.com/newsflashes/3844521049065737?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-08T12:49:02.000Z",
+        "summary": "36氪获悉，金安国纪公告，近期公司关注到网上传播关于公司产品纳入英伟达、华为供应链体系认证等相关信息，相关信息均为不实信息。截至目前公司未与英伟达、华为有过接触，也未与其开展任何形式的业务合作。公司覆铜板主要客户为PCB厂商，未发现在AI服务器及算力领域的应用，目前高频高速覆铜板产品尚在实验室研发及客户送样阶段，尚未形成收入。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3844514407336201",
+        "title": "同程旅行将接入微信AI智能体，机票、酒店将实现AI一键预订",
+        "url": "https://36kr.com/newsflashes/3844514407336201?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-08T12:47:44.000Z",
+        "summary": "36氪获悉，6月8日，同程旅行宣布即将全面接入微信AI智能体生态，并成为首批接入微信AI生态的在线旅游平台（OTA）。未来，用户可在微信AI智能体内，通过语音指令或文字输入提出旅行需求，便可通过人工智能完成行程规划，并实现旅行产品的对比、决策及预订服务。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3844456903166217",
+        "title": "“昆仑元AI”获5000万元战略融资",
+        "url": "https://36kr.com/newsflashes/3844456903166217?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-08T11:43:47.000Z",
+        "summary": "36氪获悉，湖南昆仑元人工智能应用软件有限公司（KunlunMeta，昆仑元AI）宣布完成5000万元战略轮融资，由A股上市公司景嘉微全资子公司长沙景美集成电路设计有限公司领投。据了解，双方将聚焦芯片设计、算力适配、产品联合研发、生态共建等领域深度合作，依托景美国产GPU算力优势与昆仑元AI的软件栈、场景落地能力，构建“国产GPU+全栈AI基础设施”一体化方案。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/a0yhe6dd2vu3v2amyolu",
         "title": "利用尾斜杠绕过 AWS API Gateway 授权",
         "url": "https://www.infoq.cn/article/A0yhe6dD2Vu3V2AmyoLu?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-06-08T11:03:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3844363937483267",
-        "title": "国家数据局：创新行业高质量数据集商业模式，探索词元交易等新型交易模式",
-        "url": "https://36kr.com/newsflashes/3844363937483267?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-08T10:09:13.000Z",
-        "summary": "36氪获悉，国家数据局发布《关于推进行业高质量数据集建设行动的实施方案》，其中提到，创新行业高质量数据集商业模式。完善数据集长效运营机制，鼓励数据集在数据交易所（中心）等数据流通服务机构挂牌交易，发展“订阅模式”“商场模式”“定制模式”等多元服务形态，推动商业模式从基础数据包销售向API调用、模型化解决方案及全栈服务梯次跃升。探索词元交易等新型交易模式，构建以词元为基础，可量化、可定价的数据价值体系。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3844346048743689",
-        "title": "英国首相斯塔默斥资5.33亿美元投资人工智能芯片，支持“主权计算”",
-        "url": "https://36kr.com/newsflashes/3844346048743689?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-08T09:57:56.000Z",
-        "summary": "英国首相基尔·斯塔默周一宣布了一项旨在发展自主计算能力的新战略，承诺投入约4亿英镑（5.33亿美元）用于采购专用人工智能芯片，并支持本土初创企业。“我们将利用公共采购的力量来支持英国的创新精神，”斯塔默周一在伦敦科技周大会上的演讲中表示。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3844349427992833",
-        "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
-        "url": "https://36kr.com/newsflashes/3844349427992833?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-08T09:54:28.000Z",
-        "summary": "今天，国家数据局发布《关于推进行业高质量数据集建设行动的实施方案》，这是国家层面首次对数据赋能人工智能发展作出的系统性部署。《实施方案》围绕行业高质量数据集供给、流通、应用等关键环节，部署六大专项行动，提出面向人工智能应用需求，持续推进文本、图像、音视频等多模态高质量数据集建设；聚焦智能体、具身智能和世界模型等重点方向，要求加快推进数据集建设；引导具备条件的地区因地制宜开展数据标注创新试验区建设。（央视新闻）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3844339389254145",
-        "title": "阿里巴巴升级大模型组织架构，成立Token Foundry事业部",
-        "url": "https://36kr.com/newsflashes/3844339389254145?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-08T09:44:15.000Z",
-        "summary": "36氪获悉，6月8日，阿里巴巴宣布合并通义大模型事业部和未来生活实验室，成立Token Foundry事业部，由集团CEO吴泳铭直接负责。据了解，此次调整涉及到一批AI业务。周靖人将担任阿里巴巴首席科学家，牵头成立阿里巴巴AI未来研究院，专注前沿AI科技的探索与突破。郑波带领Happy Horse、Happy Oyster等加入Token Foundry事业部。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3844318693837317",
-        "title": "上海：截至6月8日新增6款已完成登记的生成式人工智能服务",
-        "url": "https://36kr.com/newsflashes/3844318693837317?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-08T09:39:25.000Z",
-        "summary": "36氪获悉，据网信上海消息，截至6月8日，上海市新增6款已完成登记的生成式人工智能服务，累计已完成183款生成式人工智能服务登记。已上线的生成式人工智能应用或功能，应在显著位置或产品详情页面标明所取得的上线编号，并根据《人工智能生成合成内容标识办法》添加生成合成内容标识。",
         "category": "updates",
         "region": "cn"
       },
@@ -1431,6 +1361,26 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3356310/leaks-and-backdoors-china-warns-security-risks-relay-services-foreign-ai-models",
+        "title": "Leaks and backdoors: China warns of security risks in relay services for foreign AI models",
+        "url": "https://www.scmp.com/tech/big-tech/article/3356310/leaks-and-backdoors-china-warns-security-risks-relay-services-foreign-ai-models?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-08T14:00:06.000Z",
+        "summary": "China’s national security authority has warned of risks in using “artificial intelligence relay services” that provide access to overseas AI models, highlighting concerns over data leaks, privacy breaches and unauthorise",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3356396/chinas-ev-giants-challenge-tesla-race-commercialise-humanoid-robots",
+        "title": "China’s EV giants challenge Tesla in race to commercialise humanoid robots",
+        "url": "https://www.scmp.com/business/china-business/article/3356396/chinas-ev-giants-challenge-tesla-race-commercialise-humanoid-robots?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-08T12:30:13.000Z",
+        "summary": "Chinese electric vehicle (EV) makers are opening a new front in their battle with Tesla: humanoid robots. After spending years competing on electric cars and autonomous driving technology, leading Chinese manufacturers i",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai",
         "title": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI",
