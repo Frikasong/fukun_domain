@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T14:30:19.328Z",
+  "generatedAt": "2026-06-09T19:57:59.490Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/georgia&",
+        "title": "2 GOP reps plan impeachment articles against judge who had in-chambers sex with top police officer",
+        "url": "https://www.abajournal.com/news/article/georgia&#45;representatives&#45;announce&#45;bringing&#45;impeachment&#45;article&#45;against&#45;judge&#45;who&#45;had&#45;in&#45;chambers&#45;sex&#45;overheard&#45;by&#45;staff/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-09T16:23:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/conn&",
+        "title": "Prosecutor admits to accessing databases to spy on romantic rival",
+        "url": "https://www.abajournal.com/news/article/conn&#45;prosecutor&#45;accused&#45;of&#45;accessing&#45;database&#45;to&#45;spy&#45;on&#45;romantic&#45;rival/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-09T15:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/san&",
+        "title": "Wills and trust attorney gets 20 years in prison for stealing over $500K from kids&#8217; trust",
+        "url": "https://www.abajournal.com/news/article/san&#45;antonio&#45;wills&#45;and&#45;trust&#45;attorney&#45;gets&#45;20&#45;years&#45;for&#45;stealing&#45;500000&#45;from&#45;kids&#45;trust/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-09T14:31:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/06/steno-names-its-current-coo-prabhdeep-singh-as-new-ceo-to-lead-next-phase-of-growth.html",
         "title": "Steno Names Its Current COO Prabhdeep Singh as New CEO to Lead Next Phase of Growth",
@@ -124,46 +154,6 @@
         "source": "LawSites",
         "publishedAt": "2026-06-08T12:15:36.000Z",
         "summary": "Casepoint has named Paul Colangelo, a longtime government- and enterprise-software executive, as its chief executive officer, the company announced this morning. He will oversee the company&#8217;s continuing integration",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/9th&",
-        "title": "9th Circuit judge faces misdemeanor charges of battery and property damage",
-        "url": "https://www.abajournal.com/web/article/9th&#45;circuit&#45;judge&#45;faces&#45;misdemeanor&#45;charges&#45;of&#45;battery&#45;and&#45;property&#45;damage/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-05T20:37:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/los&",
-        "title": "Los Angeles law firm accused of unauthorized practice in Texas, Virginia, Arizona, Iowa and Michigan",
-        "url": "https://www.abajournal.com/news/article/los&#45;angeles&#45;law&#45;firm&#45;accused&#45;of&#45;unauthorized&#45;practice&#45;in&#45;texas&#45;virginia&#45;arizona&#45;iowa&#45;and&#45;michigan/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-05T16:56:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ai&",
-        "title": "AI video mocks federal judge who is leading efforts to combat deepfakes",
-        "url": "https://www.abajournal.com/news/article/ai&#45;video&#45;mocks&#45;federal&#45;judge&#45;who&#45;is&#45;leading&#45;efforts&#45;to&#45;combat&#45;deepfakes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-05T14:56:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/hawaii&",
-        "title": "Hawaii Supreme Court considers whether refusing sobriety tests is evidence of guilt",
-        "url": "https://www.abajournal.com/news/article/hawaii&#45;supreme&#45;court&#45;considers&#45;whether&#45;refusing&#45;sobriety&#45;tests&#45;is&#45;evidence&#45;of&#45;guilt/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-05T12:05:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1206,6 +1196,16 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
@@ -1336,16 +1336,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-09T00:30:00.000Z",
         "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，近日，AI原生生物科技公司百奥几何已完成数亿元战略融资。由上海生物医药创新转化基金、国科投资、达晨财智、星连资本联合领投，高榕资本、指数人工智能产业创新基金跟投。指数资本担任独家财务顾问。另据介绍，本轮募集资金将重点用于生命科学微观世界模型GeoFlow的持续迭代，以及自研药物管线的推进。 当前，人工智能正沿两条主线加速演进：以大语言模型与多模态模型为代表的数字AI（Digital AI），以自动驾",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3845196412193284",
-        "title": "8点1氪丨苹果推出全新Siri AI；ROKID回应“智能眼镜偷拍空姐”事件；OpenAI秘密提交IPO文件",
-        "url": "https://36kr.com/p/3845196412193284?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-09T00:19:03.000Z",
-        "summary": "今日热点导览 阿里巴巴成立Token Foundry事业部 微信宣布面向开发者提供接入微信AI生态的能力 全球70%PPE树脂断供，PCB价格大涨 英伟达与LG集团合建AI工厂，合作推进机器人、自动驾驶及自主AI TOP3大新闻 苹果推出全新Siri AI，新一代操作系统iOS 27正式发布 在WWDC 2026开发者大会上，新一代操作系统iOS 27正式发布，本次iOS 27的升级重点，是新一代Apple Intelligence（苹",
         "category": "updates",
         "region": "cn"
       },
