@@ -1,8 +1,10 @@
-import { writeFile } from "node:fs/promises";
-import { resolve } from "node:path";
+import { writeFile, readFile, mkdir, access } from "node:fs/promises";
+import { resolve, extname } from "node:path";
 
 const ROOT = resolve(process.cwd());
 const OUTPUT_FILE = resolve(ROOT, "instagram-posts.json");
+const IMAGES_DIR = resolve(ROOT, "instagram-images");
+const IMAGES_PUBLIC = "instagram-images"; // path referenced from the deployed site root
 
 // Behold (https://behold.so) gives an official-API-backed JSON feed for one
 // Instagram account and refreshes the access token for us. The fukun_vision
@@ -42,8 +44,9 @@ function extractPosts(data) {
   return [];
 }
 
-// Prefer Behold-hosted sized URLs (stable, rehosted) over a raw mediaUrl, which
-// can be an Instagram CDN link that expires.
+// Prefer Behold-hosted sized URLs over a raw mediaUrl (which can be an
+// Instagram CDN link that expires). We download whichever we pick, so the photo
+// becomes self-hosted and survives Behold's free-tier "recent N" rotation.
 function pickImageUrl(node) {
   if (!node) return null;
   const s = node.sizes || {};
@@ -71,7 +74,7 @@ function mediaType(node) {
   return String(node?.mediaType || node?.media_type || "IMAGE").toUpperCase();
 }
 
-function collectImages(post) {
+function collectImageUrls(post) {
   const urls = [];
   const type = mediaType(post);
 
@@ -106,10 +109,66 @@ function stableId(seed) {
   return h;
 }
 
-function toEntry(post) {
-  const igId = post.id || post.permalink || post.timestamp;
-  const images = collectImages(post);
-  if (images.length === 0) return null; // nothing we can render
+// Read previously-synced entries so photos accumulate beyond Behold's recent-N
+// window (free tier serves only the latest ~6).
+async function readExistingEntries() {
+  try {
+    const data = JSON.parse(await readFile(OUTPUT_FILE, "utf8"));
+    if (Array.isArray(data.entries)) return data.entries;
+  } catch {
+    // no/invalid existing file — start fresh
+  }
+  return [];
+}
+
+function fileExists(p) {
+  return access(p).then(() => true).catch(() => false);
+}
+
+function extFromUrl(url, fallback = ".jpg") {
+  try {
+    const candidate = extname(new URL(url).pathname).split("?")[0].toLowerCase();
+    if (candidate && candidate.length <= 5 && /^\.[a-z0-9]+$/.test(candidate)) return candidate;
+  } catch {
+    // ignore
+  }
+  return fallback;
+}
+
+// Download a remote image into instagram-images/ (idempotent) and return the
+// local path. Falls back to the remote URL if the download fails so the photo
+// still shows; it gets retried on the next run while still in Behold's window.
+async function localizeImage(remoteUrl, igId, index) {
+  const ext = extFromUrl(remoteUrl);
+  const filename = `${igId}-${index}${ext}`;
+  const filepath = resolve(IMAGES_DIR, filename);
+  const localPath = `${IMAGES_PUBLIC}/${filename}`;
+
+  if (await fileExists(filepath)) return localPath; // already saved — skip re-download
+
+  try {
+    await mkdir(IMAGES_DIR, { recursive: true });
+    const res = await fetch(remoteUrl);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const buf = Buffer.from(await res.arrayBuffer());
+    await writeFile(filepath, buf);
+    console.log(`  Saved image: ${filename}`);
+    return localPath;
+  } catch (err) {
+    console.warn(`  Image download failed (${filename}): ${err.message}`);
+    return remoteUrl;
+  }
+}
+
+async function buildEntry(post) {
+  const igId = String(post.id || post.permalink || post.timestamp);
+  const remoteImages = collectImageUrls(post);
+  if (remoteImages.length === 0) return null; // nothing we can render
+
+  const images = [];
+  for (let i = 0; i < remoteImages.length; i++) {
+    images.push(await localizeImage(remoteImages[i], igId, i));
+  }
 
   const caption = post.prunedCaption || post.caption || "";
   const ts = post.timestamp || post.createdAt || post.created_time || "";
@@ -117,7 +176,7 @@ function toEntry(post) {
 
   return {
     id: stableId(igId),
-    instagramId: String(igId),
+    instagramId: igId,
     title: firstLine(caption) || `Instagram · ${date}`,
     date,
     section: SECTION,
@@ -134,20 +193,22 @@ function toEntry(post) {
 async function main() {
   assertEnv();
 
+  // Start from everything we've archived, then upsert the latest window.
+  const existing = await readExistingEntries();
+  const byId = new Map(existing.map((e) => [String(e.instagramId || e.id), e]));
+
   const data = await fetchFeed();
   const posts = extractPosts(data);
 
-  const entries = [];
-  const seen = new Set();
+  let added = 0;
   for (const post of posts) {
-    const entry = toEntry(post);
+    const entry = await buildEntry(post);
     if (!entry) continue;
-    if (seen.has(entry.instagramId)) continue;
-    seen.add(entry.instagramId);
-    entries.push(entry);
+    if (!byId.has(entry.instagramId)) added += 1;
+    byId.set(entry.instagramId, entry); // refresh in-window posts (heals images, updates caption)
   }
 
-  entries.sort((a, b) => new Date(b.date) - new Date(a.date));
+  const entries = [...byId.values()].sort((a, b) => new Date(b.date) - new Date(a.date));
 
   const output = {
     generatedAt: new Date().toISOString(),
@@ -157,10 +218,10 @@ async function main() {
   };
 
   await writeFile(OUTPUT_FILE, `${JSON.stringify(output, null, 2)}\n`, "utf8");
-  console.log(`Wrote ${entries.length} Instagram entries to ${OUTPUT_FILE}`);
-  if (entries.length === 0) {
-    console.log("No usable posts found. Confirm the Behold feed has posts and that media URLs are present.");
-  }
+  console.log(
+    `Instagram sync: ${entries.length} total photos ` +
+    `(${added} new this run, ${entries.length - added} carried over from archive).`
+  );
 }
 
 main().catch((err) => {
