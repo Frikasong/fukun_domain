@@ -211,6 +211,8 @@ const SECTIONS = [
   { id: "essays",      name: "Essays",       icon: "✍️", type: "hidden" },
   { id: "music",       name: "Music",        icon: "🎵", type: "hidden" },
   { id: "photography", name: "Photos",       icon: "📷", type: "hidden" },
+  { id: "pottery",     name: "Pottery",      icon: "🏺", type: "hidden" },
+  { id: "video",       name: "Video",        icon: "🎬", type: "hidden" },
   { id: "insights",    name: "Insights",     icon: "💡", type: "hidden" },
   { id: "contact",     name: "Contact",      icon: "📧", type: "hidden" },
 ];
@@ -272,25 +274,40 @@ function fileToBase64(file) {
 }
 
 // ─── Storage Helpers ────────────────────────────────────────────────────────
-async function loadEntries() {
-  // Preferred source: Notion-synced static feed (auto-updated by GitHub Actions)
+async function fetchFeedEntries(file) {
   try {
-    const res = await fetch(`notion-posts.json?t=${Date.now()}`);
+    const res = await fetch(`${file}?t=${Date.now()}`);
     if (res.ok) {
       const data = await res.json();
-      if (Array.isArray(data.entries)) {
-        // Deduplicate by notionPageId (UUID), falling back to computed id
-        const seen = new Set();
-        return data.entries.filter((e) => {
-          const k = e.notionPageId || e.id;
-          if (seen.has(k)) return false;
-          seen.add(k);
-          return true;
-        });
-      }
+      if (Array.isArray(data.entries)) return data.entries;
     }
   } catch {
-    // Fallback to local storage below
+    // ignore — caller decides on fallback
+  }
+  return null;
+}
+
+async function loadEntries() {
+  // Preferred sources: static feeds auto-updated by GitHub Actions
+  // (Notion posts + Instagram photos), merged into one stream.
+  const [notionEntries, instagramEntries] = await Promise.all([
+    fetchFeedEntries("notion-posts.json"),
+    fetchFeedEntries("instagram-posts.json"),
+  ]);
+
+  if (notionEntries || instagramEntries) {
+    const combined = [...(notionEntries || []), ...(instagramEntries || [])];
+    // Deduplicate by stable key (Notion page id / Instagram id / computed id),
+    // then sort newest first so feeds interleave by date.
+    const seen = new Set();
+    return combined
+      .filter((e) => {
+        const k = e.notionPageId || e.instagramId || e.id;
+        if (seen.has(k)) return false;
+        seen.add(k);
+        return true;
+      })
+      .sort((a, b) => new Date(b.date) - new Date(a.date));
   }
 
   // Fallback source: legacy local storage
@@ -341,7 +358,37 @@ function App() {
   const attachmentInputRef = useRef(null);
 
   useEffect(() => {
-    loadEntries().then(setEntries);
+    loadEntries().then(all => {
+      setEntries(all);
+      // On load, open post if URL contains #/post/{id}
+      const hash = window.location.hash;
+      const m = hash.match(/^#\/post\/(.+)$/);
+      if (m) {
+        const id = m[1];
+        const target = all.find(e => String(e.notionPageId) === id || String(e.id) === id);
+        if (target) { setSelectedEntry(target); setView("post"); }
+      }
+    });
+  }, []);
+
+  // Handle browser back/forward navigation
+  useEffect(() => {
+    const onHashChange = () => {
+      const hash = window.location.hash;
+      const m = hash.match(/^#\/post\/(.+)$/);
+      if (m) {
+        const id = m[1];
+        setEntries(prev => {
+          const target = prev.find(e => String(e.notionPageId) === id || String(e.id) === id);
+          if (target) { setSelectedEntry(target); setView("post"); }
+          return prev;
+        });
+      } else {
+        setView("grid");
+      }
+    };
+    window.addEventListener("hashchange", onHashChange);
+    return () => window.removeEventListener("hashchange", onHashChange);
   }, []);
 
   useEffect(() => {
@@ -375,6 +422,8 @@ function App() {
   const openPost = (entry) => {
     setSelectedEntry(entry);
     setView("post");
+    const id = entry.notionPageId || entry.id;
+    if (id) window.location.hash = `/post/${id}`;
   };
 
   const saveEntry = async () => {
@@ -458,7 +507,7 @@ function App() {
     if (activeSection === "hobbies") {
       return entries.filter((e) => {
         const s = SECTION_MAP[e.section] || e.section;
-        return ["music", "photography"].includes(s);
+        return ["music", "photography", "pottery", "video"].includes(s);
       }).sort((a, b) => new Date(b.date) - new Date(a.date));
     }
     if (activeSection === "insights") {
@@ -576,10 +625,12 @@ function App() {
         maxWidth: isMobile ? "100%" : (isWideDesktop ? 1600 : 1280),
         padding: isMobile ? "28px 14px 44px" : (isTablet ? "40px 18px 56px" : "56px 24px 68px")
       }}>
+        <div key={`${view}__${activeSection}__${selectedEntry && selectedEntry.id}`} className="page-enter">
         {view === "grid" ? (
           <GridView
             section={currentSection}
             entries={sectionEntries}
+            allEntries={entries}
             onNew={openNew}
             onEdit={openEdit}
             onDelete={deleteEntry}
@@ -594,7 +645,7 @@ function App() {
         ) : view === "post" ? (
           <PostView
             entry={selectedEntry}
-            onBack={() => setView("grid")}
+            onBack={() => { setView("grid"); history.pushState("", document.title, window.location.pathname + window.location.search); }}
             T={T}
             lang={lang}
           />
@@ -618,6 +669,7 @@ function App() {
             T={T}
           />
         )}
+        </div>
       </main>
 
       {/* Footer */}
@@ -636,7 +688,7 @@ function App() {
 // ═══════════════════════════════════════════════════════════════════════════
 // GRID VIEW
 // ═══════════════════════════════════════════════════════════════════════════
-function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setActiveSection, setView, setTechTab, techTab, T, lang }) {
+function GridView({ section, entries, allEntries, onNew, onEdit, onDelete, onOpenPost, setActiveSection, setView, setTechTab, techTab, T, lang }) {
   const sectionLabel = T.nav[section.id] || section.name;
   const sectionSub = T.nav[section.id + "Sub"] || section.subtitle;
 
@@ -646,56 +698,12 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
       document.getElementById("hub-connect")?.scrollIntoView({ behavior: "smooth" });
     };
 
-    const tiles = [
-      {
-        key: "legal-ai-lab",
-        category: lang === "zh" ? "项目" : "Projects",
-        label: lang === "zh" ? "AI 实验室" : "AI Lab",
-        sub: lang === "zh" ? "我开发的AI工具" : "AI tools I've been building",
-        onClick: () => { setActiveSection("projects"); setView("grid"); },
-      },
-      {
-        key: "share",
-        category: lang === "zh" ? "想法" : "Thoughts",
-        label: lang === "zh" ? "文章与洞见" : "Writing & Insights",
-        sub: lang === "zh" ? "法律 · 科技 · 随笔" : "Law · Tech · Essays",
-        onClick: () => { setActiveSection("share"); setView("grid"); },
-      },
-      {
-        key: "tech-brew",
-        category: lang === "zh" ? "项目" : "Projects",
-        label: lang === "zh" ? "科技资讯" : "Tech Updates",
-        sub: lang === "zh" ? "自动新闻雷达" : "Auto news radar",
-        href: "news-radar.html",
-      },
-      {
-        key: "music",
-        category: lang === "zh" ? "趣味" : "Fun",
-        label: lang === "zh" ? "音乐" : "Music",
-        sub: lang === "zh" ? "每周精选" : "Weekly picks",
-        onClick: () => { setActiveSection("hobbies"); setView("grid"); },
-      },
-      {
-        key: "photos",
-        category: lang === "zh" ? "趣味" : "Fun",
-        label: lang === "zh" ? "照片" : "Photos",
-        sub: lang === "zh" ? "摄影" : "Photography",
-        onClick: () => { setActiveSection("hobbies"); setView("grid"); },
-      },
-      {
-        key: "essays",
-        category: lang === "zh" ? "想法" : "Thoughts",
-        label: lang === "zh" ? "随笔" : "Essays",
-        sub: lang === "zh" ? "思考与记录" : "Thoughts & reflections",
-        onClick: () => { setActiveSection("share"); setView("grid"); },
-      },
-    ];
-
     const isNarrow = typeof window !== "undefined" && window.innerWidth <= 860;
     return (
       <div style={{ maxWidth: 1100, margin: "0 auto", padding: "0" }}>
 
         {/* ── Garden Hero Card (Chester intro-section style) ── */}
+        <ScrollReveal delay={0}>
         <div style={{ ...styles.gardenHero, padding: isNarrow ? "44px 28px 40px" : "64px 60px 60px", minHeight: isNarrow ? "auto" : 290 }}>
           {/* Portrait floats at bottom-right (desktop only) */}
           {!isNarrow && (
@@ -709,19 +717,22 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </h1>
             <div style={styles.gardenHeroDash} />
             <p style={{ margin: 0, lineHeight: 1.7 }}>
-              <span style={{ fontFamily: "'Fascinate', cursive", fontSize: 10, color: "rgba(250,247,243,0.60)", letterSpacing: "1.5px", display: "inline" }}>welcome to my domain</span>
-              {"  "}
-              <span style={{ fontFamily: "'Long Cang', cursive", fontSize: 20, color: "rgba(250,247,243,0.78)", letterSpacing: "4px" }}>欢迎来到我的飞鸿雪泥</span>
+              {lang === "zh" ? (
+                <span style={{ fontFamily: "'Long Cang', cursive", fontSize: 26, color: "rgba(250,247,243,0.85)", letterSpacing: "5px" }}>欢迎来到我的飞鸿雪泥</span>
+              ) : (
+                <span style={{ fontFamily: "'Fascinate', cursive", fontSize: isNarrow ? 14 : 17, color: "rgba(250,247,243,0.72)", letterSpacing: "2px" }}>welcome to my domain</span>
+              )}
             </p>
           </div>
         </div>
+        </ScrollReveal>
 
-        {/* ── Two-column content below hero ── */}
-        <div style={{ ...styles.aboutTwoCol, flexDirection: isNarrow ? "column" : "row", marginTop: 44 }}>
+        {/* ── Bio (left) + Pick a path (right) two-column ── */}
+        <ScrollReveal delay={0.15}>
+        <div style={{ display: "flex", flexDirection: isNarrow ? "column" : "row", gap: isNarrow ? 40 : 48, marginTop: 44, alignItems: "flex-start" }}>
 
-          {/* Left: bio + interests + connect */}
-          <div style={isNarrow ? { width: "100%" } : styles.aboutLeft}>
-            {/* Portrait on mobile (below hero, above bio) */}
+          {/* Left: bio */}
+          <div style={{ flex: "0 0 auto", width: isNarrow ? "100%" : "56%" }}>
             {isNarrow && (
               <div style={{ ...styles.aboutPortraitCard, width: 120, marginBottom: 22, borderRadius: 12 }}>
                 <img src="portrait.jpg?v=7" alt="Fukun Yang" style={{ ...styles.aboutPortraitImg, aspectRatio: "3/4", objectPosition: "center 22%" }} />
@@ -737,37 +748,37 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             </p>
           </div>
 
-          {/* Right: bento grid — first card is featured (full-width) */}
-          <div style={isNarrow ? { width: "100%", marginTop: 48 } : styles.aboutRight}>
+          {/* Right: Pick a path + bento tiles */}
+          <div style={{ flex: 1, minWidth: 0 }}>
+            <h2 style={{ fontFamily: "'Fascinate', cursive", fontSize: isNarrow ? 15 : 18, fontWeight: 400, color: "#2B5054", margin: "0 0 6px", letterSpacing: "0.5px" }}>
+              {lang === "zh" ? "选择一条路" : "Pick a path"}
+            </h2>
+            <p style={{ fontFamily: "'Lora', serif", fontStyle: "italic", fontSize: 12.5, color: "#a09080", margin: "0 0 18px", lineHeight: 1.5 }}>
+              {lang === "zh" ? "进入我正在创造和学习的世界" : "Different doors into what I am making and learning."}
+            </p>
             <div style={styles.bentoGrid}>
-              {tiles.map((tile, idx) => {
+              {[
+                { key: "legal-ai-lab", category: lang === "zh" ? "项目" : "Projects", label: lang === "zh" ? "AI 实验室" : "AI Lab", sub: lang === "zh" ? "我开发的AI工具" : "AI tools I've been building", accent: "#2B5054", onClick: () => { setActiveSection("projects"); setView("grid"); } },
+                { key: "share", category: lang === "zh" ? "想法" : "Thoughts", label: lang === "zh" ? "文章与洞见" : "Writing & Insights", sub: lang === "zh" ? "法律 · 科技 · 随笔" : "Law · Tech · Essays", accent: "#7a5c42", onClick: () => { setActiveSection("share"); setView("grid"); } },
+                { key: "tech-brew", category: lang === "zh" ? "项目" : "Projects", label: lang === "zh" ? "科技资讯" : "Tech Updates", sub: lang === "zh" ? "自动新闻雷达" : "Auto news radar", accent: "#35666a", href: "news-radar.html" },
+                { key: "music", category: lang === "zh" ? "趣味" : "Fun", label: lang === "zh" ? "音乐" : "Music", sub: lang === "zh" ? "每周精选" : "Weekly picks", accent: "#5a6b8a", onClick: () => { setActiveSection("hobbies"); setView("grid"); } },
+                { key: "photos", category: lang === "zh" ? "趣味" : "Fun", label: lang === "zh" ? "照片" : "Photos", sub: lang === "zh" ? "摄影" : "Photography", accent: "#8a6a55", onClick: () => { setActiveSection("hobbies"); setView("grid"); } },
+                { key: "essays", category: lang === "zh" ? "想法" : "Thoughts", label: lang === "zh" ? "随笔" : "Essays", sub: lang === "zh" ? "思考与记录" : "Thoughts & reflections", accent: "#6b7a5a", onClick: () => { setActiveSection("share"); setView("grid"); } },
+              ].map((tile, idx) => {
                 const isFeatured = idx === 0;
-                const tileAccent = {
-                  "legal-ai-lab": "#2B5054",
-                  "share":        "#7a5c42",
-                  "tech-brew":    "#35666a",
-                  "music":        "#5a6b8a",
-                  "photos":       "#8a6a55",
-                  "essays":       "#6b7a5a",
-                }[tile.key] || "#2B5054";
                 const cardStyle = isFeatured
-                  ? { ...styles.bentoCard, ...styles.bentoCardFeatured, borderLeft: `3px solid ${tileAccent}` }
-                  : { ...styles.bentoCard, borderLeft: `3px solid ${tileAccent}` };
+                  ? { ...styles.bentoCard, ...styles.bentoCardFeatured, borderLeft: `3px solid ${tile.accent}` }
+                  : { ...styles.bentoCard, borderLeft: `3px solid ${tile.accent}` };
                 return tile.href ? (
-                  <a key={tile.key} href={tile.href} target="_blank" rel="noopener noreferrer" className="bento-card-el" style={cardStyle}>
-                    <div style={styles.bentoCardTop}>
-                      <span style={styles.bentoCardCategory}>{tile.category}</span>
-                      <span style={styles.bentoCardArrow}>↗</span>
-                    </div>
+                  <a key={tile.key} href={tile.href} target="_blank" rel="noopener noreferrer"
+                     className="bento-card-el sr-grid-item" style={{ ...cardStyle, animationDelay: `${idx * 0.08}s` }}>
+                    <div style={styles.bentoCardTop}><span style={styles.bentoCardCategory}>{tile.category}</span><span style={styles.bentoCardArrow}>↗</span></div>
                     <p style={isFeatured ? styles.bentoCardNameFeatured : styles.bentoCardName}>{tile.label}</p>
                     <p style={styles.bentoCardDesc}>{tile.sub}</p>
                   </a>
                 ) : (
-                  <button key={tile.key} className="bento-card-el" style={cardStyle} onClick={tile.onClick}>
-                    <div style={styles.bentoCardTop}>
-                      <span style={styles.bentoCardCategory}>{tile.category}</span>
-                      <span style={styles.bentoCardArrow}>{isFeatured ? "→" : "→"}</span>
-                    </div>
+                  <button key={tile.key} className="bento-card-el sr-grid-item" style={{ ...cardStyle, animationDelay: `${idx * 0.08}s` }} onClick={tile.onClick}>
+                    <div style={styles.bentoCardTop}><span style={styles.bentoCardCategory}>{tile.category}</span><span style={styles.bentoCardArrow}>→</span></div>
                     <p style={isFeatured ? styles.bentoCardNameFeatured : styles.bentoCardName}>{tile.label}</p>
                     <p style={styles.bentoCardDesc}>{tile.sub}</p>
                   </button>
@@ -777,9 +788,94 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
           </div>
 
         </div>
+        </ScrollReveal>
 
-        {/* ── Let's connect — bottom of page ── */}
-        <div id="hub-connect" style={{ marginTop: 40, paddingTop: 32, borderTop: "1px solid rgba(43,80,84,0.1)" }}>
+        {/* ═══════════════════════════════════════════════════════
+            LATEST SEEDS
+        ═══════════════════════════════════════════════════════ */}
+        {(() => {
+          const recent = [...(allEntries || [])]
+            .sort((a, b) => new Date(b.date) - new Date(a.date))
+            .slice(0, 3);
+          if (!recent.length) return null;
+          const seedSectionLabel = (e) => {
+            const s = SECTION_MAP[e.section] || e.section;
+            const map = { tech: "Tech", law: "Law", essays: "Essays", photography: "Photography", music: "Music", pottery: "Pottery", video: "Video" };
+            return map[s] || s;
+          };
+          return (
+            <ScrollReveal delay={0.05}>
+            <div style={{ marginTop: 52, marginBottom: 12 }}>
+              {/* Header row */}
+              <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", marginBottom: 28, gap: 16 }}>
+                <h2 style={{ fontFamily: "'Fascinate', cursive", fontSize: isNarrow ? 16 : 20, fontWeight: 400, color: "#2B5054", margin: 0, letterSpacing: "0.5px" }}>
+                  {lang === "zh" ? "最新种子" : "Latest seeds"}
+                </h2>
+                <span style={{ fontFamily: "'Lora', serif", fontStyle: "italic", fontSize: 13, color: "#a09080", whiteSpace: "nowrap" }}>
+                  {lang === "zh" ? "最近播种在这里的东西。" : "Things recently planted in this garden."}
+                </span>
+              </div>
+              {/* Seed rows — elegant borderless list */}
+              <div style={{ display: "grid", gridTemplateColumns: isNarrow ? "1fr" : "repeat(3, 1fr)", gap: isNarrow ? 0 : 2 }}>
+                {recent.map((entry, si) => {
+                  const label = seedSectionLabel(entry);
+                  const rawBody = (entry.body || "").replace(/[#*`\[\]-]/g, "").trim();
+                  const isPlaceholder = !rawBody || rawBody === "(No content yet)";
+                  const excerpt = isPlaceholder ? null : rawBody.slice(0, 90);
+                  const isLast = si === recent.length - 1;
+                  return (
+                    <button
+                      key={entry.notionPageId || entry.id}
+                      className="sr-grid-item"
+                      onClick={() => onOpenPost(entry)}
+                      style={{
+                        background: "none",
+                        border: "none",
+                        borderTop: si === 0 || isNarrow ? "1px solid rgba(43,80,84,0.13)" : "none",
+                        borderLeft: isNarrow ? "none" : (si > 0 ? "1px solid rgba(43,80,84,0.13)" : "none"),
+                        borderBottom: isLast || !isNarrow ? "1px solid rgba(43,80,84,0.13)" : "none",
+                        padding: isNarrow ? "20px 4px" : "20px 20px 22px",
+                        cursor: "pointer",
+                        textAlign: "left",
+                        display: "flex",
+                        flexDirection: "column",
+                        gap: 6,
+                        borderRadius: 0,
+                        animationDelay: `${si * 0.09}s`,
+                        transition: "background 0.15s",
+                      }}
+                      onMouseEnter={e => { e.currentTarget.style.background = "rgba(43,80,84,0.04)"; }}
+                      onMouseLeave={e => { e.currentTarget.style.background = "none"; }}
+                    >
+                      <span style={{ fontFamily: "'Lora', serif", fontSize: 10, letterSpacing: "2px", color: "#C8A96E", textTransform: "uppercase", fontWeight: 600 }}>
+                        {entry.date} · {label}
+                      </span>
+                      <h3 style={{ fontFamily: "'Lora', serif", fontSize: 16, fontWeight: 700, color: "#2B5054", margin: 0, lineHeight: 1.3 }}>
+                        {entry.title}
+                      </h3>
+                      {isPlaceholder ? (
+                        <p style={{ fontFamily: "'Lora', serif", fontSize: 12.5, color: "#b0a090", margin: 0, lineHeight: 1.6, fontStyle: "italic" }}>
+                          growing…
+                        </p>
+                      ) : excerpt ? (
+                        <p style={{ fontFamily: "'Lora', serif", fontSize: 12.5, color: "#7a6a58", margin: 0, lineHeight: 1.6 }}>
+                          {excerpt}{rawBody.length > 90 ? "…" : ""}
+                        </p>
+                      ) : null}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+            </ScrollReveal>
+          );
+        })()}
+
+        {/* ═══════════════════════════════════════════════════════
+            LET'S CONNECT
+        ═══════════════════════════════════════════════════════ */}
+        <ScrollReveal delay={0.05}>
+        <div id="hub-connect" style={{ marginTop: 56, paddingTop: 36, borderTop: "1px solid rgba(43,80,84,0.1)" }}>
           <p style={{ fontFamily: "'Fascinate', cursive", fontStyle: "normal", fontSize: 18, color: "#2B5054", margin: "0 0 16px" }}>
             {lang === "zh" ? "欢迎联系~" : "Let's connect!"}
           </p>
@@ -795,6 +891,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.rednote}</a>
           </div>
         </div>
+        </ScrollReveal>
 
       </div>
     );
@@ -837,7 +934,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
             const gardenColSpans = ["span 7", "span 5", "span 6", "span 4", "span 8"];
             const gc = gardenColSpans[toolIdx] || "span 6";
             return (
-            <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" className="chester-tool-a" style={{ ...styles.chesterToolCard, gridColumn: gc }}>
+            <a key={tool.id} href={tool.href} target="_blank" rel="noopener noreferrer" className="chester-tool-a sr-grid-item" style={{ ...styles.chesterToolCard, gridColumn: gc, animationDelay: `${toolIdx * 0.12}s` }}>
               <div style={styles.chesterCardMeta}>
                 <span style={styles.chesterCardLabel}>{tool.label}</span>
                 <span style={styles.chesterCardArrowIcon}>↗</span>
@@ -961,7 +1058,6 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                   const meta = sectionMeta[sid] || { label: "Share", color: "#2B5054" };
                   const bodyLen = (entry.body || "").replace(/[#*`\[\]]/g, "").trim().length;
                   const size = i === 0 ? "hero" : bodyLen > 500 ? "large" : bodyLen > 150 ? "medium" : "small";
-                  // Garden col spans — cycle through pattern, override for big content
                   let cols = tGarden[i % tGarden.length];
                   if (size === "hero") cols = 3;
                   if (size === "large" && cols < 2) cols = 2;
@@ -971,12 +1067,13 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                   return (
                     <button
                       key={`${entry.notionPageId || entry.id}-${i}`}
-                      className="chester-post-btn"
+                      className="chester-post-btn sr-grid-item"
                       style={{
                         ...styles.chesterPostCard,
                         borderLeft: `3px solid ${meta.color}`,
                         gridColumn: `span ${cols}`,
                         padding: size === "small" && cols === 1 ? "14px 16px 16px" : cols === 3 ? "26px 28px 24px" : "20px 22px 20px",
+                        animationDelay: `${Math.min(i, 8) * 0.07}s`,
                       }}
                       onClick={() => onOpenPost(entry)}
                     >
@@ -1000,7 +1097,7 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
     );
   }
 
-  // ── HOBBIES page — photos gallery + music cards ──
+  // ── HOBBIES page — seamless garden: music, photos, pottery, video all interleaved ──
   if (section.id === "hobbies") {
     const photoEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "photography");
     const musicEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "music");
@@ -1028,74 +1125,125 @@ function GridView({ section, entries, onNew, onEdit, onDelete, onOpenPost, setAc
                   <div
                     key={i}
                     onClick={() => onOpenPost(entry)}
-                    className="photo-mosaic-tile"
-                    style={{ breakInside: "avoid", marginBottom: 8, cursor: "pointer", borderRadius: 10, overflow: "hidden", position: "relative", background: "#f0ede8" }}
+                    className="photo-mosaic-tile sr-col-item"
+                    style={{ breakInside: "avoid", marginBottom: 10, cursor: "pointer", borderRadius: 12, overflow: "hidden", position: "relative", background: "#f0ede8", animationDelay: tileDelay }}
                   >
-                    {imgSrc
-                      ? <img src={imgSrc} alt={entry.title} style={{ width: "100%", height: "auto", display: "block", borderRadius: 10 }} />
-                      : <div style={{ aspectRatio: "4/3", background: "#f0ede8", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 32, borderRadius: 10 }}>📷</div>
-                    }
-                    <div className="photo-mosaic-caption" style={{ position: "absolute", bottom: 0, left: 0, right: 0, background: "linear-gradient(transparent, rgba(0,0,0,0.52))", padding: "22px 10px 8px", borderRadius: "0 0 10px 10px", opacity: 0, transition: "opacity 0.2s" }}>
+                    {imgSrc ? (
+                      <>
+                        <img src={imgSrc} alt={entry.title} style={{ width: "100%", height: "auto", display: "block" }}
+                          onError={e => { e.currentTarget.style.display = "none"; e.currentTarget.nextElementSibling.style.display = "flex"; }} />
+                        <div style={{ display: "none", aspectRatio: "4/3", background: "#f0ede8", alignItems: "center", justifyContent: "center", fontSize: 36 }}>📷</div>
+                      </>
+                    ) : (
+                      <div style={{ aspectRatio: "4/3", background: "#f0ede8", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 36 }}>📷</div>
+                    )}
+                    <div className="photo-mosaic-caption" style={{ position: "absolute", bottom: 0, left: 0, right: 0, background: "linear-gradient(transparent, rgba(0,0,0,0.55))", padding: "28px 12px 10px", opacity: 0, transition: "opacity 0.2s" }}>
                       <p style={{ color: "#fff", fontSize: 11, margin: 0, fontFamily: "'Lora', serif", letterSpacing: "0.3px" }}>{entry.title}</p>
                     </div>
                   </div>
                 );
-              })}
-            </div>
-          </div>
-        )}
+              }
 
-        {/* Music */}
-        {musicEntries.length > 0 && (
-          <div style={styles.chesterHobbiesSection}>
-            <p style={styles.chesterSectionHeading}>🎵 {lang === "zh" ? "音乐" : "Music"}</p>
-            {/* Garden music grid — wider cards cycle: [2,1,1,2,1,2,3,1] */}
-            <div style={{ display: "grid", gridTemplateColumns: "repeat(6, 1fr)", gap: 12, gridAutoFlow: "dense" }}>
-              {musicEntries.map((entry, i) => {
-                const mGarden = [2, 1, 1, 2, 1, 3, 2, 1, 1, 2, 3, 1];
-                const mCol = mGarden[i % mGarden.length];
-                // Try dedicated property → blocks hrefs → body text
+              // ── Pottery tile ──
+              if (type === "pottery") {
+                return (
+                  <div
+                    key={i}
+                    onClick={() => onOpenPost(entry)}
+                    className="photo-mosaic-tile sr-col-item"
+                    style={{ breakInside: "avoid", marginBottom: 10, cursor: "pointer", borderRadius: 12, overflow: "hidden", position: "relative", background: "#f5efe8", animationDelay: tileDelay }}
+                  >
+                    {imgSrc ? (
+                      <>
+                        <img src={imgSrc} alt={entry.title} style={{ width: "100%", height: "auto", display: "block" }}
+                          onError={e => { e.currentTarget.style.display = "none"; e.currentTarget.nextElementSibling.style.display = "flex"; }} />
+                        <div style={{ display: "none", aspectRatio: "4/3", background: "#e8ddd0", alignItems: "center", justifyContent: "center", fontSize: 44 }}>🏺</div>
+                      </>
+                    ) : (
+                      <div style={{ aspectRatio: "4/3", background: "#e8ddd0", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 44 }}>🏺</div>
+                    )}
+                    <div style={{ position: "absolute", top: 8, left: 8, background: "rgba(139,100,72,0.82)", borderRadius: 20, padding: "2px 10px", fontSize: 10, color: "#fff", fontFamily: "sans-serif", letterSpacing: "0.5px" }}>
+                      {lang === "zh" ? "🏺 陶艺" : "🏺 Pottery"}
+                    </div>
+                    <div className="photo-mosaic-caption" style={{ position: "absolute", bottom: 0, left: 0, right: 0, background: "linear-gradient(transparent, rgba(0,0,0,0.55))", padding: "28px 12px 10px", opacity: 0, transition: "opacity 0.2s" }}>
+                      <p style={{ color: "#fff", fontSize: 11, margin: 0, fontFamily: "'Lora', serif" }}>{entry.title}</p>
+                    </div>
+                  </div>
+                );
+              }
+
+              // ── Music tile ──
+              if (type === "music") {
                 const spotifyEmbedUrl = spotifyToEmbedUrl(extractSpotifyUrl(entry));
                 return (
-                  <div key={i} style={{ ...styles.chesterMusicCard, gridColumn: `span ${mCol}` }}>
-                    <div style={styles.chesterCardMeta}>
-                      <span style={styles.chesterCardLabel}>{lang === "zh" ? "趣味 · 音乐" : "Fun · Music"}</span>
-                      <button style={{ background: "none", border: "none", cursor: "pointer", fontSize: 13, color: "#ccc", padding: 0 }} onClick={() => onOpenPost(entry)}>→</button>
+                  <div key={i} className="sr-col-item" style={{ breakInside: "avoid", marginBottom: 10, borderRadius: 12, overflow: "hidden", background: "#16213e", border: "1px solid rgba(255,255,255,0.07)", animationDelay: tileDelay }}>
+                    <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "8px 14px 4px" }}>
+                      <span style={{ fontSize: 10, color: "rgba(255,255,255,0.38)", fontFamily: "sans-serif", letterSpacing: "0.8px", textTransform: "uppercase" }}>{lang === "zh" ? "音乐" : "Music"}</span>
+                      <button style={{ background: "none", border: "none", cursor: "pointer", fontSize: 12, color: "rgba(255,255,255,0.38)", padding: 0 }} onClick={() => onOpenPost(entry)}>→</button>
                     </div>
                     {spotifyEmbedUrl ? (
                       <>
-                        <iframe
-                          src={spotifyEmbedUrl}
-                          width="100%"
-                          height="80"
-                          frameBorder="0"
+                        <iframe src={spotifyEmbedUrl} width="100%" height="80" frameBorder="0"
                           allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-                          loading="lazy"
-                          style={{ display: "block" }}
-                        />
-                        <div style={{ padding: "8px 18px 10px" }}>
-                          <p style={{ ...styles.chesterPostTitle, fontSize: 13, margin: "0 0 2px" }}>{entry.title}</p>
-                          <span style={styles.chesterPostDate}>{entry.date}</span>
+                          loading="lazy" style={{ display: "block" }} />
+                        <div style={{ padding: "6px 14px 12px" }}>
+                          <p style={{ color: "#fff", fontSize: 12, margin: "0 0 2px", fontFamily: "'Lora', serif" }}>{entry.title}</p>
+                          <span style={{ fontSize: 10, color: "rgba(255,255,255,0.35)", fontFamily: "sans-serif" }}>{entry.date}</span>
                         </div>
                       </>
                     ) : (
-                      <div style={styles.chesterMusicBody}>
-                        <span style={styles.chesterMusicNote}>♪</span>
+                      <div style={{ display: "flex", alignItems: "center", gap: 12, padding: "12px 14px 16px" }}>
+                        <span style={{ fontSize: 28, flexShrink: 0 }}>♪</span>
                         <div>
-                          <p style={{ ...styles.chesterPostTitle, fontSize: 14, margin: "0 0 4px" }}>{entry.title}</p>
-                          <span style={styles.chesterPostDate}>{entry.date}</span>
+                          <p style={{ color: "#fff", fontSize: 13, margin: "0 0 3px", fontFamily: "'Lora', serif" }}>{entry.title}</p>
+                          <span style={{ fontSize: 10, color: "rgba(255,255,255,0.35)", fontFamily: "sans-serif" }}>{entry.date}</span>
                         </div>
                       </div>
                     )}
                   </div>
                 );
-              })}
-            </div>
-          </div>
-        )}
+              }
 
-        {entries.length === 0 && (
-          <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
+              // ── Video tile ──
+              if (type === "video") {
+                const vid = extractVideoUrl(entry);
+                return (
+                  <div key={i} className="sr-col-item" style={{ breakInside: "avoid", marginBottom: 10, borderRadius: 12, overflow: "hidden", background: "#f0ede8", animationDelay: tileDelay }}>
+                    {vid && vid.type === "youtube" ? (
+                      <iframe
+                        src={`https://www.youtube.com/embed/${vid.id}`}
+                        width="100%"
+                        style={{ aspectRatio: "16/9", display: "block", border: "none" }}
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen
+                      />
+                    ) : (
+                      <div style={{ aspectRatio: "16/9", background: "#e8ddd0", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: 8 }}>
+                        <span style={{ fontSize: 36 }}>🎬</span>
+                        {vid && vid.type === "rednote" && (
+                          <a href={vid.url} target="_blank" rel="noopener noreferrer" style={{ fontSize: 11, color: "#8B3A3A", fontFamily: "sans-serif" }}>
+                            {lang === "zh" ? "在小红书观看 →" : "Watch on RedNote →"}
+                          </a>
+                        )}
+                      </div>
+                    )}
+                    <div style={{ padding: "8px 12px 12px" }}>
+                      <p style={{ fontSize: 12, color: "#444", margin: "0 0 2px", fontFamily: "'Lora', serif" }}>{entry.title}</p>
+                      <span style={{ fontSize: 10, color: "#999", fontFamily: "sans-serif" }}>{entry.date}</span>
+                    </div>
+                  </div>
+                );
+              }
+
+              // ── Fallback tile ──
+              return (
+                <div key={i} onClick={() => onOpenPost(entry)} style={{ breakInside: "avoid", marginBottom: 10, borderRadius: 12, background: "#f8f5f0", padding: "16px", cursor: "pointer" }}>
+                  <p style={{ fontSize: 13, color: "#333", margin: "0 0 4px", fontFamily: "'Lora', serif" }}>{entry.title}</p>
+                  <span style={{ fontSize: 10, color: "#999", fontFamily: "sans-serif" }}>{entry.date}</span>
+                </div>
+              );
+            })}
+          </div>
         )}
       </div>
     );
@@ -1232,8 +1380,57 @@ function extractSpotifyUrl(entry) {
 
 function spotifyToEmbedUrl(raw) {
   if (!raw) return null;
-  const m = raw.match(/spotify\.com(?:\/intl-[a-z]+)?\/track\/([A-Za-z0-9]+)/);
-  return m ? `https://open.spotify.com/embed/track/${m[1]}?utm_source=generator&theme=0` : null;
+  // Support track, playlist, album, episode
+  const m = raw.match(/spotify\.com(?:\/intl-[a-z]+)?\/(track|playlist|album|episode)\/([A-Za-z0-9]+)/);
+  return m ? `https://open.spotify.com/embed/${m[1]}/${m[2]}?utm_source=generator&theme=0` : null;
+}
+
+// ─── ScrollReveal component ─────────────────────────────────────────────────
+// Wraps any child and fades it in (opacity + translateY + blur) when scrolled into view.
+// Pass a numeric delay (seconds) for staggered lists.
+function ScrollReveal({ children, delay = 0, style }) {
+  const ref = useRef(null);
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    // Already visible (above fold) — reveal immediately with a tiny offset
+    const rect = el.getBoundingClientRect();
+    if (rect.top < window.innerHeight - 20) {
+      el.style.transitionDelay = `${delay}s`;
+      el.classList.add("sr-visible");
+      return;
+    }
+    const obs = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          el.style.transitionDelay = `${delay}s`;
+          el.classList.add("sr-visible");
+          obs.unobserve(el);
+        }
+      },
+      { threshold: 0.08, rootMargin: "0px 0px -32px 0px" }
+    );
+    obs.observe(el);
+    return () => obs.disconnect();
+  }, [delay]);
+  return (
+    <div ref={ref} className="sr-item" style={style}>
+      {children}
+    </div>
+  );
+}
+
+// Extracts a video URL (YouTube or RedNote) from an entry's body/blocks
+function extractVideoUrl(entry) {
+  const sources = [
+    entry.body || "",
+    ...(entry.blocks || []).flatMap(b => [(b.url || ""), ...(b.rich_text || []).map(r => r.href || r.text || "")]),
+  ].join(" ");
+  const yt = sources.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([A-Za-z0-9_-]{11})/);
+  if (yt) return { type: "youtube", id: yt[1] };
+  const xhs = sources.match(/https?:\/\/(?:www\.)?xiaohongshu\.com\/[^\s"'<>)]+/);
+  if (xhs) return { type: "rednote", url: xhs[0] };
+  return null;
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -1250,7 +1447,8 @@ function EntryCard({ entry, onEdit, onDelete, onOpenPost, T, lang }) {
     <article style={styles.card}>
       {entry.images && entry.images.length > 0 && (
         <div style={styles.cardCover}>
-          <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.cardCoverImg} />
+          <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.cardCoverImg}
+            onError={e => { e.currentTarget.closest("div[style]").style.display = "none"; }} />
           <div style={styles.cardCoverOverlay} />
         </div>
       )}
@@ -1307,6 +1505,30 @@ function EntryCard({ entry, onEdit, onDelete, onOpenPost, T, lang }) {
 function buildTranslateUrl(url, lang, region) {
   const targetLang = region === "cn" ? "en" : (lang === "zh" ? "zh-CN" : "en");
   return `https://translate.google.com/translate?sl=auto&tl=${encodeURIComponent(targetLang)}&u=${encodeURIComponent(url)}`;
+}
+
+function CopyLinkButton({ entry, lang }) {
+  const [copied, setCopied] = useState(false);
+  const id = entry && (entry.notionPageId || entry.id);
+  if (!id) return null;
+  const url = `${window.location.origin}${window.location.pathname}#/post/${id}`;
+  const handleCopy = () => {
+    navigator.clipboard.writeText(url).then(() => {
+      setCopied(true);
+      setTimeout(() => setCopied(false), 1800);
+    });
+  };
+  return (
+    <button
+      onClick={handleCopy}
+      title={lang === "zh" ? "复制链接" : "Copy link"}
+      style={{ background: "none", border: "1px solid #ccc", borderRadius: 8, padding: "4px 10px", fontSize: 12, cursor: "pointer", color: "#666", fontFamily: "sans-serif", display: "flex", alignItems: "center", gap: 5, transition: "all 0.15s" }}
+    >
+      {copied
+        ? (lang === "zh" ? "✓ 已复制" : "✓ Copied!")
+        : (lang === "zh" ? "🔗 复制链接" : "🔗 Copy link")}
+    </button>
+  );
 }
 
 function PostView({ entry, onBack, T, lang }) {
@@ -1522,20 +1744,9 @@ function PostView({ entry, onBack, T, lang }) {
         continue;
       }
 
-      // paragraph
-      const paragraphs = [];
-      while (i < lines.length) {
-        const t2 = lines[i].trim();
-        if (!t2) break;
-        if (t2 === "---" || t2 === "\u00a7\u00a7DIVIDER\u00a7\u00a7") break;
-        if (/^\u00a7\u00a7(H1|H2|H3|QUOTE|BULLET|NUMBER)\u00a7\u00a7/.test(t2)) break;
-        if (t2.startsWith("# ") || t2.startsWith("## ") || t2.startsWith("### ") || t2.startsWith("> ")) break;
-        if (isListLine(t2)) break;
-        paragraphs.push(lines[i]); i++;
-      }
-      if (paragraphs.length > 0) {
-        els.push(<p key={i} style={styles.postParagraph}>{paragraphs.join(" ")}</p>);
-      }
+      // paragraph — each non-empty, non-special line is its own <p>
+      els.push(<p key={i} style={styles.postParagraph}>{trimmed}</p>);
+      i++;
     }
 
     return els.length > 0 ? els : null;
@@ -1543,13 +1754,21 @@ function PostView({ entry, onBack, T, lang }) {
 
   return (
     <article style={styles.postWrap}>
-      <button style={styles.postBackBtn} onClick={onBack}>{T.editor.back}</button>
+      <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 4 }}>
+        <button style={styles.postBackBtn} onClick={onBack}>{T.editor.back}</button>
+        <CopyLinkButton entry={entry} lang={lang} />
+      </div>
 
-      {entry.images && entry.images.length > 0 && (
-        <div style={styles.postHero}>
-          <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.postHeroImg} />
-        </div>
-      )}
+      {(() => {
+        const isPhotoEntry = (SECTION_MAP[entry.section] || entry.section) === "photography";
+        if (isPhotoEntry || !entry.images || entry.images.length === 0) return null;
+        return (
+          <div style={styles.postHero}>
+            <img src={typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data} alt={entry.title} style={styles.postHeroImg}
+              onError={e => { e.currentTarget.parentElement.style.display = "none"; }} />
+          </div>
+        );
+      })()}
 
       <header style={styles.postHeader}>
         <h1 style={{ ...styles.postTitle, ...(lang === "zh" ? styles.noItalic : {}) }}>{lang === "zh" && translatedTitle ? translatedTitle : entry.title}</h1>
@@ -1586,12 +1805,31 @@ function PostView({ entry, onBack, T, lang }) {
       })()}
 
       {(() => {
-        // For photo entries, skip empty body — the images are the content
         const isPhotoEntry = (SECTION_MAP[entry.section] || entry.section) === "photography";
+        if (isPhotoEntry) {
+          // Photos: show all images as main masonry content, no body text
+          if (!entry.images || entry.images.length === 0) return null;
+          const vw = typeof window !== "undefined" ? window.innerWidth : 1280;
+          const colCount = vw <= 640 ? 1 : vw < 900 ? 2 : 3;
+          return (
+            <div style={{ columnCount: colCount, columnGap: "10px", margin: "24px 0" }}>
+              {entry.images.map((img, i) => (
+                <img
+                  key={i}
+                  src={typeof img === "string" ? img : img.data}
+                  alt={entry.title}
+                  style={{ width: "100%", height: "auto", display: "block", marginBottom: 10, borderRadius: 8 }}
+                  onError={e => { e.currentTarget.style.display = "none"; }}
+                />
+              ))}
+            </div>
+          );
+        }
+        // Non-photo entries: render body text
         const bodyContent = lang === "zh" && translatedLines
           ? translatedLines.map((line, i) => <p key={i} style={styles.postParagraph}>{line}</p>)
           : (!translating && (entry.blocks ? renderBlocks(entry.blocks) : renderBody(entry.body)));
-        if (isPhotoEntry && !bodyContent) return null;
+        if (!bodyContent) return null;
         return (
           <div style={styles.postBody}>
             {lang === "zh" && translating && (
@@ -1602,16 +1840,20 @@ function PostView({ entry, onBack, T, lang }) {
         );
       })()}
 
-      {entry.images && entry.images.length > 1 && (
-        <section style={styles.postSection}>
-          <h3 style={styles.postSectionTitle}>{galleryLabel}</h3>
-          <div style={styles.postGallery}>
-            {entry.images.slice(1).map((img, i) => (
-              <img key={i} src={typeof img === "string" ? img : img.data} alt={typeof img === "string" ? "" : img.name} style={styles.postGalleryImg} />
-            ))}
-          </div>
-        </section>
-      )}
+      {(() => {
+        const isPhotoEntry = (SECTION_MAP[entry.section] || entry.section) === "photography";
+        if (isPhotoEntry || !entry.images || entry.images.length <= 1) return null;
+        return (
+          <section style={styles.postSection}>
+            <h3 style={styles.postSectionTitle}>{galleryLabel}</h3>
+            <div style={styles.postGallery}>
+              {entry.images.slice(1).map((img, i) => (
+                <img key={i} src={typeof img === "string" ? img : img.data} alt={typeof img === "string" ? "" : img.name} style={styles.postGalleryImg} />
+              ))}
+            </div>
+          </section>
+        );
+      })()}
 
       {entry.attachments && entry.attachments.length > 0 && (
         <section style={styles.postSection}>
@@ -3496,7 +3738,7 @@ const styles = {
   },
   gardenHeroPortraitWrap: {
     position: "absolute",
-    right: 52,
+    right: 120,
     bottom: 0,
     zIndex: 0,
     display: "flex",
@@ -4057,6 +4299,44 @@ const styles = {
     .photo-mosaic-tile { transition: opacity 0.15s !important; }
     .photo-mosaic-tile:hover .photo-mosaic-caption { opacity: 1 !important; }
     .photo-mosaic-tile:hover { opacity: 0.93 !important; }
+
+    /* ── Page transition: fade + rise + blur ── */
+    @keyframes pageEnter {
+      from { opacity: 0; transform: translateY(16px); filter: blur(6px); }
+      to   { opacity: 1; transform: translateY(0);    filter: blur(0);   }
+    }
+    .page-enter {
+      animation: pageEnter 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+    }
+
+    /* ── Scroll reveal: materialise on scroll ── */
+    .sr-item {
+      opacity: 0;
+      transform: translateY(28px);
+      filter: blur(6px);
+      transition:
+        opacity  0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+        transform 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+        filter   0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+      will-change: opacity, transform, filter;
+    }
+    .sr-item.sr-visible {
+      opacity: 1;
+      transform: translateY(0);
+      filter: blur(0);
+    }
+
+    /* ── Grid/column items: stagger via animation-delay set inline ── */
+    @keyframes srFadeUp {
+      from { opacity: 0; transform: translateY(24px); filter: blur(5px); }
+      to   { opacity: 1; transform: translateY(0);    filter: blur(0);   }
+    }
+    .sr-grid-item {
+      animation: srFadeUp 0.65s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+    }
+    .sr-col-item {
+      animation: srFadeUp 0.65s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+    }
   `;
   document.head.appendChild(css);
 })();

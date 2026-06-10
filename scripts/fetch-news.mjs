@@ -6,66 +6,140 @@ const SOURCES_FILE = resolve(ROOT, "news-sources.json");
 const HIGHLIGHTS_FILE = resolve(ROOT, "manual-highlights.json");
 const OUTPUT_FILE = resolve(ROOT, "news-feed.json");
 
-const MAX_POOL_PER_REGION = 150;
+const MAX_POOL_PER_REGION = 120;
 
-// ── Category classification ──────────────────────────────────────────────────
 const CATEGORY_RULES = {
-  tools: ["tool", "product", "platform", "release", "launch", "feature", "plugin", "copilot", "assistant", "app", "software", "solution"],
-  skills: ["guide", "how to", "tutorial", "workflow", "prompt", "best practice", "playbook", "tip", "learn", "training"],
-  articles: ["analysis", "opinion", "research", "paper", "essay", "report", "insight", "review", "study", "survey", "benchmark"],
-  updates: ["update", "funding", "policy", "regulation", "acquisition", "partnership", "announcement", "raises", "launches", "hires", "appoints"]
-};
-
-// ── Topic taxonomy — drives per-item topic tags ──────────────────────────────
-const TOPIC_TAXONOMY = {
-  "legal-tech": [
-    "legal ai", "legal tech", "legaltech", "law firm", "e-discovery", "ediscovery",
-    "legal ops", "legal operations", "clm", "contract lifecycle", "contract management",
-    "regtech", "compliance tech", "court tech", "judicial", "lawyer ai", "attorney ai",
-    "legal software", "legal automation", "legal research", "smart contract",
-    "online dispute", "odr", "legal analytics", "law practice", "law review",
-    "bar association", "paralegal ai", "legal document", "legal workflow"
+  tools: [
+    "tool",
+    "product",
+    "platform",
+    "release",
+    "launch",
+    "feature",
+    "plugin",
+    "copilot",
+    "assistant"
   ],
-  "ai": [
-    "artificial intelligence", "machine learning", "llm", "large language model",
-    "gpt", "claude", "gemini", "chatgpt", "neural network", "deep learning",
-    "generative ai", "genai", "foundation model", "ai agent", "rag", "fine-tuning",
-    "transformer", "diffusion model", "multimodal", "ai model", "ai system",
-    "openai", "anthropic", "google deepmind", "mistral", "hugging face",
-    "ai assistant", "copilot", "ai tool", "ai platform", "ai startup"
+  skills: [
+    "guide",
+    "how to",
+    "tutorial",
+    "workflow",
+    "prompt",
+    "best practice",
+    "playbook"
   ],
-  "tech": [
-    "software", "saas", "platform", "api", "cloud", "open source", "startup",
-    "developer", "devops", "engineering", "infrastructure", "database", "kubernetes",
-    "microservice", "cybersecurity", "security breach", "data breach", "vulnerability",
-    "programming", "framework", "sdk", "tech company", "venture", "series a",
-    "series b", "ipo", "silicon valley", "big tech"
+  articles: [
+    "analysis",
+    "opinion",
+    "research",
+    "paper",
+    "essay",
+    "report",
+    "insight"
   ],
-  "compliance": [
-    "gdpr", "eu ai act", "ai act", "ccpa", "dsa", "dma", "digital services act",
-    "digital markets act", "data protection regulation", "privacy regulation",
-    "ai regulation", "ai governance", "algorithmic accountability", "algorithmic transparency",
-    "regtech", "regulatory technology", "kyc", "aml", "anti-money laundering",
-    "sox", "hipaa", "pci dss", "financial regulation", "prudential regulation",
-    "sec enforcement", "data breach notification", "cybersecurity regulation",
-    "legal compliance", "compliance technology", "data governance framework"
-  ],
-  "fintech": [
-    "fintech", "banking", "payment", "blockchain", "crypto", "defi",
-    "digital asset", "financial technology", "insurtech", "wealthtech",
-    "neobank", "digital bank", "robo-advisor", "embedded finance"
+  updates: [
+    "update",
+    "funding",
+    "policy",
+    "regulation",
+    "acquisition",
+    "partnership",
+    "announcement"
   ]
 };
 
-// ── Negative filters — items matching these are heavily penalized ─────────────
-const NEGATIVE_TERMS = [
-  "sports", "soccer", "football", "basketball", "nba", "nfl", "cricket",
-  "celebrity", "entertainment", "box office", "box-office", "album",
-  "fashion", "lifestyle", "recipe", "cooking", "restaurant", "travel",
-  "horoscope", "zodiac", "dating", "relationship advice",
-  "movie", "tv show", "streaming series", "netflix original",
-  "gaming", "video game", "esports" // keep esports out unless it has tech relevance
+const RELEVANCE_TERMS = [
+  // Core Legal Tech - High Weight Terms (3x score)
+  "legal ai", "legal technology", "law technology", "legal innovation",
+  "law firm technology", "legal automation", "contract ai",
+  
+  // AI/ML in Law - High Weight
+  "genai", "llm", "gpt", "claude", "legal language model",
+  "predictive coding", "technology assisted review", "tar",
+  "e-discovery", "document review", "legal research ai",
+  
+  // Compliance & Regulation - High Weight
+  "regtech", "compliance automation", "gdpr", "ccpa",
+  "regulatory technology", "legal compliance", "risk management",
+  
+  // Contract Tech - High Weight
+  "smart contract", "contract lifecycle management", "clm",
+  "electronic signature", "esign", "digital contracting",
+  "contract analytics", "ai contract review",
+  
+  // Legal Practice - Medium Weight
+  "legal ops", "legal operations", "matter management",
+  "ebilling", "legal project management", "legal analytics",
+  "law firm innovation", "alternative legal services",
+  
+  // Court & Litigation - Medium Weight
+  "online dispute resolution", "odr", "virtual court",
+  "electronic filing", "ecourt", "litigation technology",
+  "case management system", "judicial technology",
+  
+  // Legal Education & Access - Medium Weight
+  "legal tech education", "justice technology", "access to justice",
+  "legal aid technology", "pro bono tech",
+  
+  // Emerging Tech - Medium Weight
+  "blockchain law", "smart legal contracts", "dao law",
+  "web3 legal", "nft legal", "metaverse law",
+  "quantum computing law", "ai ethics", "algorithmic bias",
+  
+  // General Tech (relevant to legal context) - Low Weight
+  "artificial intelligence", "machine learning", "deep learning",
+  "natural language processing", "computer vision",
+  "robotic process automation", "rpa", "workflow automation",
+  "cloud computing", "saas", "api", "microservices",
+  "devops", "ci/cd", "containerization", "docker", "kubernetes",
+  "cybersecurity", "information security", "data privacy",
+  "big data", "analytics", "data science",
+
+  // Chinese Tech Ecosystem (medium weight - for CN sources)
+  "ai agent", "ai agent", "大模型", "人工智能", "ai应用", "ai原生",
+  "kimi", "通义", "豆包", "deepseek", "qwen", "moonshot",
+  "cursor", "claude code", "openclaude", "windsurf", "copilot",
+  "llm", "llm应用", "ai编程", "ai开发", "aigc", "生成式ai",
+  "ai infra", "ai基础设施", "推理模型", "vla", "多模态",
+  "tech startup", "科技创业", "ai startup", "ai startup",
+  "chip war", "芯片战", "半导体设备", "算力", "gpu集群",
+  "robotaxi", "l4自动驾驶", "端到端自动驾驶", "智能驾驶",
+  "developer tool", "开发者工具", "ai coding", "ai代码",
+  "cloud native", "kubernetes", "serverless",
+  "web3", "blockchain", "crypto",
+  "data center", "ai算力", "算力集群"
 ];
+
+// Negative terms - if any of these appear strongly, reduce score or filter out
+const NEGATIVE_TERMS = [
+  // Sports
+  "super bowl", "world cup", "olympics", "fifa", "nba", "nfl", "mlb", "nhl",
+  "premier league", "laliga", "bundesliga", "serie a", "cricket", "tennis",
+  "golf", "boxing", "ufc", "mma",
+  
+  // Entertainment
+  "hollywood", "celebrity", "movie", "film", "tv show", "netflix", "disney",
+  "grammy", "oscar", "emmy", "tiktok", "instagram", "youtube star",
+  
+  // General News (unless tech-related)
+  "politics", "election", "president", "senate", "congress", "parliament",
+  "war", "conflict", "attack", "bomb", "shooting", "murder", "crime",
+  
+  // Irrelevant Business
+  "retail", "fashion", "beauty", "cosmetics", "food", "restaurant", "travel",
+  "hotel", "airline", "real estate", "mortgage", "insurance" // unless specifically insurtech
+];
+
+function hasStrongNegativeMatch(text) {
+  const strongNegatives = [
+    "super bowl", "world cup", "olympics", "fifa", "nba", "nfl", "mlb", "nhl",
+    "premier league", "laliga", "bundesliga", "serie a", "world series",
+    "grammy", "oscar", "emmy", "hollywood movie", "netflix series"
+  ];
+  
+  return strongNegatives.some(term => text.includes(term));
+}
 
 function decodeEntities(str) {
   return (str || "")
@@ -88,16 +162,73 @@ function getTagText(block, tagName) {
   return m ? stripTags(m[1]) : "";
 }
 
-function getEntryLink(block) {
+function getEntryLink(block, baseUrl = "") {
+  // Try RSS <link> element (text content between tags)
   const rssLink = getTagText(block, "link");
-  if (rssLink && /^https?:\/\//i.test(rssLink)) return rssLink;
+  if (rssLink) {
+    const cleaned = cleanUrl(rssLink.trim(), baseUrl);
+    if (cleaned) return cleaned;
+  }
 
-  const atomHref = block.match(/<link[^>]*href=["']([^"']+)["'][^>]*>/i);
-  if (atomHref?.[1]) return atomHref[1].trim();
+  // Try Atom <link href="..."> attribute
+  const atomMatch = block.match(/<link[^>]+href=["']([^"']+)["'][^>]*>/i);
+  if (atomMatch?.[1]) {
+    const cleaned = cleanUrl(atomMatch[1].trim(), baseUrl);
+    if (cleaned) return cleaned;
+  }
 
+  // Fallback to <guid> if it looks like a URL
   const guid = getTagText(block, "guid");
-  if (guid && /^https?:\/\//i.test(guid)) return guid;
+  if (guid) {
+    const cleaned = cleanUrl(guid.trim(), baseUrl);
+    if (cleaned) return cleaned;
+  }
+
   return "";
+}
+
+function cleanUrl(raw, baseUrl = "") {
+  if (!raw) return "";
+
+  // Handle double/triple domain prefixes: "https://a.comhttps://a.com/path"
+  // The real URL is the LAST occurrence of "https://" + subsequent path
+  // Match everything from the LAST https:// to the end
+  const lastProtoIdx = raw.lastIndexOf("https://");
+  if (lastProtoIdx >= 0) {
+    raw = raw.slice(lastProtoIdx);
+  } else {
+    const lastHttpIdx = raw.lastIndexOf("http://");
+    if (lastHttpIdx >= 0) {
+      raw = raw.slice(lastHttpIdx);
+    }
+  }
+
+  // If still doesn't start with http, try resolving as relative
+  if (!/^https?:\/\//i.test(raw)) {
+    if (baseUrl) {
+      try {
+        const base = new URL(baseUrl);
+        // Handle root-relative links like "/news/article"
+        if (raw.startsWith("/")) {
+          return `${base.origin}${raw}`;
+        }
+        // Handle relative links
+        return new URL(raw, base).href;
+      } catch {
+        return "";
+      }
+    }
+    return "";
+  }
+
+  // Validate the URL is well-formed
+  try {
+    const u = new URL(raw);
+    if (!u.hostname || !u.pathname) return "";
+    return u.href;
+  } catch {
+    return "";
+  }
 }
 
 function parseDate(block) {
@@ -111,21 +242,7 @@ function parseDate(block) {
   return d.toISOString();
 }
 
-function detectTopics(title, summary) {
-  const text = `${title} ${summary}`.toLowerCase();
-  const matched = [];
-  for (const [topic, terms] of Object.entries(TOPIC_TAXONOMY)) {
-    if (terms.some((t) => text.includes(t))) matched.push(topic);
-  }
-  return matched;
-}
-
-function hasNegativeMatch(title, summary) {
-  const text = `${title} ${summary}`.toLowerCase();
-  return NEGATIVE_TERMS.some((t) => text.includes(t));
-}
-
-function parseFeed(xml, source) {
+function parseFeed(xml, source, debug = false) {
   const itemBlocks = [...xml.matchAll(/<item[\s\S]*?<\/item>/gi)].map((m) => m[0]);
   const entryBlocks = [...xml.matchAll(/<entry[\s\S]*?<\/entry>/gi)].map((m) => m[0]);
   const blocks = itemBlocks.length > 0 ? itemBlocks : entryBlocks;
@@ -133,33 +250,28 @@ function parseFeed(xml, source) {
   return blocks
     .map((block) => {
       const title = getTagText(block, "title");
-      const url = getEntryLink(block);
+      const url = getEntryLink(block, source.url);
       const summary =
         getTagText(block, "description") ||
         getTagText(block, "summary") ||
         getTagText(block, "content");
       const publishedAt = parseDate(block);
 
-      if (!title || !url) return null;
-
-      const topics = detectTopics(title, summary);
-      const score = scoreItem(title, summary, source.priority || 1, publishedAt, source.tags || [], topics);
-
-      // Drop clearly off-topic content from broad sources
-      if (hasNegativeMatch(title, summary)) return null;
+      if (!title || !url) {
+        if (debug && title) console.warn(`  [${source.name}] Could not extract URL for: "${title.slice(0, 80)}"`);
+        return null;
+      }
 
       return {
         id: `${source.name}:${normalizeKey(url)}`,
         title,
         url,
         source: source.name,
-        sourceTags: source.tags || [],
         publishedAt,
-        summary: summary.slice(0, 260),
+        summary: summary.slice(0, 220),
         category: classify(title, summary),
-        topics,
         region: source.region,
-        score
+        score: scoreItem(title, summary, source.priority || 1, publishedAt)
       };
     })
     .filter(Boolean);
@@ -175,34 +287,133 @@ function normalizeKey(value) {
 
 function classify(title, summary) {
   const text = `${title} ${summary}`.toLowerCase();
+  
+  const scores = {};
   for (const [category, terms] of Object.entries(CATEGORY_RULES)) {
-    if (terms.some((term) => text.includes(term))) return category;
+    let score = 0;
+    for (const term of terms) {
+      if (containsTerm(text, term)) score++;
+    }
+    scores[category] = score;
   }
-  return "updates";
+  
+  let maxScore = 0;
+  let bestCategory = "updates";
+  for (const [category, score] of Object.entries(scores)) {
+    if (score > maxScore) {
+      maxScore = score;
+      bestCategory = category;
+    }
+  }
+  
+  return bestCategory;
 }
 
-function scoreItem(title, summary, priority, publishedAt, sourceTags, topics) {
-  // Base: source priority (0–10 range)
-  let score = priority * 1.5;
+// Define term weights (higher = more important)
+const TERM_WEIGHTS = {
+  // High weight terms (3x)
+  "legal ai": 3, "legal technology": 3, "law technology": 3, "legal innovation": 3,
+  "law firm technology": 3, "legal automation": 3, "contract ai": 3,
+  "genai": 3, "llm": 3, "gpt": 3, "claude": 3, "legal language model": 3,
+  "predictive coding": 3, "technology assisted review": 3, "tar": 3,
+  "e-discovery": 3, "document review": 3, "legal research ai": 3,
+  "regtech": 3, "compliance automation": 3, "gdpr": 3, "ccpa": 3,
+  "regulatory technology": 3, "legal compliance": 3, "risk management": 3,
+  "smart contract": 3, "contract lifecycle management": 3, "clm": 3,
+  "electronic signature": 3, "esign": 3, "digital contracting": 3,
+  "contract analytics": 3, "ai contract review": 3,
+  
+  // Medium weight terms (2x)
+  "legal ops": 2, "legal operations": 2, "matter management": 2,
+  "ebilling": 2, "legal project management": 2, "legal analytics": 2,
+  "law firm innovation": 2, "alternative legal services": 2,
+  "online dispute resolution": 2, "odr": 2, "virtual court": 2,
+  "electronic filing": 2, "ecourt": 2, "litigation technology": 2,
+  "case management system": 2, "judicial technology": 2,
+  "legal tech education": 2, "justice technology": 2, "access to justice": 2,
+  "legal aid technology": 2, "pro bono tech": 2,
+  "blockchain law": 2, "smart legal contracts": 2, "dao law": 2,
+  "web3 legal": 2, "nft legal": 2, "metaverse law": 2,
+  "quantum computing law": 2, "ai ethics": 2, "algorithmic bias": 2,
+  
+  // Low weight terms (1x)
+  "artificial intelligence": 1, "machine learning": 1, "deep learning": 1,
+  "natural language processing": 1, "computer vision": 1,
+  "robotic process automation": 1, "rpa": 1, "workflow automation": 1,
+  "cloud computing": 1, "saas": 1, "api": 1, "microservices": 1,
+  "devops": 1, "ci/cd": 1, "containerization": 1, "docker": 1, "kubernetes": 1,
+  "cybersecurity": 1, "information security": 1, "data privacy": 1,
+  "big data": 1, "analytics": 1, "data science": 1,
 
-  // Topic boost: legal-tech and ai get extra weight
-  if (topics.includes("legal-tech")) score += 6;
-  if (topics.includes("ai")) score += 4;
-  if (topics.includes("compliance")) score += 3;
-  if (topics.includes("tech")) score += 1;
-  if (topics.includes("fintech")) score += 2;
+  // Chinese Tech Ecosystem (2x - relevant for CN sources)
+  "ai agent": 2, "大模型": 2, "人工智能": 2, "ai应用": 2, "ai原生": 2,
+  "kimi": 2, "通义": 2, "豆包": 2, "deepseek": 2, "qwen": 2, "moonshot": 2,
+  "cursor": 2, "claude code": 2, "openclaude": 2, "windsurf": 2, "copilot": 2,
+  "llm": 2, "llm应用": 2, "ai编程": 2, "ai开发": 2, "aigc": 2, "生成式ai": 2,
+  "ai infra": 2, "ai基础设施": 2, "推理模型": 2, "vla": 2, "多模态": 2,
+  "tech startup": 2, "ai startup": 2,
+  "chip war": 2, "芯片战": 2, "半导体设备": 2, "算力": 2, "gpu集群": 2,
+  "robotaxi": 2, "l4自动驾驶": 2, "端到端自动驾驶": 2, "智能驾驶": 2,
+  "developer tool": 2, "开发者工具": 2, "ai coding": 2, "ai开发": 2,
+  "cloud native": 2, "serverless": 2,
+  "web3": 2, "blockchain": 2, "crypto": 2,
+  "data center": 2, "ai算力": 2, "算力集群": 2
+};
 
-  // Source tag boost
-  if (sourceTags.includes("legal-tech")) score += 3;
-  if (sourceTags.includes("ai")) score += 2;
+// Default weight for terms not explicitly listed
+const DEFAULT_TERM_WEIGHT = 1;
 
-  // Recency boost: exponential decay over 48h, max +5
+function getTermWeight(term) {
+  return TERM_WEIGHTS[term] || DEFAULT_TERM_WEIGHT;
+}
+
+function containsTerm(text, term) {
+  if (/[^\x00-\x7F]/.test(term)) {
+    return text.includes(term);
+  }
+  const re = new RegExp(`\\b${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
+  return re.test(text);
+}
+
+function matchTerms(text, terms) {
+  text = text.toLowerCase();
+  let score = 0;
+  for (const term of terms) {
+    if (containsTerm(text, term)) score++;
+  }
+  return score;
+}
+
+function scoreItem(title, summary, priority, publishedAt) {
+  const text = `${title} ${summary}`.toLowerCase();
+  
+  if (hasStrongNegativeMatch(text)) {
+    return -1000;
+  }
+  
+  let relevanceScore = 0;
+  for (const term of RELEVANCE_TERMS) {
+    if (containsTerm(text, term)) {
+      relevanceScore += getTermWeight(term);
+    }
+  }
+  
+  let negativePenalty = 0;
+  for (const term of NEGATIVE_TERMS) {
+    if (containsTerm(text, term)) negativePenalty += 1;
+  }
+  relevanceScore = Math.max(0, relevanceScore - negativePenalty * 0.5);
+  
+  let recency = 0;
   if (publishedAt) {
     const hours = (Date.now() - new Date(publishedAt).getTime()) / (1000 * 60 * 60);
-    score += Math.max(0, (1 - hours / 48)) * 5;
+    recency = Math.exp(-hours / 24);
   }
-
-  return Math.round(score * 10) / 10;
+  
+  const priorityBoost = priority * 0.5;
+  const relevancePoints = relevanceScore > 0 ? Math.log(1 + relevanceScore) * 3.5 : 0;
+  
+  return priorityBoost + relevancePoints + recency * 2;
 }
 
 async function fetchWithTimeout(url, timeoutMs = 12000) {
@@ -211,10 +422,19 @@ async function fetchWithTimeout(url, timeoutMs = 12000) {
   try {
     const res = await fetch(url, {
       signal: controller.signal,
-      headers: { "user-agent": "news-radar/2.0 (+https://fukun.ca)" }
+      headers: { "user-agent": "fukun-news-radar/1.0" }
     });
-    if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+    if (!res.ok) {
+      // Provide more detailed error information
+      const errorText = await res.text().catch(() => "Unable to read response body");
+      throw new Error(`HTTP ${res.status}: ${res.statusText} - ${errorText.substring(0, 200)}`);
+    }
     return await res.text();
+  } catch (err) {
+    if (err.name === 'AbortError') {
+      throw new Error(`Request timeout after ${timeoutMs}ms`);
+    }
+    throw err;
   } finally {
     clearTimeout(id);
   }
@@ -232,20 +452,81 @@ function dedupe(items) {
   return out;
 }
 
+// Minimum relevance score threshold (items below this are filtered out)
+const MIN_RELEVANCE_SCORE = 1.0;
+
+// Per-source minimum score overrides
+// Broad tech AI feeds need stricter thresholds since "gpt", "llm", "ai" alone are too generic
+// Thresholds tuned so items need 2+ relevant term matches (or 1 high-weight term + recency) to pass
+const SOURCE_MIN_SCORE = {
+  "OpenAI News": 10.0,
+  "Google AI Blog": 8.0,
+  "Microsoft AI Blog": 8.0,
+  "36Kr": 9.0,
+  "InfoQ China": 7.0,
+  "Sixth Tone": 8.0,
+  "SCMP China Business": 8.0,
+  "The Guardian China": 9.0,
+};
+
+function parseArgs() {
+  const args = {};
+  process.argv.slice(2).forEach(arg => {
+    if (arg.startsWith('--')) {
+      const [key, value] = arg.slice(2).split('=');
+      args[key] = value === undefined ? true : value;
+    }
+  });
+  return args;
+}
+
 async function main() {
-  const sourceConfig = JSON.parse(await readFile(SOURCES_FILE, "utf8"));
-  const manual = JSON.parse(await readFile(HIGHLIGHTS_FILE, "utf8"));
+  const args = parseArgs();
+  
+  // Configuration with defaults
+  const sourcesFile = args['sources-file'] || SOURCES_FILE;
+  const highlightsFile = args['highlights-file'] || HIGHLIGHTS_FILE;
+  const outputFile = args['output-file'] || OUTPUT_FILE;
+  const regionFilter = args['region'] || 'both'; // na, cn, both
+  const hoursBack = parseFloat(args['hours-back']) || 72;
+  const minScore = parseFloat(args['min-score']) || MIN_RELEVANCE_SCORE;
+  const maxItemsPerRegion = parseInt(args['max-items-per-region']) || MAX_POOL_PER_REGION;
+  const debug = args['debug'] === 'true';
+  
+  // Override constants if needed
+  const effectiveMaxPoolPerRegion = maxItemsPerRegion;
+  
+  if (debug) {
+    console.log('News Radar Configuration:', {
+      sourcesFile,
+      highlightsFile,
+      outputFile,
+      regionFilter,
+      hoursBack,
+      minScore,
+      maxItemsPerRegion
+    });
+  }
+
+  const sourceConfig = JSON.parse(await readFile(sourcesFile, "utf8"));
+  const manual = JSON.parse(await readFile(highlightsFile, "utf8"));
   const enabledSources = (sourceConfig.sources || []).filter((s) => s.enabled !== false);
 
   const all = [];
   for (const source of enabledSources) {
     try {
       const xml = await fetchWithTimeout(source.url);
-      const parsed = parseFeed(xml, source);
-      all.push(...parsed);
-      console.log(`✓ ${source.name}: ${parsed.length} items`);
+      const parsed = parseFeed(xml, source, debug);
+      const effectiveMin = SOURCE_MIN_SCORE[source.name] ?? minScore;
+      const filtered = parsed.filter(item => item.score >= effectiveMin);
+      all.push(...filtered);
+      if (debug) {
+        console.log(`Fetched ${parsed.length} items from ${source.name}, ${filtered.length} passed (min: ${effectiveMin})`);
+      } else {
+        console.log(`Fetched ${parsed.length} items from ${source.name}, ${filtered.length} passed`);
+      }
     } catch (err) {
-      console.warn(`✗ ${source.name}: ${err.message}`);
+      console.warn(`Skipping ${source.name}: ${err.message}`);
     }
   }
 
@@ -253,45 +534,36 @@ async function main() {
   const byRegion = {
     na: deduped.filter((i) => i.region === "na"),
     cn: deduped.filter((i) => i.region === "cn"),
-    eu: deduped.filter((i) => i.region === "eu")
+    cn_en: deduped.filter((i) => i.region === "cn_en")
   };
 
-  for (const region of ["na", "cn", "eu"]) {
+  for (const region of ["na", "cn", "cn_en"]) {
+    if (regionFilter !== 'both' && regionFilter !== region) {
+      byRegion[region] = [];
+      continue;
+    }
+    
     byRegion[region].sort((a, b) => {
-      // Primary: score descending
-      if (b.score !== a.score) return b.score - a.score;
-      // Secondary: recency descending
       const da = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
       const db = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
-      return db - da;
+      if (db !== da) return db - da;
+      return b.score - a.score;
     });
-    // Strip score from output (client re-scores based on user focus)
-    byRegion[region] = byRegion[region]
-      .slice(0, MAX_POOL_PER_REGION)
-      .map(({ score, ...rest }) => rest);
-  }
-
-  // Collect available topic tags for client-side UI
-  const allItems = [...byRegion.na, ...byRegion.cn];
-  const topicCounts = {};
-  for (const item of allItems) {
-    for (const t of item.topics || []) {
-      topicCounts[t] = (topicCounts[t] || 0) + 1;
-    }
+    byRegion[region] = byRegion[region].slice(0, effectiveMaxPoolPerRegion).map(({ score, ...rest }) => rest);
   }
 
   const output = {
     generatedAt: new Date().toISOString(),
-    topicCounts,
     highlights: {
       na: manual.highlights?.na || [],
-      cn: manual.highlights?.cn || []
+      cn: manual.highlights?.cn || [],
+      cn_en: manual.highlights?.cn_en || []
     },
     panels: byRegion
   };
 
-  await writeFile(OUTPUT_FILE, `${JSON.stringify(output, null, 2)}\n`, "utf8");
-  console.log(`\nWrote ${byRegion.na.length} NA + ${byRegion.eu.length} EU + ${byRegion.cn.length} CN items → ${OUTPUT_FILE}`);
+  await writeFile(outputFile, `${JSON.stringify(output, null, 2)}\n`, "utf8");
+  console.log(`Wrote ${outputFile}`);
 }
 
 main().catch((err) => {

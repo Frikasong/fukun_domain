@@ -1,8 +1,9 @@
-import { writeFile } from "node:fs/promises";
-import { resolve } from "node:path";
+import { writeFile, mkdir, access } from "node:fs/promises";
+import { resolve, extname } from "node:path";
 
 const ROOT = resolve(process.cwd());
 const OUTPUT_FILE = resolve(ROOT, "notion-posts.json");
+const IMAGES_DIR = resolve(ROOT, "notion-images");
 
 const RAW_NOTION_API_KEY = process.env.NOTION_API_KEY || process.env.NOTION_TOKEN || "";
 const NOTION_API_KEY = RAW_NOTION_API_KEY.trim().replace(/^['\"]|['\"]$/g, "");
@@ -18,7 +19,18 @@ const sectionMap = {
   essays: "essays",
   photography: "photography",
   photos: "photography",
-  music: "music"
+  photo: "photography",
+  music: "music",
+  pottery: "pottery",
+  ceramics: "pottery",
+  ceramic: "pottery",
+  陶艺: "pottery",
+  video: "video",
+  videos: "video",
+  film: "video",
+  films: "video",
+  youtube: "video",
+  小红书: "video",
 };
 
 function assertEnv() {
@@ -186,27 +198,81 @@ function blockToText(block) {
   return "";
 }
 
-// Extract image URLs from page blocks (uploaded files + external images)
-function extractImageUrls(blocks) {
-  const urls = [];
+// Extract image sources from page blocks — returns {url, isNotion} objects
+function extractImageSources(blocks) {
+  const sources = [];
   for (const block of blocks) {
     if (block?.type !== "image") continue;
     const img = block.image;
     if (!img) continue;
-    // Uploaded file (expires after 1 hour — Notion limitation; use external links instead)
-    if (img.type === "file" && img.file?.url) urls.push(img.file.url);
-    // External image URL (permanent)
-    if (img.type === "external" && img.external?.url) urls.push(img.external.url);
+    if (img.type === "file" && img.file?.url) sources.push({ url: img.file.url, isNotion: true });
+    if (img.type === "external" && img.external?.url) sources.push({ url: img.external.url, isNotion: false });
   }
-  return urls;
+  return sources;
 }
 
 // Also grab page cover image (a great place to put the hero photo)
-function getCoverImage(page) {
+function getCoverImageSource(page) {
   const cover = page?.cover;
   if (!cover) return null;
-  if (cover.type === "external" && cover.external?.url) return cover.external.url;
-  if (cover.type === "file" && cover.file?.url) return cover.file.url;
+  if (cover.type === "external" && cover.external?.url) return { url: cover.external.url, isNotion: false };
+  if (cover.type === "file" && cover.file?.url) return { url: cover.file.url, isNotion: true };
+  return null;
+}
+
+// Download a Notion-hosted image to notion-images/ and return the local path.
+// External (permanent) URLs are returned as-is without downloading.
+async function resolveImageUrl(src, pageId, index) {
+  if (!src) return null;
+
+  // External URLs never expire — keep them as-is
+  if (!src.isNotion) return src.url;
+
+  // Notion file URL — download and save locally
+  const safeId = pageId.replace(/-/g, "").slice(0, 16);
+  let ext = ".jpg";
+  try {
+    const urlPath = new URL(src.url).pathname;
+    const candidate = extname(urlPath).split("?")[0].toLowerCase();
+    if (candidate && candidate.length <= 5 && /^\.[a-z]+$/.test(candidate)) ext = candidate;
+  } catch {}
+
+  const filename = `${safeId}-${index}${ext}`;
+  const filepath = resolve(IMAGES_DIR, filename);
+  const localPath = `notion-images/${filename}`;
+
+  try {
+    await mkdir(IMAGES_DIR, { recursive: true });
+    const res = await fetch(src.url);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const buf = Buffer.from(await res.arrayBuffer());
+    await writeFile(filepath, buf);
+    console.log(`  Saved image: ${filename}`);
+    return localPath;
+  } catch (err) {
+    console.warn(`  Image download failed (${filename}): ${err.message}`);
+    return src.url; // fall back to expiring URL rather than losing the image
+  }
+}
+
+// Extract Spotify URL from page body blocks (bookmark, embed, link_preview, paragraph hrefs)
+function extractSpotifyFromBlocks(blocks) {
+  for (const block of blocks) {
+    const type = block?.type;
+    if (!type) continue;
+    // bookmark / embed / link_preview blocks store URL directly
+    if (["bookmark", "embed", "link_preview"].includes(type)) {
+      const url = block[type]?.url;
+      if (url && /spotify\.com/.test(url)) return url;
+    }
+    // paragraph / callout / quote — check rich_text for linked hrefs
+    if (block[type]?.rich_text) {
+      for (const r of block[type].rich_text) {
+        const href = r.href || r.text?.link?.url || "";
+        if (/spotify\.com/.test(href)) return href;
+      }
+    }
+  }
   return null;
 }
 
@@ -226,6 +292,43 @@ function getSpotifyUrlProperty(properties) {
 
 function cleanBody(raw) {
   return raw.replace(/\n{3,}/g, "\n\n").trim();
+}
+
+// Convert raw Notion blocks into the lightweight format that renderBlocks() in App.jsx expects
+function processBlocksForFrontend(blocks) {
+  return blocks.map(block => {
+    const type = block?.type;
+    if (!type) return null;
+    const data = block[type] || {};
+
+    const rt = (data.rich_text || []).map(r => ({
+      text: r.plain_text || "",
+      bold: r.annotations?.bold || false,
+      italic: r.annotations?.italic || false,
+      code: r.annotations?.code || false,
+      strike: r.annotations?.strikethrough || false,
+      underline: r.annotations?.underline || false,
+      href: r.href || r.text?.link?.url || null,
+    })).filter(r => r.text);
+
+    const processed = { type };
+    if (rt.length > 0) processed.rich_text = rt;
+
+    if (type === "image") {
+      processed.url = data.external?.url || data.file?.url || null;
+    }
+    if (type === "callout") {
+      processed.icon = data.icon?.emoji || null;
+    }
+    if (type === "to_do") {
+      processed.checked = !!data.checked;
+    }
+    if (type === "code") {
+      processed.language = data.language || "plain";
+    }
+
+    return processed;
+  }).filter(Boolean);
 }
 
 function summarize(text, max = 280) {
@@ -282,10 +385,18 @@ async function main() {
       const blocks = await fetchPageBlocks(page.id);
       const bodyText = cleanBody(blocks.map(blockToText).filter(Boolean).join(""));
 
-      // Collect images: page cover first, then any image blocks in body
-      const coverUrl = getCoverImage(page);
-      const blockImages = extractImageUrls(blocks);
-      const images = [...(coverUrl ? [coverUrl] : []), ...blockImages];
+      // Collect image sources, then download Notion-hosted ones to notion-images/
+      const coverSrc = getCoverImageSource(page);
+      const blockSrcs = extractImageSources(blocks);
+      const allSrcs = [...(coverSrc ? [coverSrc] : []), ...blockSrcs];
+      const images = await Promise.all(
+        allSrcs.map((src, idx) => resolveImageUrl(src, page.id, idx))
+      ).then(urls => urls.filter(Boolean));
+
+      // Spotify: try DB property first, fall back to scanning blocks
+      const resolvedSpotifyUrl = spotifyUrl || extractSpotifyFromBlocks(blocks);
+
+      const processedBlocks = processBlocksForFrontend(blocks);
 
       const entry = {
         id: Number.parseInt(page.id.replace(/-/g, "").slice(0, 12), 16),
@@ -298,10 +409,11 @@ async function main() {
         body: bodyText || "(No content yet)",
         summary: summarize(bodyText || ""),
         images,
+        blocks: processedBlocks,
         attachments: []
       };
 
-      if (spotifyUrl) entry.spotifyUrl = spotifyUrl;
+      if (resolvedSpotifyUrl) entry.spotifyUrl = resolvedSpotifyUrl;
 
       entries.push(entry);
     }
