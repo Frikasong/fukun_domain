@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T19:57:59.490Z",
+  "generatedAt": "2026-06-10T02:39:00.726Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/10/claude-fable-steno-billables-ai-spellbook-legora",
+        "title": "Claude Fable, Steno, Billables AI, Spellbook, Legora",
+        "url": "https://www.artificiallawyer.com/2026/06/10/claude-fable-steno-billables-ai-spellbook-legora/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-09T23:56:53.000Z",
+        "summary": "Because AL is in SF this week here’s a collection of news all in one go. First up, Claude Fable and how Mark Pike, who ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/bonding&",
+        "title": "Bonding Experience: Chickie Leventhal did it her way in the male-dominated bail bonds business",
+        "url": "https://www.abajournal.com/web/article/bonding&#45;experience&#45;female&#45;bail&#45;bond&#45;agent&#45;succeeded&#45;by&#45;doing&#45;it&#45;differently/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-09T20:28:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/georgia&",
         "title": "2 GOP reps plan impeachment articles against judge who had in-chambers sex with top police officer",
@@ -138,16 +158,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/new&",
-        "title": "Attorney charged with trying to smuggle drugs into prison, allegedly possessing child pornography",
-        "url": "https://www.abajournal.com/news/article/new&#45;mexico&#45;attorney&#45;charged&#45;with&#45;trying&#45;to&#45;smuggle&#45;drugs&#45;into&#45;prison&#45;possessing&#45;child&#45;pornography/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-08T14:49:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/casepoint-names-govtech-veteran-paul-colangelo-ceo-as-thoma-bravo-backed-company-pushes-deeper-into-government.html",
         "title": "Casepoint Names GovTech Veteran Paul Colangelo CEO, As Thoma Bravo–Backed Company Pushes Deeper Into Government",
         "url": "https://www.lawnext.com/2026/06/casepoint-names-govtech-veteran-paul-colangelo-ceo-as-thoma-bravo-backed-company-pushes-deeper-into-government.html",
@@ -274,16 +284,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-03T09:13:48.000Z",
         "summary": "If legal AI tools are the vehicles our work is now transported by, then tokens are the oil that drives it all. And that’s an ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/agents-knowledge-graphs-with-netdocuments-dan-hauck",
-        "title": "Agents + Knowledge Graphs with NetDocuments&#8217; Dan Hauck",
-        "url": "https://www.artificiallawyer.com/2026/06/03/agents-knowledge-graphs-with-netdocuments-dan-hauck/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-03T07:35:38.000Z",
-        "summary": "In this AL TV Interview with NetDocuments&#8217; CPO Dan Hauck we talk about agents, KM and knowledge graphs. The central point here is that to ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,106 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/cawakiuf9u4mnkjyfkya",
+        "title": "Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海",
+        "url": "https://www.infoq.cn/article/cAWaKiuf9U4MNkjyfKYa?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-10T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/u1uhoezuq3wdat5ypf08",
+        "title": "Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI",
+        "url": "https://www.infoq.cn/article/U1uHOeZUQ3wdaT5ypf08?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-10T09:44:43.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/i1mysmdubd63pzrihxdc",
+        "title": "深入了解谷歌全球服务体系中的 A/B 测试协调系统",
+        "url": "https://www.infoq.cn/article/i1mYsmdUbd63PZRIhXdC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-10T09:19:49.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3846748237023488",
+        "title": "深成指、创业板指均跌超2%",
+        "url": "https://36kr.com/newsflashes/3846748237023488?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-10T02:34:39.000Z",
+        "summary": "36氪获悉，深成指、创业板指均跌超2%，沪指跌0.6%，贵金属、算力硬件、电力电网等方向跌幅居前，沪深京三市下跌个股超4400只。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3846729007630601",
+        "title": "赛豆科技发布AI汽车品牌AIVA",
+        "url": "https://36kr.com/newsflashes/3846729007630601?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-10T02:15:06.000Z",
+        "summary": "36氪获悉，6月9日，赛豆科技正式发布AI先锋生态出行品牌AIVA，并官宣携手火山引擎，联合定义、联合设计、共同打造AI汽车体验。火山引擎为AIVA品牌提供豆包大模型、智能座舱等技术服务，帮助AIVA品牌提升车载智能交互体验。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3846697139931400",
+        "title": "子公司中标山铁数科5亿元算力服务器？华策影视：不属实",
+        "url": "https://36kr.com/newsflashes/3846697139931400?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-10T01:50:39.000Z",
+        "summary": "36氪获悉，就“子公司上海华剧汇中标山铁数科5亿元算力服务器，是否属实”的问题，华策影视6月10日在互动平台回复称，不属实。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3846676426672389",
+        "title": "兆易创新推出全新光模块专用MCU",
+        "url": "https://36kr.com/newsflashes/3846676426672389?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-10T01:35:34.000Z",
+        "summary": "36氪获悉，6月10日，兆易创新推出全新GD32E512和GD32E252系列光模块专用MCU，精准覆盖从传统低速到新一代高速光模块的多元应用场景。这两款新品的发布，将进一步拓宽兆易创新在光通信领域的产品矩阵，并将为AI算力中心及下一代网络基础设施的高速光互联产业升级提供强有力的底层硬件支撑。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3844720012151040",
+        "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+        "url": "https://36kr.com/p/3844720012151040?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-10T01:30:00.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素投资等机构共同投资，投资方阵容汇集了国家队、产业方、市场化基金及家族办公室。Maple Pledge枫承资本长期出任私募股权融资顾问。 资金将重点用于自研世界模型的架构搭建、算法迭代与场景落地，同步扩充核心研发与项目交付团队，完善商业化",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3846673443997961",
+        "title": "手机装不下的野心，正在被搬进游戏平板丨2026游戏平板使用趋势观察",
+        "url": "https://36kr.com/p/3846673443997961?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-10T01:26:15.000Z",
+        "summary": "打开任意社交媒体，搜索“手游设备”，你会发现一个有趣的现象：越来越多的年轻人正在抱怨手机——屏幕太小、玩两把就发烫、开放世界游戏跑不满帧、吃鸡打到决赛圈手指抽筋……而评论区里， 被提及最多的解决方案不是怎么换一台性能更好的手机，而更多的是建议——换一台专业游戏平板。 游戏玩家们，正在经历一场“换屏幕”的集体迁徙。这不是凭空发生，是伴随着手游市场升级换代的必然结果。过去几年，移动游戏不只是新作频出，类似《王者荣耀》《三角洲行动》《原神》《",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3846601462073600",
+        "title": "8点1氪丨致3人永久失明，膳魔师紧急召回百万件产品；发布会后苹果市值蒸发超1.587万亿；Anthropic发布最强模型：Claude Fable 5正式上线",
+        "url": "https://36kr.com/p/3846601462073600?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-10T00:08:16.000Z",
+        "summary": "今日热点导览 清仓美高梅国际持股，何超琼套现逾1.4亿美元 任天堂在法国遭2.7亿元重罚 王传福回应股价被低估：还没能反映比亚迪潜力 5月汽车销量公布：前十已无燃油车 TOP3大新闻 已致3人永久失明，膳魔师紧急召回百万件产品 因产品瓶塞存在弹出的风险，近段时间，德国知名真空保温品牌膳魔师（Thermos）在中美多国各召回百万件食物罐等产品，据美国消费品安全委员会披露的公告，有三名消费者因眼睛被击中而导致永久性视力丧失。 5月29日，国",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/selic5qtih6itifjvdek",
         "title": "导致 Spark on Kubernetes 发生 OOM 故障的两个配置错误",
         "url": "https://www.infoq.cn/article/sElIC5qTiH6iTiFJvDEk?utm_source=rss&utm_medium=article",
@@ -1245,17 +1345,7 @@
         "url": "https://36kr.com/p/3845899768760580?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-09T12:48:30.000Z",
-        "summary": "大公司： 猫眼娱乐：作为首批内测开发者接入微信AI生态布局 36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。 京东方A：控股子公司拟终止向不特定合格投资者公开发行股票并撤回申请文件 36氪获悉，京东方A公告，公司控股子公司京东方能源科技股份有限公司（简称“能源科技”）拟终止向不特定合格投资者公",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3845866491726337",
-        "title": "中科闻歌通过港交所聆讯",
-        "url": "https://36kr.com/newsflashes/3845866491726337?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-09T11:37:42.000Z",
-        "summary": "36氪获悉，港交所官网显示，北京中科闻歌科技股份有限公司（简称“中科闻歌”）已刊发聆讯后资料集，意味着公司正式通过上市聆讯。招股书显示，中科闻歌成立于2017年，由中国科学院自动化研究所科学家团队创立，专注于研发企业级大模型驱动的决策智能操作系统及服务。",
+        "summary": "大公司： 猫眼娱乐：作为首批内测开发者接入微信AI生态布局 36氪获悉，猫眼娱乐宣布作为微信AI生态���批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。 京东方A：控股子公司拟终止向不特定合格投资者公开发行股票并撤回申请文件 36氪获悉，京东方A公告，公司控股子公司京东方能源科技股份有限公司（简称“能源科技”）拟终止向不特定合格投资",
         "category": "updates",
         "region": "cn"
       },
@@ -1306,56 +1396,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-09T03:01:37.000Z",
         "summary": "作者 | 邱晓芬 编辑 | 袁斯来 6月9日，位于加州库比蒂诺的苹果总部被Swift标志性的暖色系渐变背景填满，熟悉的倒计时欢呼声依旧，但WWDC 2026选了一条更克制的路线—— 这次，苹果没有如往常一般发布新硬件，也不预热万众瞩目的折叠屏，而是把一个多小时演讲的最大篇幅，留给了软件与AI。 显然，苹果正试图把过去两年的\"AI迟到者\"的标签，编译成另一套叙事。 在发布会上，苹果软件工程高级副总裁克雷格·费德里吉（Craig Feder",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3845295918909954",
-        "title": "36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先",
-        "url": "https://36kr.com/p/3845295918909954?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-09T01:58:22.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，苏州墨锋新材料科技有限公司（下称“墨锋科技”）近日完成新一轮千万元融资，由险峰基金、成都科创投集团投资，资金将主要用于产线扩建与产能扩张。 墨锋科技成立于2023年，技术源自四川大学近20年高分子材料研究成果，聚焦高性能POD（聚芳噁二唑）薄膜产业化。 POD作为一种耐高温聚合物，早在上世纪六七十年代便受到关注，但由于加工成型过程中的工艺问题和设备腐蚀问题，产业化难度极高，相关研究一度长期停",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3845293120621057",
-        "title": "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司",
-        "url": "https://36kr.com/p/3845293120621057?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-09T01:56:31.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，隼瞻科技有限公司（下称“隼瞻科技”）近日完成近亿元天使+轮融资。本轮融资引入英飞尼迪资本、白云金控、深圳中小担创投、厚天资本、华盖资本、嘉誉创投等多家战略投资人，老股东毅达资本、达泰资本持续加持。 隼瞻科技成立于2023年初，专注芯片处理器模块及开发平台，致力于打造基于“RISC-V+DSA”的新一代处理器设计体系，公司希望通过“IP货架+EDA工具链”的模式，降低AI时代定制化处理器设计门",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3839626642344454",
-        "title": "「百奥几何」完成数亿元战略融资，打造生命科学\"微观世界模型\"｜36氪首发",
-        "url": "https://36kr.com/p/3839626642344454?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-09T00:30:00.000Z",
-        "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，近日，AI原生生物科技公司百奥几何已完成数亿元战略融资。由上海生物医药创新转化基金、国科投资、达晨财智、星连资本联合领投，高榕资本、指数人工智能产业创新基金跟投。指数资本担任独家财务顾问。另据介绍，本轮募集资金将重点用于生命科学微观世界模型GeoFlow的持续迭代，以及自研药物管线的推进。 当前，人工智能正沿两条主线加速演进：以大语言模型与多模态模型为代表的数字AI（Digital AI），以自动驾",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/dxrsfgkc1e2ck60igyht",
-        "title": "云知声U2，重新计算通用大模型的商业价值",
-        "url": "https://www.infoq.cn/article/dXrSfgKc1E2Ck60IGYhT?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-08T16:43:44.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/e1omvu7a5eh9hdmcajle",
-        "title": "“英伟达也缺算力！”顶尖AI研究员转投xAI内幕：谁GPU管够，就去哪里",
-        "url": "https://www.infoq.cn/article/E1oMvU7A5EH9hDMcAJLE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-08T16:34:49.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
