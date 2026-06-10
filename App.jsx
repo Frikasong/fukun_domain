@@ -1099,11 +1099,9 @@ function GridView({ section, entries, allEntries, onNew, onEdit, onDelete, onOpe
 
   // ── HOBBIES page — seamless garden: music, photos, pottery, video all interleaved ──
   if (section.id === "hobbies") {
-    const photoEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "photography");
-    const musicEntries = entries.filter(e => (SECTION_MAP[e.section] || e.section) === "music");
     const vw = typeof window !== "undefined" ? window.innerWidth : 1280;
-    // columnCount is used instead of CSS shorthand 'columns' — React treats numeric shorthand as px
-    const colCount = vw <= 640 ? 2 : vw < 1100 ? 3 : 4;
+    const colCount = vw <= 640 ? 1 : vw < 1100 ? 2 : 3;
+
     return (
       <div style={styles.chesterPage}>
         <div style={{ borderLeft: "3px solid #C8A96E", paddingLeft: 16, margin: "0 0 32px" }}>
@@ -1111,16 +1109,22 @@ function GridView({ section, entries, allEntries, onNew, onEdit, onDelete, onOpe
             {lang === "zh" ? "生来就是要快乐的。" : "I'm born to have fun."}
           </p>
         </div>
-        {/* Photos */}
-        {photoEntries.length > 0 && (
-          <div style={styles.chesterHobbiesSection}>
-            <p style={styles.chesterSectionHeading}>📷 {lang === "zh" ? "照片" : "Photos"}</p>
-            {/* Garden photo mosaic — CSS columns masonry, natural aspect ratios, no gaps */}
-            <div style={{ columnCount: colCount, columnGap: "8px" }}>
-              {photoEntries.map((entry, i) => {
-                const imgSrc = entry.images && entry.images[0]
-                  ? (typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data)
-                  : null;
+
+        {entries.length === 0 ? (
+          <div style={styles.emptyState}><p style={styles.emptyText}>{T.grid.empty}</p></div>
+        ) : (
+          // Unified garden — all types in one CSS-columns masonry, sorted by date
+          <div style={{ columnCount: colCount, columnGap: "10px" }}>
+            {entries.map((entry, i) => {
+              const type = SECTION_MAP[entry.section] || entry.section;
+              const imgSrc = entry.images && entry.images[0]
+                ? (typeof entry.images[0] === "string" ? entry.images[0] : entry.images[0].data)
+                : null;
+
+              const tileDelay = `${Math.min(i, 10) * 0.06}s`;
+
+              // ── Photo tile ──
+              if (type === "photography") {
                 return (
                   <div
                     key={i}
