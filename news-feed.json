@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T02:39:00.726Z",
+  "generatedAt": "2026-06-10T09:42:03.543Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,72 +1210,132 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/cawakiuf9u4mnkjyfkya",
-        "title": "Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海",
-        "url": "https://www.infoq.cn/article/cAWaKiuf9U4MNkjyfKYa?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ujppczo8rpwnit0pssvp",
+        "title": "TypeORM 历经近十年发展终于迎来 1.0 版本，标志着项目维护工作重启",
+        "url": "https://www.infoq.cn/article/UjpPCzo8RPwNIt0pSsVp?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-10T10:00:00.000Z",
+        "publishedAt": "2026-06-10T17:04:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/u1uhoezuq3wdat5ypf08",
-        "title": "Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI",
-        "url": "https://www.infoq.cn/article/U1uHOeZUQ3wdaT5ypf08?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/islybh5xfq6rcjrbaqou",
+        "title": "从 Computer Use到 Datacenter Use：如何让 AI Agent 像调用函数一样驱动数据中心？",
+        "url": "https://www.infoq.cn/article/iSlYBH5XfQ6RCJrbaqOU?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-10T09:44:43.000Z",
+        "publishedAt": "2026-06-10T16:33:04.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/i1mysmdubd63pzrihxdc",
-        "title": "深入了解谷歌全球服务体系中的 A/B 测试协调系统",
-        "url": "https://www.infoq.cn/article/i1mYsmdUbd63PZRIhXdC?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/k4k56jbfmpfpxx2eqwr5",
+        "title": "零售与消费品公司如何在宏观经济波动中实现同比增长 ｜ 技术趋势",
+        "url": "https://www.infoq.cn/article/k4K56JbfmpfPXX2eqwR5?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-10T09:19:49.000Z",
+        "publishedAt": "2026-06-10T16:29:10.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3846748237023488",
-        "title": "深成指、创业板指均跌超2%",
-        "url": "https://36kr.com/newsflashes/3846748237023488?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-10T02:34:39.000Z",
-        "summary": "36氪获悉，深成指、创业板指均跌超2%，沪指跌0.6%，贵金属、算力硬件、电力电网等方向跌幅居前，沪深京三市下跌个股超4400只。",
+        "id": "InfoQ China:www.infoq.cn/article/kaqflshffha56vfrektu",
+        "title": "AI Native 的门槛，是把你的公司写下来",
+        "url": "https://www.infoq.cn/article/KAqFLsHffhA56VFrekTu?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-10T16:28:55.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3846729007630601",
-        "title": "赛豆科技发布AI汽车品牌AIVA",
-        "url": "https://36kr.com/newsflashes/3846729007630601?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-10T02:15:06.000Z",
-        "summary": "36氪获悉，6月9日，赛豆科技正式发布AI先锋生态出行品牌AIVA，并官宣携手火山引擎，联合定义、联合设计、共同打造AI汽车体验。火山引擎为AIVA品牌提供豆包大模型、智能座舱等技术服务，帮助AIVA品牌提升车载智能交互体验。",
+        "id": "InfoQ China:www.infoq.cn/article/rpzlvb6arzmaszuzfmd8",
+        "title": "边缘推理成为AI走向物理世界的核心战场",
+        "url": "https://www.infoq.cn/article/RPzLvb6arzMasZuZfmD8?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-10T16:19:47.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3846697139931400",
-        "title": "子公司中标山铁数科5亿元算力服务器？华策影视：不属实",
-        "url": "https://36kr.com/newsflashes/3846697139931400?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-10T01:50:39.000Z",
-        "summary": "36氪获悉，就“子公司上海华剧汇中标山铁数科5亿元算力服务器，是否属实”的问题，华策影视6月10日在互动平台回复称，不属实。",
+        "id": "InfoQ China:www.infoq.cn/article/fdit4n6s583unkgmum8f",
+        "title": "业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地",
+        "url": "https://www.infoq.cn/article/FDIT4N6S583uNKGmUm8F?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-10T13:59:26.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3846676426672389",
-        "title": "兆易创新推出全新光模块专用MCU",
-        "url": "https://36kr.com/newsflashes/3846676426672389?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3847153637067017",
+        "title": "3连板金安国纪：公司覆铜板主要客户为PCB厂商，未发现在AI服务器及算力领域的应用",
+        "url": "https://36kr.com/newsflashes/3847153637067017?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-10T01:35:34.000Z",
-        "summary": "36氪获悉，6月10日，兆易创新推出全新GD32E512和GD32E252系列光模块专用MCU，精准覆盖从传统低速到新一代高速光模块的多元应用场景。这两款新品的发布，将进一步拓宽兆易创新在光通信领域的产品矩阵，并将为AI算力中心及下一代网络基础设施的高速光互联产业升级提供强有力的底层硬件支撑。",
+        "publishedAt": "2026-06-10T09:27:03.000Z",
+        "summary": "36氪获悉，金安国纪公告，公司覆铜板主要产品包括各种通用FR-4、CEM-3等系列覆铜板和特殊指标要求的无卤无铅环保、高阻燃、耐CAF、高Tg、高CTI等系列覆铜板及铝基覆铜板、半固化片等，主要客户为PCB厂商，未发现在AI服务器及算力领域的应用。公司目前高频高速覆铜板产品尚在实验室研发及客户送样阶段，尚未形成收入，其中一款介电常数Dk3.81（10GHz）及介质损耗Df0.0047（10GHz）的高速覆铜板正在向境内客户送样中，能否通",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3847102371940870",
+        "title": "滴滴接入微信AI生态",
+        "url": "https://36kr.com/newsflashes/3847102371940870?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-10T08:34:54.000Z",
+        "summary": "36氪获悉，随着微信正式面向开发者提供AI生态接入能力，滴滴已与微信团队合作，将核心网约车服务融入微信AI Agent。未来，用户通过微信内AI交互，即可直接唤起滴滴快车、专车、特惠等服务。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3847079661193733",
+        "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+        "url": "https://36kr.com/p/3847079661193733?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-10T08:32:14.000Z",
+        "summary": "大公司： 瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长 36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表人职责，公司法定代表人变更为韩猛，相关工商变更登记手续正在办理中。韩猛持有公司股份45000股，占总股本的0.01%。 Meta与安巴尼旗下的信实集团合作，在印度建设人工智",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3847059940821511",
+        "title": "SK海力士最早将于8月在美国上市",
+        "url": "https://36kr.com/newsflashes/3847059940821511?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-10T07:51:44.000Z",
+        "summary": "据透露，SK海力士计划最早于8月在美国上市，这家韩国存储芯片巨头希望借此抓住人工智能相关股票的强劲需求，并扩大其投资者基础。其中一位消息人士称，美国证券交易委员会（SEC）很可能在6月22日当周批准SK海力士的美国存托凭证（ADR）上市申请。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3846956646124036",
+        "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
+        "url": "https://36kr.com/p/3846956646124036?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-10T06:11:37.000Z",
+        "summary": "文｜周鑫雨 编辑｜张雨忻 《智能涌现》独家获悉， 字节跳动 AI 制药业务线已启动拆分与独立融资进程。 据悉，拆分后字节仍将控股新公司，AI 制药核心团队、核心算法、技术平台和已有管线资产将整体进入新主体。同时，该业务也将继续从火山引擎获得算力支持。 新公司将由字节跳动 AI 制药团队主导负责。字节 AI 制药团队成立于 2021 年，由刘凯负责，据悉核心成员约50人，由 AI4S 算法人才和资深制药领域专家构成。该团队自成立起便承担着",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3846793046133257",
+        "title": "最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店",
+        "url": "https://36kr.com/p/3846793046133257?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-10T03:20:39.000Z",
+        "summary": "文｜张子怡 编辑｜袁斯来 在竞争常年格外激烈的跨境电商行业，精细化运营已成为决定商家利润的关键，多渠道布局则是规避风险的普遍运营选择。当前，“Shopify独立站+亚马逊+TikTok Shop”的多渠道三位一体布局，已成为中大型出海卖家的标配。 不过，多渠道运作伴随着极高的人力成本与管理成本。有数据显示，一个典型的跨境商家在日常运营中，平均需要配置超过3.5个功能各异的点状工具；对于独立站卖家而言，这一数字往往会上升到5个甚至更多。 ",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3846789531404549",
+        "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
+        "url": "https://36kr.com/p/3846789531404549?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-10T03:18:51.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。 微面科技聚焦自研人类感知理解基座模型，打造新一代人机交互范式，创始团队主要来自清华大学，具备大模型、人机交互、软件工程与医学复合背景。 当前，AI交互存在一个隐形天花板：极度依赖用户显性输入，缺乏对隐性非语言信息的感知。研究表明，人类表达中非语言信息高达55%，但现有的机器视觉只看见动作，却无法穿透皮肤洞察",
         "category": "updates",
         "region": "cn"
       },
@@ -1345,72 +1405,11 @@
         "url": "https://36kr.com/p/3845899768760580?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-09T12:48:30.000Z",
-        "summary": "大公司： 猫眼娱乐：作为首批内测开发者接入微信AI生态布局 36氪获悉，猫眼娱乐宣布作为微信AI生态���批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。 京东方A：控股子公司拟终止向不特定合格投资者公开发行股票并撤回申请文件 36氪获悉，京东方A公告，公司控股子公司京东方能源科技股份有限公司（简称“能源科技”）拟终止向不特定合格投资",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/uft6hcbo9xf2kyzas4wr",
-        "title": "蚂蚁数科Harness工程实践：从 AI Coding 到可验收的研发闭环｜AICon上海",
-        "url": "https://www.infoq.cn/article/ufT6HCBO9xf2kyZAs4wr?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-09T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qamwwo56nvvksquyqgnf",
-        "title": "Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底",
-        "url": "https://www.infoq.cn/article/qamWWo56NVvksQUYQGNF?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-09T09:33:18.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ufuicrekl9gwmwhetej5",
-        "title": "BadHost 漏洞使 AI 代理、评估器和 LLM 网关面临风险",
-        "url": "https://www.infoq.cn/article/ufuicrEKl9GWMWheTEJ5?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-09T09:16:43.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3845645258541319",
-        "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
-        "url": "https://36kr.com/p/3845645258541319?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-09T07:53:19.000Z",
-        "summary": "文｜李嘉星 编辑｜周鑫雨 一句话介绍 context-mode 是一款专为 AI 编程打造的上下文优化 MCP（Anthropic 发布的模型上下文协议）插件。 它解决了开发者在长周期开发中遭遇的“模型失忆”与“Token 过多消耗”的核心痛点。 据团队表示，在编程场景下，context-mode 能够让 AI 编程的成本降低 98%，同时将大模型的记忆力从30分钟提升至 3 小时。 团队背景 context-mode 的背后是一支背景",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3845356968839680",
-        "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
-        "url": "https://36kr.com/p/3845356968839680?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-09T03:01:37.000Z",
-        "summary": "作者 | 邱晓芬 编辑 | 袁斯来 6月9日，位于加州库比蒂诺的苹果总部被Swift标志性的暖色系渐变背景填满，熟悉的倒计时欢呼声依旧，但WWDC 2026选了一条更克制的路线—— 这次，苹果没有如往常一般发布新硬件，也不预热万众瞩目的折叠屏，而是把一个多小时演讲的最大篇幅，留给了软件与AI。 显然，苹果正试图把过去两年的\"AI迟到者\"的标签，编译成另一套叙事。 在发布会上，苹果软件工程高级副总裁克雷格·费德里吉（Craig Feder",
+        "summary": "大公司： 猫眼娱乐：作为首批内测开发者接入微信AI生态布局 36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、���键支付等服务。 京东方A：控股子公司拟终止向不特定合格投资者公开发行股票并撤回申请文件 36氪获悉，京东方A公告，公司控股子公司京东方能源科技股份有限公司（简称“能源科技”）拟终止向不特定合格投资",
         "category": "updates",
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai",
-        "title": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-04T07:00:10.000Z",
-        "summary": "Chinese artificial intelligence start-up DeepSeek took the top spot on a major US business spending index in June, as more companies swap out expensive American options like OpenAI and Anthropic in favour of more afforda",
-        "category": "tools",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
