@@ -94,6 +94,28 @@ In GitHub repo → **Settings** → **Secrets and variables** → **Actions** ad
 ### 5) Trigger manually (optional)
 GitHub repo → **Actions** → **Sync Notion Posts** → **Run workflow**.
 
+## 📸 Instagram Auto-Sync (Fun garden)
+
+Photos from the `fukun_vision` Instagram account auto-flow into the **Fun** page, interleaved by date with the other photography/music/pottery tiles. Instagram retired its simple personal-account API in Dec 2024, so this uses [Behold](https://behold.so) — a free service that handles Meta authorization and access-token refresh, and exposes a clean JSON feed.
+
+**This is already wired up** — the `fukun_vision` Behold feed URL is baked into the fetch script, so it works as soon as the repo is deployed. Nothing else to configure.
+
+### How it works
+- Workflow `.github/workflows/instagram-sync.yml` runs every 6 hours
+- It calls `scripts/fetch-instagram.mjs`, which pulls the Behold feed and writes `instagram-posts.json`
+- `instagram-posts.json` is merged with `notion-posts.json` at runtime (see `loadEntries()` in `App.jsx`)
+- New Instagram posts appear on the site within ~6 hours (or run the workflow manually for instant)
+
+### Requirements / notes
+- The `fukun_vision` account must stay a **Professional account** (Business or Creator) — Instagram's API won't serve a personal account. Toggle in the IG app: Settings → *Account type and tools*. It's free and stays private.
+- The free Behold tier serves the most recent posts only.
+
+### Point it at a different account (optional)
+Either edit `DEFAULT_FEED_URL` at the top of `scripts/fetch-instagram.mjs`, or add a repo **Variable** named `BEHOLD_FEED_URL` (Settings → Secrets and variables → Actions → Variables) — the variable overrides the built-in default.
+
+### Trigger manually (optional)
+GitHub repo → **Actions** → **Sync Instagram Photos** → **Run workflow**.
+
 ## 💾 Data Storage
 
 Your portfolio uses **localStorage** to save:

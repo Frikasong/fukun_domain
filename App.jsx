@@ -274,25 +274,40 @@ function fileToBase64(file) {
 }
 
 // ─── Storage Helpers ────────────────────────────────────────────────────────
-async function loadEntries() {
-  // Preferred source: Notion-synced static feed (auto-updated by GitHub Actions)
+async function fetchFeedEntries(file) {
   try {
-    const res = await fetch(`notion-posts.json?t=${Date.now()}`);
+    const res = await fetch(`${file}?t=${Date.now()}`);
     if (res.ok) {
       const data = await res.json();
-      if (Array.isArray(data.entries)) {
-        // Deduplicate by notionPageId (UUID), falling back to computed id
-        const seen = new Set();
-        return data.entries.filter((e) => {
-          const k = e.notionPageId || e.id;
-          if (seen.has(k)) return false;
-          seen.add(k);
-          return true;
-        });
-      }
+      if (Array.isArray(data.entries)) return data.entries;
     }
   } catch {
-    // Fallback to local storage below
+    // ignore — caller decides on fallback
+  }
+  return null;
+}
+
+async function loadEntries() {
+  // Preferred sources: static feeds auto-updated by GitHub Actions
+  // (Notion posts + Instagram photos), merged into one stream.
+  const [notionEntries, instagramEntries] = await Promise.all([
+    fetchFeedEntries("notion-posts.json"),
+    fetchFeedEntries("instagram-posts.json"),
+  ]);
+
+  if (notionEntries || instagramEntries) {
+    const combined = [...(notionEntries || []), ...(instagramEntries || [])];
+    // Deduplicate by stable key (Notion page id / Instagram id / computed id),
+    // then sort newest first so feeds interleave by date.
+    const seen = new Set();
+    return combined
+      .filter((e) => {
+        const k = e.notionPageId || e.instagramId || e.id;
+        if (seen.has(k)) return false;
+        seen.add(k);
+        return true;
+      })
+      .sort((a, b) => new Date(b.date) - new Date(a.date));
   }
 
   // Fallback source: legacy local storage
