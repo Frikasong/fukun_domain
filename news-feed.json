@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T02:48:31.250Z",
+  "generatedAt": "2026-06-11T10:09:08.192Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,52 +1210,132 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/oueuzmbm0dxlfo0pbnpt",
-        "title": "Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
-        "url": "https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/li99ydglxblj3qdmskry",
+        "title": "企业级 AI Coding 进入深水区：从代码生成到组织重构",
+        "url": "https://www.infoq.cn/article/LI99ydgLxBlJ3qDmSKRy?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-11T10:00:00.000Z",
+        "publishedAt": "2026-06-11T18:03:49.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/45evokw1rjtaooqorjse",
-        "title": "Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
-        "url": "https://www.infoq.cn/article/45EvOkw1RJtAoOqOrJsE?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/foxoesyulgtkgu8wbhdy",
+        "title": "微软 Foundry 新增生产级智能体运行时、工具链与管控能力",
+        "url": "https://www.infoq.cn/article/FoxOEsYuLGTKgu8wbhdY?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-11T09:23:36.000Z",
+        "publishedAt": "2026-06-11T17:34:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3848111404274945",
-        "title": "小米推出AI 编程助手MiMo Code",
-        "url": "https://36kr.com/newsflashes/3848111404274945?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-11T01:41:20.000Z",
-        "summary": "36氪获悉，6月11日，小米MiMo技术团队正式发布探索性AI编程助手——MiMo Code。这是小米MiMo首次进入Coding Agent领域，开始构建“模型+Agent”的生态闭环。",
+        "id": "InfoQ China:www.infoq.cn/article/vbpxmjrexuufus9dbxrq",
+        "title": "打破“人月神话”，Agent 重塑风控场景产运研职能",
+        "url": "https://www.infoq.cn/article/VbPxMjRexUufus9dbxRq?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-11T17:32:12.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3848088702260225",
-        "title": "甲骨文CFO：公司积压订单达6380亿美元，体现市场对AI基建和云服务的需求旺盛",
-        "url": "https://36kr.com/newsflashes/3848088702260225?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-11T01:18:15.000Z",
-        "summary": "美东时间周三盘后，甲骨文公司首席财务官希拉里・芭芭拉・马克森表示，在截至5月31日的财年末，公司剩余履约义务规模达6380亿美元，同比激增363%，预计其中12%将在未来12个月内确认为收入，另有34%将在未来13至36个月内确认。马克森表示：“这一创纪录的数值，依托客户长期合约支撑，充分体现了市场对人工智能基础设施、云服务的旺盛需求，也让我们对未来营收增长具备极高能见度。”（财联社）",
+        "id": "InfoQ China:www.infoq.cn/article/gjsqtsz9gvhrztxg2wav",
+        "title": "空间智能初探：重建与生成的双路径实践",
+        "url": "https://www.infoq.cn/article/GJsQtsz9gvhRZtXg2Wav?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-11T17:19:12.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3848066038174724",
-        "title": "两部门：深入实施“人工智能+三品”专项行动，建设一批行业大模型和高质量数据集",
-        "url": "https://36kr.com/newsflashes/3848066038174724?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/tddi5yolaeaitzacfz6u",
+        "title": "“Token 大爆炸”前夜，数据基础设施正在成为新的变量",
+        "url": "https://www.infoq.cn/article/TDdi5YoLaEaiTZAcfz6U?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-11T17:01:34.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/l7bxlstuwdobwi30miju",
+        "title": "构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers",
+        "url": "https://www.infoq.cn/article/l7BXlstUWDOBwI30miJU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-11T16:59:57.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/sppyl2lxz47cvbnwxgaa",
+        "title": "“Token 大爆炸”前夜，数据基础设施何以成为新的变量？",
+        "url": "https://www.infoq.cn/video/SPpYl2LXz47cVbNwxgAa?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-11T15:51:55.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/zjrk3r749vqqxqamh2yv",
+        "title": "Agentic Enterprise，成为硅谷现场最强信号 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP1）",
+        "url": "https://www.infoq.cn/video/Zjrk3R749vQqXqAMh2YV?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-11T15:48:14.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/18jtstpet9akbxv61u7y",
+        "title": "技术采用曲线：回望二十年",
+        "url": "https://www.infoq.cn/article/18jtsTpet9akBXV61U7y?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-11T15:44:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/xspr0stxb7itv6j9jhcj",
+        "title": "推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地",
+        "url": "https://www.infoq.cn/article/xsPR0sTxb7ItV6J9JHcJ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-11T11:47:09.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3848579581924615",
+        "title": "印度塔塔咨询服务公司与Anthropic达成合作，将为5万名员工配备Claude",
+        "url": "https://36kr.com/newsflashes/3848579581924615?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-11T00:55:11.000Z",
-        "summary": "36氪获悉，工业和信息化部办公厅、文化和旅游部办公厅发布关于组织开展2026消费名品全国行的通知，活动时间2026年5月—2027年4月。其中提出，深入实施“人工智能+三品”专项行动，分行业分领域发布实施人工智能赋能应用指南，建设一批行业大模型和高质量数据集。聚焦体验制造、时尚消费、银发经济、绿色生产、健康生活等重点领域，深入挖掘一批创新产品、关键技术与应用场景。组织征集数字化转型典型案例（“数字三品”方向），加快形成一批可复制、易推广",
+        "publishedAt": "2026-06-11T09:44:32.000Z",
+        "summary": "6月11日，一份声明显示，印度塔塔咨询服务公司（TCS）已与Anthropic建立全球战略合作伙伴关系，旨在帮助客户规模化推进企业级人工智能的采用。TCS将通过企业级授权，为工程、财务、法务、市场营销及销售等部门的5万名员工配备Claude模型。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3848564910036229",
+        "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+        "url": "https://36kr.com/p/3848564910036229?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-11T09:24:11.000Z",
+        "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future 前沿科技展区的战略合作伙伴，以及ChinaJ",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3848528390198535",
+        "title": "腾讯混元 AI Infra 新开源：HPC-Ops 推理核心算子全面升级",
+        "url": "https://36kr.com/newsflashes/3848528390198535?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-11T08:53:29.000Z",
+        "summary": "36氪获悉，为了进一步满足推理系统对动态业务负载的适应性、核心模块对复杂精度和高性能融合算子的需求，HPC-Ops 推出全新更新开源升级，包含五大关键算子。本次升级在主流推理平台上，有效缓解了Attention长尾延迟、显存搬运开销、跨卡通信等实际工程瓶颈，多项性能指标显著优于现有的开源基线。",
         "category": "updates",
         "region": "cn"
       },
@@ -1265,26 +1345,6 @@
         "url": "https://www.infoq.cn/article/W3cHyeWfH0fbisevdoK6?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-06-10T18:06:42.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/islybh5xfq6rcjrbaqou",
-        "title": "从 Computer Use到 Datacenter Use：如何让 AI Agent 像调用函数一样驱动数据中心？",
-        "url": "https://www.infoq.cn/article/iSlYBH5XfQ6RCJrbaqOU?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-10T16:33:04.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fdit4n6s583unkgmum8f",
-        "title": "业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地",
-        "url": "https://www.infoq.cn/article/FDIT4N6S583uNKGmUm8F?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-10T13:59:26.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1318,46 +1378,26 @@
         "summary": "文｜张子怡 编辑｜袁斯来 在竞争常年格外激烈的跨境电商行业，精细化运营已成为决定商家利润的关键，多渠道布局则是规避风险的普遍运营选择。当前，“Shopify独立站+亚马逊+TikTok Shop”的多渠道三位一体布局，已成为中大型出海卖家的标配。 不过，多渠道运作伴随着极高的人力成本与管理成本。有数据显示，一个典型的跨境商家在日常运营中，平均需要配置超过3.5个功能各异的点状工具；对于独立站卖家而言，这一数字往往会上升到5个甚至更多。 ",
         "category": "tools",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3846789531404549",
-        "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
-        "url": "https://36kr.com/p/3846789531404549?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-10T03:18:51.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。 微面科技聚焦自研人类感知理解基座模型，打造新一代人机交互范式，创始团队主要来自清华大学，具备大模型、人机交互、软件工程与医学复合背景。 当前，AI交互存在一个隐形天花板：极度依赖用户显性输入，缺乏对隐性非语言信息的感知。研究表明，人类表达中非语言信息高达55%，但现有的机器视觉只看见动作，却无法穿透皮肤洞察",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3844720012151040",
-        "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
-        "url": "https://36kr.com/p/3844720012151040?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-10T01:30:00.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素投资等机构共同投资，投资方阵容汇集了国家队、产业方、市场化基金及家族办公室。Maple Pledge枫承资本长期出任私募股权融资顾问。 资金将重点用于自研世界模型的架构搭建、算法迭代与场景落地，同步扩充核心研发与项目交付团队，完善商业化",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3846673443997961",
-        "title": "手机装不下的野心，正在被搬进游戏平板丨2026游戏平板使用趋势观察",
-        "url": "https://36kr.com/p/3846673443997961?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-10T01:26:15.000Z",
-        "summary": "打开任意社交媒体，搜索“手游设备”，你会发现一个有趣的现象：越来越多的年轻人正在抱怨手机——屏幕太小、玩两把就发烫、开放世界游戏跑不满帧、吃鸡打到决赛圈手指抽筋……而评论区里， 被提及最多的解决方案不是怎么换一台性能更好的手机，而更多的是建议——换一台专业游戏平板。 游戏玩家们，正在经历一场“换屏幕”的集体迁徙。这不是凭空发生，是伴随着手游市场升级换代的必然结果。过去几年，移动游戏不只是新作频出，类似《王者荣耀》《三角洲行动》《原神》《",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3356617/global-ai-trade-flashing-signals-reminiscent-dotcom-bust-analysts-warn",
-        "title": "Global AI trade flashing signals reminiscent of the dotcom bust, analysts warn",
-        "url": "https://www.scmp.com/business/china-business/article/3356617/global-ai-trade-flashing-signals-reminiscent-dotcom-bust-analysts-warn?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3356752/beat-chip-crunch-chinese-firm-inks-memory-deal-bigger-its-sales",
+        "title": "To beat chip crunch, Chinese firm inks memory deal bigger than its sales",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3356752/beat-chip-crunch-chinese-firm-inks-memory-deal-bigger-its-sales?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-06-10T23:00:06.000Z",
-        "summary": "The global artificial intelligence trade is flashing signals reminiscent of past market tops, with winners outpacing the broader market by a wide margin and a slew of jumbo initial public offerings (IPOs) in the pipeline",
+        "publishedAt": "2026-06-11T10:00:28.000Z",
+        "summary": "Chinese memory module maker Biwin has signed a two-year agreement worth US$1.86 billion to secure flash memory chips, a deal larger than its annual revenue, as demand from artificial intelligence servers and data centres",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/plus/business/markets/article/3356755/china-hong-kong-stocks-fall-ai-bubble-fears-build",
+        "title": "China, Hong Kong stocks fall as AI bubble fears build up",
+        "url": "https://www.scmp.com/plus/business/markets/article/3356755/china-hong-kong-stocks-fall-ai-bubble-fears-build?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-11T09:14:42.000Z",
+        "summary": "Asia-Pacific shares fell to a three-week low as fresh US strikes on Iran and concerns about an artificial intelligence (AI) bubble rattled markets around the world. The MSCI All Country Asia-Pacific Index dropped about 0",
         "category": "updates",
         "region": "cn_en"
       }
