@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T15:38:45.800Z",
+  "generatedAt": "2026-06-11T20:11:05.904Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/iowa&",
+        "title": "Lawyer convicted of orchestrating drug deals wins back law license",
+        "url": "https://www.abajournal.com/news/article/iowa&#45;lawyer&#45;who&#45;orchestrated&#45;drug&#45;deals&#45;reinstated/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-11T17:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/this-week-saw-a-slew-of-new-legal-tech-ceos-but-why.html",
+        "title": "This Week Saw A Slew Of New Legal Tech CEOs. But Why?",
+        "url": "https://www.lawnext.com/2026/06/this-week-saw-a-slew-of-new-legal-tech-ceos-but-why.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-11T17:16:34.000Z",
+        "summary": "In all my years of covering legal tech, I cannot remember a week quite like this. And I say that for a very specific reason: This week brought an unusual concentration of leadership changes at legal tech companies. Four ",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/max&",
+        "title": "&#8216;Evil Lives Here&#8217; docuseries details parents dealing with aftermath of their kids&#8217; murder convictions",
+        "url": "https://www.abajournal.com/columns/article/max&#45;series&#45;details&#45;parenting&#45;individuals&#45;convicted&#45;of&#45;doing&#45;awful&#45;things/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-11T16:26:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/the&",
         "title": "The NextGen UBE launches next month; are we ready?",
@@ -108,16 +138,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
-        "title": "Judge halts use of nitrogen gas for execution, citing cruel and unusual punishment",
-        "url": "https://www.abajournal.com/news/article/judge&#45;halts&#45;use&#45;of&#45;nitrogen&#45;gas&#45;for&#45;execution&#45;citing&#45;cruel&#45;and&#45;unusual&#45;punishment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-10T14:26:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/clio-acquires-jurisage-paving-the-way-for-canadian-launch-of-clio-work-and-other-canadian-ai-tools.html",
         "title": "Clio Acquires Jurisage, Paving the Way for Canadian Launch of Clio Work and Other Canadian AI Tools",
         "url": "https://www.lawnext.com/2026/06/clio-acquires-jurisage-paving-the-way-for-canadian-launch-of-clio-work-and-other-canadian-ai-tools.html",
@@ -154,16 +174,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-09T23:56:53.000Z",
         "summary": "Because AL is in SF this week here’s a collection of news all in one go. First up, Claude Fable and how Mark Pike, who ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/bonding&",
-        "title": "Bonding Experience: Chickie Leventhal did it her way in the male-dominated bail bonds business",
-        "url": "https://www.abajournal.com/web/article/bonding&#45;experience&#45;female&#45;bail&#45;bond&#45;agent&#45;succeeded&#45;by&#45;doing&#45;it&#45;differently/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-09T20:28:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1168,16 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/03/lexisnexis-confirms-data-breach-reports-say-hackers-claim-access-to-government-and-law-firm-user-data.html",
-        "title": "LexisNexis Says Data Breach Has Been Cointained; Hackers Claim Access to Government and Law Firm User Data",
-        "url": "https://www.lawnext.com/2026/03/lexisnexis-confirms-data-breach-reports-say-hackers-claim-access-to-government-and-law-firm-user-data.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-04T15:37:26.000Z",
-        "summary": "LexisNexis Legal &#38; Professional has confirmed that hackers breached its servers and accessed customer and business information, after a threat actor calling itself FulcrumSec publicly posted stolen files and a detail",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1280,17 +1280,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3356752/beat-chip-crunch-chinese-firm-inks-memory-deal-bigger-its-sales",
-        "title": "To beat chip crunch, Chinese firm inks memory deal bigger than its sales",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3356752/beat-chip-crunch-chinese-firm-inks-memory-deal-bigger-its-sales?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-11T10:00:28.000Z",
-        "summary": "Chinese memory module maker Biwin has signed a two-year agreement worth US$1.86 billion to secure flash memory chips, a deal larger than its annual revenue, as demand from artificial intelligence servers and data centres",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
