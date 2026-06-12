@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T02:45:02.651Z",
+  "generatedAt": "2026-06-12T09:58:16.324Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1140,52 +1140,42 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/video/9qtsak237x3l8ugfpoxh",
-        "title": "Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）",
-        "url": "https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/g31nxderpwygwbgai937",
+        "title": "智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻",
+        "url": "https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-12T10:21:33.000Z",
+        "publishedAt": "2026-06-12T16:30:21.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/6re9ay3icjke2wlgo3kx",
-        "title": "上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
-        "url": "https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/kdgv7d7aircveeeuy6wk",
+        "title": "Build 2026：Azure API Management 推出统一模型API并新增MCP内容安全能力",
+        "url": "https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-12T10:00:00.000Z",
+        "publishedAt": "2026-06-12T16:03:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3849487518798857",
-        "title": "中信建投：算力等高频高速需求快速增长，电子级PTFE有望大规模应用",
-        "url": "https://36kr.com/newsflashes/3849487518798857?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3850013147256064",
+        "title": "金山云：AI算力相关产品服务上调约15%-50%",
+        "url": "https://36kr.com/newsflashes/3850013147256064?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-12T01:01:12.000Z",
-        "summary": "36氪获悉，中信建投研报称，算力等高频高速需求快速增长，电子级PTFE有望大规模应用。PTFE材料主要特性包括优异的热稳定性、耐化学性、介电性能等。PTFE下游军工+服务器高速线缆+高速板三大需求均有望高速增长，随着英伟达新一代服务器Rubin ultra量产节点临近，产业内积极讨论使用PTFE材料作为正交背板的可能性，国内生益科技配合积极做验证。中信建投认为，随着算力基建等引领的高频高速传输需求的持续增长，PTFE的下游领域有望被重新",
+        "publishedAt": "2026-06-12T09:55:54.000Z",
+        "summary": "36氪获悉，据金山云官网，因全球AI算力需求攀升，硬件成本上涨，将对部分产品价格进行调整。AI算力相关产品服务价格上调约15%-50%，文件存储相关产品服务价格上调约30%-50%。调整将于北京时间2026年7月12日00:00:00起生效。存量订单在当前计费周期内不受影响，新价格在下一个计费周期开始时适用。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/li99ydglxblj3qdmskry",
-        "title": "企业级 AI Coding 进入深水区：从代码生成到组织重构",
-        "url": "https://www.infoq.cn/article/LI99ydgLxBlJ3qDmSKRy?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-11T18:03:49.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/xspr0stxb7itv6j9jhcj",
-        "title": "推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地",
-        "url": "https://www.infoq.cn/article/xsPR0sTxb7ItV6J9JHcJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-11T11:47:09.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3849974304117760",
+        "title": "腾讯云：下调MiniMax-M3与Hy-MT2-Pro 模型价格",
+        "url": "https://36kr.com/newsflashes/3849974304117760?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-12T09:16:23.000Z",
+        "summary": "36氪获悉，腾讯云公告，大模型服务平台TokenHub将于北京时间2026年6月15日起下调MiniMax-M3模型价格，推理输入、推理输出及缓存命中费用均下调50%。大模型服务平台TokenHub将于北京时间2026年6月12日起下调Hy-MT2-Pro模型价格，输入价格下调66.67%、输出价格下调55.56%。",
         "category": "updates",
         "region": "cn"
       },
@@ -1210,6 +1200,17 @@
         "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/money/money-news/article/3356873/musk-secures-1st-trillionaire-status-spacex-ipo-will-chinese-tech-see-next-one",
+        "title": "As Musk secures first trillionaire status with SpaceX IPO, will the next come from China?",
+        "url": "https://www.scmp.com/business/money/money-news/article/3356873/musk-secures-1st-trillionaire-status-spacex-ipo-will-chinese-tech-see-next-one?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-12T08:00:07.000Z",
+        "summary": "This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar r",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
