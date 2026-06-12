@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T14:39:04.651Z",
+  "generatedAt": "2026-06-12T19:56:29.774Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/georgia&",
+        "title": "Federal judge who had in-chambers sex with top police officer issues clerks revised apology letters",
+        "url": "https://www.abajournal.com/news/article/georgia&#45;judge&#45;issues&#45;new&#45;apology&#45;letters&#45;to&#45;clerks/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-12T16:08:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/immigration&",
+        "title": "Immigration lawyers continue to fight scammers",
+        "url": "https://www.abajournal.com/news/article/immigration&#45;lawyers&#45;continuing&#45;to&#45;fight&#45;scammers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-12T14:57:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/supreme&",
+        "title": "Supreme Court spares Alabama man from nitrogen gas execution",
+        "url": "https://www.abajournal.com/news/article/supreme&#45;court&#45;spares&#45;alabama&#45;man&#45;from&#45;nitrogen&#45;gas&#45;execution/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-12T14:44:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/as&",
         "title": "As recruitment for BigLaw summer jobs moves up, impact hits 1Ls hard, study finds",
@@ -78,16 +108,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
-        "title": "Man charged with impersonating lawyer after showing up at traffic stop",
-        "url": "https://www.abajournal.com/news/article/florida&#45;man&#45;charged&#45;with&#45;impersonating&#45;a&#45;lawyer&#45;after&#45;showing&#45;up&#45;at&#45;traffic&#45;stop/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-11T14:38:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/integreon-names-krishna-nacha-as-ceo-to-lead-ai-forward-growth-strategy.html",
         "title": "Integreon Names Krishna Nacha as CEO to Lead AI-Forward Growth Strategy",
         "url": "https://www.lawnext.com/2026/06/integreon-names-krishna-nacha-as-ceo-to-lead-ai-forward-growth-strategy.html",
@@ -105,36 +125,6 @@
         "publishedAt": "2026-06-11T12:45:51.000Z",
         "summary": "Five months after introducing what it called an &#8220;AI workforce&#8221; for plaintiff law firms, legal AI company Eve is taking its next step with the launch of EveOS, which it describes as an AI-native operating syst",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/nick&",
-        "title": "Nick Reiner seeks $1.5M from trust fund to defend against murder charges involving parents",
-        "url": "https://www.abajournal.com/news/article/nick&#45;reiner&#45;seeks&#45;1point5&#45;million&#45;from&#45;trust&#45;fund&#45;to&#45;defend&#45;against&#45;murder&#45;case&#45;involving&#45;parents/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-10T19:32:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/more&",
-        "title": "More courts are coming down on ‘non-offending counsel’ for AI missteps",
-        "url": "https://www.abajournal.com/web/article/more&#45;courts&#45;are&#45;coming&#45;down&#45;on&#45;non&#45;offending&#45;counsel&#45;for&#45;ai&#45;missteps/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-10T15:53:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/law&",
-        "title": "Majority of law school faculty self-censor, think legal education headed in wrong direction, new survey finds",
-        "url": "https://www.abajournal.com/news/article/law&#45;faculty&#45;self&#45;censor&#45;study&#45;finds/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-10T15:37:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1205,6 +1195,16 @@
         "publishedAt": "2024-05-06T00:00:00.000Z",
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
         "region": "na"
       }
     ],
