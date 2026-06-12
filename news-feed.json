@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T20:11:05.904Z",
+  "generatedAt": "2026-06-12T02:45:02.651Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/as&",
+        "title": "As recruitment for BigLaw summer jobs moves up, impact hits 1Ls hard, study finds",
+        "url": "https://www.abajournal.com/web/article/as&#45;recruitment&#45;for&#45;biglaw&#45;summer&#45;jobs&#45;moves&#45;up&#45;impact&#45;hits&#45;1ls&#45;hard&#45;study&#45;finds/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-11T20:52:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/iowa&",
         "title": "Lawyer convicted of orchestrating drug deals wins back law license",
@@ -128,16 +138,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
-        "title": "Federal judge removes 4 plaintiff and defense attorneys over AI errors",
-        "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;terminates&#45;4&#45;plaintiff&#45;and&#45;defense&#45;attorneys&#45;over&#45;ai&#45;errors/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-10T14:45:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/clio-acquires-jurisage-paving-the-way-for-canadian-launch-of-clio-work-and-other-canadian-ai-tools.html",
         "title": "Clio Acquires Jurisage, Paving the Way for Canadian Launch of Clio Work and Other Canadian AI Tools",
         "url": "https://www.lawnext.com/2026/06/clio-acquires-jurisage-paving-the-way-for-canadian-launch-of-clio-work-and-other-canadian-ai-tools.html",
@@ -168,32 +168,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/10/claude-fable-steno-billables-ai-spellbook-legora",
-        "title": "Claude Fable, Steno, Billables AI, Spellbook, Legora",
-        "url": "https://www.artificiallawyer.com/2026/06/10/claude-fable-steno-billables-ai-spellbook-legora/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-09T23:56:53.000Z",
-        "summary": "Because AL is in SF this week here’s a collection of news all in one go. First up, Claude Fable and how Mark Pike, who ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/steno-names-its-current-coo-prabhdeep-singh-as-new-ceo-to-lead-next-phase-of-growth.html",
         "title": "Steno Names Its Current COO Prabhdeep Singh as New CEO to Lead Next Phase of Growth",
         "url": "https://www.lawnext.com/2026/06/steno-names-its-current-coo-prabhdeep-singh-as-new-ceo-to-lead-next-phase-of-growth.html",
         "source": "LawSites",
         "publishedAt": "2026-06-09T14:02:14.000Z",
         "summary": "Two years ago, Steno, a tech-enabled provider of legal support and court reporting services, named Prabhdeep Singh as its chief operating officer to help accelerate the company&#8217;s growth. Apparently, he did a good j",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/09/sandstone-raises-30m-for-ai-native-inhouse-teams",
-        "title": "Sandstone Raises $30m For AI-Native Inhouse Teams",
-        "url": "https://www.artificiallawyer.com/2026/06/09/sandstone-raises-30m-for-ai-native-inhouse-teams/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-09T13:39:09.000Z",
-        "summary": "Sandstone has raised $30 million in a Series A funding round led by Lightspeed Venture Partners, to support the development of AI-native legal departments – ...",
         "category": "updates",
         "region": "na"
       },
@@ -238,16 +218,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/05/what-a-time-for-legal-ai-legal-innovators-california",
-        "title": "What A Time For Legal AI! + Legal Innovators California",
-        "url": "https://www.artificiallawyer.com/2026/06/05/what-a-time-for-legal-ai-legal-innovators-california/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-05T07:52:39.000Z",
-        "summary": "What an incredible time it is now for legal AI! Palantir has just entered the legal tech room, joining OpenAI, Anthropic, and Microsoft. So, four ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/less-hype-more-application-is-the-promise-of-this-june-17-legal-ai-conference-live-in-l-a-or-virtual.html",
         "title": "&#8216;Less Hype, More Application&#8217; Is the Promise of This June 17 Legal AI Conference, Live In L.A. Or Virtual",
         "url": "https://www.lawnext.com/2026/06/less-hype-more-application-is-the-promise-of-this-june-17-legal-ai-conference-live-in-l-a-or-virtual.html",
@@ -258,62 +228,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/join-650-legal-innovators-in-sf-next-week",
-        "title": "Join 650+ Legal Innovators in SF Next Week!",
-        "url": "https://www.artificiallawyer.com/2026/06/04/join-650-legal-innovators-in-sf-next-week/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-04T16:15:02.000Z",
-        "summary": "Come and join amazing speakers from OpenAI, Meta, Google, Y Combinator, Cooley, and Wilson Sonsini, along with 650+ others already attending the landmark&#160;Legal Innovators California&#160;conference ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/can-a-legal-ai-platform-be-powerful-fun-and-free-all-at-the-same-time-lavern-surely-thinks-so.html",
         "title": "Can a Legal AI Platform Be Powerful, Fun and Free All at the Same Time? Lavern Surely Thinks So.",
         "url": "https://www.lawnext.com/2026/06/can-a-legal-ai-platform-be-powerful-fun-and-free-all-at-the-same-time-lavern-surely-thinks-so.html",
         "source": "LawSites",
         "publishedAt": "2026-06-04T13:50:52.000Z",
         "summary": "Somebody once told Antti Innanen that he had built a veggie burger dressed up to look like real meat. He thought it was a fun criticism, but he also thought it missed the point. That burger is Lavern, an open-source &#82",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/kirkland-palantir-partner-for-pe-platform",
-        "title": "Kirkland + Palantir Partner For PE Platform",
-        "url": "https://www.artificiallawyer.com/2026/06/04/kirkland-palantir-partner-for-pe-platform/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-04T13:21:20.000Z",
-        "summary": "Palantir and Kirkland &#38; Ellis have launched a proprietary enterprise platform for private equity fundraising. It follows the news that the US firm will build ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/token-costs-and-the-future-of-law-firm-ai-spend",
-        "title": "Token Costs and the Future of Law Firm AI Spend",
-        "url": "https://www.artificiallawyer.com/2026/06/04/token-costs-and-the-future-of-law-firm-ai-spend/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-04T08:48:48.000Z",
-        "summary": "First, this is a thought experiment, so take a deep breath and a large pinch of salt&#8230;.Artificial Lawyer asked ChatGPT to estimate the total token ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/what-6200-matters-reveal-about-running-transactions",
-        "title": "What 6,200 Matters Reveal About Running Transactions",
-        "url": "https://www.artificiallawyer.com/2026/06/04/what-6200-matters-reveal-about-running-transactions/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-04T06:42:03.000Z",
-        "summary": "By Rob MacAdam, CPO, Legatics. Ask most transactional partners where the work on a deal happens, and you&#8217;ll get a confident answer: at signing. Closing ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/lawgeex-founders-launch-superlegal-newmod-firm",
-        "title": "LawGeex Founders Launch Superlegal NewMod Firm",
-        "url": "https://www.artificiallawyer.com/2026/06/03/lawgeex-founders-launch-superlegal-newmod-firm/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-03T14:08:55.000Z",
-        "summary": "Noory Bechor, the Israel-based legal AI pioneer who co-founded LawGeex – but later saw the company broken up and sold off – has now launched ...",
         "category": "tools",
         "region": "na"
       },
@@ -335,26 +255,6 @@
         "publishedAt": "2026-06-03T12:03:16.000Z",
         "summary": "Foundation 365, Litera&#8217;s AI-powered CRM platform for law firms, is now available across Microsoft 365, including Outlook, Teams and Microsoft 365 Copilot, the company said today. Built on Microsoft Dynamics 365, Fo",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/wordsmith-raises-70m-series-b",
-        "title": "Wordsmith Raises $70m Series B",
-        "url": "https://www.artificiallawyer.com/2026/06/03/wordsmith-raises-70m-series-b/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-03T09:47:05.000Z",
-        "summary": "Breaking News: Wordsmith AI has announced a $70 million Series B funding round with investment from Highland Europe and Index Ventures among others. Wordsmith will ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/legal-ai-has-a-growing-token-price-problem",
-        "title": "Legal AI Has A Growing Token Price Problem",
-        "url": "https://www.artificiallawyer.com/2026/06/03/legal-ai-has-a-growing-token-price-problem/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-03T09:13:48.000Z",
-        "summary": "If legal AI tools are the vehicles our work is now transported by, then tokens are the oil that drives it all. And that’s an ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,9 +1106,69 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/video/9qtsak237x3l8ugfpoxh",
+        "title": "Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）",
+        "url": "https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-12T10:21:33.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/6re9ay3icjke2wlgo3kx",
+        "title": "上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
+        "url": "https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-12T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3849487518798857",
+        "title": "中信建投：算力等高频高速需求快速增长，电子级PTFE有望大规模应用",
+        "url": "https://36kr.com/newsflashes/3849487518798857?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-12T01:01:12.000Z",
+        "summary": "36氪获悉，中信建投研报称，算力等高频高速需求快速增长，电子级PTFE有望大规模应用。PTFE材料主要特性包括优异的热稳定性、耐化学性、介电性能等。PTFE下游军工+服务器高速线缆+高速板三大需求均有望高速增长，随着英伟达新一代服务器Rubin ultra量产节点临近，产业内积极讨论使用PTFE材料作为正交背板的可能性，国内生益科技配合积极做验证。中信建投认为，随着算力基建等引领的高频高速传输需求的持续增长，PTFE的下游领域有望被重新",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/li99ydglxblj3qdmskry",
         "title": "企业级 AI Coding 进入深水区：从代码生成到组织重构",
@@ -1216,16 +1176,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-06-11T18:03:49.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3848736954635268",
-        "title": "KKR联合多方设新公司，专攻大型云服务商基建",
-        "url": "https://36kr.com/newsflashes/3848736954635268?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-11T12:30:38.000Z",
-        "summary": "KKR集团、科威特投资局、英伟达与维斯特拉公司联手成立赫利克斯数字基础设施公司，这家新企业旨在为大型人工智能云服务商提供配套基础设施。KKR于周四表示，赫利克斯将 “统筹满足大型云服务商在数据中心、电力、网络连接及相关领域的各类需求”。目前该公司已获得超100亿美元长期资金承诺。创始轮资金到位后，赫利克斯将继续吸纳其他机构投资者。英伟达将助力部署适配其DSX人工智能工厂的基础设施，能源企业维斯特拉则负责电力供应。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1256,26 +1206,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-11T09:24:11.000Z",
         "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future 前沿科技展区的战略合作伙伴，以及ChinaJ",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3847079661193733",
-        "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
-        "url": "https://36kr.com/p/3847079661193733?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-10T08:32:14.000Z",
-        "summary": "大公司： 瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长 36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表人职责，公司法定代表人变更为韩猛，相关工商变更登记手续正在办理中。韩猛持有公司股份45000股，占总股本的0.01%。 Meta与安巴尼旗下的信实集团合作，在印度建设人工智",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3846956646124036",
-        "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
-        "url": "https://36kr.com/p/3846956646124036?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-10T06:11:37.000Z",
-        "summary": "文｜周鑫雨 编辑｜张雨忻 《智能涌现》独家获悉， 字节跳动 AI 制药业务线已启动拆分与独立融资进程。 据悉，拆分后字节仍将控股新公司，AI 制药核心团队、核心算法、技术平台和已有管线资产将整体进入新主体。同时，该业务也将继续从火山引擎获得算力支持。 新公司将由字节跳动 AI 制药团队主导负责。字节 AI 制药团队成立于 2021 年，由刘凯负责，据悉核心成员约50人，由 AI4S 算法人才和资深制药领域专家构成。该团队自成立起便承担着",
         "category": "updates",
         "region": "cn"
       }
