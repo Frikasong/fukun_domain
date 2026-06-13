@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T19:56:29.774Z",
+  "generatedAt": "2026-06-13T02:37:31.645Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,66 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/smxf71rutlygi0bsqhkw",
+        "title": "面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
+        "url": "https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-13T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/u140aaplg0t5dxxe8x7q",
+        "title": "AI驱动的网络钓鱼：技术演变与实施方式",
+        "url": "https://www.infoq.cn/article/U140AaPLg0t5dXxE8x7q?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-13T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/v3lcjatwkzatu7dhgolq",
+        "title": "分析的未来是多模态的，一切都关乎 Vibe ｜ 技术趋势",
+        "url": "https://www.infoq.cn/article/v3lCjatWKZaTu7DhgoLq?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-13T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3850886715446274",
+        "title": "特朗普政府禁止境外主体获取Anthropic旗下最强人工智能模型",
+        "url": "https://36kr.com/newsflashes/3850886715446274?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-13T01:17:22.000Z",
+        "summary": "特朗普政府禁止境外政府、企业及个人使用Anthropic旗下最先进的人工智能模型。此举意味着美国进一步将尖端人工智能系统视作国家安全核心资产，相关管控再度升级。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3850885678306561",
+        "title": "美多州总检察长联合调查OpenAI",
+        "url": "https://36kr.com/newsflashes/3850885678306561?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-13T01:11:23.000Z",
+        "summary": "据美国《华尔街日报》当地时间6月12日援引知情人士消息报道称，美国多个州的总检察长已对美国开放人工智能研究中心（OpenAI）展开联合调查。报道称，这家人工智能公司于当天收到传票，要求提供与其多项业务活动及其对用户影响相关的文件。OpenAI目前已面临多起诉讼，涉及其聊天机器人ChatGPT的设计问题导致用户自杀或对用户造成不良影响。部分起诉书中指出，ChatGPT的设计“优先考虑用户参与度而非安全性”。（CCTV国际时讯）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3850902095336449",
+        "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+        "url": "https://36kr.com/p/3850902095336449?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-13T01:02:18.000Z",
+        "summary": "6月12日晚，SpaceX以史上最大估值完成IPO，股价冲高至176美元，截至目前市值已经突破2万亿美元。 马斯克成为历史上第一位万亿美元身价的富豪。 马斯克在得克萨斯“星际基地”（Starbase）敲钟 其实在SpaceX敲钟之前，大洋彼岸的行业水温早已接近沸腾。 过去半年，商业航天成为国内一级市场最热的赛道之一。 投资人排队约见创始人，地方政府争抢项目落地，一些过去很少关注航天的基金，也开始研究火箭、卫星和星座。 “头部项目现在整个",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/g31nxderpwygwbgai937",
         "title": "智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻",
         "url": "https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article",
@@ -1240,32 +1300,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3850102005028103",
-        "title": "澳大利亚AI云服务商Sharon AI与英伟达达成六年合作",
-        "url": "https://36kr.com/newsflashes/3850102005028103?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-12T11:26:17.000Z",
-        "summary": "6月12日，澳大利亚人工智能云服务提供商Sharon AI宣布与英伟达签署为期六年的AI基础设施算力合作协议。根据协议，双方将在澳大利亚新增72兆瓦（MW）数据中心容量，并部署英伟达DSX AI Factory架构，未来可扩展至4万块Grace Blackwell GB300 GPU，以满足AI初创企业、商业客户及高校研究机构不断增长的算力需求。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3848516305605892",
         "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
         "url": "https://36kr.com/p/3848516305605892?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-11T11:00:00.000Z",
         "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François Provost）汇报。 通用或停止将磷酸铁锂电",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3848564910036229",
-        "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
-        "url": "https://36kr.com/p/3848564910036229?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-11T09:24:11.000Z",
-        "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future 前沿科技展区的战略合作伙伴，以及ChinaJ",
         "category": "updates",
         "region": "cn"
       }
