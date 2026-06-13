@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T02:37:31.645Z",
+  "generatedAt": "2026-06-13T08:47:58.320Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1220,16 +1220,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/u140aaplg0t5dxxe8x7q",
-        "title": "AI驱动的网络钓鱼：技术演变与实施方式",
-        "url": "https://www.infoq.cn/article/U140AaPLg0t5dXxE8x7q?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-13T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/v3lcjatwkzatu7dhgolq",
         "title": "分析的未来是多模态的，一切都关乎 Vibe ｜ 技术趋势",
         "url": "https://www.infoq.cn/article/v3lCjatWKZaTu7DhgoLq?utm_source=rss&utm_medium=article",
@@ -1240,22 +1230,82 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3850886715446274",
-        "title": "特朗普政府禁止境外主体获取Anthropic旗下最强人工智能模型",
-        "url": "https://36kr.com/newsflashes/3850886715446274?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3851320295166976",
+        "title": "科大讯飞发布星火多模态大模型X2-VL",
+        "url": "https://36kr.com/newsflashes/3851320295166976?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-13T01:17:22.000Z",
-        "summary": "特朗普政府禁止境外政府、企业及个人使用Anthropic旗下最先进的人工智能模型。此举意味着美国进一步将尖端人工智能系统视作国家安全核心资产，相关管控再度升级。（新浪财经）",
+        "publishedAt": "2026-06-13T08:05:35.000Z",
+        "summary": "36氪获悉，据无锡发布，6月11日，在锡举行的2026长三角机器人及自动化展览会暨无锡具身智能机器人产业链伙伴大会上，科大讯飞发布星火多模态大模型X2-VL。这款国产多模态大模型，将为无锡具身智能产业搭载硬核“AI大脑”。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3850885678306561",
-        "title": "美多州总检察长联合调查OpenAI",
-        "url": "https://36kr.com/newsflashes/3850885678306561?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3851264775804160",
+        "title": "智谱：GLM-5.2将面向GLM Coding Plan全量用户开放",
+        "url": "https://36kr.com/newsflashes/3851264775804160?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-13T01:11:23.000Z",
-        "summary": "据美国《华尔街日报》当地时间6月12日援引知情人士消息报道称，美国多个州的总检察长已对美国开放人工智能研究中心（OpenAI）展开联合调查。报道称，这家人工智能公司于当天收到传票，要求提供与其多项业务活动及其对用户影响相关的文件。OpenAI目前已面临多起诉讼，涉及其聊天机器人ChatGPT的设计问题导致用户自杀或对用户造成不良影响。部分起诉书中指出，ChatGPT的设计“优先考虑用户参与度而非安全性”。（CCTV国际时讯）",
+        "publishedAt": "2026-06-13T07:30:04.000Z",
+        "summary": "36氪获悉，据智谱消息，今晚5:21，GLM-5.2将面向GLM Coding Plan全量用户开放，覆盖Lite/Pro/Max/团队版。GLM-5.2 API将于下周上线，模型下周正式开源，遵循MIT协议。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3851099090998277",
+        "title": "法国调查显示公众对人工智能态度分化明显",
+        "url": "https://36kr.com/newsflashes/3851099090998277?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-13T05:25:27.000Z",
+        "summary": "法国一项新公布的调查结果显示，65%的法国人使用人工智能工具，但法国公众对人工智能的态度分化明显。这项名为《法国人与人工智能》的调查由埃拉贝民意调查公司12日发布，样本为1503名法国本土18岁及以上居民。调查结果显示，法国公众对人工智能的态度分化明显，54%的受访者认为人工智能首先是威胁，45%则认为首先是机会。此外，在各个群体使用人工智能的比例方面，存在明显的代际、阶层和地域差异。18岁至34岁人群中为87%，而50岁以上人群中只有",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3851106394117383",
+        "title": "“宁王系”，排队 IPO",
+        "url": "https://36kr.com/p/3851106394117383?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-13T04:59:03.000Z",
+        "summary": "越来越多CVC在路上 作者 | 冯晓亭 编辑 | 吾人 来源 | 融中财经 宁德时代，又出手了。 近日，中恒电气发布关于控股股东签署《战略投资合作框架协议》事项的进展公告。公告显示，公司控股股东杭州中恒科技投资有限公司（简称“中恒科技投资”）引进宁德时代新能源科技股份有限公司（简称“宁德时代”）的战略投资事宜正在有序推进中，宁德时代拟以40.9985882353亿元（约“41亿元”）认购中恒科技投资新增注册资本。 中恒电气表示，自《战略",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3851097260004610",
+        "title": "摩尔线程：完成MiniMax M3大模型适配",
+        "url": "https://36kr.com/newsflashes/3851097260004610?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-13T04:40:39.000Z",
+        "summary": "36氪获悉，6月12日，MiniMax新一代原生多模态旗舰模型M3正式开源。同日，摩尔线程旗舰级AI训推一体智算卡MTT S5000已完成对该模型的Day-0极速适配。据介绍，摩尔线程已具备覆盖前沿模型“适配—部署—优化”的完整工程能力，帮助开发者以更快响应、更稳运行、更低迁移成本接入最新模型，加速大模型创新落地与规模化应用。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3851096396322055",
+        "title": "蓝思科技：收购同昇光电，加速布局光通信",
+        "url": "https://36kr.com/newsflashes/3851096396322055?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-13T04:34:45.000Z",
+        "summary": "36氪获悉，据蓝思科技消息，2026年6月12日，蓝思科技全资子公司蓝思光电战略收购同昇光电控股权，进一步完善光电核心技术与产能布局，迈出高端光电硬件领域关键一步。同昇光电是国内空芯光纤领域领先企业，产品覆盖通信、AI算力、传感、传能、医疗等领域。本次收购与蓝思科技战略方向高度契合。同昇光电的空芯光纤与光感知器件将增强蓝思光电技术储备，进一步丰富蓝思光电在光波导、光传输、光传感产品的完整能力，打通“精密结构制造+高端光电元器件”全产业链",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3851073239372809",
+        "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+        "url": "https://36kr.com/p/3851073239372809?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-13T04:08:19.000Z",
+        "summary": "飞向宇宙、浩瀚无垠 作者｜曹思颀 编辑｜靖宇 6 月 12 日，在 SpaceX 正式挂牌当天，马斯克选择前往得州的星舰基地，和数百名员工一起，远程敲响了纳斯达克的开市钟。 在现场，他用熟悉的那股自嘲范儿说：「如果当年有人告诉我会有今天，我大概率觉得那个人嗑嗨了。因为当时我自己都认为这家公司会黄。」 这一天，SpaceX 正式登陆纳斯达克，发行价 135 美元，募资约 750 亿美元；开盘即涨，盘中一度冲过 176 美元，市值短暂站上 ",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3851015329027336",
+        "title": "突发！Anthropic全球停用Claude 5",
+        "url": "https://36kr.com/p/3851015329027336?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-13T03:00:16.000Z",
+        "summary": "究竟为何，Anthropic突然下线了地表最强Claude？ 【导读】上线72小时，最强Claude Fable 5被一纸禁令全球下架，连Anthropic自家外籍员工都不许碰。 太突然了！ 就在刚刚，Anthropic官宣—— 全球禁用外籍人士对Claude Fable 5和Mythos 5的所有访问权限。 无论是在美国境内还是境外，就连Anthropic的外籍员工，全都不可用。 上线才3天的Claude Fable 5，一瞬间就没了",
         "category": "updates",
         "region": "cn"
       },
@@ -1298,18 +1348,19 @@
         "summary": "大公司： OpenAI CEO奥特曼推迟访韩计划 据报道，OpenAI首席执行官山姆·奥特曼因个人原因推迟访韩计划。奥特曼原定于14日至15日访韩，会见三星电子、Kakao、NAVER等企业负责人。 Alphabet旗下自动驾驶公司Waymo将推出30美元月费会员计划 当地时间6月11日，Alphabet旗下自动驾驶公司Waymo宣布，将推出仅限受邀用户参与的Waymo Premier30美元月费会员计划，会员可享受优先接送、每次行程1",
         "category": "tools",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3848516305605892",
-        "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
-        "url": "https://36kr.com/p/3848516305605892?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-11T11:00:00.000Z",
-        "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François Provost）汇报。 通用或停止将磷酸铁锂电",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks",
+        "title": "US blocks foreign access to Anthropic’s newest AI models over security risks",
+        "url": "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-13T05:06:27.000Z",
+        "summary": "Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Sili",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
