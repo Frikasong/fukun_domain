@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T08:47:58.320Z",
+  "generatedAt": "2026-06-13T13:29:09.993Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "36Kr:36kr.com/newsflashes/3851534097896712",
+        "title": "SpaceX业务呈现“一极盈利、两极亏损”格局",
+        "url": "https://36kr.com/newsflashes/3851534097896712?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-13T12:18:55.000Z",
+        "summary": "SpaceX上市首个交易日，进入市场流通的股份仅占总股本的4.2%，筹码供不应求，认购热情高涨，股价短期冲高并不意外。但公司市销率已超过112倍，远超特斯拉的15倍和芯片巨头英伟达的近20倍。简单来讲，SpaceX的业务呈现“一极盈利、两极亏损”的格局。星链是当之无愧的“现金牛”。据招股书披露，这项卫星互联网业务去年营收达113.9亿美元，占SpaceX总营收的61%，截至2025年底已服务超1000万用户。火箭发射业务凭借复用技术在全",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/smxf71rutlygi0bsqhkw",
         "title": "面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
         "url": "https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&utm_medium=article",
@@ -1240,52 +1250,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3851264775804160",
-        "title": "智谱：GLM-5.2将面向GLM Coding Plan全量用户开放",
-        "url": "https://36kr.com/newsflashes/3851264775804160?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-13T07:30:04.000Z",
-        "summary": "36氪获悉，据智谱消息，今晚5:21，GLM-5.2将面向GLM Coding Plan全量用户开放，覆盖Lite/Pro/Max/团队版。GLM-5.2 API将于下周上线，模型下周正式开源，遵循MIT协议。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3851099090998277",
-        "title": "法国调查显示公众对人工智能态度分化明显",
-        "url": "https://36kr.com/newsflashes/3851099090998277?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-13T05:25:27.000Z",
-        "summary": "法国一项新公布的调查结果显示，65%的法国人使用人工智能工具，但法国公众对人工智能的态度分化明显。这项名为《法国人与人工智能》的调查由埃拉贝民意调查公司12日发布，样本为1503名法国本土18岁及以上居民。调查结果显示，法国公众对人工智能的态度分化明显，54%的受访者认为人工智能首先是威胁，45%则认为首先是机会。此外，在各个群体使用人工智能的比例方面，存在明显的代际、阶层和地域差异。18岁至34岁人群中为87%，而50岁以上人群中只有",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3851106394117383",
         "title": "“宁王系”，排队 IPO",
         "url": "https://36kr.com/p/3851106394117383?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-13T04:59:03.000Z",
         "summary": "越来越多CVC在路上 作者 | 冯晓亭 编辑 | 吾人 来源 | 融中财经 宁德时代，又出手了。 近日，中恒电气发布关于控股股东签署《战略投资合作框架协议》事项的进展公告。公告显示，公司控股股东杭州中恒科技投资有限公司（简称“中恒科技投资”）引进宁德时代新能源科技股份有限公司（简称“宁德时代”）的战略投资事宜正在有序推进中，宁德时代拟以40.9985882353亿元（约“41亿元”）认购中恒科技投资新增注册资本。 中恒电气表示，自《战略",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3851097260004610",
-        "title": "摩尔线程：完成MiniMax M3大模型适配",
-        "url": "https://36kr.com/newsflashes/3851097260004610?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-13T04:40:39.000Z",
-        "summary": "36氪获悉，6月12日，MiniMax新一代原生多模态旗舰模型M3正式开源。同日，摩尔线程旗舰级AI训推一体智算卡MTT S5000已完成对该模型的Day-0极速适配。据介绍，摩尔线程已具备覆盖前沿模型“适配—部署—优化”的完整工程能力，帮助开发者以更快响应、更稳运行、更低迁移成本接入最新模型，加速大模型创新落地与规模化应用。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3851096396322055",
-        "title": "蓝思科技：收购同昇光电，加速布局光通信",
-        "url": "https://36kr.com/newsflashes/3851096396322055?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-13T04:34:45.000Z",
-        "summary": "36氪获悉，据蓝思科技消息，2026年6月12日，蓝思科技全资子公司蓝思光电战略收购同昇光电控股权，进一步完善光电核心技术与产能布局，迈出高端光电硬件领域关键一步。同昇光电是国内空芯光纤领域领先企业，产品覆盖通信、AI算力、传感、传能、医疗等领域。本次收购与蓝思科技战略方向高度契合。同昇光电的空芯光纤与光感知器件将增强蓝思光电技术储备，进一步丰富蓝思光电在光波导、光传输、光传感产品的完整能力，打通“精密结构制造+高端光电元器件”全产业链",
         "category": "updates",
         "region": "cn"
       },
@@ -1350,17 +1320,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks",
-        "title": "US blocks foreign access to Anthropic’s newest AI models over security risks",
-        "url": "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-13T05:06:27.000Z",
-        "summary": "Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Sili",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
