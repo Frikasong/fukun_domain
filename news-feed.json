@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T02:53:50.830Z",
+  "generatedAt": "2026-06-15T11:48:35.060Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/15/lod-consilio-wordsmith-link-for-managed-services",
+        "title": "LOD / Consilio + Wordsmith Link For Managed Services",
+        "url": "https://www.artificiallawyer.com/2026/06/15/lod-consilio-wordsmith-link-for-managed-services/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-15T08:22:33.000Z",
+        "summary": "Lawyers On Demand (LOD), which was bought by Consilio in 2023, is partnering with Wordsmith to deliver AI-enabled managed services to inhouse legal teams. Last ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/15/a-students-response-to-berkeley-laws-ai-ban",
+        "title": "A Student’s Response to Berkeley Law’s AI Ban",
+        "url": "https://www.artificiallawyer.com/2026/06/15/a-students-response-to-berkeley-laws-ai-ban/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-15T06:53:46.000Z",
+        "summary": "Last month, Berkeley Law School controversially banned AI use across many areas of study. One student, Lakshita Bhargava, who is doing a Master of Laws ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/georgia&",
         "title": "Federal judge who had in-chambers sex with top police officer issues clerks revised apology letters",
@@ -158,12 +178,32 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/10/claude-fable-steno-billables-ai-spellbook-legora",
+        "title": "Claude Fable, Steno, Billables AI, Spellbook, Legora",
+        "url": "https://www.artificiallawyer.com/2026/06/10/claude-fable-steno-billables-ai-spellbook-legora/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-09T23:56:53.000Z",
+        "summary": "Because AL is in SF this week here’s a collection of news all in one go. First up, Claude Fable and how Mark Pike, who ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/06/steno-names-its-current-coo-prabhdeep-singh-as-new-ceo-to-lead-next-phase-of-growth.html",
         "title": "Steno Names Its Current COO Prabhdeep Singh as New CEO to Lead Next Phase of Growth",
         "url": "https://www.lawnext.com/2026/06/steno-names-its-current-coo-prabhdeep-singh-as-new-ceo-to-lead-next-phase-of-growth.html",
         "source": "LawSites",
         "publishedAt": "2026-06-09T14:02:14.000Z",
         "summary": "Two years ago, Steno, a tech-enabled provider of legal support and court reporting services, named Prabhdeep Singh as its chief operating officer to help accelerate the company&#8217;s growth. Apparently, he did a good j",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/09/sandstone-raises-30m-for-ai-native-inhouse-teams",
+        "title": "Sandstone Raises $30m For AI-Native Inhouse Teams",
+        "url": "https://www.artificiallawyer.com/2026/06/09/sandstone-raises-30m-for-ai-native-inhouse-teams/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-09T13:39:09.000Z",
+        "summary": "Sandstone has raised $30 million in a Series A funding round led by Lightspeed Venture Partners, to support the development of AI-native legal departments – ...",
         "category": "updates",
         "region": "na"
       },
@@ -208,6 +248,16 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/05/what-a-time-for-legal-ai-legal-innovators-california",
+        "title": "What A Time For Legal AI! + Legal Innovators California",
+        "url": "https://www.artificiallawyer.com/2026/06/05/what-a-time-for-legal-ai-legal-innovators-california/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-05T07:52:39.000Z",
+        "summary": "What an incredible time it is now for legal AI! Palantir has just entered the legal tech room, joining OpenAI, Anthropic, and Microsoft. So, four ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/06/less-hype-more-application-is-the-promise-of-this-june-17-legal-ai-conference-live-in-l-a-or-virtual.html",
         "title": "&#8216;Less Hype, More Application&#8217; Is the Promise of This June 17 Legal AI Conference, Live In L.A. Or Virtual",
         "url": "https://www.lawnext.com/2026/06/less-hype-more-application-is-the-promise-of-this-june-17-legal-ai-conference-live-in-l-a-or-virtual.html",
@@ -218,12 +268,62 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/join-650-legal-innovators-in-sf-next-week",
+        "title": "Join 650+ Legal Innovators in SF Next Week!",
+        "url": "https://www.artificiallawyer.com/2026/06/04/join-650-legal-innovators-in-sf-next-week/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-04T16:15:02.000Z",
+        "summary": "Come and join amazing speakers from OpenAI, Meta, Google, Y Combinator, Cooley, and Wilson Sonsini, along with 650+ others already attending the landmark&#160;Legal Innovators California&#160;conference ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/06/can-a-legal-ai-platform-be-powerful-fun-and-free-all-at-the-same-time-lavern-surely-thinks-so.html",
         "title": "Can a Legal AI Platform Be Powerful, Fun and Free All at the Same Time? Lavern Surely Thinks So.",
         "url": "https://www.lawnext.com/2026/06/can-a-legal-ai-platform-be-powerful-fun-and-free-all-at-the-same-time-lavern-surely-thinks-so.html",
         "source": "LawSites",
         "publishedAt": "2026-06-04T13:50:52.000Z",
         "summary": "Somebody once told Antti Innanen that he had built a veggie burger dressed up to look like real meat. He thought it was a fun criticism, but he also thought it missed the point. That burger is Lavern, an open-source &#82",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/kirkland-palantir-partner-for-pe-platform",
+        "title": "Kirkland + Palantir Partner For PE Platform",
+        "url": "https://www.artificiallawyer.com/2026/06/04/kirkland-palantir-partner-for-pe-platform/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-04T13:21:20.000Z",
+        "summary": "Palantir and Kirkland &#38; Ellis have launched a proprietary enterprise platform for private equity fundraising. It follows the news that the US firm will build ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/token-costs-and-the-future-of-law-firm-ai-spend",
+        "title": "Token Costs and the Future of Law Firm AI Spend",
+        "url": "https://www.artificiallawyer.com/2026/06/04/token-costs-and-the-future-of-law-firm-ai-spend/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-04T08:48:48.000Z",
+        "summary": "First, this is a thought experiment, so take a deep breath and a large pinch of salt&#8230;.Artificial Lawyer asked ChatGPT to estimate the total token ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/what-6200-matters-reveal-about-running-transactions",
+        "title": "What 6,200 Matters Reveal About Running Transactions",
+        "url": "https://www.artificiallawyer.com/2026/06/04/what-6200-matters-reveal-about-running-transactions/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-04T06:42:03.000Z",
+        "summary": "By Rob MacAdam, CPO, Legatics. Ask most transactional partners where the work on a deal happens, and you&#8217;ll get a confident answer: at signing. Closing ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/03/lawgeex-founders-launch-superlegal-newmod-firm",
+        "title": "LawGeex Founders Launch Superlegal NewMod Firm",
+        "url": "https://www.artificiallawyer.com/2026/06/03/lawgeex-founders-launch-superlegal-newmod-firm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-03T14:08:55.000Z",
+        "summary": "Noory Bechor, the Israel-based legal AI pioneer who co-founded LawGeex – but later saw the company broken up and sold off – has now launched ...",
         "category": "tools",
         "region": "na"
       },
@@ -1106,76 +1206,46 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/qnqaczk6xhesnrrh3l92",
-        "title": "写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
-        "url": "https://www.infoq.cn/article/QNqAczK6XHEsNRrh3L92?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/pfj4sozqji2vsfux1dmm",
+        "title": "普通人创作千万播放量爆款视频不是梦！从字节走出的产品人，做了一款AIGC视频神器",
+        "url": "https://www.infoq.cn/article/pfJ4soZQji2VsfuX1DMm?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-15T10:42:15.000Z",
+        "publishedAt": "2026-06-15T18:40:26.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/uflm5d5vdpmu9ykc9cdj",
-        "title": "Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
-        "url": "https://www.infoq.cn/article/UFLm5D5VDPmu9Ykc9CdJ?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/bim80njzp6zyqjvm8dh7",
+        "title": "智能体加速金融创新 | TF技术前线179期报名",
+        "url": "https://www.infoq.cn/article/Bim80Njzp6ZYQJVm8dh7?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-15T10:31:38.000Z",
+        "publishedAt": "2026-06-15T18:39:02.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/vlsklr5qs8h3j1d4aeqw",
-        "title": "Fable 5 的杀手锏不是写新代码，是迁移、重构、收拾烂摊子",
-        "url": "https://www.infoq.cn/article/vLsklR5qs8h3j1D4AeqW?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/tvawscbjordm7xp3fupg",
+        "title": "Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持",
+        "url": "https://www.infoq.cn/article/TVaWScbjordM7XP3FuPg?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-15T10:23:03.000Z",
+        "publishedAt": "2026-06-15T18:11:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/dsexstkokyre1tikcblw",
-        "title": "复杂业务场景下 RCA Agent 的探索实践",
-        "url": "https://www.infoq.cn/article/dSexstkokyRe1TIkcBLW?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-15T10:20:58.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/lswq3hqpz1inx40ictse",
-        "title": "WWDC 2026，硅谷历史上最昂贵的认输：1.2 万亿参数 Siri 来自 Gemini，但你的手机跑不了",
-        "url": "https://www.infoq.cn/article/LSwQ3hQpZ1INX40icTSE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-15T10:00:57.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3854300006913289",
+        "title": "小雨智造与地瓜机器人正式宣布达成战略合作",
+        "url": "https://36kr.com/newsflashes/3854300006913289?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-15T10:36:43.000Z",
+        "summary": "36氪获悉，6月12日，小雨智造与地瓜机器人正式宣布达成战略合作，双方将围绕“工业具身大脑+端侧大算力”展开深度协同，推动具身智能技术从实验室走向工业产线，共同打造面向工业制造的高性能软硬一体化解决方案，助力智能制造迈向新阶段。",
         "category": "updates",
         "region": "cn"
       },
@@ -1190,22 +1260,12 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/yg0qxe0ywsiz9jbtopj3",
-        "title": "在AWS上为百万企业级B2B平台构建安全的MCP服务器",
-        "url": "https://www.infoq.cn/article/YG0Qxe0YwsIz9jBToPj3?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-15T09:47:40.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/kaeocgn7oqewmssz5k5s",
-        "title": "董事会视角：Snowflake 为何要打造生态系统操作系统 ｜ 技术趋势",
-        "url": "https://www.infoq.cn/article/KAeOCGN7OQEwMSsz5k5S?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-15T09:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/p/3854243718550528",
+        "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
+        "url": "https://36kr.com/p/3854243718550528?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-15T09:46:34.000Z",
+        "summary": "6月14日，HarmonyOS创新赛·极客赛道决赛在HDC华为开发者大会（HDC 2026）落下帷幕。 此前，20支入围队伍从众多参赛作品中脱颖而出，在36小时极限编码中抢先使用HarmonyOS 7，围绕AI、3D空间化、用户体验等方向展开比拼。随着最终获奖名单揭晓，比赛的结果已经落定，但比奖项本身更值得被看见的，是 这些作品背后一批年轻开发者正在关注什么，又试图用代码回答什么。 翻开参赛作品的名单，我们意外地发现，这其中很多的开发者",
         "category": "updates",
         "region": "cn"
       },
@@ -1221,7 +1281,7 @@
       },
       {
         "id": "36Kr:36kr.com/p/3853011900142848",
-        "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎、淡马锡押注",
+        "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
         "url": "https://36kr.com/p/3853011900142848?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-15T01:50:00.000Z",
@@ -1286,36 +1346,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-13T04:59:03.000Z",
         "summary": "越来越多CVC在路上 作者 | 冯晓亭 编辑 | 吾人 来源 | 融中财经 宁德时代，又出手了。 近日，中恒电气发布关于控股股东签署《战略投资合作框架协议》事项的进展公告。公告显示，公司控股股东杭州中恒科技投资有限公司（简称“中恒科技投资”）引进宁德时代新能源科技股份有限公司（简称“宁德时代”）的战略投资事宜正在有序推进中，宁德时代拟以40.9985882353亿元（约“41亿元”）认购中恒科技投资新增注册资本。 中恒电气表示，自《战略",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3851073239372809",
-        "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
-        "url": "https://36kr.com/p/3851073239372809?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-13T04:08:19.000Z",
-        "summary": "飞向宇宙、浩瀚无垠 作者｜曹思颀 编辑｜靖宇 6 月 12 日，在 SpaceX 正式挂牌当天，马斯克选择前往得州的星舰基地，和数百名员工一起，远程敲响了纳斯达克的开市钟。 在现场，他用熟悉的那股自嘲范儿说：「如果当年有人告诉我会有今天，我大概率觉得那个人嗑嗨了。因为当时我自己都认为这家公司会黄。」 这一天，SpaceX 正式登陆纳斯达克，发行价 135 美元，募资约 750 亿美元；开盘即涨，盘中一度冲过 176 美元，市值短暂站上 ",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/g31nxderpwygwbgai937",
-        "title": "智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻",
-        "url": "https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-12T16:30:21.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/kdgv7d7aircveeeuy6wk",
-        "title": "Build 2026：Azure API Management 推出统一模型API并新增MCP内容安全能力",
-        "url": "https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-12T16:03:00.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
