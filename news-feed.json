@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T10:56:54.799Z",
+  "generatedAt": "2026-06-16T16:26:53.968Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/jury&",
+        "title": "Jury service builds trust in courts, while overall confidence in judicial system has eroded, new survey says",
+        "url": "https://www.abajournal.com/news/article/jury&#45;service&#45;builds&#45;trust&#45;in&#45;courts&#45;while&#45;overall&#45;confidence&#45;in&#45;judicial&#45;system&#45;has&#45;eroded/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-16T15:01:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/state&",
+        "title": "State attorneys general open investigation into OpenAI, company says",
+        "url": "https://www.abajournal.com/news/article/state&#45;attorneys&#45;general&#45;open&#45;investigation&#45;into&#45;openai&#45;the&#45;company&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-16T14:43:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/trumps&",
+        "title": "Trump&#8217;s ex-personal attorney confirmed to 8th Circuit",
+        "url": "https://www.abajournal.com/news/article/trumps&#45;ex&#45;personal&#45;attorney&#45;confirmed&#45;to&#45;8th&#45;circuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-16T14:30:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/16/relativity-announces-air-assist-general-roll-out",
         "title": "Relativity Announces aiR Assist General Roll Out",
@@ -133,36 +163,6 @@
         "url": "https://www.abajournal.com/news/article/immigration&#45;lawyers&#45;continuing&#45;to&#45;fight&#45;scammers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-06-12T14:57:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/supreme&",
-        "title": "Supreme Court spares Alabama man from nitrogen gas execution",
-        "url": "https://www.abajournal.com/news/article/supreme&#45;court&#45;spares&#45;alabama&#45;man&#45;from&#45;nitrogen&#45;gas&#45;execution/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-12T14:44:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/as&",
-        "title": "As recruitment for BigLaw summer jobs moves up, impact hits 1Ls hard, study finds",
-        "url": "https://www.abajournal.com/web/article/as&#45;recruitment&#45;for&#45;biglaw&#45;summer&#45;jobs&#45;moves&#45;up&#45;impact&#45;hits&#45;1ls&#45;hard&#45;study&#45;finds/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-11T20:52:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/iowa&",
-        "title": "Lawyer convicted of orchestrating drug deals wins back law license",
-        "url": "https://www.abajournal.com/news/article/iowa&#45;lawyer&#45;who&#45;orchestrated&#45;drug&#45;deals&#45;reinstated/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-11T17:34:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,12 +1210,22 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/opki68pyldwyetcozr4t",
-        "title": "IBM Vault Enterprise 2.0 为企业身份安全带来自动化 LDAP 密钥管理",
-        "url": "https://www.infoq.cn/article/opKi68pYLdwYETCOzR4t?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/irlrmm9rifv5dmqr2fyr",
+        "title": "DeepSeek 融资交易曝光：腾讯、宁德时代等被锁5年，且没投票权，梁文锋绝对控制",
+        "url": "https://www.infoq.cn/article/IRLrMM9Rifv5Dmqr2fYR?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-16T17:07:00.000Z",
+        "publishedAt": "2026-06-16T18:50:59.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3855800258515968",
+        "title": "行云科技：全资子公司签署10.14亿元算力服务协议",
+        "url": "https://36kr.com/newsflashes/3855800258515968?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-16T12:02:51.000Z",
+        "summary": "36氪获悉，行云科技公告，近日，全资子公司深圳市行云控股有限责任公司（简称“深圳行云”）与VB客户签署《算力服务协议》，深圳行云向VB客户提供算力服务，协议服务期限5年，含税总金额为10.14亿元。",
         "category": "updates",
         "region": "cn"
       },
@@ -1230,22 +1240,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3855729974367233",
-        "title": "Deepseek首轮融资规模约75亿美元，创始人梁文锋为最大单一出资方",
-        "url": "https://36kr.com/newsflashes/3855729974367233?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3855759472120839",
+        "title": "东山精密：拟投资12亿美元实施光芯片及光模块扩建项目",
+        "url": "https://36kr.com/newsflashes/3855759472120839?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-16T10:51:21.000Z",
-        "summary": "36氪从投资机构获悉，Deepseek本轮融资的投资方包括创始人梁文锋、国智投、腾讯、网易、京东、宁德时代体系、正心谷投资、拾象科技、Monolith砺思资本以及 IDG 资本等，整体融资规模约510亿元，折合约75亿美元，投后估值接近4000亿元。具体来看：创始人梁文锋或出资约200亿元，为本轮融资中最大单一出资方。腾讯出资约100亿元；宁德时代体系出资约50亿元，其中包括宁德时代及溥泉资本；网易、京东、Monolith砺思资本、ID",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3855722312946953",
-        "title": "普洛斯中国任命申成钢为算力中心平台总裁",
-        "url": "https://36kr.com/newsflashes/3855722312946953?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-16T10:43:33.000Z",
-        "summary": "36氪获悉，近日，普洛斯中国宣布，申成钢加入公司，担任算力中心平台总裁，全面负责该业务战略制定、业务拓展与运营管理，并联动供应链、新能源及基金管理等领域生态伙伴。",
+        "publishedAt": "2026-06-16T11:21:21.000Z",
+        "summary": "36氪获悉，东山精密公告，公司董事会召开会议，同意公司子公司索尔思光电及其子公司在常州等地实施光芯片及光模块扩建项目，项目总投资额12亿美元，以提升索尔思光电整体产能规模，项目投资资金来源为公司自筹资金。此次投资扩建可以提升公司高端光芯片、光模块产能，充分满足客户在AI算力服务器相关核心产品上的中长期采购需求，进一步增强公司核心竞争力。",
         "category": "updates",
         "region": "cn"
       },
@@ -1360,27 +1360,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/article/3357247/young-tech-elites-drive-rise-shenzhen-luxury-home-sales-after-purchase-curbs-ease",
-        "title": "Young tech elites drive rise in Shenzhen luxury home sales after purchase curbs ease",
-        "url": "https://www.scmp.com/business/article/3357247/young-tech-elites-drive-rise-shenzhen-luxury-home-sales-after-purchase-curbs-ease?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-16T07:00:06.000Z",
-        "summary": "Several luxury residential projects in Shenzhen sold out quickly in May, with young elites from the semiconductor and artificial intelligence sectors replacing traditional tycoons as the most avid buyers. Post-90s buyers",
-        "category": "articles",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/commodities/article/3356999/natural-diamond-firms-turn-blockchain-traceability-amid-lab-grown-competition",
-        "title": "Natural diamond firms turn to blockchain traceability amid lab-grown competition",
-        "url": "https://www.scmp.com/business/commodities/article/3356999/natural-diamond-firms-turn-blockchain-traceability-amid-lab-grown-competition?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-14T01:30:12.000Z",
-        "summary": "Hit by competition from lab-grown diamonds and declines in pricing, the natural diamond industry is launching a large-scale traceability system to further build customer trust and establish provenance of the consumer jew",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
