@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T16:26:53.968Z",
+  "generatedAt": "2026-06-16T20:41:17.187Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/supreme&",
+        "title": "SCOTUS declines to hear appeal of oldest active federal judge&#8217;s suspension",
+        "url": "https://www.abajournal.com/news/article/supreme&#45;court&#45;declines&#45;to&#45;hear&#45;appeal&#45;of&#45;judge&#45;pauline&#45;newmans&#45;suspension/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-16T19:24:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/tyra&",
+        "title": "Tyra Banks sues Netflix for alleged defamation over ‘America’s Next Top Model’ documentary",
+        "url": "https://www.abajournal.com/news/article/tyra&#45;banks&#45;sues&#45;netflix&#45;over&#45;americas&#45;next&#45;top&#45;model&#45;documentary&#45;claiming&#45;defamation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-16T18:15:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/if&",
+        "title": "Celebrities like Taylor Swift and Megan Thee Stallion deal with defamation and deepfakes in various ways",
+        "url": "https://www.abajournal.com/web/article/if&#45;you&#45;cant&#45;shake&#45;it&#45;off&#45;demand&#45;it&#45;be&#45;taken&#45;off/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-16T17:30:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/blackboiler-launches-veris-pairing-its-deterministic-redlining-with-generative-ai-in-microsoft-word.html",
+        "title": "BlackBoiler Launches Veris, Pairing Its Deterministic Redlining With Generative AI in Microsoft Word",
+        "url": "https://www.lawnext.com/2026/06/blackboiler-launches-veris-pairing-its-deterministic-redlining-with-generative-ai-in-microsoft-word.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-16T16:54:23.000Z",
+        "summary": "BlackBoiler, a company that has spent over a decade building automated redlining technology, this week launched Veris, a new platform that takes its original deterministic editing engine and supercharges it with generati",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/jury&",
         "title": "Jury service builds trust in courts, while overall confidence in judicial system has eroded, new survey says",
@@ -35,36 +75,6 @@
         "publishedAt": "2026-06-16T14:30:00.000Z",
         "summary": "",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/16/relativity-announces-air-assist-general-roll-out",
-        "title": "Relativity Announces aiR Assist General Roll Out",
-        "url": "https://www.artificiallawyer.com/2026/06/16/relativity-announces-air-assist-general-roll-out/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-16T10:17:56.000Z",
-        "summary": "Fast on the heels of its purchase of contract AI company Gavel – and on the day of its London RelFest event, where AL’s founder ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/16/what-remains-legal-innovators-california",
-        "title": "What Remains &#8211; Legal Innovators California",
-        "url": "https://www.artificiallawyer.com/2026/06/16/what-remains-legal-innovators-california/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-16T08:43:33.000Z",
-        "summary": "At the pre-conference event in the Mission District, Enam Hoque announced: ‘We are not the status quo, we are the rebellion. We all got here ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/16/walk-through-lawvu-draft-contract-ai",
-        "title": "Walk Through: LawVu Draft – Contract AI",
-        "url": "https://www.artificiallawyer.com/2026/06/16/walk-through-lawvu-draft-contract-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-16T06:47:42.000Z",
-        "summary": "This week’s AL TV Product Walk Through is all about LawVu Draft, an AI-powered contract drafting and review toolbox embedded inside Microsoft Word. It’s built ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -98,16 +108,6 @@
         "region": "na"
       },
       {
-        "id": "Google AI Blog:blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026",
-        "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-06-15T15:00:00.000Z",
-        "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "ABA Journal:www.abajournal.com/news/article/things&",
         "title": "Things are cookin’ good for lawyer selected to compete on Food Network show",
         "url": "https://www.abajournal.com/news/article/things&#45;are&#45;cookin&#45;good&#45;for&#45;ny&#45;lawyer&#45;selected&#45;to&#45;compete&#45;on&#45;food&#45;network&#45;show/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -125,46 +125,6 @@
         "publishedAt": "2026-06-15T13:34:16.000Z",
         "summary": "Relativity, the Chicago-based legal data intelligence company best known for the e-discovery and litigation platform RelativityOne, has acquired Gavel, the Los Angeles-based document automation and AI drafting company fo",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/15/lod-consilio-wordsmith-link-for-managed-services",
-        "title": "LOD / Consilio + Wordsmith Link For Managed Services",
-        "url": "https://www.artificiallawyer.com/2026/06/15/lod-consilio-wordsmith-link-for-managed-services/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-15T08:22:33.000Z",
-        "summary": "Lawyers On Demand (LOD), which was bought by Consilio in 2023, is partnering with Wordsmith to deliver AI-enabled managed services to inhouse legal teams. Last ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/15/a-students-response-to-berkeley-laws-ai-ban",
-        "title": "A Student’s Response to Berkeley Law’s AI Ban",
-        "url": "https://www.artificiallawyer.com/2026/06/15/a-students-response-to-berkeley-laws-ai-ban/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-15T06:53:46.000Z",
-        "summary": "Last month, Berkeley Law School controversially banned AI use across many areas of study. One student, Lakshita Bhargava, who is doing a Master of Laws ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/georgia&",
-        "title": "Federal judge who had in-chambers sex with top police officer issues clerks revised apology letters",
-        "url": "https://www.abajournal.com/news/article/georgia&#45;judge&#45;issues&#45;new&#45;apology&#45;letters&#45;to&#45;clerks/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-12T16:08:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/immigration&",
-        "title": "Immigration lawyers continue to fight scammers",
-        "url": "https://www.abajournal.com/news/article/immigration&#45;lawyers&#45;continuing&#45;to&#45;fight&#45;scammers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-12T14:57:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -228,32 +188,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/10/claude-fable-steno-billables-ai-spellbook-legora",
-        "title": "Claude Fable, Steno, Billables AI, Spellbook, Legora",
-        "url": "https://www.artificiallawyer.com/2026/06/10/claude-fable-steno-billables-ai-spellbook-legora/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-09T23:56:53.000Z",
-        "summary": "Because AL is in SF this week here’s a collection of news all in one go. First up, Claude Fable and how Mark Pike, who ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/steno-names-its-current-coo-prabhdeep-singh-as-new-ceo-to-lead-next-phase-of-growth.html",
         "title": "Steno Names Its Current COO Prabhdeep Singh as New CEO to Lead Next Phase of Growth",
         "url": "https://www.lawnext.com/2026/06/steno-names-its-current-coo-prabhdeep-singh-as-new-ceo-to-lead-next-phase-of-growth.html",
         "source": "LawSites",
         "publishedAt": "2026-06-09T14:02:14.000Z",
         "summary": "Two years ago, Steno, a tech-enabled provider of legal support and court reporting services, named Prabhdeep Singh as its chief operating officer to help accelerate the company&#8217;s growth. Apparently, he did a good j",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/09/sandstone-raises-30m-for-ai-native-inhouse-teams",
-        "title": "Sandstone Raises $30m For AI-Native Inhouse Teams",
-        "url": "https://www.artificiallawyer.com/2026/06/09/sandstone-raises-30m-for-ai-native-inhouse-teams/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-09T13:39:09.000Z",
-        "summary": "Sandstone has raised $30 million in a Series A funding round led by Lightspeed Venture Partners, to support the development of AI-native legal departments – ...",
         "category": "updates",
         "region": "na"
       },
@@ -298,16 +238,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/05/what-a-time-for-legal-ai-legal-innovators-california",
-        "title": "What A Time For Legal AI! + Legal Innovators California",
-        "url": "https://www.artificiallawyer.com/2026/06/05/what-a-time-for-legal-ai-legal-innovators-california/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-05T07:52:39.000Z",
-        "summary": "What an incredible time it is now for legal AI! Palantir has just entered the legal tech room, joining OpenAI, Anthropic, and Microsoft. So, four ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/less-hype-more-application-is-the-promise-of-this-june-17-legal-ai-conference-live-in-l-a-or-virtual.html",
         "title": "&#8216;Less Hype, More Application&#8217; Is the Promise of This June 17 Legal AI Conference, Live In L.A. Or Virtual",
         "url": "https://www.lawnext.com/2026/06/less-hype-more-application-is-the-promise-of-this-june-17-legal-ai-conference-live-in-l-a-or-virtual.html",
@@ -318,32 +248,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/join-650-legal-innovators-in-sf-next-week",
-        "title": "Join 650+ Legal Innovators in SF Next Week!",
-        "url": "https://www.artificiallawyer.com/2026/06/04/join-650-legal-innovators-in-sf-next-week/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-04T16:15:02.000Z",
-        "summary": "Come and join amazing speakers from OpenAI, Meta, Google, Y Combinator, Cooley, and Wilson Sonsini, along with 650+ others already attending the landmark&#160;Legal Innovators California&#160;conference ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/can-a-legal-ai-platform-be-powerful-fun-and-free-all-at-the-same-time-lavern-surely-thinks-so.html",
         "title": "Can a Legal AI Platform Be Powerful, Fun and Free All at the Same Time? Lavern Surely Thinks So.",
         "url": "https://www.lawnext.com/2026/06/can-a-legal-ai-platform-be-powerful-fun-and-free-all-at-the-same-time-lavern-surely-thinks-so.html",
         "source": "LawSites",
         "publishedAt": "2026-06-04T13:50:52.000Z",
         "summary": "Somebody once told Antti Innanen that he had built a veggie burger dressed up to look like real meat. He thought it was a fun criticism, but he also thought it missed the point. That burger is Lavern, an open-source &#82",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/04/kirkland-palantir-partner-for-pe-platform",
-        "title": "Kirkland + Palantir Partner For PE Platform",
-        "url": "https://www.artificiallawyer.com/2026/06/04/kirkland-palantir-partner-for-pe-platform/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-04T13:21:20.000Z",
-        "summary": "Palantir and Kirkland &#38; Ellis have launched a proprietary enterprise platform for private equity fundraising. It follows the news that the US firm will build ...",
         "category": "tools",
         "region": "na"
       },
@@ -1168,16 +1078,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/03/ai-legal-research-startup-descrybe-launches-legal-reasoning-tool-says-it-outperforms-chatgpt-claude-and-gemini-on-bar-exam-benchmark.html",
-        "title": "AI Legal Research Startup Descrybe Launches &#8216;Legal Reasoning&#8217; Tool; Says It Outperforms ChatGPT, Claude, and Gemini on Bar Exam Benchmark",
-        "url": "https://www.lawnext.com/2026/03/ai-legal-research-startup-descrybe-launches-legal-reasoning-tool-says-it-outperforms-chatgpt-claude-and-gemini-on-bar-exam-benchmark.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-05T15:00:22.000Z",
-        "summary": "The AI legal research startup Descrybe today launched a &#8220;legal reasoning&#8221; product, DescrybeLM, that it says outperforms leading general-purpose AI models on a standardized legal reasoning benchmark — and it i",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1205,6 +1105,36 @@
         "publishedAt": "2024-05-06T00:00:00.000Z",
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
         "region": "na"
       }
     ],
