@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T02:47:29.535Z",
+  "generatedAt": "2026-06-18T10:07:44.852Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/18/the-crosby-story-with-co-founder-ryan-daniels",
+        "title": "The Crosby Story &#8211; With Co-founder, Ryan Daniels",
+        "url": "https://www.artificiallawyer.com/2026/06/18/the-crosby-story-with-co-founder-ryan-daniels/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-18T09:32:46.000Z",
+        "summary": "Crosby was one of the original AI-first / NewMod law firms to come to market and it is growing fast. Here, Artificial Lawyer talks to ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/18/perplexity-gets-serious-about-legal",
+        "title": "Perplexity Gets Serious About Legal",
+        "url": "https://www.artificiallawyer.com/2026/06/18/perplexity-gets-serious-about-legal/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-18T08:19:24.000Z",
+        "summary": "We’ve had OpenAI, Anthropic, Microsoft and Palantir enter the legal vertical. Perplexity – which has dabbled in our field before – is going into legal ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/18/harvey-trains-open-source-models-to-encode-law-firm-workflows",
+        "title": "Harvey Trains Open Source Models To Encode Law Firm Workflows",
+        "url": "https://www.artificiallawyer.com/2026/06/18/harvey-trains-open-source-models-to-encode-law-firm-workflows/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-18T06:50:35.000Z",
+        "summary": "Harvey CEO, Winston Weinberg, has confirmed to Artificial Lawyer that they are now doing Proof of Concept studies with law firms to train open source ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/17/ironclad-legora-partner-for-unusual-ai-to-ai-integration",
         "title": "Ironclad + Legora Partner for Unusual ‘AI-to-AI Integration’",
@@ -198,16 +228,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/16/walk-through-lawvu-draft-contract-ai",
-        "title": "Walk Through: LawVu Draft – Contract AI",
-        "url": "https://www.artificiallawyer.com/2026/06/16/walk-through-lawvu-draft-contract-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-16T06:47:42.000Z",
-        "summary": "This week’s AL TV Product Walk Through is all about LawVu Draft, an AI-powered contract drafting and review toolbox embedded inside Microsoft Word. It’s built ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/relativity-acquires-document-automation-company-gavel-extending-its-legal-data-platform-into-word.html",
         "title": "Relativity Acquires Document Automation Company Gavel, Extending Its Legal Data Platform Into Word",
         "url": "https://www.lawnext.com/2026/06/relativity-acquires-document-automation-company-gavel-extending-its-legal-data-platform-into-word.html",
@@ -215,26 +235,6 @@
         "publishedAt": "2026-06-15T13:34:16.000Z",
         "summary": "Relativity, the Chicago-based legal data intelligence company best known for the e-discovery and litigation platform RelativityOne, has acquired Gavel, the Los Angeles-based document automation and AI drafting company fo",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/15/lod-consilio-wordsmith-link-for-managed-services",
-        "title": "LOD / Consilio + Wordsmith Link For Managed Services",
-        "url": "https://www.artificiallawyer.com/2026/06/15/lod-consilio-wordsmith-link-for-managed-services/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-15T08:22:33.000Z",
-        "summary": "Lawyers On Demand (LOD), which was bought by Consilio in 2023, is partnering with Wordsmith to deliver AI-enabled managed services to inhouse legal teams. Last ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/15/a-students-response-to-berkeley-laws-ai-ban",
-        "title": "A Student’s Response to Berkeley Law’s AI Ban",
-        "url": "https://www.artificiallawyer.com/2026/06/15/a-students-response-to-berkeley-laws-ai-ban/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-15T06:53:46.000Z",
-        "summary": "Last month, Berkeley Law School controversially banned AI use across many areas of study. One student, Lakshita Bhargava, who is doing a Master of Laws ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,52 +1210,132 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/by1x8kcw2muuugpajgji",
-        "title": "Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海",
-        "url": "https://www.infoq.cn/article/by1X8kCw2mUUUGpajgJI?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/xbol4ryw7wkczqsumuy9",
+        "title": "个体10倍提效，组织却不足20%？AI产业正迎来Agent落地大考",
+        "url": "https://www.infoq.cn/article/Xbol4ryW7wkczQsumUY9?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-18T10:00:00.000Z",
+        "publishedAt": "2026-06-18T17:58:02.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/video/zt9vfw53woh6vsa9cbtr",
-        "title": "从独立版到一体化：TDSQL 的能力演进与企业级数据库实践 | 腾讯云数据库 DBTalk",
-        "url": "https://www.infoq.cn/video/Zt9VFw53woH6vsa9cBTR?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/btwv3huf3zydpc501mao",
+        "title": "自主智能体遇阻：数据库成最大挑战",
+        "url": "https://www.infoq.cn/article/BtWV3huF3ZydPc501mAO?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-18T09:00:00.000Z",
+        "publishedAt": "2026-06-18T17:54:26.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/2tlrd4jkgzwywmzla5kt",
-        "title": "Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
-        "url": "https://www.infoq.cn/article/2tlRd4jkgZwYWmzLA5Kt?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/qqva7hhtdodzlfb7ewvq",
+        "title": "JetBrains 开源 Mellum2，尝试 Claude Code 无法涉足的领域",
+        "url": "https://www.infoq.cn/article/QQVa7HhtdoDzLFB7ewVQ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-18T09:00:00.000Z",
+        "publishedAt": "2026-06-18T17:48:17.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3858069182714881",
-        "title": "算力芯片概念震荡走强，寒武纪涨超10%创历史新高",
-        "url": "https://36kr.com/newsflashes/3858069182714881?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/sdkcgqzq2coeqm04xsqg",
+        "title": "砍掉90%冗余词元，省下70万美元：Netflix开源工具狙击AI账单黑洞",
+        "url": "https://www.infoq.cn/article/SdkcGqZQ2coEqM04xsQG?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-18T17:42:01.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/76b4q6i80w8mfhpuffwa",
+        "title": "谷歌给 Android 开发者选模型：GPT-5.5 暂时领先",
+        "url": "https://www.infoq.cn/article/76b4Q6i80w8MFHpuFFWA?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-18T17:33:42.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jnsfjjuajjdzgys51jhc",
+        "title": "Google 想为 AI Agent 打造下一个 Kubernetes",
+        "url": "https://www.infoq.cn/article/jNsfjJuAJjDzGYS51jHC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-18T17:27:42.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/0zbyxse0izs690hl9jev",
+        "title": "上下文窗口限制被打破：Subquadratic推出了一个1200万Token的窗口",
+        "url": "https://www.infoq.cn/article/0zbyxse0IZs690HL9Jev?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-18T17:18:21.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/pho4u00h2hgwgkvzg3h4",
+        "title": "Vercel Labs 开源 Zero-Native：一个基于 Zig 的跨平台原生应用框架",
+        "url": "https://www.infoq.cn/article/PHO4u00H2hgWgkVzg3H4?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-18T16:42:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/0kptbaiuc9hwkea9tf5f",
+        "title": "机器人整机是“有限游戏”？对话星海图创始人：具身智能商业化的三个阶段，终点是卖Token",
+        "url": "https://www.infoq.cn/article/0KPTbaiUC9HwkeA9tf5F?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-18T16:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/pl4x24fzejdfhbrgiwac",
+        "title": "Cursor 1.5T新模型放弃Kimi基座！600亿美元股票换Cursor，马斯克第一刀砍向微软GitHub",
+        "url": "https://www.infoq.cn/article/pl4x24FzEJDfhBRgiWAc?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-18T12:02:51.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3858479837648134",
+        "title": "福瑞泰克卫星雷达量产在即，为智能驾驶辅助提供更具竞争力的感知方案",
+        "url": "https://36kr.com/newsflashes/3858479837648134?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-18T02:30:55.000Z",
-        "summary": "36氪获悉，算力芯片概念震荡走强，寒武纪涨超10%创历史新高，总市值超9200亿，品高股份、沐曦股份、芯原股份、云天励飞、海光信息均涨超5%。",
+        "publishedAt": "2026-06-18T09:28:39.000Z",
+        "summary": "继5月全球首发边缘架构4D成像雷达后，福瑞泰克6月18日宣布卫星雷达FVR60_SO（8T8R）即将量产，FVR60_SD（16T16R）进入研发关键阶段。该系列采用分离式架构，将信号处理上移至域控制器，在域控制器中同时实现雷达信号处理，雷达和摄像头信号的深度融合，为智能驾驶辅助提供更具竞争力的感知方案。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3858046998696962",
-        "title": "福建东南西北科技集团完成亿元B轮、B+轮融资",
-        "url": "https://36kr.com/newsflashes/3858046998696962?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3858471555142913",
+        "title": "小米正式发布“全屋智能AI开源方案”Xiaomi Miloco 2.0",
+        "url": "https://36kr.com/newsflashes/3858471555142913?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-18T02:08:21.000Z",
-        "summary": "36氪获悉，国内纺织AI与工业互联网企业福建东南西北科技集团（辅布司）宣布完成亿元B轮、B+轮融资。本轮融资由兴证创新资本、清远基金、马尾国资、广发乾和、榕投资本、鼓楼国投投资。依托本轮资本加持，公司将全面加速纺织行业AI大模型与AI智能体落地、智能制造基地升级及全球化布局，夯实企业高质量发展根基。",
+        "publishedAt": "2026-06-18T09:20:14.000Z",
+        "summary": "36氪获悉，6月18日，小米正式发布面向未来的“全屋智能AI开源方案”Xiaomi Miloco 2.0，该方案以小米自研 MiMo 大模型为智能核心，在Miloco 1.0的基础上实现交互方式、产品功能、记忆系统等方面的全面升级。同时Miloco 2.0使用门槛相比前代大幅降低，以Agent插件形式接入OpenClaw，支持一键安装和部署，支持macOS、Linux、Windows系统。隐私保护全面升级，支持数据隔离和本地数据一键清空",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3858452588811522",
+        "title": "商务部等8部门：用好个人消费贷款财政贴息政策支持消费者购买人工智能相关产品",
+        "url": "https://36kr.com/newsflashes/3858452588811522?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-18T09:00:56.000Z",
+        "summary": "36氪获悉，商务部等8部门关于加快“人工智能+消费”发展的实施意见，意见提出，加大财政等资金支持力度。统筹用好现有资金渠道，推动人工智能技术在消费领域的普及应用，落实好数码和智能产品购新政策，鼓励地方在消费品以旧换新政策框架内，自主制定实施补贴政策，重点支持“人工智能+”行动明确的新一代智能终端等消费。用好个人消费贷款财政贴息政策支持消费者购买人工智能相关产品。鼓励金融机构围绕消费者购买人工智能产品的金融需求开发相关金融产品和服务。发挥",
         "category": "updates",
         "region": "cn"
       },
@@ -1316,56 +1396,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-18T00:07:03.000Z",
         "summary": "今日热点导览 SpaceX华裔女工程师辟谣 国内成品油价即将迎来两连跌 必胜客中国对外投资超60家企业 苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhone OpenAI 2026年前三个月烧钱37亿美元 TOP 3 大新闻 监管约谈山姆后，沃尔玛中国多位高管变动 36氪了解到，山姆会员商店中国CMO（首席采购官）张青已于近日提交辞呈。此外，据36氪独家了解，沃尔玛中国本次人事变动还包括：Tony Paladinetti，现",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wyjzqye7a1z3xsprdrq5",
-        "title": "大模型已经够聪明了，为什么 95% 的 AI 项目还是跑不出 ROI？",
-        "url": "https://www.infoq.cn/article/wyjzqyE7A1Z3XSprDRq5?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-17T18:59:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/amwreaenbtgi3842hs27",
-        "title": "Claude背后全是大厂老兵！Anthropic工程团队1680人画像曝光：谷歌系、12年经验、本硕为主",
-        "url": "https://www.infoq.cn/article/amwREaeNbTGi3842HS27?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-17T17:17:29.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/aw7wv50b307hqvlh2psu",
-        "title": "谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆",
-        "url": "https://www.infoq.cn/article/aW7Wv50b307hqvlH2Psu?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-17T15:28:44.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/5opp7jgal7gpr2wwwaua",
-        "title": "Redis 之父为 DeepSeek 抱不平：美国 AI 圈又为“蒸馏”吵起来了",
-        "url": "https://www.infoq.cn/article/5OpP7JGal7gPR2wwWauA?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-17T15:23:56.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mbhrvxo514uki3eyikxl",
-        "title": "Fable 5被禁3天后Anthropic认怂！连夜急派员工赴华盛顿谈判：GPT 5.5有同款漏洞",
-        "url": "https://www.infoq.cn/article/mBHRVxO514Uki3Eyikxl?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-17T15:00:00.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
