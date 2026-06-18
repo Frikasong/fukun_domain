@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T14:50:23.936Z",
+  "generatedAt": "2026-06-18T20:12:47.848Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/new&",
+        "title": "Rule requiring jurists to visit jails promotes confidence in courts, chief judge says",
+        "url": "https://www.abajournal.com/news/article/new&#45;york&#45;chief&#45;judge&#45;says&#45;rule&#45;requiring&#45;jurists&#45;to&#45;visit&#45;jails&#45;promotes&#45;confidence&#45;in&#45;the&#45;courts/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-18T15:45:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/supreme&",
+        "title": "Supreme Court, rarely sympathetic in death penalty cases, finds a few with merit this term",
+        "url": "https://www.abajournal.com/web/article/supreme&#45;court&#45;rarely&#45;sympathetic&#45;in&#45;death&#45;penalty&#45;cases&#45;finds&#45;a&#45;few&#45;with&#45;merit&#45;this&#45;term/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-18T15:24:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ailaw&",
+        "title": "AI.Law sues competitor Eve Legal for alleged patent infringement",
+        "url": "https://www.abajournal.com/news/article/ailaw&#45;sues&#45;competitor&#45;eve&#45;legal&#45;for&#45;patent&#45;infringement/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-18T15:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/luigi&",
         "title": "Luigi Mangione will use &#8216;mental defect&#8217; defense to explain alleged shooting of UnitedHealthcare CEO",
@@ -44,6 +74,16 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-18T13:00:41.000Z",
         "summary": "Following on from its recent deal with ServiceNow, Eudia has formed a partnership with Consilio. For its part, Consilio has also recently done its own ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/improving-health-intelligence-in-chatgpt",
+        "title": "Improving health intelligence in ChatGPT",
+        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+        "source": "OpenAI News",
+        "publishedAt": "2026-06-18T11:00:00.000Z",
+        "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
         "category": "updates",
         "region": "na"
       },
@@ -138,42 +178,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
-        "title": "Federal judge denies SCOTUSblog founder Tom Goldstein’s bid for acquittal, new trial",
-        "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;denies&#45;scotusblog&#45;founder&#45;tom&#45;goldsteins&#45;bid&#45;for&#45;acquittal&#45;new&#45;trial/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-17T15:04:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/texas&",
-        "title": "Suspended judge gets jail time for money laundering campaign funds",
-        "url": "https://www.abajournal.com/news/article/texas&#45;gets&#45;jail&#45;time&#45;for&#45;money&#45;laundering&#45;campaign&#45;funds/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-17T14:48:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/ken-crutchfield-is-kirklands-500-million-ai-investment-really-a-bet-on-data.html",
         "title": "Ken Crutchfield: Is Kirkland&#8217;s $500 Million AI Investment Really A Bet On Data?",
         "url": "https://www.lawnext.com/2026/06/ken-crutchfield-is-kirklands-500-million-ai-investment-really-a-bet-on-data.html",
         "source": "LawSites",
         "publishedAt": "2026-06-17T14:35:48.000Z",
         "summary": "When Kirkland &#38; Ellis announced a $500 million investment in AI, much of the reaction focused on the dollar amount. That much money commands attention in the legal industry. But the dollar amount may not be the most ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/upcoming&",
-        "title": "Upcoming elections could impact legal education, new AccessLex study says",
-        "url": "https://www.abajournal.com/web/article/upcoming&#45;elections&#45;could&#45;impact&#45;legal&#45;education&#45;accesslex&#45;study&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-17T13:59:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1196,16 +1206,6 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
@@ -1305,7 +1305,7 @@
         "url": "https://36kr.com/p/3855480467543042?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-18T01:34:22.000Z",
-        "summary": "文 | 孙小雯 访谈 / 编辑 | 海若镜 「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。 当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的方式，实现人机融合���增强人类。马斯克和他的Neural",
+        "summary": "文 | 孙小雯 访谈 / 编辑 | 海若镜 「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。 当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的方式，实现人机融合、增强人类。马斯克和他的Neuralin",
         "category": "updates",
         "region": "cn"
       },
@@ -1336,16 +1336,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-18T01:00:00.000Z",
         "summary": "本文约1900字，建议阅读4分钟 作者 | 彭孝秋 6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。 上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2.2%。这是一家由中国科学院自动化研究所科学家创办的公司，过去三年累计亏掉约5.83",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3857925631104004",
-        "title": "8点1氪丨山姆首席采购官张青已提交辞呈；豆包每天收入不足百万；不得以长期、大额补贴扰乱市场秩序，外卖平台新规公开征求意见",
-        "url": "https://36kr.com/p/3857925631104004?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-18T00:07:03.000Z",
-        "summary": "今日热点导览 SpaceX华裔女工程师辟谣 国内成品油价即将迎来两连跌 必胜客中国对外投资超60家企业 苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhone OpenAI 2026年前三个月烧钱37亿美元 TOP 3 大新闻 监管约谈山姆后，沃尔玛中国多位高管变动 36氪了解到，山姆会员商店中国CMO（首席采购官）张青已于近日提交辞呈。此外，据36氪独家了解，沃尔玛中国本次人事变动还包括：Tony Paladinetti，现",
         "category": "updates",
         "region": "cn"
       }
