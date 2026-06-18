@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T20:02:18.417Z",
+  "generatedAt": "2026-06-18T02:47:29.535Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/17/ironclad-legora-partner-for-unusual-ai-to-ai-integration",
+        "title": "Ironclad + Legora Partner for Unusual ‘AI-to-AI Integration’",
+        "url": "https://www.artificiallawyer.com/2026/06/17/ironclad-legora-partner-for-unusual-ai-to-ai-integration/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-17T20:20:28.000Z",
+        "summary": "In a surprising move, Ironclad, the CLM pioneer whose former founder Jason Boehmig has joined OpenAI to launch its legal vertical team, is forming what ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/mental&",
         "title": "Mental health law becomes this law prof and author&#8217;s focus after walking &#8216;Through the Fire&#8217;",
@@ -114,16 +124,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-17T13:28:00.000Z",
         "summary": "NewMod law firm Crosby has launched &#8216;Multi-turn Negotiation Bench&#8217;, a contract negotiation benchmark for AI outputs. They are also rolling out Crosby Intelligence, a research ...",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/ai-chemist-improves-reaction",
-        "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-        "url": "https://openai.com/index/ai-chemist-improves-reaction",
-        "source": "OpenAI News",
-        "publishedAt": "2026-06-17T10:00:00.000Z",
-        "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
         "category": "articles",
         "region": "na"
       },
@@ -294,16 +294,6 @@
         "source": "LawSites",
         "publishedAt": "2026-06-10T12:20:39.000Z",
         "summary": "When Thoma Bravo took a majority stake in Casepoint in January 2025 and merged it with the government-software company OPEXUS, it set the e-discovery pioneer on a broader course — deeper into the government market and sq",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/10/claude-fable-steno-billables-ai-spellbook-legora",
-        "title": "Claude Fable, Steno, Billables AI, Spellbook, Legora",
-        "url": "https://www.artificiallawyer.com/2026/06/10/claude-fable-steno-billables-ai-spellbook-legora/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-09T23:56:53.000Z",
-        "summary": "Because AL is in SF this week here’s a collection of news all in one go. First up, Claude Fable and how Mark Pike, who ...",
         "category": "updates",
         "region": "na"
       },
@@ -1206,9 +1196,109 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/by1x8kcw2muuugpajgji",
+        "title": "Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海",
+        "url": "https://www.infoq.cn/article/by1X8kCw2mUUUGpajgJI?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-18T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/zt9vfw53woh6vsa9cbtr",
+        "title": "从独立版到一体化：TDSQL 的能力演进与企业级数据库实践 | 腾讯云数据库 DBTalk",
+        "url": "https://www.infoq.cn/video/Zt9VFw53woH6vsa9cBTR?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-18T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/2tlrd4jkgzwywmzla5kt",
+        "title": "Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
+        "url": "https://www.infoq.cn/article/2tlRd4jkgZwYWmzLA5Kt?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-18T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3858069182714881",
+        "title": "算力芯片概念震荡走强，寒武纪涨超10%创历史新高",
+        "url": "https://36kr.com/newsflashes/3858069182714881?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-18T02:30:55.000Z",
+        "summary": "36氪获悉，算力芯片概念震荡走强，寒武纪涨超10%创历史新高，总市值超9200亿，品高股份、沐曦股份、芯原股份、云天励飞、海光信息均涨超5%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3858046998696962",
+        "title": "福建东南西北科技集团完成亿元B轮、B+轮融资",
+        "url": "https://36kr.com/newsflashes/3858046998696962?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-18T02:08:21.000Z",
+        "summary": "36氪获悉，国内纺织AI与工业互联网企业福建东南西北科技集团（辅布司）宣布完成亿元B轮、B+轮融资。本轮融资由兴证创新资本、清远基金、马尾国资、广发乾和、榕投资本、鼓楼国投投资。依托本轮资本加持，公司将全面加速纺织行业AI大模型与AI智能体落地、智能制造基地升级及全球化布局，夯实企业高质量发展根基。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3855480467543042",
+        "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
+        "url": "https://36kr.com/p/3855480467543042?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-18T01:34:22.000Z",
+        "summary": "文 | 孙小雯 访谈 / 编辑 | 海若镜 「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。 当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的方式，实现人机融合、增强人类。马斯克和他的Neuralin",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3856708724315400",
+        "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+        "url": "https://36kr.com/p/3856708724315400?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-18T01:28:16.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。 这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。 穹彻智能是硬氪",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3857980507919622",
+        "title": "36氪「2026最具价值成长企业100」正式发布",
+        "url": "https://36kr.com/p/3857980507919622?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-18T01:09:18.000Z",
+        "summary": "时代从不被旁观者定义，它只发生在那些正在成长的人身上。 今天，当人们讨论华为、字节跳动、大疆、Tesla或OpenAI时，很容易忽略这样一个事实：在成为行业领导者之前，它们都曾是一家成长中的创业公司。 在初期，没有天然的市场地位，没有成熟的商业体系，也未必被所有人看好。但通过持续的技术突破和产品迭代，它们一步步从“挑战者”变成了“定义者”。 商业史本质上是一部成长史。 那些最终改变产业格局的公司，往往不是起点最高的公司，而是在漫长竞争中",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3857959588418823",
+        "title": "中科院博士冲上市，市值超105亿港币",
+        "url": "https://36kr.com/p/3857959588418823?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-18T01:00:00.000Z",
+        "summary": "本文约1900字，建议阅读4分钟 作者 | 彭孝秋 6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。 上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2.2%。这是一家由中国科学院自动化研究所科学家创办的公司，过去三年累计亏掉约5.83",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/d9opd77e8beprvpe7om4",
         "title": "SpaceX 600 亿美元收购 Cursor！马斯克不补课，直接买课代表",
@@ -1216,6 +1306,16 @@
         "source": "InfoQ China",
         "publishedAt": "2026-06-18T00:46:05.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3857925631104004",
+        "title": "8点1氪丨山姆首席采购官张青已提交辞呈；豆包每天收入不足百万；不得以长期、大额补贴扰乱市场秩序，外卖平台新规公开征求意见",
+        "url": "https://36kr.com/p/3857925631104004?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-18T00:07:03.000Z",
+        "summary": "今日热点导览 SpaceX华裔女工程师辟谣 国内成品油价即将迎来两连跌 必胜客中国对外投资超60家企业 苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhone OpenAI 2026年前三个月烧钱37亿美元 TOP 3 大新闻 监管约谈山姆后，沃尔玛中国多位高管变动 36氪了解到，山姆会员商店中国CMO（首席采购官）张青已于近日提交辞呈。此外，据36氪独家了解，沃尔玛中国本次人事变动还包括：Tony Paladinetti，现",
         "category": "updates",
         "region": "cn"
       },
@@ -1270,16 +1370,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3857227626910726",
-        "title": "字节跳动加量采购国产芯片，互联网大厂竞速搭建算力护城河",
-        "url": "https://36kr.com/newsflashes/3857227626910726?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-17T12:14:50.000Z",
-        "summary": "字节跳动数据中心建设进展再添新消息，行业人士称字节跳动正与天数智芯讨论采购至少5万颗AI芯片，主要用于推理工作。据记者多方了解，本次洽谈供货芯片主要用于大模型推理负载，对应天数智芯智铠系列云端推理GPU，训练场景使用天垓系列。若交易达成，天数智芯将成为华为和寒武纪之后，字节跳动的第三家GPU供应商。截至发稿，字节跳动与天数智芯方面暂未发表回应。（第一财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3857175761081348",
         "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态",
         "url": "https://36kr.com/p/3857175761081348?f=rss",
@@ -1290,72 +1380,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3857211421791239",
-        "title": "微软正考虑接入深度求索模型赋能Copilot协同办公工具",
-        "url": "https://36kr.com/newsflashes/3857211421791239?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-17T11:58:21.000Z",
-        "summary": "据阿克西奥斯新闻网报道，微软正考虑引入中国人工智能企业深度求索推出的 V4 大模型，作为旗下Copilot协同办公智能助手的低成本备选技术方案。报道称，这家美国科技巨头正在测试由微软云本地部署运行的深度求索V4版本以及其他开源大模型，用来替代目前为Copilot协同办公提供技术支持的Anthropic、OpenAI大模型，以此压缩服务成本。微软计划在未来几周内面向市场推出这款低成本大模型服务。（新浪财经）",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/y9letxdftz72ls1jx27u",
-        "title": "全网首份指令级拆解：看华为昇腾 950DT 芯片如何撬动 DeepSeek 75%降价与字节锁单",
-        "url": "https://www.infoq.cn/article/y9letxDfTZ72Ls1JX27u?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-17T11:12:03.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3857051317359622",
         "title": "风拂阳澄，来半岛解锁夏日限定AI狂欢！",
         "url": "https://36kr.com/p/3857051317359622?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-17T10:02:07.000Z",
         "summary": "风口已至，静候同行。 提起阳澄湖，你的脑海里浮现的画面是什么？ 是远近闻名的阳澄湖大闸蟹，是波光粼粼的度假区风光，还是惬意舒展的环湖骑行赛道？在大多数人的印象里，阳澄湖半岛风光旖旎，向来是周末卸下疲惫、放松身心的度假好去处。 然而在今年盛夏，这片湖畔热土将迎来全新的科技活力。 当你再次漫步于阳澄湖畔，迎面走来的可能是身着外骨骼机甲在执勤的景区安保人员；走进喜来登等高端酒店，你会看到灵活穿梭的L4级自动驾驶无人配送车，全程无接触为旅客运送",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3848483761493250",
-        "title": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发",
-        "url": "https://36kr.com/p/3848483761493250?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-17T07:12:01.000Z",
-        "summary": "作者｜梁键强 编辑｜王毓婵 一句话介绍 NoonWake.AI是一家以泛心理为切入点、结合AI技术做情绪消费产品的创业公司，业务覆盖软件和硬件，并同时面向国内外市场。 目前，公司产品包括国内AI陪伴应用“万象有灵”、海外应用Starot、桌面AI陪伴硬件“好运日历机”，以及正在探索的智能水晶手串等轻硬件产品。 团队介绍 NoonWake.AI创始人兼CEO吴尚，本科毕业于中南大学，MBA就读于北京大学光华管理学院。曾先后在中兴、阿里、腾",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3856871787189252",
-        "title": "硬氪专访 | 罗剑岚：机器人真正的Scaling Law，发生在真实部署闭环里",
-        "url": "https://36kr.com/p/3856871787189252?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-17T06:14:08.000Z",
-        "summary": "作者 | 邱晓芬 编辑 | 袁斯来 过去半年，国内具身智能赛道经历了一场静悄悄的重心转移：聚光灯从硬件本体的“自由度竞赛”，逐渐移向决定机器人智能上限的深水区。 只是，当行业反复讨论“机器人能否通过暴力堆数据复刻大语言模型 ScalingLaw”时，上海创智学院副教授、智元机器人首席科学家罗剑岚，给出了一个并不随大流的判断：具身智能不能简单照搬大语言模型的发展路径。 罗剑岚的表达风格极具辨识度。他习惯在中英文专业术语之间快速切换，逻辑推",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3826129009234824",
-        "title": "「逆矩阵」完成超亿美元融资，创始人：通用世界基座模型窗口期已压至18个月",
-        "url": "https://36kr.com/p/3826129009234824?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-17T01:00:00.000Z",
-        "summary": "文｜王毓婵 编辑｜张雨忻 2026 年以来，一级市场对世界模型的抢筹进入白热化阶段。资金不再像早期那样“广撒网”，而是高度向头部玩家集中。这其中，逆矩阵科技（Physis）就接连完成了多轮融资。 36氪智能涌现独家据悉，世界模型公司逆矩阵科技已完成超亿美元种子++轮融资；此前的 3 月，刚完成了超千万美元首轮融资。本轮由经纬创投、五源资本、光合创投等机构共同参与，并获蚂蚁集团战略投资，老股东高瓴创投、燕缘创投持续加注。 在本轮融资落定前",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3856525981275138",
-        "title": "8点1氪丨连涨3天，SpaceX超越亚马逊跻身全球前五；支付宝启动史上最大改版；微信支付“AI专属卡”最快本周内上线",
-        "url": "https://36kr.com/p/3856525981275138?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-17T00:22:06.000Z",
-        "summary": "今日热点导览 山姆中国变更董事长 海康威视7月1日上调硬盘价 5月份全球纯电和插电式混动汽车销量连续三个月增长 美国零售经纪商处的SpaceX投资者每人至少分得一股IPO股票 传苹果首款折叠屏将延期发布，产业链人士：假的 TOP 3 大新闻 连涨3天，SpaceX超越亚马逊跻身全球前五 6月16日，SpaceX开盘迅速拉升，涨幅一度扩大至17%，市值一度超越微软，盘中总市值触及2.94万亿美元，跃居世界第四大市值公司，而第三名的苹果市值",
         "category": "updates",
         "region": "cn"
       }
