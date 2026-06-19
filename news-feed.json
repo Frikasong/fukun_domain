@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T03:32:27.996Z",
+  "generatedAt": "2026-06-19T10:14:25.634Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/19/legal-innovators-paris-crosby-lawvu",
+        "title": "Legal Innovators Paris, Crosby, LawVu +",
+        "url": "https://www.artificiallawyer.com/2026/06/19/legal-innovators-paris-crosby-lawvu/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-19T08:36:14.000Z",
+        "summary": "After California, where next? Paris of course, for Legal Innovators Europe, on June 24 and 25 in the City of Light, and also the city ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/19/the-legal-professions-ai-tightrope",
+        "title": "The Legal Profession’s AI Tightrope",
+        "url": "https://www.artificiallawyer.com/2026/06/19/the-legal-professions-ai-tightrope/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-19T07:26:19.000Z",
+        "summary": "By James Tuke, AI Futures Forum. Over the last twelve months, the AI conversation in the legal profession has shifted significantly. In May 2025, we ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/new&",
         "title": "Rule requiring jurists to visit jails promotes confidence in courts, chief judge says",
@@ -208,16 +228,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/17/summize-buys-part-of-innolaw-group",
-        "title": "Summize Buys Part Of InnoLaw Group",
-        "url": "https://www.artificiallawyer.com/2026/06/17/summize-buys-part-of-innolaw-group/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-17T06:43:48.000Z",
-        "summary": "AI-driven CLM company Summize is acquiring ‘key personnel and proprietary assets’ from InnoLaw Group (ILG), a legal tech consultancy focused on the inhouse world. The ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/blackboiler-launches-veris-pairing-its-deterministic-redlining-with-generative-ai-in-microsoft-word.html",
         "title": "BlackBoiler Launches Veris, Pairing Its Deterministic Redlining With Generative AI in Microsoft Word",
         "url": "https://www.lawnext.com/2026/06/blackboiler-launches-veris-pairing-its-deterministic-redlining-with-generative-ai-in-microsoft-word.html",
@@ -225,16 +235,6 @@
         "publishedAt": "2026-06-16T16:54:23.000Z",
         "summary": "BlackBoiler, a company that has spent over a decade building automated redlining technology, this week launched Veris, a new platform that takes its original deterministic editing engine and supercharges it with generati",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/16/relativity-announces-air-assist-general-roll-out",
-        "title": "Relativity Announces aiR Assist General Roll Out",
-        "url": "https://www.artificiallawyer.com/2026/06/16/relativity-announces-air-assist-general-roll-out/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-16T10:17:56.000Z",
-        "summary": "Fast on the heels of its purchase of contract AI company Gavel – and on the day of its London RelFest event, where AL’s founder ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,22 +1210,32 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/aeruuccqmedjcpldzqfg",
-        "title": "平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
-        "url": "https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-19T10:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/p/3859926114161665",
+        "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+        "url": "https://36kr.com/p/3859926114161665?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-19T10:01:25.000Z",
+        "summary": "硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。 ZuzuZoos成立于2025年，聚焦“AI陪伴机器人+AI潮玩”。创始人董晓楠是前摩根士丹利投资银行分析师，曾任新消费独角兽企业moody事业部总经理，任职期间拉动GMV从2亿元增长至10亿元。硬件负",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ootna5qubzzej3ighrjz",
-        "title": "Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3",
-        "url": "https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-19T10:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3859409018770438",
+        "title": "Meta或同数据中心公司Crusoe签署AI算力协议",
+        "url": "https://36kr.com/newsflashes/3859409018770438?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-19T03:47:43.000Z",
+        "summary": "据报道，Meta与数据中心公司Crusoe签署AI算力合作协议，预计将获得约1.6吉瓦算力。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3859409625256963",
+        "title": "亚马逊员工遭公司内部调查，曾公开批评数据中心扩张",
+        "url": "https://36kr.com/newsflashes/3859409625256963?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-19T03:47:18.000Z",
+        "summary": "一群亚马逊工程师公开批评企业疯狂扩张人工智能数据中心，并呼吁政府加强监管，如今他们正遭到公司内部调查。本月早些时候，美国西雅图市议会就一项政策征集公众意见：当地计划暂停新建大型数据中心项目为期一年，为城市完善相关监管规则留出时间。共有五名亚马逊员工出席听证会并作证。6月9日，西雅图市议会全票通过了这项暂停建设的禁令。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1236,16 +1246,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-19T02:47:04.000Z",
         "summary": "36氪获悉，据港交所文件，数说故事人工智能科技股份有限公司向港交所提交上市申请书，独家保荐人为中信建投国际。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3859403678684424",
-        "title": "亚马逊拟向第三方数据中心销售AI芯片",
-        "url": "https://36kr.com/newsflashes/3859403678684424?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-19T01:32:15.000Z",
-        "summary": "据报道，亚马逊正洽谈向其他公司的数据中心出售其定制人工智能芯片。亚马逊人工智能业务负责人Peter DeSantis称公司已启动相关讨论，但拒绝透露潜在客户名单。（界面）",
         "category": "updates",
         "region": "cn"
       },
@@ -1310,16 +1310,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3858650254791941",
-        "title": "智谱等中国大模型何时赶上Fable水平？马斯克：或在2027年一季度",
-        "url": "https://36kr.com/newsflashes/3858650254791941?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-18T12:22:01.000Z",
-        "summary": "6月18日，有网友在社交媒体提问称：“中国大模型预计何时能够达到Anthropic的Fable水平？智谱GLM-5.2无疑缩小了差距。”特斯拉CEO马斯克对此回复称：“可能在（2027年）一季度。”对于马斯克的言论，有AI业内人士认为，马斯克的预测相对保守，中美模型水平的时间差可能短于7个月。谷歌DeepMind首席执行官德米斯·哈萨比斯此前也表示，中国的人工智能模型在能力上可能“只差几个月”就能赶上海��。（上证报）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3858329994875908",
         "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
         "url": "https://36kr.com/p/3858329994875908?f=rss",
@@ -1358,18 +1348,19 @@
         "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。 这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。 穹彻智能是硬氪",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3857980507919622",
-        "title": "36氪「2026最具价值成长企业100」正式发布",
-        "url": "https://36kr.com/p/3857980507919622?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-18T01:09:18.000Z",
-        "summary": "时代从不被旁观者定义，它只发生在那些正在成长的人身上。 今天，当人们讨论华为、字节跳动、大疆、Tesla或OpenAI时，很容易忽略这样一个事实：在成为行业领导者之前，它们都曾是一家成长中的创业公司。 在初期，没有天然的市场地位，没有成熟的商业体系，也未必被所有人看好。但通过持续的技术突破和产品迭代，它们一步步从“挑战者”变成了“定义者”。 商业史本质上是一部成长史。 那些最终改变产业格局的公司，往往不是起点最高的公司，而是在漫长竞争中",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3357449/chinas-trillion-parameter-ai-race-how-developers-strive-narrow-gap-us-rivals",
+        "title": "China’s trillion-parameter AI race: how developers strive to narrow gap with US rivals",
+        "url": "https://www.scmp.com/tech/big-tech/article/3357449/chinas-trillion-parameter-ai-race-how-developers-strive-narrow-gap-us-rivals?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-19T06:00:10.000Z",
+        "summary": "Chinese artificial intelligence developers are accelerating their push into massive foundation models with more than a trillion parameters, just as Washington moves to block foreign access to leading US software through ",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
