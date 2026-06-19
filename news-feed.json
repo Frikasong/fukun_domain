@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T20:12:47.848Z",
+  "generatedAt": "2026-06-19T03:32:27.996Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -74,16 +74,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-18T13:00:41.000Z",
         "summary": "Following on from its recent deal with ServiceNow, Eudia has formed a partnership with Consilio. For its part, Consilio has also recently done its own ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/improving-health-intelligence-in-chatgpt",
-        "title": "Improving health intelligence in ChatGPT",
-        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-        "source": "OpenAI News",
-        "publishedAt": "2026-06-18T11:00:00.000Z",
-        "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
         "category": "updates",
         "region": "na"
       },
@@ -1206,9 +1196,59 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/aeruuccqmedjcpldzqfg",
+        "title": "平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
+        "url": "https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-19T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ootna5qubzzej3ighrjz",
+        "title": "Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3",
+        "url": "https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-19T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3859406436783112",
+        "title": "数说故事递表港交所",
+        "url": "https://36kr.com/newsflashes/3859406436783112?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-19T02:47:04.000Z",
+        "summary": "36氪获悉，据港交所文件，数说故事人工智能科技股份有限公司向港交所提交上市申请书，独家保荐人为中信建投国际。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3859403678684424",
+        "title": "亚马逊拟向第三方数据中心销售AI芯片",
+        "url": "https://36kr.com/newsflashes/3859403678684424?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-19T01:32:15.000Z",
+        "summary": "据报道，亚马逊正洽谈向其他公司的数据中心出售其定制人工智能芯片。亚马逊人工智能业务负责人Peter DeSantis称公司已启动相关讨论，但拒绝透露潜在客户名单。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/uxghld6fuzyxjnuu6l47",
         "title": "Anthropic 发布 Claude Fable 5 三天遭临时下架",
@@ -1275,7 +1315,7 @@
         "url": "https://36kr.com/newsflashes/3858650254791941?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-18T12:22:01.000Z",
-        "summary": "6月18日，有网友在社交媒体提问称：“中国大模型预计何时能够达到Anthropic的Fable水平？智谱GLM-5.2无疑缩小了差距。”特斯拉CEO马斯克对此回复称：“可能在（2027年）一季度。”对于马斯克的言论，有AI业内人士认为，马斯克的预测相对保守，中美模型水平的时间差可能短于7个月。谷歌DeepMind首席执行官德米斯·哈萨比斯此前也表示，中国的人工智能模型在能力上可能“只差几个月”就能赶上海外。（上证报）",
+        "summary": "6月18日，有网友在社交媒体提问称：“中国大模型预计何时能够达到Anthropic的Fable水平？智谱GLM-5.2无疑缩小了差距。”特斯拉CEO马斯克对此回复称：“可能在（2027年）一季度。”对于马斯克的言论，有AI业内人士认为，马斯克的预测相对保守，中美模型水平的时间差可能短于7个月。谷歌DeepMind首席执行官德米斯·哈萨比斯此前也表示，中国的人工智能模型在能力上可能“只差几个月”就能赶上海��。（上证报）",
         "category": "updates",
         "region": "cn"
       },
@@ -1326,16 +1366,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-18T01:09:18.000Z",
         "summary": "时代从不被旁观者定义，它只发生在那些正在成长的人身上。 今天，当人们讨论华为、字节跳动、大疆、Tesla或OpenAI时，很容易忽略这样一个事实：在成为行业领导者之前，它们都曾是一家成长中的创业公司。 在初期，没有天然的市场地位，没有成熟的商业体系，也未必被所有人看好。但通过持续的技术突破和产品迭代，它们一步步从“挑战者”变成了“定义者”。 商业史本质上是一部成长史。 那些最终改变产业格局的公司，往往不是起点最高的公司，而是在漫长竞争中",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3857959588418823",
-        "title": "中科院博士冲上市，市值超105亿港币",
-        "url": "https://36kr.com/p/3857959588418823?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-18T01:00:00.000Z",
-        "summary": "本文约1900字，建议阅读4分钟 作者 | 彭孝秋 6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。 上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2.2%。这是一家由中国科学院自动化研究所科学家创办的公司，过去三年累计亏掉约5.83",
         "category": "updates",
         "region": "cn"
       }
