@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T14:46:00.726Z",
+  "generatedAt": "2026-06-19T19:27:44.806Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1340,17 +1340,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3357729/were-all-alibabas-joe-tsai-makes-biggest-ai-push-yet-vivatech",
-        "title": "‘We’re all in’: Alibaba’s Joe Tsai makes biggest AI push yet at VivaTech",
-        "url": "https://www.scmp.com/tech/article/3357729/were-all-alibabas-joe-tsai-makes-biggest-ai-push-yet-vivatech?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-19T13:24:35.000Z",
-        "summary": "Alibaba Group delivered its strongest defence yet of an “all in” artificial intelligence strategy on Thursday, with chairman Joe Tsai arguing that AI could ultimately represent a US$50 trillion market and vowing to inves",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
