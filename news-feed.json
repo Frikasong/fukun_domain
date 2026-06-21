@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T19:11:58.593Z",
+  "generatedAt": "2026-06-21T02:52:58.350Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,26 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qtf6xlmzmm5vje0l9twb",
+        "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+        "url": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-21T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3862280121865219",
+        "title": "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
+        "url": "https://36kr.com/newsflashes/3862280121865219?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-21T01:54:30.000Z",
+        "summary": "据报道，特斯拉已正式提交 “Amazing Abundance” 商标注册申请，此举表明企业将进一步深耕长期发展愿景，核心布局人工智能、人形机器人、自动驾驶系统，并依托自动化技术实现生产成本大幅下降的未来图景。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/tbcykgw0xryuhsk1ne2p",
         "title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
