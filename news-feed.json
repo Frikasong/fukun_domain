@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T11:37:31.843Z",
+  "generatedAt": "2026-06-22T16:39:54.918Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,52 +8,92 @@
   "panels": {
     "na": [
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/the-legal-ai-scaffold-changes-everything-claude-study",
-        "title": "The Legal AI Scaffold Changes Everything – Claude Study",
-        "url": "https://www.artificiallawyer.com/2026/06/22/the-legal-ai-scaffold-changes-everything-claude-study/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-22T08:21:10.000Z",
-        "summary": "A study by consultancy Legal Nodes, which included MikeOSS, shows that no matter how good a general model appears to be, it’s the legal AI ...",
+        "id": "LawSites:www.lawnext.com/2026/06/thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel-legal-saying-beta-users-fing-loved-the-product.html",
+        "title": "Thomson Reuters Opens Early Access to the &#8216;Next Generation&#8217; of CoCounsel Legal, Saying Beta Users ‘F#@%ing Loved’ the Product",
+        "url": "https://www.lawnext.com/2026/06/thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel-legal-saying-beta-users-fing-loved-the-product.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-22T16:04:39.000Z",
+        "summary": "Thomson Reuters is opening early access this week to what it calls the next generation of CoCounsel Legal, the most substantial reworking of its flagship legal AI assistant since the company acquired the product as part ",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/patagonia&",
+        "title": "Patagonia accuses drag queen Pattie Gonia of trademark violation, risks its reputation",
+        "url": "https://www.abajournal.com/news/article/patagonia&#45;accuses&#45;drag&#45;queen&#45;pattie&#45;gonia&#45;of&#45;trademark&#45;violation&#45;risks&#45;its&#45;reputation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-22T15:28:00.000Z",
+        "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont",
-        "title": "What Legal AI Benchmarks Reveal That Model Names Don’t",
-        "url": "https://www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-22T07:29:45.000Z",
-        "summary": "By Daniel Lewis, CEO, LegalOn. Foundation models are improving quickly. One useful measure is software engineering: the length of coding tasks that frontier models can ...",
+        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
+        "title": "Federal judiciary raises concerns over deepfakes when opposing courtroom cameras",
+        "url": "https://www.abajournal.com/news/article/federal&#45;judiciary&#45;raises&#45;concerns&#45;over&#45;deepfakes&#45;when&#45;opposing&#45;courtroom&#45;cameras/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-22T13:39:00.000Z",
+        "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview",
-        "title": "BARBRI Buys Lega &#8211; Christian Lang Interview",
-        "url": "https://www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-22T07:00:09.000Z",
-        "summary": "Legal education business BARBRI has bought legal AI startup Lega as part of a strategy to provide ‘experiential AI workshops, simulations, hackathons, and lab-style learning ...",
+        "id": "ABA Journal:www.abajournal.com/columns/article/fighting&",
+        "title": "Fighting Hallucinations: How to choose the right AI citation checkers",
+        "url": "https://www.abajournal.com/columns/article/fighting&#45;hallucinations&#45;choosing&#45;the&#45;right&#45;ai&#45;citation&#45;checkers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-22T13:15:00.000Z",
+        "summary": "",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/some&",
+        "title": "Some law grads stack judicial clerkships, closing others out of coveted opportunity",
+        "url": "https://www.abajournal.com/news/article/some&#45;law&#45;grads&#45;stack&#45;judicial&#45;clerkships&#45;closing&#45;others&#45;out&#45;of&#45;coveted&#45;opportunity/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-22T12:49:00.000Z",
+        "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/19/legal-innovators-paris-crosby-lawvu",
-        "title": "Legal Innovators Paris, Crosby, LawVu +",
-        "url": "https://www.artificiallawyer.com/2026/06/19/legal-innovators-paris-crosby-lawvu/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-19T08:36:14.000Z",
-        "summary": "After California, where next? Paris of course, for Legal Innovators Europe, on June 24 and 25 in the City of Light, and also the city ...",
+        "id": "ABA Journal:www.abajournal.com/news/article/ohio&",
+        "title": "Ohio restrictions on kids&#8217; use of social media restored by court",
+        "url": "https://www.abajournal.com/news/article/ohio&#45;restrictions&#45;on&#45;kids&#45;use&#45;of&#45;social&#45;media&#45;restored&#45;by&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-22T12:30:00.000Z",
+        "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/19/the-legal-professions-ai-tightrope",
-        "title": "The Legal Profession’s AI Tightrope",
-        "url": "https://www.artificiallawyer.com/2026/06/19/the-legal-professions-ai-tightrope/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-19T07:26:19.000Z",
-        "summary": "By James Tuke, AI Futures Forum. Over the last twelve months, the AI conversation in the legal profession has shifted significantly. In May 2025, we ...",
+        "id": "LawSites:www.lawnext.com/2026/06/thomson-reuters-future-of-professionals-report-warns-of-widening-gap-between-ai-adoption-and-ai-value.html",
+        "title": "Thomson Reuters &#8216;Future of Professionals&#8217; Report Warns of Widening Gap Between AI Adoption and AI Value",
+        "url": "https://www.lawnext.com/2026/06/thomson-reuters-future-of-professionals-report-warns-of-widening-gap-between-ai-adoption-and-ai-value.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-22T12:19:19.000Z",
+        "summary": "Most professionals are now using artificial intelligence at work, but far fewer are getting much value out of it, according to new research from Thomson Reuters. And the cost of that shortfall is starting to show up in l",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/luigi&",
+        "title": "Luigi Mangione’s lawyers withdraw plan to use &#8216;mental defect&#8217; defense for allegedly shooting UnitedHeathcare CEO",
+        "url": "https://www.abajournal.com/news/article/luigi&#45;mangiones&#45;lawyers&#45;withdraw&#45;plan&#45;to&#45;use&#45;mental&#45;defect&#45;defense&#45;for&#45;allegedly&#45;shooting&#45;unitedheathcare&#45;ceo/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-22T12:03:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
+        "title": "BARBRI Acquires Lega, Completing the Startup&#8217;s Pivot From AI Governance to Experiential AI Training",
+        "url": "https://www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-22T11:57:28.000Z",
+        "summary": "BARBRI, the legal education company best known for bar exam preparation, has acquired Lega, the AI startup that launched in 2023 with a focus on large language model governance but which has been evolving into helping le",
         "category": "updates",
         "region": "na"
       },
@@ -88,16 +128,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/luigi&",
-        "title": "Luigi Mangione will use &#8216;mental defect&#8217; defense to explain alleged shooting of UnitedHealthcare CEO",
-        "url": "https://www.abajournal.com/news/article/luigi&#45;mangione&#45;to&#45;use&#45;mental&#45;defect&#45;defense&#45;to&#45;explain&#45;shooting&#45;of&#45;unitedhealthcare&#45;ceo/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-18T14:37:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/clio-launches-two-ai-initiatives-free-tools-for-florida-lawyers-and-a-pledge-to-train-25000-professionals.html",
         "title": "Clio Launches Two AI Initiatives: Free Tools for Florida Lawyers and a Pledge to Train 25,000 Professionals",
         "url": "https://www.lawnext.com/2026/06/clio-launches-two-ai-initiatives-free-tools-for-florida-lawyers-and-a-pledge-to-train-25000-professionals.html",
@@ -105,116 +135,6 @@
         "publishedAt": "2026-06-18T13:46:36.000Z",
         "summary": "In two separate announcements this week, Clio rolled out two initiatives aimed at the same problem — getting practicing lawyers comfortable with AI. One puts AI software directly into lawyers&#8217; hands at no cost; the",
         "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
-        "title": "ABA 2026 Pro Bono Publico honorees recognized for extraordinary service in the field",
-        "url": "https://www.abajournal.com/news/article/aba&#45;2026&#45;pro&#45;bono&#45;publico&#45;honorees&#45;recognized&#45;for&#45;extraordinary&#45;service&#45;in&#45;the&#45;field/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-18T13:17:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/18/eudia-consilio-partner-as-hook-ups-spread",
-        "title": "Eudia + Consilio Partner As Hook-Ups Spread",
-        "url": "https://www.artificiallawyer.com/2026/06/18/eudia-consilio-partner-as-hook-ups-spread/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-18T13:00:41.000Z",
-        "summary": "Following on from its recent deal with ServiceNow, Eudia has formed a partnership with Consilio. For its part, Consilio has also recently done its own ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/18/the-crosby-story-with-co-founder-ryan-daniels",
-        "title": "The Crosby Story &#8211; With Co-founder, Ryan Daniels",
-        "url": "https://www.artificiallawyer.com/2026/06/18/the-crosby-story-with-co-founder-ryan-daniels/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-18T09:32:46.000Z",
-        "summary": "Crosby was one of the original AI-first / NewMod law firms to come to market and it is growing fast. Here, Artificial Lawyer talks to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/18/perplexity-gets-serious-about-legal",
-        "title": "Perplexity Gets Serious About Legal",
-        "url": "https://www.artificiallawyer.com/2026/06/18/perplexity-gets-serious-about-legal/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-18T08:19:24.000Z",
-        "summary": "We’ve had OpenAI, Anthropic, Microsoft and Palantir enter the legal vertical. Perplexity – which has dabbled in our field before – is going into legal ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/18/harvey-trains-open-source-models-to-encode-law-firm-workflows",
-        "title": "Harvey Trains Open Source Models To Encode Law Firm Workflows",
-        "url": "https://www.artificiallawyer.com/2026/06/18/harvey-trains-open-source-models-to-encode-law-firm-workflows/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-18T06:50:35.000Z",
-        "summary": "Harvey CEO, Winston Weinberg, has confirmed to Artificial Lawyer that they are now doing Proof of Concept studies with law firms to train open source ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/17/ironclad-legora-partner-for-unusual-ai-to-ai-integration",
-        "title": "Ironclad + Legora Partner for Unusual ‘AI-to-AI Integration’",
-        "url": "https://www.artificiallawyer.com/2026/06/17/ironclad-legora-partner-for-unusual-ai-to-ai-integration/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-17T20:20:28.000Z",
-        "summary": "In a surprising move, Ironclad, the CLM pioneer whose former founder Jason Boehmig has joined OpenAI to launch its legal vertical team, is forming what ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/mental&",
-        "title": "Mental health law becomes this law prof and author&#8217;s focus after walking &#8216;Through the Fire&#8217;",
-        "url": "https://www.abajournal.com/web/article/mental&#45;health&#45;law&#45;becomes&#45;professor&#45;and&#45;authors&#45;focus&#45;after&#45;walking&#45;through&#45;the&#45;fire/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-17T20:01:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/voice/article/humpty&",
-        "title": "Humpty Dumpty goes to court",
-        "url": "https://www.abajournal.com/voice/article/humpty&#45;dumpty&#45;goes&#45;to&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-17T18:55:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former businessman extradited and charged in alleged ‘execution-style’ murders of lawyer and ex-employee",
-        "url": "https://www.abajournal.com/news/article/former&#45;businessman&#45;extradited&#45;and&#45;charged&#45;in&#45;execution&#45;style&#45;murders&#45;of&#45;lawyer&#45;and&#45;ex&#45;employee/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-17T16:40:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/after&",
-        "title": "After more than 200 years, Connecticut nominates Black woman to state supreme court",
-        "url": "https://www.abajournal.com/news/article/after&#45;more&#45;than&#45;200&#45;years&#45;connecticut&#45;nominates&#45;a&#45;black&#45;woman&#45;to&#45;state&#45;supreme&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-17T16:02:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
-        "title": "DOJ sues New Mexico Supreme Court, bar examiners board over refusal to admit military spouse",
-        "url": "https://www.abajournal.com/news/article/doj&#45;sues&#45;new&#45;mexico&#45;supreme&#45;court&#45;board&#45;of&#45;bar&#45;examiners&#45;over&#45;refusal&#45;to&#45;admit&#45;military&#45;spouse/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-17T15:31:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1148,36 +1068,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/03/clio-launches-clio-capital-to-provide-fast-low-friction-financing-for-law-firms.html",
-        "title": "Clio Launches Clio Capital to Provide Fast, Low-Friction Financing for Law Firms",
-        "url": "https://www.lawnext.com/2026/03/clio-launches-clio-capital-to-provide-fast-low-friction-financing-for-law-firms.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-09T14:03:30.000Z",
-        "summary": "Clio has officially launched Clio Capital, a financing program designed exclusively for law firms that use the company’s practice management platform. The product, which went live Feb. 26, provides eligible law firms wit",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/03/mary-technology-raises-a7m-to-bring-fact-management-platform-to-u-s-market.html",
-        "title": "Mary Technology Raises A$7M to Bring &#8216;Fact Management&#8217; Platform to U.S. Market",
-        "url": "https://www.lawnext.com/2026/03/mary-technology-raises-a7m-to-bring-fact-management-platform-to-u-s-market.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-09T12:59:16.000Z",
-        "summary": "An Australian legal tech startup that has built what it describes as the first fact management system for litigation is announcing a A$7 million seed round and its expansion into the United States, including the opening ",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/03/legal-tech-vendors-roll-out-wave-of-announcements-ahead-of-legalweek-news-from-disco-advocacy-imanage-monjur-reveal-and-chronotracer-and-align.html",
-        "title": "Legal Tech Vendors Roll Out Wave of Announcements Ahead of Legalweek; News From DISCO, Advocacy, iManage, Monjur, Reveal and ChronoTracer and ALIGN",
-        "url": "https://www.lawnext.com/2026/03/legal-tech-vendors-roll-out-wave-of-announcements-ahead-of-legalweek-news-from-disco-advocacy-imanage-monjur-reveal-and-chronotracer-and-align.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-08T14:05:30.000Z",
-        "summary": "With Legalweek 2026 set to open Monday in New York City, legal technology companies have been rolling out a string of product announcements and company news in the days leading up to the conference. The pre-conference wa",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1206,29 +1096,39 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/kp5s7thcxtelg8tpdqyy",
-        "title": "Netflix如何实时绘制数千个微服务的拓扑图",
-        "url": "https://www.infoq.cn/article/kp5s7thcxtELg8TpdQYY?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-22T19:07:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/uxoetugqdwiu0dzeg89v",
-        "title": "Java新闻汇总：WildFly、Micronaut、Spring AI、Apache Fory、GlassFish插件和Open Liberty",
-        "url": "https://www.infoq.cn/article/uxOetuGQdWIU0dzEG89v?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-22T18:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/hmme4jhktjuyjy9dnej2",
         "title": "xAI发布Grok Skills并更新用于工具调用的Responses API",
@@ -1280,41 +1180,11 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3864002982286342",
-        "title": "HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮",
-        "url": "https://36kr.com/p/3864002982286342?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-22T07:08:07.000Z",
-        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3863967437247751",
-        "title": "补齐市场信息差！36氪股市舆情交流群开放，实物抽奖等你来！",
-        "url": "https://36kr.com/p/3863967437247751?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-22T06:56:09.000Z",
-        "summary": "一、36氪官方大数据股市舆情工具介绍 36氪企业全情报是36氪联合红麦数据推出的专业资本市场情报平台，依托全网大数据资源，实时同步个股、产业一手资讯，同时通过智能算法识别行情潜藏风险，一站式查询板块、个股完整消息脉络。 小程序直达链接，手机端可直接打开使用，无需下载任何软件： https://channel.36kr.com/api/x/wechat/urlLink?channelId=1&path=/pages/home/index ",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3863988138956032",
         "title": "云鲸智能创始人兼CEO张峻彬：十年 | 36氪WAVES2026新浪潮",
         "url": "https://36kr.com/p/3863988138956032?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-22T06:52:52.000Z",
-        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3863849524859911",
-        "title": "广州市番禺协诚实业有限公司副总经理龙德洋：真正的城市服务，藏在分分秒秒的坚守里",
-        "url": "https://36kr.com/p/3863849524859911?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-22T05:52:45.000Z",
         "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
         "category": "updates",
         "region": "cn"
