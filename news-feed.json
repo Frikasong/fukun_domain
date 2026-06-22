@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T02:55:42.496Z",
+  "generatedAt": "2026-06-22T11:37:31.843Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/the-legal-ai-scaffold-changes-everything-claude-study",
+        "title": "The Legal AI Scaffold Changes Everything – Claude Study",
+        "url": "https://www.artificiallawyer.com/2026/06/22/the-legal-ai-scaffold-changes-everything-claude-study/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-22T08:21:10.000Z",
+        "summary": "A study by consultancy Legal Nodes, which included MikeOSS, shows that no matter how good a general model appears to be, it’s the legal AI ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont",
+        "title": "What Legal AI Benchmarks Reveal That Model Names Don’t",
+        "url": "https://www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-22T07:29:45.000Z",
+        "summary": "By Daniel Lewis, CEO, LegalOn. Foundation models are improving quickly. One useful measure is software engineering: the length of coding tasks that frontier models can ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview",
+        "title": "BARBRI Buys Lega &#8211; Christian Lang Interview",
+        "url": "https://www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-22T07:00:09.000Z",
+        "summary": "Legal education business BARBRI has bought legal AI startup Lega as part of a strategy to provide ‘experiential AI workshops, simulations, hackathons, and lab-style learning ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/19/legal-innovators-paris-crosby-lawvu",
         "title": "Legal Innovators Paris, Crosby, LawVu +",
@@ -194,36 +224,6 @@
         "source": "LawSites",
         "publishedAt": "2026-06-17T14:35:48.000Z",
         "summary": "When Kirkland &#38; Ellis announced a $500 million investment in AI, much of the reaction focused on the dollar amount. That much money commands attention in the legal industry. But the dollar amount may not be the most ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/17/crosby-starts-contract-benchmark-launches-agent-research-group",
-        "title": "Crosby Starts Contract Benchmark, Launches Agent Research Group",
-        "url": "https://www.artificiallawyer.com/2026/06/17/crosby-starts-contract-benchmark-launches-agent-research-group/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-17T13:28:00.000Z",
-        "summary": "NewMod law firm Crosby has launched &#8216;Multi-turn Negotiation Bench&#8217;, a contract negotiation benchmark for AI outputs. They are also rolling out Crosby Intelligence, a research ...",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/17/the-cocounsel-deepjudge-integration-al-interview",
-        "title": "The CoCounsel + DeepJudge Integration – AL Interview",
-        "url": "https://www.artificiallawyer.com/2026/06/17/the-cocounsel-deepjudge-integration-al-interview/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-17T08:41:31.000Z",
-        "summary": "Thomson Reuters is today announcing the general availability of their DeepJudge-CoCounsel integration. To mark the occasion, Artificial Lawyer spoke to DeepJudge co-founder Paulina Grnarova at ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/17/syke-founder-alistair-maiden-joins-flank",
-        "title": "Syke Founder Alistair Maiden Joins Flank",
-        "url": "https://www.artificiallawyer.com/2026/06/17/syke-founder-alistair-maiden-joins-flank/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-17T08:00:07.000Z",
-        "summary": "Alistair Maiden, who created the well-known legal engineering group Syke before selling it to Consilio, has joined legal agent maker Flank in a senior role. ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,12 +1210,42 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/spibfv8qpwbvac8laluz",
-        "title": "内核级的真相：为什么eBPF正在取代基于用户空间的Agent成为安全可观测性的首选",
-        "url": "https://www.infoq.cn/article/spibFV8QPwbvac8LAluZ?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/kp5s7thcxtelg8tpdqyy",
+        "title": "Netflix如何实时绘制数千个微服务的拓扑图",
+        "url": "https://www.infoq.cn/article/kp5s7thcxtELg8TpdQYY?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-22T10:20:48.000Z",
+        "publishedAt": "2026-06-22T19:07:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/uxoetugqdwiu0dzeg89v",
+        "title": "Java新闻汇总：WildFly、Micronaut、Spring AI、Apache Fory、GlassFish插件和Open Liberty",
+        "url": "https://www.infoq.cn/article/uxOetuGQdWIU0dzEG89v?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-22T18:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hmme4jhktjuyjy9dnej2",
+        "title": "xAI发布Grok Skills并更新用于工具调用的Responses API",
+        "url": "https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-22T16:49:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3864071269569540",
+        "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
+        "url": "https://36kr.com/p/3864071269569540?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-22T10:00:50.000Z",
+        "summary": "当人形机器人在春晚上扭秧歌，在马拉松赛场上健步如飞，一个尴尬的现实浮出水面：机器人会动、很灵活，但不能干活——前者考验运动控制能力，后者还需要机器人真正理解物理环境，记住物体位置、推理空间关系。 感知瓶颈是今天几乎所有具身智能从业者都无法回避的现实。成立不到三个月的「映界科技」（MirrorSpace）正试图补齐具身智能产业链中的这个短板。映界科技由三位平均年龄仅有24岁的博士团队创办，专注具身机器人视觉空间感知系统的算法与硬件研发，致",
         "category": "updates",
         "region": "cn"
       },
@@ -1230,12 +1260,72 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3863586257573124",
-        "title": "8点1氪丨马斯克拿下7800亿元天价薪酬；伊朗代表团暂停伊美谈判，抗议特朗普威胁言论；刘强东称将来不需要快递员，要保住70万兄弟的工作",
-        "url": "https://36kr.com/p/3863586257573124?f=rss",
+        "id": "36Kr:36kr.com/p/3864054145209602",
+        "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
+        "url": "https://36kr.com/p/3864054145209602?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-22T00:05:51.000Z",
-        "summary": "今日热点导览 诺贝尔奖得主约翰·江珀宣布加盟Anthropic 法国游戏公司育碧的联合创始人空难去世 挪威将禁止小学生使用生成式人工智能 伊朗军方消息人士：霍尔木兹海峡仍然关闭 张雪称自己创业时比李书福幸福 TOP3大新闻 马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利，获得了3.04亿股股票 根据美国证券交易委员会（SEC）的一份新文件，马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利，获得了3.04亿股股票，账面收",
+        "publishedAt": "2026-06-22T08:10:06.000Z",
+        "summary": "每一个创业者，都有一段“没人相信”的日子。但正是那段日子，把他们推向了浪尖。创业是鲜活的，接下来这一场，我们听一听那些在质疑声中长大的创业者，怎么把“不可能”变成“不，可能”。 以下为圆桌对话内容，经36氪整理编辑: 许嘉婧｜36氪后浪研究所 主理人（主持人） 徐子悦 ｜PhotonPay 光子易商务副总裁 程刚｜KOOK语音 创始人兼CEO 徐良威｜智域基石CTO 程二亭｜万拿机器人 创始人&CEO 薛昊昕｜潞晨科技 副总裁 陆弘远｜",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3864033017549832",
+        "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
+        "url": "https://36kr.com/p/3864033017549832?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-22T07:38:54.000Z",
+        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3864002982286342",
+        "title": "HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮",
+        "url": "https://36kr.com/p/3864002982286342?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-22T07:08:07.000Z",
+        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3863967437247751",
+        "title": "补齐市场信息差！36氪股市舆情交流群开放，实物抽奖等你来！",
+        "url": "https://36kr.com/p/3863967437247751?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-22T06:56:09.000Z",
+        "summary": "一、36氪官方大数据股市舆情工具介绍 36氪企业全情报是36氪联合红麦数据推出的专业资本市场情报平台，依托全网大数据资源，实时同步个股、产业一手资讯，同时通过智能算法识别行情潜藏风险，一站式查询板块、个股完整消息脉络。 小程序直达链接，手机端可直接打开使用，无需下载任何软件： https://channel.36kr.com/api/x/wechat/urlLink?channelId=1&path=/pages/home/index ",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3863988138956032",
+        "title": "云鲸智能创始人兼CEO张峻彬：十年 | 36氪WAVES2026新浪潮",
+        "url": "https://36kr.com/p/3863988138956032?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-22T06:52:52.000Z",
+        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3863849524859911",
+        "title": "广州市番禺协诚实业有限公司副总经理龙德洋：真正的城市服务，藏在分分秒秒的坚守里",
+        "url": "https://36kr.com/p/3863849524859911?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-22T05:52:45.000Z",
+        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3863885024973832",
+        "title": "36氪首发 | 联想之星险峰联合领投，AI算力中心感知与效能管理方案商完成天使轮融资",
+        "url": "https://36kr.com/p/3863885024973832?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-22T05:07:50.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，芯感通科技有限公司（以下简称“芯感通”）日前完成数千万元天使轮融资，由联想之星与险峰联合领投。本轮融资将主要用于芯片研发迭代、产品验证及市场拓展。 随着大模型训练规模持续扩大和商业服务展开，AI算力基础设施的铺设在快速亟需高效能运营，同时，高性能GPU也将算力推入高能量密度、高功耗时代。 从单柜数十张GPU到万卡集群，数据中心内部的供电、散热和能耗管理正在成为新的技术瓶颈。与此同时，太空算力",
         "category": "updates",
         "region": "cn"
       },
@@ -1268,79 +1358,8 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qqva7hhtdodzlfb7ewvq",
-        "title": "JetBrains 开源 Mellum2，尝试 Claude Code 无法涉足的领域",
-        "url": "https://www.infoq.cn/article/QQVa7HhtdoDzLFB7ewVQ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-18T17:48:17.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/76b4q6i80w8mfhpuffwa",
-        "title": "谷歌给 Android 开发者选模型：GPT-5.5 暂时领先",
-        "url": "https://www.infoq.cn/article/76b4Q6i80w8MFHpuFFWA?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-18T17:33:42.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/jnsfjjuajjdzgys51jhc",
-        "title": "Google 想为 AI Agent 打造下一个 Kubernetes",
-        "url": "https://www.infoq.cn/article/jNsfjJuAJjDzGYS51jHC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-18T17:27:42.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3858015526704129",
-        "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
-        "url": "https://36kr.com/p/3858015526704129?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-18T12:47:44.000Z",
-        "summary": "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范应用区域开启全天候载客测试以来，滴滴自动驾驶始终保持安",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3858329994875908",
-        "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
-        "url": "https://36kr.com/p/3858329994875908?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-18T12:20:28.000Z",
-        "summary": "文｜肖漫 编辑｜李勤 6月18日，蔚来同时向两代平台车型（包含8款NT2.0平台车型、4款NT2.5平台车型，以及6款NT3.0车型）推送了最新版的世界模型，这意味着，蔚来现在能让同一套复杂的智驾代码，现在能跑在不同代际的芯片上。 软件迭代节奏被硬件绑架曾是一个困扰行业的难题。很多车企无法在不同版本、配置的车型上迭代同一款软件，这带来的结果是，很长时间内只有使用最新版本硬件的车才能用上最好的软件，老车主被背刺。 蔚来部署推理跨平台兼容 ",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3357858/zhipu-ai-market-cap-tops-hk1-trillion-shares-glm-52-developer-soar",
-        "title": "Zhipu AI market cap tops HK$1 trillion as shares of GLM-5.2 developer soar",
-        "url": "https://www.scmp.com/tech/article/3357858/zhipu-ai-market-cap-tops-hk1-trillion-shares-glm-52-developer-soar?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-22T02:32:00.000Z",
-        "summary": "The market capitalisation of Hong Kong-listed artificial intelligence pioneer Zhipu AI surpassed HK$1 trillion (US$128 billion) on Monday, fuelled by investor optimism as the company goes head-to-head with its American r",
-        "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3357705/apple-supplier-lingyi-seeks-us11-billion-hong-kong-ipo-fund-ai-and-robotics-push",
-        "title": "Apple supplier Lingyi seeks US$1.1 billion Hong Kong IPO to fund AI and robotics push",
-        "url": "https://www.scmp.com/tech/article/3357705/apple-supplier-lingyi-seeks-us11-billion-hong-kong-ipo-fund-ai-and-robotics-push?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-22T01:00:11.000Z",
-        "summary": "Apple supplier Lingyi iTech is looking beyond smartphones, seeking to raise up to HK$8.3 billion (US$1.1 billion) in a Hong Kong initial public offering (IPO) to fund an ambitious expansion into artificial intelligence h",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
