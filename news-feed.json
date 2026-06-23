@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T14:31:01.522Z",
+  "generatedAt": "2026-06-23T19:51:12.907Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,66 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/plaintiffs&",
+        "title": "Plaintiffs attorneys in 2 multidistrict litigations face sanctions for protective order document breach",
+        "url": "https://www.abajournal.com/news/article/plaintiffs&#45;attorneys&#45;in&#45;2&#45;mdls&#45;face&#45;sanctions&#45;for&#45;protective&#45;order&#45;breach/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-23T19:25:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/unsealed&",
+        "title": "Unsealed documents reveal concerns over former judge&#8217;s fitness to serve on bench",
+        "url": "https://www.abajournal.com/news/article/unsealed&#45;documents&#45;reveal&#45;concerns&#45;over&#45;tennesse&#45;judges&#45;fitness/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-23T17:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/gpt-5-immunology-mystery",
+        "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+        "url": "https://openai.com/index/gpt-5-immunology-mystery",
+        "source": "OpenAI News",
+        "publishedAt": "2026-06-23T17:00:00.000Z",
+        "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/leadership&",
+        "title": "Leadership perspectives from RelFest London 2026",
+        "url": "https://www.abajournal.com/columns/article/leadership&#45;perspectives&#45;from&#45;relfest&#45;london&#45;2026/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-23T16:46:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/thomson-reuters-ceo-steve-hasker-on-the-next-generation-of-cocounsel-the-future-of-professionals-report-and-why-tr-is-building-its-own-llm.html",
+        "title": "Thomson Reuters CEO Steve Hasker on the Next Generation of CoCounsel, the ‘Future of Professionals’ Report, and Why TR Is Building Its Own LLM",
+        "url": "https://www.lawnext.com/2026/06/thomson-reuters-ceo-steve-hasker-on-the-next-generation-of-cocounsel-the-future-of-professionals-report-and-why-tr-is-building-its-own-llm.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-23T16:39:14.000Z",
+        "summary": "Yesterday, Thomson Reuters made two announcements. It opened early access to the next generation of CoCounsel Legal, the most substantial reworking of its flagship legal AI assistant since the company acquired Casetext i",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/university&",
+        "title": "University of Texas law dean shifts AI policy to prevent &#8216;cognitive deskilling&#8217;",
+        "url": "https://www.abajournal.com/news/article/university&#45;of&#45;texas&#45;law&#45;dean&#45;shifts&#45;ai&#45;policy&#45;to&#45;prevent&#45;cognitive&#45;deskilling/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-23T14:49:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/biglaw&",
         "title": "BigLaw associates prepare for depositions with AI training tool DepoSim",
@@ -108,52 +168,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/luigi&",
-        "title": "Luigi Mangione’s lawyers withdraw plan to use &#8216;mental defect&#8217; defense for allegedly shooting UnitedHealthcare CEO",
-        "url": "https://www.abajournal.com/news/article/luigi&#45;mangiones&#45;lawyers&#45;withdraw&#45;plan&#45;to&#45;use&#45;mental&#45;defect&#45;defense&#45;for&#45;allegedly&#45;shooting&#45;unitedheathcare&#45;ceo/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-22T12:03:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
         "title": "BARBRI Acquires Lega, Completing the Startup&#8217;s Pivot From AI Governance to Experiential AI Training",
         "url": "https://www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
         "source": "LawSites",
         "publishedAt": "2026-06-22T11:57:28.000Z",
         "summary": "BARBRI, the legal education company best known for bar exam preparation, has acquired Lega, the AI startup that launched in 2023 with a focus on large language model governance but which has been evolving into helping le",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/new&",
-        "title": "Rule requiring jurists to visit jails promotes confidence in courts, chief judge says",
-        "url": "https://www.abajournal.com/news/article/new&#45;york&#45;chief&#45;judge&#45;says&#45;rule&#45;requiring&#45;jurists&#45;to&#45;visit&#45;jails&#45;promotes&#45;confidence&#45;in&#45;the&#45;courts/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-18T15:45:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/supreme&",
-        "title": "Supreme Court, rarely sympathetic in death penalty cases, finds a few with merit this term",
-        "url": "https://www.abajournal.com/web/article/supreme&#45;court&#45;rarely&#45;sympathetic&#45;in&#45;death&#45;penalty&#45;cases&#45;finds&#45;a&#45;few&#45;with&#45;merit&#45;this&#45;term/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-18T15:24:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ailaw&",
-        "title": "AI.Law sues competitor Eve Legal for alleged patent infringement",
-        "url": "https://www.abajournal.com/news/article/ailaw&#45;sues&#45;competitor&#45;eve&#45;legal&#45;for&#45;patent&#45;infringement/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-18T15:10:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1068,16 +1088,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/03/hand-arendall-harrison-sale-transforms-document-workflows-and-sees-immediate-roi-with-literas-ai-powered-drafting-and-compare.html",
-        "title": "Hand Arendall Harrison Sale Transforms Document Workflows and Sees Immediate ROI with Litera&#8217;s AI-Powered Drafting and Compare",
-        "url": "https://www.lawnext.com/2026/03/hand-arendall-harrison-sale-transforms-document-workflows-and-sees-immediate-roi-with-literas-ai-powered-drafting-and-compare.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-16T15:42:01.000Z",
-        "summary": "Customer results highlight growing demand for unified drafting, comparison, and collaboration within Microsoft 365 and web NEW YORK – Legalweek 2026 – Mar. 10, 2026 – Litera, a global leader in legal AI technology soluti",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1139,16 +1149,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/uxzbcoyhbrfn0wrlvr5x",
-        "title": "人人都是 Builder 的时代，企业的真正挑战是“怎么管”？",
-        "url": "https://www.infoq.cn/article/UXZBCoYhBRFN0WRLVR5x?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-23T21:13:23.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/5iz5ew8npqxivvpfphdk",
         "title": "腾讯云发布边缘 Web 与 AI Agent 托管平台 EdgeOne Makers：一键开发部署，分钟级全球上线",
