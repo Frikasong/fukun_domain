@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T02:30:40.919Z",
+  "generatedAt": "2026-06-23T09:24:17.652Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/23/the-platform-vs-specialist-debate-is-asking-the-wrong-question",
+        "title": "The Platform Vs Specialist Debate is Asking the Wrong Question",
+        "url": "https://www.artificiallawyer.com/2026/06/23/the-platform-vs-specialist-debate-is-asking-the-wrong-question/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-23T07:58:30.000Z",
+        "summary": "By Katja Nikolaus, Co-Founder, JUNE. Two forecasts. Two opposing verdicts. Published within weeks of each other, each delivered with equal confidence. The first: the market ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/23/lexisnexis-webinar-ai-risk-governance-adoption",
+        "title": "LexisNexis Webinar: AI Risk, Governance + Adoption",
+        "url": "https://www.artificiallawyer.com/2026/06/23/lexisnexis-webinar-ai-risk-governance-adoption/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-23T07:28:37.000Z",
+        "summary": "On July 9th, LexisNexis in partnership with Artificial Lawyer, will be holding a panel-format webinar to explore ‘AI Risk, Governance + Adoption’. Panellists: To reserve ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/23/thomson-reuters-cto-joel-hron-on-the-deepjudge-deal",
+        "title": "Thomson Reuters CTO Joel Hron on the DeepJudge Deal",
+        "url": "https://www.artificiallawyer.com/2026/06/23/thomson-reuters-cto-joel-hron-on-the-deepjudge-deal/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-23T07:19:06.000Z",
+        "summary": "In this AL interview, Thomson Reuters CTO, Joel Hron, explores their expanding partnership with KM company DeepJudge. See the earlier story here. DeepJudge and TR ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/06/thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel-legal-saying-beta-users-fing-loved-the-product.html",
         "title": "Thomson Reuters Opens Early Access to the &#8216;Next Generation&#8217; of CoCounsel Legal, Saying Beta Users ‘F#@%ing Loved’ the Product",
@@ -79,7 +109,7 @@
       },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/luigi&",
-        "title": "Luigi Mangione’s lawyers withdraw plan to use &#8216;mental defect&#8217; defense for allegedly shooting UnitedHeathcare CEO",
+        "title": "Luigi Mangione’s lawyers withdraw plan to use &#8216;mental defect&#8217; defense for allegedly shooting UnitedHealthcare CEO",
         "url": "https://www.abajournal.com/news/article/luigi&#45;mangiones&#45;lawyers&#45;withdraw&#45;plan&#45;to&#45;use&#45;mental&#45;defect&#45;defense&#45;for&#45;allegedly&#45;shooting&#45;unitedheathcare&#45;ceo/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-06-22T12:03:00.000Z",
@@ -204,36 +234,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-18T13:00:41.000Z",
         "summary": "Following on from its recent deal with ServiceNow, Eudia has formed a partnership with Consilio. For its part, Consilio has also recently done its own ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/18/the-crosby-story-with-co-founder-ryan-daniels",
-        "title": "The Crosby Story &#8211; With Co-founder, Ryan Daniels",
-        "url": "https://www.artificiallawyer.com/2026/06/18/the-crosby-story-with-co-founder-ryan-daniels/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-18T09:32:46.000Z",
-        "summary": "Crosby was one of the original AI-first / NewMod law firms to come to market and it is growing fast. Here, Artificial Lawyer talks to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/18/perplexity-gets-serious-about-legal",
-        "title": "Perplexity Gets Serious About Legal",
-        "url": "https://www.artificiallawyer.com/2026/06/18/perplexity-gets-serious-about-legal/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-18T08:19:24.000Z",
-        "summary": "We’ve had OpenAI, Anthropic, Microsoft and Palantir enter the legal vertical. Perplexity – which has dabbled in our field before – is going into legal ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/18/harvey-trains-open-source-models-to-encode-law-firm-workflows",
-        "title": "Harvey Trains Open Source Models To Encode Law Firm Workflows",
-        "url": "https://www.artificiallawyer.com/2026/06/18/harvey-trains-open-source-models-to-encode-law-firm-workflows/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-18T06:50:35.000Z",
-        "summary": "Harvey CEO, Winston Weinberg, has confirmed to Artificial Lawyer that they are now doing Proof of Concept studies with law firms to train open source ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,21 +1210,21 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/gk0vlpy3hufsh4zkth2x",
-        "title": "2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海",
-        "url": "https://www.infoq.cn/article/gk0VlPy3hufsH4zKTh2X?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/2yiume6jxkgxk61lusij",
+        "title": "使用Azure Container Apps Sandboxes安全运行不受信任的AI智能体代码",
+        "url": "https://www.infoq.cn/article/2yiUMe6JxKGXK61luSIJ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-23T10:00:00.000Z",
+        "publishedAt": "2026-06-23T17:12:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/hg1rz8kimmfglirwscpv",
-        "title": "蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
-        "url": "https://www.infoq.cn/article/hG1Rz8KImMfgLirwscPv?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/0yjp8zxwuka656njsdpc",
+        "title": "Angular官方的智能体Skills助力AI编程工具生成现代化的Angular代码",
+        "url": "https://www.infoq.cn/article/0yjp8ZXwUkA656NjsdPC?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-23T10:00:00.000Z",
+        "publishedAt": "2026-06-23T16:15:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1240,12 +1240,52 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3865137028928774",
-        "title": "豆包大模型的日均tokens调用量达到180万亿",
-        "url": "https://36kr.com/newsflashes/3865137028928774?f=rss",
+        "id": "36Kr:36kr.com/p/3865523201692931",
+        "title": "主题圆桌：从无声到轰鸣，令人期待的消费硬件 | WAVES2026",
+        "url": "https://36kr.com/p/3865523201692931?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-23T02:20:42.000Z",
-        "summary": "在2026火山引擎force原动力大会上，火山引擎总裁谭待表示，截至2026年6月，豆包大模型日均tokens调用量达180万亿，较发布时增长超1500倍，过去一年增长超10倍。（财联社）",
+        "publishedAt": "2026-06-23T08:56:37.000Z",
+        "summary": "消费硬件曾经一度被投资人“冷落”，因为它太慢、太重、太不性感。但现在，一批新的消费硬件正在从无声到轰鸣。它们不靠故事，靠体验。不靠流量，靠复购。相信之后，是产品。这一场，我们来看一看那些被“最早相信的人”投出来的硬件，长成了什么样子。 以下为对话内容，经36氪整理编辑： 刘可心｜深渡资本 创始合伙人（主持人） 郑华良｜跃迁资本 创始合伙人 梁昊｜云启资本 执行董事 余乐｜绿动资本 管理合伙人 高俊巍｜复星锐正 董事总经理 刘可心：各位现",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3865513055540481",
+        "title": "氪星晚报｜索尼集团计划近三十年来首次发行美元债券；甲骨文上财年裁员约2.1万；豆包发布2.1 Pro模型",
+        "url": "https://36kr.com/p/3865513055540481?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-23T08:47:50.000Z",
+        "summary": "大公司： 甲骨文上财年裁员约2.1万 甲骨文上财年裁员约2.1万，减员规模大于此前已知水平，其中包括因使用人工智能（AI）而被取消的岗位。甲骨文周一在年度财务监管申报文件中称：“我们在各项业务中采用和部署AI技术，已经导致并且未来可能继续导致员工人数减少。” 英伟达宣布Vera Rubin NVL4系统Q4起供货 6月22日，英伟达宣布推出Vera Rubin超级计算平台，用于支撑气候建模、计算流体力学、能源勘探等高强度HPC与AI融合",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3865480064504835",
+        "title": "有智青年挑战赛暨全国AI+场景应用大赛决赛收官！在WAVES 2026的舞台上，挖掘中国下一代AI独角",
+        "url": "https://36kr.com/p/3865480064504835?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-23T08:16:45.000Z",
+        "summary": "有智青年挑战赛暨全国AI+场景应用大赛决赛在WAVES新浪潮大会期间举行，汇聚多支青年团队围绕AI与数字经济前沿场景展开角逐，展现青年创业者的技术探索与落地能力。 2026年，AI全面进入“行动者”时代。当大模型、智能体、具身智能从实验室的技术概念，全面走进千行百业的产业落地场景，AI工具的平民化与普及化，依托开源生态、轻量化开发工具与普惠算力，不断压低创新创业的成本，大批怀揣梦想的年轻群体获得入局AI赛道的机会。 创投圈由此产生了新的",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3865188719121668",
+        "title": "刚注册就成独角兽，具身创企昆仑行90天融资数十亿元｜36氪独家",
+        "url": "https://36kr.com/p/3865188719121668?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-23T03:18:18.000Z",
+        "summary": "离开阿里云一年多以后，前阿里集团副总裁、阿里云中国区总裁任庚，以昆仑行创始人的身份，再次切入AI的战场。这次他锚定的领域，是AI的落地终端——机器人。 36氪获悉，昆仑行机器人注册不到90天，已接连完成了3轮融资，累计融资规模为数十亿元。3轮融资后，公司估值已超十亿美元，成为具身行业独角兽。 这样的节奏显然刷新了具身智能行业的独角兽速度。 公司此前发布的信息显示，昆仑行机器人“对标特斯拉人形机器人这一行业标杆”，“坚持‘本体+大脑’双轮",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3865177262101513",
+        "title": "从用户决策到Agent参与，值得买科技分享AI时代品牌经营新课题",
+        "url": "https://36kr.com/p/3865177262101513?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-23T03:02:40.000Z",
+        "summary": "6月16日-17日，36氪WAVES 2026新浪潮大会在广州举行。17日，值得买科技营销FDE（Forward Deployed Engineer，即前沿部署工程师）朱越受邀出席并发表主题演讲，结合公司在AI消费服务与品牌营销场景中的一线实践，分享了Agent时代消费决策链路的变化，以及品牌在此环境下如何更精准地被AI看见、理解和选择。 作为36氪旗下年度重要科技创新活动，WAVES新浪潮大会汇聚创业者、投资机构及产业代表，围绕AI、",
         "category": "updates",
         "region": "cn"
       },
@@ -1270,16 +1310,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3865001641006081",
-        "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
-        "url": "https://36kr.com/p/3865001641006081?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-23T00:06:15.000Z",
-        "summary": "今日热点导览 三星电子向韩国所有员工开放ChatGPT和Codex 港股智谱暴涨，总市值突破1万亿港元 何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事 杨子卸任巨力集团职务 供应链公司：已向苹果首款折叠屏iPhone小批量供货 TOP3大新闻 纳指收跌1.3%，SpaceX下挫16%并跌破IPO首日收盘价 美股三大指数收盘涨跌不一，道指涨0.29%，纳指跌1.32%，标普500指数跌0.37%。SpaceX股价大跌16%，市值蒸发4000亿",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/hmme4jhktjuyjy9dnej2",
         "title": "xAI发布Grok Skills并更新用于工具调用的Responses API",
         "url": "https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&utm_medium=article",
@@ -1290,42 +1320,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3864071269569540",
-        "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
-        "url": "https://36kr.com/p/3864071269569540?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-22T10:00:50.000Z",
-        "summary": "当人形机器人在春晚上扭秧歌，在马拉松赛场上健步如飞，一个尴尬的现实浮出水面：机器人会动、很灵活，但不能干活——前者考验运动控制能力，后者还需要机器人真正理解物理环境，记住物体位置、推理空间关系。 感知瓶颈是今天几乎所有具身智能从业者都无法回避的现实。成立不到三个月的「映界科技」（MirrorSpace）正试图补齐具身智能产业链中的这个短板。映界科技由三位平均年龄仅有24岁的博士团队创办，专注具身机器人视觉空间感知系统的算法与硬件研发，致",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/lp2yijsarsnznzlgcrcx",
         "title": "复旦大学教授邱锡鹏确认出席AICon上海站，分享MOSS 多模态模型的创新与实践",
         "url": "https://www.infoq.cn/article/Lp2yijsaRsNZNzlgCRCx?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-06-22T10:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3864054145209602",
-        "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
-        "url": "https://36kr.com/p/3864054145209602?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-22T08:10:06.000Z",
-        "summary": "每一个创业者，都有一段“没人相信”的日子。但正是那段日子，把他们推向了浪尖。创业是鲜活的，接下来这一场，我们听一听那些在质疑声中长大的创业者，怎么把“不可能”变成“不，可能”。 以下为圆桌对话内容，经36氪整理编辑: 许嘉婧｜36氪后浪研究所 主理人（主持人） 徐子悦 ｜PhotonPay 光子易商务副总裁 程刚｜KOOK语音 创始人兼CEO 徐良威｜智域基石CTO 程二亭｜万拿机器人 创始人&CEO 薛昊昕｜潞晨科技 副总裁 陆弘远｜",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3864033017549832",
-        "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
-        "url": "https://36kr.com/p/3864033017549832?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-22T07:38:54.000Z",
-        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
         "category": "updates",
         "region": "cn"
       },
@@ -1350,6 +1350,17 @@
         "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3358032/alibaba-chip-unit-t-head-triples-capital-amid-ai-hardware-bet",
+        "title": "Alibaba chip unit T-Head triples capital amid AI hardware bet",
+        "url": "https://www.scmp.com/tech/big-tech/article/3358032/alibaba-chip-unit-t-head-triples-capital-amid-ai-hardware-bet?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-23T07:30:08.000Z",
+        "summary": "Alibaba Group Holding’s chip design unit T-Head has more than tripled its capital base, as the tech giant doubles down on efforts to become a domestic semiconductor powerhouse amid the artificial intelligence boom and Ch",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
