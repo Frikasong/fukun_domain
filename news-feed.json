@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T08:49:24.382Z",
+  "generatedAt": "2026-06-25T14:06:58.391Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/aba&",
+        "title": "ABA Free Legal Answers marks major milestone, responding to 500K questions",
+        "url": "https://www.abajournal.com/web/article/aba&#45;free&#45;legal&#45;answers&#45;marks&#45;major&#45;milestone&#45;responding&#45;to&#45;500k&#45;questions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-25T13:35:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/perplexity-makes-its-move-into-legal-unveiling-industry-features-at-computer-for-counsel-event.html",
+        "title": "Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event",
+        "url": "https://www.lawnext.com/2026/06/perplexity-makes-its-move-into-legal-unveiling-industry-features-at-computer-for-counsel-event.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-25T12:43:52.000Z",
+        "summary": "Perplexity, the AI search engine known for delivering sourced answers to user queries, is making an explicit move into the legal market, rolling out legal-specific features within its agentic platform, Perplexity Compute",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/ex&",
         "title": "Ex-judge settles case alleging harassment over &#8216;fancy&#8217; appearance, designer clothes, &#8216;flowy beachy hair&#8217;",
@@ -123,16 +143,6 @@
         "url": "https://www.abajournal.com/news/article/unsealed&#45;documents&#45;reveal&#45;concerns&#45;over&#45;tennesse&#45;judges&#45;fitness/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-06-23T17:34:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/leadership&",
-        "title": "Leadership perspectives from RelFest London 2026",
-        "url": "https://www.abajournal.com/columns/article/leadership&#45;perspectives&#45;from&#45;relfest&#45;london&#45;2026/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-23T16:46:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1178,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/03/aderant-adds-ai-powered-performance-evaluation-tools-to-its-vi-talent-management-suite.html",
-        "title": "Aderant Adds AI-Powered Performance Evaluation Tools to Its vi Talent Management Suite",
-        "url": "https://www.lawnext.com/2026/03/aderant-adds-ai-powered-performance-evaluation-tools-to-its-vi-talent-management-suite.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-18T12:45:05.000Z",
-        "summary": "Aderant, the Atlanta-based provider of business management software for law firms, today announced the addition of AI-powered capabilities to its vi by Aderant talent management suite, including AI-assisted employee perf",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,32 +1210,52 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/qulg64hln1fkchnmb1wj",
-        "title": "途虎养车基于 Apache Doris 构建统一 OLAP 数据底座，支撑用户画像与 BI 多维分析",
-        "url": "https://www.infoq.cn/article/QULg64hlN1FKcHNmb1wJ?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/gaaswkrjqw2nff06kgyg",
+        "title": "GitHub 推出 Copilot 桌面应用，支持并行 Agent 开发工作流",
+        "url": "https://www.infoq.cn/article/GaAsWkrJQW2NFf06kgyG?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-25T16:37:27.000Z",
+        "publishedAt": "2026-06-25T19:06:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/xebv3b8vy3yx0a4hzx4b",
+        "title": "Claude Code 工程一号位亲自给 Agent 热潮降温：狂烧 Token 时代已过，现在该算ROI了",
+        "url": "https://www.infoq.cn/article/XebV3B8Vy3Yx0A4HZX4b?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-25T16:54:29.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/hqc2uu1tppbmyyz2pfy8",
-        "title": "AI 编程代理拥有了自己的 Stack Overflow",
-        "url": "https://www.infoq.cn/article/hqc2uU1TPpbMyyz2pFy8?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/szkshgmpxfqmvbou4ibx",
+        "title": "狂烧 Token 却赚不到钱？这家清华系 AI Infra 独角兽已破解算力成本难题",
+        "url": "https://www.infoq.cn/article/szKShGMPxfQMVbOU4IbX?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-25T16:00:00.000Z",
+        "publishedAt": "2026-06-25T16:50:01.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/mgdwnu3yv3xgbrcfjvgv",
-        "title": "覆盖百所高校、万名学员，360 ADE认证纳入工信部紧缺人才培养工程",
-        "url": "https://www.infoq.cn/article/mgdwNU3yV3XgBrcfJvGv?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-25T15:29:35.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/p/3868596994069509",
+        "title": "抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重",
+        "url": "https://36kr.com/p/3868596994069509?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T13:42:26.000Z",
+        "summary": "减重1亿斤，是什么概念？ 简单算一笔“热量账”。按医学建议的安全减重速度（每周1-2斤）计算，一个人单打独斗，全部减完大概要花100多万年。 但如果把它拆分到全国人民身上，再加上专业健康AI“带减”，这个几乎不可能完成的目标就变得触手可及。 在国家卫健委等16部门联合倡议的“体重管理年”行动背景下，6月25日，AI健康应用“阿福”宣布正式上线“科学减重1亿斤”健康行动，包含三项核心动作：1分钱便能领的体脂秤，升级阿福的AI解读功能、为用",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3868586020066566",
+        "title": "苹果公司：人工智能数据中心的快速扩张导致内存需求激增",
+        "url": "https://36kr.com/newsflashes/3868586020066566?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T12:49:12.000Z",
+        "summary": "苹果公司称，人工智能数据中心的快速扩张导致内存需求激增，从未见过某个零部件价格如此大幅快速上涨；电子产品行业面临前所未有的挑战。（财联社）",
         "category": "updates",
         "region": "cn"
       },
@@ -1250,32 +1270,82 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3868334704464897",
-        "title": "商汤股东大会披露：企业级Token单月使用量迅速增长7倍",
-        "url": "https://36kr.com/newsflashes/3868334704464897?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3868531999659011",
+        "title": "昀冢科技：股票价格多次触及股票交易异常波动，公司将就股票交易波动情况进行停牌核查",
+        "url": "https://36kr.com/newsflashes/3868531999659011?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-25T08:33:33.000Z",
-        "summary": "36氪获悉，商汤科技在股东大会上首度公开披露企业级Token Plan最新运营数据：自2026年5月正式上线以来，商汤\"日日新\"大模型企业级Token使用量在单月内实现7倍迅速增长。在产品生态数据方面，根据披露，桌面智能体小浣熊（Raccoon）总服务人数已达2000万，服务超万家企业客户，WAU达到210万；AI内容创作平台Seko服务个人创作者超80万（同比增长4倍），企业客户逾1300家。依托4万+ Peta FLOPS自有算力集",
+        "publishedAt": "2026-06-25T12:14:01.000Z",
+        "summary": "36氪获悉 ，昀冢科技公告，公司股票自2026年5月7日至6月25日期间多次触及异常波动及严重异常波动，累计上涨277.95%，显著偏离基本面。为维护投资者利益，公司股票将于2026年6月26日开市起停牌，预计停牌不超过3个交易日。公司基本面未发生重大变化，MLCC业务主要应用于消费电子领域，未涉及AI算力服务器，且公司2025年净利润为负，资产负债率87.35%，存在估值较高、经营业绩波动等风险。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3868286241215748",
-        "title": "索尼宣布在日本停售人工智能机器狗aibo ERS-1000",
-        "url": "https://36kr.com/newsflashes/3868286241215748?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3868521224360961",
+        "title": "骄成超声：拟收购骄成半导体40%股权实现全资控股",
+        "url": "https://36kr.com/newsflashes/3868521224360961?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-25T07:50:27.000Z",
-        "summary": "索尼6月25日宣布，旗下智能机器狗aibo（ERS-1000/W象牙白款）将于库存售罄后终止在日本国内销售。公司表示，aibo基础套餐、高级套餐、护理支持服务、相关配件及零部件销售、My aibo应用程序、维修服务及aibo Dock等配套服务将继续维持，不受销售终止影响。索尼同时表示将继续开发新产品与服务，支持aibo与用户共同成长。（界面）",
+        "publishedAt": "2026-06-25T12:02:10.000Z",
+        "summary": "36氪获悉，骄成超声公告，公司拟收购控股子公司上海骄成半导体设备技术有限公司少数股东所持合计40%股权，交易对价合计2076.38万元。交易完成后，公司将持有骄成半导体100%股权。本次交易构成关联交易，尚需提交股东会审议。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3868285370733570",
-        "title": "C臻宝：已与美光半导体等知名国际厂商建立业务合作关系，尚未形成规模化销售",
-        "url": "https://36kr.com/newsflashes/3868285370733570?f=rss",
+        "id": "36Kr:36kr.com/p/3868523068298499",
+        "title": "美光的好财报，黄金的坏消息",
+        "url": "https://36kr.com/p/3868523068298499?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-25T07:43:22.000Z",
-        "summary": "36氪获悉，C臻宝在互动平台表示，公司主营硅、石英、碳化硅、氧化铝陶瓷半导体设备零部件，相关产品可广泛用于集成电路等离子体刻蚀、薄膜沉积工艺设备，适配存储、逻辑芯片先进制造产线。海外客户拓展方面，公司已实现对海力士等外资晶圆厂商稳定批量供货；已与美光半导体等知名国际厂商建立了业务合作关系，尚未形成规模化销售。",
+        "publishedAt": "2026-06-25T11:49:32.000Z",
+        "summary": "美东时间6月24日，存储巨头美光科技发布了2026 财年第三财季财报。数据显示，2026财年第三季度，公司实现收入415 亿美元，环比增长 74%，同比增长346%，连续第五个季度刷新历史纪录。同期，公司合并毛利率录得84.9%，环比提高10个百分点；经营现金流达到254亿美元，自由现金流为183亿美元，均创季度新高。 在业绩远超市场预期的同时，财报及后续的电话会中，美光还披露了16份SCA的细节，表示即便按照价格下限计算，现有签约订单",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3868498700440583",
+        "title": "腾讯云EdgeOne Makers登顶Product Hunt日榜",
+        "url": "https://36kr.com/newsflashes/3868498700440583?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T11:47:15.000Z",
+        "summary": "36氪获悉，6月25日，腾讯云旗下EdgeOne Makers登顶全球科技产品社区Product Hunt日榜第一。据了解，EdgeOne Makers是腾讯云推出的边缘开发托管平台，原生支持Web应用与AI Agent从开发、部署到托管的全流程。该平台由腾讯云边缘全栈开发平台升级而来，此前已服务超30万名用户、累计托管站点超60万个，本次升级将托管范围从Web延伸至AI Agent。",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3868502221018370",
+        "title": "氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟",
+        "url": "https://36kr.com/p/3868502221018370?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T11:44:15.000Z",
+        "summary": "大公司： 百度：已有1500万人使用百度AI志愿助手填报 36氪获悉，6月25日，百度官方发布数据：截至目前，今年高考期间累计约有2.5亿用户、超12亿人次使用了百度高考服务，其中1500万人使用百度AI志愿助手填报志愿。 名创优品寇维宣：乐园系门店年内破百家 36氪获悉，名创优品集团全球副总裁兼首席渠道发展官寇维宣透露，名创优品乐园系门店正加速扩张，预计年内全球将突破100家。依托超级IP与超级门店双轮驱动，名创优品致力于成为全球领先",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3868515817772039",
+        "title": "“Airwallex空中云汇”完成3.2亿美元H轮融资，估值达110亿美元",
+        "url": "https://36kr.com/newsflashes/3868515817772039?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T11:37:47.000Z",
+        "summary": "36氪获悉，“Airwallex空中云汇”宣布完成3.2亿美元的H轮融资。此轮融资后，其估值将达到110亿美元。本轮融资由老股东Addition领投，Baillie Gifford、Hummingbird、QED Investors、T. Rowe Price、Hedosophia、Haun Ventures、Washington University in St. Louis 以及 Amex Ventures（美国运通风险投资基金）等",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3868497171109126",
+        "title": "外资看好中国，中国词元调用量连续7周霸榜全球",
+        "url": "https://36kr.com/newsflashes/3868497171109126?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T11:35:41.000Z",
+        "summary": "今年的夏季达沃斯会场，处处都能感受到科技创新的气息，诸多创新技术正走出实验室，渗透进制造业、能源系统、医疗体系乃至日常生活中。参会嘉宾也表示，中国企业在AI应用方面领跑全球。 德勤中国首席执行官刘明华表示，中��token（词元）调用量连续7周霸榜全球。麦肯锡中国区主席倪以理表示：“为什么中国公司走得更快，是因为他们对于科技的信任感，对科技的好奇，对科技的拥抱，我认为是比任何一个地方的企业都快。”敦豪全球货运大中华区首席执行官艾若馨表示",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3868349472920576",
+        "title": "开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年",
+        "url": "https://36kr.com/p/3868349472920576?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T09:19:27.000Z",
+        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以 ‘今年盛夏’ 为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬",
         "category": "updates",
         "region": "cn"
       },
@@ -1286,16 +1356,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-25T07:42:21.000Z",
         "summary": "作者｜黄楠 编辑｜袁斯来 6月24日，通用具身智能企业RoboScience机器科学通用具身大模型发布，首次完整披露自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。 大语言模型有标准的文本Token，自动驾驶有统一的视觉或点云表征，这些基础格式的确定，让数据和模型可以在不同场景之间复用。但具身智能至今没有一个被行业公",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3868256355193860",
-        "title": "2026全球独角兽榜单出炉 DeepSeek以3400亿元价值跻身前15名",
-        "url": "https://36kr.com/newsflashes/3868256355193860?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T07:13:51.000Z",
-        "summary": "6月25日，胡润研究院发布的《2026全球独角兽榜》显示，作为全球308家新晋独角兽企业的榜首，DeepSeek以3400亿元的价值跻身全球独角兽企业前15名。（证券时报）",
         "category": "updates",
         "region": "cn"
       },
@@ -1330,36 +1390,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3867975570035717",
-        "title": "36氪首发 | 固态变压器领域累计出货超50MW，功率半导体模组厂商完成数千万元融资",
-        "url": "https://36kr.com/p/3867975570035717?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T02:29:39.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，矽迪半导体近日完成数千万元人民币天使轮+融资，由苏创投和婧嘉投资共同投资，后浪资本担任战略财务顾问。本轮融资资金将主要用于固态变压器（SST）功率模组研发、产品迭代以及供应链体系建设。 矽迪半导体成立于2023年，主要从事功率半导体模组的研发、制造与销售，产品覆盖全碳化硅（SiC）功率模组、IGBT+SiC混合模组以及定制化功率解决方案，应用方向包括光伏储能、数据中心电源以及固态变压器等场景",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3866562600227847",
-        "title": "光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
-        "url": "https://36kr.com/p/3866562600227847?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T01:00:00.000Z",
-        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’ 变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3867827741086728",
-        "title": "8点1氪丨SK海力士已提交美国IPO申请；马斯克身家蒸发3400亿美元，已不是万亿富豪；券商暂停股票类跨境TRS新增",
-        "url": "https://36kr.com/p/3867827741086728?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T00:00:14.000Z",
-        "summary": "今日热点导览 豆包专业版正式上线，采用三级阶梯定价方案 半导体新股暴涨900%，中一签该股最高盈利超20万元 以色列证实向伊朗偷运数万台“星链”接收器 霍尔木兹海峡对商船完全开放60天，国际油价下跌 券商暂停股票类跨境TRS新增，后续业务规模或将逐步归零 消息称苹果将于7月下旬量产首款可折叠iPhone TOP3大新闻 SK海力士已提交美国IPO申请 据报道，SK海力士已提交美国IPO申请，计划在纳斯达克上市。富邦证券、花旗集团、高盛、",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/dyiuw7abcw7zyi1oer9i",
         "title": "Anthropic 解释了 Claude 如何构建自己的执行框架",
         "url": "https://www.infoq.cn/article/DYIUw7abCW7ZYI1OER9i?utm_source=rss&utm_medium=article",
@@ -1370,6 +1400,17 @@
         "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3358314/hang-seng-index-briefly-slips-below-23000-alibaba-leads-tech-sell",
+        "title": "Hang Seng Index briefly slips below 23,000 as Alibaba slumps to 16-month low",
+        "url": "https://www.scmp.com/business/china-business/article/3358314/hang-seng-index-briefly-slips-below-23000-alibaba-leads-tech-sell?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-25T07:07:52.000Z",
+        "summary": "A sell-off in Chinese technology stocks drove Hong Kong’s benchmark index briefly below the 23,000-point mark for the first time in a year, as Alibaba Group Holding slumped to a 16-month low after US artificial intellige",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
