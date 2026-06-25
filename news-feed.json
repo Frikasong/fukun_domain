@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T14:06:58.391Z",
+  "generatedAt": "2026-06-25T19:47:00.364Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
+        "title": "Judge tosses free speech claim of former public defender who alleged burnout",
+        "url": "https://www.abajournal.com/news/article/judge&#45;tosses&#45;free&#45;speech&#45;claim&#45;of&#45;public&#45;defender&#45;who&#45;alleges&#45;burnout/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-25T16:43:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/9th&",
+        "title": "9th Circuit allows religious bias lawsuit against Alaska Airlines to move forward",
+        "url": "https://www.abajournal.com/news/article/9th&#45;circuit&#45;allows&#45;religious&#45;bias&#45;lawsuit&#45;against&#45;alaska&#45;airlines&#45;to&#45;move&#45;forward/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-25T16:26:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/aclu&",
+        "title": "ACLU leader and social justice advocate Anthony D. Romero to receive ABA Thurgood Marshall Award",
+        "url": "https://www.abajournal.com/news/article/aclu&#45;leader&#45;and&#45;social&#45;justice&#45;advocate&#45;anthony&#45;d&#45;romero&#45;to&#45;receive&#45;aba&#45;thurgood&#45;marshall&#45;award/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-25T14:28:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/aba&",
         "title": "ABA Free Legal Answers marks major milestone, responding to 500K questions",
@@ -43,16 +73,6 @@
         "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;bars&#45;government&#45;from&#45;arrests&#45;in&#45;immigration&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-06-24T17:03:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
-        "title": "Judge reveals reason for denying SCOTUSblog founder Tom Goldstein&#8217;s acquittal, new trial",
-        "url": "https://www.abajournal.com/news/article/judge&#45;reveals&#45;reason&#45;for&#45;denying&#45;goldstein&#45;acquittal&#45;new&#45;trial/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-24T16:33:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -114,36 +134,6 @@
         "source": "OpenAI News",
         "publishedAt": "2026-06-24T06:00:00.000Z",
         "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/voice/article/why&",
-        "title": "Why high-performing lawyers don&#8217;t advance",
-        "url": "https://www.abajournal.com/voice/article/why&#45;high&#45;performing&#45;lawyers&#45;dont&#45;advance/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-23T20:59:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/plaintiffs&",
-        "title": "Plaintiffs attorneys in 2 multidistrict litigations face sanctions for protective order document breach",
-        "url": "https://www.abajournal.com/news/article/plaintiffs&#45;attorneys&#45;in&#45;2&#45;mdls&#45;face&#45;sanctions&#45;for&#45;protective&#45;order&#45;breach/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-23T19:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/unsealed&",
-        "title": "Unsealed documents reveal concerns over former judge&#8217;s fitness to serve on bench",
-        "url": "https://www.abajournal.com/news/article/unsealed&#45;documents&#45;reveal&#45;concerns&#45;over&#45;tennesse&#45;judges&#45;fitness/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-23T17:34:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1206,6 +1196,16 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
@@ -1335,7 +1335,7 @@
         "url": "https://36kr.com/newsflashes/3868497171109126?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-25T11:35:41.000Z",
-        "summary": "今年的夏季达沃斯会场，处处都能感受到科技创新的气息，诸多创新技术正走出实验室，渗透进制造业、能源系统、医疗体系乃至日常生活中。参会嘉宾也表示，中国企业在AI应用方面领跑全球。 德勤中国首席执行官刘明华表示，中��token（词元）调用量连续7周霸榜全球。麦肯锡中国区主席倪以理表示：“为什么中国公司走得更快，是因为他们对于科技的信任感，对科技的好奇，对科技的拥抱，我认为是比任何一个地方的企业都快。”敦豪全球货运大中华区首席执行官艾若馨表示",
+        "summary": "今年的夏季达沃斯会场，处处都能感受到科技创新的气息，诸多创新技术正走出实验室，渗透进制造业、能源系统、医疗体系乃至日常生活中。参会嘉宾也表示，中国企业在AI应用方面领跑全球。 德勤中国首席执行官刘明华表示，中国token（词元）调用量连续7周霸榜全球。麦肯锡中国区主席倪以理表示：“为什么中国公司走得更快，是因为他们对于科技的信任感，对科技的好奇，对科技的拥抱，我认为是比任何一个地方的企业都快。”敦豪全球货运大中华区首席执行官艾若馨表示：",
         "category": "updates",
         "region": "cn"
       },
