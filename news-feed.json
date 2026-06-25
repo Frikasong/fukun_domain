@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T02:33:20.505Z",
+  "generatedAt": "2026-06-25T08:49:24.382Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,22 +1210,122 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/impqmxeffgd1uabjixhr",
-        "title": "上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
-        "url": "https://www.infoq.cn/article/IMpqMxeFFGD1UabjiXHr?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/qulg64hln1fkchnmb1wj",
+        "title": "途虎养车基于 Apache Doris 构建统一 OLAP 数据底座，支撑用户画像与 BI 多维分析",
+        "url": "https://www.infoq.cn/article/QULg64hlN1FKcHNmb1wJ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-25T10:00:00.000Z",
+        "publishedAt": "2026-06-25T16:37:27.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ctbo8axuctqqncjwqoui",
-        "title": "Java 近期新闻：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle",
-        "url": "https://www.infoq.cn/article/Ctbo8axuctQqNcJWQouI?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/hqc2uu1tppbmyyz2pfy8",
+        "title": "AI 编程代理拥有了自己的 Stack Overflow",
+        "url": "https://www.infoq.cn/article/hqc2uU1TPpbMyyz2pFy8?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-25T09:08:34.000Z",
+        "publishedAt": "2026-06-25T16:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/mgdwnu3yv3xgbrcfjvgv",
+        "title": "覆盖百所高校、万名学员，360 ADE认证纳入工信部紧缺人才培养工程",
+        "url": "https://www.infoq.cn/article/mgdwNU3yV3XgBrcfJvGv?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-25T15:29:35.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/kfcaakexqdsmrdcxr4p1",
+        "title": "这家Agent 公司从 Claude 切到 DeepSeek v4：一年省下数百万美元，迁移工作量却是预期的 100 倍",
+        "url": "https://www.infoq.cn/article/KfCaAKEXqDsmrDCxr4P1?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-25T12:43:30.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3868334704464897",
+        "title": "商汤股东大会披露：企业级Token单月使用量迅速增长7倍",
+        "url": "https://36kr.com/newsflashes/3868334704464897?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T08:33:33.000Z",
+        "summary": "36氪获悉，商汤科技在股东大会上首度公开披露企业级Token Plan最新运营数据：自2026年5月正式上线以来，商汤\"日日新\"大模型企业级Token使用量在单月内实现7倍迅速增长。在产品生态数据方面，根据披露，桌面智能体小浣熊（Raccoon）总服务人数已达2000万，服务超万家企业客户，WAU达到210万；AI内容创作平台Seko服务个人创作者超80万（同比增长4倍），企业客户逾1300家。依托4万+ Peta FLOPS自有算力集",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3868286241215748",
+        "title": "索尼宣布在日本停售人工智能机器狗aibo ERS-1000",
+        "url": "https://36kr.com/newsflashes/3868286241215748?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T07:50:27.000Z",
+        "summary": "索尼6月25日宣布，旗下智能机器狗aibo（ERS-1000/W象牙白款）将于库存售罄后终止在日本国内销售。公司表示，aibo基础套餐、高级套餐、护理支持服务、相关配件及零部件销售、My aibo应用程序、维修服务及aibo Dock等配套服务将继续维持，不受销售终止影响。索尼同时表示将继续开发新产品与服务，支持aibo与用户共同成长。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3868285370733570",
+        "title": "C臻宝：已与美光半导体等知名国际厂商建立业务合作关系，尚未形成规模化销售",
+        "url": "https://36kr.com/newsflashes/3868285370733570?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T07:43:22.000Z",
+        "summary": "36氪获悉，C臻宝在互动平台表示，公司主营硅、石英、碳化硅、氧化铝陶瓷半导体设备零部件，相关产品可广泛用于集成电路等离子体刻蚀、薄膜沉积工艺设备，适配存储、逻辑芯片先进制造产线。海外客户拓展方面，公司已实现对海力士等外资晶圆厂商稳定批量供货；已与美光半导体等知名国际厂商建立了业务合作关系，尚未形成规模化销售。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3868276479710466",
+        "title": "RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线",
+        "url": "https://36kr.com/p/3868276479710466?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T07:42:21.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 6月24日，通用具身智能企业RoboScience机器科学通用具身大模型发布，首次完整披露自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。 大语言模型有标准的文本Token，自动驾驶有统一的视觉或点云表征，这些基础格式的确定，让数据和模型可以在不同场景之间复用。但具身智能至今没有一个被行业公",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3868256355193860",
+        "title": "2026全球独角兽榜单出炉 DeepSeek以3400亿元价值跻身前15名",
+        "url": "https://36kr.com/newsflashes/3868256355193860?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T07:13:51.000Z",
+        "summary": "6月25日，胡润研究院发布的《2026全球独角兽榜》显示，作为全球308家新晋独角兽企业的榜首，DeepSeek以3400亿元的价值跻身全球独角兽企业前15名。（证券时报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3868045479711745",
+        "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
+        "url": "https://36kr.com/p/3868045479711745?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T05:23:29.000Z",
+        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3867998907667462",
+        "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
+        "url": "https://36kr.com/p/3867998907667462?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T03:42:26.000Z",
+        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3868029247034371",
+        "title": "实现光学载荷批量化交付，苏州商业航天企业再获数亿元融资｜36氪首发",
+        "url": "https://36kr.com/p/3868029247034371?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T03:26:07.000Z",
+        "summary": "文 | 阿至 商业航天投资关注度持续向产业链上游延伸。 从押注火箭运力、卫星平台和星座运营的宏大叙事，到元器件国产化、核心部件性能跃升，具有自研技术壁垒、能够批产交付并更快跑通商业闭环的上游供应商，正成为抢手的投资标的。 36氪获悉，宇航级光学载荷研发制造商苏州吉天星舟空间技术有限公司（以下简称“吉天星舟”）已 完成数亿元B轮融资，由苏高新金控、和基资本、卓璞资本、聚合资本、元禾原点、元禾厚望、致道资本、中时资本、邦盛资本等机构联合投资",
         "category": "updates",
         "region": "cn"
       },
@@ -1240,16 +1340,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3867902250161156",
-        "title": "美团陶雪璇：大众点评将在AI时代放大物理世界的真实信任",
-        "url": "https://36kr.com/newsflashes/3867902250161156?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T01:13:38.000Z",
-        "summary": "6月24日，大众点评“必吃榜”在上海揭晓10周年成绩单，同日“必玩榜”焕新发布。美团副总裁、点评事业部总经理陶雪璇在现场表示，大众点评将在AI时代放大物理世界的真实信任。过去一年，有1.3亿用户在外出就餐后，在大众点评留下4亿条真实美食评价，体现了平台“用户推荐给用户”的社区底色。过去一年，大众点评持续推进星级评分体系升级，率先引入AI辅助评价审核，处理AIGC评价1161万条左右，进一步推动评价生态的社会共治，筑牢信任基础。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3866562600227847",
         "title": "光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
         "url": "https://36kr.com/p/3866562600227847?f=rss",
@@ -1257,16 +1347,6 @@
         "publishedAt": "2026-06-25T01:00:00.000Z",
         "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’ 变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
         "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3867880572048386",
-        "title": "华泰证券：科技或仍是主线，但表观拥挤度已处于高位",
-        "url": "https://36kr.com/newsflashes/3867880572048386?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T00:51:35.000Z",
-        "summary": "36氪获悉，华泰证券研报称，全球AI产业周期共振、算力需求和国产替代相互强化背景下，科技或仍是主线；但表观拥挤度已处于高位，叠加市场对Tokenmaxxing的讨论趋于白热化，后续B端对ROI、实际交付量等考核指标或更加重视，建议密切跟踪产业趋势，同时适度控制仓位、谨慎追高，关注国产大模型、光模块、存储/CCL、MLCC、MPO等细分环节。",
-        "category": "updates",
         "region": "cn"
       },
       {
@@ -1288,109 +1368,8 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3867032586867972",
-        "title": "氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观",
-        "url": "https://36kr.com/p/3867032586867972?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-24T10:35:25.000Z",
-        "summary": "大公司： 华东医药：全资子公司获得注射用HDM2005药物临床试验批准通知书 36氪获悉，华东医药公告，全资子公司杭州中美华东制药有限公司收到国家药监局核准签发的《药物临床试验批准通知书》，注射用HDM2005联合PD-1单抗和AD用于治疗经典型霍奇金淋巴瘤的临床试验申请获批。该药物为靶向ROR1的ADC药物，目前正围绕恶性肿瘤开展多适应症临床开发。本次获批将提升公司在肿瘤治疗领域的核心竞争力，但药物从临床试验到上市存在不确定性，对近期",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3865060112438533",
-        "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
-        "url": "https://36kr.com/p/3865060112438533?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-24T10:06:36.000Z",
-        "summary": "文｜王欣逸 编辑｜张雨忻 2026 年开年来，3D 生成模型赛道相当热闹。 今年第一季度，影眸科技发布首个 3D 编辑模型 Rodin Gen-2 Edit，让 AI 3D 模型第一次可编辑；今年 6 月，VAST 官宣了新一轮融资，Meshy 也紧随其后，宣称自己发布了全球首款 3D AI Agent。 近日，影眸科技——这支扎根学术圈、创业早、年轻的 3D 模型团队，带着最新的技术研究成果，以及新一轮融资，再添了一把火。 这支团队创",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3866900608701449",
-        "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
-        "url": "https://36kr.com/p/3866900608701449?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-24T08:17:52.000Z",
-        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3866854221698313",
-        "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
-        "url": "https://36kr.com/p/3866854221698313?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-24T07:31:56.000Z",
-        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3866787672773888",
-        "title": "圆桌论坛：2026 科技的这一年 “少数，即浪潮” | 36氪WAVES2026新浪潮",
-        "url": "https://36kr.com/p/3866787672773888?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-24T06:39:25.000Z",
-        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3866649515938825",
-        "title": "AI × OPC的新可能：一个人，就是一支队伍｜2026WAVES",
-        "url": "https://36kr.com/p/3866649515938825?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-24T04:00:08.000Z",
-        "summary": "2026年6月16日，36氪2026 WAVES 新浪潮大会在广州番禺良仓新造创意园开幕。以下这场圆桌论坛是大会首日下午的收官议题，探讨 AI 时代 OPC（One Person Company）的真实生态。 八九十年代，一辆三轮车、一个摊位，就能撑起一门生意。今天的 OPC 看起来形似，但底层逻辑已经彻底不同。 过去个体户的杠杆是体力、经验和地理位置，本质上是基于本地的 LBS 服务，脱不开那个具体的摊位。今天 OPC 的杠杆是代码和",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/5iz5ew8npqxivvpfphdk",
-        "title": "腾讯云发布边缘 Web 与 AI Agent 托管平台 EdgeOne Makers：一键开发部署，分钟级全球上线",
-        "url": "https://www.infoq.cn/article/5iz5ew8NpQXIvvpFphDk?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-23T17:46:31.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/0yjp8zxwuka656njsdpc",
-        "title": "Angular官方的智能体Skills助力AI编程工具生成现代化的Angular代码",
-        "url": "https://www.infoq.cn/article/0yjp8ZXwUkA656NjsdPC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-23T16:15:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3358264/chinas-jcet-build-new-plant-shanghai-expand-advanced-chip-packaging",
-        "title": "China’s JCET to build new plant in Shanghai to expand advanced chip packaging",
-        "url": "https://www.scmp.com/tech/article/3358264/chinas-jcet-build-new-plant-shanghai-expand-advanced-chip-packaging?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-25T00:30:15.000Z",
-        "summary": "Chinese chip-packaging and testing giant Jiangsu Changjiang Electronics Technology (JCET) says it will invest 7.8 billion yuan (US$1.15 billion) to build a new plant, as demand for home-grown chips continues to surge ami",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3358158/banks-are-rushing-recruit-ai-leadership-how-will-tech-be-implemented",
-        "title": "Banks are rushing to recruit AI leadership – but how will the tech be implemented?",
-        "url": "https://www.scmp.com/business/banking-finance/article/3358158/banks-are-rushing-recruit-ai-leadership-how-will-tech-be-implemented?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-24T05:07:34.000Z",
-        "summary": "Both regulators and clients could motivate banks to adopt artificial intelligence for greater efficiency gains in the coming years, an Amazon Web Services (AWS) executive has predicted, adding the trend could intensify t",
-        "category": "skills",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
