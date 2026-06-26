@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T19:47:00.364Z",
+  "generatedAt": "2026-06-26T02:35:40.667Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/pa&",
+        "title": "Judge refuses to appoint man as constable because of alleged &#8216;checkered&#8217; past",
+        "url": "https://www.abajournal.com/news/article/pa&#45;judge&#45;refuses&#45;to&#45;appoint&#45;man&#45;constable&#45;because&#45;of&#45;checkered&#45;past/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-25T19:51:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/judge&",
         "title": "Judge tosses free speech claim of former public defender who alleged burnout",
@@ -108,16 +118,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former crime lab scientist pleads guilty to mishandling sexual assault evidence",
-        "url": "https://www.abajournal.com/news/article/former&#45;colorado&#45;crime&#45;lab&#45;scientist&#45;pleads&#45;guilty&#45;to&#45;mishandling&#45;sexual&#45;assault&#45;evidence/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-24T14:40:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/abstract-extends-its-legislative-intelligence-into-agentic-workflow-automation-with-launch-of-abstract-workers.html",
         "title": "Abstract Extends Its Legislative Intelligence into Agentic Workflow Automation with Launch of &#8216;Abstract Workers&#8217;",
         "url": "https://www.lawnext.com/2026/06/abstract-extends-its-legislative-intelligence-into-agentic-workflow-automation-with-launch-of-abstract-workers.html",
@@ -125,16 +125,6 @@
         "publishedAt": "2026-06-24T13:19:41.000Z",
         "summary": "When I wrote about Abstract in April, I reported on how the New York-based startup was making a push into the market for legislative and regulatory monitoring, alerting law firms and corporate legal teams to the bills an",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/openai-broadcom-jalapeno-inference-chip",
-        "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-        "source": "OpenAI News",
-        "publishedAt": "2026-06-24T06:00:00.000Z",
-        "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,9 +1196,79 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jd3vgzlzcu67cq2ywfgy",
+        "title": "轻量级ADR与架构咨询例会如何支撑架构决策工作",
+        "url": "https://www.infoq.cn/article/jd3VGzLzCU67Cq2yWFGy?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-26T10:30:01.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ieyp4qboeuv5g7wjrykz",
+        "title": "云端 AI 治理：架构师实操指南",
+        "url": "https://www.infoq.cn/article/IeYP4QboeUV5g7wJRYkZ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-26T09:40:35.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3869383394170112",
+        "title": "北京头部大模型累计注册用户达到了20.5亿",
+        "url": "https://36kr.com/newsflashes/3869383394170112?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-26T02:20:20.000Z",
+        "summary": "36氪获悉，据网信北京消息，6月25日，北京市人民政府新闻办公室举行2026全球数字经济大会新闻发布会。会上介绍，截至目前，北京头部大模型累计注册用户达到了20.5亿，面向全国近5万家机构提供API的接口服务，龙头企业示范引领、辐射带动效应持续凸显。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3869378164397313",
+        "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
+        "url": "https://36kr.com/p/3869378164397313?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-26T02:17:40.000Z",
+        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
+        "category": "articles",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3867943030395913",
+        "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+        "url": "https://36kr.com/p/3867943030395913?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-26T00:00:00.000Z",
+        "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。 念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（surface electromyography，简称sEMG）神经接口设备。它不直接采集大脑皮层信号，而是通过手腕处的神经肌肉电信号，解析手",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3869243269387269",
+        "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
+        "url": "https://36kr.com/p/3869243269387269?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-25T23:57:55.000Z",
+        "summary": "今日热点导览 Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名 建设银行：将于7月24日日终清算���起关闭代理上海黄金交易所个人贵金属交易业务功能 马斯克曾直言混动车只是过渡阶段 韩国5200万人开了1.08亿股票账户，半年增超1000万 逾八成澳大利亚未成年人“绕过”了社媒禁令 IBM发布全球首款亚纳米芯片技术 TOP 3大新闻 苹果官宣涨价：iPad和Mac率先调价 6月25日，记者获悉，因内存和",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/gaaswkrjqw2nff06kgyg",
         "title": "GitHub 推出 Copilot 桌面应用，支持并行 Agent 开发工作流",
@@ -1250,42 +1310,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3868586020066566",
-        "title": "苹果公司：人工智能数据中心的快速扩张导致内存需求激增",
-        "url": "https://36kr.com/newsflashes/3868586020066566?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T12:49:12.000Z",
-        "summary": "苹果公司称，人工智能数据中心的快速扩张导致内存需求激增，从未见过某个零部件价格如此大幅快速上涨；电子产品行业面临前所未有的挑战。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/kfcaakexqdsmrdcxr4p1",
         "title": "这家Agent 公司从 Claude 切到 DeepSeek v4：一年省下数百万美元，迁移工作量却是预期的 100 倍",
         "url": "https://www.infoq.cn/article/KfCaAKEXqDsmrDCxr4P1?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-06-25T12:43:30.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3868531999659011",
-        "title": "昀冢科技：股票价格多次触及股票交易异常波动，公司将就股票交易波动情况进行停牌核查",
-        "url": "https://36kr.com/newsflashes/3868531999659011?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T12:14:01.000Z",
-        "summary": "36氪获悉 ，昀冢科技公告，公司股票自2026年5月7日至6月25日期间多次触及异常波动及严重异常波动，累计上涨277.95%，显著偏离基本面。为维护投资者利益，公司股票将于2026年6月26日开市起停牌，预计停牌不超过3个交易日。公司基本面未发生重大变化，MLCC业务主要应用于消费电子领域，未涉及AI算力服务器，且公司2025年净利润为负，资产负债率87.35%，存在估值较高、经营业绩波动等风险。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3868521224360961",
-        "title": "骄成超声：拟收购骄成半导体40%股权实现全资控股",
-        "url": "https://36kr.com/newsflashes/3868521224360961?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T12:02:10.000Z",
-        "summary": "36氪获悉，骄成超声公告，公司拟收购控股子公司上海骄成半导体设备技术有限公司少数股东所持合计40%股权，交易对价合计2076.38万元。交易完成后，公司将持有骄成半导体100%股权。本次交易构成关联交易，尚需提交股东会审议。",
         "category": "updates",
         "region": "cn"
       },
@@ -1300,42 +1330,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3868498700440583",
-        "title": "腾讯云EdgeOne Makers登顶Product Hunt日榜",
-        "url": "https://36kr.com/newsflashes/3868498700440583?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T11:47:15.000Z",
-        "summary": "36氪获悉，6月25日，腾讯云旗下EdgeOne Makers登顶全球科技产品社区Product Hunt日榜第一。据了解，EdgeOne Makers是腾讯云推出的边缘开发托管平台，原生支持Web应用与AI Agent从开发、部署到托管的全流程。该平台由腾讯云边缘全栈开发平台升级而来，此前已服务超30万名用户、累计托管站点超60万个，本次升级将托管范围从Web延伸至AI Agent。",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3868502221018370",
         "title": "氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟",
         "url": "https://36kr.com/p/3868502221018370?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-25T11:44:15.000Z",
         "summary": "大公司： 百度：已有1500万人使用百度AI志愿助手填报 36氪获悉，6月25日，百度官方发布数据：截至目前，今年高考期间累计约有2.5亿用户、超12亿人次使用了百度高考服务，其中1500万人使用百度AI志愿助手填报志愿。 名创优品寇维宣：乐园系门店年内破百家 36氪获悉，名创优品集团全球副总裁兼首席渠道发展官寇维宣透露，名创优品乐园系门店正加速扩张，预计年内全球将突破100家。依托超级IP与超级门店双轮驱动，名创优品致力于成为全球领先",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3868515817772039",
-        "title": "“Airwallex空中云汇”完成3.2亿美元H轮融资，估值达110亿美元",
-        "url": "https://36kr.com/newsflashes/3868515817772039?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T11:37:47.000Z",
-        "summary": "36氪获悉，“Airwallex空中云汇”宣布完成3.2亿美元的H轮融资。此轮融资后，其估值将达到110亿美元。本轮融资由老股东Addition领投，Baillie Gifford、Hummingbird、QED Investors、T. Rowe Price、Hedosophia、Haun Ventures、Washington University in St. Louis 以及 Amex Ventures（美国运通风险投资基金）等",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3868497171109126",
-        "title": "外资看好中国，中国词元调用量连续7周霸榜全球",
-        "url": "https://36kr.com/newsflashes/3868497171109126?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T11:35:41.000Z",
-        "summary": "今年的夏季达沃斯会场，处处都能感受到科技创新的气息，诸多创新技术正走出实验室，渗透进制造业、能源系统、医疗体系乃至日常生活中。参会嘉宾也表示，中国企业在AI应用方面领跑全球。 德勤中国首席执行官刘明华表示，中国token（词元）调用量连续7周霸榜全球。麦肯锡中国区主席倪以理表示：“为什么中国公司走得更快，是因为他们对于科技的信任感，对科技的好奇，对科技的拥抱，我认为是比任何一个地方的企业都快。”敦豪全球货运大中华区首席执行官艾若馨表示：",
         "category": "updates",
         "region": "cn"
       },
@@ -1360,36 +1360,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3868045479711745",
-        "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
-        "url": "https://36kr.com/p/3868045479711745?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T05:23:29.000Z",
-        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3867998907667462",
-        "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
-        "url": "https://36kr.com/p/3867998907667462?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T03:42:26.000Z",
-        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3868029247034371",
-        "title": "实现光学载荷批量化交付，苏州商业航天企业再获数亿元融资｜36氪首发",
-        "url": "https://36kr.com/p/3868029247034371?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T03:26:07.000Z",
-        "summary": "文 | 阿至 商业航天投资关注度持续向产业链上游延伸。 从押注火箭运力、卫星平台和星座运营的宏大叙事，到元器件国产化、核心部件性能跃升，具有自研技术壁垒、能够批产交付并更快跑通商业闭环的上游供应商，正成为抢手的投资标的。 36氪获悉，宇航级光学载荷研发制造商苏州吉天星舟空间技术有限公司（以下简称“吉天星舟”）已 完成数亿元B轮融资，由苏高新金控、和基资本、卓璞资本、聚合资本、元禾原点、元禾厚望、致道资本、中时资本、邦盛资本等机构联合投资",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/dyiuw7abcw7zyi1oer9i",
         "title": "Anthropic 解释了 Claude 如何构建自己的执行框架",
         "url": "https://www.infoq.cn/article/DYIUw7abCW7ZYI1OER9i?utm_source=rss&utm_medium=article",
@@ -1401,6 +1371,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/markets/article/3358375/hkex-pushes-deeper-index-business-ai-reshapes-hong-kong-market",
+        "title": "HKEX pushes deeper into index business as AI reshapes Hong Kong market",
+        "url": "https://www.scmp.com/business/markets/article/3358375/hkex-pushes-deeper-index-business-ai-reshapes-hong-kong-market?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-25T22:00:18.000Z",
+        "summary": "Hong Kong Exchanges and Clearing (HKEX) is expanding into the index business with plans to launch more proprietary benchmarks and related investment products, as traditional market gauges have lagged regional peers durin",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/business/china-business/article/3358314/hang-seng-index-briefly-slips-below-23000-alibaba-leads-tech-sell",
         "title": "Hang Seng Index briefly slips below 23,000 as Alibaba slumps to 16-month low",
