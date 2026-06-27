@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T19:29:11.403Z",
+  "generatedAt": "2026-06-27T02:28:53.763Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/new&",
+        "title": "New Mexico justices propose new pathway to the bar to ease rural legal desert",
+        "url": "https://www.abajournal.com/web/article/new&#45;mexico&#45;justices&#45;propose&#45;new&#45;pathway&#45;to&#45;the&#45;bar&#45;to&#45;ease&#45;rural&#45;legal&#45;desert/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-26T21:43:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/high&",
         "title": "High-profile lawyer convicted of indecent assault of Amtrak employee",
@@ -113,16 +123,6 @@
         "url": "https://www.abajournal.com/news/article/aclu&#45;leader&#45;and&#45;social&#45;justice&#45;advocate&#45;anthony&#45;d&#45;romero&#45;to&#45;receive&#45;aba&#45;thurgood&#45;marshall&#45;award/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-06-25T14:28:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/aba&",
-        "title": "ABA Free Legal Answers marks major milestone, responding to 500K questions",
-        "url": "https://www.abajournal.com/web/article/aba&#45;free&#45;legal&#45;answers&#45;marks&#45;major&#45;milestone&#45;responding&#45;to&#45;500k&#45;questions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-25T13:35:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,6 +1210,56 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/v1wshjd54imd1b4yueyf",
+        "title": "Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力",
+        "url": "https://www.infoq.cn/article/v1wsHJd54imD1b4yUeYf?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-27T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3870807206663171",
+        "title": "Anthropic：获批将Mythos 5重新部署至部分美国机构",
+        "url": "https://36kr.com/newsflashes/3870807206663171?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-27T02:28:42.000Z",
+        "summary": "6月27日，Anthropic发文称，自6月12日以来公司一直与美国政府紧密合作，以恢复对Claude Mythos 5和Fable 5的访问。今日收到美国政府通知，Mythos 5可重新部署至一批美国机构。公司正在继续与政府合作，扩大对Mythos 5的访问，并使Fable 5再次可供公众使用。（界面新闻）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3869740772316162",
+        "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+        "url": "https://36kr.com/p/3869740772316162?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-27T01:40:53.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。 从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。 物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3870720040588295",
+        "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+        "url": "https://36kr.com/p/3870720040588295?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-27T01:02:37.000Z",
+        "summary": "今日热点导览 OpenAI官宣推出GPT-5.6 亚洲“果链”股价几乎全线大幅下跌 SpaceX计划为美国消费者推出新的星链移动服务 美团股价低迷，王兴回应 小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人 微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹 TOP3大新闻 苹果涨价引山姆代购潮，部分门店已卖断货 近日，社交媒体上多名网友反馈，多地山姆会员超市的iPad及Mac系列产品出现抢购、代购的情况。原因在于，苹果宣布上",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3870292939658242",
+        "title": "追赶FSD V14，理想在补哪些课？｜最前线",
+        "url": "https://36kr.com/p/3870292939658242?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-26T23:30:20.000Z",
+        "summary": "过去几年，智能驾驶行业的竞争重心经历了几次明显变化。 最早比的是硬件：激光雷达要不要上、摄像头装几个、算力做到多少 TOPS；随后进入大模型时代，竞争开始转向端到端、VLA（Vision-Language-Action）、World Model（世界模型）等路线。 到了今天，越来越多公司发现，仅仅拥有更大的模型已经不足以形成代际优势，真正决定上限的，开始变成模型、数据、算力和芯片之间能否形成一个持续迭代的闭环。 这也是为什么越来越多车企",
+        "category": "skills",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/btkbo3ihbvm3p5wovtqj",
         "title": "从 Copilot 到 Autopilot：微软发布常驻型企业智能体 Scout",
         "url": "https://www.infoq.cn/article/btKbO3iHbVM3p5WOVtqJ?utm_source=rss&utm_medium=article",
@@ -1275,37 +1325,7 @@
         "url": "https://36kr.com/p/3869445453305090?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-26T05:36:55.000Z",
-        "summary": "文｜王欣逸 编辑｜周鑫雨 半年前，我们第一次和基点起源创始人兼 CEO 戴宗宏交流时，这家逆流入局 B 端定制化的AI公司，刚刚推进了 7、8 个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。 半年后，基点对质疑声的回应，是数千万元的在手订单。 戴宗宏对《智能涌现》透露，基点起源的订单数翻了一番 ，订单合同金额较半年前提升了一个数量级， AI 解决方���已经落地到了冶金、化工、精密制造、半导体、纺织等 1",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3869378164397313",
-        "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
-        "url": "https://36kr.com/p/3869378164397313?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-26T02:17:40.000Z",
-        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3867943030395913",
-        "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
-        "url": "https://36kr.com/p/3867943030395913?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-26T00:00:00.000Z",
-        "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。 念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（surface electromyography，简称sEMG）神经接口设备。它不直接采集大脑皮层信号，而是通过手腕处的神经肌肉电信号，解析手",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3869243269387269",
-        "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
-        "url": "https://36kr.com/p/3869243269387269?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-25T23:57:55.000Z",
-        "summary": "今日热点导览 Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名 建设银行：将于7月24日日终清算时起关闭代理上海黄金交易所个人贵金属交易业务功能 马斯克曾直言混动车只是过渡阶段 韩国5200万人开了1.08亿股票账户，半年增超1000万 逾八成澳大利亚未成年人“绕过”了社媒禁令 IBM发布全球首款亚纳米芯片技术 TOP 3大新闻 苹果官宣涨价：iPad和Mac率先调价 6月25日，记者获悉，因内存和存储",
+        "summary": "文｜王欣逸 编辑｜周鑫雨 半年前，我们第一次和基点起源创始人兼 CEO 戴宗宏交流时，这家逆流入局 B 端定制化的AI公司，刚刚推进了 7、8 个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。 半年后，基点对质疑声的回应，是数千万元的在手订单。 戴宗宏对《智能涌现》透露，基点起源的订单数翻了一番 ，订单合同金额较半年前提升了一个数量级， AI 解决方案已经落地到了冶金、化工、精密制造、半导体、纺织等 10 ",
         "category": "updates",
         "region": "cn"
       },
@@ -1317,16 +1337,6 @@
         "publishedAt": "2026-06-25T19:06:00.000Z",
         "summary": "点击查看原文>",
         "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/xebv3b8vy3yx0a4hzx4b",
-        "title": "Claude Code 工程一号位亲自给 Agent 热潮降温：狂烧 Token 时代已过，现在该算ROI了",
-        "url": "https://www.infoq.cn/article/XebV3B8Vy3Yx0A4HZX4b?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-25T16:54:29.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
         "region": "cn"
       }
     ],
