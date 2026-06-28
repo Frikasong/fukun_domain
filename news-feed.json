@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T08:41:37.160Z",
+  "generatedAt": "2026-06-28T13:19:56.991Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,26 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3872423038080004",
-        "title": "美国即将允许Anthropic恢复其最新大模型Fable 5访问权限",
-        "url": "https://36kr.com/newsflashes/3872423038080004?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-28T05:52:25.000Z",
-        "summary": "据最新消息，美国政府即将允许Anthropic恢复其最新大模型Fable 5的访问权限。 此前6月12日，美国政府以国家安全为由，向AI公司Anthropic发出紧急出口管制指令，要求其立即禁止外国主体访问最新大模型Fable 5和Mythos 5。该消息一度引发市场对AI和算力概念股的广泛担忧。 今年5月底，AI巨头Anthropic宣布完成H轮650亿美元融资，投后估值达9650亿美元（约合人民币6.56万亿元），成为全球估值最高的",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3872321240700160",
-        "title": "谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧",
-        "url": "https://36kr.com/newsflashes/3872321240700160?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-28T04:44:44.000Z",
-        "summary": "谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3870720040588295",
         "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
         "url": "https://36kr.com/p/3870720040588295?f=rss",
@@ -1302,13 +1282,23 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-war/article/3358492/ai-pushes-data-centres-breaking-point-some-chinese-chipmakers-bet-sic",
-        "title": "As AI pushes data centres to breaking point, some Chinese chipmakers bet on SiC",
-        "url": "https://www.scmp.com/tech/tech-war/article/3358492/ai-pushes-data-centres-breaking-point-some-chinese-chipmakers-bet-sic?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3358647/faster-ai-lower-costs-dspark-eases-inference-bottlenecks-and-chip-strain-says-deepseek",
+        "title": "Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek",
+        "url": "https://www.scmp.com/tech/big-tech/article/3358647/faster-ai-lower-costs-dspark-eases-inference-bottlenecks-and-chip-strain-says-deepseek?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-06-28T05:00:09.000Z",
-        "summary": "As the global artificial intelligence (AI) boom puts intense pressure on data centre energy grids, some Chinese chipmakers are betting on highly efficient silicon carbide (SiC) semiconductors to help solve the technology",
+        "publishedAt": "2026-06-28T11:00:08.000Z",
+        "summary": "Chinese artificial intelligence start-up DeepSeek has rolled out a major upgrade to its flagship V4 model aimed at sharply accelerating AI response generation, as competition among Chinese developers increasingly shifts ",
         "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3357993/how-ai-boom-exposes-investors-risk-while-downturn-could-see-sharp-crash-bis",
+        "title": "How the AI boom exposes investors to risk, while a downturn could see a sharp crash: BIS",
+        "url": "https://www.scmp.com/business/banking-finance/article/3357993/how-ai-boom-exposes-investors-risk-while-downturn-could-see-sharp-crash-bis?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-28T09:00:05.000Z",
+        "summary": "As the global financial system struggles to keep pace with the artificial intelligence investment boom and capital flows surge through loosely regulated, non-bank channels, a key international organisation has warned tha",
+        "category": "articles",
         "region": "cn_en"
       },
       {
