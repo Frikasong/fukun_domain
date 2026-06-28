@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T02:41:21.683Z",
+  "generatedAt": "2026-06-28T08:41:37.160Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -74,16 +74,6 @@
         "source": "ABA Journal",
         "publishedAt": "2026-06-26T14:41:00.000Z",
         "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/previewing-gpt-5-6-sol",
-        "title": "Previewing GPT-5.6 Sol: a next-generation model",
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-        "source": "OpenAI News",
-        "publishedAt": "2026-06-26T10:00:00.000Z",
-        "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
         "category": "updates",
         "region": "na"
       },
@@ -1206,36 +1196,36 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/icdhzotgllyog0ocirxa",
-        "title": "GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全",
-        "url": "https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-28T09:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3872423038080004",
+        "title": "美国即将允许Anthropic恢复其最新大模型Fable 5访问权限",
+        "url": "https://36kr.com/newsflashes/3872423038080004?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-28T05:52:25.000Z",
+        "summary": "据最新消息，美国政府即将允许Anthropic恢复其最新大模型Fable 5的访问权限。 此前6月12日，美国政府以国家安全为由，向AI公司Anthropic发出紧急出口管制指令，要求其立即禁止外国主体访问最新大模型Fable 5和Mythos 5。该消息一度引发市场对AI和算力概念股的广泛担忧。 今年5月底，AI巨头Anthropic宣布完成H轮650亿美元融资，投后估值达9650亿美元（约合人民币6.56万亿元），成为全球估值最高的",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3871215128237313",
-        "title": "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”",
-        "url": "https://36kr.com/newsflashes/3871215128237313?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3872321240700160",
+        "title": "谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧",
+        "url": "https://36kr.com/newsflashes/3872321240700160?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-27T09:23:40.000Z",
-        "summary": "据《科创板日报》27日消息，由于AI算力集群功耗激增，功率半导体正成为存储之后的产业新增长引擎，行业再掀起一轮涨价潮。“我们AI相关的电源功率订单‘爆满’，现在订单根本做不过来”。一家功率半导体厂商人士向《科创板日报》记者表示，“因为公司算是少数具备量产能力的国产厂商，无论是面向数据中心800V HVDC等一次电源、服务器二次电源等产品，都已进入多家头部客户供应链并实现规模量产，所以订单需求十分旺盛。”多位业内人士判断，本轮成本驱动的涨",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3871213411128577",
-        "title": "具身世界模型“我悟”通过合规备案",
-        "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-27T09:21:55.000Z",
-        "summary": "6月26日，北京人形机器人创新中心慧思开物平台的双大脑模型天鹕（Pelican-VL）和我悟（WoW）同步完成北京市网信办最新一批生成式人工智能服务备案。北京人形将正式启动慧思开物全系列模型Token服务，计划分阶段面向产业客户、科研机构、开发者全面开放API调用能力。（界面新闻）",
+        "publishedAt": "2026-06-28T04:44:44.000Z",
+        "summary": "谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1308,19 +1298,19 @@
         "summary": "本文约900字，建议阅读2分钟 作者 | 彭孝秋 6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。 关于中科闻歌深度报道，可查看此前报道——中科院博士冲上市，市值超105亿港币。 在昨日下午先行的暗盘中，其以 115.40",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/gaaswkrjqw2nff06kgyg",
-        "title": "GitHub 推出 Copilot 桌面应用，支持并行 Agent 开发工作流",
-        "url": "https://www.infoq.cn/article/GaAsWkrJQW2NFf06kgyG?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-25T19:06:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-war/article/3358492/ai-pushes-data-centres-breaking-point-some-chinese-chipmakers-bet-sic",
+        "title": "As AI pushes data centres to breaking point, some Chinese chipmakers bet on SiC",
+        "url": "https://www.scmp.com/tech/tech-war/article/3358492/ai-pushes-data-centres-breaking-point-some-chinese-chipmakers-bet-sic?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-28T05:00:09.000Z",
+        "summary": "As the global artificial intelligence (AI) boom puts intense pressure on data centre energy grids, some Chinese chipmakers are betting on highly efficient silicon carbide (SiC) semiconductors to help solve the technology",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/business/china-business/article/3358314/hang-seng-index-briefly-slips-below-23000-alibaba-leads-tech-sell",
         "title": "Hang Seng Index briefly slips below 23,000 as Alibaba slumps to 16-month low",
