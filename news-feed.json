@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T10:25:30.924Z",
+  "generatedAt": "2026-06-29T15:32:40.980Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,12 +8,32 @@
   "panels": {
     "na": [
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future",
-        "title": "AI Sovereignty: Taking Control of Your Legal Tech Future",
-        "url": "https://www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-29T06:52:42.000Z",
-        "summary": "Think of all the things you need to do your job that you have little control over. What happens when those things are suddenly unavailable, ...",
+        "id": "ABA Journal:www.abajournal.com/news/article/ice&",
+        "title": "ICE fines attorney over $250K for allegedly filing false asylum claims",
+        "url": "https://www.abajournal.com/news/article/ice&#45;fining&#45;attorney&#45;for&#45;allegedly&#45;filing&#45;false&#45;asylum&#45;claims/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-29T15:17:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
+        "title": "Lawyer used technical experience to fight $100 speeding ticket",
+        "url": "https://www.abajournal.com/news/article/lawyer&#45;used&#45;technical&#45;experience&#45;to&#45;fight&#45;100&#45;speeding&#45;ticket/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-29T14:55:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/can&",
+        "title": "Can law schools learn from computer science programs in the debate on generative AI?",
+        "url": "https://www.abajournal.com/columns/article/can&#45;law&#45;schools&#45;learn&#45;from&#45;computer&#45;science&#45;programs&#45;in&#45;the&#45;debate&#45;on&#45;generative&#45;ai/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-29T14:24:00.000Z",
+        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -78,51 +98,11 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
-        "title": "Lawyer who headed Missouri Department of Revenue’s legal department faces child enticement charge",
-        "url": "https://www.abajournal.com/news/article/lawyer&#45;who&#45;headed&#45;missouri&#45;department&#45;of&#45;revenues&#45;legal&#45;department&#45;faces&#45;child&#45;enticement&#45;charge/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-26T14:41:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "ABA Journal:www.abajournal.com/news/article/pa&",
         "title": "Judge refuses to appoint man as constable because of alleged &#8216;checkered&#8217; past",
         "url": "https://www.abajournal.com/news/article/pa&#45;judge&#45;refuses&#45;to&#45;appoint&#45;man&#45;constable&#45;because&#45;of&#45;checkered&#45;past/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-06-25T19:51:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
-        "title": "Judge tosses free speech claim of former public defender who alleged burnout",
-        "url": "https://www.abajournal.com/news/article/judge&#45;tosses&#45;free&#45;speech&#45;claim&#45;of&#45;public&#45;defender&#45;who&#45;alleges&#45;burnout/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-25T16:43:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/9th&",
-        "title": "9th Circuit allows religious bias lawsuit against Alaska Airlines to move forward",
-        "url": "https://www.abajournal.com/news/article/9th&#45;circuit&#45;allows&#45;religious&#45;bias&#45;lawsuit&#45;against&#45;alaska&#45;airlines&#45;to&#45;move&#45;forward/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-25T16:26:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/aclu&",
-        "title": "ACLU leader and social justice advocate Anthony D. Romero to receive ABA Thurgood Marshall Award",
-        "url": "https://www.abajournal.com/news/article/aclu&#45;leader&#45;and&#45;social&#45;justice&#45;advocate&#45;anthony&#45;d&#45;romero&#45;to&#45;receive&#45;aba&#45;thurgood&#45;marshall&#45;award/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-25T14:28:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -188,36 +168,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/23/the-platform-vs-specialist-debate-is-asking-the-wrong-question",
-        "title": "The Platform Vs Specialist Debate is Asking the Wrong Question",
-        "url": "https://www.artificiallawyer.com/2026/06/23/the-platform-vs-specialist-debate-is-asking-the-wrong-question/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-23T07:58:30.000Z",
-        "summary": "By Katja Nikolaus, Co-Founder, JUNE. Two forecasts. Two opposing verdicts. Published within weeks of each other, each delivered with equal confidence. The first: the market ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/23/lexisnexis-webinar-ai-risk-governance-adoption",
-        "title": "LexisNexis Webinar: AI Risk, Governance + Adoption",
-        "url": "https://www.artificiallawyer.com/2026/06/23/lexisnexis-webinar-ai-risk-governance-adoption/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-23T07:28:37.000Z",
-        "summary": "On July 9th, LexisNexis in partnership with Artificial Lawyer, will be holding a panel-format webinar to explore ‘AI Risk, Governance + Adoption’. Panellists: To reserve ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/23/thomson-reuters-cto-joel-hron-on-the-deepjudge-deal",
-        "title": "Thomson Reuters CTO Joel Hron on the DeepJudge Deal",
-        "url": "https://www.artificiallawyer.com/2026/06/23/thomson-reuters-cto-joel-hron-on-the-deepjudge-deal/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-23T07:19:06.000Z",
-        "summary": "In this AL interview, Thomson Reuters CTO, Joel Hron, explores their expanding partnership with KM company DeepJudge. See the earlier story here. DeepJudge and TR ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel-legal-saying-beta-users-fing-loved-the-product.html",
         "title": "Thomson Reuters Opens Early Access to the &#8216;Next Generation&#8217; of CoCounsel Legal, Saying Beta Users ‘F#@%ing Loved’ the Product",
         "url": "https://www.lawnext.com/2026/06/thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel-legal-saying-beta-users-fing-loved-the-product.html",
@@ -238,72 +188,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/ai-adoption-often-slow-chaotic-tr-survey-finds",
-        "title": "AI Adoption Often Slow + Chaotic, TR Survey Finds",
-        "url": "https://www.artificiallawyer.com/2026/06/22/ai-adoption-often-slow-chaotic-tr-survey-finds/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-22T12:00:40.000Z",
-        "summary": "A new survey by Thomson Reuters on the adoption of AI among professionals suggests that the current state of play is often slow and chaotic. ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
         "title": "BARBRI Acquires Lega, Completing the Startup&#8217;s Pivot From AI Governance to Experiential AI Training",
         "url": "https://www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
         "source": "LawSites",
         "publishedAt": "2026-06-22T11:57:28.000Z",
         "summary": "BARBRI, the legal education company best known for bar exam preparation, has acquired Lega, the AI startup that launched in 2023 with a focus on large language model governance but which has been evolving into helping le",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/the-legal-ai-scaffold-changes-everything-claude-study",
-        "title": "The Legal AI Scaffold Changes Everything – Claude Study",
-        "url": "https://www.artificiallawyer.com/2026/06/22/the-legal-ai-scaffold-changes-everything-claude-study/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-22T08:21:10.000Z",
-        "summary": "A study by consultancy Legal Nodes, which included MikeOSS, shows that no matter how good a general model appears to be, it’s the legal AI ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont",
-        "title": "What Legal AI Benchmarks Reveal That Model Names Don’t",
-        "url": "https://www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-22T07:29:45.000Z",
-        "summary": "By Daniel Lewis, CEO, LegalOn. Foundation models are improving quickly. One useful measure is software engineering: the length of coding tasks that frontier models can ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview",
-        "title": "BARBRI Buys Lega &#8211; Christian Lang Interview",
-        "url": "https://www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-22T07:00:09.000Z",
-        "summary": "Legal education business BARBRI has bought legal AI startup Lega as part of a strategy to provide ‘experiential AI workshops, simulations, hackathons, and lab-style learning ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/19/legal-innovators-paris-crosby-lawvu",
-        "title": "Legal Innovators Paris, Crosby, LawVu +",
-        "url": "https://www.artificiallawyer.com/2026/06/19/legal-innovators-paris-crosby-lawvu/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-19T08:36:14.000Z",
-        "summary": "After California, where next? Paris of course, for Legal Innovators Europe, on June 24 and 25 in the City of Light, and also the city ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/19/the-legal-professions-ai-tightrope",
-        "title": "The Legal Profession’s AI Tightrope",
-        "url": "https://www.artificiallawyer.com/2026/06/19/the-legal-professions-ai-tightrope/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-19T07:26:19.000Z",
-        "summary": "By James Tuke, AI Futures Forum. Over the last twelve months, the AI conversation in the legal profession has shifted significantly. In May 2025, we ...",
         "category": "updates",
         "region": "na"
       },
@@ -1206,65 +1096,45 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/video/0qd7lcv7piraoul5mq1m",
-        "title": "分库分表后查询变慢？TDSQL 全局索引破解数据定位难题",
-        "url": "https://www.infoq.cn/video/0Qd7LCv7PIRaoUL5MQ1m?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-29T18:07:13.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/huri8txfhl93vib9khij",
-        "title": "AI 时代的新可观测性：不只看系统崩没崩，还要看模型有没有胡说",
-        "url": "https://www.infoq.cn/article/HUri8txfhl93vIb9kHIJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-29T18:06:26.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/tdvdahdbz82msory5b8p",
-        "title": "被 AI 坑惨的福特，召回 350 名老工程师救场",
-        "url": "https://www.infoq.cn/article/TDVdahdBz82MSOry5B8p?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-29T17:45:37.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/v5d4lerudwm4f9pyxni9",
-        "title": "Lucide 1.0 发布，移除品牌图标，并缩减数百万个项目的包大小",
-        "url": "https://www.infoq.cn/article/v5D4LerUDwm4F9PYXNI9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-29T17:15:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/moduev4hemt4hb92hebd",
         "title": "GPT-5.6首发，比Fable 5便宜一半！深度评估者直接“开麦”：能力测试中疯狂作弊",
         "url": "https://www.infoq.cn/article/MODueV4HEMT4Hb92HebD?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-06-29T16:04:07.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/oktycaynk8hwtmv4apsg",
-        "title": "微软升级 AKS 服务：新增裸金属、集群舰队管理及 AI 基础设施方案",
-        "url": "https://www.infoq.cn/article/OKTycayNK8hwTMv4ApSg?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-29T16:03:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1280,12 +1150,72 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3874086726096136",
-        "title": "中国移动确认设立Token办公室",
-        "url": "https://36kr.com/newsflashes/3874086726096136?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3874257198880005",
+        "title": "多位DeepSeek API用户确认已收到调价邮件：V4正式版高峰期价格将翻倍",
+        "url": "https://36kr.com/newsflashes/3874257198880005?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-29T10:04:48.000Z",
-        "summary": "6月28日晚间，有消息称，中国移动继设立数智事业部、算力办之后，又设立了Token办公室，旨在打通“创造Token、输送Token、应用Token”的全流程，打破多个二级部门“各管一摊”的局面。6月29日下午，从中国移动方面获悉，中国移动确实成立了Token办公室，但其余网传内容，如“Token 办公室级别更高，由集团核心领导直接挂帅”等则未获确认。（每日经济新闻）",
+        "publishedAt": "2026-06-29T12:58:13.000Z",
+        "summary": "据蓝鲸新闻，6月29日，多位开发者确认，已收到DeepSeek发送的升级提醒邮件。邮件显示，DeepSeekV4正式版计划于7月中旬正式上线，并将同步调整API定价策略，引入峰谷定价机制，以更合理地配置资源、提升服务稳定性。根据邮件内容，V4Pro和V4Flash模型在平时价格保持不变，但高峰时段API价格将调整为平时的2倍。高峰时段为每天上午9点至12点、下午2点至6点。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3874214392386564",
+        "title": "美国加州州长纽森与Anthropic签约，全州政务半价普及Claude大模型",
+        "url": "https://36kr.com/newsflashes/3874214392386564?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-29T12:23:32.000Z",
+        "summary": "加州州长加文・纽森已与人工智能企业Anthropic达成合作，以优惠采购价在加州各级政府全面推广Claude系列大模型产品。落地后Claude将成为首个面向加州全部州属部门、市县地方政府开放使用的AI工具。此前数月，Anthropic与特朗普联邦政府持续博弈：美方限制该企业顶尖模型落地推广，并将其认定为国家供应链风险主体。纽森政府此次合作旨在大幅降低政务AI使用成本、推动Claude普及：州政府部门、自愿参与的加州各市县采购该对话机器人",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3874195977901062",
+        "title": "神工股份：股票交易异常波动，市盈率显著高于行业水平",
+        "url": "https://36kr.com/newsflashes/3874195977901062?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-29T12:01:52.000Z",
+        "summary": "36氪获悉，神工股份公告，公司股票连续三个交易日(6月25日、26日、29日)收盘价格涨幅偏离值累计达30%，属于股票交易异常波动。截至6月29日，公司收盘价194.33元/股，滚动市盈率334.60倍，静态市盈率324.35倍，显著高于所属行业平均市盈率（滚动66.97倍、静态73.27倍），存在估值较高风险。半导体行业结构性行情显著，受全球经济、技术迭代等因素综合影响。目前行业景气度主要受到海外科技巨头对人工智能业务的巨额资本开支所",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3874197541344262",
+        "title": "比亚迪自研智驾芯片预计2027年首搭量产车型",
+        "url": "https://36kr.com/newsflashes/3874197541344262?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-29T11:57:32.000Z",
+        "summary": "比亚迪正计划明年在腾势品牌的量产新车上首搭自研智驾芯片璇玑A3。官方信息显示，这颗4nm芯片单颗算力超过700 TOPS，三颗协同总算力超过2100 TOPS，支持L3、L4自动驾驶，已开始量产。新势力车企惯常强调的“软硬件一体” 优势，在芯片发布时也被比亚迪提及。比亚迪称，璇玑A3单位算力功耗较同级产品低20%，结合自研算法优化后，算力利用率提升100%。（晚点LatePost）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3874045136720899",
+        "title": "烧光5000亿后，京东方开始给股民赚钱",
+        "url": "https://36kr.com/p/3874045136720899?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-29T11:51:05.000Z",
+        "summary": "作者 | 范亮 编辑 | 张帆 很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。 人气足够高，股价却长期止步不前。2001年京东方上市之初，开盘价为3.54元/股（前复权）；到2025年末，收盘价为4.17元/股。二十多年过去，股价累计涨幅只有18%。 面板行业的重资产投入和强周期特征，是制约京东方股价表现的核心因素。上 市以来，京东方累计资本开支",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3874178187875335",
+        "title": "国家超算互联网推出万卡共创者激励计划",
+        "url": "https://36kr.com/newsflashes/3874178187875335?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-29T11:44:22.000Z",
+        "summary": "36氪获悉，近日，国家超算互联网正式启动SCNet万卡共创者激励计划，将基于scaleX万卡超集群，面向全球AI开发者、初创团队、科研机构提供最高亿级词元（Tokens）额度与千卡时国产算力资源。该计划围绕AI、AI4S两大核心主题，开展国产算力最佳实践、开发者竞赛、AI应用孵化等共创项目，覆盖民生应用、工业仿真、生物医药等多元场景。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3873626425332743",
+        "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+        "url": "https://36kr.com/p/3873626425332743?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-29T11:00:26.000Z",
+        "summary": "大公司： 蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家 36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落地阿拉木图。在这之后，又相继进入美国、巴西、墨西哥等新市场，持续推进全球化布局。截至目前，蜜雪冰城已进入海外16个国家。 中国移动确认设立Token办公室 6月28日晚间，有消息称，中国移动继设立数智事业部、",
         "category": "updates",
         "region": "cn"
       },
@@ -1306,26 +1236,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-06-29T09:58:07.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3873964706764035",
-        "title": "新石器无人车在泉州成立新公司",
-        "url": "https://36kr.com/newsflashes/3873964706764035?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-29T09:11:37.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，新石器智达（泉州）科技有限公司成立，法定代表人为李子夷，注册资本50万人民币，经营范围包括智能机器人销售、人工智能硬件销售、外卖递送服务等，由新石器慧通（北京）科技有限公司全资持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3873989664822275",
-        "title": "谷歌算力告急，限制Meta对其人工智能大模型Gemini的使用",
-        "url": "https://36kr.com/newsflashes/3873989664822275?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-29T08:48:07.000Z",
-        "summary": "谷歌已开始限制脸书母公司Meta对其人工智能大模型Gemini的使用，因为Meta的算力需求超出了谷歌现有的承载能力。供给受限直接打乱了Meta内部多个人工智能项目的推进节奏，相关研发工作被迫推迟。报道称，谷歌这一举措直观暴露出算力供给仍是人工智能产业发展的核心瓶颈。即便谷歌持续加码AI基础设施投入，但依旧无法确保有足够的算力应对市场激增的需求。（财联社）",
         "category": "updates",
         "region": "cn"
       },
@@ -1356,16 +1266,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-29T03:13:49.000Z",
         "summary": "本文约2500字，建议阅读5分钟 作者 | 彭孝秋 编者按： AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第四期，海光芯正。 6月29日，北京海光芯正（01191.HK）正式在港交所敲钟上市，此次IPO招股价114港元，每手",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3868055841641476",
-        "title": "港大教授李弘扬创业做通用全身具身大脑，获真格高榕IDG五源等数亿种子轮融资｜硬氪独家",
-        "url": "https://36kr.com/p/3868055841641476?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-29T01:27:07.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪独家获悉，通用全身具身大脑公司「源策未来Archon Robotics」近日完成数亿元种子轮融资，本轮投资方包括真格基金、高榕创投、IDG资本、五源资本等头部美元基金，以及戈壁创投与香港大学联名基金、奇绩创坛、上海创智学院等。光源资本担任独家财务顾问。 本轮资金将主要用于全身人形基础模型研发、多模态全身动作数据采集、人才团队扩充，以及多地研发中心与产业合作生态搭建，加速在今年内实现开源人形基座模型落地。 源",
         "category": "updates",
         "region": "cn"
       }
