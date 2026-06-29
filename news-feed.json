@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T02:42:00.577Z",
+  "generatedAt": "2026-06-29T10:25:30.924Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future",
+        "title": "AI Sovereignty: Taking Control of Your Legal Tech Future",
+        "url": "https://www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-29T06:52:42.000Z",
+        "summary": "Think of all the things you need to do your job that you have little control over. What happens when those things are suddenly unavailable, ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/new&",
         "title": "New Mexico justices propose new pathway to the bar to ease rural legal desert",
@@ -305,16 +315,6 @@
         "publishedAt": "2026-06-18T13:46:36.000Z",
         "summary": "In two separate announcements this week, Clio rolled out two initiatives aimed at the same problem — getting practicing lawyers comfortable with AI. One puts AI software directly into lawyers&#8217; hands at no cost; the",
         "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/18/eudia-consilio-partner-as-hook-ups-spread",
-        "title": "Eudia + Consilio Partner As Hook-Ups Spread",
-        "url": "https://www.artificiallawyer.com/2026/06/18/eudia-consilio-partner-as-hook-ups-spread/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-18T13:00:41.000Z",
-        "summary": "Following on from its recent deal with ServiceNow, Eudia has formed a partnership with Consilio. For its part, Consilio has also recently done its own ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,12 +1210,82 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/gqfl7bv2jopihkbjwkt2",
-        "title": "ML 模型投毒的机制及检测方法",
-        "url": "https://www.infoq.cn/article/GqFL7BV2JopihkBJWkt2?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/0qd7lcv7piraoul5mq1m",
+        "title": "分库分表后查询变慢？TDSQL 全局索引破解数据定位难题",
+        "url": "https://www.infoq.cn/video/0Qd7LCv7PIRaoUL5MQ1m?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-29T10:14:27.000Z",
+        "publishedAt": "2026-06-29T18:07:13.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/huri8txfhl93vib9khij",
+        "title": "AI 时代的新可观测性：不只看系统崩没崩，还要看模型有没有胡说",
+        "url": "https://www.infoq.cn/article/HUri8txfhl93vIb9kHIJ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-29T18:06:26.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/tdvdahdbz82msory5b8p",
+        "title": "被 AI 坑惨的福特，召回 350 名老工程师救场",
+        "url": "https://www.infoq.cn/article/TDVdahdBz82MSOry5B8p?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-29T17:45:37.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/v5d4lerudwm4f9pyxni9",
+        "title": "Lucide 1.0 发布，移除品牌图标，并缩减数百万个项目的包大小",
+        "url": "https://www.infoq.cn/article/v5D4LerUDwm4F9PYXNI9?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-29T17:15:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/moduev4hemt4hb92hebd",
+        "title": "GPT-5.6首发，比Fable 5便宜一半！深度评估者直接“开麦”：能力测试中疯狂作弊",
+        "url": "https://www.infoq.cn/article/MODueV4HEMT4Hb92HebD?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-29T16:04:07.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/oktycaynk8hwtmv4apsg",
+        "title": "微软升级 AKS 服务：新增裸金属、集群舰队管理及 AI 基础设施方案",
+        "url": "https://www.infoq.cn/article/OKTycayNK8hwTMv4ApSg?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-29T16:03:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vceipbyzky9lsaoubvtp",
+        "title": "收购仅一年即“决裂”！创始人贾扬清出走英伟达：黄仁勋不满运营效果，20 亿美金的 AI Infra 突围为何折戟？",
+        "url": "https://www.infoq.cn/article/VceiPBYzkY9lSAOubvtP?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-29T15:29:45.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3874086726096136",
+        "title": "中国移动确认设立Token办公室",
+        "url": "https://36kr.com/newsflashes/3874086726096136?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-29T10:04:48.000Z",
+        "summary": "6月28日晚间，有消息称，中国移动继设立数智事业部、算力办之后，又设立了Token办公室，旨在打通“创造Token、输送Token、应用Token”的全流程，打破多个二级部门“各管一摊”的局面。6月29日下午，从中国移动方面获悉，中国移动确实成立了Token办公室，但其余网传内容，如“Token 办公室级别更高，由集团核心领导直接挂帅”等则未获确认。（每日经济新闻）",
         "category": "updates",
         "region": "cn"
       },
@@ -1240,22 +1310,52 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3873640537265417",
-        "title": "国家AI产投基金、红杉中国等押注，自变量C轮融资后估值超200亿",
-        "url": "https://36kr.com/newsflashes/3873640537265417?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3873964706764035",
+        "title": "新石器无人车在泉州成立新公司",
+        "url": "https://36kr.com/newsflashes/3873964706764035?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-29T02:30:55.000Z",
-        "summary": "自变量机器人宣布，继4月下旬完成小米战投领投的B轮融资后，公司于2个多月内迅速完成B+、B++及C轮融资，4轮融资均已全部完成交割。本轮投后估值正式突破200亿元人民币。本轮投资方已确认名单包括：中国移动、国家人工智能产业投资基金、红杉中国、IDG资本、源码资本、达晨财智、中金资本等30余家顶级机构及互联网巨头资本。其中，小米战投已连续三轮持续加注。 （财联社）",
+        "publishedAt": "2026-06-29T09:11:37.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，新石器智达（泉州）科技有限公司成立，法定代表人为李子夷，注册资本50万人民币，经营范围包括智能机器人销售、人工智能硬件销售、外卖递送服务等，由新石器慧通（北京）科技有限公司全资持股。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3873613533156356",
-        "title": "破解代码迁移难题，国产“异算方舟”全栈计算平台正式发布",
-        "url": "https://36kr.com/newsflashes/3873613533156356?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3873989664822275",
+        "title": "谷歌算力告急，限制Meta对其人工智能大模型Gemini的使用",
+        "url": "https://36kr.com/newsflashes/3873989664822275?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-29T02:03:27.000Z",
-        "summary": "今天（29日），由中国科学院计算机网络信息中心等单位联合研发的“异算方舟”国产计算系统软件生态全栈平台上线。该平台聚焦国产算力下软件适配难、代码迁移难、科研操作烦琐等痛点，为科学计算软件生态建设提供一体化解决方案。（央视新闻）",
+        "publishedAt": "2026-06-29T08:48:07.000Z",
+        "summary": "谷歌已开始限制脸书母公司Meta对其人工智能大模型Gemini的使用，因为Meta的算力需求超出了谷歌现有的承载能力。供给受限直接打乱了Meta内部多个人工智能项目的推进节奏，相关研发工作被迫推迟。报道称，谷歌这一举措直观暴露出算力供给仍是人工智能产业发展的核心瓶颈。即便谷歌持续加码AI基础设施投入，但依旧无法确保有足够的算力应对市场激增的需求。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3873965241931014",
+        "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
+        "url": "https://36kr.com/p/3873965241931014?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-29T08:04:11.000Z",
+        "summary": "“每一代模型，我们都在押注一个非共识。” 文｜邓咏仪 编辑｜张雨忻 Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。 Sand.ai 是一家视频生成模型和产品公司，成立于2024年1月。曹越创立Sand.ai 的故事也已经被讲过很多遍：在上一段创业“光年之外”戛然而止后，曹越很快就投入到 Sand.ai 的创业中，做视频生成模型。 彼时，市场的主流叙事是 Diffusion 路线，几乎没有人认为曹越选择的自回归（Autoreg",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3873710996902912",
+        "title": "36氪首发 | URTOPIA联创做了款智能指环，众筹已破千万元",
+        "url": "https://36kr.com/p/3873710996902912?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-29T03:43:03.000Z",
+        "summary": "作者 | 张子怡 编辑 | 袁斯来 近日，AI可穿戴品牌AIVELA宣布完成数百万美元首轮融资。本轮融资由线性资本领投，锋领资本跟投，智能电助力自行车品牌URTOPIA等产业方共同加注。 本轮融资将主要用于下一代AI可穿戴产品研发、健康数据与AI Agent能力建设、全球市场拓展以及核心团队扩张。AIVELA将以智能指环、智能手链等贴身可穿戴产品为起点，面向全球市场构筑融合健康感知、自然交互与AI健康服务的新一代消费科技品牌。 当前，消",
+        "category": "articles",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3873681978840071",
+        "title": "秋声 | 海光芯正IPO背后，卖铲生意为何越做越亏？",
+        "url": "https://36kr.com/p/3873681978840071?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-29T03:13:49.000Z",
+        "summary": "本文约2500字，建议阅读5分钟 作者 | 彭孝秋 编者按： AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第四期，海光芯正。 6月29日，北京海光芯正（01191.HK）正式在港交所敲钟上市，此次IPO招股价114港元，每手",
         "category": "updates",
         "region": "cn"
       },
@@ -1265,62 +1365,12 @@
         "url": "https://36kr.com/p/3868055841641476?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-29T01:27:07.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪独家获悉，通用全身具身大脑公司「源策未来Archon Robotics」近日完成数亿元种子轮融资，本轮投资方包括真格基金、高榕创投、IDG资本、五源资本等头部美元基金，以及戈壁创投与香港大学联名基金、奇绩创投、上海创智学院等。光源资本担任独家财务顾问。 本轮资金将主要用于全身人形基础模型研发、多模态全身动作数据采集、人才团队扩充，以及多地研发中心与产业合作生态搭建，加速在今年内实现开源人形基座模型落地。 源",
+        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪独家获悉，通用全身具身大脑公司「源策未来Archon Robotics」近日完成数亿元种子轮融资，本轮投资方包括真格基金、高榕创投、IDG资本、五源资本等头部美元基金，以及戈壁创投与香港大学联名基金、奇绩创坛、上海创智学院等。光源资本担任独家财务顾问。 本轮资金将主要用于全身人形基础模型研发、多模态全身动作数据采集、人才团队扩充，以及多地研发中心与产业合作生态搭建，加速在今年内实现开源人形基座模型落地。 源",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3873476968272902",
-        "title": "8点1氪丨两大存储巨头今日发布大规模投资计划；江淮汽车股价腰斩，章建平9日套现近3亿元；Anthropic Fable 5有望很快恢复访问",
-        "url": "https://36kr.com/p/3873476968272902?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-28T23:44:39.000Z",
-        "summary": "今日热点导览 《给阿嬷的情书》总票房已突破19亿元 梁文锋署名，DeepSeek发布最新论文 WPS回应C盘占用问题，即将更新七月版本上线磁盘存储管理功能 触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max 美国监管部门关闭针对特斯拉Model 3及Model Y转向失控调查 TOP 3大新闻 韩国将于6月29日宣布三星、SK集团的多个大型项目 韩国将于6月29日宣布“三大工程”计划，韩国总统李在明将与政府各部",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3870720040588295",
-        "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-        "url": "https://36kr.com/p/3870720040588295?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-27T01:02:37.000Z",
-        "summary": "今日热点导览 OpenAI官宣推出GPT-5.6 亚洲“果链”股价几乎全线大幅下跌 SpaceX计划为美国消费者推出新的星链移动服务 美团股价低迷，王兴回应 小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人 微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹 TOP3大新闻 苹果涨价引山姆代购潮，部分门店已卖断货 近日，社交媒体上多名网友反馈，多地山姆会员超市的iPad及Mac系列产品出现抢购、代购的情况。原因在于，苹果宣布上",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3870292939658242",
-        "title": "追赶FSD V14，理想在补哪些课？｜最前线",
-        "url": "https://36kr.com/p/3870292939658242?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-26T23:30:20.000Z",
-        "summary": "过去几年，智能驾驶行业的竞争重心经历了几次明显变化。 最早比的是硬件：激光雷达要不要上、摄像头装几个、算力做到多少 TOPS；随后进入大模型时代，竞争开始转向端到端、VLA（Vision-Language-Action）、World Model（世界模型）等路线。 到了今天，越来越多公司发现，仅仅拥有更大的模型已经不足以形成代际优势，真正决定上限的，开始变成模型、数据、算力和芯片之间能否形成一个持续迭代的闭环。 这也是为什么越来越多车企",
-        "category": "skills",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/btkbo3ihbvm3p5wovtqj",
-        "title": "从 Copilot 到 Autopilot：微软发布常驻型企业智能体 Scout",
-        "url": "https://www.infoq.cn/article/btKbO3iHbVM3p5WOVtqJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-26T17:29:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
         "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/article/3358482/will-chinas-new-northern-tech-bases-hebei-and-tianjin-spark-local-housing-demand",
-        "title": "Will China’s new northern tech bases in Hebei and Tianjin spark local housing demand?",
-        "url": "https://www.scmp.com/business/article/3358482/will-chinas-new-northern-tech-bases-hebei-and-tianjin-spark-local-housing-demand?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-28T23:00:10.000Z",
-        "summary": "Chinese technology companies establishing new headquarters and offices in northern cities around Beijing are expected to boost local rental demand, but analysts say home sales growth will be far milder than the surges de",
-        "category": "articles",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3358647/faster-ai-lower-costs-dspark-eases-inference-bottlenecks-and-chip-strain-says-deepseek",
         "title": "Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek",
