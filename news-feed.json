@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T19:45:05.035Z",
+  "generatedAt": "2026-06-30T02:36:17.338Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -24,6 +24,16 @@
         "source": "ABA Journal",
         "publishedAt": "2026-06-29T15:58:00.000Z",
         "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/29/kirkland-partners-with-syllo-for-secret-sauce-litigation",
+        "title": "Kirkland Partners With Syllo For Secret Sauce Litigation",
+        "url": "https://www.artificiallawyer.com/2026/06/29/kirkland-partners-with-syllo-for-secret-sauce-litigation/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-29T15:44:05.000Z",
+        "summary": "Fresh from signing a massive deal with Palantir and going on a legal AI hiring spree, Kirkland &#38; Ellis has inked a deal with Syllo, ...",
         "category": "updates",
         "region": "na"
       },
@@ -64,6 +74,16 @@
         "source": "ABA Journal",
         "publishedAt": "2026-06-29T14:24:00.000Z",
         "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future",
+        "title": "AI Sovereignty: Taking Control of Your Legal Tech Future",
+        "url": "https://www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-29T06:52:42.000Z",
+        "summary": "Think of all the things you need to do your job that you have little control over. What happens when those things are suddenly unavailable, ...",
         "category": "updates",
         "region": "na"
       },
@@ -178,6 +198,36 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/23/the-platform-vs-specialist-debate-is-asking-the-wrong-question",
+        "title": "The Platform Vs Specialist Debate is Asking the Wrong Question",
+        "url": "https://www.artificiallawyer.com/2026/06/23/the-platform-vs-specialist-debate-is-asking-the-wrong-question/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-23T07:58:30.000Z",
+        "summary": "By Katja Nikolaus, Co-Founder, JUNE. Two forecasts. Two opposing verdicts. Published within weeks of each other, each delivered with equal confidence. The first: the market ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/23/lexisnexis-webinar-ai-risk-governance-adoption",
+        "title": "LexisNexis Webinar: AI Risk, Governance + Adoption",
+        "url": "https://www.artificiallawyer.com/2026/06/23/lexisnexis-webinar-ai-risk-governance-adoption/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-23T07:28:37.000Z",
+        "summary": "On July 9th, LexisNexis in partnership with Artificial Lawyer, will be holding a panel-format webinar to explore ‘AI Risk, Governance + Adoption’. Panellists: To reserve ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/23/thomson-reuters-cto-joel-hron-on-the-deepjudge-deal",
+        "title": "Thomson Reuters CTO Joel Hron on the DeepJudge Deal",
+        "url": "https://www.artificiallawyer.com/2026/06/23/thomson-reuters-cto-joel-hron-on-the-deepjudge-deal/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-23T07:19:06.000Z",
+        "summary": "In this AL interview, Thomson Reuters CTO, Joel Hron, explores their expanding partnership with KM company DeepJudge. See the earlier story here. DeepJudge and TR ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/06/thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel-legal-saying-beta-users-fing-loved-the-product.html",
         "title": "Thomson Reuters Opens Early Access to the &#8216;Next Generation&#8217; of CoCounsel Legal, Saying Beta Users ‘F#@%ing Loved’ the Product",
         "url": "https://www.lawnext.com/2026/06/thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel-legal-saying-beta-users-fing-loved-the-product.html",
@@ -198,12 +248,62 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/ai-adoption-often-slow-chaotic-tr-survey-finds",
+        "title": "AI Adoption Often Slow + Chaotic, TR Survey Finds",
+        "url": "https://www.artificiallawyer.com/2026/06/22/ai-adoption-often-slow-chaotic-tr-survey-finds/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-22T12:00:40.000Z",
+        "summary": "A new survey by Thomson Reuters on the adoption of AI among professionals suggests that the current state of play is often slow and chaotic. ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
         "title": "BARBRI Acquires Lega, Completing the Startup&#8217;s Pivot From AI Governance to Experiential AI Training",
         "url": "https://www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
         "source": "LawSites",
         "publishedAt": "2026-06-22T11:57:28.000Z",
         "summary": "BARBRI, the legal education company best known for bar exam preparation, has acquired Lega, the AI startup that launched in 2023 with a focus on large language model governance but which has been evolving into helping le",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/the-legal-ai-scaffold-changes-everything-claude-study",
+        "title": "The Legal AI Scaffold Changes Everything – Claude Study",
+        "url": "https://www.artificiallawyer.com/2026/06/22/the-legal-ai-scaffold-changes-everything-claude-study/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-22T08:21:10.000Z",
+        "summary": "A study by consultancy Legal Nodes, which included MikeOSS, shows that no matter how good a general model appears to be, it’s the legal AI ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont",
+        "title": "What Legal AI Benchmarks Reveal That Model Names Don’t",
+        "url": "https://www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-22T07:29:45.000Z",
+        "summary": "By Daniel Lewis, CEO, LegalOn. Foundation models are improving quickly. One useful measure is software engineering: the length of coding tasks that frontier models can ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview",
+        "title": "BARBRI Buys Lega &#8211; Christian Lang Interview",
+        "url": "https://www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-22T07:00:09.000Z",
+        "summary": "Legal education business BARBRI has bought legal AI startup Lega as part of a strategy to provide ‘experiential AI workshops, simulations, hackathons, and lab-style learning ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/19/legal-innovators-paris-crosby-lawvu",
+        "title": "Legal Innovators Paris, Crosby, LawVu +",
+        "url": "https://www.artificiallawyer.com/2026/06/19/legal-innovators-paris-crosby-lawvu/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-19T08:36:14.000Z",
+        "summary": "After California, where next? Paris of course, for Legal Innovators Europe, on June 24 and 25 in the City of Light, and also the city ...",
         "category": "updates",
         "region": "na"
       },
@@ -1106,39 +1206,69 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/video/wqj2rxfb7ci3pmf50zd7",
+        "title": "非科班出身技术Geek，被DeepSeek改写人生",
+        "url": "https://www.infoq.cn/video/wqJ2rxfB7CI3PMF50zD7?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-30T10:22:28.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/30o5wt7gipetipixeas0",
+        "title": "AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
+        "url": "https://www.infoq.cn/article/30O5wT7GIPEtIpiXeAS0?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-30T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3875059110221064",
+        "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+        "url": "https://36kr.com/p/3875059110221064?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-30T02:35:33.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。 纽娲机器人（下称“纽娲”）成立于2026年2月，半年不到的时间已先后获得多家财务、产业基金投资。创始人杨睿刚博士，长期从事3D视觉、仿真技术和自动驾驶/机器人研究，曾任百度自动驾驶与机器人实验室主任，并曾任自动驾",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3875056657044486",
+        "title": "宇树科技、晋拓股份等在上海成立新科技公司，注册资本3000万",
+        "url": "https://36kr.com/newsflashes/3875056657044486?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-30T02:31:28.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，上海拓天智联科技有限公司成立，法定代表人为张心怡，注册资本3000万人民币，经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广，人工智能应用软件开发，智能机器人的研发等。股东信息显示，该公司由晋拓股份、上海南大开发建设有限公司、宇树科技股份有限公司共同持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3875053113824520",
+        "title": "中咨公司战略注资中诚华隆",
+        "url": "https://36kr.com/newsflashes/3875053113824520?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-30T02:27:52.000Z",
+        "summary": "36氪获悉，近日，中国国际工程咨询有限公司（简称“中咨公司”）依托旗下专业基金平台，完成对中诚华隆计算机技术有限公司（简称“中诚华隆”）的战略注资。此次入股，是该基金平台设立后的首个芯片类投资项目，标志着中咨公司正式切入国产算力芯片核心赛道。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3874911939482880",
+        "title": "8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元",
+        "url": "https://36kr.com/p/3874911939482880?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-30T00:05:46.000Z",
+        "summary": "今日热点导览 马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus 美的回应空调产品在欧洲被疯抢 蔚来回应车漆洗车时被冲掉：高压水枪操作不规范 滚石唱片就屠颖去世追责万豪喜来登 百度昆仑芯拟赴港IPO TOP 3大新闻 涉嫌操纵内存价格，三星、SK海力士、美光遭集体诉讼 随着全球内存短缺危机加剧，美国当地消费者和小型企业已采取法律行动。据悉，全球最大的三家内存供应商——三星、SK海力士和美光已因涉嫌",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/moduev4hemt4hb92hebd",
         "title": "GPT-5.6首发，比Fable 5便宜一半！深度评估者直接“开麦”：能力测试中疯狂作弊",
@@ -1160,62 +1290,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3874257198880005",
-        "title": "多位DeepSeek API用户确认已收到调价邮件：V4正式版高峰期价格将翻倍",
-        "url": "https://36kr.com/newsflashes/3874257198880005?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-29T12:58:13.000Z",
-        "summary": "据蓝鲸新闻，6月29日，多位开发者确认，已收到DeepSeek发送的升级提醒邮件。邮件显示，DeepSeekV4正式版计划于7月中旬正式上线，并将同步调整API定价策略，引入峰谷定价机制，以更合理地配置资源、提升服务稳定性。根据邮件内容，V4Pro和V4Flash模型在平时价格保持不变，但高峰时段API价格将调整为平时的2倍。高峰时段为每天上午9点至12点、下午2点至6点。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3874214392386564",
-        "title": "美国加州州长纽森与Anthropic签约，全州政务半价普及Claude大模型",
-        "url": "https://36kr.com/newsflashes/3874214392386564?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-29T12:23:32.000Z",
-        "summary": "加州州长加文・纽森已与人工智能企业Anthropic达成合作，以优惠采购价在加州各级政府全面推广Claude系列大模型产品。落地后Claude将成为首个面向加州全部州属部门、市县地方政府开放使用的AI工具。此前数月，Anthropic与特朗普联邦政府持续博弈：美方限制该企业顶尖模型落地推广，并将其认定为国家供应链风险主体。纽森政府此次合作旨在大幅降低政务AI使用成本、推动Claude普及：州政府部门、自愿参与的加州各市县采购该对话机器人",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3874195977901062",
-        "title": "神工股份：股票交易异常波动，市盈率显著高于行业水平",
-        "url": "https://36kr.com/newsflashes/3874195977901062?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-29T12:01:52.000Z",
-        "summary": "36氪获悉，神工股份公告，公司股票连续三个交易日(6月25日、26日、29日)收盘价格涨幅偏离值累计达30%，属于股票交易异常波动。截至6月29日，公司收盘价194.33元/股，滚动市盈率334.60倍，静态市盈率324.35倍，显著高于所属行业平均市盈率（滚动66.97倍、静态73.27倍），存在估值较高风险。半导体行业结构性行情显著，受全球经济、技术迭代等因素综合影响。目前行业景气度主要受到海外科技巨头对人工智能业务的巨额资本开支所",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3874197541344262",
-        "title": "比亚迪自研智驾芯片预计2027年首搭量产车型",
-        "url": "https://36kr.com/newsflashes/3874197541344262?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-29T11:57:32.000Z",
-        "summary": "比亚迪正计划明年在腾势品牌的量产新车上首搭自研智驾芯片璇玑A3。官方信息显示，这颗4nm芯片单颗算力超过700 TOPS，三颗协同总算力超过2100 TOPS，支持L3、L4自动驾驶，已开始量产。新势力车企惯常强调的“软硬件一体” 优势，在芯片发布时也被比亚迪提及。比亚迪称，璇玑A3单位算力功耗较同级产品低20%，结合自研算法优化后，算力利用率提升100%。（晚点LatePost）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3874045136720899",
         "title": "烧光5000亿后，京东方开始给股民赚钱",
         "url": "https://36kr.com/p/3874045136720899?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-06-29T11:51:05.000Z",
         "summary": "作者 | 范亮 编辑 | 张帆 很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。 人气足够高，股价却长期止步不前。2001年京东方上市之初，开盘价为3.54元/股（前复权）；到2025年末，收盘价为4.17元/股。二十多年过去，股价累计涨幅只有18%。 面板行业的重资产投入和强周期特征，是制约京东方股价表现的核心因素。上 市以来，京东方累计资本开支",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3874178187875335",
-        "title": "国家超算互联网推出万卡共创者激励计划",
-        "url": "https://36kr.com/newsflashes/3874178187875335?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-29T11:44:22.000Z",
-        "summary": "36氪获悉，近日，国家超算互联网正式启动SCNet万卡共创者激励计划，将基于scaleX万卡超集群，面向全球AI开发者、初创团队、科研机构提供最高亿级词元（Tokens）额度与千卡时国产算力资源。该计划围绕AI、AI4S两大核心主题，开展国产算力最佳实践、开发者竞赛、AI应用孵化等共创项目，覆盖民生应用、工业仿真、生物医药等多元场景。",
         "category": "updates",
         "region": "cn"
       },
@@ -1258,29 +1338,19 @@
         "summary": "“每一代模型，我们都在押注一个非共识。” 文｜邓咏仪 编辑｜张雨忻 Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。 Sand.ai 是一家视频生成模型和产品公司，成立于2024年1月。曹越创立Sand.ai 的故事也已经被讲过很多遍：在上一段创业“光年之外”戛然而止后，曹越很快就投入到 Sand.ai 的创业中，做视频生成模型。 彼时，市场的主流叙事是 Diffusion 路线，几乎没有人认为曹越选择的自回归（Autoreg",
         "category": "tools",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3873710996902912",
-        "title": "36氪首发 | URTOPIA联创做了款智能指环，众筹已破千万元",
-        "url": "https://36kr.com/p/3873710996902912?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-29T03:43:03.000Z",
-        "summary": "作者 | 张子怡 编辑 | 袁斯来 近日，AI可穿戴品牌AIVELA宣布完成数百万美元首轮融资。本轮融资由线性资本领投，锋领资本跟投，智能电助力自行车品牌URTOPIA等产业方共同加注。 本轮融资将主要用于下一代AI可穿戴产品研发、健康数据与AI Agent能力建设、全球市场拓展以及核心团队扩张。AIVELA将以智能指环、智能手链等贴身可穿戴产品为起点，面向全球市场构筑融合健康感知、自然交互与AI健康服务的新一代消费科技品牌。 当前，消",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3873681978840071",
-        "title": "秋声 | 海光芯正IPO背后，卖铲生意为何越做越亏？",
-        "url": "https://36kr.com/p/3873681978840071?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-29T03:13:49.000Z",
-        "summary": "本文约2500字，建议阅读5分钟 作者 | 彭孝秋 编者按： AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第四期，海光芯正。 6月29日，北京海光芯正（01191.HK）正式在港交所敲钟上市，此次IPO招股价114港元，每手",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3358823/hong-kong-ipos-ride-chinas-tech-wave-nasdaq-leads-way-spacex-tsunami",
+        "title": "Hong Kong IPOs ride China’s tech wave, but Nasdaq leads way with SpaceX tsunami",
+        "url": "https://www.scmp.com/business/banking-finance/article/3358823/hong-kong-ipos-ride-chinas-tech-wave-nasdaq-leads-way-spacex-tsunami?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-06-30T02:00:09.000Z",
+        "summary": "Hong Kong has surrendered its IPO fundraising crown to Nasdaq following SpaceX’s blockbuster listing earlier this month, but it did so while seeing its IPO proceeds register a year-on-year rise of about 84 per cent in th",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3358647/faster-ai-lower-costs-dspark-eases-inference-bottlenecks-and-chip-strain-says-deepseek",
         "title": "Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek",
