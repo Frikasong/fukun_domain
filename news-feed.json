@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T14:00:15.791Z",
+  "generatedAt": "2026-06-30T19:43:57.669Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,86 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/texas&",
+        "title": "Judge admonishes former personal injury partners known as &#8216;Avocados at Law&#8217;",
+        "url": "https://www.abajournal.com/news/article/texas&#45;judge&#45;passes&#45;a&#45;ruling&#45;on&#45;former&#45;personal&#45;injury&#45;avacados&#45;at&#45;law&#45;partners/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-30T19:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/more&",
+        "title": "More than 100 retired California judges defend judiciary, rule of law in new &#8216;Wall of Justice&#8217; video",
+        "url": "https://www.abajournal.com/web/article/more&#45;than&#45;100&#45;retired&#45;california&#45;judges&#45;defend&#45;judiciary&#45;rule&#45;of&#45;law&#45;in&#45;new&#45;video/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-30T18:48:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/after-the-barbri-deal-legas-christian-lang-says-the-governance-platform-isnt-going-away-but-it-is-going-to-school.html",
+        "title": "After the BARBRI Deal, Lega&#8217;s Christian Lang Says the Governance Platform Isn&#8217;t Going Away, But It Is Going to School",
+        "url": "https://www.lawnext.com/2026/06/after-the-barbri-deal-legas-christian-lang-says-the-governance-platform-isnt-going-away-but-it-is-going-to-school.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-30T17:48:19.000Z",
+        "summary": "When I wrote last week about BARBRI&#8217;s acquisition of Lega, I had not yet had the chance to speak with Lega founder Christian Lang, who was traveling. So I closed that post with what was admittedly conjecture on my ",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
+        "title": "ABA Young Lawyers Division names 2026 Top 40 Young Lawyers",
+        "url": "https://www.abajournal.com/news/article/aba&#45;young&#45;lawyers&#45;division&#45;names&#45;2026&#45;top&#45;40&#45;young&#45;lawyers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-30T17:01:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/mississippi&",
+        "title": "District attorney plans to resign after pleading guilty to conspiracy",
+        "url": "https://www.abajournal.com/news/article/mississippi&#45;da&#45;plans&#45;to&#45;resign&#45;after&#45;pleading&#45;guilty&#45;to&#45;conspiracy/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-30T16:05:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/supreme&",
+        "title": "SCOTUS justices report millions in income from books, teaching and gifts",
+        "url": "https://www.abajournal.com/news/article/supreme&#45;court&#45;justices&#45;report&#45;millions&#45;in&#45;income&#45;from&#45;books&#45;teaching&#45;and&#45;gifts/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-30T15:29:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/md&",
+        "title": "Lawyer sues DOJ for more than $30M over dropped fraud charges",
+        "url": "https://www.abajournal.com/news/article/md&#45;lawyer&#45;sues&#45;doj&#45;over&#45;dropped&#45;fraud&#45;charges/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-30T15:15:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/a&",
+        "title": "A lawyer’s Buddhist perspective on truth in legal practice",
+        "url": "https://www.abajournal.com/voice/article/a&#45;lawyers&#45;buddhist&#45;perspective&#45;on&#45;truth&#45;in&#45;legal&#45;practice/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-06-30T14:25:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/scott-stevenson-interview-spellbook-acm",
         "title": "Scott Stevenson Interview: Spellbook ACM",
@@ -108,72 +188,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/ice&",
-        "title": "ICE fines attorney over $250K for allegedly filing false asylum claims",
-        "url": "https://www.abajournal.com/news/article/ice&#45;fining&#45;attorney&#45;for&#45;allegedly&#45;filing&#45;false&#45;asylum&#45;claims/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-29T15:17:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
-        "title": "Lawyer used technical experience to fight $100 speeding ticket",
-        "url": "https://www.abajournal.com/news/article/lawyer&#45;used&#45;technical&#45;experience&#45;to&#45;fight&#45;100&#45;speeding&#45;ticket/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-29T14:55:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/can&",
-        "title": "Can law schools learn from computer science programs in the debate on generative AI?",
-        "url": "https://www.abajournal.com/columns/article/can&#45;law&#45;schools&#45;learn&#45;from&#45;computer&#45;science&#45;programs&#45;in&#45;the&#45;debate&#45;on&#45;generative&#45;ai/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-29T14:24:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future",
         "title": "AI Sovereignty: Taking Control of Your Legal Tech Future",
         "url": "https://www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-29T06:52:42.000Z",
         "summary": "Think of all the things you need to do your job that you have little control over. What happens when those things are suddenly unavailable, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/new&",
-        "title": "New Mexico justices propose new pathway to the bar to ease rural legal desert",
-        "url": "https://www.abajournal.com/web/article/new&#45;mexico&#45;justices&#45;propose&#45;new&#45;pathway&#45;to&#45;the&#45;bar&#45;to&#45;ease&#45;rural&#45;legal&#45;desert/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-26T21:43:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/high&",
-        "title": "High-profile lawyer convicted of indecent assault of Amtrak employee",
-        "url": "https://www.abajournal.com/news/article/high&#45;profile&#45;baltimore&#45;lawyer&#45;convicted&#45;of&#45;amtrak&#45;train&#45;assault/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-26T18:26:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/some&",
-        "title": "Some law profs move to old-school assessment methods to combat AI",
-        "url": "https://www.abajournal.com/web/article/some&#45;law&#45;profs&#45;move&#45;to&#45;old&#45;school&#45;assessment&#45;methods&#45;to&#45;combat&#45;ai/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-26T17:43:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -185,16 +205,6 @@
         "publishedAt": "2026-06-26T17:22:43.000Z",
         "summary": "The closely watched copyright litigation between Thomson Reuters and ROSS Intelligence returned to the spotlight this month as a three-judge panel of the 3rd U.S. Circuit Court of Appeals heard arguments over whether ROS",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/nearly&",
-        "title": "Nearly one quarter of UCLA law students granted extra time on exams",
-        "url": "https://www.abajournal.com/news/article/nearly&#45;one&#45;quarter&#45;of&#45;ucla&#45;law&#45;students&#45;granted&#45;extra&#45;time&#45;on&#45;exams/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-06-26T15:41:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1168,16 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/03/data-intelligence-company-relativity-confidentially-files-for-ipo-would-be-first-in-legal-tech-since-2021.html",
-        "title": "Data Intelligence Company Relativity Confidentially Files for IPO; Would Be First In Legal Tech Since 2021",
-        "url": "https://www.lawnext.com/2026/03/data-intelligence-company-relativity-confidentially-files-for-ipo-would-be-first-in-legal-tech-since-2021.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-23T12:40:14.000Z",
-        "summary": "The legal data intelligence company Relativity says it has confidentially submitted a draft registration statement with the U.S. Securities and Exchange Commission for a proposed initial public offering of its Class A co",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1362,13 +1362,13 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3358887/half-year-hong-kong-stocks-report-card-shares-drop-11-fed-pivot-lack-ai-play",
-        "title": "Half-year Hong Kong stocks report card: shares drop 11% on Fed pivot, lack of AI play",
-        "url": "https://www.scmp.com/business/china-business/article/3358887/half-year-hong-kong-stocks-report-card-shares-drop-11-fed-pivot-lack-ai-play?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/news/article/3358948/uk-investors-sue-binance-and-founder-zhao-changpeng-us200-million",
+        "title": "UK investors sue Binance and founder Zhao Changpeng for US$200 million",
+        "url": "https://www.scmp.com/news/article/3358948/uk-investors-sue-binance-and-founder-zhao-changpeng-us200-million?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-06-30T08:19:20.000Z",
-        "summary": "Hong Kong stocks closed out the first half with a loss, ranking the city’s market among the worst performers globally, as a shift by the Federal Reserve and a dearth of pure exposure to artificial intelligence put invest",
-        "category": "articles",
+        "publishedAt": "2026-06-30T18:06:50.000Z",
+        "summary": "Almost 1,700 British ⁠investors are suing ⁠Binance and founder ⁠Zhao Changpeng for at least £150 million (US$200 million), alleging the crypto trading platform sold them risky, complex derivative products without regulat",
+        "category": "tools",
         "region": "cn_en"
       },
       {
