@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T08:58:14.428Z",
+  "generatedAt": "2026-06-30T14:00:15.791Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/scott-stevenson-interview-spellbook-acm",
+        "title": "Scott Stevenson Interview: Spellbook ACM",
+        "url": "https://www.artificiallawyer.com/2026/06/30/scott-stevenson-interview-spellbook-acm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T13:13:46.000Z",
+        "summary": "And now the in-depth AL interview with Spellbook’s CEO, Scott Stevenson, all about the ACM launch, what it means, how AI contract review is at ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/06/supio-hires-coo-of-nevadas-largest-pi-firm-as-its-first-vp-of-industry-to-help-drive-innovation-strategy.html",
+        "title": "Supio Hires COO of Nevada&#8217;s Largest PI Firm As Its First VP of Industry, To Help Drive Innovation Strategy",
+        "url": "https://www.lawnext.com/2026/06/supio-hires-coo-of-nevadas-largest-pi-firm-as-its-first-vp-of-industry-to-help-drive-innovation-strategy.html",
+        "source": "LawSites",
+        "publishedAt": "2026-06-30T13:07:35.000Z",
+        "summary": "Supio, the AI platform built for plaintiffs&#8217; personal injury firms, has hired Melissa Graham, chief operating officer of Nevada&#8217;s Richard Harris Law Firm for the last 15 years, as its vice president of indust",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/spellbook-launches-clm-killer-acm",
+        "title": "Spellbook Launches &#8216;CLM Killer&#8217; ACM",
+        "url": "https://www.artificiallawyer.com/2026/06/30/spellbook-launches-clm-killer-acm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T13:00:09.000Z",
+        "summary": "Spellbook has launched Autonomous Contract Management (ACM) for inhouse teams, the biggest expansion of its offering since it got going in 2022 – see AL ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/ai-agents-will-handle-30-of-inhouse-work-deloitte",
         "title": "‘AI Agents Will Handle 30% of Inhouse Work’ – Deloitte",
@@ -278,32 +308,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/ai-adoption-often-slow-chaotic-tr-survey-finds",
-        "title": "AI Adoption Often Slow + Chaotic, TR Survey Finds",
-        "url": "https://www.artificiallawyer.com/2026/06/22/ai-adoption-often-slow-chaotic-tr-survey-finds/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-22T12:00:40.000Z",
-        "summary": "A new survey by Thomson Reuters on the adoption of AI among professionals suggests that the current state of play is often slow and chaotic. ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
         "title": "BARBRI Acquires Lega, Completing the Startup&#8217;s Pivot From AI Governance to Experiential AI Training",
         "url": "https://www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
         "source": "LawSites",
         "publishedAt": "2026-06-22T11:57:28.000Z",
         "summary": "BARBRI, the legal education company best known for bar exam preparation, has acquired Lega, the AI startup that launched in 2023 with a focus on large language model governance but which has been evolving into helping le",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/the-legal-ai-scaffold-changes-everything-claude-study",
-        "title": "The Legal AI Scaffold Changes Everything – Claude Study",
-        "url": "https://www.artificiallawyer.com/2026/06/22/the-legal-ai-scaffold-changes-everything-claude-study/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-22T08:21:10.000Z",
-        "summary": "A study by consultancy Legal Nodes, which included MikeOSS, shows that no matter how good a general model appears to be, it’s the legal AI ...",
         "category": "updates",
         "region": "na"
       },
@@ -1168,16 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/03/lawnext-on-location-visiting-everlaws-headquarters-for-a-conversation-with-aj-shankar-founder-and-ceo.html",
-        "title": "LawNext on Location: Visiting Everlaw’s Headquarters For A Conversation with AJ Shankar, Founder and CEO",
-        "url": "https://www.lawnext.com/2026/03/lawnext-on-location-visiting-everlaws-headquarters-for-a-conversation-with-aj-shankar-founder-and-ceo.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-19T15:22:44.000Z",
-        "summary": "For the final installment of our LawNext on Location series, all recorded during my trip to San Francisco, I head across the bay to Oakland, to the headquarters of e-discovery company Everlaw, where I sit down with found",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,21 +1210,31 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/d5mopsygi5xpi1erhuw3",
-        "title": "Google OpenRL 是一个用于大型语言模型（LLM）后训练微调的实验性自托管 API",
-        "url": "https://www.infoq.cn/article/d5MOPSyGi5XPi1erhUW3?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/lgkwa0phn4zsokb4c4pv",
+        "title": "8 人起家年入上亿美元，推出自研大模型对战 Cursor、Claude Code？",
+        "url": "https://www.infoq.cn/article/lgKWA0PHN4zsOkB4C4Pv?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-30T15:21:00.000Z",
+        "publishedAt": "2026-06-30T18:29:30.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/t78dbsmm5kzabshzemuo",
-        "title": "3000块钱，这支中国团队把ChatGPT成功的“秘密”用在了机器人训练上",
-        "url": "https://www.infoq.cn/article/t78dBsMM5KZabshzEMuo?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/6wcaamdgsr8r46j3ozd4",
+        "title": "Cursor、OpenClaw 同时出手，“口袋编程”时代来了：程序员只用“动嘴”！",
+        "url": "https://www.infoq.cn/article/6WCaAMdgSR8r46j3OZd4?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-30T15:07:50.000Z",
+        "publishedAt": "2026-06-30T17:46:54.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/d5mopsygi5xpi1erhuw3",
+        "title": "Google OpenRL 是一个用于大型语言模型（LLM）后训练微调的实验性自托管 API",
+        "url": "https://www.infoq.cn/article/d5MOPSyGi5XPi1erhUW3?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-30T15:21:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1240,6 +1250,26 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/p/3873626697470985",
+        "title": "氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国将建立近地小行星天地协同监测体系",
+        "url": "https://36kr.com/p/3873626697470985?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-30T11:56:34.000Z",
+        "summary": "大公司： 保时捷中国回应取消多门店销售授权 近日，有媒体报道称，安徽芜湖、山东济宁、江苏淮安及广西南宁部分保时捷中心，将于6月30日终止经销业务，这意味着上述门店将失去保时捷官方独立销售授权，此事引起广泛关注。6月30日，保时捷中国向记者表示，山东济宁、江苏淮安、广西南宁兴宁保时捷中心将于6月30日终止经销业务，安徽芜湖保时捷中心将于7月31日终止销售业务，但售后仍正常运营，为车主提供符合保时捷标准的售后服务。（中新网） 三只松鼠：获得",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3875594645991685",
+        "title": "2连板魅视科技：暂无在半导体、算力等相关领域存在并购的意向、协议等",
+        "url": "https://36kr.com/newsflashes/3875594645991685?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-30T11:38:44.000Z",
+        "summary": "36氪获悉，魅视科技公告，公司注意到近期市场对半导体、AI算力等板块关注度较高，虽然公司在前期与投资者交流时曾提及“目前，公司主要围绕主业积极开展投资并购相关工作，并购方向为半导体、算力等相关领域”，但截至本公告发布日，公司暂无在上述领域存在并购的意向、协议等，未来若有相关进展，公司将严格按照相关法律法规，及时履行信息披露义务。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/video/wqj2rxfb7ci3pmf50zd7",
         "title": "非科班出身技术Geek，被DeepSeek改写人生（上集）",
         "url": "https://www.infoq.cn/video/wqJ2rxfB7CI3PMF50zD7?utm_source=rss&utm_medium=article",
@@ -1250,32 +1280,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3875411572781064",
-        "title": "OpenSquilla发布0.4.0版本",
-        "url": "https://36kr.com/newsflashes/3875411572781064?f=rss",
+        "id": "36Kr:36kr.com/p/3875513946206216",
+        "title": "科氪 | 小尺寸大满足！全球首款水冷RGB平板发布，185HzOLED屏幕+PC模拟器平板秒变台式主机",
+        "url": "https://36kr.com/p/3875513946206216?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-06-30T08:32:30.000Z",
-        "summary": "36氪获悉，开源AI Agent项目OpenSquilla近日发布0.4.0版本，核心更新是推出编码工作流coding模式，并首次为AI编码引入“自我验证”机制。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3875368322380033",
-        "title": "优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场",
-        "url": "https://36kr.com/newsflashes/3875368322380033?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-30T07:48:31.000Z",
-        "summary": "6月29日，优艾智合机器人发布具身智能系列新品，包括全球首发可规模化应用的工业具身智能大模型“智合”（FabriX），以及工业原生人形机器人“隙锋”。同时，优艾智合宣布启动FabriX生态伙伴计划，提出“3年内赋能10000个工业现场”的目标。优艾智合基于“一脑多态”架构，将机器人广泛应用于半导体、锂电、3C、能源等工业领域，累计落地超800个项目。根据弗若斯特沙利文报告，以2024年收入计，优艾智合工业移动操作机器人全球市占率第一。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3875366925889538",
-        "title": "广大特材：用于半导体设备的材料具备批量供货能力，但近期暂无该业务相关收入",
-        "url": "https://36kr.com/newsflashes/3875366925889538?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-30T07:47:05.000Z",
-        "summary": "36氪获悉，广大特材在互动平台表示，公司用于半导体设备的材料具备批量供货能力，但近期暂无该业务相关收入。",
+        "publishedAt": "2026-06-30T10:16:47.000Z",
+        "summary": "2025年6月30日，继红魔电竞平板 3 Pro 开创OLED 小平板赛道后，红魔再度突破技术边界，正式发布红魔游戏平板 5 Pro。作为行业首款搭载主动水冷散热+RGB 可视化水冷灯效的游戏平板，红魔游戏平板 5 Pro以「水冷散热、透明美学、跨端 3A、全能 AI 生产力」四大核心革新，实现小尺寸机身、PC级散热、极致电竞视效、全场景多设备融合，重新定义游戏平板的性能与体验上限。 官方图片 一、透明水冷美学，9.06黄金尺寸一手掌控",
         "category": "updates",
         "region": "cn"
       },
@@ -1316,26 +1326,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-30T00:05:46.000Z",
         "summary": "今日热点导览 马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus 美的回应空调产品在欧洲被疯抢 蔚来回应车漆洗车时被冲掉：高压水枪操作不规范 滚石唱片就屠颖去世追责万豪喜来登 百度昆仑芯拟赴港IPO TOP 3大新闻 涉嫌操纵内存价格，三星、SK海力士、美光遭集体诉讼 随着全球内存短缺危机加剧，美国当地消费者和小型企业已采取法律行动。据悉，全球最大的三家内存供应商——三星、SK海力士和美光已因涉嫌",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/moduev4hemt4hb92hebd",
-        "title": "GPT-5.6首发，比Fable 5便宜一半！深度评估者直接“开麦”：能力测试中疯狂作弊",
-        "url": "https://www.infoq.cn/article/MODueV4HEMT4Hb92HebD?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-29T16:04:07.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vceipbyzky9lsaoubvtp",
-        "title": "收购仅一年即“决裂”！创始人贾扬清出走英伟达：黄仁勋不满运营效果，20 亿美金的 AI Infra 突围为何折戟？",
-        "url": "https://www.infoq.cn/article/VceiPBYzkY9lSAOubvtP?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-29T15:29:45.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
