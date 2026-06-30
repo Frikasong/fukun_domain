@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T02:36:17.338Z",
+  "generatedAt": "2026-06-30T08:58:14.428Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/ai-agents-will-handle-30-of-inhouse-work-deloitte",
+        "title": "‘AI Agents Will Handle 30% of Inhouse Work’ – Deloitte",
+        "url": "https://www.artificiallawyer.com/2026/06/30/ai-agents-will-handle-30-of-inhouse-work-deloitte/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T08:56:13.000Z",
+        "summary": "A market analysis by Deloitte Legal suggests that in the next three to five years AI agents could handle 30% of the work within corporate ...",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/webinar-ai-native-workflows-in-litigation-beyond",
+        "title": "Webinar: AI-Native Workflows in Litigation + Beyond",
+        "url": "https://www.artificiallawyer.com/2026/06/30/webinar-ai-native-workflows-in-litigation-beyond/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T07:51:50.000Z",
+        "summary": "Join Opus 2 and Artificial Lawyer for this special live webinar: ‘From AI-enabled to AI-native workflows in litigation and beyond,’ on July 23rd, 4:00 PM ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/reed-smith-to-school-partners-on-ai-is-this-useful",
+        "title": "Reed Smith to School Partners on AI &#8211; Is This Useful?",
+        "url": "https://www.artificiallawyer.com/2026/06/30/reed-smith-to-school-partners-on-ai-is-this-useful/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T06:46:50.000Z",
+        "summary": "Reed Smith has launched an ‘AI Leadership Program’ at Cornell University, which the firm said will equip partners to support clients who are ‘navigating one ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/judiciary&",
         "title": "Judiciary approves PACER fee increase to modernize case management, public access",
@@ -274,36 +304,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-22T08:21:10.000Z",
         "summary": "A study by consultancy Legal Nodes, which included MikeOSS, shows that no matter how good a general model appears to be, it’s the legal AI ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont",
-        "title": "What Legal AI Benchmarks Reveal That Model Names Don’t",
-        "url": "https://www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-22T07:29:45.000Z",
-        "summary": "By Daniel Lewis, CEO, LegalOn. Foundation models are improving quickly. One useful measure is software engineering: the length of coding tasks that frontier models can ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview",
-        "title": "BARBRI Buys Lega &#8211; Christian Lang Interview",
-        "url": "https://www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-22T07:00:09.000Z",
-        "summary": "Legal education business BARBRI has bought legal AI startup Lega as part of a strategy to provide ‘experiential AI workshops, simulations, hackathons, and lab-style learning ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/19/legal-innovators-paris-crosby-lawvu",
-        "title": "Legal Innovators Paris, Crosby, LawVu +",
-        "url": "https://www.artificiallawyer.com/2026/06/19/legal-innovators-paris-crosby-lawvu/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-19T08:36:14.000Z",
-        "summary": "After California, where next? Paris of course, for Legal Innovators Europe, on June 24 and 25 in the City of Light, and also the city ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,22 +1210,92 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/video/wqj2rxfb7ci3pmf50zd7",
-        "title": "非科班出身技术Geek，被DeepSeek改写人生",
-        "url": "https://www.infoq.cn/video/wqJ2rxfB7CI3PMF50zD7?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/d5mopsygi5xpi1erhuw3",
+        "title": "Google OpenRL 是一个用于大型语言模型（LLM）后训练微调的实验性自托管 API",
+        "url": "https://www.infoq.cn/article/d5MOPSyGi5XPi1erhUW3?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-30T10:22:28.000Z",
+        "publishedAt": "2026-06-30T15:21:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/30o5wt7gipetipixeas0",
-        "title": "AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
-        "url": "https://www.infoq.cn/article/30O5wT7GIPEtIpiXeAS0?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/t78dbsmm5kzabshzemuo",
+        "title": "3000块钱，这支中国团队把ChatGPT成功的“秘密”用在了机器人训练上",
+        "url": "https://www.infoq.cn/article/t78dBsMM5KZabshzEMuo?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-30T09:00:00.000Z",
+        "publishedAt": "2026-06-30T15:07:50.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qodhrm0i3lsv0ughfdwt",
+        "title": "AI 接进企业之后，API 安全开始成为新盲区",
+        "url": "https://www.infoq.cn/article/QODhrm0I3LSV0uGhFdWt?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-30T14:15:38.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/wqj2rxfb7ci3pmf50zd7",
+        "title": "非科班出身技术Geek，被DeepSeek改写人生（上集）",
+        "url": "https://www.infoq.cn/video/wqJ2rxfB7CI3PMF50zD7?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-06-30T10:22:29.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3875411572781064",
+        "title": "OpenSquilla发布0.4.0版本",
+        "url": "https://36kr.com/newsflashes/3875411572781064?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-30T08:32:30.000Z",
+        "summary": "36氪获悉，开源AI Agent项目OpenSquilla近日发布0.4.0版本，核心更新是推出编码工作流coding模式，并首次为AI编码引入“自我验证”机制。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3875368322380033",
+        "title": "优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场",
+        "url": "https://36kr.com/newsflashes/3875368322380033?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-30T07:48:31.000Z",
+        "summary": "6月29日，优艾智合机器人发布具身智能系列新品，包括全球首发可规模化应用的工业具身智能大模型“智合”（FabriX），以及工业原生人形机器人“隙锋”。同时，优艾智合宣布启动FabriX生态伙伴计划，提出“3年内赋能10000个工业现场”的目标。优艾智合基于“一脑多态”架构，将机器人广泛应用于半导体、锂电、3C、能源等工业领域，累计落地超800个项目。根据弗若斯特沙利文报告，以2024年收入计，优艾智合工业移动操作机器人全球市占率第一。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3875366925889538",
+        "title": "广大特材：用于半导体设备的材料具备批量供货能力，但近期暂无该业务相关收入",
+        "url": "https://36kr.com/newsflashes/3875366925889538?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-30T07:47:05.000Z",
+        "summary": "36氪获悉，广大特材在互动平台表示，公司用于半导体设备的材料具备批量供货能力，但近期暂无该业务相关收入。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3875120747942913",
+        "title": "成立9个月，在手订单4.4亿，「谱星航天」连续完成两轮数亿元融资｜36氪首发",
+        "url": "https://36kr.com/p/3875120747942913?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-30T03:39:04.000Z",
+        "summary": "文 | 阿至 光谱定量遥感赛道跑出一匹黑马。 36氪未来产业独家获悉，光学载荷与微纳卫星系统解决方案提供商上海谱星航天科技有限公司（下简称“谱星航天”） 已于近期连续完成天使+、Pre-A两轮融资，累计规模为数亿元。 Pre-A轮由国泰海通、尚融资本、司南基金联合领投，徐汇资本、联融志道、金浦投资跟投，老股东联想控股、鼎农科技、普华资本追投。天使+轮投资方为联想控股、普华资本。 谱星航天是我们长期关注的企业，成立9个月内，共完成3轮融资",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3875047283659777",
+        "title": "万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法",
+        "url": "https://36kr.com/p/3875047283659777?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-06-30T03:24:49.000Z",
+        "summary": "过去几年，AI的战场在屏幕里。GPT系列用参数堆出了惊人的语言能力，Sora用视频生成震撼了全世界……但2026年，产业界达成了一组共识：2026年，是物理AI的元年。 年初拉斯维加斯CES上，英伟达CEO黄仁勋用一场演讲，17遍提及物理AI，用以宣布“物理AI的ChatGPT时刻已经来了”。这也是他近两年一直推崇备至的关键词。而在过去的2年多时间里，物理AI在“大脑”（VLA模型）、“想象引擎”（世界模型）、训练场、本体及商业闭环五个",
         "category": "updates",
         "region": "cn"
       },
@@ -1236,26 +1306,6 @@
         "source": "36Kr",
         "publishedAt": "2026-06-30T02:35:33.000Z",
         "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。 纽娲机器人（下称“纽娲”）成立于2026年2月，半年不到的时间已先后获得多家财务、产业基金投资。创始人杨睿刚博士，长期从事3D视觉、仿真技术和自动驾驶/机器人研究，曾任百度自动驾驶与机器人实验室主任，并曾任自动驾",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3875056657044486",
-        "title": "宇树科技、晋拓股份等在上海成立新科技公司，注册资本3000万",
-        "url": "https://36kr.com/newsflashes/3875056657044486?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-30T02:31:28.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，上海拓天智联科技有限公司成立，法定代表人为张心怡，注册资本3000万人民币，经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广，人工智能应用软件开发，智能机器人的研发等。股东信息显示，该公司由晋拓股份、上海南大开发建设有限公司、宇树科技股份有限公司共同持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3875053113824520",
-        "title": "中咨公司战略注资中诚华隆",
-        "url": "https://36kr.com/newsflashes/3875053113824520?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-06-30T02:27:52.000Z",
-        "summary": "36氪获悉，近日，中国国际工程咨询有限公司（简称“中咨公司”）依托旗下专业基金平台，完成对中诚华隆计算机技术有限公司（简称“中诚华隆”）的战略注资。此次入股，是该基金平台设立后的首个芯片类投资项目，标志着中咨公司正式切入国产算力芯片核心赛道。",
         "category": "updates",
         "region": "cn"
       },
@@ -1310,26 +1360,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/uj7sk8hw50t256cmovf1",
-        "title": "不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？",
-        "url": "https://www.infoq.cn/article/uJ7sK8HW50T256cMoVF1?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-29T10:03:31.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/6fp1sl5crwdggvrxrwin",
-        "title": "不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
-        "url": "https://www.infoq.cn/article/6FP1sl5CrwdggVrXrwIN?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-29T09:58:07.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3873965241931014",
         "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
         "url": "https://36kr.com/p/3873965241931014?f=rss",
@@ -1342,13 +1372,13 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3358823/hong-kong-ipos-ride-chinas-tech-wave-nasdaq-leads-way-spacex-tsunami",
-        "title": "Hong Kong IPOs ride China’s tech wave, but Nasdaq leads way with SpaceX tsunami",
-        "url": "https://www.scmp.com/business/banking-finance/article/3358823/hong-kong-ipos-ride-chinas-tech-wave-nasdaq-leads-way-spacex-tsunami?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3358887/half-year-hong-kong-stocks-report-card-shares-drop-11-fed-pivot-lack-ai-play",
+        "title": "Half-year Hong Kong stocks report card: shares drop 11% on Fed pivot, lack of AI play",
+        "url": "https://www.scmp.com/business/china-business/article/3358887/half-year-hong-kong-stocks-report-card-shares-drop-11-fed-pivot-lack-ai-play?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-06-30T02:00:09.000Z",
-        "summary": "Hong Kong has surrendered its IPO fundraising crown to Nasdaq following SpaceX’s blockbuster listing earlier this month, but it did so while seeing its IPO proceeds register a year-on-year rise of about 84 per cent in th",
-        "category": "updates",
+        "publishedAt": "2026-06-30T08:19:20.000Z",
+        "summary": "Hong Kong stocks closed out the first half with a loss, ranking the city’s market among the worst performers globally, as a shift by the Federal Reserve and a dearth of pure exposure to artificial intelligence put invest",
+        "category": "articles",
         "region": "cn_en"
       },
       {
