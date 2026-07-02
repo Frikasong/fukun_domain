@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T08:43:28.669Z",
+  "generatedAt": "2026-07-02T13:41:15.304Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,16 +7,6 @@
   },
   "panels": {
     "na": [
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/02/anthropics-dangerous-fable-is-back-how-does-it-do",
-        "title": "Anthropic’s ‘Dangerous’ Fable Is Back! How Does It Do?",
-        "url": "https://www.artificiallawyer.com/2026/07/02/anthropics-dangerous-fable-is-back-how-does-it-do/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-02T06:52:09.000Z",
-        "summary": "Anthropic’s ‘dangerous’ Mythos class model, Fable 5, is back and Artificial Lawyer took it for a spin. First, this site asked it to produce some ...",
-        "category": "updates",
-        "region": "na"
-      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/new&",
         "title": "After emergencies mar bar exam, New York State Bar Association aims to add new procedures",
@@ -98,26 +88,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/01/biomechanics-and-legal-ai",
-        "title": "Biomechanics and Legal AI",
-        "url": "https://www.artificiallawyer.com/2026/07/01/biomechanics-and-legal-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-01T08:28:59.000Z",
-        "summary": "If you’ve seen me give a talk, then you may have noted my framing of companies as organisms that use their inhouse legal function to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/01/digital-toolbox-juristic-joins-board-intelligence",
-        "title": "‘Digital Toolbox’ Juristic Joins Board Intelligence",
-        "url": "https://www.artificiallawyer.com/2026/07/01/digital-toolbox-juristic-joins-board-intelligence/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-01T07:05:27.000Z",
-        "summary": "Juristic, a legal tech startup that offers a broad range of task management and timeline skills, has joined Board Intelligence, the appropriately named board technology ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "ABA Journal:www.abajournal.com/magazine/article/a&",
         "title": "A Test of Time: The enduring meaning of the Declaration of Independence",
         "url": "https://www.abajournal.com/magazine/article/a&#45;test&#45;of&#45;time/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -158,16 +128,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/scott-stevenson-interview-spellbook-acm",
-        "title": "Scott Stevenson Interview: Spellbook ACM",
-        "url": "https://www.artificiallawyer.com/2026/06/30/scott-stevenson-interview-spellbook-acm/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-30T13:13:46.000Z",
-        "summary": "And now the in-depth AL interview with Spellbook’s CEO, Scott Stevenson, all about the ACM launch, what it means, how AI contract review is at ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/supio-hires-coo-of-nevadas-largest-pi-firm-as-its-first-vp-of-industry-to-help-drive-innovation-strategy.html",
         "title": "Supio Hires COO of Nevada&#8217;s Largest PI Firm As Its First VP of Industry, To Help Drive Innovation Strategy",
         "url": "https://www.lawnext.com/2026/06/supio-hires-coo-of-nevadas-largest-pi-firm-as-its-first-vp-of-industry-to-help-drive-innovation-strategy.html",
@@ -175,66 +135,6 @@
         "publishedAt": "2026-06-30T13:07:35.000Z",
         "summary": "Supio, the AI platform built for plaintiffs&#8217; personal injury firms, has hired Melissa Graham, chief operating officer of Nevada&#8217;s Richard Harris Law Firm for the last 15 years, as its vice president of indust",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/spellbook-launches-clm-killer-acm",
-        "title": "Spellbook Launches &#8216;CLM Killer&#8217; ACM",
-        "url": "https://www.artificiallawyer.com/2026/06/30/spellbook-launches-clm-killer-acm/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-30T13:00:09.000Z",
-        "summary": "Spellbook has launched Autonomous Contract Management (ACM) for inhouse teams, the biggest expansion of its offering since it got going in 2022 – see AL ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/ai-agents-will-handle-30-of-inhouse-work-deloitte",
-        "title": "‘AI Agents Will Handle 30% of Inhouse Work’ – Deloitte",
-        "url": "https://www.artificiallawyer.com/2026/06/30/ai-agents-will-handle-30-of-inhouse-work-deloitte/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-30T08:56:13.000Z",
-        "summary": "A market analysis by Deloitte Legal suggests that in the next three to five years AI agents could handle 30% of the work within corporate ...",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/webinar-ai-native-workflows-in-litigation-beyond",
-        "title": "Webinar: AI-Native Workflows in Litigation + Beyond",
-        "url": "https://www.artificiallawyer.com/2026/06/30/webinar-ai-native-workflows-in-litigation-beyond/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-30T07:51:50.000Z",
-        "summary": "Join Opus 2 and Artificial Lawyer for this special live webinar: ‘From AI-enabled to AI-native workflows in litigation and beyond,’ on July 23rd, 4:00 PM ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/reed-smith-to-school-partners-on-ai-is-this-useful",
-        "title": "Reed Smith to School Partners on AI &#8211; Is This Useful?",
-        "url": "https://www.artificiallawyer.com/2026/06/30/reed-smith-to-school-partners-on-ai-is-this-useful/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-30T06:46:50.000Z",
-        "summary": "Reed Smith has launched an ‘AI Leadership Program’ at Cornell University, which the firm said will equip partners to support clients who are ‘navigating one ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/29/kirkland-partners-with-syllo-for-secret-sauce-litigation",
-        "title": "Kirkland Partners With Syllo For Secret Sauce Litigation",
-        "url": "https://www.artificiallawyer.com/2026/06/29/kirkland-partners-with-syllo-for-secret-sauce-litigation/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-29T15:44:05.000Z",
-        "summary": "Fresh from signing a massive deal with Palantir and going on a legal AI hiring spree, Kirkland &#38; Ellis has inked a deal with Syllo, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future",
-        "title": "AI Sovereignty: Taking Control of Your Legal Tech Future",
-        "url": "https://www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-29T06:52:42.000Z",
-        "summary": "Think of all the things you need to do your job that you have little control over. What happens when those things are suddenly unavailable, ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,15 +1106,55 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/k8tlxttbfmtgolojqvzb",
-        "title": "行业智能体时代来临：出行、货运率先破局",
-        "url": "https://www.infoq.cn/article/k8tlXTTbFmTGOLojQVZB?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/pxxolzmik90utxoj8ane",
+        "title": "一人公司创业，如何找对方法论、选准装备库？",
+        "url": "https://www.infoq.cn/article/pxXOLZMIk90UTXOJ8aNE?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-02T16:21:51.000Z",
+        "publishedAt": "2026-07-02T19:43:06.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vxgbzsnorrzqdz6xk1jv",
+        "title": "被骂“退出AI竞赛”，Meta改行卖算力股价暴涨10%：卖铲子比淘金更赚？",
+        "url": "https://www.infoq.cn/article/vxgbzsNORRzQDz6xK1jv?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-02T18:27:05.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1240,22 +1180,32 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/8wd205mnh9ogrkf8bryo",
-        "title": "GitLab 调研：AI 工具仅加快编码，整体软件交付效率并未提升",
-        "url": "https://www.infoq.cn/article/8WD205mNH9OGrkf8BRYO?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-02T15:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3878460813832192",
+        "title": "算力租赁商Nebius和CoreWeave股价盘前转涨",
+        "url": "https://36kr.com/newsflashes/3878460813832192?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-02T12:14:21.000Z",
+        "summary": "36氪获悉，算力租赁商Nebius和CoreWeave股价盘前转涨，分别上涨3%和2%，上一交易日分别收跌17%和14%。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3878168457310211",
-        "title": "美光CEO再次暗讽苹果：低价采购是造成内存短缺的关键",
-        "url": "https://36kr.com/newsflashes/3878168457310211?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3878425482653960",
+        "title": "Meta“带崩”科技股？业内人士：算力过剩系误读",
+        "url": "https://36kr.com/newsflashes/3878425482653960?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-02T07:16:57.000Z",
-        "summary": "美光科技首席执行官最新表示，过去几年里，一些客户要求内存制造商降低价格，从而带来了一些负面影响。2023年美光的价格降到了原来的1/3，导致无力投资新的产能。美光的这番暗讽被普遍认为是针对其大客户苹果发出的，尽管他并未直接提及苹果的名字。美光与苹果之间的对峙，代表着内存公司与消费电子制造商的市场平衡因人工智能发展而改变。（新浪财经）",
+        "publishedAt": "2026-07-02T11:38:25.000Z",
+        "summary": "7月2日，A股科技股大跌，半导体、算力硬件、存储芯片等板块跌幅较大。以科技股扎堆的“双创板”为例，创业板指和科创综指分别下跌5.71%和5.64%。从市场情况来看，A股科技股大跌源于Meta对外出售算力的消息被市场解读为算力过剩。然而，多位业内人士认为，该消息属于误读，Meta出售算力不是AI资本支出的结束，而是意味着AI基建商业模式成熟。（证券时报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3878254740549638",
+        "title": "享道被困16%“平台税”",
+        "url": "https://36kr.com/p/3878254740549638?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-02T08:50:03.000Z",
+        "summary": "作者 | 张帆 编辑 | 黄绎达 2026年5月，背靠上汽集团的享道出行再次向港交所递交招股书，开启了第二次IPO冲刺。与2025年10月的首次递表相比，本次更新的核心在于补充了完整的2025年全年财务与运营数据。 透过这份招股书，享道试图向市场释放一个关键信号：盈利能力正在好转。 01 增长悖论：司机流失与单量增长的“剪刀差” 近年来，享道出行的营业收入规模在稳步扩张的同时，业绩表现及盈利能力的改善相对更为亮眼。数据显示，2023年至",
         "category": "updates",
         "region": "cn"
       },
@@ -1295,7 +1245,7 @@
         "url": "https://36kr.com/p/3877112973733895?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-02T00:30:23.000Z",
-        "summary": "访谈｜周鑫雨 兰杰 文｜周鑫雨 编辑｜张雨忻 截至 6 月中旬，吴欣鸿 2026 年的飞行距离已经超过了 230000 km，飞行时长近 300 个小时。他的轨迹横跨亚洲、北美、欧洲、南美，到达最远的地方是巴西和阿根廷。 航线所经之地，是美图近三年来靠 AI 产品扩展的市场版图。 美图 2025 年财报显示，海外 MAU 时隔多年重新回到 1 亿，其中，AI 视频编辑工具 Wink 和影像创作 Agent RoboNeo 在东南亚、墨西",
+        "summary": "访谈｜周鑫雨 兰杰 文｜周鑫雨 编辑｜张��忻 截至 6 月中旬，吴欣鸿 2026 年的飞行距离已经超过了 230000 km，飞行时长近 300 个小时。他的轨迹横跨亚洲、北美、欧洲、南美，到达最远的地方是巴西和阿根廷。 航线所经之地，是美图近三年来靠 AI 产品扩展的市场版图。 美图 2025 年财报显示，海外 MAU 时隔多年重新回到 1 亿，其中，AI 视频编辑工具 Wink 和影像创作 Agent RoboNeo 在东南亚、墨",
         "category": "updates",
         "region": "cn"
       },
@@ -1310,42 +1260,12 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/video/7drqwlqtxbb5eut4euyb",
-        "title": "他用一条中文推文，点燃DeepSeek开源社区",
-        "url": "https://www.infoq.cn/video/7drQWlqtxBb5euT4eUYB?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-01T14:36:45.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3877109751803904",
         "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
         "url": "https://36kr.com/p/3877109751803904?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-01T13:21:17.000Z",
         "summary": "文｜周鑫雨 编辑｜张雨忻 《长安的荔枝》，是 97 年清华博导李一鸣很喜欢的故事。 故事里，为了将“一日色变”的鲜荔枝从岭南运到长安，小吏李善德必须解决保鲜、驿站、路线、补给等一系列环环相扣的难题——没有这套完整系统，鲜荔枝寸步难行。 这个设定在唐朝的故事，在李一鸣眼中，却与当下的“世界模型”赛道，形成了巧妙的互文： Physical AI（物理AI）的场景、解决的问题，是“鲜荔枝”；为了达到“运送”的目的，从业者们同样需要构建一整套涵",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3877060559433984",
-        "title": "硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资",
-        "url": "https://36kr.com/p/3877060559433984?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-01T12:30:37.000Z",
-        "summary": "硬氪获悉，近期，航墨科技完成由中投万方、三贤科技、北航天汇、诚美资本、三合投资、常州金控的近亿元天使轮投资，德太资本担任长期战略融资顾问，此次融资主要用来产品研发和市场推广。 航墨科技成立于2022年，是一家专注于智能变刚度关节技术及消费级智能外骨骼的研发落地的高科技公司，核心技术来源于北京航空航天大学机器人所重点研发计划项目。 公司创始人代万辉是北航机器人所硕士、清华大学MBA，曾任北航机器人所863项目负责人，曾负责家用康复器械新零",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3877057215393793",
-        "title": "硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈",
-        "url": "https://36kr.com/p/3877057215393793?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-01T12:27:18.000Z",
-        "summary": "硬氪获悉，硅基光子企业「灵动芯光」正式宣布完成数千万元天使++轮融资，本轮融资由磐霖资本领投、同方投资与深天使合作的子基金汇泽天诚跟投。 此次募集的资金将全部聚焦于芯片间光互联核心技术研发与产品落地，重点推进 SmartComb多波长密波光源的产品化及SmartPHY光I/O小芯粒的研发工作。 灵动芯光成立于2022年，是一家致力于硅基光子集成芯片设计与应用的高技术公司，主要面向物联网领域，关注分布式光纤传感、FMCW激光雷达及光I/O",
         "category": "updates",
         "region": "cn"
       },
