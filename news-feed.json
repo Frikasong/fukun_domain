@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T13:41:15.304Z",
+  "generatedAt": "2026-07-02T19:11:28.069Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,106 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/07/universal-migrator-now-supports-migrations-from-more-than-170-applications.html",
+        "title": "Universal Migrator Now Supports Migrations From More Than 170 Applications",
+        "url": "https://www.lawnext.com/2026/07/universal-migrator-now-supports-migrations-from-more-than-170-applications.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-02T16:35:23.000Z",
+        "summary": "Universal Migrator has expanded its migration library to support more than 170 legal and business applications, giving legal technology consultants access to one of the industry&#8217;s broadest collections of reusable m",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/university&",
+        "title": "University of Kentucky&#8217;s board of trustees changes rules after controversial law dean pick",
+        "url": "https://www.abajournal.com/news/article/university&#45;of&#45;kentucky&#45;trustees&#45;change&#45;rules&#45;after&#45;controversial&#45;law&#45;dean&#45;pick/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-02T16:31:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/second&",
+        "title": "2nd Circuit judge previously dinged for &#8216;overly harsh&#8217; work environment disciplined again",
+        "url": "https://www.abajournal.com/news/article/second&#45;circuit&#45;judge&#45;previously&#45;dinged&#45;for&#45;overly&#45;harsh&#45;work&#45;environment&#45;disciplined&#45;again/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-02T15:52:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/white&",
+        "title": "White & Case employee drops suit alleging he was stripped naked and photographed at firm party",
+        "url": "https://www.abajournal.com/news/article/white&#45;case&#45;employee&#45;drops&#45;suit&#45;alleging&#45;he&#45;was&#45;stripped&#45;naked&#45;and&#45;photographed&#45;at&#45;firm&#45;party/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-02T15:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/public&",
+        "title": "Public Service Loan Forgiveness ruling is a win for access to justice",
+        "url": "https://www.abajournal.com/news/article/public&#45;service&#45;loan&#45;forgiveness&#45;ruling&#45;is&#45;a&#45;win&#45;for&#45;access&#45;to&#45;justice/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-02T15:06:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/investigator&",
+        "title": "30-day suspension for lawyer who allegedly solicited teen for sex advised by investigator",
+        "url": "https://www.abajournal.com/news/article/investigator&#45;advises&#45;30&#45;day&#45;suspension&#45;for&#45;lawyer&#45;who&#45;allegedly&#45;solicited&#45;teen&#45;for&#45;sex/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-02T14:57:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/frontline&",
+        "title": "Nonprofit, legal automation company design new AI tool to protect public benefits",
+        "url": "https://www.abajournal.com/news/article/frontline&#45;justice&#45;and&#45;josef&#45;design&#45;new&#45;ai&#45;tool&#45;to&#45;protect&#45;public&#45;benefits/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-02T14:24:00.000Z",
+        "summary": "",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/set&",
+        "title": "Set off illegal fireworks, go to jail, some prosecutors say",
+        "url": "https://www.abajournal.com/web/article/set&#45;off&#45;illegal&#45;fireworks&#45;go&#45;to&#45;jail&#45;say&#45;some&#45;prosecutors/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-02T14:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/07/frontline-justice-and-josef-partner-on-multi-state-rollout-of-ai-to-protect-access-to-snap-benefits.html",
+        "title": "Frontline Justice and Josef Partner on Multi-State Rollout of AI to Protect Access to SNAP Benefits",
+        "url": "https://www.lawnext.com/2026/07/frontline-justice-and-josef-partner-on-multi-state-rollout-of-ai-to-protect-access-to-snap-benefits.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-02T13:45:57.000Z",
+        "summary": "The federal Supplemental Nutrition Assistance Program, or SNAP, is a critical benefit that helps to alleviate food insecurity for vulnerable populations, supporting over 40 million low-income individuals, nearly three qu",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/02/anthropics-dangerous-fable-is-back-how-does-it-do",
+        "title": "Anthropic’s ‘Dangerous’ Fable Is Back! How Does It Do?",
+        "url": "https://www.artificiallawyer.com/2026/07/02/anthropics-dangerous-fable-is-back-how-does-it-do/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-02T06:52:09.000Z",
+        "summary": "Anthropic’s ‘dangerous’ Mythos class model, Fable 5, is back and Artificial Lawyer took it for a spin. First, this site asked it to produce some ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/new&",
         "title": "After emergencies mar bar exam, New York State Bar Association aims to add new procedures",
@@ -38,36 +138,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/trump&",
-        "title": "Trump selects newly confirmed federal judge for open seat on 5th Circuit",
-        "url": "https://www.abajournal.com/news/article/trump&#45;selects&#45;new&#45;federal&#45;judge&#45;for&#45;open&#45;seat&#45;on&#45;5th&#45;circuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-01T14:42:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/former&",
-        "title": "Former Trump White House counsel named interim dean of Florida International University College of Law",
-        "url": "https://www.abajournal.com/web/article/former&#45;white&#45;house&#45;counsel&#45;Epstein&#45;named&#45;interim&#45;florida&#45;international&#45;law&#45;dean/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-01T13:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/after&",
-        "title": "After dying in scandal, Supreme Court Justice James Wilson finally gets his moment",
-        "url": "https://www.abajournal.com/web/article/after&#45;dying&#45;in&#45;scandal&#45;supreme&#45;court&#45;justice&#45;james&#45;wilson&#45;finally&#45;gets&#45;his&#45;moment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-01T13:05:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude-partnership.html",
         "title": "On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership",
         "url": "https://www.lawnext.com/2026/07/on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude-partnership.html",
@@ -78,42 +148,22 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/columns/article/chemerinsky&",
-        "title": "Chemerinsky: Supreme Court leaves many Second Amendment issues unresolved",
-        "url": "https://www.abajournal.com/columns/article/chemerinsky&#45;supreme&#45;court&#45;leaves&#45;many&#45;second&#45;amendment&#45;issues&#45;unresolved/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-01T13:00:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/01/biomechanics-and-legal-ai",
+        "title": "Biomechanics and Legal AI",
+        "url": "https://www.artificiallawyer.com/2026/07/01/biomechanics-and-legal-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-01T08:28:59.000Z",
+        "summary": "If you’ve seen me give a talk, then you may have noted my framing of companies as organisms that use their inhouse legal function to ...",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/a&",
-        "title": "A Test of Time: The enduring meaning of the Declaration of Independence",
-        "url": "https://www.abajournal.com/magazine/article/a&#45;test&#45;of&#45;time/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-01T06:55:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/back&",
-        "title": "Back to the Future: As the country celebrates its 250th anniversary, old methods of training lawyers are back in style",
-        "url": "https://www.abajournal.com/magazine/article/back&#45;to&#45;the&#45;future/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-01T06:50:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/the&",
-        "title": "The Rights Fight: ABA members reflect on 60 years of protecting civil rights",
-        "url": "https://www.abajournal.com/magazine/article/the&#45;rights&#45;fight/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-01T06:45:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/01/digital-toolbox-juristic-joins-board-intelligence",
+        "title": "‘Digital Toolbox’ Juristic Joins Board Intelligence",
+        "url": "https://www.artificiallawyer.com/2026/07/01/digital-toolbox-juristic-joins-board-intelligence/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-01T07:05:27.000Z",
+        "summary": "Juristic, a legal tech startup that offers a broad range of task management and timeline skills, has joined Board Intelligence, the appropriately named board technology ...",
         "category": "updates",
         "region": "na"
       },
@@ -128,6 +178,16 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/scott-stevenson-interview-spellbook-acm",
+        "title": "Scott Stevenson Interview: Spellbook ACM",
+        "url": "https://www.artificiallawyer.com/2026/06/30/scott-stevenson-interview-spellbook-acm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T13:13:46.000Z",
+        "summary": "And now the in-depth AL interview with Spellbook’s CEO, Scott Stevenson, all about the ACM launch, what it means, how AI contract review is at ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/06/supio-hires-coo-of-nevadas-largest-pi-firm-as-its-first-vp-of-industry-to-help-drive-innovation-strategy.html",
         "title": "Supio Hires COO of Nevada&#8217;s Largest PI Firm As Its First VP of Industry, To Help Drive Innovation Strategy",
         "url": "https://www.lawnext.com/2026/06/supio-hires-coo-of-nevadas-largest-pi-firm-as-its-first-vp-of-industry-to-help-drive-innovation-strategy.html",
@@ -135,6 +195,66 @@
         "publishedAt": "2026-06-30T13:07:35.000Z",
         "summary": "Supio, the AI platform built for plaintiffs&#8217; personal injury firms, has hired Melissa Graham, chief operating officer of Nevada&#8217;s Richard Harris Law Firm for the last 15 years, as its vice president of indust",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/spellbook-launches-clm-killer-acm",
+        "title": "Spellbook Launches &#8216;CLM Killer&#8217; ACM",
+        "url": "https://www.artificiallawyer.com/2026/06/30/spellbook-launches-clm-killer-acm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T13:00:09.000Z",
+        "summary": "Spellbook has launched Autonomous Contract Management (ACM) for inhouse teams, the biggest expansion of its offering since it got going in 2022 – see AL ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/ai-agents-will-handle-30-of-inhouse-work-deloitte",
+        "title": "‘AI Agents Will Handle 30% of Inhouse Work’ – Deloitte",
+        "url": "https://www.artificiallawyer.com/2026/06/30/ai-agents-will-handle-30-of-inhouse-work-deloitte/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T08:56:13.000Z",
+        "summary": "A market analysis by Deloitte Legal suggests that in the next three to five years AI agents could handle 30% of the work within corporate ...",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/webinar-ai-native-workflows-in-litigation-beyond",
+        "title": "Webinar: AI-Native Workflows in Litigation + Beyond",
+        "url": "https://www.artificiallawyer.com/2026/06/30/webinar-ai-native-workflows-in-litigation-beyond/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T07:51:50.000Z",
+        "summary": "Join Opus 2 and Artificial Lawyer for this special live webinar: ‘From AI-enabled to AI-native workflows in litigation and beyond,’ on July 23rd, 4:00 PM ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/reed-smith-to-school-partners-on-ai-is-this-useful",
+        "title": "Reed Smith to School Partners on AI &#8211; Is This Useful?",
+        "url": "https://www.artificiallawyer.com/2026/06/30/reed-smith-to-school-partners-on-ai-is-this-useful/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T06:46:50.000Z",
+        "summary": "Reed Smith has launched an ‘AI Leadership Program’ at Cornell University, which the firm said will equip partners to support clients who are ‘navigating one ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/29/kirkland-partners-with-syllo-for-secret-sauce-litigation",
+        "title": "Kirkland Partners With Syllo For Secret Sauce Litigation",
+        "url": "https://www.artificiallawyer.com/2026/06/29/kirkland-partners-with-syllo-for-secret-sauce-litigation/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-29T15:44:05.000Z",
+        "summary": "Fresh from signing a massive deal with Palantir and going on a legal AI hiring spree, Kirkland &#38; Ellis has inked a deal with Syllo, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future",
+        "title": "AI Sovereignty: Taking Control of Your Legal Tech Future",
+        "url": "https://www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-29T06:52:42.000Z",
+        "summary": "Think of all the things you need to do your job that you have little control over. What happens when those things are suddenly unavailable, ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1058,26 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/03/legal-industry-reaches-ai-tipping-point-majority-of-lawyers-now-using-gen-ai-despite-persistent-reliability-concerns.html",
-        "title": "Legal Industry Reaches AI Tipping Point: Majority of Lawyers Now Using Gen AI Despite Persistent Reliability Concerns",
-        "url": "https://www.lawnext.com/2026/03/legal-industry-reaches-ai-tipping-point-majority-of-lawyers-now-using-gen-ai-despite-persistent-reliability-concerns.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-25T13:00:50.000Z",
-        "summary": "The legal profession crossed a significant threshold in 2025: For the first time, more lawyers are using generative AI than not, even as firm leaders express widespread concern about the technology&#8217;s reliability, a",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/03/centerbase-launches-native-ndmax-integration-connecting-practice-management-to-ai-powered-document-workflows.html",
-        "title": "Centerbase Launches Native ndMAX Integration, Connecting Practice Management to AI-Powered Document Workflows",
-        "url": "https://www.lawnext.com/2026/03/centerbase-launches-native-ndmax-integration-connecting-practice-management-to-ai-powered-document-workflows.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-24T12:30:20.000Z",
-        "summary": "Centerbase, a practice management platform for midsized law firms, is announcing today an enhanced native integration with NetDocuments that makes it the first practice management platform to natively connect matter data",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1106,49 +1206,9 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/pxxolzmik90utxoj8ane",
-        "title": "一人公司创业，如何找对方法论、选准装备库？",
-        "url": "https://www.infoq.cn/article/pxXOLZMIk90UTXOJ8aNE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-02T19:43:06.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/vxgbzsnorrzqdz6xk1jv",
         "title": "被骂“退出AI竞赛”，Meta改行卖算力股价暴涨10%：卖铲子比淘金更赚？",
@@ -1170,12 +1230,32 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3878648324845831",
+        "title": "可灵AI落地近30亿美元融资，创全球视频大模型公司融资规模新纪录",
+        "url": "https://36kr.com/newsflashes/3878648324845831?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-02T15:25:06.000Z",
+        "summary": "7月2日，快手旗下视频生成大模型可灵AI落地近30亿美元融资，投后估值有望达到180亿美元。此次融资，可灵AI创下全球视频大模型公司最大额融资纪录，标志着其独立商业化发展进程正式开启。本轮融资由CPE源峰、国方创投、BlueFive、腾讯、中关村科学城基金（联合国科投资）、中信证券联合领投，以及数十家一线机构共同参与。据了解，该轮融资汇聚阿里云、百度等顶级产业资本，华策影视和芒果产业投资人（厚为资本）等头部文娱产业方积极参与。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/o5bohliyrhie4zzprhy9",
         "title": "从龙蜥孵化到上游贡献：SGLang Tracing 与 AI Agent 调优实践",
         "url": "https://www.infoq.cn/article/o5BOhliYRHIe4ZZPrHY9?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-02T15:12:15.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3878550357946625",
+        "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
+        "url": "https://36kr.com/p/3878550357946625?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-02T14:16:31.000Z",
+        "summary": "大公司： 奥飞娱乐：上半年净利润同比预增305.30%—413.38% 36氪获悉，奥飞娱乐发布2026年半年度业绩预告，预计2026年上半年归属于上市公司股东的净利润为1.5亿元—1.9亿元，比上年同期增长305.30%—413.38%。 雀巢称消费者因价格压力避开中等包装产品 雀巢表示，在美国消费者专注于产品可负担性、购买者纷纷转向大包装或经济型包装而避开中等规格产品的背景下，该公司正努力控制价格。（新浪财经） 盐湖股份：上半年净利",
         "category": "updates",
         "region": "cn"
       },
@@ -1245,7 +1325,7 @@
         "url": "https://36kr.com/p/3877112973733895?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-02T00:30:23.000Z",
-        "summary": "访谈｜周鑫雨 兰杰 文｜周鑫雨 编辑｜张��忻 截至 6 月中旬，吴欣鸿 2026 年的飞行距离已经超过了 230000 km，飞行时长近 300 个小时。他的轨迹横跨亚洲、北美、欧洲、南美，到达最远的地方是巴西和阿根廷。 航线所经之地，是美图近三年来靠 AI 产品扩展的市场版图。 美图 2025 年财报显示，海外 MAU 时隔多年重新回到 1 亿，其中，AI 视频编辑工具 Wink 和影像创作 Agent RoboNeo 在东南亚、墨",
+        "summary": "访谈｜周鑫雨 兰杰 文｜周鑫雨 编辑｜张雨忻 截至 6 月中旬，吴欣鸿 2026 年的飞行距离已经超过了 230000 km，飞行时长近 300 个小时。他的轨迹横跨亚洲、北美、欧洲、南美，到达最远的地方是巴西和阿根廷。 航线所经之地，是美图近三年来靠 AI 产品扩展的市场版图。 美图 2025 年财报显示，海外 MAU 时隔多年重新回到 1 亿，其中，AI 视频编辑工具 Wink 和影像创作 Agent RoboNeo 在东南亚、墨西",
         "category": "updates",
         "region": "cn"
       },
@@ -1256,16 +1336,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-07-01T17:59:33.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3877109751803904",
-        "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
-        "url": "https://36kr.com/p/3877109751803904?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-01T13:21:17.000Z",
-        "summary": "文｜周鑫雨 编辑｜张雨忻 《长安的荔枝》，是 97 年清华博导李一鸣很喜欢的故事。 故事里，为了将“一日色变”的鲜荔枝从岭南运到长安，小吏李善德必须解决保鲜、驿站、路线、补给等一系列环环相扣的难题——没有这套完整系统，鲜荔枝寸步难行。 这个设定在唐朝的故事，在李一鸣眼中，却与当下的“世界模型”赛道，形成了巧妙的互文： Physical AI（物理AI）的场景、解决的问题，是“鲜荔枝”；为了达到“运送”的目的，从业者们同样需要构建一整套涵",
         "category": "updates",
         "region": "cn"
       },
