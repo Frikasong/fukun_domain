@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T02:31:55.162Z",
+  "generatedAt": "2026-07-02T08:43:28.669Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/02/anthropics-dangerous-fable-is-back-how-does-it-do",
+        "title": "Anthropic’s ‘Dangerous’ Fable Is Back! How Does It Do?",
+        "url": "https://www.artificiallawyer.com/2026/07/02/anthropics-dangerous-fable-is-back-how-does-it-do/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-02T06:52:09.000Z",
+        "summary": "Anthropic’s ‘dangerous’ Mythos class model, Fable 5, is back and Artificial Lawyer took it for a spin. First, this site asked it to produce some ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/new&",
         "title": "After emergencies mar bar exam, New York State Bar Association aims to add new procedures",
@@ -88,6 +98,26 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/01/biomechanics-and-legal-ai",
+        "title": "Biomechanics and Legal AI",
+        "url": "https://www.artificiallawyer.com/2026/07/01/biomechanics-and-legal-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-01T08:28:59.000Z",
+        "summary": "If you’ve seen me give a talk, then you may have noted my framing of companies as organisms that use their inhouse legal function to ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/01/digital-toolbox-juristic-joins-board-intelligence",
+        "title": "‘Digital Toolbox’ Juristic Joins Board Intelligence",
+        "url": "https://www.artificiallawyer.com/2026/07/01/digital-toolbox-juristic-joins-board-intelligence/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-01T07:05:27.000Z",
+        "summary": "Juristic, a legal tech startup that offers a broad range of task management and timeline skills, has joined Board Intelligence, the appropriately named board technology ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "ABA Journal:www.abajournal.com/magazine/article/a&",
         "title": "A Test of Time: The enduring meaning of the Declaration of Independence",
         "url": "https://www.abajournal.com/magazine/article/a&#45;test&#45;of&#45;time/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -128,6 +158,16 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/scott-stevenson-interview-spellbook-acm",
+        "title": "Scott Stevenson Interview: Spellbook ACM",
+        "url": "https://www.artificiallawyer.com/2026/06/30/scott-stevenson-interview-spellbook-acm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T13:13:46.000Z",
+        "summary": "And now the in-depth AL interview with Spellbook’s CEO, Scott Stevenson, all about the ACM launch, what it means, how AI contract review is at ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/06/supio-hires-coo-of-nevadas-largest-pi-firm-as-its-first-vp-of-industry-to-help-drive-innovation-strategy.html",
         "title": "Supio Hires COO of Nevada&#8217;s Largest PI Firm As Its First VP of Industry, To Help Drive Innovation Strategy",
         "url": "https://www.lawnext.com/2026/06/supio-hires-coo-of-nevadas-largest-pi-firm-as-its-first-vp-of-industry-to-help-drive-innovation-strategy.html",
@@ -135,6 +175,66 @@
         "publishedAt": "2026-06-30T13:07:35.000Z",
         "summary": "Supio, the AI platform built for plaintiffs&#8217; personal injury firms, has hired Melissa Graham, chief operating officer of Nevada&#8217;s Richard Harris Law Firm for the last 15 years, as its vice president of indust",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/spellbook-launches-clm-killer-acm",
+        "title": "Spellbook Launches &#8216;CLM Killer&#8217; ACM",
+        "url": "https://www.artificiallawyer.com/2026/06/30/spellbook-launches-clm-killer-acm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T13:00:09.000Z",
+        "summary": "Spellbook has launched Autonomous Contract Management (ACM) for inhouse teams, the biggest expansion of its offering since it got going in 2022 – see AL ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/ai-agents-will-handle-30-of-inhouse-work-deloitte",
+        "title": "‘AI Agents Will Handle 30% of Inhouse Work’ – Deloitte",
+        "url": "https://www.artificiallawyer.com/2026/06/30/ai-agents-will-handle-30-of-inhouse-work-deloitte/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T08:56:13.000Z",
+        "summary": "A market analysis by Deloitte Legal suggests that in the next three to five years AI agents could handle 30% of the work within corporate ...",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/webinar-ai-native-workflows-in-litigation-beyond",
+        "title": "Webinar: AI-Native Workflows in Litigation + Beyond",
+        "url": "https://www.artificiallawyer.com/2026/06/30/webinar-ai-native-workflows-in-litigation-beyond/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T07:51:50.000Z",
+        "summary": "Join Opus 2 and Artificial Lawyer for this special live webinar: ‘From AI-enabled to AI-native workflows in litigation and beyond,’ on July 23rd, 4:00 PM ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/reed-smith-to-school-partners-on-ai-is-this-useful",
+        "title": "Reed Smith to School Partners on AI &#8211; Is This Useful?",
+        "url": "https://www.artificiallawyer.com/2026/06/30/reed-smith-to-school-partners-on-ai-is-this-useful/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-30T06:46:50.000Z",
+        "summary": "Reed Smith has launched an ‘AI Leadership Program’ at Cornell University, which the firm said will equip partners to support clients who are ‘navigating one ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/29/kirkland-partners-with-syllo-for-secret-sauce-litigation",
+        "title": "Kirkland Partners With Syllo For Secret Sauce Litigation",
+        "url": "https://www.artificiallawyer.com/2026/06/29/kirkland-partners-with-syllo-for-secret-sauce-litigation/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-29T15:44:05.000Z",
+        "summary": "Fresh from signing a massive deal with Palantir and going on a legal AI hiring spree, Kirkland &#38; Ellis has inked a deal with Syllo, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future",
+        "title": "AI Sovereignty: Taking Control of Your Legal Tech Future",
+        "url": "https://www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-06-29T06:52:42.000Z",
+        "summary": "Think of all the things you need to do your job that you have little control over. What happens when those things are suddenly unavailable, ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1106,66 +1206,56 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/zhogu6x9cduj3xmfvyk1",
-        "title": "Cloudflare CEO 警告：未来两年，Agent 会让互联网每周爆出一个 Log4j",
-        "url": "https://www.infoq.cn/article/zhoGu6x9CdUJ3XMFvyK1?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/k8tlxttbfmtgolojqvzb",
+        "title": "行业智能体时代来临：出行、货运率先破局",
+        "url": "https://www.infoq.cn/article/k8tlXTTbFmTGOLojQVZB?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-02T10:25:24.000Z",
+        "publishedAt": "2026-07-02T16:21:51.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/u3giuyf8vcccdkzeiyci",
-        "title": "Dapr 1.18 推出可验证执行功能，为 AI 智能体与工作流赋予密码学信任能力",
-        "url": "https://www.infoq.cn/article/U3gIuyf8VccCdKZeiyCi?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/bxc66lg3pvl8zmme0ehy",
+        "title": "如何利用 AI Agent 实现热补丁的自动化生成",
+        "url": "https://www.infoq.cn/article/BXc66LG3pVL8ZMme0ehy?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-02T09:29:53.000Z",
+        "publishedAt": "2026-07-02T16:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3877878282448903",
-        "title": "SK海力士将于2029年在清州建成NAND闪存工厂",
-        "url": "https://36kr.com/newsflashes/3877878282448903?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/o5bohliyrhie4zzprhy9",
+        "title": "从龙蜥孵化到上游贡献：SGLang Tracing 与 AI Agent 调优实践",
+        "url": "https://www.infoq.cn/article/o5BOhliYRHIe4ZZPrHY9?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-02T15:12:15.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/8wd205mnh9ogrkf8bryo",
+        "title": "GitLab 调研：AI 工具仅加快编码，整体软件交付效率并未提升",
+        "url": "https://www.infoq.cn/article/8WD205mNH9OGrkf8BRYO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-02T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3878168457310211",
+        "title": "美光CEO再次暗讽苹果：低价采购是造成内存短缺的关键",
+        "url": "https://36kr.com/newsflashes/3878168457310211?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-02T02:21:46.000Z",
-        "summary": "SK海力士将在忠清南道清州新建一座大型NAND闪存晶圆厂，目标于2029年投入运营。包括该项目在内，SK集团计划在忠清地区总投资170万亿韩元，涵盖先进封装和人工智能数据中心领域，旨在打造全球AI枢纽。（新浪财经）",
+        "publishedAt": "2026-07-02T07:16:57.000Z",
+        "summary": "美光科技首席执行官最新表示，过去几年里，一些客户要求内存制造商降低价格，从而带来了一些负面影响。2023年美光的价格降到了原来的1/3，导致无力投资新的产能。美光的这番暗讽被普遍认为是针对其大客户苹果发出的，尽管他并未直接提及苹果的名字。美光与苹果之间的对峙，代表着内存公司与消费电子制造商的市场平衡因人工智能发展而改变。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1176,16 +1266,6 @@
         "source": "36Kr",
         "publishedAt": "2026-07-02T02:07:44.000Z",
         "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳可立点科技有限公司（以下简称“可立点科技”）近日完成战略融资，由力合科创领投，江苏中科智能科学技术应用研究院旗下平台跟投。本轮融资将主要用于产品研发迭代、核心团队建设及商业化落地推进。 可立点科技总部位于深圳， 是一家聚焦“AI+机器人”养老场景的科技公司，围绕银发群体布局家庭陪伴与院内康复两大产品线。 目前，公司已推出面向居家养老场景的主动陪伴机器人，以及与四川大学华西医院联合研发的康",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3877864004530183",
-        "title": "高德地图在北京成立新智能科技公司",
-        "url": "https://36kr.com/newsflashes/3877864004530183?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-02T02:07:15.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，北京高行蓝隼智能科技有限公司成立，法定代表人为刘书鹏，注册资本1500万人民币，经营范围包括软件开发、人工智能应用软件开发、信息系统集成服务、技术进出口等。股东信息显示，该公司由高德软件有限公司旗下北京利通出行科技有限公司全资持股。",
         "category": "updates",
         "region": "cn"
       },
@@ -1270,31 +1350,11 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/lgkwa0phn4zsokb4c4pv",
-        "title": "8 人起家年入上亿美元，推出自研大模型对战 Cursor、Claude Code？",
-        "url": "https://www.infoq.cn/article/lgKWA0PHN4zsOkB4C4Pv?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-30T18:29:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/6wcaamdgsr8r46j3ozd4",
-        "title": "Cursor、OpenClaw 同时出手，“口袋编程”时代来了：程序员只用“动嘴”！",
-        "url": "https://www.infoq.cn/article/6WCaAMdgSR8r46j3OZd4?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-06-30T17:46:54.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:xie.infoq.cn/article/bc3d416caccb50b6dc6044c04",
         "title": "有奖共建｜跑过数百万台服务器的AI运维系统开源了！提PR/报Bug/写体验，通通有奖",
         "url": "https://xie.infoq.cn/article/bc3d416caccb50b6dc6044c04?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-06-29T13:01:22.000Z",
+        "publishedAt": "2026-06-29T13:01:23.000Z",
         "summary": "AI Agent能否代替运维工程师，接管服务器排障？ 点击查看原文>",
         "category": "updates",
         "region": "cn"
