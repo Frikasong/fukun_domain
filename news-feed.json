@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T02:06:56.557Z",
+  "generatedAt": "2026-07-03T08:51:01.133Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/03/legal-innovators-new-york-uk-lexisnexis-opus-2",
+        "title": "Legal Innovators New York + UK, LexisNexis, Opus 2",
+        "url": "https://www.artificiallawyer.com/2026/07/03/legal-innovators-new-york-uk-lexisnexis-opus-2/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-03T06:59:31.000Z",
+        "summary": "Happy Independence Day to all of Artificial Lawyer’s readers in America! AI can be a tremendous force for personal liberty and growth, allowing an individual ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/07/universal-migrator-now-supports-migrations-from-more-than-170-applications.html",
         "title": "Universal Migrator Now Supports Migrations From More Than 170 Applications",
@@ -244,16 +254,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-29T15:44:05.000Z",
         "summary": "Fresh from signing a massive deal with Palantir and going on a legal AI hiring spree, Kirkland &#38; Ellis has inked a deal with Syllo, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future",
-        "title": "AI Sovereignty: Taking Control of Your Legal Tech Future",
-        "url": "https://www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-29T06:52:42.000Z",
-        "summary": "Think of all the things you need to do your job that you have little control over. What happens when those things are suddenly unavailable, ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,52 +1210,52 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/dbzrhcueeqx4wdboztyg",
-        "title": "Java 实时系统扩容：事件驱动设计的隐性权衡",
-        "url": "https://www.infoq.cn/article/dbZRhCUeEqX4WdboztyG?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/tze66kj12usjrqpesiaa",
+        "title": "大晓机器人首席科学家陶大程：世界模型的使命不是完整复制世界，而是精准支撑行动",
+        "url": "https://www.infoq.cn/article/tZe66KJ12UsjrqpeSiaA?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-03T09:21:09.000Z",
+        "publishedAt": "2026-07-03T15:17:15.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3879236702433537",
-        "title": "阿里云宣布AI原生数据库服务产品Databridge Agent功能收费",
-        "url": "https://36kr.com/newsflashes/3879236702433537?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3879618237427977",
+        "title": "三星SDI获2万亿韩元AIDC电池电芯订单",
+        "url": "https://36kr.com/newsflashes/3879618237427977?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-03T01:23:38.000Z",
-        "summary": "36氪获悉，阿里云官网显示，AI原生数据库服务产品Databridge Agent将于2026年8月1日正式转商业化计费。",
+        "publishedAt": "2026-07-03T07:51:45.000Z",
+        "summary": "据TheElec，三星SDI已确认与电池模组公司新普科技签署了一份价值约2万亿韩元的供货合同，为其提供用于人工智能数据中心（AIDC）的电池电芯。三星SDI方面表示，由于数据中心投资增加，电池单元（BBU）销量增长，圆柱形电池产量上升，利用率也较高。 （财联社）",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3879231845642501",
-        "title": "思特奇：目前未参与内蒙古算力网建设",
-        "url": "https://36kr.com/newsflashes/3879231845642501?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3879602522403072",
+        "title": "海光信息联合数字电网成立“电鸿数智创新联合实验室”",
+        "url": "https://36kr.com/newsflashes/3879602522403072?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-03T01:18:41.000Z",
-        "summary": "36氪获悉，思特奇在互动平台表示，公司算力超市业务目前仍处于市场拓展阶段，其他地方算力平台同步积极沟通拓展，相关业务开展情况如达到信息披露标准将及时披露。公司目前算力网业务以技术建设为基础，联合运营，带领客户实现平台的运营。公司目前未参与内蒙古算力网建设。",
+        "publishedAt": "2026-07-03T07:35:46.000Z",
+        "summary": "36氪获悉，近日，海光信息与南方电网数字电网科技（广东）有限公司共同成立“电鸿数智创新联合实验室”，双方将围绕电力AI、行业操作系统适配及自主算力平台建设展开长期合作。根据合作规划，实验室将依托海光CPU+DCU“双芯”架构，结合电鸿PES系统，重点突破国产软硬件兼容适配、系统性能优化以及电力行业大模型落地等关键技术，并面向电网智能决策、实时仿真、自动化运维等典型场景持续开展联合创新。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3879199133151232",
-        "title": "光大证券：Meta算力出租是资源优化手段，不改中长期扩产规划",
-        "url": "https://36kr.com/newsflashes/3879199133151232?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3879595189432580",
+        "title": "三星4nm产能基本售罄，部分8nm产能满负荷运转，已开始选择性接单",
+        "url": "https://36kr.com/newsflashes/3879595189432580?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-03T00:45:25.000Z",
-        "summary": "36氪获悉，光大证券最新研报表示，Meta进军云计算的底层逻辑，是希望为巨额的AI基础设施投资创造新的变现通道，侧面反映出云计算为当前最快、最明确的收回巨额前期投入、提高当期回报率的方式，说明对外变现能力本身已成为支撑Meta持续扩大AI投资的现金流保证。Meta中长期持续加码AI算力的整体规划并未转向。",
+        "publishedAt": "2026-07-03T07:28:18.000Z",
+        "summary": "据ChosunBiz，业内人士透露，三星电子晶圆代工部门近期调整了供货策略，优先处理现有客户的订单，并有选择地接受新客户的订单。行业分析师指出，人工智能市场的爆炸式增长正在从根本上改变晶圆代工的需求结构。此前主要集中在智能手机应用处理器（AP）上的先进制造工艺需求，近期已转向人工智能加速器芯片、专用集成电路（ASIC）芯片和高性能计算（HPC）芯片。三星晶圆代工的4nm工艺产能已基本售罄，甚至明年的产能也已售罄，部分8nm工艺产能也几乎",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3879180027817992",
-        "title": "中信证券：国产算力主线明确，龙头业绩有望加速兑现",
-        "url": "https://36kr.com/newsflashes/3879180027817992?f=rss",
+        "id": "36Kr:36kr.com/p/3877990989819909",
+        "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
+        "url": "https://36kr.com/p/3877990989819909?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-03T00:25:59.000Z",
-        "summary": "36氪获悉，中信证券研报称，6月30日美团发布首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数模型，当前国产算力系统能力从推理升维至训练，此外DeepSeekV4正式版在7月中旬发布后将引入“峰谷定价”机制，高峰API调用价格将翻倍，国产算力供给约束仍在加强。中信证券认为现阶段国产算力订单清晰度显著增强，未来具备客户订单及产能优先分配权的设计公司有望率先受益。中信证券���续全面看好国产算力产业链，同时先进制程、先进封装、先进存",
+        "publishedAt": "2026-07-03T02:26:11.000Z",
+        "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真格基金跟投。 成立不到两年时间，OMOWAY已获得数轮融资。截至目前，其股东阵容包含红杉、真格、Monolith、中金等头部财务投资机构，还包括Lochpine",
         "category": "updates",
         "region": "cn"
       },
@@ -1340,16 +1340,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3877814169530630",
-        "title": "36氪首发丨北大博士量子团队获高瓴创投领投，国内唯一实现纳开温区量子计算机工程化",
-        "url": "https://36kr.com/p/3877814169530630?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-02T01:16:49.000Z",
-        "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，国内首家nK级中性原子量子计算机公司——纳开启元（北京）量子科技有限公司（下称“「纳开量子」”）近期已完成首轮数千万元融资，由高瓴创投（GL Ventures）领投，英诺、长石、飞图三家机构跟投。所募资金将重点用于新一代中性原子量子计算机的研发、超冷原子量子模拟计算机的生态建设及标杆客户交付。 「纳开量子」成立于2026年4月，是国内首家聚焦超冷原子量子模拟计算与中性原子通用量子计算路线的公司，已形成",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/rhish66jzwoqg5dfvv6x",
         "title": "前后端一起消失：AI Coding 正在改写大厂工程师分工",
         "url": "https://www.infoq.cn/article/rHiSH66JZwoQG5Dfvv6x?utm_source=rss&utm_medium=article",
@@ -1372,33 +1362,13 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3359195/chinas-ai-stocks-surge-65-first-half-bubble-fears-begin-weigh-sentiment",
-        "title": "China’s AI stocks surge 65% in first half but bubble fears begin to weigh on sentiment",
-        "url": "https://www.scmp.com/business/china-business/article/3359195/chinas-ai-stocks-surge-65-first-half-bubble-fears-begin-weigh-sentiment?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3359278/ai-computing-stock-panic-over-meta-cloud-rumour-erroneous-analysts-say",
+        "title": "AI computing stock panic over Meta cloud rumour ‘erroneous’, analysts say",
+        "url": "https://www.scmp.com/tech/big-tech/article/3359278/ai-computing-stock-panic-over-meta-cloud-rumour-erroneous-analysts-say?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-07-03T00:00:09.000Z",
-        "summary": "China’s artificial intelligence stocks entered the second half of 2026 with improving earnings momentum, but first-half results and high-profile bearish positioning by US investors regarding the global AI trade have begu",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/news/article/3358948/uk-investors-sue-binance-and-founder-zhao-changpeng-us200-million",
-        "title": "UK investors sue Binance and founder Zhao Changpeng for US$200 million",
-        "url": "https://www.scmp.com/news/article/3358948/uk-investors-sue-binance-and-founder-zhao-changpeng-us200-million?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-30T18:06:50.000Z",
-        "summary": "Almost 1,700 British ⁠investors are suing ⁠Binance and founder ⁠Zhao Changpeng for at least £150 million (US$200 million), alleging the crypto trading platform sold them risky, complex derivative products without regulat",
-        "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3358647/faster-ai-lower-costs-dspark-eases-inference-bottlenecks-and-chip-strain-says-deepseek",
-        "title": "Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek",
-        "url": "https://www.scmp.com/tech/big-tech/article/3358647/faster-ai-lower-costs-dspark-eases-inference-bottlenecks-and-chip-strain-says-deepseek?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-06-28T11:00:08.000Z",
-        "summary": "Chinese artificial intelligence start-up DeepSeek has rolled out a major upgrade to its flagship V4 model aimed at sharply accelerating AI response generation, as competition among Chinese developers increasingly shifts ",
-        "category": "updates",
+        "publishedAt": "2026-07-03T06:28:31.000Z",
+        "summary": "A panic over excess computing capacity for artificial intelligence was “erroneous”, according to a report by research firm SemiAnalysis, after a global sell-off erased billions of dollars in value from semiconductor stoc",
+        "category": "articles",
         "region": "cn_en"
       }
     ]
