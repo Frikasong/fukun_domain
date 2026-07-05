@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T13:12:51.908Z",
+  "generatedAt": "2026-07-05T19:04:13.890Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1240,17 +1240,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3359455/citi-ceo-says-2-ai-races-are-shaping-future-banking",
-        "title": "Citi CEO says 2 AI races are shaping future of banking",
-        "url": "https://www.scmp.com/business/banking-finance/article/3359455/citi-ceo-says-2-ai-races-are-shaping-future-banking?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-05T08:00:18.000Z",
-        "summary": "The global financial sector is engaged in two simultaneous and critical races as AI evolves at an unprecedented rate, according to Jane Fraser, the CEO of Citi, the third-largest bank in the United States. While artifici",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
