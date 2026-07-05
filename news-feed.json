@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T02:13:48.045Z",
+  "generatedAt": "2026-07-05T08:42:35.269Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1140,22 +1140,32 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3882063262068998",
-        "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
-        "url": "https://36kr.com/newsflashes/3882063262068998?f=rss",
+        "id": "36Kr:36kr.com/p/3882365879005186",
+        "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
+        "url": "https://36kr.com/p/3882365879005186?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-05T01:18:57.000Z",
-        "summary": "7月5日消息，光大证券研报认为，国内氟化工领军企业正加速布局含氟新材料，聚焦打造第二成长曲线。在半导体领域，高纯度（如G5级）电子级氢氟酸作为芯片制造不可或缺的关键湿电子化学品，过去长期被日美企业垄断。近年来，国内企业凭借产业链一体化优势突破了超净高纯工艺瓶颈，电子级氢氟酸顺利通过国内外一线晶圆代工厂的严苛认证，并进入规模化放量阶段。与此同时，AI、HPC和超大规模数据中心算力的快速攀升致使数据中心的热密度不断提高，传统风冷方案在高功率",
+        "publishedAt": "2026-07-05T06:27:30.000Z",
+        "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。 「忆生科技」致力于从科学第一性原理出发，用\"感知—预测—交互\"闭环构建机器人\"大脑+小脑\"统一系统，探索下一代可解释自主智能（Autonomous Intelligence）。 本轮融资资金将主要用",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3882061184413701",
-        "title": "美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM",
-        "url": "https://36kr.com/newsflashes/3882061184413701?f=rss",
+        "id": "36Kr:36kr.com/p/3882364132077577",
+        "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
+        "url": "https://36kr.com/p/3882364132077577?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-05T01:16:50.000Z",
-        "summary": "美光科技当地时间周六（7月4日）正式启动其位于日本西部广岛工厂的扩建工程。这项总投资达1.5万亿日元（约合93亿美元）的项目，旨在生产包括高带宽存储器（HBM）在内的先进存储芯片，以满足人工智能（AI）浪潮带来的旺盛需求。HBM是英伟达AI处理器的关键组件，工厂预计将于2028年夏季左右开始出货。近期，美光、三星电子和SK海力士各自都宣布了扩充制造能力的计划。本周早些时候，SK海力士宣布，计划投资80万亿韩元（约合514.6亿美元），在",
+        "publishedAt": "2026-07-05T06:25:53.000Z",
+        "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，具身智能公司 「光象科技」 宣布完成累计数亿元天使轮融资。 最新一轮由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本、上市公司行云科技等头部财投与产投深度参与，老股东零一创投、L2F光源创业者基金持续加注。 本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人在工业场景的商业化交付。 「光象科技」成立于2025年4月，是清华大学车辆与运载学院",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3882361033322755",
+        "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
+        "url": "https://36kr.com/p/3882361033322755?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-05T06:23:00.000Z",
+        "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，通用餐饮具身机器人公司「影智XBOT」连续完成数亿元两轮融资——其中，A轮的2亿元融资由香港简坤资本GPTX出资，B轮融资为3-5 亿元人民币，由多支政府基金、美元基金和产业投资方共同参与出资。 这是目前餐饮垂直机器人领域规模最大的一笔融资之一。 在此之前，「影智XBOT」还完成了一轮天使融资，出资人阵容豪华——包括腾讯高级副总裁张小龙、小米联合创始人黎万强、黄江吉、林斌、洪锋、以及港科大首",
         "category": "updates",
         "region": "cn"
       },
@@ -1200,26 +1210,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3877990989819909",
-        "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
-        "url": "https://36kr.com/p/3877990989819909?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-03T02:26:11.000Z",
-        "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真格基金跟投。 成立不到两年时间，OMOWAY已获得数轮融资。截至目前，其股东阵容包含红杉、真格、Monolith、中金等头部财务投资机构，还包括Lochpine",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3879158039834629",
-        "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
-        "url": "https://36kr.com/p/3879158039834629?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-03T00:06:38.000Z",
-        "summary": "今日热点导览 苹果拟于今明两年推出至少五款新iPhone AI版支付宝开放公测，上线72项办事技能 特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱 LV起诉茉莉奶白，茉莉奶白被判赔1030万元 6月赴日航班取消1488个 安克创新港股上市首日破发 TOP3大新闻 证监会同意宇树科技科创板IPO注册 7月2日，证监会网站显示，同意宇树科技首次公开发行股票注册。这意味着，全球首家在IPO前实现人形机器人规模化盈利的企业正式拿到A股“入场",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/vxgbzsnorrzqdz6xk1jv",
         "title": "被骂“退出AI竞赛”，Meta改行卖算力股价暴涨10%：卖铲子比淘金更赚？",
         "url": "https://www.infoq.cn/article/vxgbzsNORRzQDz6xK1jv?utm_source=rss&utm_medium=article",
@@ -1250,6 +1240,17 @@
         "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3359455/citi-ceo-says-2-ai-races-are-shaping-future-banking",
+        "title": "Citi CEO says 2 AI races are shaping future of banking",
+        "url": "https://www.scmp.com/business/banking-finance/article/3359455/citi-ceo-says-2-ai-races-are-shaping-future-banking?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-05T08:00:18.000Z",
+        "summary": "The global financial sector is engaged in two simultaneous and critical races as AI evolves at an unprecedented rate, according to Jane Fraser, the CEO of Citi, the third-largest bank in the United States. While artifici",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
