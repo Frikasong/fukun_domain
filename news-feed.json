@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T15:14:22.433Z",
+  "generatedAt": "2026-07-06T19:44:24.472Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/former&",
+        "title": "Former lawyer disciplined in 2 states after he allegedly engaged in relationship, sex with clients",
+        "url": "https://www.abajournal.com/news/article/former&#45;lawyer&#45;disciplined&#45;in&#45;2&#45;states&#45;after&#45;he&#45;allegedly&#45;engaged&#45;in&#45;relationship&#45;sex&#45;with&#45;clients/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-06T18:43:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
+        "title": "Judge faces possible fine for more than 900 political donations to left-leaning causes",
+        "url": "https://www.abajournal.com/news/article/florida&#45;judge&#45;facing&#45;reprimand&#45;for&#45;900&#45;political&#45;donations&#45;to&#45;left&#45;leaning&#45;causes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-06T15:58:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/debate&",
+        "title": "Debate ensues over University of New Mexico law dean&#8217;s contract renewal with admissions policies at center",
+        "url": "https://www.abajournal.com/news/article/debate&#45;rages&#45;regarding&#45;unm&#45;law&#45;deans&#45;contract&#45;renewal&#45;with&#45;admissions&#45;policies&#45;at&#45;center/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-06T15:40:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/louisiana&",
         "title": "After state AG&#8217;s indictment for alleged intimidation, malfeasance, Louisiana Supreme Court steps in",
@@ -99,30 +129,10 @@
       },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/investigator&",
-        "title": "30-day suspension for lawyer who allegedly solicited teen for sex advised by investigator",
+        "title": "30-day suspension advised by investigator for lawyer who allegedly solicited teen for sex",
         "url": "https://www.abajournal.com/news/article/investigator&#45;advises&#45;30&#45;day&#45;suspension&#45;for&#45;lawyer&#45;who&#45;allegedly&#45;solicited&#45;teen&#45;for&#45;sex/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-07-02T14:57:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/frontline&",
-        "title": "Nonprofit, legal automation company design new AI tool to protect public benefits",
-        "url": "https://www.abajournal.com/news/article/frontline&#45;justice&#45;and&#45;josef&#45;design&#45;new&#45;ai&#45;tool&#45;to&#45;protect&#45;public&#45;benefits/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-02T14:24:00.000Z",
-        "summary": "",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/set&",
-        "title": "Set off illegal fireworks, go to jail, some prosecutors say",
-        "url": "https://www.abajournal.com/web/article/set&#45;off&#45;illegal&#45;fireworks&#45;go&#45;to&#45;jail&#45;say&#45;some&#45;prosecutors/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-02T14:14:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -144,16 +154,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-07-02T06:52:09.000Z",
         "summary": "Anthropic’s ‘dangerous’ Mythos class model, Fable 5, is back and Artificial Lawyer took it for a spin. First, this site asked it to produce some ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/new&",
-        "title": "After emergencies mar bar exam, New York State Bar Association aims to add new procedures",
-        "url": "https://www.abajournal.com/news/article/new&#45;york&#45;bar&#45;association&#45;aims&#45;to&#45;add&#45;new&#45;procedures&#45;after&#45;emergencies&#45;mar&#45;bar&#45;exam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-01T16:27:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
