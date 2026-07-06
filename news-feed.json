@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T09:58:38.758Z",
+  "generatedAt": "2026-07-06T15:14:22.433Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/louisiana&",
+        "title": "After state AG&#8217;s indictment for alleged intimidation, malfeasance, Louisiana Supreme Court steps in",
+        "url": "https://www.abajournal.com/news/article/louisiana&#45;supreme&#45;court&#45;steps&#45;in&#45;after&#45;ag&#45;indicted&#45;for&#45;intimidation&#45;malfeasance/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-06T15:08:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/07/fastcase-and-alexi-head-to-court-this-week-in-high-stakes-fight-over-legal-ai-caselaw-data-and-clios-1b-vlex-deal.html",
+        "title": "Fastcase And Alexi Head To Court This Week In High-Stakes Fight Over Legal AI, Caselaw Data And Clio’s $1B vLex Deal",
+        "url": "https://www.lawnext.com/2026/07/fastcase-and-alexi-head-to-court-this-week-in-high-stakes-fight-over-legal-ai-caselaw-data-and-clios-1b-vlex-deal.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-06T14:32:01.000Z",
+        "summary": "A federal judge in Washington, D.C., will hear arguments this week in a case that could help define the rules of the road for legal AI companies that rely on licensed caselaw data. The case, Fastcase Inc. v. Alexi Techno",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/06/the-legal-ai-advantage-wont-come-from-the-model-alone",
         "title": "The Legal AI Advantage Won’t Come From the Model Alone",
@@ -133,26 +153,6 @@
         "url": "https://www.abajournal.com/news/article/new&#45;york&#45;bar&#45;association&#45;aims&#45;to&#45;add&#45;new&#45;procedures&#45;after&#45;emergencies&#45;mar&#45;bar&#45;exam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-07-01T16:27:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/when&",
-        "title": "When you get blasted by your own canon",
-        "url": "https://www.abajournal.com/columns/article/when&#45;you&#45;get&#45;blasted&#45;by&#45;your&#45;own&#45;canon/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-01T15:34:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ex&",
-        "title": "Ex-lawyer seeks bar reinstatement after US House primary win",
-        "url": "https://www.abajournal.com/news/article/ex&#45;lawyer&#45;seeks&#45;md&#45;bar&#45;reinstatement&#45;after&#45;us&#45;house&#45;primary&#45;win/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-01T15:06:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1168,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/03/exclusive-smokeball-and-thomson-reuters-partner-to-integrate-cocounsel-legal-ai-with-practice-management-platform.html",
-        "title": "Exclusive: Smokeball and Thomson Reuters Partner to Integrate CoCounsel Legal AI with Practice Management Platform",
-        "url": "https://www.lawnext.com/2026/03/exclusive-smokeball-and-thomson-reuters-partner-to-integrate-cocounsel-legal-ai-with-practice-management-platform.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-25T14:00:43.000Z",
-        "summary": "Smokeball, the cloud-based practice management platform serving small to mid-sized law firms, and Thomson Reuters announced a strategic partnership today that will embed Thomson Reuters&#8217; CoCounsel Legal AI into Smo",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1206,35 +1196,35 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/gx6exwncqcvket9wfzq9",
-        "title": "Agentic 范式下的视频画质优化：火山引擎的新路径",
-        "url": "https://www.infoq.cn/article/Gx6eXWNCqcVkET9wFZq9?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/lb4pqtntqdq657gzj7ei",
+        "title": "世界模型炒作了半年，反应速度还不如 VLA？穆尧团队和百度智能云给出最新解法",
+        "url": "https://www.infoq.cn/article/Lb4pQTNTQdq657Gzj7EI?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-06T17:06:04.000Z",
+        "publishedAt": "2026-07-06T19:50:19.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/2igjsbcmxxhjlgpj7tls",
-        "title": "腾讯混元Hy3正式发布，元宝同步上线Hy3 Agent能力、免费开放",
-        "url": "https://www.infoq.cn/article/2IGjsbCMxxHjLGPJ7tls?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/11fntpyf59t76fyqkipa",
+        "title": "Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心",
+        "url": "https://www.infoq.cn/article/11fNtPYf59T76fyQkiPa?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-06T16:22:01.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ce3cuphypn0ijsuigcsh",
-        "title": "亚马逊云科技推出 Workload Credentials Provider，用于自动化证书和密钥管理",
-        "url": "https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-06T16:00:08.000Z",
+        "publishedAt": "2026-07-06T18:19:11.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1256,6 +1246,26 @@
         "source": "InfoQ China",
         "publishedAt": "2026-07-06T13:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3884101499498497",
+        "title": "德福科技：拟定增募资不超28亿元",
+        "url": "https://36kr.com/newsflashes/3884101499498497?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-06T11:52:21.000Z",
+        "summary": "36氪获悉，德福科技公告，公司拟定增募资不超过28亿元（含），用于5万吨人工智能高端电子电路AI铜箔项目和补充流动资金。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3884024701874183",
+        "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
+        "url": "https://36kr.com/p/3884024701874183?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-06T10:39:24.000Z",
+        "summary": "大公司： 郭明錤爆料最新苹果折叠手机：出货量明显不足，或重现“饥饿营销” 知名分析师郭明錤分析指出，苹果可折叠iPhone预计2026年下半年出货，但初期供应可能不足。他称自己的行业调查显示，2026年下半年可折叠iPhone的组装出货量约为700万至800万部，第三季度出货量约为50万至100万部，约占苹果总出货量的10%。该产品价格可能在2300至2500美元左右，而供应限制将导致转售价格溢价50%至100%。他认为判断可折叠iPh",
         "category": "updates",
         "region": "cn"
       },
@@ -1300,16 +1310,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3883918767665408",
-        "title": "英国GEO公司geoSurge完成1200万美元种子轮融资",
-        "url": "https://36kr.com/newsflashes/3883918767665408?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-06T08:46:28.000Z",
-        "summary": "36氪获悉，总部位于伦敦的AI公司geoSurge宣布完成1200万美元超额认购的种子轮融资，用于推进其在AI可见性领域的全新方法，帮助品牌塑造自身在ChatGPT、Gemini、Claude 等生成式AI系统中的呈现方式。本轮融资由AlbionVC领投，Play Ventures、Octopus Ventures、Celero Ventures、Boost Capital参投，现有投资方Passion Capital与Tuesday ",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3883591654895873",
         "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
         "url": "https://36kr.com/p/3883591654895873?f=rss",
@@ -1346,16 +1346,6 @@
         "source": "36Kr",
         "publishedAt": "2026-07-06T00:02:20.000Z",
         "summary": "今日热点导览 苹果Siri AI秋季上线，仅限iPhone 15 Pro及以上机型 蒋方舟再回应被清华教授指控论文造假 张雪称负债接近1亿元，本月将还清全部债务 黑石集团放弃全球最大数据中心项目，意味着该建设计划已宣告破产 印度政府：正调查苹果手机信息泄露事件 TOP3大新闻 7-11起诉耐克，指控其新鞋配色抄袭7-11标志性颜色 据报道，跨国连锁零售公司7-Eleven（7-11）已在美国得克萨斯州联邦法院起诉运动品牌耐克，指控该公司",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3882365879005186",
-        "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
-        "url": "https://36kr.com/p/3882365879005186?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-05T06:27:30.000Z",
-        "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。 「忆生科技」致力于从科学第一性原理出发，用\"感知—预测—交互\"闭环构建机器人\"大脑+小脑\"统一系统，探索下一代可解释自主智能（Autonomous Intelligence）。 本轮融资资金将主要用",
         "category": "updates",
         "region": "cn"
       },
