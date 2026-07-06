@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T02:25:30.559Z",
+  "generatedAt": "2026-07-06T09:58:38.758Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/06/the-legal-ai-advantage-wont-come-from-the-model-alone",
+        "title": "The Legal AI Advantage Won’t Come From the Model Alone",
+        "url": "https://www.artificiallawyer.com/2026/07/06/the-legal-ai-advantage-wont-come-from-the-model-alone/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-06T06:42:03.000Z",
+        "summary": "By Sam Kidd, CEO, LawVu. Every week in legal tech there’s a new AI announcement. A new drafting tool or legal agent. Another company claiming ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/03/legal-innovators-new-york-uk-lexisnexis-opus-2",
         "title": "Legal Innovators New York + UK, LexisNexis, Opus 2",
@@ -244,16 +254,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-30T06:46:50.000Z",
         "summary": "Reed Smith has launched an ‘AI Leadership Program’ at Cornell University, which the firm said will equip partners to support clients who are ‘navigating one ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/29/kirkland-partners-with-syllo-for-secret-sauce-litigation",
-        "title": "Kirkland Partners With Syllo For Secret Sauce Litigation",
-        "url": "https://www.artificiallawyer.com/2026/06/29/kirkland-partners-with-syllo-for-secret-sauce-litigation/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-29T15:44:05.000Z",
-        "summary": "Fresh from signing a massive deal with Palantir and going on a legal AI hiring spree, Kirkland &#38; Ellis has inked a deal with Syllo, ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,11 +1210,71 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/jpgdhu4ybxixolomeb2i",
-        "title": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
-        "url": "https://www.infoq.cn/article/jpGdhU4YBXiXOloMEb2I?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/gx6exwncqcvket9wfzq9",
+        "title": "Agentic 范式下的视频画质优化：火山引擎的新路径",
+        "url": "https://www.infoq.cn/article/Gx6eXWNCqcVkET9wFZq9?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-06T10:19:26.000Z",
+        "publishedAt": "2026-07-06T17:06:04.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/2igjsbcmxxhjlgpj7tls",
+        "title": "腾讯混元Hy3正式发布，元宝同步上线Hy3 Agent能力、免费开放",
+        "url": "https://www.infoq.cn/article/2IGjsbCMxxHjLGPJ7tls?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-06T16:22:01.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ce3cuphypn0ijsuigcsh",
+        "title": "亚马逊云科技推出 Workload Credentials Provider，用于自动化证书和密钥管理",
+        "url": "https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-06T16:00:08.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/kate2jjkmx7fagskhvrl",
+        "title": "“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程",
+        "url": "https://www.infoq.cn/article/katE2jJKMX7FaGskhvRL?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-06T15:46:52.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ehh8rtgeeouwodlclwxs",
+        "title": "Anthropic：Claude 已承担 95% 的内部数据分析查询工作",
+        "url": "https://www.infoq.cn/article/eHH8RTgeeOUWODLCLWXS?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-06T13:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/e6j4fbxqj28ciziktlus",
+        "title": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+        "url": "https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-06T10:27:32.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/rs0hjtrdn6pl88lifh1a",
+        "title": "豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+        "url": "https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-06T10:22:58.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1236,6 +1296,36 @@
         "source": "InfoQ China",
         "publishedAt": "2026-07-06T09:19:08.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3883918767665408",
+        "title": "英国GEO公司geoSurge完成1200万美元种子轮融资",
+        "url": "https://36kr.com/newsflashes/3883918767665408?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-06T08:46:28.000Z",
+        "summary": "36氪获悉，总部位于伦敦的AI公司geoSurge宣布完成1200万美元超额认购的种子轮融资，用于推进其在AI可见性领域的全新方法，帮助品牌塑造自身在ChatGPT、Gemini、Claude 等生成式AI系统中的呈现方式。本轮融资由AlbionVC领投，Play Ventures、Octopus Ventures、Celero Ventures、Boost Capital参投，现有投资方Passion Capital与Tuesday ",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3883591654895873",
+        "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
+        "url": "https://36kr.com/p/3883591654895873?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-06T07:53:03.000Z",
+        "summary": "文｜吴思瑾 编辑｜邓咏仪 01 一句话介绍 北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。 简单来说，APTSell是一个组合式Agent，通过整合与可视化销售全流程数据，生成管理决策和执行建议，以期正向促进销售效率和业绩提升，反向降低对传统销售管理经验和岗位的依赖。 近期，APTSell宣布已经完",
+        "category": "skills",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3883456791163138",
+        "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪",
+        "url": "https://36kr.com/p/3883456791163138?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-06T02:26:34.000Z",
+        "summary": "访谈｜任彩茹 兰杰 彭倩 文｜任彩茹 编辑｜乔芊 杨轩 “630”减员，AI是祸首还是替罪羊? “现在公司有（减员）名单，你在这里面。”5月中的一天，林越被组长叫进会议室，对方开门见山。 林越的第一反应是平静，他早有预料。早在今年三四月，一些互联网公司内部便传出要裁员的风声。开年以来，中国互联网大公司围绕AI提效激进开展的token竞赛、培训会、隐形考核等，无处不在。当所有人都被卷入一场“all in AI”的运动时，“裁员一定会发生”",
         "category": "updates",
         "region": "cn"
       },
@@ -1270,36 +1360,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3882364132077577",
-        "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
-        "url": "https://36kr.com/p/3882364132077577?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-05T06:25:53.000Z",
-        "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，具身智能公司 「光象科技」 宣布完成累计数亿元天使轮融资。 最新一轮由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本、上市公司行云科技等头部财投与产投深度参与，老股东零一创投、L2F光源创业者基金持续加注。 本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人在工业场景的商业化交付。 「光象科技」成立于2025年4月，是清华大学车辆与运载学院",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3882361033322755",
-        "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
-        "url": "https://36kr.com/p/3882361033322755?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-05T06:23:00.000Z",
-        "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，通用餐饮具身机器人公司「影智XBOT」连续完成数亿元两轮融资——其中，A轮的2亿元融资由香港简坤资本GPTX出资，B轮融资为3-5 亿元人民币，由多支政府基金、美元基金和产业投资方共同参与出资。 这是目前餐饮垂直机器人领域规模最大的一笔融资之一。 在此之前，「影智XBOT」还完成了一轮天使融资，出资人阵容豪华——包括腾讯高级副总裁张小龙、小米联合创始人黎万强、黄江吉、林斌、洪锋、以及港科大首",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3880629882679301",
-        "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-        "url": "https://36kr.com/p/3880629882679301?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-04T01:03:44.000Z",
-        "summary": "今日热点导览 三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗 TOP3大新闻 因存在植入后门风险，阿里内部全面禁用Claude Code 36氪从阿里内部人士处获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/gekem7rkujff8bdwtubt",
         "title": "Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始",
         "url": "https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt?utm_source=rss&utm_medium=article",
@@ -1308,49 +1368,8 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vxgbzsnorrzqdz6xk1jv",
-        "title": "被骂“退出AI竞赛”，Meta改行卖算力股价暴涨10%：卖铲子比淘金更赚？",
-        "url": "https://www.infoq.cn/article/vxgbzsNORRzQDz6xK1jv?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-02T18:27:05.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/bxc66lg3pvl8zmme0ehy",
-        "title": "如何利用 AI Agent 实现热补丁的自动化生成",
-        "url": "https://www.infoq.cn/article/BXc66LG3pVL8ZMme0ehy?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-02T16:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/o5bohliyrhie4zzprhy9",
-        "title": "从龙蜥孵化到上游贡献：SGLang Tracing 与 AI Agent 调优实践",
-        "url": "https://www.infoq.cn/article/o5BOhliYRHIe4ZZPrHY9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-02T15:12:15.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3359285/tech-rallies-and-consumer-shares-lag-chinas-stock-market-forms-microcosm-economy",
-        "title": "As tech rallies and consumer shares lag, China’s stock market forms microcosm for economy",
-        "url": "https://www.scmp.com/business/china-business/article/3359285/tech-rallies-and-consumer-shares-lag-chinas-stock-market-forms-microcosm-economy?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-06T00:30:09.000Z",
-        "summary": "The unevenness of China’s economy is now well reflected in its US$16 trillion stock market, as technology companies ride a bull run but consumer stocks fall behind. Artificial intelligence chipmakers, from Cambricon Tech",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
