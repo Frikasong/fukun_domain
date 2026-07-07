@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T02:13:49.818Z",
+  "generatedAt": "2026-07-07T09:26:41.179Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/07/the-innovators-a-legal-tech-saga",
+        "title": "‘The Innovators’ – A Legal Tech Saga",
+        "url": "https://www.artificiallawyer.com/2026/07/07/the-innovators-a-legal-tech-saga/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-07T06:48:30.000Z",
+        "summary": "Smyth &#38; Marmalade LLP was one of the oldest law firms in London. It had also once been among the most profitable. How things had ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/former&",
         "title": "Former lawyer disciplined in 2 states after he allegedly engaged in relationship, sex with clients",
@@ -244,16 +254,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-30T07:51:50.000Z",
         "summary": "Join Opus 2 and Artificial Lawyer for this special live webinar: ‘From AI-enabled to AI-native workflows in litigation and beyond,’ on July 23rd, 4:00 PM ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/reed-smith-to-school-partners-on-ai-is-this-useful",
-        "title": "Reed Smith to School Partners on AI &#8211; Is This Useful?",
-        "url": "https://www.artificiallawyer.com/2026/06/30/reed-smith-to-school-partners-on-ai-is-this-useful/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-30T06:46:50.000Z",
-        "summary": "Reed Smith has launched an ‘AI Leadership Program’ at Cornell University, which the firm said will equip partners to support clients who are ‘navigating one ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,12 +1210,92 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/mrnn9s3ztficaoau3h4i",
-        "title": "Swift 6.4 带来了新的语言特性以及 Swift 与 XCTest 之间的互操作性",
-        "url": "https://www.infoq.cn/article/MrNN9S3ZTFiCaoaU3h4i?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/pagx3golbi16bwusokw7",
+        "title": "让 AI 真正“懂时间”：QC-MHM 时序知识图谱问答的全新突破 | AAAI",
+        "url": "https://www.infoq.cn/article/pAGx3GoLbi16BwUsoKw7?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-07T09:00:00.000Z",
+        "publishedAt": "2026-07-07T16:54:10.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wokualr13uh0o9xiculz",
+        "title": "开源AI编程工具第一来啦：智谱GLM-5.2上线模力工场，还有专属折扣！",
+        "url": "https://www.infoq.cn/article/woKuALR13UH0o9XicUlZ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-07T15:04:51.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3885328079892484",
+        "title": "南航通航等在湖南成立低空科技公司，注册资本1亿",
+        "url": "https://36kr.com/newsflashes/3885328079892484?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-07T08:49:05.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，湖南兴航飞行低空科技有限公司成立，法定代表人为侯昂，注册资本1亿人民币，经营范围包括通用航空服务、公共航空运输、民用机场运营、航空运营支持服务、人工智能行业应用系统集成服务、软件开发、信息系统集成服务等。股东信息显示，该公司由湖南省低空经济发展集团有限公司、南航通用航空股份有限公司共同持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3885318981366023",
+        "title": "上市前夜｜套现十几亿后，他把矿卡开向港股",
+        "url": "https://36kr.com/p/3885318981366023?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-07T08:32:12.000Z",
+        "summary": "本文约3100字，建议阅读7分钟 作者 | 彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第三期——易控智驾。 2017年前后，36岁的蓝水生完成了人生中第一次大退出。 那是一家做游戏出海的公司，叫广州易幻网络。当年被A股上市公司宝通科技以超过17亿元对价收购，按公开交易安排及后续减持情况粗算，蓝水生相关方整体退出规模约在15亿元上下。 按照创业常见剧本，故",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3885287563472898",
+        "title": "建发集团成立新科技公司，注册资本5亿",
+        "url": "https://36kr.com/newsflashes/3885287563472898?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-07T07:58:53.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，厦门建发科技有限公司成立，法定代表人为蔡晓帆，注册资本5亿人民币，经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广，人工智能行业应用系统集成服务，人工智能应用软件开发，信息系统集成服务，软件开发，大数据服务，物联网应用服务等，由厦门建发集团有限公司、厦门建发新兴产业股权投资有限责任公司共同持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3885277759270912",
+        "title": "Salesforce计划未来五年在瑞士投资10亿美元",
+        "url": "https://36kr.com/newsflashes/3885277759270912?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-07T07:48:55.000Z",
+        "summary": "7月7日，一份声明显示，Salesforce计划在未来五年内在瑞士投资10亿美元。该投资将用于支持当地劳动力、客户群以及人工智能技能发展。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3885177884078083",
+        "title": "揭秘字节 Seedance：全球 AI 的第二个好生意 | 深氪",
+        "url": "https://36kr.com/p/3885177884078083?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-07T07:30:26.000Z",
+        "summary": "采访 | 邓咏仪 肖思佳 李小霞 文 | 张雨忻 邓咏仪 编辑 | 张雨忻 杨轩 2025 年底，在一次模型团队的聚餐上，Seedance 模型的负责人曾妍向 leader 提到，她还是想试试训一个更大尺寸的模型，至少达到 200B（2000亿参数）。 曾妍是字节 Seed 一位非常年轻的研究员，2021 年校招生，研究方向始终聚焦在视频理解与生成上。“她一直都挺有自己的技术判断。” 一位与曾妍打过交道的人告诉 36 氪，“而且很主动，",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3885061350617350",
+        "title": "\"龙虾\"为什么这么火？OpenClaw登顶GitHub后，AI Agent时代真的来了？",
+        "url": "https://36kr.com/p/3885061350617350?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-07T06:23:00.000Z",
+        "summary": "GitHubStar-history 最近Openclaw以25.2万星标，超越Meta的React登顶GitHub开源项目历史第一！ 要知道React是Facebook(现改名Meta）打造的经典前端框架，过去十余年间，互联网上绝大多数我们熟知的网站与App，底层技术架构皆由它构筑。Openclaw官方更是高调发文嘲讽Meta“我们在迭代创新，而你只在办会议”。 这只被全球开发者亲昵称作“龙虾”的OpenClaw，凭一己之力点燃了AI",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3876837605585160",
+        "title": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+        "url": "https://36kr.com/p/3876837605585160?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-07T02:29:47.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。 工程师背景出身，曾就职于大疆、美团等头部大厂，拿过顶级机构的钱，履历足以支撑他选择任何一个被市场验证过的热门赛道，在最短时间内做出产品、讲故事、滚动融资。 但胡文鑫扎进了一个过去三十年几乎无人问津的品类：家用纺织机。 很少有人知道胡文鑫具体在做什么。浪爪智能成立于2022年12月，近几年里，团队刻意保持水下状态——BP从不外发，没有",
         "category": "updates",
         "region": "cn"
       },
@@ -1320,26 +1400,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/m4qjlwayrq7fp4yqimp9",
-        "title": "数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线",
-        "url": "https://www.infoq.cn/article/m4QJlWAyRq7Fp4yQImp9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-06T10:06:52.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/kghzu2k5v8irwyvo6cm3",
-        "title": "Azure Functions在Build 2026发布Serverless智能体运行时",
-        "url": "https://www.infoq.cn/article/kGHZu2K5V8IrwYvo6Cm3?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-06T09:19:08.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3883591654895873",
         "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
         "url": "https://36kr.com/p/3883591654895873?f=rss",
@@ -1348,28 +1408,19 @@
         "summary": "文｜吴思瑾 编辑｜邓咏仪 01 一句话介绍 北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。 简单来说，APTSell是一个组合式Agent，通过整合与可视化销售全流程数据，生成管理决策和执行建议，以期正向促进销售效率和业绩提升，反向降低对传统销售管理经验和岗位的依赖。 近期，APTSell宣布已经完",
         "category": "skills",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3883456791163138",
-        "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪",
-        "url": "https://36kr.com/p/3883456791163138?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-06T02:26:34.000Z",
-        "summary": "访谈｜任彩茹 兰杰 彭倩 文｜任彩茹 编辑｜乔芊 杨轩 “630”减员，AI是祸首还是替罪羊? “现在公司有（减员）名单，你在这里面。”5月中的一天，林越被组长叫进会议室，对方开门见山。 林越的第一反应是平静，他早有预料。早在今年三四月，一些互联网公司内部便传出要裁员的风声。开年以来，中国互联网大公司围绕AI提效激进开展的token竞赛、培训会、隐形考核等，无处不在。当所有人都被卷入一场“all in AI”的运动时，“裁员一定会发生”",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/gekem7rkujff8bdwtubt",
-        "title": "Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始",
-        "url": "https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-03T19:27:10.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/markets/article/3359697/zhipu-ai-minimax-shares-provide-gut-check-hong-kong-investors-lock-ups-end",
+        "title": "Zhipu AI, MiniMax shares to provide gut check for Hong Kong investors as lock-ups end",
+        "url": "https://www.scmp.com/business/markets/article/3359697/zhipu-ai-minimax-shares-provide-gut-check-hong-kong-investors-lock-ups-end?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-07T07:00:06.000Z",
+        "summary": "Hong Kong’s stock market could face sell-off pressure amid a torrent of new share supply in coming days as the six-month lock-up period ends for hot artificial intelligence and semiconductor picks including Zhipu AI and ",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
