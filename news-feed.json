@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T09:26:41.179Z",
+  "generatedAt": "2026-07-07T14:10:28.236Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/07/breaking-norm-ai-raises-120m-at-1-2-bn-valuation",
+        "title": "Norm Ai Raises $120m at $1.2 Bn Valuation",
+        "url": "https://www.artificiallawyer.com/2026/07/07/breaking-norm-ai-raises-120m-at-1-2-bn-valuation/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-07T13:41:59.000Z",
+        "summary": "NewMod firm, Norm Ai, has raised a $120 million Series C round at a $1.2 billion valuation, led by Khosla Ventures, the first institutional investor ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/07/on-lawnext-inside-claude-for-legal-anthropics-mark-pike-on-ais-next-frontier-in-law.html",
+        "title": "On LawNext: Inside Claude for Legal &#8212; Anthropic&#8217;s Mark Pike on AI&#8217;s Next Frontier in Law",
+        "url": "https://www.lawnext.com/2026/07/on-lawnext-inside-claude-for-legal-anthropics-mark-pike-on-ais-next-frontier-in-law.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-07T12:30:59.000Z",
+        "summary": "When Anthropic launched Claude for Legal in May – more than 20 MCP connectors and a dozen practice-area plugins built specifically for legal work – it marked the company&#8217;s biggest and most explicit commitment yet t",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/07/meet-brahe-the-new-ai-first-law-firm",
+        "title": "Meet Brahe – The New AI-First Law Firm",
+        "url": "https://www.artificiallawyer.com/2026/07/07/meet-brahe-the-new-ai-first-law-firm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-07T10:08:50.000Z",
+        "summary": "Antti Innanen, the legal AI expert who recently created the agentic experimental firm Lavern, is now launching a real AI-first law firm, Brahe, and is ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/07/the-innovators-a-legal-tech-saga",
         "title": "‘The Innovators’ – A Legal Tech Saga",
@@ -234,26 +264,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-06-30T13:00:09.000Z",
         "summary": "Spellbook has launched Autonomous Contract Management (ACM) for inhouse teams, the biggest expansion of its offering since it got going in 2022 – see AL ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/ai-agents-will-handle-30-of-inhouse-work-deloitte",
-        "title": "‘AI Agents Will Handle 30% of Inhouse Work’ – Deloitte",
-        "url": "https://www.artificiallawyer.com/2026/06/30/ai-agents-will-handle-30-of-inhouse-work-deloitte/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-30T08:56:13.000Z",
-        "summary": "A market analysis by Deloitte Legal suggests that in the next three to five years AI agents could handle 30% of the work within corporate ...",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/webinar-ai-native-workflows-in-litigation-beyond",
-        "title": "Webinar: AI-Native Workflows in Litigation + Beyond",
-        "url": "https://www.artificiallawyer.com/2026/06/30/webinar-ai-native-workflows-in-litigation-beyond/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-30T07:51:50.000Z",
-        "summary": "Join Opus 2 and Artificial Lawyer for this special live webinar: ‘From AI-enabled to AI-native workflows in litigation and beyond,’ on July 23rd, 4:00 PM ...",
         "category": "updates",
         "region": "na"
       },
@@ -1158,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/03/ai-that-listens-like-a-lawyer-a-side-by-side-comparison-of-general-ai-notetakers-and-legal-conversational-intelligence.html",
-        "title": "AI That Listens Like a Lawyer: A Side-by-Side Comparison of General AI Notetakers and Legal Conversational Intelligence",
-        "url": "https://www.lawnext.com/2026/03/ai-that-listens-like-a-lawyer-a-side-by-side-comparison-of-general-ai-notetakers-and-legal-conversational-intelligence.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-26T18:15:49.000Z",
-        "summary": "AI That Listens Like a Lawyer: Courts Are Exposing the Gap Between What AI Notetakers Promise and What Their Contracts Permit. Purpose-Built Legal Conversational Intelligenceᵀᴹ Tools, Such as Querious®, Offer Attorneys a",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,13 +1210,23 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/pagx3golbi16bwusokw7",
-        "title": "让 AI 真正“懂时间”：QC-MHM 时序知识图谱问答的全新突破 | AAAI",
-        "url": "https://www.infoq.cn/article/pAGx3GoLbi16BwUsoKw7?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/wnwumomrvix0ft0dz8yi",
+        "title": "AI Agent 会自己选 CDN 了：当网站访问者从 “人” 扩展到 “AI”，内容分发已升级",
+        "url": "https://www.infoq.cn/article/WNWuMomRvix0FT0dZ8yI?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-07T16:54:10.000Z",
+        "publishedAt": "2026-07-07T19:02:25.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/css70hysa57jbumldf7l",
+        "title": "微软通过 Copilot Autofix 将基于 AI 的漏洞修复功能引入 Azure DevOps",
+        "url": "https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-07T17:23:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "tools",
         "region": "cn"
       },
       {
@@ -1230,12 +1240,32 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3885328079892484",
-        "title": "南航通航等在湖南成立低空科技公司，注册资本1亿",
-        "url": "https://36kr.com/newsflashes/3885328079892484?f=rss",
+        "id": "36Kr:36kr.com/p/3885457443385346",
+        "title": "氪星晚报 ｜苹果折叠屏已在量产；潘功胜：香港可以抓住有利时机，吸引更多主权财富和国际企业到港发债融资",
+        "url": "https://36kr.com/p/3885457443385346?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-07T08:49:05.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，湖南兴航飞行低空科技有限公司成立，法定代表人为侯昂，注册资本1亿人民币，经营范围包括通用航空服务、公共航空运输、民用机场运营、航空运营支持服务、人工智能行业应用系统集成服务、软件开发、信息系统集成服务等。股东信息显示，该公司由湖南省低空经济发展集团有限公司、南航通用航空股份有限公司共同持股。",
+        "publishedAt": "2026-07-07T10:59:00.000Z",
+        "summary": "大公司： 网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言 36氪获悉，近日，有网民发布题为《7月1日新规正式落地！新车智驾芯片自主化率不低于70%》的文章。文中称“7月1日，工信部联合市监总局出台的《新能源汽车车规级AI芯片技术规范》正式强制执行”，并称“国内生产、销售的所有新能源乘用车，智驾芯片全链路关键技术自主化率必须达到70%以上，不达标车型禁止申报、生产、上牌”。经工业和信息化部核查，并未发布过该文件，也从未就新能",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3885415199076352",
+        "title": "不做fast follow的人，都想创造一个新的世界丨36氪离线聚会第三期",
+        "url": "https://36kr.com/p/3885415199076352?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-07T10:11:27.000Z",
+        "summary": "“理性的人让自己适应世界，不理性的人坚持让世界适应自己。因此，一切进步都取决于不理性的人。” 萧伯纳在《人与超人》里的论断，其实缺少了一个前提：让世界适应自己，你得先看见一个别人还没看见的世界。 无法否认的是，过去二十年在中国的科技行业里，有一条相对成熟的路径：fast follow。看硅谷做了什么，更快、更便宜地做一遍。这种方式催生了一批优秀的公司，却难免也带来了一个盲区：当前方没有参照物的时候，我们应该往何处前进？ 6月27日晚上，",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3885413484163074",
+        "title": "北斗人创业，要建太空数据中心，「星际原点」连续完成两轮数千万元融资���36氪首发",
+        "url": "https://36kr.com/p/3885413484163074?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-07T10:07:53.000Z",
+        "summary": "文 | 阿至 太空算力赛道又有新玩家入场。 36氪获悉，太空算力卫星系统解决方案提供商星际原点航天科技（上海）有限公司（以下简称“星际原点”） 已于近期连续完成种子轮、天使轮两轮融资，累计规模为数千万元。 种子轮投资方为九合创投。天使轮由老股东九合创投、梅花创投和上海国投旗下上海科创集团策源基金联合领投，上海天使会以联合投资形式参与。一苇资本担任独家财务顾问。 星际原点成立于2025年，业务聚焦太空算力卫星。核心团队由中科院北斗三号核心",
         "category": "updates",
         "region": "cn"
       },
@@ -1246,26 +1276,6 @@
         "source": "36Kr",
         "publishedAt": "2026-07-07T08:32:12.000Z",
         "summary": "本文约3100字，建议阅读7分钟 作者 | 彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第三期——易控智驾。 2017年前后，36岁的蓝水生完成了人生中第一次大退出。 那是一家做游戏出海的公司，叫广州易幻网络。当年被A股上市公司宝通科技以超过17亿元对价收购，按公开交易安排及后续减持情况粗算，蓝水生相关方整体退出规模约在15亿元上下。 按照创业常见剧本，故",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3885287563472898",
-        "title": "建发集团成立新科技公司，注册资本5亿",
-        "url": "https://36kr.com/newsflashes/3885287563472898?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-07T07:58:53.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，厦门建发科技有限公司成立，法定代表人为蔡晓帆，注册资本5亿人民币，经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广，人工智能行业应用系统集成服务，人工智能应用软件开发，信息系统集成服务，软件开发，大数据服务，物联网应用服务等，由厦门建发集团有限公司、厦门建发新兴产业股权投资有限责任公司共同持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3885277759270912",
-        "title": "Salesforce计划未来五年在瑞士投资10亿美元",
-        "url": "https://36kr.com/newsflashes/3885277759270912?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-07T07:48:55.000Z",
-        "summary": "7月7日，一份声明显示，Salesforce计划在未来五年内在瑞士投资10亿美元。该投资将用于支持当地劳动力、客户群以及人工智能技能发展。（界面）",
         "category": "updates",
         "region": "cn"
       },
@@ -1310,26 +1320,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3884289424437511",
-        "title": "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资",
-        "url": "https://36kr.com/p/3884289424437511?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-07T01:00:00.000Z",
-        "summary": "图源/企业 本文约 2000 字，建议阅读 5 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，上海快粼光电科技有限公司（以下简称“快粼光电”）近期已完成数千万元天使轮融资。本轮融资由小苗朗程领投，一村资本跟投。中岚科创担任长期财务顾问，提供产业协同和资本对接服务。此次募集资金将主要用于公司超高速光探测芯片的研发迭代与送样验证，加速国产光探测芯片量产进程以及企业高端人才引进。 快粼光电2024年成立于上海，是一家专注于III-V族高速光电探测",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3884831072514309",
-        "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
-        "url": "https://36kr.com/p/3884831072514309?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-07T00:15:11.000Z",
-        "summary": "今日热点导览 华为Mate90系列有望搭载基于韬定律的新麒麟芯片 央视曝光滴眼液涉事企业被立案，对滴眼液乱象开展调查处置 千问大模型升级实时语音识别大模型Fun-ASR-Realtime WPS回应“滥收费、背刺用户”言论 TOP3大新闻 SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模 据报道，SK海力士将以约44万亿韩元规模的美国存托凭证（ADR）在纳斯达克上市，挑战外资企业在美国股市上市的历史最大规模。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/lb4pqtntqdq657gzj7ei",
         "title": "世界模型炒作了半年，反应速度还不如 VLA？穆尧团队和百度智能云给出最新解法",
         "url": "https://www.infoq.cn/article/Lb4pQTNTQdq657Gzj7EI?utm_source=rss&utm_medium=article",
@@ -1368,59 +1358,8 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3884024701874183",
-        "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
-        "url": "https://36kr.com/p/3884024701874183?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-06T10:39:24.000Z",
-        "summary": "大公司： 郭明錤爆料最新苹果折叠手机：出货量明显不足，或重现“饥饿营销” 知名分析师郭明錤分析指出，苹果可折叠iPhone预计2026年下半年出货，但初期供应可能不足。他称自己的行业调查显示，2026年下半年可折叠iPhone的组装出货量约为700万至800万部，第三季度出货量约为50万至100万部，约占苹果总出货量的10%。该产品价格可能在2300至2500美元左右，而供应限制将导致转售价格溢价50%至100%。他认为判断可折叠iPh",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/e6j4fbxqj28ciziktlus",
-        "title": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
-        "url": "https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-06T10:27:32.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/rs0hjtrdn6pl88lifh1a",
-        "title": "豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
-        "url": "https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-06T10:22:58.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3883591654895873",
-        "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
-        "url": "https://36kr.com/p/3883591654895873?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-06T07:53:03.000Z",
-        "summary": "文｜吴思瑾 编辑｜邓咏仪 01 一句话介绍 北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。 简单来说，APTSell是一个组合式Agent，通过整合与可视化销售全流程数据，生成管理决策和执行建议，以期正向促进销售效率和业绩提升，反向降低对传统销售管理经验和岗位的依赖。 近期，APTSell宣布已经完",
-        "category": "skills",
-        "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/markets/article/3359697/zhipu-ai-minimax-shares-provide-gut-check-hong-kong-investors-lock-ups-end",
-        "title": "Zhipu AI, MiniMax shares to provide gut check for Hong Kong investors as lock-ups end",
-        "url": "https://www.scmp.com/business/markets/article/3359697/zhipu-ai-minimax-shares-provide-gut-check-hong-kong-investors-lock-ups-end?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-07T07:00:06.000Z",
-        "summary": "Hong Kong’s stock market could face sell-off pressure amid a torrent of new share supply in coming days as the six-month lock-up period ends for hot artificial intelligence and semiconductor picks including Zhipu AI and ",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
