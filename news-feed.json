@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T19:43:05.485Z",
+  "generatedAt": "2026-07-08T01:54:27.749Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/blank&",
+        "title": "Blank Rome sued over data breach that exposed more than 57K people&#8217;s information",
+        "url": "https://www.abajournal.com/news/article/blank&#45;rome&#45;sued&#45;over&#45;data&#45;breach&#45;that&#45;exposed&#45;more&#45;than&#45;57000&#45;peoples&#45;information/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-07T20:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/accreditation&",
         "title": "When it comes to accreditation and the ABA Legal Ed council, what does it all mean?",
@@ -34,16 +44,6 @@
         "source": "ABA Journal",
         "publishedAt": "2026-07-07T16:58:00.000Z",
         "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/07/harbor-acquires-itrain-for-legal-ai-education",
-        "title": "Harbor Acquires iTrain for Legal AI Education",
-        "url": "https://www.artificiallawyer.com/2026/07/07/harbor-acquires-itrain-for-legal-ai-education/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-07T16:39:24.000Z",
-        "summary": "Harbor, the legal tech services group, has bought iTrain, which focuses on tech training, including AI enablement. It maintains strategic partnerships with Aderant, iManage, NetDocuments, ...",
         "category": "updates",
         "region": "na"
       },
@@ -78,16 +78,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/07/breaking-norm-ai-raises-120m-at-1-2-bn-valuation",
-        "title": "Norm Ai Raises $120m at $1.2 Bn Valuation",
-        "url": "https://www.artificiallawyer.com/2026/07/07/breaking-norm-ai-raises-120m-at-1-2-bn-valuation/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-07T13:41:59.000Z",
-        "summary": "NewMod firm, Norm Ai, has raised a $120 million Series C round at a $1.2 billion valuation, led by Khosla Ventures, the first institutional investor ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/on-lawnext-inside-claude-for-legal-anthropics-mark-pike-on-ais-next-frontier-in-law.html",
         "title": "On LawNext: Inside Claude for Legal &#8212; Anthropic&#8217;s Mark Pike on AI&#8217;s Next Frontier in Law",
         "url": "https://www.lawnext.com/2026/07/on-lawnext-inside-claude-for-legal-anthropics-mark-pike-on-ais-next-frontier-in-law.html",
@@ -95,26 +85,6 @@
         "publishedAt": "2026-07-07T12:30:59.000Z",
         "summary": "When Anthropic launched Claude for Legal in May – more than 20 MCP connectors and a dozen practice-area plugins built specifically for legal work – it marked the company&#8217;s biggest and most explicit commitment yet t",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/07/meet-brahe-the-new-ai-first-law-firm",
-        "title": "Meet Brahe – The New AI-First Law Firm",
-        "url": "https://www.artificiallawyer.com/2026/07/07/meet-brahe-the-new-ai-first-law-firm/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-07T10:08:50.000Z",
-        "summary": "Antti Innanen, the legal AI expert who recently created the agentic experimental firm Lavern, is now launching a real AI-first law firm, Brahe, and is ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/07/the-innovators-a-legal-tech-saga",
-        "title": "‘The Innovators’ – A Legal Tech Saga",
-        "url": "https://www.artificiallawyer.com/2026/07/07/the-innovators-a-legal-tech-saga/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-07T06:48:30.000Z",
-        "summary": "Smyth &#38; Marmalade LLP was one of the oldest law firms in London. It had also once been among the most profitable. How things had ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -168,26 +138,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/06/the-legal-ai-advantage-wont-come-from-the-model-alone",
-        "title": "The Legal AI Advantage Won’t Come From the Model Alone",
-        "url": "https://www.artificiallawyer.com/2026/07/06/the-legal-ai-advantage-wont-come-from-the-model-alone/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-06T06:42:03.000Z",
-        "summary": "By Sam Kidd, CEO, LawVu. Every week in legal tech there’s a new AI announcement. A new drafting tool or legal agent. Another company claiming ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/03/legal-innovators-new-york-uk-lexisnexis-opus-2",
-        "title": "Legal Innovators New York + UK, LexisNexis, Opus 2",
-        "url": "https://www.artificiallawyer.com/2026/07/03/legal-innovators-new-york-uk-lexisnexis-opus-2/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-03T06:59:31.000Z",
-        "summary": "Happy Independence Day to all of Artificial Lawyer’s readers in America! AI can be a tremendous force for personal liberty and growth, allowing an individual ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/universal-migrator-now-supports-migrations-from-more-than-170-applications.html",
         "title": "Universal Migrator Now Supports Migrations From More Than 170 Applications",
         "url": "https://www.lawnext.com/2026/07/universal-migrator-now-supports-migrations-from-more-than-170-applications.html",
@@ -208,16 +158,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/02/anthropics-dangerous-fable-is-back-how-does-it-do",
-        "title": "Anthropic’s ‘Dangerous’ Fable Is Back! How Does It Do?",
-        "url": "https://www.artificiallawyer.com/2026/07/02/anthropics-dangerous-fable-is-back-how-does-it-do/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-02T06:52:09.000Z",
-        "summary": "Anthropic’s ‘dangerous’ Mythos class model, Fable 5, is back and Artificial Lawyer took it for a spin. First, this site asked it to produce some ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude-partnership.html",
         "title": "On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership",
         "url": "https://www.lawnext.com/2026/07/on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude-partnership.html",
@@ -228,42 +168,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/01/biomechanics-and-legal-ai",
-        "title": "Biomechanics and Legal AI",
-        "url": "https://www.artificiallawyer.com/2026/07/01/biomechanics-and-legal-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-01T08:28:59.000Z",
-        "summary": "If you’ve seen me give a talk, then you may have noted my framing of companies as organisms that use their inhouse legal function to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/01/digital-toolbox-juristic-joins-board-intelligence",
-        "title": "‘Digital Toolbox’ Juristic Joins Board Intelligence",
-        "url": "https://www.artificiallawyer.com/2026/07/01/digital-toolbox-juristic-joins-board-intelligence/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-01T07:05:27.000Z",
-        "summary": "Juristic, a legal tech startup that offers a broad range of task management and timeline skills, has joined Board Intelligence, the appropriately named board technology ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/06/after-the-barbri-deal-legas-christian-lang-says-the-governance-platform-isnt-going-away-but-it-is-going-to-school.html",
         "title": "After the BARBRI Deal, Lega&#8217;s Christian Lang Says the Governance Platform Isn&#8217;t Going Away, But It Is Going to School",
         "url": "https://www.lawnext.com/2026/06/after-the-barbri-deal-legas-christian-lang-says-the-governance-platform-isnt-going-away-but-it-is-going-to-school.html",
         "source": "LawSites",
         "publishedAt": "2026-06-30T17:48:19.000Z",
         "summary": "When I wrote last week about BARBRI&#8217;s acquisition of Lega, I had not yet had the chance to speak with Lega founder Christian Lang, who was traveling. So I closed that post with what was admittedly conjecture on my ",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/06/30/scott-stevenson-interview-spellbook-acm",
-        "title": "Scott Stevenson Interview: Spellbook ACM",
-        "url": "https://www.artificiallawyer.com/2026/06/30/scott-stevenson-interview-spellbook-acm/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-06-30T13:13:46.000Z",
-        "summary": "And now the in-depth AL interview with Spellbook’s CEO, Scott Stevenson, all about the ACM launch, what it means, how AI contract review is at ...",
         "category": "tools",
         "region": "na"
       },
@@ -1206,9 +1116,59 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/cefbc7qdide3zvfdyjs5",
+        "title": "Target 推出基于 LLM 的语义匹配系统，提升营销预测流程效率",
+        "url": "https://www.infoq.cn/article/cEfBc7qdIDe3ZVFDyjS5?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-08T09:09:33.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3886238403129353",
+        "title": "8点1氪丨前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭；苹果折叠屏已在量产；特朗普呼吁购买戴尔电脑，引发戴尔暴涨百亿美元",
+        "url": "https://36kr.com/p/3886238403129353?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-08T00:09:01.000Z",
+        "summary": "今日热点导览 网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言 商业银行不良处置仍在加速，上半年全行业转让核销合计至少5000亿 国家外汇管理局：截至2026年6月末，中国外汇储备规模为34163亿美元 汇丰暂停向风险较高的私募信贷客户提供贷款 SpaceX公布AI数据中心计划，同步推进星链卫星脱轨 TOP3大新闻 前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭 7月6日，前华为“天才少年”李博杰在社交平台公开吐",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3885479689465858",
+        "title": "「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发",
+        "url": "https://36kr.com/p/3885479689465858?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-08T00:00:00.000Z",
+        "summary": "文｜胡香赟 编辑｜海若镜 36 氪获悉，德睿智药近期已完成 5200 万美元B轮融资，投资方包括头部人民币和美元基金，凯乘资本为独家财务顾问。募集资金将用于AI制药引擎Molecule Arts Platform（MAP）升级迭代，完善其多智能体（Multi-Agent）协同体系与临床数据闭环（Clinical Data-in-the-Loop），以及推进自研口服GLP-1小分子MDR-001的III期临床和商业化、拓展其他差异化创新药",
+        "category": "tools",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/wnwumomrvix0ft0dz8yi",
         "title": "AI Agent 会自己选 CDN 了：当网站访问者从 “人” 扩展到 “AI”，内容分发已升级",
@@ -1261,7 +1221,7 @@
       },
       {
         "id": "36Kr:36kr.com/p/3885413484163074",
-        "title": "北斗人创业，要建太空数据中心，「星际原点」连续完成两轮数千万元融资���36氪首发",
+        "title": "北斗人创业，要建太空数据中心，「星际原点」连续完成两轮数千万元融资｜36氪首发",
         "url": "https://36kr.com/p/3885413484163074?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-07T10:07:53.000Z",
@@ -1276,46 +1236,6 @@
         "source": "36Kr",
         "publishedAt": "2026-07-07T08:32:12.000Z",
         "summary": "本文约3100字，建议阅读7分钟 作者 | 彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第三期——易控智驾。 2017年前后，36岁的蓝水生完成了人生中第一次大退出。 那是一家做游戏出海的公司，叫广州易幻网络。当年被A股上市公司宝通科技以超过17亿元对价收购，按公开交易安排及后续减持情况粗算，蓝水生相关方整体退出规模约在15亿元上下。 按照创业常见剧本，故",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3885177884078083",
-        "title": "揭秘字节 Seedance：全球 AI 的第二个好生意 | 深氪",
-        "url": "https://36kr.com/p/3885177884078083?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-07T07:30:26.000Z",
-        "summary": "采访 | 邓咏仪 肖思佳 李小霞 文 | 张雨忻 邓咏仪 编辑 | 张雨忻 杨轩 2025 年底，在一次模型团队的聚餐上，Seedance 模型的负责人曾妍向 leader 提到，她还是想试试训一个更大尺寸的模型，至少达到 200B（2000亿参数）。 曾妍是字节 Seed 一位非常年轻的研究员，2021 年校招生，研究方向始终聚焦在视频理解与生成上。“她一直都挺有自己的技术判断。” 一位与曾妍打过交道的人告诉 36 氪，“而且很主动，",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3885061350617350",
-        "title": "\"龙虾\"为什么这么火？OpenClaw登顶GitHub后，AI Agent时代真的来了？",
-        "url": "https://36kr.com/p/3885061350617350?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-07T06:23:00.000Z",
-        "summary": "GitHubStar-history 最近Openclaw以25.2万星标，超越Meta的React登顶GitHub开源项目历史第一！ 要知道React是Facebook(现改名Meta）打造的经典前端框架，过去十余年间，互联网上绝大多数我们熟知的网站与App，底层技术架构皆由它构筑。Openclaw官方更是高调发文嘲讽Meta“我们在迭代创新，而你只在办会议”。 这只被全球开发者亲昵称作“龙虾”的OpenClaw，凭一己之力点燃了AI",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3876837605585160",
-        "title": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
-        "url": "https://36kr.com/p/3876837605585160?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-07T02:29:47.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。 工程师背景出身，曾就职于大疆、美团等头部大厂，拿过顶级机构的钱，履历足以支撑他选择任何一个被市场验证过的热门赛道，在最短时间内做出产品、讲故事、滚动融资。 但胡文鑫扎进了一个过去三十年几乎无人问津的品类：家用纺织机。 很少有人知道胡文鑫具体在做什么。浪爪智能成立于2022年12月，近几年里，团队刻意保持水下状态——BP从不外发，没有",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3883943959621634",
-        "title": "用AI“复刻”人类细胞、预判药效，「华源智因」获千万级人民币种子轮融资｜36氪首发",
-        "url": "https://36kr.com/p/3883943959621634?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-07T01:05:00.000Z",
-        "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）企业华源智因近期已完成千万级人民币种子轮融资。本轮融资由水木创投领投，募集资金将主要用于多模态测序底层技术迭代，进一步拓展与头部三甲医院的合作，以及团队扩充等。此外，华源智因团队已计划启动新一轮融资。 华源智因创始团队由资深医药产业从业者、计算生物学研发人员组成，并邀请到深圳国家基因库��单位专家组成科学顾问委员会，形成科研与产业协同的团队架构。公司CEO杜润诗就读于加州大学",
         "category": "updates",
         "region": "cn"
       },
@@ -1345,16 +1265,6 @@
         "url": "https://www.infoq.cn/article/katE2jJKMX7FaGskhvRL?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-06T15:46:52.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ehh8rtgeeouwodlclwxs",
-        "title": "Anthropic：Claude 已承担 95% 的内部数据分析查询工作",
-        "url": "https://www.infoq.cn/article/eHH8RTgeeOUWODLCLWXS?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-06T13:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
