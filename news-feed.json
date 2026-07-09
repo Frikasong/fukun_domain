@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T02:07:31.021Z",
+  "generatedAt": "2026-07-09T09:23:12.634Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure",
+        "title": "Darrow Cuts Roles as Part of Strategic Restructure",
+        "url": "https://www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-09T08:12:33.000Z",
+        "summary": "Darrow, the pioneering litigation intelligence platform, has undergone a restructuring with multiple roles cut. However, the Israel-based company underlined they had ‘consistent year-over-year growth’ and ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/09/why-adoption-starts-where-go-live-ends",
+        "title": "Why Adoption Starts Where Go-Live Ends",
+        "url": "https://www.artificiallawyer.com/2026/07/09/why-adoption-starts-where-go-live-ends/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-09T06:40:34.000Z",
+        "summary": "By Jennie Strickland, Clio. The feeling of a successful go-live is one most legal technology leaders will recognize. The project has hit its milestones. Training ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/early&",
         "title": "Early-career lawyers lean on AI every day, new NALP study finds",
@@ -215,26 +235,6 @@
         "publishedAt": "2026-07-07T12:30:59.000Z",
         "summary": "When Anthropic launched Claude for Legal in May – more than 20 MCP connectors and a dozen practice-area plugins built specifically for legal work – it marked the company&#8217;s biggest and most explicit commitment yet t",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/07/meet-brahe-the-new-ai-first-law-firm",
-        "title": "Meet Brahe – The New AI-First Law Firm",
-        "url": "https://www.artificiallawyer.com/2026/07/07/meet-brahe-the-new-ai-first-law-firm/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-07T10:08:50.000Z",
-        "summary": "Antti Innanen, the legal AI expert who recently created the agentic experimental firm Lavern, is now launching a real AI-first law firm, Brahe, and is ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/07/the-innovators-a-legal-tech-saga",
-        "title": "‘The Innovators’ – A Legal Tech Saga",
-        "url": "https://www.artificiallawyer.com/2026/07/07/the-innovators-a-legal-tech-saga/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-07T06:48:30.000Z",
-        "summary": "Smyth &#38; Marmalade LLP was one of the oldest law firms in London. It had also once been among the most profitable. How things had ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,12 +1210,112 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ibeglxveqxzxvq8lhtvn",
-        "title": "将平台开发从项目转向产品",
-        "url": "https://www.infoq.cn/article/IBeglXveqxZXVq8lhtvN?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/bn06gz6lwp9tc5qvpoky",
+        "title": "AI Infra 拼什么？",
+        "url": "https://www.infoq.cn/video/bN06GZ6lWP9tc5qVPOky?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-09T09:36:21.000Z",
+        "publishedAt": "2026-07-09T16:18:51.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qaluq71axig5vlmwqszu",
+        "title": "百万上下文下的 DeepSeek V4：SGLang 推理优化实战｜AICon深圳",
+        "url": "https://www.infoq.cn/article/qALuq71AxiG5VLmWqSzU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-09T16:15:15.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/voj3wveuv5txroyqsypr",
+        "title": "Snowflake CoWork：每位知识工作者的专属工作 Agent ｜ 技术趋势",
+        "url": "https://www.infoq.cn/article/VoJ3wVeUv5txrOYqSYpR?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-09T16:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/scc8javdsa2zgbg0c2c1",
+        "title": "首个具身视频基模开源！LingBot-Video 如何为“机器人大脑”构建物理引擎？",
+        "url": "https://www.infoq.cn/article/SCC8javdsA2zgBg0c2C1?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-09T15:32:04.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/grdxyebxa7ywxo4sebwy",
+        "title": "动态分区拆分：Netflix 大幅削减 Cassandra 读取延迟至毫秒级",
+        "url": "https://www.infoq.cn/article/GRDxYebxA7ywxO4seBWy?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-09T15:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/e4kv7cpqgewujnovteau",
+        "title": "重磅发布 Cortex Sense：为未建模数据注入可信上下文 ｜ 技术趋势",
+        "url": "https://www.infoq.cn/article/E4kV7CPQGeWujNoVTEAU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-09T14:50:56.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/7rgp3820xigyqev9jpsq",
+        "title": "Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌DeepMind权威认证！",
+        "url": "https://www.infoq.cn/article/7Rgp3820XIGYqEV9JPSq?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-09T13:56:49.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hogtafdir2gvccjyilec",
+        "title": "Claude 在 Foundry 上正式可用，但欧洲企业无法部署",
+        "url": "https://www.infoq.cn/article/hOGtafDIR2GvccjYiLEc?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-09T12:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3888188032776713",
+        "title": "国务院：推进算力设施绿色低碳转型，推动新建算力设施主要使用非化石能源电力",
+        "url": "https://36kr.com/newsflashes/3888188032776713?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-09T09:09:24.000Z",
+        "summary": "36氪获悉，国务院印发《“十五五”碳达峰行动方案》。推进算力设施绿色低碳转型。强化算力设施与可再生能源协同布局，支持开展绿电直供，合理配置储能、备用电源等配套设施，推动新建算力设施主要使用非化石能源电力。完善算力设施节能降碳标准，推动未达标算力设施开展节能降碳改造，有序淘汰落后低效技术和设备，提升算力设施能效水平。加快建设绿色算力设施，鼓励建设零碳算力设施。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3888180493318921",
+        "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
+        "url": "https://36kr.com/p/3888180493318921?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-09T09:01:56.000Z",
+        "summary": "特斯拉FSD（Full Self-Driving）每迭代出一个新版本，自动驾驶公司Momenta的创始人曹旭东都会飞去美国亲自体验。 “他还不光是去坐车，还会找一切能接触到特斯拉的人聊。”接触到曹旭东的人士告诉36氪，马斯克是曹旭东最常提到的人。 在内部，许多员工对曹旭东的一个共同感受，就是“马斯克式CEO”。 创业十年，Momenta赴港股IPO，上市首日（7月8日）市值达700亿港元。Momenta创始人曹旭东对36氪用两个数据，概",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3887871679347208",
+        "title": "自研焊接具身大脑模型，以“智能焊工”切入工业制造具身智能赛道，「昇视唯盛」完成数亿元B轮融资｜36氪首发",
+        "url": "https://36kr.com/p/3887871679347208?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-09T03:48:49.000Z",
+        "summary": "36氪获悉，聚焦工业制造领域的具身智能机器人企业 「昇视唯盛」（3Srobotics）正式宣布完成数亿元B轮融资，本轮融资由上海半导体产投、金桥基金领投，零一创投、新鼎资本、中关鼎华及老股东微光创投持续加码跟投。 资金将主要用于焊接具身智能大脑与自主小脑运动控制系统的迭代升级，扩大自有智造工厂产能，扩充研发与市场服务团队，加速产品全国多行业规模化落地。 昇视唯盛成立于2020年，2023年获得国家高新技术企业认证，2024年获得上海市专",
         "category": "updates",
         "region": "cn"
       },
@@ -1226,36 +1326,6 @@
         "source": "36Kr",
         "publishedAt": "2026-07-09T01:20:08.000Z",
         "summary": "图源/企业 本文约 2200 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，物理AI企业深度智控（DeepCtrls）近期完成数亿元人民币B轮融资。本轮融资由晶科能源战略投资，国投创新、招银国际联合领投，红杉中国、源码资本、光远资本、招商局创投等老股东持续跟投。 本轮资金将主要用于核心物理AI算法与产品线的持续研发、标准化产品DeepBot的规模化拓展，以及东南亚、中东、欧美等海外市场的进一步布局，持续夯实“物理AI全球能",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3887717218089736",
-        "title": "阶跃星辰将发布AI智能体手机",
-        "url": "https://36kr.com/newsflashes/3887717218089736?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-09T01:10:27.000Z",
-        "summary": "阶跃星辰即将发布AI终端品牌、智能体系统及其首款AI智能体手机。此前，OpenAI已公开押注新一代AI终端，计划2027年上市。阶跃星辰本次抢先落地AI智能体手机，成为全球大模型厂商中率先迈出这一步的玩家。 （财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3887708659677956",
-        "title": "Hy3调用激增，WorkBuddy已紧急扩容",
-        "url": "https://36kr.com/newsflashes/3887708659677956?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-09T01:01:45.000Z",
-        "summary": "36氪获悉，腾讯混元公告，Hy3在WorkBuddy首发上线以来，调用激增。7月8日上午10时开始，算力资源消耗达到峰值，并出现排队情况，下午排队率一度超过50%。为了提供更好的Hy3使用体验和稳定服务，公司第一时间调度可用资源进行补充，目前已扩容完毕。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3887685210372611",
-        "title": "中信建投：AI PCB需求放量、高阶升级趋势明确，打开设备耗材新空间",
-        "url": "https://36kr.com/newsflashes/3887685210372611?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-09T00:37:54.000Z",
-        "summary": "36氪获悉，中信建投研报表示，算力需求正成为PCB行业最重要的结构性增量，推动AI场景PCB升级为高多层、高密度、高速、低损耗和高可靠的平台型产品。AI服务器架构从CPU平台转向GPU/ASIC集群，全面抬升PCB在用量、层数、材料、孔结构、线路精度与可靠性的技术要求，带动高多层板、高阶HDI需求快速增长；与此同时，M7-M9低损耗基��迭代，mSAP等精密工艺加速导入，行业高端化趋势明确，倒逼全流程设备升级，PCB设备及配套耗材同步迎",
         "category": "updates",
         "region": "cn"
       },
@@ -1320,32 +1390,12 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/qycpktcuhcljvytsblu1",
-        "title": "大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026",
-        "url": "https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-08T11:19:41.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3886574096265481",
         "title": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
         "url": "https://36kr.com/p/3886574096265481?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-08T09:33:33.000Z",
         "summary": "20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。 从廉价服装到二次元，日本输出海外的核心产品在过去七十年里换了好几轮，从侧面说明一国出海的主流产品从来不是固定的，会跟着国家的产业能力变迁。 这种变迁的剧本也正在今天中国出海人",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/cefbc7qdide3zvfdyjs5",
-        "title": "Target 推出基于 LLM 的语义匹配系统，提升营销预测流程效率",
-        "url": "https://www.infoq.cn/article/cEfBc7qdIDe3ZVFDyjS5?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-08T09:09:33.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
@@ -1368,39 +1418,19 @@
         "summary": "大公司： 雷军回应SkyNomad上市时间 36氪获悉，7月8日，小米创办人，董事长兼CEO @雷军 在个人账号官宣小米汽车新系列SkyNomad。其评论区下有网友询问车辆发布时间，雷军回复表示“快了”。 必和必拓在世界最大铁矿石出口港口的工人将罢工8小时 7月8日，工会表示，必和必拓集团位于西澳州Port Hedland铁矿石出口码头的工人将于7月16日举行8小时罢工。此次行动将涉及全球最大铁矿石出口港口的运营人员和维护人员，他们由联",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3886403765596418",
-        "title": "AI 视频全面成熟：Seedance 2.0 领衔，6 款主流工具深度横评",
-        "url": "https://36kr.com/p/3886403765596418?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-08T03:03:34.000Z",
-        "summary": "2026年，AI视频生成赛道已迈入全面爆发的成熟竞速期，Seedance 2.0 的出圈更是让AI视频变成一场“全民狂欢”。 短短两年间，AI视频从最初几秒的碎片化模糊画面，到如今分钟级长视频的连贯叙事、真实物理世界的精准还原，AI视频工具的迭代速度远超预期，AI视频工具完成了从“能用”到“好用”再到“专业”的三级跳，让创意落地的门槛降至新低——专业团队能用它预演大片，普通用户也能一键生成爆款短视频。 在这场全球竞速中，每一款工具都在以",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wnwumomrvix0ft0dz8yi",
-        "title": "AI Agent 会自己选 CDN 了：当网站访问者从 “人” 扩展到 “AI”，内容分发已升级",
-        "url": "https://www.infoq.cn/article/WNWuMomRvix0FT0dZ8yI?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-07T19:02:25.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/css70hysa57jbumldf7l",
-        "title": "微软通过 Copilot Autofix 将基于 AI 的漏洞修复功能引入 Azure DevOps",
-        "url": "https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-07T17:23:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/article/3359941/shares-soar-recently-listed-zhipu-ai-and-iluvatar-corex-launch-secondary-placements",
+        "title": "Shares soar as recently-listed Zhipu AI and Iluvatar CoreX launch secondary placements",
+        "url": "https://www.scmp.com/tech/article/3359941/shares-soar-recently-listed-zhipu-ai-and-iluvatar-corex-launch-secondary-placements?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-09T05:00:12.000Z",
+        "summary": "Shares of Chinese artificial intelligence model developer Zhipu AI and chipmaker Iluvatar CoreX Semiconductor surged on Thursday after the tech companies launched separate secondary share placements to raise billions of ",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/business/companies/article/3359852/peninsulas-owner-and-sf-holding-set-captive-insurers-hong-kong",
         "title": "The Peninsula’s owner and SF Holding set up captive insurers in Hong Kong",
