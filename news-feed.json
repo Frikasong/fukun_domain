@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T19:24:18.194Z",
+  "generatedAt": "2026-07-10T02:06:35.785Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/comments&",
+        "title": "Comments mixed on proposals to pull back law school diversity standards",
+        "url": "https://www.abajournal.com/web/article/comments&#45;mixed&#45;on&#45;proposals&#45;to&#45;pull&#45;back&#45;law&#45;school&#45;diversity&#45;standards/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-09T21:47:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/aba&",
         "title": "ABA connects death row inmate to pro bono attorneys who help free him",
@@ -78,6 +88,16 @@
         "region": "na"
       },
       {
+        "id": "OpenAI News:openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+        "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+        "source": "OpenAI News",
+        "publishedAt": "2026-07-09T13:00:00.000Z",
+        "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/07/two-years-after-launching-its-ai-assistant-archie-smokeball-rolls-out-the-next-generation-built-on-agentic-ai-and-embedded-in-word-and-outlook.html",
         "title": "Two Years After Launching Its AI Assistant Archie, Smokeball Rolls Out the &#8216;Next Generation&#8217; Built on Agentic AI, and Embedded in Word and Outlook",
         "url": "https://www.lawnext.com/2026/07/two-years-after-launching-its-ai-assistant-archie-smokeball-rolls-out-the-next-generation-built-on-agentic-ai-and-embedded-in-word-and-outlook.html",
@@ -85,26 +105,6 @@
         "publishedAt": "2026-07-09T12:32:01.000Z",
         "summary": "Two years ago, the law practice management company Smokeball gave me an exclusive preview of its plans for an AI ecosystem spanning the full client lifecycle, anchored by an AI matter assistant called Archie, which it fo",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/bio-bug-bounty",
-        "title": "GPT-5.5 Bio Bug Bounty",
-        "url": "https://openai.com/index/bio-bug-bounty",
-        "source": "OpenAI News",
-        "publishedAt": "2026-07-09T10:00:00.000Z",
-        "summary": "Details about the OpenAI Bio Bounty program",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/gpt-5-6",
-        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-        "url": "https://openai.com/index/gpt-5-6",
-        "source": "OpenAI News",
-        "publishedAt": "2026-07-09T10:00:00.000Z",
-        "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -153,16 +153,6 @@
         "url": "https://www.abajournal.com/news/article/which&#45;biglaw&#45;lawyers&#45;did&#45;the&#45;most&#45;pro&#45;bono&#45;in&#45;2025/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-07-08T18:49:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/georgia&",
-        "title": "Attorney disbarred following child sex crime conviction",
-        "url": "https://www.abajournal.com/news/article/georgia&#45;attorney&#45;disbarred&#45;following&#45;child&#45;sex&#45;crime&#45;conviction/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-08T16:41:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1206,9 +1196,79 @@
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/color-health",
+        "title": "Using GPT-4o reasoning to transform cancer care",
+        "url": "https://openai.com/index/color-health",
+        "source": "OpenAI News",
+        "publishedAt": "2024-06-17T04:15:00.000Z",
+        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/itooynuwf6t9ktfgeh7f",
+        "title": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "url": "https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-10T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/rmexd3zlvlrpk3r0tytx",
+        "title": "亚马逊云科技推出 Amazon S3 Annotations",
+        "url": "https://www.infoq.cn/article/RMeXD3ZlVLRPk3r0tyTx?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-10T09:58:22.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3889141540370949",
+        "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
+        "url": "https://36kr.com/p/3889141540370949?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-10T01:19:37.000Z",
+        "summary": "图源/企业 本文约 3100 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，北京他山科技有限公司（以下简称“他山科技”）已于近期完成B轮融资，金额为数亿元。本轮投资方包括均胜电子、太平创新、奥克斯、鹏翎股份、Lavender Hill Capital Partners（LHCP）、洪山资本等产业方，老股东道氏技术、彬复资本追加投资。资金将主要用于触觉传感器及芯片迭代、场景化方案落地及触觉训练平台建设。 这家成立于2017年",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3889114964130307",
+        "title": "马斯克称低估Anthropic，表示不会因竞争切断其支持",
+        "url": "https://36kr.com/newsflashes/3889114964130307?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-10T00:52:19.000Z",
+        "summary": "马斯克当地时间7月9日在社交平台表示，自己此前对人工智能公司Anthropic的判断“明显错误”，并称Anthropic“目前显然是AI领域的领先者”。马斯克说，“目前没有任何公司发布过像Mythos/Fable这样优秀的模型”。马斯克表示，即使Anthropic是竞争对手，他也不会采取会严重伤害该公司的措施。此前有社交平台用户称，Anthropic依赖从SpaceX租用的计算资源，并讨论如果SpaceX停止相关服务可能带来的影响，马斯",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3889113098582532",
+        "title": "联合国自动驾驶全球法规正式落地，我国智驾出海迎来统一规则窗口期",
+        "url": "https://36kr.com/newsflashes/3889113098582532?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-10T00:50:25.000Z",
+        "summary": "近日，联合国世界车辆法规协调组织（UN/WP.29）第199次全体会议传来重磅消息：由中国、欧盟、英国、美国、加拿大、日本共同牵头制定的自动驾驶系统全球统一技术法规（ADS GTR）完成全体缔约方投票并正式发布。这套法规实现全球L3及以上自动驾驶统一标准从无到有的突破，重构全球智能驾驶监管底层逻辑，也为具备成熟智驾技术的中国车企出海扫清关键合规障碍，标志我国汽车产业正式从产品、技术出海，迈入参与全球规则制定的全新阶段。（中证报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3889047503354625",
+        "title": "8点1氪丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行",
+        "url": "https://36kr.com/p/3889047503354625?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-09T23:43:55.000Z",
+        "summary": "今日热点导览 花呗就还款页面无法正常打开致歉 中芯国际市值超越贵州茅台 iPhone 18 Pro Max成本大涨，起步价或维持在9999元 英伟达将与Hugging Face合作开发机器人开源模型 美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易 TOP 3大新闻 老乡鸡五年五次冲击上市失败 LXJ International Holdings Limited（简称“老乡鸡”）于2026年1月8日递交港交所的招股书于7月8日失效。这家被",
+        "category": "articles",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/video/bn06gz6lwp9tc5qvpoky",
         "title": "AI Infra 拼什么？",
@@ -1310,26 +1370,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3887726503688968",
-        "title": "36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
-        "url": "https://36kr.com/p/3887726503688968?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-09T01:20:08.000Z",
-        "summary": "图源/企业 本文约 2200 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，物理AI企业深度智控（DeepCtrls）近期完成数亿元人民币B轮融资。本轮融资由晶科能源战略投资，国投创新、招银国际联合领投，红杉中国、源码资本、光远资本、招商局创投等老股东持续跟投。 本轮资金将主要用于核心物理AI算法与产品线的持续研发、标准化产品DeepBot的规模化拓展，以及东南亚、中东、欧美等海外市场的进一步布局，持续夯实“物理AI全球能",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3887659913083392",
-        "title": "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二",
-        "url": "https://36kr.com/p/3887659913083392?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-09T00:12:43.000Z",
-        "summary": "本文约3300字，建议阅读7分钟 作者 | 彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第四期——极豪科技。 近日，极豪科技（JIIOV Technology）正式向港交所递交招股书。这家公司做的不是手机、不是模组，而是藏在手机指纹解锁背后的那颗感知大脑。 按沙利文口径，按2025年收入计，极豪在中国智能手机生物识别解决方案市场排名 第二 ，份额14.5%",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/77yytrgdym7t9ovqkaw9",
         "title": "Claude、Cursor、OpenClaw 集体上手机，不摸鱼、不请假、24h 为你打工",
         "url": "https://www.infoq.cn/article/77YytRGDYm7T9ovQKaW9?utm_source=rss&utm_medium=article",
@@ -1361,16 +1401,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/presented/business/topics/ai-transforming-industries/article/3359821/bruce-rockowitz-sees-al-growth-engine-wellness-dining-and-media-businesses",
-        "title": "Bruce Rockowitz Sees Al as Growth Engine for Wellness, Dining and Media Businesses",
-        "url": "https://www.scmp.com/presented/business/topics/ai-transforming-industries/article/3359821/bruce-rockowitz-sees-al-growth-engine-wellness-dining-and-media-businesses?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-09T16:00:10.000Z",
-        "summary": "[The content of this article has been produced by our advertising partner.] Artificial intelligence is rapidly moving from experimentation to execution, and business veteran Bruce Rockowitz believes the technology could ",
-        "category": "tools",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/business/companies/article/3359852/peninsulas-owner-and-sf-holding-set-captive-insurers-hong-kong",
         "title": "The Peninsula’s owner and SF Holding set up captive insurers in Hong Kong",
