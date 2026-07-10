@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T09:20:36.806Z",
+  "generatedAt": "2026-07-10T14:03:26.248Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/07/uchicago-law-bans-laptops-from-1l-classrooms-as-part-of-sweeping-new-ai-strategy-for-legal-education.html",
+        "title": "UChicago Law Bans Laptops from 1L Classrooms As Part of Sweeping New AI Strategy for Legal Education",
+        "url": "https://www.lawnext.com/2026/07/uchicago-law-bans-laptops-from-1l-classrooms-as-part-of-sweeping-new-ai-strategy-for-legal-education.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-10T13:06:29.000Z",
+        "summary": "The University of Chicago Law School yesterday released a comprehensive AI Strategy Statement that will reshape how it teaches first-year students, how it assesses upper-level writing, and how it integrates AI tools acro",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/10/al-is-on-hols-back-july-15-wrap",
         "title": "AL Is On Hols, Back July 15 + Wrap",
@@ -1178,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/03/on-lawnext-mary-technology-wants-to-solve-litigations-fact-chaos-problem.html",
-        "title": "On LawNext: Mary Technology Wants to Solve Litigation&#8217;s &#8216;Fact Chaos&#8217; Problem",
-        "url": "https://www.lawnext.com/2026/03/on-lawnext-mary-technology-wants-to-solve-litigations-fact-chaos-problem.html",
-        "source": "LawSites",
-        "publishedAt": "2026-03-31T21:33:43.000Z",
-        "summary": "E-discovery platforms have gotten great at narrowing millions of documents down to manageable sets. But what happens next — the grueling work of extracting facts, organizing them, and building a reliable case narrative —",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1209,26 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/video/gqovrgegdns1tdrwglk4",
-        "title": "精彩预告：从看见问题到解决问题，Agent 正重新定义可观测？",
-        "url": "https://www.infoq.cn/video/GqOVrgegDNS1TDrwGLK4?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-10T15:30:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/au7gmfkf8qzrht8vmwvy",
-        "title": "从零开始预训练，蚂蚁灵波发布具身原生世界动作模型LingBot-VA 2.0",
-        "url": "https://www.infoq.cn/article/aU7GMFKF8qZRhT8VMWvY?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-10T15:14:29.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/iqurh3vqeo4xszua1bcd",
         "title": "GPT-5.6全面围剿Claude Fable 5，“超级应用”ChatGPT Work上位，Altman紧急澄清：不会取代Coedx",
@@ -1260,6 +1240,36 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3889804779731457",
+        "title": "SK海力士本周五登陆纳斯达克，募资265亿美元跻身大型IPO",
+        "url": "https://36kr.com/newsflashes/3889804779731457?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-10T12:44:11.000Z",
+        "summary": "韩国芯片巨头SK海力士将于本周五登陆科技股云集的纳斯达克交易所，此举将为其打通一条强力全新融资渠道，方便全球投资者布局高速增长的人工智能基础设施赛道。这家全球第二大存储芯片厂商计划通过在纳斯达克发行美国存托凭证（ADR）募资约40万亿韩元（折合265亿美元）。本次发行共计1.779亿份美国存托凭证，发行价定为每份149美元，1份ADR对应其在韩国首尔交易所上市普通股的十分之一。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3889768614492931",
+        "title": "东阳光：控股子公司签署130亿元至150亿元算力服务采购合同",
+        "url": "https://36kr.com/newsflashes/3889768614492931?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-10T12:10:37.000Z",
+        "summary": "36氪获悉，东阳光公告，公司控股子公司东莞东阳光云智算科技有限公司与某企业C公司签署《算力服务采购合同》，合同预计总金额区间为130亿元至150亿元(含税)。合同约定东阳光云智算负责采购并部署高性能算力服务器，以租赁方式向C公司交付算力资源，C公司按月支付服务费，合同期限为订单验收通过后60个月。公司表示，本次合作有利于拓宽算力业务布局，但合同履行存在资金筹措、交付验收等风险，对公司未来业绩的影响存在不确定性。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3889551814916614",
+        "title": "氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录",
+        "url": "https://36kr.com/p/3889551814916614?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-10T10:23:02.000Z",
+        "summary": "大公司： SK海力士赴美上市，华尔街投行合计佣金有望达1.4亿美元 参与SK海力士上市项目的投行团队将斩获上亿美元丰厚佣金。这家市值突破万亿美元的韩国芯片巨头即将登陆美股，本次发行有望跻身史上规模最大IPO行列。两名熟悉该交易的人士透露，高盛、花旗等承销本次纳斯达克股票发行的投行，总佣金池规模或将突破1.4亿美元；佣金由两部分构成，一是募资总额0.5%的基础承销费，二是SK海力士另行支付的浮动激励奖金。 谷歌要求AI广告必须标注：涵盖搜",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/itooynuwf6t9ktfgeh7f",
         "title": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
         "url": "https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F?utm_source=rss&utm_medium=article",
@@ -1270,42 +1280,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3889614187133448",
-        "title": "“全球首款智能体手机”已备货8万至10万台？知情人士：假的",
-        "url": "https://36kr.com/newsflashes/3889614187133448?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-10T09:20:09.000Z",
-        "summary": "今日有媒体报道，字节跳动联合中兴努比亚打造的全球首款AI智能体手机计划于2026世界人工智能大会期间亮相开售，现已备货8万至10万台，首批总量50万台，规模远超上代。对此，知情人士回应：假的！此次大会上，仅为该款手机首次公开展示，并非开售，更无备货数万台之说。（证券时报）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3889564168305158",
-        "title": "德国推进退役核电站“向核聚变转型”战略，拟重塑欧洲工业核心竞争力",
-        "url": "https://36kr.com/newsflashes/3889564168305158?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-10T08:29:16.000Z",
-        "summary": "德国日前正式启动一项具有高风险的重大科技战略投资，计划将境内两座因2011年福岛核事故而关闭的退役核电站改建为可控核聚变能源项目，以此重塑欧洲的工业核心并确保能源自主。伴随这一战略的推进，相关初创企业在资本市场正获得高额资金注资。据知情人士透露，Proxima Fusion本周已成功募集4.11亿欧元（约合4.7亿美元）资金，用于建设首个示范性设施，主要投资者包括旨在为人工智能寻找清洁能源的谷歌公司以及高频交易巨头XTX Markets",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3889558445701895",
-        "title": "香农芯创：预计2026年半年度净利润同比增长2118%-2434%",
-        "url": "https://36kr.com/newsflashes/3889558445701895?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-10T08:23:27.000Z",
-        "summary": "36氪获悉，香农芯创公告，预计2026年半年度归属于上市公司股东的净利润为35.00亿元-40.00亿元，同比增长2118%-2434%。业绩变动主要系人工智能需求增长带动存储芯片行业高景气，公司电子元器件分销业务毛利率提高，以及自主品牌“海普存储”业务进入大规模销售阶段。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3888284244720131",
         "title": "赢官司、融新钱，他想把百万「抗癌针」变平价",
         "url": "https://36kr.com/p/3888284244720131?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-10T03:26:25.000Z",
-        "summary": "文 | 胡香赟 编辑 | 海若镜 36氪获悉，前传奇生物创始人/首席科学家范晓虎创办的生物科技公司深圳湾岛细胞，近日完成1.4亿人民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。 过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化的一关又一关。 在中国细胞与基因治疗（CGT）领域，“范晓虎",
+        "summary": "文 | 胡香赟 编辑 | 海若镜 36氪获悉，前传奇生物创始人/首席科学家范晓��创办的生物科技公司深圳湾岛细胞，近日完成1.4亿���民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。 过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化的一关又一关。 在中国细胞与基因治疗（CGT）领域，“",
         "category": "updates",
         "region": "cn"
       },
@@ -1395,7 +1375,7 @@
         "url": "https://36kr.com/p/3888279614274048?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-09T10:45:37.000Z",
-        "summary": "为什么颠覆性的突破总是由年轻人完成？ 因为他们还没有被旧范式驯服。 几乎所有开创一种新范式、完成根本性发明的人，都有某种相似之处： 他们要么足够年轻，要么刚刚进入那个即将被他们改写的领域。 1962年，科学哲学家托马斯·库恩在《科学革命的结构》中留下了这个观察。他当时谈论的是物理科学：哥白尼提出日心说时不到四十岁，牛顿发明微积分时二十三岁，爱因斯坦发表狭义相对论时二十六岁。 而库恩试图回答的问题是， 为什么颠覆性的突破总是由年轻人完成？",
+        "summary": "为什么颠覆性的突破总是由年轻人完成？ 因为他们还没有被旧范式驯服。 几乎所有开创一种新范式、完成根本性发明的人，都有某种相似之处： 他们要么���够年轻，要么刚刚进入那个即将被他们改写的领域。 1962年，科学哲学家托马斯·库恩在《科学革命的结构》中留下了这个观察。他当时谈论的是物理科学：哥白尼提出日心说时不到四十岁，牛顿发明微积分时二十三岁，爱因斯坦发表狭义相对论时二十六岁。 而库恩试图回答的问题是， 为什么颠覆性的突破总是由年轻人完",
         "category": "updates",
         "region": "cn"
       },
@@ -1411,6 +1391,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/economy/china-economy/article/3360127/top-chinese-political-journal-calls-patient-capital-amid-ai-investment-frenzy",
+        "title": "Top Chinese political journal calls for ‘patient capital’ amid AI investment frenzy",
+        "url": "https://www.scmp.com/economy/china-economy/article/3360127/top-chinese-political-journal-calls-patient-capital-amid-ai-investment-frenzy?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-10T11:30:07.000Z",
+        "summary": "The top theoretical journal of China’s ruling Communist Party has run commentaries urging the country to cultivate “patient capital” for three days straight, as Beijing seeks to harness investment to boost long-term inno",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/plus/tech/tech-war/article/3360112/nvidia-gets-china-boost-iran-ceasefire-breaks-gdp-release",
         "title": "Nvidia gets China boost, Iran ceasefire breaks, GDP release",
