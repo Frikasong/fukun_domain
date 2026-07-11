@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T01:52:53.550Z",
+  "generatedAt": "2026-07-11T07:42:01.312Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,12 +1210,32 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/frmqupukmsj6zkyfmo6p",
+        "title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
+        "url": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-11T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/fo5byvpuzwwlbposijbv",
         "title": "Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
         "url": "https://www.infoq.cn/article/fO5byVPuZwwlBPosijBV?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-11T09:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3890739624540680",
+        "title": "欧洲央行的Moulin认为人工智能可能加剧通胀波动",
+        "url": "https://36kr.com/newsflashes/3890739624540680?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-11T04:52:52.000Z",
+        "summary": "欧洲央行管委Emmanuel Moulin表示，人工智能对通胀的影响难以预测，而且可能导致价格波动加剧。“由于人工智能同时作用于供需两方面的变量，因此对通胀的总体影响尤为难以预测，”Moulin在Investir刊登的评论中表示。“此外，其影响可能不仅体现在通胀水平，还可能体现在通胀的波动。”这位法国央行行长表示，由于资本支出增加，人工智能短期内可能具有通胀效应，但随着生产率提升，后续则可能抑制通胀。（财联社）",
         "category": "updates",
         "region": "cn"
       },
@@ -1256,26 +1276,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-07-10T13:14:51.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3889804779731457",
-        "title": "SK海力士本周五登陆纳斯达克，募资265亿美元跻身大型IPO",
-        "url": "https://36kr.com/newsflashes/3889804779731457?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-10T12:44:11.000Z",
-        "summary": "韩国芯片巨头SK海力士将于本周五登陆科技股云集的纳斯达克交易所，此举将为其打通一条强力全新融资渠道，方便全球投资者布局高速增长的人工智能基础设施赛道。这家全球第二大存储芯片厂商计划通过在纳斯达克发行美国存托凭证（ADR）募资约40万亿韩元（折合265亿美元）。本次发行共计1.779亿份美国存托凭证，发行价定为每份149美元，1份ADR对应其在韩国首尔交易所上市普通股的十分之一。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3889768614492931",
-        "title": "东阳光：控股子公司签署130亿元至150亿元算力服务采购合同",
-        "url": "https://36kr.com/newsflashes/3889768614492931?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-10T12:10:37.000Z",
-        "summary": "36氪获悉，东阳光公告，公司控股子公司东莞东阳光云智算科技有限公司与某企业C公司签署《算力服务采购合同》，合同预计总金额区间为130亿元至150亿元(含税)。合同约定东阳光云智算负责采购并部署高性能算力服务器，以租赁方式向C公司交付算力资源，C公司按月支付服务费，合同期限为订单验收通过后60个月。公司表示，本次合作有利于拓宽算力业务布局，但合同履行存在资金筹措、交付验收等风险，对公司未来业绩的影响存在不确定性。",
         "category": "updates",
         "region": "cn"
       },
@@ -1381,6 +1381,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3360154/expanding-ai-and-chip-firms-push-rents-beijings-hi-tech-district",
+        "title": "Expanding AI and chip firms push up rents in Beijing’s hi-tech district",
+        "url": "https://www.scmp.com/business/china-business/article/3360154/expanding-ai-and-chip-firms-push-rents-beijings-hi-tech-district?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-11T03:00:14.000Z",
+        "summary": "Demand for Beijing’s grade-A office buildings increased in the first half of the year, with artificial intelligence and semiconductor companies making the Zhongguancun area a hot property at a time when office markets na",
+        "category": "articles",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/plus/tech/tech-war/article/3360112/nvidia-gets-china-boost-iran-ceasefire-breaks-gdp-release",
         "title": "Nvidia gets China boost, Iran ceasefire breaks, GDP release",
