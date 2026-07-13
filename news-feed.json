@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T01:58:05.160Z",
+  "generatedAt": "2026-07-13T08:52:18.812Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,32 +1210,162 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/zd3acwmldjaaiwhee4q6",
-        "title": "TSRX：一种与框架无关的JSX替代方案",
-        "url": "https://www.infoq.cn/article/Zd3aCWmlDJaAiwhEE4q6?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/m2wieh9tubmlzzxwdrck",
+        "title": "Java 近期新闻：严格字段初始化、GlassFish、GraalVM、JReleaser、RefactorFirst",
+        "url": "https://www.infoq.cn/article/m2WieH9TUbmLzzxwdrCk?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-13T09:23:51.000Z",
+        "publishedAt": "2026-07-13T15:37:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3893348775590407",
-        "title": "首款智能体手机呼之欲出，大规模商用需迈几道坎",
-        "url": "https://36kr.com/newsflashes/3893348775590407?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-13T00:53:06.000Z",
-        "summary": "全球首款AI智能体手机即将在2026世界人工智能大会上展出，该消息令智能体手机再度成为舆论关注焦点。接受采访的专家表示，智能体手机短期内仍将属于“高级辅助执行”阶段，无法完全跳过人机确认实现全流程自动执行，长期而言，智能体手机要实现大规模商用，仍需迈过技术验证、隐私安全、与互联网企业之间的利益分配等多道坎。（证券时报）",
+        "id": "InfoQ China:www.infoq.cn/article/bth2ixdj3uo98q1hhyhk",
+        "title": "Cloudflare 与亚马逊云科技合作在边缘端集成 x402 代理支付功能",
+        "url": "https://www.infoq.cn/article/BTh2ixDj3uo98Q1hHYhk?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-13T14:49:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3893305996442118",
-        "title": "8点1氪丨SK海力士CEO称史上最大存储短缺将在明年到来；苹果起诉OpenAI窃取商业机密‌；赛力斯预计上半年净亏损15亿元-18亿元",
-        "url": "https://36kr.com/p/3893305996442118?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/zuiv7zkervxvy34i1p0t",
+        "title": "从看见问题到解决问题，Agent 正重新定义可观测",
+        "url": "https://www.infoq.cn/article/ZuIv7zKERvxvy34i1P0t?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-13T14:44:55.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qicyysezfr9ittzrsrdt",
+        "title": "从“三天拆盲盒”到一行命令即用：这群开发者如何改写Agent框架的部署难题？",
+        "url": "https://www.infoq.cn/article/qIcyYSEZfr9ITtzrSRDt?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-13T14:41:53.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qxl7ils0wjfawvub1eml",
+        "title": "火山引擎 × 央视网 打造 2026 世界杯沉浸式观赛盛宴",
+        "url": "https://www.infoq.cn/article/QXl7IlS0WjfAwvUB1EML?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-13T14:27:23.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hocbrjzumiba6mn4s7bu",
+        "title": "AI推理成本首次算清：GPU利用率不到52%，千万别自建！",
+        "url": "https://www.infoq.cn/article/hocbRjZumiBA6MN4s7bu?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-13T14:26:47.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ysjsuikhrif1zdtksndj",
+        "title": "MiniMax CEO称不再领取薪酬，将4%股份激励团队；吐槽DeepSeek面试的华为天才少年回应被控诈骗；宇树机器人给猪做手术登上Nature｜AI周报",
+        "url": "https://www.infoq.cn/article/ySJsUiKHrIF1zDtKsNDj?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-13T12:07:24.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jeaxpyi4tgewlbdvxzbj",
+        "title": "UniRL：统一多模态 RL 框架的 2.4X 端到端性能优化实践｜AICon深圳",
+        "url": "https://www.infoq.cn/article/jeAxpYI4tgewlBdvXZBJ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-13T11:15:39.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3893818392492550",
+        "title": "字节探索自动驾驶，Seed世界模型团队负责",
+        "url": "https://36kr.com/newsflashes/3893818392492550?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-12T23:55:49.000Z",
-        "summary": "今日热点导览 世界杯决赛一块草皮卖3050元，上架后很快售空 中国石化完成对中国航油重组 巨力索具因误导性陈述被罚450万元 SK海力士考虑“内存即服务”模式，或允许客户租赁而非购买芯片 马斯克据悉要求特斯拉员工转向使用Grok TOP 3 大新闻 SK海力士CEO：2027年将成为存储行业历史上供应最紧张的一年 美东时间周五（7月10日）晚间，SK海力士首席执行官郭鲁正（Kwak Noh-jung）向外界预计，2027年将成为存储行业",
+        "publishedAt": "2026-07-13T08:36:53.000Z",
+        "summary": "36氪从多位产业人士处获悉，字节跳动正探索进入自动驾驶领域。这一项目目前由Seed旗下周畅的世界模型团队负责。据了解，Seed旗下不仅有周畅的多模态模型、世界模型等团队，还有大语言模型方向。而自动驾驶与世界模型的技术路线有交叠之处。另有消息人士告诉36氪，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。部分接近字节的知情人士表示，字节团队此前与一些头部自动驾驶团队进行过业务探讨交流，目前字节",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3893815451417347",
+        "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
+        "url": "https://36kr.com/p/3893815451417347?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-13T08:34:05.000Z",
+        "summary": "36氪从多位产业人士处获悉，字节跳动正探索进入自动驾驶领域。这一项目目前由Seed旗下周畅的世界模型团队负责。据了解，Seed旗下不仅有周畅的多模态模型、世界模型等团队，还有大语言模型方向。 而自动驾驶与世界模型的技术路线有交叠之处。 另有消息人士告诉36氪，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。 部分接近字节的知情人士表示，字节团队此前与一些头部自动驾驶团队进行过业务探讨交流，目",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3893781881043719",
+        "title": "“海艺AI”完成超亿元B轮融资",
+        "url": "https://36kr.com/newsflashes/3893781881043719?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-13T07:59:45.000Z",
+        "summary": "36氪获悉，全球AI全模态内容互动娱乐平台海艺（SeaArt）近日宣布完成超亿元人民币B轮融资，由视觉中国、华盖创赢、祥峰投资（Vertex China）联合领投，广发信德、天投资本、川创投、广州合伟永晟共同投资。本轮资金将用于多模态底层研发、全球市场拓展及AI垂类应用孵化。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3893765930727937",
+        "title": "讯飞医疗在上海成立新智能科技公司，注册资本1000万",
+        "url": "https://36kr.com/newsflashes/3893765930727937?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-13T07:43:31.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，上海言济智能科技有限公司成立，法定代表人为刘洋，注册资本1000万人民币，经营范围包括人工智能应用软件开发、人工智能理论与算法软件开发、远程健康管理服务等。股东信息显示，该公司由讯飞医疗科技股份有限公司全资持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3893758276794887",
+        "title": "京东与具身智能企业慧仑科技达成战略合作",
+        "url": "https://36kr.com/newsflashes/3893758276794887?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-13T07:35:44.000Z",
+        "summary": "36氪获悉，京东与具身智能企业慧仑科技正式签署战略合作协议。京东将开放JoyInside具身智能交互与JoyAI大模型能力，与慧仑科技整机自研技术模块协同，优化机器人智能决策与交互体验。同时，京东将基于用户洞察数据，支持慧仑科技进行产品定义与迭代，共同打造符合市场需求的机器人产品。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3879780282495236",
+        "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
+        "url": "https://36kr.com/p/3879780282495236?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-13T03:00:00.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，威联机器人科技（深圳）有限公司（以下简称“MOVA LINCO”）近日完成数千万元天使融资。融资资金将主要用于AI算法底层技术研发、完善产品量产体系，以及全球化渠道布局和家庭AI生态的持续建设。 MOVA LINCO核心团队来自头部网络通信与智能硬件企业，在路由器、NAS存储及AI算力设备等方面拥有深厚的技术积累与产品经验。公司产品矩阵以AI智能语音路由器、AI NAS及AI算力盒子三大品类为核心，构",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3893473722514181",
+        "title": "36氪首发 | 港中大博士、前大疆工程师创业消费级四足机器人，天使轮获正轩领投数千万元",
+        "url": "https://36kr.com/p/3893473722514181?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-13T02:47:38.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳光之跃迁科技有限公司（Lumisition Robotics）（以下简称“光之跃迁”）近日完成近五千万元天使轮融资，由正轩领投，光点资本、力合资本、松禾资本、恒信未来等机构跟投。本轮资金将主要用于产品研发、算法迭代及量产准备。 光之跃迁成立于2026年2月， 聚焦消费级四足机器人市场， 希望以“全地形移动底盘”切入户外场景，解决搬运、辅助行动等体力劳动需求。公司 瞄准拥有独栋住宅的欧美家",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3893445208717826",
+        "title": "对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来",
+        "url": "https://36kr.com/p/3893445208717826?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-13T02:39:18.000Z",
+        "summary": "一个从未见过监控画面的多模态模型，却比在监控数据上练了多年的小模型“老将”更懂监控。这不是科幻电影，这是2023年Om AI联汇的一场“无心插柳”，也是CEO兼首席科学家赵天成博士更加坚信“多模态训练方式能为物理开放世界带来泛化性”的关键节点。彼时，AI行业正在追求以大语言模型为核心的生成式AI。 三年后，这个多模态模型演变成了VLX——全球首个面向物理AI的端侧流式多模态模型系列。首次提出“端侧原生流式多模态”这一全新模型架构，而通过",
         "category": "updates",
         "region": "cn"
       },
@@ -1246,56 +1376,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-07-12T10:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3892352153942530",
-        "title": "腾讯重仓一个IPO",
-        "url": "https://36kr.com/p/3892352153942530?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-12T07:59:37.000Z",
-        "summary": "图片来源：视觉中国 作者/杨继云 报道/投资界PEdaily 深圳超级IPO来了。 日前，深圳云豹智能股份有限公司（简称“云豹智能”）创业板IPO申请正式获深交所受理，成为又一家选用创业板第四套上市标准申报上市的企业，冲刺“国产DPU第一股”。 回想6年前，斯坦福博士萧启阳在深圳创办云豹智能，专注于DPU赛道。这个团队启航两个月后，千亿DPU赛道开始爆发。至今，他背后站着腾讯等一支长长的投资人队伍。 腾讯无疑最为重仓，已成为云豹智能最大",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3892222176574211",
-        "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-        "url": "https://36kr.com/p/3892222176574211?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-12T05:47:23.000Z",
-        "summary": "换更大的模型就等于更聪明？ 【导读】 换更大的模型就等于更聪明？这可能是Claude Code用户最深的误会。很多人为此一路换到最贵的Fable，近日，Anthropic，亲手澄清了这个误区。 你有没有过这种时刻：Claude Code写代码写砸了，第一反应，就是赶紧换个更强的模型。 但这一招，很多时候并不管用，甚至是在白花钱。 近日，Anthropic官方发了一篇长文专门来讲这件事。 Anthropic官方长文 起因是太多人把Clau",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3892096788396806",
-        "title": "这个周末，科技投资人都得飞一趟成都",
-        "url": "https://36kr.com/p/3892096788396806?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-12T03:27:05.000Z",
-        "summary": "新能源基金的下半场 作者 | 吕敬之编辑 | 吾人 来源 | 融中财经 一只新能源基金落子成都。 近日，成都交通投资集团有限公司、成都濛江投资集团有限公司、杭州碧澄能源发展有限公司、洛能（杭州）股权投资有限公司四方签署新能源产业战略合作协议。根据协议，四方将联合设立总规模10亿元的新能源并购基金，推动碧澄能源西南总部及智能运维、资产运营等专业化经营主体落户成都彭州市，助力当地构建产融协同、全域联动的绿色能源产业发展新格局。 资本市场上的",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3892027841362694",
-        "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
-        "url": "https://36kr.com/p/3892027841362694?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-12T02:16:07.000Z",
-        "summary": "林方舟 发自 凹非寺 在湖南郴州，一家中国移动营业厅挂牌“具身数据采集5S店”，普通顾客领一套夹爪、手套和头戴相机，经过简单培训，就能边做家务，边采集机器人训练数据。 首期投放的1000套设备，满产状态下每年能采集100万小时数据。我仿佛听到了商家心里打的小算盘：既采了数据，又赚了眼球，4A广告公司都应该来学学。（doge） 具身数采类似的“花活”还有不少：有的为了采数据免费上门保洁（欢迎来我家），有的把数采做成VR游戏，还有的把机器人",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3891132709206784",
-        "title": "独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事",
-        "url": "https://36kr.com/p/3891132709206784?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-11T11:28:29.000Z",
-        "summary": "文 | 周鑫雨 编辑 | 张雨忻 《智能涌现》独家获悉，2026 年 7 月 11 日，智谱创始人唐杰，在智谱发布了主题为《巨浪已来》的内部信。 过去半年来，智谱收获了创立以来的高光时刻：市值较半年前上市初期涨了 10 倍，并在 2026 年 6 月，跻身“万亿港元俱乐部”——这个数字，是百度市值的近 3 倍，并且超过了小米。7 月 8 日，首批股票解禁后，智谱依然稳住了股价。 这也是当下 AI 大模型赛道，最性感的故事：押注对的技术方",
         "category": "updates",
         "region": "cn"
       },
@@ -1315,76 +1395,6 @@
         "url": "https://www.infoq.cn/article/fO5byVPuZwwlBPosijBV?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-11T09:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3890553690192384",
-        "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
-        "url": "https://36kr.com/p/3890553690192384?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-11T01:24:06.000Z",
-        "summary": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录 三星李在镕拟于7月底赴美会晤英伟达黄仁勋 德国大众拟大裁员，最高或裁减12万个岗位 OpenAI高管层再现变动，首席运营官因病离职 TOP3大新闻 长鑫科技，承销团阵容公布 长鑫科技IPO进入发行倒计时，这家“国产存储第一股”背后的承销团阵容也随之浮出水面。最新披露的招股意向书显示，长鑫科技预计7月16日发行。本次IPO中",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/iqurh3vqeo4xszua1bcd",
-        "title": "GPT-5.6全面围剿Claude Fable 5，“超级应用”ChatGPT Work上位，Altman紧急澄清：不会取代Coedx",
-        "url": "https://www.infoq.cn/article/iqUrh3vqeO4xszUa1bCd?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-10T14:10:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/uhkooj6nfm6wncsuryuo",
-        "title": "史上最高调的AI重写：Claude花11天搞定Bun，创始人花一个月才敢交底",
-        "url": "https://www.infoq.cn/article/uHkOoJ6Nfm6wNCsUryuO?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-10T13:21:31.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/7zsdewtwdbz1mrx6wmat",
-        "title": "GitHub 的旧模式被 AI 击穿，Cursor、GitLab、Zed 各自开打",
-        "url": "https://www.infoq.cn/article/7ZSdewTwDBz1mrx6wmat?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-10T13:14:51.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/itooynuwf6t9ktfgeh7f",
-        "title": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
-        "url": "https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-10T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/bn06gz6lwp9tc5qvpoky",
-        "title": "AI Infra 拼什么？",
-        "url": "https://www.infoq.cn/video/bN06GZ6lWP9tc5qVPOky?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-09T16:18:51.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qaluq71axig5vlmwqszu",
-        "title": "百万上下文下的 DeepSeek V4：SGLang 推理优化实战｜AICon深圳",
-        "url": "https://www.infoq.cn/article/qALuq71AxiG5VLmWqSzU?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-09T16:15:15.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
