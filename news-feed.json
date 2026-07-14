@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T01:45:03.403Z",
+  "generatedAt": "2026-07-14T07:49:08.866Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,32 +1210,122 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/uwozdp7l5ex4z2r7izrc",
+        "title": "SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌",
+        "url": "https://www.infoq.cn/article/uwozdp7L5ex4Z2r7iZRC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-14T15:10:48.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/1iqm9w4qxpjgcfzrickm",
+        "title": "模型广场邀请有礼，「荐」者有份！",
+        "url": "https://www.infoq.cn/article/1iqM9w4qxPJgCfZrickm?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-14T14:42:52.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/3zmfy6tofqgp7oi3bhwm",
+        "title": "Node.js 26 带来默认启用的 Temporal API、V8 14.6 和一些功能弃用",
+        "url": "https://www.infoq.cn/article/3ZmFy6tOFQgP7OI3BHwm?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-14T14:31:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/af9aufyturjojjqvv6qi",
+        "title": "亚马逊云科技扩展了 DevOps 代理，新增基于 AI 的发布管理功能，可在代码投入生产前进行验证",
+        "url": "https://www.infoq.cn/article/Af9AUfyturjojjQvv6QI?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-14T11:36:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hskvppumw3y1gyyhtt3i",
+        "title": "连Claude Code都搞不定的巨型代码库，我们靠一个“自愈循环”给盘活了",
+        "url": "https://www.infoq.cn/article/hSKvPpuMW3Y1GyyHtt3I?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-14T11:08:39.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/xfxrhsgil3cchrqnv4zj",
+        "title": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑",
+        "url": "https://www.infoq.cn/article/XfXRhsGiL3CchrQNV4zj?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-14T10:13:36.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fjkg0xhav42s8sfcayfy",
+        "title": "面向 Agentic 负载的下一代 LLM 推理引擎设计实践｜AICon深圳",
+        "url": "https://www.infoq.cn/article/fjkG0xhaV42S8sfCayFy?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-14T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3895182831729929",
+        "title": "利通电子：预计上半年净利润同比增长1173%-1368%",
+        "url": "https://36kr.com/newsflashes/3895182831729929?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-14T07:44:52.000Z",
+        "summary": "36氪获悉，利通电子公告，预计2026年半年度归属于上市公司股东的净利润为6.50亿元-7.50亿元，同比增长1173%-1368%。业绩变动主要系算力业务收入持续增长，算力经销业务增长显著，精密金属结构件业务亏损收窄，叠加股权投资公允价值变动收益及股权处置收益同比增加。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3895140948999426",
+        "title": "A股三大指数集体收涨，算力股大涨",
+        "url": "https://36kr.com/newsflashes/3895140948999426?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-14T07:02:16.000Z",
+        "summary": "36氪获悉，A股三大指数集体收涨，沪指涨1.36%，深成指涨2.77%，创业板指涨3.43%；算力股大涨，东山精密、沪电股份涨停，新易盛涨超10%，中际旭创涨超6%；贵金属、油股气走强，泰山石油、蓝焰控股涨停，赤峰黄金涨超8%，紫金矿业涨超6%；商业航天、文化传媒走弱，中国卫星、铖昌科技等跌停。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3895116753959944",
+        "title": "沪指拉升涨超1%",
+        "url": "https://36kr.com/newsflashes/3895116753959944?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-14T06:37:39.000Z",
+        "summary": "36氪获悉，沪指拉升涨超1%，深成指涨超2%，创业板指涨超3%，油气、算力硬件、煤炭、医药等方向涨幅居前，沪深京三市上涨个股超4000只。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3895096422513924",
+        "title": "软银孙正义：AI热潮将需要每年5万亿美元的投资",
+        "url": "https://36kr.com/newsflashes/3895096422513924?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-14T06:16:58.000Z",
+        "summary": "软银集团创始人孙正义表示，到2040年，全球人工智能基础设施将需要每年5万亿美元的投资，以支持数据中心、电力供应和人形机器人的扩张，从而推动“以人类为中心”的工作模式向新模式的转变。他指出，随着人工智能发展为“人工超级智能”（ASI），由此产生的收入将证明这些巨额支出的合理性。“人工智能将彻底改变我们的生活——而且这种改变将带来利润，”孙正义说道。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3894821059918855",
         "title": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型",
         "url": "https://36kr.com/p/3894821059918855?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-14T01:38:13.000Z",
         "summary": "触觉手套（图源/企业） 本文约 2400 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾资本领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智能公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3894788367613191",
-        "title": "软银与Sierra达成合作，在日本推出人工智能客服服务",
-        "url": "https://36kr.com/newsflashes/3894788367613191?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-14T01:03:36.000Z",
-        "summary": "软银集团与Sierra建立战略合作伙伴关系，将在日本市场推出由智能AI代理驱动的客户服务方案。自7月14日起，软银成为Sierra在日本的独家合作方。软银旗下线上手机品牌Linemo已接入Sierra相关技术；公司计划后续将该技术应用于软银、Y!mobile等自有品牌及集团其他业务线。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3894773393210631",
-        "title": "美国数据中心开发商加速抛售巨额股权资产",
-        "url": "https://36kr.com/newsflashes/3894773393210631?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-14T00:48:22.000Z",
-        "summary": "美国数据中心开发商正借着人工智能行业热潮变现离场。多位知情人士透露，今年夏季，全美多家数据中心建设及运营企业正联合投行，计划出售公司价值数百亿美元的多数股权。投行正在接洽多家企业的股权转让事宜，包括Netrality数据中心、DataBank、Edged、EdgeCore数字基础设施等企业，其产业布局覆盖凤凰城至亚特兰大多地。当前算力需求持续旺盛，数据中心成为热门资产，投行正向私募股权机构大力推介这类标的。（新浪财经）",
         "category": "updates",
         "region": "cn"
       },
@@ -1260,16 +1350,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ysjsuikhrif1zdtksndj",
-        "title": "MiniMax CEO称不再领取薪酬，将4%股份激励团队；吐槽DeepSeek面试的华为天才少年回应被控诈骗；宇树机器人给猪做手术登上Nature｜AI周报",
-        "url": "https://www.infoq.cn/article/ySJsUiKHrIF1zDtKsNDj?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-13T12:07:24.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3893943402707460",
         "title": "氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围",
         "url": "https://36kr.com/p/3893943402707460?f=rss",
@@ -1280,62 +1360,12 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/jeaxpyi4tgewlbdvxzbj",
-        "title": "UniRL：统一多模态 RL 框架的 2.4X 端到端性能优化实践｜AICon深圳",
-        "url": "https://www.infoq.cn/article/jeAxpYI4tgewlBdvXZBJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-13T11:15:39.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3893815451417347",
         "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
         "url": "https://36kr.com/p/3893815451417347?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-13T08:34:05.000Z",
         "summary": "36氪从多位产业人士处获悉，字节跳动正探索进入自动驾驶领域。这一项目目前由Seed旗下周畅的世界模型团队负责。据了解，Seed旗下不仅有周畅的多模态模型、世界模型等团队，还有大语言模型方向。 而自动驾驶与世界模型的技术路线有交叠之处。 另有消息人士告诉36氪，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。 部分接近字节的知情人士表示，字节团队此前与一些头部自动驾驶团队进行过业务探讨交流，目",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3879780282495236",
-        "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
-        "url": "https://36kr.com/p/3879780282495236?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-13T03:00:00.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，威联机器人科技（深圳）有限公司（以下简称“MOVA LINCO”）近日完成数千万元天使融资。融资资金将主要用于AI算法底层技术研发、完善产品量产体系，以及全球化渠道布局和家庭AI生态的持续建设。 MOVA LINCO核心团队来自头部网络通信与智能硬件企业，在路由器、NAS存储及AI算力设备等方面拥有深厚的技术积累与产品经验。公司产品矩阵以AI智能语音路由器、AI NAS及AI算力盒子三大品类为核心，构",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wg5h3jbmvs5zkop0azha",
-        "title": "面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
-        "url": "https://www.infoq.cn/article/wg5h3JBMvs5ZkoP0azha?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-12T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/frmqupukmsj6zkyfmo6p",
-        "title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
-        "url": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-11T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fo5byvpuzwwlbposijbv",
-        "title": "Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
-        "url": "https://www.infoq.cn/article/fO5byVPuZwwlBPosijBV?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-11T09:00:00.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
