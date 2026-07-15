@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T07:52:21.019Z",
+  "generatedAt": "2026-07-15T13:16:47.026Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,6 +8,66 @@
   "panels": {
     "na": [
       {
+        "id": "LawSites:www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html",
+        "title": "Legal Decoder Introduces Aperture, A Natural Language Interface for Querying Legal Billing Data",
+        "url": "https://www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-15T13:03:11.000Z",
+        "summary": "Legal Decoder, a legal spend analytics company whose billing-review technology has been relied on by fee examiners in major federal bankruptcy cases, is today launching Aperture, a natural language interface that lets la",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/07/litera-relaunches-its-brand-around-a-unified-vision-one-ai-agent-spanning-the-practice-and-business-of-law.html",
+        "title": "Litera Relaunches Its Brand Around a Unified Vision: One AI Agent Spanning the Practice and Business of Law",
+        "url": "https://www.lawnext.com/2026/07/litera-relaunches-its-brand-around-a-unified-vision-one-ai-agent-spanning-the-practice-and-business-of-law.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-15T12:01:14.000Z",
+        "summary": "Litera, one of the most broadly deployed technology companies in the legal industry, is today unveiling a company-wide relaunch that positions it as the legal AI platform unifying the practice and business of law through",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/litera-relaunches-with-one-agent-to-rule-the-platform",
+        "title": "Litera ‘Relaunches’ With One Agent to Rule the Platform",
+        "url": "https://www.artificiallawyer.com/2026/07/15/litera-relaunches-with-one-agent-to-rule-the-platform/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-15T12:00:03.000Z",
+        "summary": "Legal tech legend, Litera, has ‘relaunched’ itself with its Lito agent as the principal point of focus, offering the ability to tap both its business ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/consumers&",
+        "title": "Consumers file a flurry of lawsuits against makers of ultra-processed foods",
+        "url": "https://www.abajournal.com/news/article/consumers&#45;file&#45;a&#45;flurry&#45;of&#45;lawsuits&#45;against&#45;makers&#45;of&#45;ultra&#45;processed&#45;foods/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-15T11:58:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal",
+        "title": "Meet Amazon Quick For Legal",
+        "url": "https://www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-15T09:57:59.000Z",
+        "summary": "Just when you wondered who else among the tech giants would cover legal, it turns out that the ‘Everything Store’ has an ‘Amazon Quick For ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/legatics-new-mcp-server-connects-your-ai-tools",
+        "title": "Legatics&#8217; New MCP Server Connects Your AI Tools",
+        "url": "https://www.artificiallawyer.com/2026/07/15/legatics-new-mcp-server-connects-your-ai-tools/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-15T08:55:56.000Z",
+        "summary": "Legatics, the well-known transaction management platform, has launched a Model Context Protocol (MCP) server. This will allow your ‘AI assistants or agents to connect directly ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/the-innovators-part-two",
         "title": "‘The Innovators’ – Part Two",
         "url": "https://www.artificiallawyer.com/2026/07/15/the-innovators-part-two/",
@@ -15,6 +75,16 @@
         "publishedAt": "2026-07-15T06:46:17.000Z",
         "summary": "Katie Downer moved through the spacious marble lobby of Smyth &#38; Marmalade with automatic motions. How many times had she traced this path? Through the ...",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/how&",
+        "title": "How to use AI, but steer clear of hallucinated cases",
+        "url": "https://www.abajournal.com/web/article/how&#45;to&#45;use&#45;ai&#45;but&#45;steer&#45;clear&#45;of&#45;hallucinated&#45;cases/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-14T19:24:00.000Z",
+        "summary": "",
+        "category": "skills",
         "region": "na"
       },
       {
@@ -118,31 +188,11 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/lawyers&",
-        "title": "Lawyer&#8217;s use of &#8220;fake and hallucinated&#8221; citations gets reprimand from U.S. appeals court",
-        "url": "https://www.abajournal.com/news/article/lawyers&#45;use&#45;of&#45;fake&#45;and&#45;hallucinated&#45;case&#45;gets&#45;reprimand&#45;from&#45;us&#45;appeals&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "ABA Journal:www.abajournal.com/web/article/best&",
+        "title": "Best Judgment",
+        "url": "https://www.abajournal.com/web/article/best&#45;judgment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-07-13T15:32:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/legal&",
-        "title": "Legal teams unclear on whether AI is delivering value, new report says",
-        "url": "https://www.abajournal.com/news/article/legal&#45;teams&#45;unclear&#45;on&#45;whether&#45;ai&#45;is&#45;delivering&#45;value&#45;new&#45;report&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-13T13:39:00.000Z",
-        "summary": "",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/college&",
-        "title": "College athletes head to court after NCAA rule change",
-        "url": "https://www.abajournal.com/news/article/college&#45;athletes&#45;head&#45;to&#45;court&#45;after&#45;ncaa&#45;rule&#45;change/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-13T13:11:00.000Z",
+        "publishedAt": "2026-07-13T17:41:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -244,36 +294,6 @@
         "source": "LawSites",
         "publishedAt": "2026-07-08T13:00:55.000Z",
         "summary": "Centari, an AI platform for managing complex transactions, today launched External Views, a capability that allows law firms to create white-labeled dashboards and share them directly with clients. The feature builds on ",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/08/legatics-data-rooms-launches-as-vdr-alternative",
-        "title": "Legatics Data Rooms Launches as VDR Alternative",
-        "url": "https://www.artificiallawyer.com/2026/07/08/legatics-data-rooms-launches-as-vdr-alternative/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-08T10:42:42.000Z",
-        "summary": "Legatics has launched its own ‘Data Rooms&#8217; capability, which enables law firms to manage transactions and share confidential documents within a single workflow, and as ...",
-        "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/08/how-haynes-boone-makes-working-with-ai-a-core-lawyering-skill",
-        "title": "How Haynes Boone Makes Working with AI a Core Lawyering Skill",
-        "url": "https://www.artificiallawyer.com/2026/07/08/how-haynes-boone-makes-working-with-ai-a-core-lawyering-skill/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-08T09:58:29.000Z",
-        "summary": "By Ian Nelson, Co-Founder, Hotshot. At Haynes Boone, working with generative AI is treated as a core lawyering competency, not just a tool to roll ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months",
-        "title": "Harvey Increases Token Use 14X in Just 6 Months",
-        "url": "https://www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-08T08:25:09.000Z",
-        "summary": "Harvey’s co-founder and President, Gabe Pereyra, has announced that the number of tokens processed on the broad legal AI platform have increased by fourteen times ...",
         "category": "tools",
         "region": "na"
       },
@@ -1168,26 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/04/practicepanther-launches-pantheraccounting-plus-a-native-trust-and-operating-accounting-suite-for-law-firms.html",
-        "title": "PracticePanther Launches PantherAccounting Plus, a Native Trust and Operating Accounting Suite for Law Firms",
-        "url": "https://www.lawnext.com/2026/04/practicepanther-launches-pantheraccounting-plus-a-native-trust-and-operating-accounting-suite-for-law-firms.html",
-        "source": "LawSites",
-        "publishedAt": "2026-04-07T14:00:11.000Z",
-        "summary": "PracticePanther, the cloud-based legal practice management platform that is part of Paradigm&#8217;s suite of legal software products, today launched PantherAccounting Plus, a comprehensive trust and operating accounting",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/04/josef-launches-rapid-ingestion-engine-using-ai-to-turn-messy-business-inputs-into-structured-legal-workflows.html",
-        "title": "Josef Launches &#8216;Rapid Ingestion Engine,&#8217; Using AI To Turn Messy Business Inputs Into Structured Legal Workflows",
-        "url": "https://www.lawnext.com/2026/04/josef-launches-rapid-ingestion-engine-using-ai-to-turn-messy-business-inputs-into-structured-legal-workflows.html",
-        "source": "LawSites",
-        "publishedAt": "2026-04-07T12:34:33.000Z",
-        "summary": "Josef, the Australia-based legal automation platform, has launched a new capability it is calling the Rapid Ingestion Engine, which uses AI to convert unstructured business inputs — such as email threads, meeting notes a",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,22 +1210,72 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/wl9yuw7ljbbftgzwxbvz",
-        "title": "Linux 基金会推出 Akrites 项目，防护核心开源软件免受 AI 网络威胁侵害",
-        "url": "https://www.infoq.cn/article/WL9yUw7LJbBFTgzwXbVZ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-15T15:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/t4bhljlfhybc8rnfqvxe",
         "title": "Datadog 借助 Claude 和 Cursor 完成测试驱动式生产环境迁移",
         "url": "https://www.infoq.cn/article/T4BhLjLfHYBC8rNfQVxe?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-15T13:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3896845441549954",
+        "title": "OPPO回应完成端侧AI备案：是适配监管要求的一项常规合规动作",
+        "url": "https://36kr.com/newsflashes/3896845441549954?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-15T11:56:10.000Z",
+        "summary": "7月15日，7款提供手机端侧生成式人工智能服务完成备案，其中华为、OPPO等品牌机型在列。对此，OPPO方面向记者回应，此次备案是OPPO主动适配国家人工智能大模型监管要求、依法合规推进相关业务的一项常规合规动作。（证券时报）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3896839832143750",
+        "title": "面壁智能端侧大模型将搭载三星手机上市",
+        "url": "https://36kr.com/newsflashes/3896839832143750?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-15T11:50:28.000Z",
+        "summary": "36氪独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3896830362601351",
+        "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+        "url": "https://36kr.com/p/3896830362601351?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-15T11:47:14.000Z",
+        "summary": "文｜邓咏仪 编辑｜张雨忻 杨轩 《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。 就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。 公告显示，Apple智能、华为小艺AI大模型、OPPO Andes GPT、vivo蓝心端侧大模型、小米澎湃AI、三星盖乐世AI以及努比亚豆包手机大模型共7款服务",
+        "category": "articles",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3896563671222147",
+        "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+        "url": "https://36kr.com/p/3896563671222147?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-15T11:37:31.000Z",
+        "summary": "大公司： 美团、青桔、哈啰共享单车调价 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 瓜子二手车线下直卖场首店今日正式开业 36氪获悉，瓜子二手车线下直卖场首店苏州直卖场今日正式开业。据介绍，瓜子此次重回",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3896822215722631",
+        "title": "诺基亚与英伟达推出行业首个商用AI-RAN平台",
+        "url": "https://36kr.com/newsflashes/3896822215722631?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-15T11:32:32.000Z",
+        "summary": "7月15日，诺基亚公司发表声明称，公司已与英伟达共同开发出业界首个商用人工智能驱动的无线接入网络（AI-RAN）平台。诺基亚表示，新的网络设备将使电信网络运营商到2028年能够在相同无线频段上传输的数据量翻倍，其预计将于明年上市。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3896755010963333",
+        "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
+        "url": "https://36kr.com/p/3896755010963333?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-15T10:36:56.000Z",
+        "summary": "2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI 技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作者借助工具就能实现。这一趋势在游戏 UGC 领域体现得尤为明显：",
         "category": "updates",
         "region": "cn"
       },
@@ -1240,12 +1290,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3896531817842565",
-        "title": "���网投入股立芯软件",
-        "url": "https://36kr.com/newsflashes/3896531817842565?f=rss",
+        "id": "36Kr:36kr.com/p/3896639400183687",
+        "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
+        "url": "https://36kr.com/p/3896639400183687?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-15T06:37:08.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，上海立芯软件科技有限公司发生工商变更，注册资本由约2541万人民币增至约2915万人民币，同时新增中国互联网投资基金（有限合伙）等为股东。上海立芯软件科技有限公司成立于2020年11月，法定代表人为陈建利，经营范围包括软件开发、人工智能硬件销售等。股东信息显示，该公司由嘉兴宸玥股权投资合伙企业（有限合伙）、哈勃科技创业投资有限公司及上述新增股东等共同持股。",
+        "publishedAt": "2026-07-15T08:30:35.000Z",
+        "summary": "7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。 这个夏天，阳澄湖畔的吸引力有了新的注脚。 对AI创业者和OPC来说，阳澄湖半岛不只是一个风景秀丽的度假胜地。这里拥有50公里湖岸线、8平方公里生态内湖，也有比斯特购物村、酒店群、网球中心、康养社区、宠物友好空间等高频线下场景。更重要的是，2025年阳澄湖半岛接待游客量达到950万人次。这意味着， 这里本身就是一个足够真实、足够丰富，也足",
         "category": "updates",
         "region": "cn"
       },
@@ -1256,26 +1306,6 @@
         "source": "36Kr",
         "publishedAt": "2026-07-15T02:40:40.000Z",
         "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，上海追知工程科技有限公司（以下简称“追知工科”）近日完成数千万元种子轮融资，由L2F光源创业者基金、尚融资本、一村资本联合投资。本轮融资将主要用于核心产品研发、团队建设及市场拓展。 追知工科成立于2024年2月，是一家 聚焦垂域工业智能体 的科技企业，同时也是上海交通大学成果转化企业、上海人工智能研究院战略孵化企业。公司希望通过将人工智能技术引入工业制造场景，提升复杂基石工艺制程环节的自动化",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3896295689569922",
-        "title": "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资",
-        "url": "https://36kr.com/p/3896295689569922?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-15T02:37:46.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳市智创芯微电子有限公司（简称“智创芯”）完成 Pre-A轮融资。本轮融资由启迪之星创投、深圳开鸿数字产业发展有限公司（简称“深开鸿”）发起的产业基金、珠海正菱集团、以及应广科技等机构共同参与。 本轮融资完成后， 智创芯将与深开鸿围绕开源鸿蒙（OpenHarmony）与开源RISC-V的融合展开战略合作 ，共同推进“双开源”软硬件生态建设，加速相关技术在智能终端等产业场景落地。 智创芯成立",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3896138695706497",
-        "title": "8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产",
-        "url": "https://36kr.com/p/3896138695706497?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-14T23:57:20.000Z",
-        "summary": "今日热点导览 小米机器人首次实现汽车工厂柔性工件的长时作业 SK海力士加速Y1工厂建设，现已开始订购DRAM制造设备 国际金价持续回调，后市关注美联储政策路径 海关总署：中国出口连续11季度保持增长，贸易增量集中于AI领域 韩国政府四部门将于周四召开会议，就单股杠杆ETF对股市冲击研究应对方案 TOP 3大新闻 LV起诉国家知识产权局，案件定于16日开庭审理 人民法院公告网显示，北京知识产权法院将于2026年7月16日公开审理一起涉及路",
         "category": "updates",
         "region": "cn"
       },
@@ -1340,16 +1370,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3895322613185543",
-        "title": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
-        "url": "https://36kr.com/p/3895322613185543?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-14T11:21:42.000Z",
-        "summary": "大公司： 中国神华：预计上半年净利润同比增长6.9%-21.1% 36氪获悉，中国神华公告，预计2026年上半年归属于上市公司股东的净利润为263亿元至298亿元，同比增长6.9%-21.1%。业绩变动主要系煤化工业务量及自有铁路、港口、航运业务量增加，带动相关业务利润同比增长。 中国人寿：预计上半年净利润同比增长约215%-235% 36氪获悉，中国人寿公告，预计2026年半年度归属于母公司股东的净利润约1289.33亿元到1371.",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/hskvppumw3y1gyyhtt3i",
         "title": "连Claude Code都搞不定的巨型代码库，我们靠一个“自愈循环”给盘活了",
         "url": "https://www.infoq.cn/article/hSKvPpuMW3Y1GyyHtt3I?utm_source=rss&utm_medium=article",
@@ -1358,29 +1378,9 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3895355856403456",
-        "title": "估值110亿美元，这家超级独角兽要帮初创公司从Day0走向全球",
-        "url": "https://36kr.com/p/3895355856403456?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-14T10:48:32.000Z",
-        "summary": "凌晨三点，一家刚成立不久的AI创业公司，可能已经在同时服务旧金山的客户、采购首尔的技术服务，并与拉各斯的合作伙伴签下合同。这家公司甚至还没有招到第一名全职财务人员，业务却已经跨越多个市场、币种和监管辖区。 AI正在让这样的创业路径成为可能。过去需要市场、运营、客服等一整套全球化团队才能完成的工作，现在借助智能体就能承担相当一部分。新一代初创企业不必再按照“先站稳本土、再逐步出海”的传统顺序扩张，而可能从成立第一天起，就直接面对全球客户和",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3360632/chinese-ai-stock-trade-remains-intact-despite-10-correction-jumbo-ipo-fed-jitters",
-        "title": "Chinese AI stock trade remains intact despite 10% correction from jumbo IPO, Fed jitters",
-        "url": "https://www.scmp.com/business/china-business/article/3360632/chinese-ai-stock-trade-remains-intact-despite-10-correction-jumbo-ipo-fed-jitters?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-15T06:34:00.000Z",
-        "summary": "The recent pullback in Chinese technology stocks is a just blip that is unlikely to disrupt the secular bull run on the artificial intelligence (AI) plays, according to fund managers and equity analysts. A decline of mor",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3360626/ai-investor-mania-chinas-deepseek-chases-us70-billion-valuation-fresh-round",
         "title": "AI investor mania: China’s DeepSeek chases US$70 billion valuation in fresh round",
@@ -1389,16 +1389,6 @@
         "publishedAt": "2026-07-15T06:11:30.000Z",
         "summary": "Chinese frontier artificial intelligence start-up DeepSeek is in talks with investors to raise a new financing round at around US$70 billion pre-investment valuation, shortly after closing a landmark first round, reflect",
         "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/plus/tech/tech-war/article/3360112/nvidia-gets-china-boost-iran-ceasefire-breaks-gdp-release",
-        "title": "Nvidia gets China boost, Iran ceasefire breaks, GDP release",
-        "url": "https://www.scmp.com/plus/tech/tech-war/article/3360112/nvidia-gets-china-boost-iran-ceasefire-breaks-gdp-release?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-10T09:00:17.000Z",
-        "summary": "China eased a boycott of higher-end Nvidia processors, seeking to balance concerns about chip shortages hurting local artificial intelligence (AI) developers against the risk of over-reliance on US technology. Alibaba is",
-        "category": "tools",
         "region": "cn_en"
       }
     ]
