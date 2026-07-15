@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T13:16:47.026Z",
+  "generatedAt": "2026-07-15T18:57:30.341Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,12 +8,72 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.com/news/article/extremely&",
+        "title": "&#8216;Extremely excessive&#8217; research, fees alleged in &#8216;It Ends With Us&#8217; litigation",
+        "url": "https://www.abajournal.com/news/article/extremely&#45;excessive&#45;research&#45;fees&#45;alleged&#45;in&#45;it&#45;ends&#45;with&#45;us&#45;litigation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-15T17:53:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/suspended&",
+        "title": "Suspended Kentucky law professor seeks to block appointment of incoming dean",
+        "url": "https://www.abajournal.com/news/article/suspended&#45;kentucky&#45;law&#45;professor&#45;seeks&#45;to&#45;block&#45;appointment&#45;of&#45;incoming&#45;dean/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-15T17:42:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/07/i-couldnt-get-it-out-of-my-mind-chris-cartrett-on-why-he-is-leaving-aderant-and-legal-tech.html",
+        "title": "‘I Couldn’t Get It Out of My Mind’: Chris Cartrett on Why He Is Leaving Aderant and Legal Tech",
+        "url": "https://www.lawnext.com/2026/07/i-couldnt-get-it-out-of-my-mind-chris-cartrett-on-why-he-is-leaving-aderant-and-legal-tech.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-15T15:36:49.000Z",
+        "summary": "When I spoke with Chris Cartrett yesterday, just hours after reporting that he will step down Aug. 1 as president and CEO of Aderant, he was emphatic that his departure, after 12 years at the company, including five as C",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/fake&",
+        "title": "Fake Tenn. lawyer sentenced to prison for scamming victims",
+        "url": "https://www.abajournal.com/news/article/fake&#45;lawyer&#45;in&#45;tenn&#45;sentenced&#45;to&#45;12&#45;years&#45;in&#45;prison&#45;for&#45;scamming&#45;victims/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-15T15:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/best&",
+        "title": "Best Judgment",
+        "url": "https://www.abajournal.com/web/article/best&#45;judgment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-15T14:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/how&",
+        "title": "How to use AI, but steer clear of hallucinated cases",
+        "url": "https://www.abajournal.com/web/article/how&#45;to&#45;use&#45;ai&#45;but&#45;steer&#45;clear&#45;of&#45;hallucinated&#45;cases/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-15T13:30:00.000Z",
+        "summary": "",
+        "category": "skills",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html",
         "title": "Legal Decoder Introduces Aperture, A Natural Language Interface for Querying Legal Billing Data",
         "url": "https://www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html",
         "source": "LawSites",
         "publishedAt": "2026-07-15T13:03:11.000Z",
-        "summary": "Legal Decoder, a legal spend analytics company whose billing-review technology has been relied on by fee examiners in major federal bankruptcy cases, is today launching Aperture, a natural language interface that lets la",
+        "summary": "Legal Decoder, a legal spend analytics company whose billing-review technology has been relied on by Fortune 500 companies and Am Law 100 firms, as well as fee examiners in major federal bankruptcy cases, is today launch",
         "category": "updates",
         "region": "na"
       },
@@ -48,6 +108,16 @@
         "region": "na"
       },
       {
+        "id": "OpenAI News:openai.com/index/unlocking-self-improvement-gpt-red",
+        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+        "source": "OpenAI News",
+        "publishedAt": "2026-07-15T10:00:00.000Z",
+        "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+        "category": "skills",
+        "region": "na"
+      },
+      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal",
         "title": "Meet Amazon Quick For Legal",
         "url": "https://www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal/",
@@ -75,16 +145,6 @@
         "publishedAt": "2026-07-15T06:46:17.000Z",
         "summary": "Katie Downer moved through the spacious marble lobby of Smyth &#38; Marmalade with automatic motions. How many times had she traced this path? Through the ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/how&",
-        "title": "How to use AI, but steer clear of hallucinated cases",
-        "url": "https://www.abajournal.com/web/article/how&#45;to&#45;use&#45;ai&#45;but&#45;steer&#45;clear&#45;of&#45;hallucinated&#45;cases/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-14T19:24:00.000Z",
-        "summary": "",
-        "category": "skills",
         "region": "na"
       },
       {
@@ -138,42 +198,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/should&",
-        "title": "Should law firms share AI tools with their clients and peers?",
-        "url": "https://www.abajournal.com/news/article/should&#45;law&#45;firms&#45;share&#45;ai&#45;tools&#45;with&#45;their&#45;clients&#45;and&#45;peers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-14T13:35:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/exclusive-as-its-kaleidoscope-conference-returns-for-year-two-8am-trades-austins-cowboy-boots-for-the-las-vegas-strip-and-books-the-savannah-bananas-founder-as-keynote.html",
         "title": "Exclusive: As Its Kaleidoscope Conference Returns for Year Two, 8am Trades Austin&#8217;s Cowboy Boots for the Las Vegas Strip — And Books the Savannah Bananas&#8217; Founder As Keynote",
         "url": "https://www.lawnext.com/2026/07/exclusive-as-its-kaleidoscope-conference-returns-for-year-two-8am-trades-austins-cowboy-boots-for-the-las-vegas-strip-and-books-the-savannah-bananas-founder-as-keynote.html",
         "source": "LawSites",
         "publishedAt": "2026-07-14T13:00:14.000Z",
         "summary": "Last September, when the company 8am — having successfully pulled off a major rebrand just three weeks earlier — then went on to pull off its first-ever customer conference in Austin, I wrote a review giving it high prai",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/california&",
-        "title": "California State Bar settles suit with vendor over troubled exam for $5.25 million",
-        "url": "https://www.abajournal.com/web/article/california&#45;state&#45;bar&#45;settles&#45;suit&#45;with&#45;vendor&#45;over&#45;troubled&#45;exam&#45;for&#45;5.25&#45;million/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-14T12:41:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/voice/article/what&",
-        "title": "What my father&#8217;s restaurant taught me about judging",
-        "url": "https://www.abajournal.com/voice/article/what&#45;my&#45;fathers&#45;restaurant&#45;taught&#45;me&#45;about&#45;judging/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-13T20:12:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -185,16 +215,6 @@
         "publishedAt": "2026-07-13T19:02:18.000Z",
         "summary": "Which AI models are actually best at legal work? A new platform launched in beta by the alternative legal services provider Percipient aims to answer that question by letting legal professionals put the models to the tes",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/best&",
-        "title": "Best Judgment",
-        "url": "https://www.abajournal.com/web/article/best&#45;judgment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-13T17:41:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1178,16 +1198,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/04/lawnext-podcast-learned-hands-shlomo-klapper-on-why-courts-are-the-next-frontier-for-legal-ai.html",
-        "title": "LawNext Podcast: Learned Hand’s Shlomo Klapper on Why Courts Are the Next Frontier for Legal AI",
-        "url": "https://www.lawnext.com/2026/04/lawnext-podcast-learned-hands-shlomo-klapper-on-why-courts-are-the-next-frontier-for-legal-ai.html",
-        "source": "LawSites",
-        "publishedAt": "2026-04-07T16:41:59.000Z",
-        "summary": "Are courts the next frontier for legal AI? Shlomo Klapper, founder and CEO of the AI-driven judicial case-preparation platofrm Learned Hand, believes they are. A former litigator at Quinn Emanuel and law clerk for the 2n",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1195,16 +1205,6 @@
         "publishedAt": "2025-08-07T00:00:00.000Z",
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
         "region": "na"
       }
     ],
@@ -1365,16 +1365,6 @@
         "url": "https://www.infoq.cn/article/Af9AUfyturjojjQvv6QI?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-14T11:36:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hskvppumw3y1gyyhtt3i",
-        "title": "连Claude Code都搞不定的巨型代码库，我们靠一个“自愈循环”给盘活了",
-        "url": "https://www.infoq.cn/article/hSKvPpuMW3Y1GyyHtt3I?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-14T11:08:39.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
