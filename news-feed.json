@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T01:41:17.345Z",
+  "generatedAt": "2026-07-15T07:52:21.019Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/the-innovators-part-two",
+        "title": "‘The Innovators’ – Part Two",
+        "url": "https://www.artificiallawyer.com/2026/07/15/the-innovators-part-two/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-15T06:46:17.000Z",
+        "summary": "Katie Downer moved through the spacious marble lobby of Smyth &#38; Marmalade with automatic motions. How many times had she traced this path? Through the ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/lindsey&",
         "title": "Lindsey Graham had a long history with the ABA",
@@ -148,6 +158,26 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/10/al-is-on-hols-back-july-15-wrap",
+        "title": "AL Is On Hols, Back July 15 + Wrap",
+        "url": "https://www.artificiallawyer.com/2026/07/10/al-is-on-hols-back-july-15-wrap/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-10T07:23:02.000Z",
+        "summary": "Artificial Lawyer is on a short holiday and back on Wednesday, July 15. And now for this week’s Wrap, which starts with our news summary. ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/09/crimson-midpage-besavvy-join-new-fuse-cohort",
+        "title": "Crimson, Midpage + BeSavvy Join New Fuse Cohort",
+        "url": "https://www.artificiallawyer.com/2026/07/09/crimson-midpage-besavvy-join-new-fuse-cohort/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-09T15:26:37.000Z",
+        "summary": "A&#38;O Shearman’s Fuse incubator has announced its new cohort of legal tech companies, along with some digital asset startups (not listed here). They include Crimson, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "OpenAI News:openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
         "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -168,12 +198,82 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure",
+        "title": "Darrow Cuts Roles as Part of Strategic Restructure",
+        "url": "https://www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-09T08:12:33.000Z",
+        "summary": "Darrow, the pioneering litigation intelligence platform, has undergone a restructuring with multiple roles cut. However, the Israel-based company underlined they had ‘consistent year-over-year growth’ and ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/09/why-adoption-starts-where-go-live-ends",
+        "title": "Why Adoption Starts Where Go-Live Ends",
+        "url": "https://www.artificiallawyer.com/2026/07/09/why-adoption-starts-where-go-live-ends/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-09T06:40:34.000Z",
+        "summary": "By Jennie Strickland, Clio. The feeling of a successful go-live is one most legal technology leaders will recognize. The project has hit its milestones. Training ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/08/oz-joins-pillsbury-for-top-ai-role",
+        "title": "Oz Joins Pillsbury For Top AI Role",
+        "url": "https://www.artificiallawyer.com/2026/07/08/oz-joins-pillsbury-for-top-ai-role/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-08T14:06:05.000Z",
+        "summary": "International man of mystery and legal AI guru, Oz Benamram, has joined US law firm Pillsbury as its first Chief AI Officer. It’s understood that ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/08/syntheia-slashes-token-costs-with-novel-approach",
+        "title": "Syntheia Slashes Token Costs With Novel Approach",
+        "url": "https://www.artificiallawyer.com/2026/07/08/syntheia-slashes-token-costs-with-novel-approach/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-08T13:17:50.000Z",
+        "summary": "Horace Wu’s Syntheia has found that by taking a different approach to how a contract is ‘sliced up’ before applying AI, to put it simply, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/07/centari-launches-external-views-enabling-firms-to-share-deal-intelligence-dashboards-directly-with-clients.html",
         "title": "Centari Launches External Views, Enabling Firms to Share Deal Intelligence Dashboards Directly with Clients",
         "url": "https://www.lawnext.com/2026/07/centari-launches-external-views-enabling-firms-to-share-deal-intelligence-dashboards-directly-with-clients.html",
         "source": "LawSites",
         "publishedAt": "2026-07-08T13:00:55.000Z",
         "summary": "Centari, an AI platform for managing complex transactions, today launched External Views, a capability that allows law firms to create white-labeled dashboards and share them directly with clients. The feature builds on ",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/08/legatics-data-rooms-launches-as-vdr-alternative",
+        "title": "Legatics Data Rooms Launches as VDR Alternative",
+        "url": "https://www.artificiallawyer.com/2026/07/08/legatics-data-rooms-launches-as-vdr-alternative/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-08T10:42:42.000Z",
+        "summary": "Legatics has launched its own ‘Data Rooms&#8217; capability, which enables law firms to manage transactions and share confidential documents within a single workflow, and as ...",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/08/how-haynes-boone-makes-working-with-ai-a-core-lawyering-skill",
+        "title": "How Haynes Boone Makes Working with AI a Core Lawyering Skill",
+        "url": "https://www.artificiallawyer.com/2026/07/08/how-haynes-boone-makes-working-with-ai-a-core-lawyering-skill/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-08T09:58:29.000Z",
+        "summary": "By Ian Nelson, Co-Founder, Hotshot. At Haynes Boone, working with generative AI is treated as a core lawyering competency, not just a tool to roll ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months",
+        "title": "Harvey Increases Token Use 14X in Just 6 Months",
+        "url": "https://www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-08T08:25:09.000Z",
+        "summary": "Harvey’s co-founder and President, Gabe Pereyra, has announced that the number of tokens processed on the broad legal AI platform have increased by fourteen times ...",
         "category": "tools",
         "region": "na"
       },
@@ -1106,76 +1206,66 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3896189224781440",
-        "title": "中信证券：继续全面看好国产算力产业链",
-        "url": "https://36kr.com/newsflashes/3896189224781440?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-15T01:12:32.000Z",
-        "summary": "36氪获悉，中信证券研报指出，继续全面看好国产算力产业链，从稀缺的先进制程能力，到百花齐放的设计公司，到超节点预计均会迎来放量机会，同时先进制程、先进封装、先进存储以及配套产业链有望迎来强劲增长动能。国产算力订单预期清晰度显著增强，供应链备货节奏加速，相关公司报表预计将显著改善。建议关注：（1）AI芯片设计公司。（2）晶圆代工与先进封装。（3）其他。",
+        "id": "InfoQ China:www.infoq.cn/article/wl9yuw7ljbbftgzwxbvz",
+        "title": "Linux 基金会推出 Akrites 项目，防护核心开源软件免受 AI 网络威胁侵害",
+        "url": "https://www.infoq.cn/article/WL9yUw7LJbBFTgzwXbVZ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-15T15:00:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3896187311785608",
-        "title": "资金借道股票型ETF流入市场，宽基产品获大举增持",
-        "url": "https://36kr.com/newsflashes/3896187311785608?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-15T01:09:28.000Z",
-        "summary": "7月14日，A股有色、煤炭等资源板块大涨，多只有色主题ETF涨超6%；算力板块午后强势反弹，创业板指涨超3%，多只通信主题ETF涨超5%。值得注意的是，7月13日A股大幅回调之际，近600亿元抄底资金借道股票型ETF流入市场，资金规模创下2025年4月8日以来的单日新高，中证1000、沪深300、中证500等宽基ETF获大举增持。近期，A股科技板块震荡加剧。业内机构提示，前期科技成长赛道持续走强，积累了较大规模的融资盘，随着市场波动加剧",
+        "id": "InfoQ China:www.infoq.cn/article/t4bhljlfhybc8rnfqvxe",
+        "title": "Datadog 借助 Claude 和 Cursor 完成测试驱动式生产环境迁移",
+        "url": "https://www.infoq.cn/article/T4BhLjLfHYBC8rNfQVxe?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-15T13:00:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3896174271104642",
-        "title": "韩国AI股票频频暴涨急跌，凸显杠杆过度扩张的威力",
-        "url": "https://36kr.com/newsflashes/3896174271104642?f=rss",
+        "id": "InfoQ China:www.infoq.cn/article/mkdcal0tr0aaaxjlpire",
+        "title": "Kubernetes AI 辅助项目维护方案：恪守人为责任优先原则",
+        "url": "https://www.infoq.cn/article/mKDCAL0Tr0AaaXJlPIrE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-15T09:43:44.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3896531817842565",
+        "title": "���网投入股立芯软件",
+        "url": "https://36kr.com/newsflashes/3896531817842565?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-15T00:55:20.000Z",
-        "summary": "韩国AI驱动的股市繁荣正在变成一个警示故事：当杠杆成为比基本面更强大的市场力量时会发生什么。SK海力士周一创纪录暴跌15%，迫使与韩国芯片制造商挂钩的杠杆产品经理抛售数十亿美元股票，从最初全球重新评估AI估值演变成为一场市场大跌。这波抛售助推韩国Kospi指数在短短三周内下跌25%，暴露出保证金贷款、单只杠杆交易所交易基金（ETF）和集中的指数权重如何相互影响，放大市场的双向波动。在首尔之外，全球其他地区也越来越关注这些动态。韩国处于人",
+        "publishedAt": "2026-07-15T06:37:08.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，上海立芯软件科技有限公司发生工商变更，注册资本由约2541万人民币增至约2915万人民币，同时新增中国互联网投资基金（有限合伙）等为股东。上海立芯软件科技有限公司成立于2020年11月，法定代表人为陈建利，经营范围包括软件开发、人工智能硬件销售等。股东信息显示，该公司由嘉兴宸玥股权投资合伙企业（有限合伙）、哈勃科技创业投资有限公司及上述新增股东等共同持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3896298534520705",
+        "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
+        "url": "https://36kr.com/p/3896298534520705?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-15T02:40:40.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，上海追知工程科技有限公司（以下简称“追知工科”）近日完成数千万元种子轮融资，由L2F光源创业者基金、尚融资本、一村资本联合投资。本轮融资将主要用于核心产品研发、团队建设及市场拓展。 追知工科成立于2024年2月，是一家 聚焦垂域工业智能体 的科技企业，同时也是上海交通大学成果转化企业、上海人工智能研究院战略孵化企业。公司希望通过将人工智能技术引入工业制造场景，提升复杂基石工艺制程环节的自动化",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3896295689569922",
+        "title": "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资",
+        "url": "https://36kr.com/p/3896295689569922?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-15T02:37:46.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳市智创芯微电子有限公司（简称“智创芯”）完成 Pre-A轮融资。本轮融资由启迪之星创投、深圳开鸿数字产业发展有限公司（简称“深开鸿”）发起的产业基金、珠海正菱集团、以及应广科技等机构共同参与。 本轮融资完成后， 智创芯将与深开鸿围绕开源鸿蒙（OpenHarmony）与开源RISC-V的融合展开战略合作 ，共同推进“双开源”软硬件生态建设，加速相关技术在智能终端等产业场景落地。 智创芯成立",
         "category": "updates",
         "region": "cn"
       },
@@ -1278,79 +1368,29 @@
         "summary": "凌晨三点，一家刚成立不久的AI创业公司，可能已经在同时服务旧金山的客户、采购首尔的技术服务，并与拉各斯的合作伙伴签下合同。这家公司甚至还没有招到第一名全职财务人员，业务却已经跨越多个市场、币种和监管辖区。 AI正在让这样的创业路径成为可能。过去需要市场、运营、客服等一整套全球化团队才能完成的工作，现在借助智能体就能承担相当一部分。新一代初创企业不必再按照“先站稳本土、再逐步出海”的传统顺序扩张，而可能从成立第一天起，就直接面对全球客户和",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/xfxrhsgil3cchrqnv4zj",
-        "title": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑",
-        "url": "https://www.infoq.cn/article/XfXRhsGiL3CchrQNV4zj?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-14T10:13:36.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fjkg0xhav42s8sfcayfy",
-        "title": "面向 Agentic 负载的下一代 LLM 推理引擎设计实践｜AICon深圳",
-        "url": "https://www.infoq.cn/article/fjkG0xhaV42S8sfCayFy?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-14T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3894821059918855",
-        "title": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型",
-        "url": "https://36kr.com/p/3894821059918855?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-14T01:38:13.000Z",
-        "summary": "触觉手套（图源/企业） 本文约 2400 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾清湛领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智能公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3893976502287618",
-        "title": "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线",
-        "url": "https://36kr.com/p/3893976502287618?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-14T00:46:41.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，通用人形机器人公司逐际动力LimX Dynamics宣布完成Pre-IPO轮融资，融资金额近2亿美元，投资方包括IDG资本、蓝思科技、GGG Group与Redstone VC、华山资本、合肥滨湖产发集团等。此外，阿联酋磊石资本（Stone Venture）连续多轮追投，绿洲资本、基石资本、南山战新投、尚颀资本、蔚来资本等多家老股东超额加注。 融资资金将重点用于大小脑融合技术的突破和产品化，推动数千台",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3894729787767810",
-        "title": "8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%",
-        "url": "https://36kr.com/p/3894729787767810?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-14T00:04:11.000Z",
-        "summary": "今日热点导览 韩国法院禁止两名前三星员工就职于SK海力士 字节探索自动驾驶，Seed世界模型团队负责 巨力索具深夜澄清商业航天业务不实传闻，提醒投资风险 科技记者古尔曼：苹果将跳过M6 Pro/Max芯片全力押注AI导向的M7系列 美众议院本周将表决永久实行夏令时法案 TOP 3大新闻 海南将成中国首个禁售燃油车省份，届时车桩比保持2.5:1以下 近日，海南省人民政府对外发布《“十五五”海南国家生态文明试验区规划（美丽海南建设“十五五”",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3893943402707460",
-        "title": "氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围",
-        "url": "https://36kr.com/p/3893943402707460?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-13T11:59:05.000Z",
-        "summary": "大公司： 洽洽食品：上半年净利润同比预增170.75%—198.96% 36氪获悉，洽洽食品披露业绩预告，预计2026年上半年归属于上市公司股东的净利润为2.4亿元—2.65亿元，同比增长170.75%—198.96%。 好上好：上半年净利润同比预增301.65%—376.03% 36氪获悉，好上好披露业绩预告，预计2026年半年度归属于上市公司股东的净利润1.35亿元—1.6亿元，同比增长301.65%—376.03%。 Meta宣布",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3893815451417347",
-        "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
-        "url": "https://36kr.com/p/3893815451417347?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-13T08:34:05.000Z",
-        "summary": "36氪从多位产业人士处获悉，字节跳动正探索进入自动驾驶领域。这一项目目前由Seed旗下周畅的世界模型团队负责。据了解，Seed旗下不仅有周畅的多模态模型、世界模型等团队，还有大语言模型方向。 而自动驾驶与世界模型的技术路线有交叠之处。 另有消息人士告诉36氪，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。 部分接近字节的知情人士表示，字节团队此前与一些头部自动驾驶团队进行过业务探讨交流，目",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3360632/chinese-ai-stock-trade-remains-intact-despite-10-correction-jumbo-ipo-fed-jitters",
+        "title": "Chinese AI stock trade remains intact despite 10% correction from jumbo IPO, Fed jitters",
+        "url": "https://www.scmp.com/business/china-business/article/3360632/chinese-ai-stock-trade-remains-intact-despite-10-correction-jumbo-ipo-fed-jitters?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-15T06:34:00.000Z",
+        "summary": "The recent pullback in Chinese technology stocks is a just blip that is unlikely to disrupt the secular bull run on the artificial intelligence (AI) plays, according to fund managers and equity analysts. A decline of mor",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3360626/ai-investor-mania-chinas-deepseek-chases-us70-billion-valuation-fresh-round",
+        "title": "AI investor mania: China’s DeepSeek chases US$70 billion valuation in fresh round",
+        "url": "https://www.scmp.com/tech/big-tech/article/3360626/ai-investor-mania-chinas-deepseek-chases-us70-billion-valuation-fresh-round?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-15T06:11:30.000Z",
+        "summary": "Chinese frontier artificial intelligence start-up DeepSeek is in talks with investors to raise a new financing round at around US$70 billion pre-investment valuation, shortly after closing a landmark first round, reflect",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/plus/tech/tech-war/article/3360112/nvidia-gets-china-boost-iran-ceasefire-breaks-gdp-release",
         "title": "Nvidia gets China boost, Iran ceasefire breaks, GDP release",
