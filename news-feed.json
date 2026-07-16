@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T01:51:05.439Z",
+  "generatedAt": "2026-07-16T07:58:16.516Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/16/vanilla-meatballs-cooleys-flat-fees-with-david-wang",
+        "title": "Vanilla, Meatballs + Cooley’s Flat Fees – with David Wang",
+        "url": "https://www.artificiallawyer.com/2026/07/16/vanilla-meatballs-cooleys-flat-fees-with-david-wang/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-16T07:50:39.000Z",
+        "summary": "Cooley’s fund formation platform, Vanilla, is now offering a key element of its work – transfers – for a $495 flat fee. AL talked to ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/iowa&",
         "title": "Iowa Supreme Court suspends license of lawyer accused of child sex abuse crimes in two states",
@@ -284,16 +294,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-07-08T14:06:05.000Z",
         "summary": "International man of mystery and legal AI guru, Oz Benamram, has joined US law firm Pillsbury as its first Chief AI Officer. It’s understood that ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/08/syntheia-slashes-token-costs-with-novel-approach",
-        "title": "Syntheia Slashes Token Costs With Novel Approach",
-        "url": "https://www.artificiallawyer.com/2026/07/08/syntheia-slashes-token-costs-with-novel-approach/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-08T13:17:50.000Z",
-        "summary": "Horace Wu’s Syntheia has found that by taking a different approach to how a contract is ‘sliced up’ before applying AI, to put it simply, ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,12 +1210,72 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/fzwtgsqgailoemgmk0s2",
-        "title": "Slack 推出智能体驱动型端到端测试，提升 UI 自动化测试稳定性",
-        "url": "https://www.infoq.cn/article/fZWtgSqGaILoEMGmk0s2?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/qjyqtiavedd0ebd9ck3b",
+        "title": "125Tbps流量峰值背后：世界杯直播正在考验一套新的网络基础设施",
+        "url": "https://www.infoq.cn/article/QjYQtiAVeDd0ebd9CK3B?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-16T09:28:20.000Z",
+        "publishedAt": "2026-07-16T15:09:01.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/h8iqlmqwsza0ev6kvvgm",
+        "title": "从 AI Coding 到 AI Native SDLC：企业级人机协同研发范式的演进与落地｜AICon深圳",
+        "url": "https://www.infoq.cn/article/H8IqlmqWsza0ev6KvvGm?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-16T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3897991426508678",
+        "title": "歌尔股份在长沙成立新科技公司，注册资本100万",
+        "url": "https://36kr.com/newsflashes/3897991426508678?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T07:32:29.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，长沙歌尔泰克科技有限公司成立，法定代表人为张一凡，注册资本100万人民币，经营范围包括人工智能行业应用系统集成服务、货物进出口、技术进出口等，由歌尔股份全资持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3898001280419717",
+        "title": "台积电上调销售和支出展望，再添AI需求持续迹象",
+        "url": "https://36kr.com/newsflashes/3898001280419717?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T07:31:57.000Z",
+        "summary": "台积电大幅上调今年资本支出和营收预期，反映出该公司对全球AI基础设施需求的信心。作为英伟达和苹果公司的主要芯片制造商，该公司目前预计2026年资本支出为600亿-640亿美元，高于此前预估的520亿-560亿美元。该公司还预计，以美元计价的营收增幅将略高于40%，较此前的逾30%亦有上调。台积电之前公布，第二季度净利润同比增长77.4%，增速超过市场预期。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3897971699713666",
+        "title": "A股三大指数集体收跌",
+        "url": "https://36kr.com/newsflashes/3897971699713666?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T07:01:51.000Z",
+        "summary": "36氪获悉，A股三大指数集体收跌，沪指跌1.85%，深成指跌1.97%，创业板指跌2.95%；半导体、算力硬件集体调整，兆易创新、德明利、长电科技、中国巨石等跌停，澜起科技跌超16%，寒武纪跌超5%；文化传媒、餐饮旅游涨幅居前，上海电影、儒意电影涨停，西藏旅游涨超5%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3897932324603777",
+        "title": "智元机器人在上海成立贸易公司，注册资本500万",
+        "url": "https://36kr.com/newsflashes/3897932324603777?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T06:21:48.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，智元创新（上海）贸易有限公司成立，法定代表人为邓泰华，注册资本500万人民币，经营范围包括智能机器人销售、人工智能硬件销售等，由智元创新（上海）科技股份有限公司全资持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3896639942592134",
+        "title": "大厂医疗AI战，开始“卷”减重",
+        "url": "https://36kr.com/p/3896639942592134?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T02:21:30.000Z",
+        "summary": "文｜胡香赟 编辑｜海若镜 互联网大厂做医疗AI，越来越偏爱“减重”场景。 近日，蚂蚁集团宣布投资薄荷健康，持股比例超28%，成为薄荷健康最大外部股东。薄荷健康成立于2008年，这家互联网医疗公司通过为用户提供饮食记录、科学减重方案等，聚拢了超2亿用户，收录160万条食物数据条目。 2021年，薄荷健康完成D轮融资，估值为20亿人民币。本次投资，据接近交易人士介绍，“从战投角度来做，蚂蚁整体投资金额为数亿人民币，价格比较合理”。关于对价，",
         "category": "updates",
         "region": "cn"
       },
@@ -1226,36 +1286,6 @@
         "source": "36Kr",
         "publishedAt": "2026-07-16T01:30:00.000Z",
         "summary": "作者｜黄楠 编辑｜袁斯来 在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。 这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。 但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。 庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动合一",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3897619091736193",
-        "title": "中信证券：当前时点已上市的数据中心REITs值得持续重点关注",
-        "url": "https://36kr.com/newsflashes/3897619091736193?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-16T01:03:10.000Z",
-        "summary": "36氪获悉，中信证券研报称，在AI应用带动的算力需求快速放量过程中，IDC在供给端受到核心区位、能源使用、资金投入三重核心约束，导致供给增长或难以满足需求放量的加速度，行业景气有望持续。在此背景下，头部运营商通过REITs平台上市的优质IDC资产具备稀缺性，预计即便在未来周期波动中，其稳健性也会相对更高，是攻守兼备的优质资产。同时，随着后续扩募进程有序推进，投资者回报或有望进一步增厚，当前时点已上市的数据中心REITs值得持续重点关注。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3897576310785667",
-        "title": "韩美半导体拟在韩国新建工厂",
-        "url": "https://36kr.com/newsflashes/3897576310785667?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-16T00:19:39.000Z",
-        "summary": "韩国《每日经济新闻》援引对韩美半导体董事长郭东信的采访报道，鉴于预计从明年起AI半导体设备将出现供应短缺，韩美半导体正考虑投建第八座生产工厂，该工厂建成后将成为公司规模最大的厂区。郭东信预计，自明年起半导体设备需求将超过供给。规划中的第八工厂选址毗邻正在仁川施工的第七工厂。韩美半导体表示，随着全球芯片厂商扩大投资，公司热压键合机与混合键合机的市场需求将快速增长。企业计划于2026年底在加州圣何塞设立韩美美国子公司，强化技术配套服务。（新",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3897568718030469",
-        "title": "资金逆势布局，科技主题与宽基ETF同获加仓",
-        "url": "https://36kr.com/newsflashes/3897568718030469?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-16T00:11:55.000Z",
-        "summary": "市场震荡调整过程中，资金正持续借道ETF逆势布局。Wind数据显示，7月14日，多只ETF获资金净流入，其中半导体、人工智能等科技主题ETF最受青睐，同时，沪深300、中证500、中证1000等宽基ETF也吸引大量资金流入。从近一周资金流向来看，科技主题与宽基ETF依然是资金布局的主要方向。业内人士认为，当前部分优质资产调整更多是受到流动性因素的影响，而非基本面恶化。从长期视角来看，无论是价值板块还是科技成长方向，均具备值得关注的配置机",
         "category": "updates",
         "region": "cn"
       },
@@ -1365,26 +1395,6 @@
         "url": "https://www.infoq.cn/article/9RKrYlX2xWPNabO3ErVj?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-14T16:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/uwozdp7l5ex4z2r7izrc",
-        "title": "SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌",
-        "url": "https://www.infoq.cn/article/uwozdp7L5ex4Z2r7iZRC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-14T15:10:48.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/3zmfy6tofqgp7oi3bhwm",
-        "title": "Node.js 26 带来默认启用的 Temporal API、V8 14.6 和一些功能弃用",
-        "url": "https://www.infoq.cn/article/3ZmFy6tOFQgP7OI3BHwm?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-14T14:31:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
