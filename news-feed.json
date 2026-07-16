@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T13:24:00.857Z",
+  "generatedAt": "2026-07-16T18:58:06.543Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,32 +8,72 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
+        "title": "Judge regrets ‘entitled little snot’ comment but still fit for the bench, lawyer says",
+        "url": "https://www.abajournal.com/news/article/judge&#45;regrets&#45;entitled&#45;little&#45;snot&#45;comment&#45;but&#45;still&#45;fit&#45;for&#45;the&#45;bench/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-16T17:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/california&",
+        "title": "California Supreme Court approves adoption of NextGen Uniform Bar Exam",
+        "url": "https://www.abajournal.com/news/article/california&#45;supreme&#45;court&#45;approves&#45;adoption&#45;of&#45;nextgen&#45;uniform&#45;bar&#45;exam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-16T17:09:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
+        "title": "ABA 2026 Annual Conference will explore election integrity, AI and America’s 250th",
+        "url": "https://www.abajournal.com/news/article/aba&#45;2026&#45;annual&#45;conference&#45;will&#45;explore&#45;election&#45;integrity&#45;ai&#45;and&#45;americas&#45;250th/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-16T17:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/increasing&",
+        "title": "Increasing popularity of smart glasses could lead to more workplace disputes",
+        "url": "https://www.abajournal.com/news/article/increasing&#45;popularity&#45;of&#45;smart&#45;glasses&#45;could&#45;lead&#45;to&#45;more&#45;workplace&#45;disputes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-16T16:21:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/tough&",
+        "title": "Tough Talk: Chief Judge’s blunt approach ruffles feathers and commands respect",
+        "url": "https://www.abajournal.com/web/article/tough&#45;talk&#45;chief&#45;judges&#45;blunt&#45;approach&#45;ruffles&#45;feathers&#45;and&#45;commands&#45;respect/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-16T14:40:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lone&",
+        "title": "Lone Star State sees rise in complaints of non-lawyers practicing without a license",
+        "url": "https://www.abajournal.com/news/article/lone&#45;star&#45;state&#45;sees&#45;rise&#45;in&#45;complaints&#45;of&#45;non&#45;lawyers&#45;practicing&#45;without&#45;a&#45;license/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-16T13:16:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/07/relativity-president-chris-brown-on-the-gavel-acquisition-opening-up-to-claude-and-the-gangbusters-growth-of-air.html",
         "title": "Relativity President Chris Brown on the Gavel Acquisition, Opening Up to Claude, and the ‘Gangbusters’ Growth of aiR",
         "url": "https://www.lawnext.com/2026/07/relativity-president-chris-brown-on-the-gavel-acquisition-opening-up-to-claude-and-the-gangbusters-growth-of-air.html",
         "source": "LawSites",
         "publishedAt": "2026-07-16T12:31:07.000Z",
         "summary": "Last week, Relativity announced that Chris Brown, its chief product officer since 2018, had been named the company’s president, effective July 13. In the new role, Brown continues to lead Relativity’s product organizatio",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/16/harvey-buys-benchmark-asset-management-startup",
-        "title": "Harvey Buys Benchmark Asset Management Startup",
-        "url": "https://www.artificiallawyer.com/2026/07/16/harvey-buys-benchmark-asset-management-startup/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-16T12:27:18.000Z",
-        "summary": "BREAKING NEWS &#8211; Harvey has announced its acquisition of New York-based Benchmark, a decision infrastructure platform for asset management. Benchmark helps investors make better decisions ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/16/vanilla-meatballs-cooleys-flat-fees-with-david-wang",
-        "title": "Vanilla, Meatballs + Cooley’s Flat Fees – with David Wang",
-        "url": "https://www.artificiallawyer.com/2026/07/16/vanilla-meatballs-cooleys-flat-fees-with-david-wang/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-16T07:50:39.000Z",
-        "summary": "Cooley’s fund formation platform, Vanilla, is now offering a key element of its work – transfers – for a $495 flat fee. AL talked to ...",
         "category": "tools",
         "region": "na"
       },
@@ -88,26 +128,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/best&",
-        "title": "Judges blast lawyers for citing hallucinated cases, but ethics pros say rule changes not needed",
-        "url": "https://www.abajournal.com/web/article/best&#45;judgment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-15T14:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/how&",
-        "title": "How to use AI, but steer clear of hallucinated cases",
-        "url": "https://www.abajournal.com/web/article/how&#45;to&#45;use&#45;ai&#45;but&#45;steer&#45;clear&#45;of&#45;hallucinated&#45;cases/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-15T13:30:00.000Z",
-        "summary": "",
-        "category": "skills",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html",
         "title": "Legal Decoder Introduces Aperture, A Natural Language Interface for Querying Legal Billing Data",
         "url": "https://www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html",
@@ -125,86 +145,6 @@
         "publishedAt": "2026-07-15T12:01:14.000Z",
         "summary": "Litera, one of the most broadly deployed technology companies in the legal industry, is today unveiling a company-wide relaunch that positions it as the legal AI platform unifying the practice and business of law through",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/litera-relaunches-with-one-agent-to-rule-the-platform",
-        "title": "Litera ‘Relaunches’ With One Agent to Rule the Platform",
-        "url": "https://www.artificiallawyer.com/2026/07/15/litera-relaunches-with-one-agent-to-rule-the-platform/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-15T12:00:03.000Z",
-        "summary": "Legal tech legend, Litera, has ‘relaunched’ itself with its Lito agent as the principal point of focus, offering the ability to tap both its business ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/consumers&",
-        "title": "Consumers file a flurry of lawsuits against makers of ultra-processed foods",
-        "url": "https://www.abajournal.com/news/article/consumers&#45;file&#45;a&#45;flurry&#45;of&#45;lawsuits&#45;against&#45;makers&#45;of&#45;ultra&#45;processed&#45;foods/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-15T11:58:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal",
-        "title": "Meet Amazon Quick For Legal",
-        "url": "https://www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-15T09:57:59.000Z",
-        "summary": "Just when you wondered who else among the tech giants would cover legal, it turns out that the ‘Everything Store’ has an ‘Amazon Quick For ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/legatics-new-mcp-server-connects-your-ai-tools",
-        "title": "Legatics&#8217; New MCP Server Connects Your AI Tools",
-        "url": "https://www.artificiallawyer.com/2026/07/15/legatics-new-mcp-server-connects-your-ai-tools/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-15T08:55:56.000Z",
-        "summary": "Legatics, the well-known transaction management platform, has launched a Model Context Protocol (MCP) server. This will allow your ‘AI assistants or agents to connect directly ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/the-innovators-part-two",
-        "title": "‘The Innovators’ – Part Two",
-        "url": "https://www.artificiallawyer.com/2026/07/15/the-innovators-part-two/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-15T06:46:17.000Z",
-        "summary": "Katie Downer moved through the spacious marble lobby of Smyth &#38; Marmalade with automatic motions. How many times had she traced this path? Through the ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/lindsey&",
-        "title": "Lindsey Graham had a long history with the ABA",
-        "url": "https://www.abajournal.com/web/article/lindsey&#45;graham&#45;had&#45;a&#45;long&#45;history&#45;with&#45;the&#45;aba/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-14T16:15:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/nicki&",
-        "title": "Nicki Minaj’s legal team sues singer for unpaid fees",
-        "url": "https://www.abajournal.com/news/article/nicki&#45;minajs&#45;legal&#45;team&#45;sues&#45;singer&#45;for&#45;unpaid&#45;fees/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-14T15:47:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
-        "title": "DOJ sets case quotas for prosecutors to increase stats",
-        "url": "https://www.abajournal.com/news/article/doj&#45;sets&#45;case&#45;quotas&#45;for&#45;prosecutors&#45;to&#45;increase&#45;stats/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-14T14:54:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -248,26 +188,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/10/al-is-on-hols-back-july-15-wrap",
-        "title": "AL Is On Hols, Back July 15 + Wrap",
-        "url": "https://www.artificiallawyer.com/2026/07/10/al-is-on-hols-back-july-15-wrap/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-10T07:23:02.000Z",
-        "summary": "Artificial Lawyer is on a short holiday and back on Wednesday, July 15. And now for this week’s Wrap, which starts with our news summary. ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/09/crimson-midpage-besavvy-join-new-fuse-cohort",
-        "title": "Crimson, Midpage + BeSavvy Join New Fuse Cohort",
-        "url": "https://www.artificiallawyer.com/2026/07/09/crimson-midpage-besavvy-join-new-fuse-cohort/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-09T15:26:37.000Z",
-        "summary": "A&#38;O Shearman’s Fuse incubator has announced its new cohort of legal tech companies, along with some digital asset startups (not listed here). They include Crimson, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
         "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -285,26 +205,6 @@
         "publishedAt": "2026-07-09T12:32:01.000Z",
         "summary": "Two years ago, the law practice management company Smokeball gave me an exclusive preview of its plans for an AI ecosystem spanning the full client lifecycle, anchored by an AI matter assistant called Archie, which it fo",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure",
-        "title": "Darrow Cuts Roles as Part of Strategic Restructure",
-        "url": "https://www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-09T08:12:33.000Z",
-        "summary": "Darrow, the pioneering litigation intelligence platform, has undergone a restructuring with multiple roles cut. However, the Israel-based company underlined they had ‘consistent year-over-year growth’ and ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/09/why-adoption-starts-where-go-live-ends",
-        "title": "Why Adoption Starts Where Go-Live Ends",
-        "url": "https://www.artificiallawyer.com/2026/07/09/why-adoption-starts-where-go-live-ends/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-09T06:40:34.000Z",
-        "summary": "By Jennie Strickland, Clio. The feeling of a successful go-live is one most legal technology leaders will recognize. The project has hit its milestones. Training ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1178,16 +1078,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/04/third-circuit-rules-that-upcodes-publication-of-incorporated-building-standards-is-likely-fair-use.html",
-        "title": "Third Circuit Rules That UpCodes&#8217; Publication of Incorporated Building Standards Is Likely Fair Use",
-        "url": "https://www.lawnext.com/2026/04/third-circuit-rules-that-upcodes-publication-of-incorporated-building-standards-is-likely-fair-use.html",
-        "source": "LawSites",
-        "publishedAt": "2026-04-10T13:08:11.000Z",
-        "summary": "A federal appeals court has handed a significant win to UpCodes, a legal tech startup that publishes building codes and technical standards online, ruling that its posting of copyrighted standards likely constitutes fair",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1206,6 +1096,46 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
@@ -1220,42 +1150,32 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/58alq5y7phsmb0pfgu4o",
-        "title": "一件特有意思的事：「启发涌现」，邀你共建",
-        "url": "https://www.infoq.cn/article/58aLq5Y7pHsmb0PfgU4O?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-16T19:58:33.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/jdbsbjxvi22ipafarsfx",
-        "title": "留给开源模型的时间，就剩6个月？",
-        "url": "https://www.infoq.cn/article/jdBsbJXVi22iPafARSFx?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-16T18:51:55.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/iziwv2qia1x1q6rqvdxw",
-        "title": "“我现在干得还行，但劝你别进来！”AI 蜜月期要结束了：打工人变成“快乐的行尸走肉”",
-        "url": "https://www.infoq.cn/article/IZIwV2Qia1X1q6RQvDxW?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-16T18:47:21.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/vmel57nogyizxky5bwuj",
         "title": "中国AI编程的入口之战，Qoder先拿下半壁江山",
         "url": "https://www.infoq.cn/article/vMEl57NogYIZXKY5bwUj?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-16T18:40:36.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3898508422514565",
+        "title": "英伟达投资企业Fireworks估值达1750亿美元",
+        "url": "https://36kr.com/newsflashes/3898508422514565?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T16:20:47.000Z",
+        "summary": "英伟达投资企业Fireworks周四公布，年化营收已突破10亿美元，是去年同期的5倍；公司刚完成一轮15亿美元融资，投后估值1750亿美元。公司 CEO 乔琳透露，此前代码开发工具初创企业 Cursor 贡献了其过半收入；如今随着越来越多企业转向开源模型，公司客户结构已实现多元化。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3898501689952130",
+        "title": "上市脚步临近，Anthropic据悉计划几周内召开IPO投资者会议",
+        "url": "https://36kr.com/newsflashes/3898501689952130?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T16:11:55.000Z",
+        "summary": "7月16日，据报道，Anthropic正安排与投资者举行会面，为潜在的大规模IPO做准备。负责此次IPO的承销银行将在未来几周安排投资者与这家Claude聊天机器人开发商会面。Anthropic最早可能于10月启动IPO。Anthropic在5月完成一轮融资后估值达到9,650亿美元，首次超过OpenAI成为全球估值最高的未上市公司之一。（界面）",
         "category": "updates",
         "region": "cn"
       },
@@ -1385,7 +1305,7 @@
         "url": "https://36kr.com/p/3896586337978244?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-16T01:30:00.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。 这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。 但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，���内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。 庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动",
+        "summary": "作者｜黄楠 编辑｜袁斯来 在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。 这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。 但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。 庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动合一",
         "category": "updates",
         "region": "cn"
       },
@@ -1461,6 +1381,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3360820/giant-models-grab-headlines-some-chinese-start-ups-bet-smaller-phone-ready-ai",
+        "title": "Giant models grab headlines, but some Chinese start-ups bet on smaller phone-ready AI",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3360820/giant-models-grab-headlines-some-chinese-start-ups-bet-smaller-phone-ready-ai?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-16T13:30:06.000Z",
+        "summary": "As the global artificial intelligence race pushes the limits of scale with massive, trillion-parameter models, a parallel contest is heating up over smaller systems. Instead of relying on sprawling, power-hungry cloud da",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/article/3360822/cxmts-mega-ipo-draws-frenzy-retail-investors-deepseek-founders-fund",
         "title": "CXMT’s mega IPO draws frenzy from retail investors to DeepSeek founder’s fund",
