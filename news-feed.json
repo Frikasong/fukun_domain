@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T07:58:16.516Z",
+  "generatedAt": "2026-07-16T13:24:00.857Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/07/relativity-president-chris-brown-on-the-gavel-acquisition-opening-up-to-claude-and-the-gangbusters-growth-of-air.html",
+        "title": "Relativity President Chris Brown on the Gavel Acquisition, Opening Up to Claude, and the ‘Gangbusters’ Growth of aiR",
+        "url": "https://www.lawnext.com/2026/07/relativity-president-chris-brown-on-the-gavel-acquisition-opening-up-to-claude-and-the-gangbusters-growth-of-air.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-16T12:31:07.000Z",
+        "summary": "Last week, Relativity announced that Chris Brown, its chief product officer since 2018, had been named the company’s president, effective July 13. In the new role, Brown continues to lead Relativity’s product organizatio",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/16/harvey-buys-benchmark-asset-management-startup",
+        "title": "Harvey Buys Benchmark Asset Management Startup",
+        "url": "https://www.artificiallawyer.com/2026/07/16/harvey-buys-benchmark-asset-management-startup/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-16T12:27:18.000Z",
+        "summary": "BREAKING NEWS &#8211; Harvey has announced its acquisition of New York-based Benchmark, a decision infrastructure platform for asset management. Benchmark helps investors make better decisions ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/16/vanilla-meatballs-cooleys-flat-fees-with-david-wang",
         "title": "Vanilla, Meatballs + Cooley’s Flat Fees – with David Wang",
@@ -284,16 +304,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-07-09T06:40:34.000Z",
         "summary": "By Jennie Strickland, Clio. The feeling of a successful go-live is one most legal technology leaders will recognize. The project has hit its milestones. Training ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/08/oz-joins-pillsbury-for-top-ai-role",
-        "title": "Oz Joins Pillsbury For Top AI Role",
-        "url": "https://www.artificiallawyer.com/2026/07/08/oz-joins-pillsbury-for-top-ai-role/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-08T14:06:05.000Z",
-        "summary": "International man of mystery and legal AI guru, Oz Benamram, has joined US law firm Pillsbury as its first Chief AI Officer. It’s understood that ...",
         "category": "updates",
         "region": "na"
       },
@@ -1178,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/04/courtroom5-launches-the-law-accelerator-a-structured-program-to-help-self-represented-litigants-navigate-civil-court.html",
-        "title": "Courtroom5 Launches The LAW Accelerator, a Structured Program to Help Self-Represented Litigants Navigate Civil Court",
-        "url": "https://www.lawnext.com/2026/04/courtroom5-launches-the-law-accelerator-a-structured-program-to-help-self-represented-litigants-navigate-civil-court.html",
-        "source": "LawSites",
-        "publishedAt": "2026-04-08T14:41:18.000Z",
-        "summary": "It is estimated that more than 75 percent of civil litigants in U.S. state courts have no legal representation. In eviction proceedings, the figure exceeds 90 percent. For decades, the primary response to this explosion ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,12 +1210,152 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/qjyqtiavedd0ebd9ck3b",
-        "title": "125Tbps流量峰值背后：世界杯直播正在考验一套新的网络基础设施",
-        "url": "https://www.infoq.cn/article/QjYQtiAVeDd0ebd9CK3B?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/alwgmgvxh7q25nxggrei",
+        "title": "押注智能体时代，灵睿智芯完成数亿元融资，RISC-V 迎算力新机遇",
+        "url": "https://www.infoq.cn/article/AlwgmgVxh7Q25NxgGrEI?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-16T15:09:01.000Z",
+        "publishedAt": "2026-07-16T20:33:09.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/58alq5y7phsmb0pfgu4o",
+        "title": "一件特有意思的事：「启发涌现」，邀你共建",
+        "url": "https://www.infoq.cn/article/58aLq5Y7pHsmb0PfgU4O?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-16T19:58:33.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jdbsbjxvi22ipafarsfx",
+        "title": "留给开源模型的时间，就剩6个月？",
+        "url": "https://www.infoq.cn/article/jdBsbJXVi22iPafARSFx?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-16T18:51:55.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/iziwv2qia1x1q6rqvdxw",
+        "title": "“我现在干得还行，但劝你别进来！”AI 蜜月期要结束了：打工人变成“快乐的行尸走肉”",
+        "url": "https://www.infoq.cn/article/IZIwV2Qia1X1q6RQvDxW?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-16T18:47:21.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vmel57nogyizxky5bwuj",
+        "title": "中国AI编程的入口之战，Qoder先拿下半壁江山",
+        "url": "https://www.infoq.cn/article/vMEl57NogYIZXKY5bwUj?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-16T18:40:36.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/cklett7bn6aauruejfff",
+        "title": "谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同",
+        "url": "https://www.infoq.cn/article/ckLEtt7bN6AAURuEjfFF?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-16T16:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3898295917578112",
+        "title": "DeepSeek估值超3500亿元",
+        "url": "https://36kr.com/newsflashes/3898295917578112?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T12:31:40.000Z",
+        "summary": "开润股份16日晚间的一纸投资进展公告，意外披露了国内头部人工智能企业“深度求索”（DeepSeek）的最新市场估值。按公告数据推算，DeepSeek本轮融资后估值已攀升至约3510亿元。从接近DeepSeek处人士确认，随着本轮融资完成，该公司目前已经开始启动第二轮融资了，但是年底是否冲刺科创板，目前并未确定。 (上证报)",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3898270285235845",
+        "title": "欧盟要求谷歌开放安卓AI功能及搜索数据",
+        "url": "https://36kr.com/newsflashes/3898270285235845?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T12:30:32.000Z",
+        "summary": "欧盟委员会7月16日依据《数字市场法》（DMA）向谷歌发布两项具有约束力的技术规范措施，要求其向第三方AI助手开放Android系统关键功能，并向第三方搜索引擎共享匿名化搜索数据，以促进人工智能和搜索市场竞争。根据要求，谷歌需允许第三方AI助手调用Android关键系统功能，支持语音唤醒、跨应用执行任务等能力，与Gemini获得同等待遇；同时，谷歌需向符合条件的搜索引擎及具备搜索功能的AI聊天机器人开放匿名化搜索数据，并建立透明的数据获",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3898279922108034",
+        "title": "报告称AI收入已达临界点，开始证明数据中心投资的经济合理性",
+        "url": "https://36kr.com/newsflashes/3898279922108034?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T12:24:21.000Z",
+        "summary": "研究机构Exponential View的报告显示，来自于人工智能（AI）的收入已达临界点，表明科技公司在这一领域投入数千亿美元在经济上可能具有可持续性。报告显示，超大规模云服务商和新兴云服务商的全球AI销售收入达到250亿美元，连续第二个季度超过该行业与数据中心和芯片投资相关的估计折旧成本210亿美元。这一里程碑表明，AI公司的收入开始足以覆盖其资本开支成本，但利润空间仍然很薄。（财联社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3898269495789188",
+        "title": "英伟达发布全新人工智能模型，并扩建日本实体人工智能产业生态",
+        "url": "https://36kr.com/newsflashes/3898269495789188?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T12:18:42.000Z",
+        "summary": "英伟达于周三推出一款面向机器人与视觉智能体的全新AI模型，进一步加码日本实体人工智能赛道。这款全新模型名为Cosmos 3 Edge，属于世界模型，能够助力智能系统实时感知实体环境并完成自主导航。相较于大语言模型（LLM），世界模型可依托更多维度的数据输入完成学习。本次发布紧跟今年5月Cosmos 3基础版的上线节奏。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3898282729899911",
+        "title": "世界人工智能合作组织协定签署仪式举行",
+        "url": "https://36kr.com/newsflashes/3898282729899911?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T12:18:15.000Z",
+        "summary": "7月16日，世界人工智能合作组织协定签署仪式在上海举行。（新华社）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3898240506742405",
+        "title": "芯原股份：4月30日至7月16日新签订单64.13亿元",
+        "url": "https://36kr.com/newsflashes/3898240506742405?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T12:03:51.000Z",
+        "summary": "36氪获悉，芯原股份公告，2026年1月1日至2026年7月16日，公司新签订单合计146.53亿元，其中绝大部分为一站式芯片定制业务订单。2026年4月30日至2026年7月16日新签订单64.13亿元，延续前期强劲增长态势。前述64.13亿元新签订单中，AI算力相关订单及数据处理领域订单占比均超过90%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3898265826232199",
+        "title": "摩尔线程：预计上半年营业收入同比增长135.12%-149.37%",
+        "url": "https://36kr.com/newsflashes/3898265826232199?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T12:01:03.000Z",
+        "summary": "36氪获悉，摩尔线程公告，预计2026年上半年营业收入为16.5亿元—17.5亿元，同比增长135.12%至149.37%。报告期内，得益于人工智能产业的蓬勃发展及市场对全功能GPU的强劲需求， 叠加公司夸娥智算集群商业化加速，产品性能获得客户高度认可并实现稳定供货， 公司市场竞争优势进一步扩大，推动收入快速增长。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3898234513950597",
+        "title": "腾讯云SkillPay上线",
+        "url": "https://36kr.com/newsflashes/3898234513950597?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T11:52:06.000Z",
+        "summary": "36氪获悉，7月16日，腾讯SkillHub正式上线Agent付费技能商业化平台SkillPay，将技能分发、Agent调用与技能支付三方进行打通，打造一套安全又完善的Agent技能支付体系。目前，餐饮零售、AIGC内容制作、在线旅游、金融数据服务等领域的多家代表性企业已首批入驻SkillPay平台。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3898151587890824",
+        "title": "中专生拍出破亿爆款，影视圈边缘人靠AI改命丨深氪lite",
+        "url": "https://36kr.com/p/3898151587890824?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-16T10:07:26.000Z",
+        "summary": "“AI改了我的命” AI时代的精英叙事里，出现了草根翻身的故事。 5月，来自云南玉溪地产行业的中专生刘梓瑜，创作出了全网播放破亿的《丧尸清道夫》，被称为“国产爱死机”。他因此收到了好莱坞制作人的跨洋Offer。这部短片配有英文字幕，但一位接触过刘梓瑜的从业者表示，他的英语并不好，甚至“不会翻墙”。 一个月后，97年出生的刘梓瑜在抖音电影奇遇夜上被评为“抖音新锐未来导演”，在他的账号下，一位名为“AAA云还路**建材批发发哥”的网友评论道",
         "category": "updates",
         "region": "cn"
       },
@@ -1226,46 +1366,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-07-16T10:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3897991426508678",
-        "title": "歌尔股份在长沙成立新科技公司，注册资本100万",
-        "url": "https://36kr.com/newsflashes/3897991426508678?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-16T07:32:29.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，长沙歌尔泰克科技有限公司成立，法定代表人为张一凡，注册资本100万人民币，经营范围包括人工智能行业应用系统集成服务、货物进出口、技术进出口等，由歌尔股份全资持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3898001280419717",
-        "title": "台积电上调销售和支出展望，再添AI需求持续迹象",
-        "url": "https://36kr.com/newsflashes/3898001280419717?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-16T07:31:57.000Z",
-        "summary": "台积电大幅上调今年资本支出和营收预期，反映出该公司对全球AI基础设施需求的信心。作为英伟达和苹果公司的主要芯片制造商，该公司目前预计2026年资本支出为600亿-640亿美元，高于此前预估的520亿-560亿美元。该公司还预计，以美元计价的营收增幅将略高于40%，较此前的逾30%亦有上调。台积电之前公布，第二季度净利润同比增长77.4%，增速超过市场预期。（新浪财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3897971699713666",
-        "title": "A股三大指数集体收跌",
-        "url": "https://36kr.com/newsflashes/3897971699713666?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-16T07:01:51.000Z",
-        "summary": "36氪获悉，A股三大指数集体收跌，沪指跌1.85%，深成指跌1.97%，创业板指跌2.95%；半导体、算力硬件集体调整，兆易创新、德明利、长电科技、中国巨石等跌停，澜起科技跌超16%，寒武纪跌超5%；文化传媒、餐饮旅游涨幅居前，上海电影、儒意电影涨停，西藏旅游涨超5%。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3897932324603777",
-        "title": "智元机器人在上海成立贸易公司，注册资本500万",
-        "url": "https://36kr.com/newsflashes/3897932324603777?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-16T06:21:48.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，智元创新（上海）贸易有限公司成立，法定代表人为邓泰华，注册资本500万人民币，经营范围包括智能机器人销售、人工智能硬件销售等，由智元创新（上海）科技股份有限公司全资持股。",
         "category": "updates",
         "region": "cn"
       },
@@ -1285,7 +1385,7 @@
         "url": "https://36kr.com/p/3896586337978244?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-16T01:30:00.000Z",
-        "summary": "作者｜黄楠 编辑｜袁斯来 在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。 这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。 但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。 庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动合一",
+        "summary": "作者｜黄楠 编辑｜袁斯来 在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。 这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。 但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，���内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。 庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动",
         "category": "updates",
         "region": "cn"
       },
@@ -1358,49 +1458,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3896639400183687",
-        "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
-        "url": "https://36kr.com/p/3896639400183687?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-15T08:30:35.000Z",
-        "summary": "7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。 这个夏天，阳澄湖畔的吸引力有了新的注脚。 对AI创业者和OPC来说，阳澄湖半岛不只是一个风景秀丽的度假胜地。这里拥有50公里湖岸线、8平方公里生态内湖，也有比斯特购物村、酒店群、网球中心、康养社区、宠物友好空间等高频线下场景。更重要的是，2025年阳澄湖半岛接待游客量达到950万人次。这意味着， 这里本身就是一个足够真实、足够丰富，也足",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/pqcx0kttdljvoq3omxze",
-        "title": "Claude Artifacts 一夜打通“全网公开分享+多人编辑”，AI 交付闭环彻底杀疯了",
-        "url": "https://www.infoq.cn/article/Pqcx0ktTdljvoQ3OMxze?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-14T22:01:15.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/kyteezn46mi8l0emikuh",
-        "title": "用 Claude 重写 SQL 解析器，性能暴涨 70 倍：程序员做的不是写代码，而是搭建验证闭环",
-        "url": "https://www.infoq.cn/article/kyteEZN46mi8l0eMiKuh?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-14T16:25:41.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/9rkrylx2xwpnabo3ervj",
-        "title": "AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用",
-        "url": "https://www.infoq.cn/article/9RKrYlX2xWPNabO3ErVj?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-14T16:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/article/3360822/cxmts-mega-ipo-draws-frenzy-retail-investors-deepseek-founders-fund",
+        "title": "CXMT’s mega IPO draws frenzy from retail investors to DeepSeek founder’s fund",
+        "url": "https://www.scmp.com/tech/article/3360822/cxmts-mega-ipo-draws-frenzy-retail-investors-deepseek-founders-fund?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-16T12:00:06.000Z",
+        "summary": "As soon as ChangXin Memory Technologies opened its blockbuster initial public offering to public subscription on Thursday morning, Luo Yi applied for 86,000 shares – despite acknowledging that she knew little about the s",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3360626/ai-investor-mania-chinas-deepseek-chases-us70-billion-valuation-fresh-round",
         "title": "AI investor mania: China’s DeepSeek chases US$70 billion valuation in fresh round",
