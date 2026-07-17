@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T13:08:35.573Z",
+  "generatedAt": "2026-07-17T18:55:13.281Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/top&",
+        "title": "Top prosecutor for International Criminal Court accused of sexual misconduct",
+        "url": "https://www.abajournal.com/news/article/top&#45;prosecutor&#45;for&#45;international&#45;criminal&#45;court&#45;accused&#45;of&#45;sexual&#45;misconduct/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-17T15:20:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/big&",
+        "title": "Big Tech companies facing new wave of lawsuits over copyright and AI",
+        "url": "https://www.abajournal.com/news/article/big&#45;tech&#45;companies&#45;facing&#45;new&#45;wave&#45;of&#45;lawsuits&#45;over&#45;copyright&#45;and&#45;AI/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-17T14:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawyers&",
+        "title": "Lawyers for low-income clients strike in NYC",
+        "url": "https://www.abajournal.com/news/article/lawyers&#45;for&#45;low&#45;income&#45;clients&#45;strike&#45;in&#45;nyc/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-17T13:54:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/07/whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-ai.html",
         "title": "What’s In A Wrapper? Comparing A Hershey Bar To LegalTech AI",
@@ -135,36 +165,6 @@
         "publishedAt": "2026-07-16T07:50:39.000Z",
         "summary": "Cooley’s fund formation platform, Vanilla, is now offering a key element of its work – transfers – for a $495 flat fee. AL talked to ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/iowa&",
-        "title": "Iowa Supreme Court suspends license of lawyer accused of child sex abuse crimes in two states",
-        "url": "https://www.abajournal.com/news/article/iowa&#45;supreme&#45;court&#45;suspends&#45;license&#45;of&#45;lawyer&#45;accused&#45;of&#45;child&#45;sex&#45;abuse&#45;crimes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-15T20:27:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/extremely&",
-        "title": "&#8216;Extremely excessive&#8217; research, fees alleged in &#8216;It Ends With Us&#8217; litigation",
-        "url": "https://www.abajournal.com/news/article/extremely&#45;excessive&#45;research&#45;fees&#45;alleged&#45;in&#45;it&#45;ends&#45;with&#45;us&#45;litigation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-15T17:53:00.000Z",
-        "summary": "",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/suspended&",
-        "title": "Suspended Kentucky law professor seeks to block appointment of incoming dean",
-        "url": "https://www.abajournal.com/news/article/suspended&#45;kentucky&#45;law&#45;professor&#45;seeks&#45;to&#45;block&#45;appointment&#45;of&#45;incoming&#45;dean/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-15T17:42:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1260,16 +1260,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3899616811878279",
-        "title": "是石科技发布国产Token优化工厂“拓元”Vectron",
-        "url": "https://36kr.com/newsflashes/3899616811878279?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T10:55:21.000Z",
-        "summary": "36氪获悉，在WAIC 2026上，国内AI infra企业是石科技正式发布国产Token优化工厂“拓元（Vectron）”，该产品定位将每份算力转化为稳定高效的Token，同等算力投入下产出更多有效Token、同等显存下长上下文运行更稳。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3899556701128578",
         "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
         "url": "https://36kr.com/p/3899556701128578?f=rss",
@@ -1365,16 +1355,6 @@
         "url": "https://www.infoq.cn/article/ckLEtt7bN6AAURuEjfFF?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-16T16:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/h8iqlmqwsza0ev6kvvgm",
-        "title": "从 AI Coding 到 AI Native SDLC：企业级人机协同研发范式的演进与落地｜AICon深圳",
-        "url": "https://www.infoq.cn/article/H8IqlmqWsza0ev6KvvGm?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-16T10:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
