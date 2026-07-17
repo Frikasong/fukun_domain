@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T01:54:49.809Z",
+  "generatedAt": "2026-07-17T07:54:09.891Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/17/law-firms-dont-have-an-ai-problem-they-have-a-data-problem",
+        "title": "Law Firms Don&#8217;t Have an AI Problem, They Have a Data Problem",
+        "url": "https://www.artificiallawyer.com/2026/07/17/law-firms-dont-have-an-ai-problem-they-have-a-data-problem/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-17T06:42:14.000Z",
+        "summary": "By Kevin Walker, CEO, Centari. In recent months, several of the world&#8217;s leading law firms have announced investments in legal technology at a scale only ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/judge&",
         "title": "Judge regrets ‘entitled little snot’ comment but still fit for the bench, lawyer says",
@@ -295,16 +305,6 @@
         "publishedAt": "2026-07-09T08:12:33.000Z",
         "summary": "Darrow, the pioneering litigation intelligence platform, has undergone a restructuring with multiple roles cut. However, the Israel-based company underlined they had ‘consistent year-over-year growth’ and ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/09/why-adoption-starts-where-go-live-ends",
-        "title": "Why Adoption Starts Where Go-Live Ends",
-        "url": "https://www.artificiallawyer.com/2026/07/09/why-adoption-starts-where-go-live-ends/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-09T06:40:34.000Z",
-        "summary": "By Jennie Strickland, Clio. The feeling of a successful go-live is one most legal technology leaders will recognize. The project has hit its milestones. Training ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,12 +1210,82 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/yyqautfso3sdtw84akvy",
-        "title": "未来的软件如何摆脱平台绑定？答案可能藏在数据格式里",
-        "url": "https://www.infoq.cn/article/yyqAuTFso3SdTW84AKvY?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/zvfybmt5i742cqhwyjr4",
+        "title": "Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板",
+        "url": "https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-17T09:38:10.000Z",
+        "publishedAt": "2026-07-17T14:15:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3899411254298503",
+        "title": "国家超算互联网推出科学智能体共创计划",
+        "url": "https://36kr.com/newsflashes/3899411254298503?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-17T07:26:15.000Z",
+        "summary": "36氪获悉，7月17日，2026世界人工智能大会（WAIC）上，国家超算互联网推出的“科学计算智能体生态共创与开发者招募合作计划”备受业界关注。该计划为期半年，通过面向高校科研院所、个人开发者及企业研发团队，广泛征集智能体、科研模型、MCP工具、Skill等创新成果，以构建开放协同的科学智能生态体系。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3899403133716097",
+        "title": "瑞讯银行：科技股遭遇抛售部分是因台积电上调资本支出预期",
+        "url": "https://36kr.com/newsflashes/3899403133716097?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-17T07:17:59.000Z",
+        "summary": "瑞讯银行分析师Ipek Ozkardeskaya表示，台积电上调资本支出预期可能引发了市场担忧，并导致了科技股的抛售。她指出，尽管台积电第二季度利润创下历史新高，但股价未能获得提振，反映出市场认为芯片股当前估值已经过高。由于产能过剩风险，投资者可能对大规模的人工智能建设越来越感到不安，但科技公司仍在继续支出。下周美国大型科技公司将陆续发布财报，或有望改善近期偏弱的市场情绪。不过，有迹象表明Alphabet等公司正在进一步加码基础设施支出",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3899401384363652",
+        "title": "千问首款AI智能体耳机亮相WAIC",
+        "url": "https://36kr.com/newsflashes/3899401384363652?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-17T07:16:12.000Z",
+        "summary": "36氪获悉，2026世界人工智能大会首日，千问首款AI智能体耳机正式亮相。据了解，该耳机采用可全天候佩戴的耳夹式设计，将千问AI助手能力融入耳机，支持同声传译、会议纪要、健康记录等功能，带来更自然的AI交互体验。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3899398088509319",
+        "title": "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络",
+        "url": "https://36kr.com/p/3899398088509319?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-17T07:13:05.000Z",
+        "summary": "[中国，北京，2026年7月15日]今日，中国联通北京市分公司携华为发布全球最大规模5G-A大上行商用网络。该创新网络在北京全域重点区域实现百兆大上行网络连续覆盖，基站数超10000。经现场路测，七家受邀第三方媒体作为体验官共同见证了该网络“网络覆盖好，业务体验稳”——上行100MHz生效比83%、上行边缘差点（ “5G Capital”路上见媒体路测 在现场路测中，中国联通北京市分公司通过3.5G+2.1G协同组网支撑了大上行网络指标",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3899365808735874",
+        "title": "文远知行发布物理AI大模型WITT",
+        "url": "https://36kr.com/newsflashes/3899365808735874?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-17T06:40:01.000Z",
+        "summary": "36氪获悉，7月17日，自动驾驶科技公司文远知行WeRide正式发布自研物理AI认知基础大模型WeRide WITT。基于视觉语言大模型（VLM）能力，WITT首次引入“最小物理事实单元”概念，打通视频、图像、文本等多模态信息，将连续变化的真实场景拆解为可被识别和验证的事实单元，构建起以物理事实为核心的新一代AI理解框架。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3899341549520516",
+        "title": "阿里1688将推出AI时代B2B交易互联互通开放标准",
+        "url": "https://36kr.com/newsflashes/3899341549520516?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-17T06:15:20.000Z",
+        "summary": "7月17日，在2026世界人工智能大会上，阿里1688宣布将在本月底推出UTP通用交易协议（UniversalTradeProtocol，简称“UTP”）。随着AI越来越会做生意，B2B正在演变为A2A——买家的AI直接对接工厂的AI自动完成交易，但不同AI之间缺一套行业通用交易协议。UTP相当于为A2A时代的全球贸易建立统一的交易基础设施。UTP推出后，A2A时代的B2B交易将有一套互联互通的开放标准。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3899128277452681",
+        "title": "36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注",
+        "url": "https://36kr.com/p/3899128277452681?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-17T02:39:17.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力投入及量产测试体系建设。 模感科技成立于2026年5月，总部注册于上海，在深圳前海设有研发中心，聚焦机器人全身多模态触觉感知系统研发。公司正式成立仅一个月便获得头部美元基金及人形厂商的共同押注。 随着人形机器人逐步从展示场",
         "category": "updates",
         "region": "cn"
       },
@@ -1230,16 +1300,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3899065601099401",
-        "title": "创业板指跌超3%",
-        "url": "https://36kr.com/newsflashes/3899065601099401?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T01:34:38.000Z",
-        "summary": "36氪获悉，指数走弱，创业板指下挫跌超3%，沪指跌0.55%，深成指跌2.10%。算力硬件、半导体芯片、CRO等方向跌幅居前，沪深京三市下跌个股近2300只。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3899057634363266",
         "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
         "url": "https://36kr.com/p/3899057634363266?f=rss",
@@ -1250,72 +1310,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3899021459834500",
-        "title": "微软CEO批评Anthropic对Fable模型的内容管控过于严苛",
-        "url": "https://36kr.com/newsflashes/3899021459834500?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T01:10:04.000Z",
-        "summary": "微软CEO萨蒂亚·纳德拉周三表示，Anthropic对用户向其高端人工智能模型 Fable 提交的查询设置各类限制，这种做法毫无道理。根据纳德拉讲话的文字稿，他对微软Copilot人工智能工具的研发工程师说道：“如果你用过 Fable 就会发现，它会莫名其妙拒绝各类指令。试问你什么时候见过一款创作工具会受到如此严苛的内容管控？这完全说不通。”据一份技术支持页面显示，当终端用户向 Fable 询问大规模模型搭建相关问题或其他话题时，Ant",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3899038887643012",
-        "title": "智谱ARR达到10亿美元，半年增长15倍",
-        "url": "https://36kr.com/newsflashes/3899038887643012?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T01:07:27.000Z",
-        "summary": "36氪从多个独立信源处获悉，截至2026年7月， 智谱的ARR（年度经常性收入）已经达到10亿美元。截至发稿前，针对上述信息，智谱未回复。据知情人士，在2026年1月到7月期间，智谱的ARR增长了15倍。智谱官方曾提到，大模型的商业价值可以理解为“智能上限 × Token 消耗规模”，只要模型能力继续领先，调用量就会不断增长。财报显示，今年Q1，GLM的API 价格累计调高约83%，海外订阅价格甚至接近Claude Code，但调用量仍",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3898662052693894",
         "title": "独家 | 智谱 ARR 达到10 亿美元，半年增长 15 倍",
         "url": "https://36kr.com/p/3898662052693894?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-17T01:05:04.000Z",
         "summary": "文 | 周鑫雨 编辑 | 张雨忻 智能涌现从多个独立信源处获悉， 截至 2026 年 7 月， 智谱的 ARR（年度经常性收入）已经达到 10 亿美元 。 截至发稿前，针对上述信息，智谱未回复。 过去一年，AI Coding 和视频生成模型已经成为全球造血能力最强的 AI 赛道。 海外，Anthropic 的 Claude Code 仅发布半年，ARR 就飙升至 10 亿美金。这一现金牛产品，也将 Anthropic 的整体 估值抬高到",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3899005204399749",
-        "title": "AI板块遭遇抛售，日本芯片厂商铠侠市值较高点腰斩",
-        "url": "https://36kr.com/newsflashes/3899005204399749?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T00:50:02.000Z",
-        "summary": "受市场愈发担忧人工智能带动的存储芯片板块涨幅过高影响，日本存储芯片企业铠侠控股在登顶日本市值最高企业仅一个月后，总市值直接腰斩。周五东京股市早盘，铠侠股价最大跌幅达14%，较上月峰值累计下跌51%，市值蒸发至少29.5万亿日元（折合1817亿美元）。6月中旬，受人工智能热潮下市场对内存、数据存储需求的乐观情绪推动，铠侠股价年内涨幅超600%，市值一举超越汽车巨头丰田汽车，登顶日本企业市值榜首。如今其市值排名已滑落至日本上市公司第四位。（",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3899020578342790",
-        "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-        "url": "https://36kr.com/newsflashes/3899020578342790?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T00:48:50.000Z",
-        "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议于7月17日在上海开幕。国家主席习近平将出席大会开幕式并发表主旨讲话。（央视新闻）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3898995946538624",
-        "title": "AI手机渗透率有望加速提升，18股获5家及以上机构评级",
-        "url": "https://36kr.com/newsflashes/3898995946538624?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T00:42:40.000Z",
-        "summary": "近期，全球各头部智能手机品牌厂商均积极布局AI手机，推动AI大模型落地智能手机端侧。多家市场机构认为，AI手机市场规模有望快速扩大。从行业渗透率趋势来看，6月22日，Counterpoint Research发布的最新预测指出，2026年全球具备生成式人工智能功能的智能手机出货占比将攀升至45%，并有望在2027年突破半数关口达到52%，正式成为行业标配。AI手机概念股普遍获机构重点关注，统计显示，18股获5家及以上机构评级，占比接近总",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3898994212669061",
-        "title": "中信证券：算电协同支撑国产算力高质量扩容",
-        "url": "https://36kr.com/newsflashes/3898994212669061?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T00:38:52.000Z",
-        "summary": "36氪获悉，中信证券研报称，算电协同是国产算力扩容的关键基础设施，没有算电协同就没有国产算力的高质量发展。中国的能源体系可为国产算力提供广袤的可扩容空间，不受电网排队并网约束，每单位CAPEX可更高效地转化为实际算力。国家能源局指引2030年中国数据中心耗电量为8000亿度电，基于此指引预测中国数据中心“十五五”时期增量规模为78.5GW，对应资本开支为10.7万亿元。算电协同分为数据中心园区内外两侧，作为耦合电力与算力主要手段，预测对",
         "category": "updates",
         "region": "cn"
       },
@@ -1370,16 +1370,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3898151587890824",
-        "title": "中专生拍出破亿爆款，影视圈边缘人靠AI改命丨深氪lite",
-        "url": "https://36kr.com/p/3898151587890824?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-16T10:07:26.000Z",
-        "summary": "“AI改了我的命” AI时代的精英叙事里，出现了草根翻身的故事。 5月，来自云南玉溪地产行业的中专生刘梓瑜，创作出了全网播放破亿的《丧尸清道夫》，被称为“国产爱死机”。他因此收到了好莱坞制作人的跨洋Offer。这部短片配有英文字幕，但一位接触过刘梓瑜的从业者表示，他的英语并不好，甚至“不会翻墙”。 一个月后，97年出生的刘梓瑜在抖音电影奇遇夜上被评为“抖音新锐未来导演”，在他的账号下，一位名为“AAA云还路**建材批发发哥”的网友评论道",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/h8iqlmqwsza0ev6kvvgm",
         "title": "从 AI Coding 到 AI Native SDLC：企业级人机协同研发范式的演进与落地｜AICon深圳",
         "url": "https://www.infoq.cn/article/H8IqlmqWsza0ev6KvvGm?utm_source=rss&utm_medium=article",
@@ -1388,29 +1378,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3896639942592134",
-        "title": "大厂医疗AI战，开始“卷”减重",
-        "url": "https://36kr.com/p/3896639942592134?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-16T02:21:30.000Z",
-        "summary": "文｜胡香赟 编辑｜海若镜 互联网大厂做医疗AI，越来越偏爱“减重”场景。 近日，蚂蚁集团宣布投资薄荷健康，持股比例超28%，成为薄荷健康最大外部股东。薄荷健康成立于2008年，这家互联网医疗公司通过为用户提供饮食记录、科学减重方案等，聚拢了超2亿用户，收录160万条食物数据条目。 2021年，薄荷健康完成D轮融资，估值为20亿人民币。本次投资，据接近交易人士介绍，“从战投角度来做，蚂蚁整体投资金额为数亿人民币，价格比较合理”。关于对价，",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/t4bhljlfhybc8rnfqvxe",
-        "title": "Datadog 借助 Claude 和 Cursor 完成测试驱动式生产环境迁移",
-        "url": "https://www.infoq.cn/article/T4BhLjLfHYBC8rNfQVxe?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-15T13:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/markets/article/3360867/ai-chip-boom-lifting-hong-kongs-etp-market-new-heights-hkex-director",
+        "title": "AI, chip boom is lifting Hong Kong’s ETP market to new heights: HKEX director",
+        "url": "https://www.scmp.com/business/markets/article/3360867/ai-chip-boom-lifting-hong-kongs-etp-market-new-heights-hkex-director?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-17T03:00:41.000Z",
+        "summary": "Investor appetite for artificial intelligence and semiconductor plays will continue to drive fast growth in Hong Kong’s exchange-traded products (ETP) market in the second half of the year, strengthening the city’s wealt",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3360820/giant-models-grab-headlines-some-chinese-start-ups-bet-smaller-phone-ready-ai",
         "title": "Giant models grab headlines, but some Chinese start-ups bet on smaller phone-ready AI",
