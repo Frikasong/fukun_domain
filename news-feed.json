@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T07:54:09.891Z",
+  "generatedAt": "2026-07-17T13:08:35.573Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/07/whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-ai.html",
+        "title": "What’s In A Wrapper? Comparing A Hershey Bar To LegalTech AI",
+        "url": "https://www.lawnext.com/2026/07/whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-ai.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-17T12:56:30.000Z",
+        "summary": "Anyone can make sweets, but not everyone can make a Hershey bar. The debate over legaltech startups offering nothing more than a “thin wrapper” around an LLM begs a deeper analysis of the value of a wrapper, particularly",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
+        "title": "Lawyer says he was ‘manic’ when he bought Cape Cod mansion in danger of falling into ocean",
+        "url": "https://www.abajournal.com/news/article/lawyer&#45;says&#45;he&#45;was&#45;manic&#45;when&#45;he&#45;bought&#45;cape&#45;cod&#45;mansion&#45;in&#45;danger&#45;of&#45;falling&#45;into&#45;ocean/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-17T12:46:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/17/ai-benefits-cooleys-meatballs-opus-2",
+        "title": "AI Benefits, Cooley’s Meatballs, Opus 2 +",
+        "url": "https://www.artificiallawyer.com/2026/07/17/ai-benefits-cooleys-meatballs-opus-2/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-17T08:00:46.000Z",
+        "summary": "We start this week’s Wrap with a survey: ‘Has law firm AI use delivered cost savings for clients?’ There is a link here to share ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/17/law-firms-dont-have-an-ai-problem-they-have-a-data-problem",
         "title": "Law Firms Don&#8217;t Have an AI Problem, They Have a Data Problem",
@@ -148,16 +178,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/fake&",
-        "title": "Fake Tenn. lawyer sentenced to prison for scamming victims",
-        "url": "https://www.abajournal.com/news/article/fake&#45;lawyer&#45;in&#45;tenn&#45;sentenced&#45;to&#45;12&#45;years&#45;in&#45;prison&#45;for&#45;scamming&#45;victims/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-15T15:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html",
         "title": "Legal Decoder Introduces Aperture, A Natural Language Interface for Querying Legal Billing Data",
         "url": "https://www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html",
@@ -294,16 +314,6 @@
         "source": "LawSites",
         "publishedAt": "2026-07-09T12:32:01.000Z",
         "summary": "Two years ago, the law practice management company Smokeball gave me an exclusive preview of its plans for an AI ecosystem spanning the full client lifecycle, anchored by an AI matter assistant called Archie, which it fo",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure",
-        "title": "Darrow Cuts Roles as Part of Strategic Restructure",
-        "url": "https://www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-09T08:12:33.000Z",
-        "summary": "Darrow, the pioneering litigation intelligence platform, has undergone a restructuring with multiple roles cut. However, the Israel-based company underlined they had ‘consistent year-over-year growth’ and ...",
         "category": "tools",
         "region": "na"
       },
@@ -1168,16 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/04/centerbase-launches-ai-powered-business-intelligence-tool-that-gives-firms-citation-backed-answers-from-their-own-data.html",
-        "title": "Centerbase Launches AI-Powered Business Intelligence Tool That Gives Firms Citation-Backed Answers from Their Own Data",
-        "url": "https://www.lawnext.com/2026/04/centerbase-launches-ai-powered-business-intelligence-tool-that-gives-firms-citation-backed-answers-from-their-own-data.html",
-        "source": "LawSites",
-        "publishedAt": "2026-04-13T13:00:45.000Z",
-        "summary": "While much of the AI development in legal tech focuses on the practice of law — research, drafting, document review and the like — Centerbase, the practice management platform for midsized law firms, is releasing a new A",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,42 +1210,92 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/zvfybmt5i742cqhwyjr4",
-        "title": "Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板",
-        "url": "https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/fewlpklydjwko8rjjxkq",
+        "title": "WAIC 2026 | 混元Hy3大模型首秀，腾讯上线AI技能支付体系",
+        "url": "https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-17T14:15:00.000Z",
+        "publishedAt": "2026-07-17T21:01:17.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3899411254298503",
-        "title": "国家超算互联网推出科学智能体共创计划",
-        "url": "https://36kr.com/newsflashes/3899411254298503?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T07:26:15.000Z",
-        "summary": "36氪获悉，7月17日，2026世界人工智能大会（WAIC）上，国家超算互联网推出的“科学计算智能体生态共创与开发者招募合作计划”备受业界关注。该计划为期半年，通过面向高校科研院所、个人开发者及企业研发团队，广泛征集智能体、科研模型、MCP工具、Skill等创新成果，以构建开放协同的科学智能生态体系。",
+        "id": "InfoQ China:www.infoq.cn/article/r3satsl97gx5cuzhxodi",
+        "title": "GOAI 世界人工智能开源大赛官网上线，全球报名正式开启",
+        "url": "https://www.infoq.cn/article/r3sAtSl97Gx5CuZHXOdi?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-17T19:11:20.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3899403133716097",
-        "title": "瑞讯银行：科技股遭遇抛售部分是因台积电上调资本支出预期",
-        "url": "https://36kr.com/newsflashes/3899403133716097?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T07:17:59.000Z",
-        "summary": "瑞讯银行分析师Ipek Ozkardeskaya表示，台积电上调资本支出预期可能引发了市场担忧，并导致了科技股的抛售。她指出，尽管台积电第二季度利润创下历史新高，但股价未能获得提振，反映出市场认为芯片股当前估值已经过高。由于产能过剩风险，投资者可能对大规模的人工智能建设越来越感到不安，但科技公司仍在继续支出。下周美国大型科技公司将陆续发布财报，或有望改善近期偏弱的市场情绪。不过，有迹象表明Alphabet等公司正在进一步加码基础设施支出",
+        "id": "InfoQ China:www.infoq.cn/article/j59f7ku3djh4ex4yhqxf",
+        "title": "亚马逊云科技推出 Claude 应用网关：面向 Claude Code 与 Claude Desktop 的自托管控制平面",
+        "url": "https://www.infoq.cn/article/j59f7KU3djH4Ex4YhqxF?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-17T17:00:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3899401384363652",
-        "title": "千问首款AI智能体耳机亮相WAIC",
-        "url": "https://36kr.com/newsflashes/3899401384363652?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3899736051484552",
+        "title": "腾讯智能体集中亮相世界人工智能大会",
+        "url": "https://36kr.com/newsflashes/3899736051484552?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-17T07:16:12.000Z",
-        "summary": "36氪获悉，2026世界人工智能大会首日，千问首款AI智能体耳机正式亮相。据了解，该耳机采用可全天候佩戴的耳夹式设计，将千问AI助手能力融入耳机，支持同声传译、会议纪要、健康记录等功能，带来更自然的AI交互体验。",
+        "publishedAt": "2026-07-17T12:56:39.000Z",
+        "summary": "36氪获悉，7月17日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海启幕。连续九届参展的腾讯以“Hey，我的AI Buddy”为主题，集中展示AI在各领域进化为生产生活好搭档的跃进，与本届大会“智能伙伴 共创未来”的主题相契。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3899667446613640",
+        "title": "神玑公司首次参加世界人工智能大会，发布睿动具身智能开发平台",
+        "url": "https://36kr.com/newsflashes/3899667446613640?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-17T11:46:51.000Z",
+        "summary": "36氪获悉，7月17日，2026世界人工智能大会正式开幕，蔚来芯片子公司安徽神玑技术有限公司首次独立参展。除了展出神玑NX9031芯片和车载域控外，还在会展期间推出“睿动”具身智能开发平台、分布式智能体平台等AI新产品。目前，神玑公司已形成由NX9031X、NX9031U、NX9031C等多颗芯片构成的完整产品序列，全面覆盖智能辅助驾驶、具身智能、Agent推理三大AI赛道。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3899616811878279",
+        "title": "是石科技发布国产Token优化工厂“拓元”Vectron",
+        "url": "https://36kr.com/newsflashes/3899616811878279?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-17T10:55:21.000Z",
+        "summary": "36氪获悉，在WAIC 2026上，国内AI infra企业是石科技正式发布国产Token优化工厂“拓元（Vectron）”，该产品定位将每份算力转化为稳定高效的Token，同等算力投入下产出更多有效Token、同等显存下长上下文运行更稳。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3899556701128578",
+        "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
+        "url": "https://36kr.com/p/3899556701128578?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-17T10:51:22.000Z",
+        "summary": "7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。 森博科技董事长于林义 在WAIC现场接受36氪「氪话未来」特邀专访，围绕企业级AI、智能体落地、行业know-how与业务闭环等话题，分享了森博从营销服务公司转向AI驱动科技服务公司的实践路径。 本届WAIC以“智能伙伴，共创未来”为主题。相比过去几年行业对模型能力、参数规模和Demo效果",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3899597215745664",
+        "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
+        "url": "https://36kr.com/p/3899597215745664?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-17T10:45:58.000Z",
+        "summary": "人工智能正在进入一个新的产业周期。 过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与现实世界的重要载体。 市场率先给出了回应。据36氪研究院测算，中国具身智能市场规模已从2018年的2133亿元增长至2025年的9150亿元，2026年有望突破万亿关口。IT桔子数据显示，2026上半年具身智能融资总金额达到935亿元，较2",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3899439565325953",
+        "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
+        "url": "https://36kr.com/p/3899439565325953?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-17T07:55:26.000Z",
+        "summary": "随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。 7月16日，中科天塔星载激光通信智能产线正式在西安投产，一期规划年产能600套，公司计划到2027年将年产能提升至千套以上。 据中科天塔总经理曾伟刚介绍，此次投产的智能产线占地约2000平方米，位于西安高新区曲率引擎光子制造园，",
         "category": "updates",
         "region": "cn"
       },
@@ -1256,26 +1306,6 @@
         "source": "36Kr",
         "publishedAt": "2026-07-17T07:13:05.000Z",
         "summary": "[中国，北京，2026年7月15日]今日，中国联通北京市分公司携华为发布全球最大规模5G-A大上行商用网络。该创新网络在北京全域重点区域实现百兆大上行网络连续覆盖，基站数超10000。经现场路测，七家受邀第三方媒体作为体验官共同见证了该网络“网络覆盖好，业务体验稳”——上行100MHz生效比83%、上行边缘差点（ “5G Capital”路上见媒体路测 在现场路测中，中国联通北京市分公司通过3.5G+2.1G协同组网支撑了大上行网络指标",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3899365808735874",
-        "title": "文远知行发布物理AI大模型WITT",
-        "url": "https://36kr.com/newsflashes/3899365808735874?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T06:40:01.000Z",
-        "summary": "36氪获悉，7月17日，自动驾驶科技公司文远知行WeRide正式发布自研物理AI认知基础大模型WeRide WITT。基于视觉语言大模型（VLM）能力，WITT首次引入“最小物理事实单元”概念，打通视频、图像、文本等多模态信息，将连续变化的真实场景拆解为可被识别和验证的事实单元，构建起以物理事实为核心的新一代AI理解框架。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3899341549520516",
-        "title": "阿里1688将推出AI时代B2B交易互联互通开放标准",
-        "url": "https://36kr.com/newsflashes/3899341549520516?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T06:15:20.000Z",
-        "summary": "7月17日，在2026世界人工智能大会上，阿里1688宣布将在本月底推出UTP通用交易协议（UniversalTradeProtocol，简称“UTP”）。随着AI越来越会做生意，B2B正在演变为A2A——买家的AI直接对接工厂的AI自动完成交易，但不同AI之间缺一套行业通用交易协议。UTP相当于为A2A时代的全球贸易建立统一的交易基础设施。UTP推出后，A2A时代的B2B交易将有一套互联互通的开放标准。",
         "category": "updates",
         "region": "cn"
       },
@@ -1307,36 +1337,6 @@
         "publishedAt": "2026-07-17T01:26:47.000Z",
         "summary": "图源/企业 本文约 2400 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，人形机器人ODM方案商半醒具身（BXI Robotics）于近期完成千万元级新一轮融资，投资方为A股上市公司索辰科技。本轮资金将主要用于下一代人形机器人研发及海外市场拓展。此前，半醒具身曾于2025年完成首轮机构融资，投资方为上市公司飞荣达。 半醒具身成立于2022年，但团队早在2020年便开始了人形机器人的研发工作。公司联合创始人兼CEO陈彦20",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3898662052693894",
-        "title": "独家 | 智谱 ARR 达到10 亿美元，半年增长 15 倍",
-        "url": "https://36kr.com/p/3898662052693894?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T01:05:04.000Z",
-        "summary": "文 | 周鑫雨 编辑 | 张雨忻 智能涌现从多个独立信源处获悉， 截至 2026 年 7 月， 智谱的 ARR（年度经常性收入）已经达到 10 亿美元 。 截至发稿前，针对上述信息，智谱未回复。 过去一年，AI Coding 和视频生成模型已经成为全球造血能力最强的 AI 赛道。 海外，Anthropic 的 Claude Code 仅发布半年，ARR 就飙升至 10 亿美金。这一现金牛产品，也将 Anthropic 的整体 估值抬高到",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3898973942007684",
-        "title": "8点1氪丨长鑫科技网上发行初步中签率为0.40995452%；特朗普头像将被印上硬币，面值1美元；多家NFC鲜榨果汁生产车间被曝无水果",
-        "url": "https://36kr.com/p/3898973942007684?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T00:05:38.000Z",
-        "summary": "今日热点导览 SpaceX市值蒸发近8500亿美元 韩国将暂停新的单一股票杠杆ETF上市，以抑制市场波动 泡泡玛特创始人王宁带队探访苹果总部 亚马逊Leo与南非企业达成协议，预计明年启动卫星互联网服务 日本拟采购2.75万颗英伟达Rubin芯片，打造本土机器人AI基础模型 TOP 3大新闻 长鑫科技：网上发行初步中签率为0.40995452% 36氪获悉，长鑫科技公告，根据上交所提供的数据，本次网上发行有效申购户数为9,428,778户",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3898370289846153",
-        "title": "商汤001号员工创办AI公司：将AI角色引擎做成护城河，获种子轮融资 | 36氪首发",
-        "url": "https://36kr.com/p/3898370289846153?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T00:00:59.000Z",
-        "summary": "文丨刘士武 36氪游戏获悉， AI 角色硬件公司酷奇奇科技（Coolqq.com）已完成 数千万元种子轮融资，本轮融资由上海浦东人工智能种子基金领投，商汤科技、零以创投跟投。 云杉资本Spruce Capital担任长期独家财务顾问。 酷奇奇创办于2025年，创始人徐持衡是商汤科技001号员工，师从汤晓鸥教授，与团队共同开发的人脸识别技术，是商汤科技早期最重要的技术里程碑之一。此外， 他曾在灵宇宙担任CTO，带领AI教育产品“Ling”",
-        "category": "skills",
         "region": "cn"
       },
       {
@@ -1382,12 +1382,12 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/markets/article/3360867/ai-chip-boom-lifting-hong-kongs-etp-market-new-heights-hkex-director",
-        "title": "AI, chip boom is lifting Hong Kong’s ETP market to new heights: HKEX director",
-        "url": "https://www.scmp.com/business/markets/article/3360867/ai-chip-boom-lifting-hong-kongs-etp-market-new-heights-hkex-director?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/opinion/china-opinion/article/3360497/agentic-ai-next-battleground-chinese-brands",
+        "title": "Agentic AI: the next battleground for Chinese brands",
+        "url": "https://www.scmp.com/opinion/china-opinion/article/3360497/agentic-ai-next-battleground-chinese-brands?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-07-17T03:00:41.000Z",
-        "summary": "Investor appetite for artificial intelligence and semiconductor plays will continue to drive fast growth in Hong Kong’s exchange-traded products (ETP) market in the second half of the year, strengthening the city’s wealt",
+        "publishedAt": "2026-07-17T08:30:06.000Z",
+        "summary": "China’s companies have mastered social media marketing playbooks. Now, they must learn to win the trust of artificial intelligence (AI) agents that will increasingly shape what consumers discover, consider and ultimately",
         "category": "updates",
         "region": "cn_en"
       },
@@ -1398,16 +1398,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-07-16T13:30:06.000Z",
         "summary": "As the global artificial intelligence race pushes the limits of scale with massive, trillion-parameter models, a parallel contest is heating up over smaller systems. Instead of relying on sprawling, power-hungry cloud da",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3360822/cxmts-mega-ipo-draws-frenzy-retail-investors-deepseek-founders-fund",
-        "title": "CXMT’s mega IPO draws frenzy from retail investors to DeepSeek founder’s fund",
-        "url": "https://www.scmp.com/tech/article/3360822/cxmts-mega-ipo-draws-frenzy-retail-investors-deepseek-founders-fund?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-16T12:00:06.000Z",
-        "summary": "As soon as ChangXin Memory Technologies opened its blockbuster initial public offering to public subscription on Thursday morning, Luo Yi applied for 86,000 shares – despite acknowledging that she knew little about the s",
         "category": "updates",
         "region": "cn_en"
       },
