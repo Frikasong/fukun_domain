@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T18:55:13.281Z",
+  "generatedAt": "2026-07-18T01:44:57.876Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,76 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/secm60za0cnxiyvqo47m",
+        "title": "AI 智能体算力消耗过快，传统账单风控跟不上速度",
+        "url": "https://www.infoq.cn/article/secM60Za0CNxIYvQO47m?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-18T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/gicirestjweggsdyfvcm",
+        "title": "豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座",
+        "url": "https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-18T08:54:38.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/rgf4yg8dcjmke9ctu0ym",
+        "title": "不止于 4K，火山引擎画质增强让视频从清晰走向细腻",
+        "url": "https://www.infoq.cn/article/rgF4YG8DcjMKe9CTU0yM?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-18T08:43:19.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3900457432680067",
+        "title": "壁仞科技推出NPO光互连、分布式解耦架构超节点方案，最大实现1024卡",
+        "url": "https://36kr.com/newsflashes/3900457432680067?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-18T01:30:22.000Z",
+        "summary": "7月17日-20日，2026世界人工智能大会（WAIC）在上海召开。壁仞科技正式推出下一代NPO光互连、分布式解耦架构超节点方案，支持单个超节点1024卡Scale-up扩展。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3900456883275652",
+        "title": "商务部：王文涛部长会见印尼经济统筹部长艾尔朗加",
+        "url": "https://36kr.com/newsflashes/3900456883275652?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-18T01:09:55.000Z",
+        "summary": "7月17日，商务部部长王文涛在上海会见来华出席世界人工智能大会的印度尼西亚经济统筹部长艾尔朗加。王文涛表示，近年来，在两国元首战略引领下，中印尼经贸合作成果显著。中国连续13年保持印尼最大贸易伙伴国地位，长期保持印尼前三大外资来源国地位。中方愿与印尼方共同推动双边经贸关系持续健康发展，推进中印尼“两国双园”等重点项目建设，希望印尼方就矿产资源和产业发展提供公平、稳定、透明的政策环境。双方应加强协作，共同维护多边主义和自由贸易，维护基于规",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3900456408631171",
+        "title": "“智领新程 融创未来” 两岸人工智能系列活动亮相上海世界人工智能大会",
+        "url": "https://36kr.com/newsflashes/3900456408631171?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-18T01:09:26.000Z",
+        "summary": "今天（7月18日）上午，两岸人工智能融合发展创新论坛在上海世博中心举行。2026世界人工智能大会框架下，由海峡经济科技合作中心牵头筹办的两岸人工智能融合发展创新论坛及配套展览在上海举办，活动以“智领新程 融创未来”为主题。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3900439867147909",
+        "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
+        "url": "https://36kr.com/p/3900439867147909?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-18T00:53:35.000Z",
+        "summary": "2026 世界人工智能大会（WAIC 2026）于 7 月 17 日正式开幕。作为全球人工智能领域的顶级盛会，本届大会以“智能伙伴 共创未来”为主题。阶跃星辰董事长、千里科技董事长印奇作为特邀嘉宾出席大会开幕式并在大会主论坛（上午场）发表主题演讲《当智能体进入物理世界》。回顾 15 年 AI 创业历程，他表示，AI 创业已从小众赛道成为全球重要共识。今天的 AI 研究者和创业者既站在几代科学家持续探索的肩膀上，也受益于信息技术、移动互联",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/fewlpklydjwko8rjjxkq",
         "title": "WAIC 2026 | 混元Hy3大模型首秀，腾讯上线AI技能支付体系",
         "url": "https://www.infoq.cn/article/FeWLPKLYDjWko8rJjxKq?utm_source=rss&utm_medium=article",
@@ -1310,26 +1380,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3899081603483525",
-        "title": "36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资",
-        "url": "https://36kr.com/p/3899081603483525?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T01:52:16.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能世界模型公司日冕开物（北京日冕机器人有限公司）近期完成连续两轮种子轮融资，融资合计金额达数亿元人民币，由鼎峰科创、远图未来、百度风投、沃衍资本、武岳峰科创、万林国际共同参与投资。同时，新一轮融资也在同步交割中。 此前融资资金主要用于自研世界模型 LaMPA 的研发迭代、强化学习体系建设，以及数据闭环和产品交付能力的持续完善。 日冕开物成立于2026年3月，聚焦物理世界基础模型研发，希",
-        "category": "skills",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3899057634363266",
-        "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
-        "url": "https://36kr.com/p/3899057634363266?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-17T01:26:47.000Z",
-        "summary": "图源/企业 本文约 2400 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，人形机器人ODM方案商半醒具身（BXI Robotics）于近期完成千万元级新一轮融资，投资方为A股上市公司索辰科技。本轮资金将主要用于下一代人形机器人研发及海外市场拓展。此前，半醒具身曾于2025年完成首轮机构融资，投资方为上市公司飞荣达。 半醒具身成立于2022年，但团队早在2020年便开始了人形机器人的研发工作。公司联合创始人兼CEO陈彦20",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/alwgmgvxh7q25nxggrei",
         "title": "押注智能体时代，灵睿智芯完成数亿元融资，RISC-V 迎算力新机遇",
         "url": "https://www.infoq.cn/article/AlwgmgVxh7Q25NxgGrEI?utm_source=rss&utm_medium=article",
@@ -1345,16 +1395,6 @@
         "url": "https://www.infoq.cn/article/vMEl57NogYIZXKY5bwUj?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-16T18:40:36.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/cklett7bn6aauruejfff",
-        "title": "谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同",
-        "url": "https://www.infoq.cn/article/ckLEtt7bN6AAURuEjfFF?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-16T16:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
