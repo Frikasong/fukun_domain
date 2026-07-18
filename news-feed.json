@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T12:55:18.782Z",
+  "generatedAt": "2026-07-18T18:51:02.922Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -54,6 +54,26 @@
         "source": "ABA Journal",
         "publishedAt": "2026-07-17T12:46:00.000Z",
         "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/17/ai-benefits-cooleys-meatballs-opus-2",
+        "title": "AI Benefits, Cooley’s Meatballs, Opus 2 +",
+        "url": "https://www.artificiallawyer.com/2026/07/17/ai-benefits-cooleys-meatballs-opus-2/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-17T08:00:46.000Z",
+        "summary": "We start this week’s Wrap with a survey: ‘Has law firm AI use delivered cost savings for clients?’ There is a link here to share ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/17/law-firms-dont-have-an-ai-problem-they-have-a-data-problem",
+        "title": "Law Firms Don&#8217;t Have an AI Problem, They Have a Data Problem",
+        "url": "https://www.artificiallawyer.com/2026/07/17/law-firms-dont-have-an-ai-problem-they-have-a-data-problem/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-17T06:42:14.000Z",
+        "summary": "By Kevin Walker, CEO, Centari. In recent months, several of the world&#8217;s leading law firms have announced investments in legal technology at a scale only ...",
         "category": "updates",
         "region": "na"
       },
@@ -128,6 +148,26 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/16/harvey-buys-benchmark-asset-management-startup",
+        "title": "Harvey Buys Benchmark Asset Management Startup",
+        "url": "https://www.artificiallawyer.com/2026/07/16/harvey-buys-benchmark-asset-management-startup/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-16T12:27:18.000Z",
+        "summary": "Harvey has announced its acquisition of New York-based Benchmark, a decision infrastructure platform for asset management. Benchmark helps investors make better decisions by capturing their ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/16/vanilla-meatballs-cooleys-flat-fees-with-david-wang",
+        "title": "Vanilla, Meatballs + Cooley’s Flat Fees – with David Wang",
+        "url": "https://www.artificiallawyer.com/2026/07/16/vanilla-meatballs-cooleys-flat-fees-with-david-wang/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-16T07:50:39.000Z",
+        "summary": "Cooley’s fund formation platform, Vanilla, is now offering a key element of its work – transfers – for a $495 flat fee. AL talked to ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/07/i-couldnt-get-it-out-of-my-mind-chris-cartrett-on-why-he-is-leaving-aderant-and-legal-tech.html",
         "title": "‘I Couldn’t Get It Out of My Mind’: Chris Cartrett on Why He Is Leaving Aderant and Legal Tech",
         "url": "https://www.lawnext.com/2026/07/i-couldnt-get-it-out-of-my-mind-chris-cartrett-on-why-he-is-leaving-aderant-and-legal-tech.html",
@@ -155,6 +195,46 @@
         "publishedAt": "2026-07-15T12:01:14.000Z",
         "summary": "Litera, one of the most broadly deployed technology companies in the legal industry, is today unveiling a company-wide relaunch that positions it as the legal AI platform unifying the practice and business of law through",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/litera-relaunches-with-one-agent-to-rule-the-platform",
+        "title": "Litera ‘Relaunches’ With One Agent to Rule the Platform",
+        "url": "https://www.artificiallawyer.com/2026/07/15/litera-relaunches-with-one-agent-to-rule-the-platform/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-15T12:00:03.000Z",
+        "summary": "Legal tech legend, Litera, has ‘relaunched’ itself with its Lito agent as the principal point of focus, offering the ability to tap both its business ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal",
+        "title": "Meet Amazon Quick For Legal",
+        "url": "https://www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-15T09:57:59.000Z",
+        "summary": "Just when you wondered who else among the tech giants would cover legal, it turns out that the ‘Everything Store’ has an ‘Amazon Quick For ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/legatics-new-mcp-server-connects-your-ai-tools",
+        "title": "Legatics&#8217; New MCP Server Connects Your AI Tools",
+        "url": "https://www.artificiallawyer.com/2026/07/15/legatics-new-mcp-server-connects-your-ai-tools/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-15T08:55:56.000Z",
+        "summary": "Legatics, the well-known transaction management platform, has launched a Model Context Protocol (MCP) server. This will allow your ‘AI assistants or agents to connect directly ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/the-innovators-part-two",
+        "title": "‘The Innovators’ – Part Two",
+        "url": "https://www.artificiallawyer.com/2026/07/15/the-innovators-part-two/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-15T06:46:17.000Z",
+        "summary": "Katie Downer moved through the spacious marble lobby of Smyth &#38; Marmalade with automatic motions. How many times had she traced this path? Through the ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -194,6 +274,26 @@
         "source": "LawSites",
         "publishedAt": "2026-07-10T13:06:29.000Z",
         "summary": "The University of Chicago Law School yesterday released a comprehensive AI Strategy Statement that will reshape how it teaches first-year students, how it assesses upper-level writing, and how it integrates AI tools acro",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/10/al-is-on-hols-back-july-15-wrap",
+        "title": "AL Is On Hols, Back July 15 + Wrap",
+        "url": "https://www.artificiallawyer.com/2026/07/10/al-is-on-hols-back-july-15-wrap/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-10T07:23:02.000Z",
+        "summary": "Artificial Lawyer is on a short holiday and back on Wednesday, July 15. And now for this week’s Wrap, which starts with our news summary. ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/09/crimson-midpage-besavvy-join-new-fuse-cohort",
+        "title": "Crimson, Midpage + BeSavvy Join New Fuse Cohort",
+        "url": "https://www.artificiallawyer.com/2026/07/09/crimson-midpage-besavvy-join-new-fuse-cohort/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-09T15:26:37.000Z",
+        "summary": "A&#38;O Shearman’s Fuse incubator has announced its new cohort of legal tech companies, along with some digital asset startups (not listed here). They include Crimson, ...",
         "category": "updates",
         "region": "na"
       },
@@ -1105,36 +1205,6 @@
         "publishedAt": "2024-05-06T00:00:00.000Z",
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
         "region": "na"
       }
     ],
