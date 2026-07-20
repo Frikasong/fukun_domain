@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T08:43:09.881Z",
+  "generatedAt": "2026-07-20T13:50:23.570Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/20/clifford-chance-launches-ai-km-platform-with-microsoft-epiq",
+        "title": "Clifford Chance Launches AI KM Platform With Microsoft + Epiq",
+        "url": "https://www.artificiallawyer.com/2026/07/20/clifford-chance-launches-ai-km-platform-with-microsoft-epiq/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-20T10:25:03.000Z",
+        "summary": "Clifford Chance has launched an AI-enabled KM platform, developed in partnership with Microsoft and Epiq Advisory. It continues a deep relationship with the tech giant. ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/20/new-associate-hiring-is-flat-is-ai-the-cause",
+        "title": "New Associate Hiring is Flat – Is AI The Cause?",
+        "url": "https://www.artificiallawyer.com/2026/07/20/new-associate-hiring-is-flat-is-ai-the-cause/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-20T06:49:12.000Z",
+        "summary": "New data shows that entry-level associate hiring in the US has been flat for four years – despite overall legal market growth. Is this the ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/top&",
         "title": "Top prosecutor for International Criminal Court accused of sexual misconduct",
@@ -54,6 +74,26 @@
         "source": "ABA Journal",
         "publishedAt": "2026-07-17T12:46:00.000Z",
         "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/17/ai-benefits-cooleys-meatballs-opus-2",
+        "title": "AI Benefits, Cooley’s Meatballs, Opus 2 +",
+        "url": "https://www.artificiallawyer.com/2026/07/17/ai-benefits-cooleys-meatballs-opus-2/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-17T08:00:46.000Z",
+        "summary": "We start this week’s Wrap with a survey: ‘Has law firm AI use delivered cost savings for clients?’ There is a link here to share ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/17/law-firms-dont-have-an-ai-problem-they-have-a-data-problem",
+        "title": "Law Firms Don&#8217;t Have an AI Problem, They Have a Data Problem",
+        "url": "https://www.artificiallawyer.com/2026/07/17/law-firms-dont-have-an-ai-problem-they-have-a-data-problem/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-17T06:42:14.000Z",
+        "summary": "By Kevin Walker, CEO, Centari. In recent months, several of the world&#8217;s leading law firms have announced investments in legal technology at a scale only ...",
         "category": "updates",
         "region": "na"
       },
@@ -128,6 +168,26 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/16/harvey-buys-benchmark-asset-management-startup",
+        "title": "Harvey Buys Benchmark Asset Management Startup",
+        "url": "https://www.artificiallawyer.com/2026/07/16/harvey-buys-benchmark-asset-management-startup/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-16T12:27:18.000Z",
+        "summary": "Harvey has announced its acquisition of New York-based Benchmark, a decision infrastructure platform for asset management. Benchmark helps investors make better decisions by capturing their ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/16/vanilla-meatballs-cooleys-flat-fees-with-david-wang",
+        "title": "Vanilla, Meatballs + Cooley’s Flat Fees – with David Wang",
+        "url": "https://www.artificiallawyer.com/2026/07/16/vanilla-meatballs-cooleys-flat-fees-with-david-wang/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-16T07:50:39.000Z",
+        "summary": "Cooley’s fund formation platform, Vanilla, is now offering a key element of its work – transfers – for a $495 flat fee. AL talked to ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/07/i-couldnt-get-it-out-of-my-mind-chris-cartrett-on-why-he-is-leaving-aderant-and-legal-tech.html",
         "title": "‘I Couldn’t Get It Out of My Mind’: Chris Cartrett on Why He Is Leaving Aderant and Legal Tech",
         "url": "https://www.lawnext.com/2026/07/i-couldnt-get-it-out-of-my-mind-chris-cartrett-on-why-he-is-leaving-aderant-and-legal-tech.html",
@@ -155,6 +215,46 @@
         "publishedAt": "2026-07-15T12:01:14.000Z",
         "summary": "Litera, one of the most broadly deployed technology companies in the legal industry, is today unveiling a company-wide relaunch that positions it as the legal AI platform unifying the practice and business of law through",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/litera-relaunches-with-one-agent-to-rule-the-platform",
+        "title": "Litera ‘Relaunches’ With One Agent to Rule the Platform",
+        "url": "https://www.artificiallawyer.com/2026/07/15/litera-relaunches-with-one-agent-to-rule-the-platform/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-15T12:00:03.000Z",
+        "summary": "Legal tech legend, Litera, has ‘relaunched’ itself with its Lito agent as the principal point of focus, offering the ability to tap both its business ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal",
+        "title": "Meet Amazon Quick For Legal",
+        "url": "https://www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-15T09:57:59.000Z",
+        "summary": "Just when you wondered who else among the tech giants would cover legal, it turns out that the ‘Everything Store’ has an ‘Amazon Quick For ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/legatics-new-mcp-server-connects-your-ai-tools",
+        "title": "Legatics&#8217; New MCP Server Connects Your AI Tools",
+        "url": "https://www.artificiallawyer.com/2026/07/15/legatics-new-mcp-server-connects-your-ai-tools/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-15T08:55:56.000Z",
+        "summary": "Legatics, the well-known transaction management platform, has launched a Model Context Protocol (MCP) server. This will allow your ‘AI assistants or agents to connect directly ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/the-innovators-part-two",
+        "title": "‘The Innovators’ – Part Two",
+        "url": "https://www.artificiallawyer.com/2026/07/15/the-innovators-part-two/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-15T06:46:17.000Z",
+        "summary": "Katie Downer moved through the spacious marble lobby of Smyth &#38; Marmalade with automatic motions. How many times had she traced this path? Through the ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1106,55 +1206,25 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/bkhkorqypuin672g20hi",
-        "title": "亚马逊云科技概要介绍了某客户如何将 Lambda 函数扩展至 100 万个",
-        "url": "https://www.infoq.cn/article/bkhkOrQYPuIN672g20hi?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/jc1vll7xctqylopcwike",
+        "title": "神州数码发布企业AI流程系统与智算产品，尝试打通应用和算力两端",
+        "url": "https://www.infoq.cn/article/jc1vll7xctqYlopcwIKe?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-20T15:17:00.000Z",
+        "publishedAt": "2026-07-20T19:59:20.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/xszussr8prtcjzobwkya",
-        "title": "专访孙元浩：乘坐星环号，把数据库“移民火星”的人",
-        "url": "https://www.infoq.cn/article/xsZUSSR8PRtcjZobwkYA?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/01agug1yrgxl0bpmfzps",
+        "title": "国产GPU分水岭时刻：当别家还在卷参数，摩尔线程早已训练出了世界模型",
+        "url": "https://www.infoq.cn/article/01aguG1Yrgxl0bpmfZps?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-20T15:07:06.000Z",
+        "publishedAt": "2026-07-20T19:51:30.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1170,72 +1240,82 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/kinavcgojjavxvjgzpyk",
-        "title": "业务研发中的 Loop Engineering：基于事前-事中-事后架构的实践｜AICon深圳",
-        "url": "https://www.infoq.cn/article/kiNAVcGoJjaVXvJGZpyK?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-20T14:44:26.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mbmdgfkumj9ocaj2icuq",
-        "title": "企业级 Harness Engineering 实践：运营、数据、Coding 与办公智能体工程化落地｜AICon深圳",
-        "url": "https://www.infoq.cn/article/mbMDGFkUMj9oCaj2ICUq?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-20T14:36:23.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/cm9jyejffv4toujabq80",
-        "title": "GMI Cloud联合InfoQ、10+企业重磅发布《中国AI产业核心要素出海发展白皮书》，汇聚 AI 产业共识，盘点出海方法论",
-        "url": "https://www.infoq.cn/article/cm9JyEjFfV4toUJabQ80?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-20T14:30:40.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qgqoeips5mb1fehbptpp",
-        "title": "AI 红利分层，“底座夯实”的团队获益最高——《DevData 2026 研发效能基准报告》正式发布！",
-        "url": "https://www.infoq.cn/article/qgQoeipS5mb1feHBpTpp?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-20T14:27:17.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3903711382619782",
-        "title": "韩国股市暴跌至三个月低点，投资者纷纷抛售芯片股",
-        "url": "https://36kr.com/newsflashes/3903711382619782?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3903968879511169",
+        "title": "曝零一万物启动新一轮融资，拟2027年申请IPO",
+        "url": "https://36kr.com/newsflashes/3903968879511169?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-20T08:27:17.000Z",
-        "summary": "韩国股市周一暴跌，跌幅超过4%，收于4月底以来最低水平，投资者纷纷撤出人工智能驱动的押注，加速抛售潮，导致该市场市值在短短一个月内蒸发逾四分之一。存储芯片制造商的大幅回调凸显市场对SK海力士和三星电子的日益依赖，同时暴露出投资者对由这两家芯片制造商高度杠杆化押注推动的涨势日益不安。散户投资者遭受重创，因为通过单只股票杠杆基金的便捷渠道引发了举债投资热潮。（新浪财经）",
+        "publishedAt": "2026-07-20T12:45:20.000Z",
+        "summary": "据报道，由国际知名人工智能专家李开复创立的零一万物正推进融资计划，并计划在2027年进行申请首次公开募股（IPO）。据悉，李开复计划在零一万物首次公布年度业绩前后完成这轮融资，但未透露融资目标金额和潜在投资者情况。目前，零一万物正逐步解除其离岸控股架构，这是顺利进行海外上市的先决条件。对于融资及相关IPO计划，截至发稿零一万物方面暂无回应。（新浪科技）",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3903675300104066",
-        "title": "每刻深思携空间光计算方案亮相WAIC，并与科华数据达成战略合作",
-        "url": "https://36kr.com/newsflashes/3903675300104066?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3903949369329280",
+        "title": "光轮智能与西门子正式达成合作",
+        "url": "https://36kr.com/newsflashes/3903949369329280?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-20T07:55:30.000Z",
-        "summary": "36氪获悉，2026世界人工智能大会（WAIC 2026）期间，每刻深思创始人、董事长邹天琦携核心团队参会，并与阶跃联合参展并展出空间光计算核心技术成果。现场亮相的空间光计算芯片+大模型全栈融合方案，依托阶跃STEP 3.7大模型完成实景推理加速演示，可有效降本提效、优化算力运行表现。展会期间，每刻深思与科华数据达成“算电冷协同”战略合作，聚焦UPS、液冷、异构算力协同等领域深化合作，推进绿色算力方案规模化落地。",
+        "publishedAt": "2026-07-20T12:30:36.000Z",
+        "summary": "36氪获悉，近日，在WAIC 2026现场，光轮智能与西门子正式达成合作。双方将依托光轮智能的三位一体全栈自研仿真平台SimFoundry，推动工业软件中长期积累的物理模型、工程参数和工艺知识，转化为机器人可以持续调用的仿真能力，并进一步贯通训练、评测与真实部署，为机器人进入复杂工业场景提供全栈物理AI基础设施支撑。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3903651458516869",
-        "title": "奕境X9首台量产车成都下线",
-        "url": "https://36kr.com/newsflashes/3903651458516869?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3903898092210052",
+        "title": "大族激光：2026年半年度净利润同比增长163.47%",
+        "url": "https://36kr.com/newsflashes/3903898092210052?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-20T07:27:32.000Z",
-        "summary": "36氪获悉，7月20日，奕境X9首台量产车在成都下线，即将进入上市交付阶段。作为奕境汽车首款战略车型，奕境X9定位“新一代家庭旗舰”。据介绍，奕境X9将会首批搭载鸿蒙座舱HarmonySpace 6，首发华为双17.2英寸蝶羽双联屏，配备HUAWEI XSCENE车载激光投影，搭配小艺智能体、舱内AI多模态感知系统AMS等新一代技术。",
+        "publishedAt": "2026-07-20T11:36:28.000Z",
+        "summary": "36氪获悉，大族激光公告，公司发布2026年半年度业绩快报，实现营业收入134.13亿元，同比增长76.19%；归属于上市公司股东的净利润12.86亿元，同比增长163.47%。业绩增长主要系PCB专用设备、消费电子设备、锂电及半导体设备等多个业务板块订单及营收同比大幅增长。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3903710346790535",
+        "title": "氪星晚报｜SpaceX将“星舰”第13次试飞推迟至7月23日；马斯克称特斯拉FSD会模仿驾驶风格；我国人形机器人整机产品超全球半数",
+        "url": "https://36kr.com/p/3903710346790535?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-20T10:22:28.000Z",
+        "summary": "大公司： 摩根士丹利成为华尔街AI债务交易头号银行 摩根士丹利已崛起为华尔街构建人工智能（AI）繁荣背后融资架构的主导力量，设计了新的债务和股权融资模式，为数据中心的大规模建设输送数百亿美元资金。据业内高管称，自去年以来，该行已成为主导顾问，牵头了规模最大、最具创新性的AI基础设施融资交易。 三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍 据报道，三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍。 ",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3903687507904387",
+        "title": "WAIC上，AI开始接管人类的欲望",
+        "url": "https://36kr.com/p/3903687507904387?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-20T10:06:08.000Z",
+        "summary": "24.8万的仿生人形机器人，“比彩礼都贵！” 撰文 | 刘思洁 编辑 | 张薇 在2026年的世界人工智能大会（WAIC）上，大模型、算力与机器人占据着核心展区的宏大叙事。但在场馆地下一层的创新展区里，AI正在撕开含蓄的面具，向下接管人类最隐秘的本能：情欲、控制欲、对失去的遗憾、对孤独的恐惧，以及对未来的迷茫困惑。 一只套着塑料壳的蛋形玩偶摆在桌子上，和人交互到一定亲密度后，它会“破壳而出”，一个毛茸茸的桌面宠物就此诞生；一个酷似Lab",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3903761449617027",
+        "title": "硬氪首发 | 一台80cm高的毛绒人形机器人，配一套面向未来的自研OS系统",
+        "url": "https://36kr.com/p/3903761449617027?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-20T09:12:42.000Z",
+        "summary": "一台80cm高的毛绒人形机器人，可以承载多少想象力？ “它虽然没有完全像人，但拥有全套的传感器，可以跟你交互、分析你的表情，去看你是高兴还是低落。只要算力可以满足，它可以提供各种各样的东西，软件能增量开发的东西是有无限想象力的。” 青心意创CTO曾俊告诉硬氪。他所谈论的是Amoo——青心意创推出的首款智能机器人产品Amoo，身高80cm，拟人双足，无棱角毛绒全包覆。 曾俊曾担任全球自动驾驶巨头Cruise的核心模型科学家，带领团队取得多",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3903756643255940",
+        "title": "硬氪首发 | 清华系量子计算企业获君联资本领投数亿融资，打破原子捕获世界纪录",
+        "url": "https://36kr.com/p/3903756643255940?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-20T09:08:15.000Z",
+        "summary": "硬氪获悉，量子计算企业两仪万象（北京）科技有限公司（以下简称“两仪万象”）近日完成数亿元A+轮融资，由君联资本领投，基石创投、上海科创、中信建投投资、海棠基金跟投，老股东顺为资本和科大讯飞追加投资。此轮资金将用于技术研发、团队扩充和整机搭建。 两仪万象成立于2024年，孵化自清华大学原子量子计算研究团队，该团队自2000年前后开始冷原子物理研究。 两仪万象公司与清华大学原子量子计算科研团队联合成立了“冷原子量子计算北京市重点实验室”。由",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3903739699005058",
+        "title": "硬氪首发 | 离子束装备商获超亿元融资，已批量导入光通信、核聚变、量子计算头部客户",
+        "url": "https://36kr.com/p/3903739699005058?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-20T08:51:01.000Z",
+        "summary": "硬氪获悉，中山市博顿光电科技有限公司（以下简称“博顿光电”）完成超亿元人民币B+轮融资，本轮投资方为毅达资本、中信建投资本、达武创投、友谊时光、南控基金，IO资本担任独家财务顾问。 该轮资金将用来引进高端人才、研发新产品，以及针对已经出现爆发趋势的重点行业领域，加快在综合解决方案、市场推广以及产能建设方面的投入速度。 博顿光电成立于2016年，是国家级“专精特新”小巨人企业。公司专注于全国产自主可控离子源和离子束超精密工艺设备， 是业内",
         "category": "updates",
         "region": "cn"
       },
@@ -1280,61 +1360,11 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3899612612494976",
-        "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
-        "url": "https://36kr.com/p/3899612612494976?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-20T01:00:00.000Z",
-        "summary": "36氪获悉，红熊AI今日宣布完成数亿元人民币A+轮融资，投后估值接近30亿元人民币。本轮融资由浙江九纬私募基金、嘉兴彰元创业投资与老股东格睿丰联合投资。这是红熊AI在短短15个月内完成的第6轮融资。 据了解，本轮融资资金将主要用于持续深化AI记忆科学的类人大脑基础研究、加速OpenBear通用大模型与MemoryBear记忆科学系统的深度融合，以及扩大智能客服、智能营销、ChatBI与智能教育四大核心应用场景的市场覆盖。 在经历了大模型",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3903220264404608",
-        "title": "8点1氪丨长鑫科技中签号出炉：共约770.22万个；西班牙1-0战胜阿根廷，夺得本届世界杯冠军；月之暗面有望最快6个月内赴港上市",
-        "url": "https://36kr.com/p/3903220264404608?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-20T00:05:13.000Z",
-        "summary": "今日热点导览 任泽平团队回应VIP群聊解散 市场监管总局发布《个体工商户信用信息应用指南》 “工业维生素”价格暴涨，钼铁一天跳涨1500元 黄仁勋皮夹克拍出96万美元天价 韩国承诺放宽韩元获取渠道，力争实现“自由兑换货币”目标 TOP3大新闻 长鑫科技中签号出炉：共约770.22万个 36氪获悉，长鑫科技披露首次公开发行股票网上中签结果，中签号码共有7702207个，每个中签号码只能认购500股长鑫科技A股股票。 长鑫科技中签号出炉 西",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/iioj2qhxbxch2ozgqcj6",
         "title": "边端AI不只缺算力：安谋科技重做CPU、NPU、VPU与AI操作系统",
         "url": "https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-19T11:09:02.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/lcmzqxpwhifvqburis6f",
-        "title": "三款AI推理芯片+超节点异构集群，云天励飞公布未来算力蓝图",
-        "url": "https://www.infoq.cn/article/LCMZqxPWHIFvQbuRIS6f?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-19T10:52:02.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3902428274427525",
-        "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
-        "url": "https://36kr.com/p/3902428274427525?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-19T10:35:30.000Z",
-        "summary": "在2026世界人工智能大会（WAIC 2026）上，安顿健康以两项首发引发广泛关注：我国首个生命预警表标准，以及行业首个七诊合参中医机器人——安顿中医机器人。 WAIC现场图片 两项首发背后，是一套从感知层到算法层再到输出层的完整技术体系。 核心引擎：天回·AI脉诊算法与三重置信体系 安顿双核首发的技术底座，是一套名为\"天回·AI脉诊算法\"的自研核心技术。该算法首次将中医24种脉象细分为120余个可量化的特征点，实现了中医脉诊从经验判断",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/etghbwbhxum6auvu45ab",
-        "title": "从大模型到 AI 执行系统：构建企业级可控 Agent 体系｜AICon深圳",
-        "url": "https://www.infoq.cn/article/eTGhBWBHXum6AuVU45Ab?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-19T10:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1348,16 +1378,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-07-17T08:30:06.000Z",
         "summary": "China’s companies have mastered social media marketing playbooks. Now, they must learn to win the trust of artificial intelligence (AI) agents that will increasingly shape what consumers discover, consider and ultimately",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3360626/ai-investor-mania-chinas-deepseek-chases-us70-billion-valuation-fresh-round",
-        "title": "AI investor mania: China’s DeepSeek chases US$70 billion valuation in fresh round",
-        "url": "https://www.scmp.com/tech/big-tech/article/3360626/ai-investor-mania-chinas-deepseek-chases-us70-billion-valuation-fresh-round?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-15T06:11:30.000Z",
-        "summary": "Chinese frontier artificial intelligence start-up DeepSeek is in talks with investors to raise a new financing round at around US$70 billion pre-investment valuation, shortly after closing a landmark first round, reflect",
         "category": "updates",
         "region": "cn_en"
       }
