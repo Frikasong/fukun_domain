@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T13:19:56.241Z",
+  "generatedAt": "2026-07-21T19:05:48.744Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,66 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/trump&",
+        "title": "Trump calls for review of scientific manual used by judges",
+        "url": "https://www.abajournal.com/news/article/trump&#45;calls&#45;for&#45;review&#45;related&#45;to&#45;scientific&#45;manual&#45;used&#45;by&#45;judges/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-21T16:53:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/latham&",
+        "title": "Latham & Watkins lawyer appears in new HBO comedy series and says experience was &#8216;pretty good&#8217;",
+        "url": "https://www.abajournal.com/web/article/latham&#45;watkins&#45;lawyer&#45;appears&#45;on&#45;new&#45;hbo&#45;comedy&#45;series&#45;and&#45;says&#45;the&#45;experience&#45;was&#45;pretty&#45;good/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-21T16:13:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/southern&",
+        "title": "Pastor engaged in unauthorized law practice, California state bar finds",
+        "url": "https://www.abajournal.com/news/article/southern&#45;california&#45;pastor&#45;accused&#45;of&#45;unauthorized&#45;practice&#45;of&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-21T15:30:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/21/box-targets-legal-with-agentic-control-system",
+        "title": "Box Targets Legal With Agentic Control System",
+        "url": "https://www.artificiallawyer.com/2026/07/21/box-targets-legal-with-agentic-control-system/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-21T15:00:07.000Z",
+        "summary": "Box, which has evolved from a cloud storage business into an Intelligent Content Management (ICM) platform, is targeting the legal &#8211; and other regulated sectors ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/attorneys&",
+        "title": "Attorneys begin filing lawsuits over contaminated lettuce linked to outbreak of cyclospora",
+        "url": "https://www.abajournal.com/news/article/attorneys&#45;begin&#45;filing&#45;lawsuits&#45;over&#45;contaminated&#45;lettuce/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-21T14:39:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/new&",
+        "title": "New Jersey introduces &#8216;first-of-its-kind&#8217; AI tool for public defenders",
+        "url": "https://www.abajournal.com/news/article/new&#45;jersey&#45;introduces&#45;first&#45;of&#45;its&#45;kind&#45;ai&#45;tool&#45;for&#45;public&#45;defenders/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-21T14:20:00.000Z",
+        "summary": "",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/21/walk-through-ebrevia-draftpro-contract-ai",
         "title": "Walk Through: eBrevia – DraftPro, Contract AI",
@@ -88,26 +148,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/attorney&",
-        "title": "Attorney-client privilege doesn’t extend to party&#8217;s mother, Arizona Supreme Court says",
-        "url": "https://www.abajournal.com/news/article/attorney&#45;client&#45;privilege&#45;doesnt&#45;extend&#45;to&#45;clients&#45;mom&#45;says&#45;arizona&#45;supreme&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-20T14:40:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/san&",
-        "title": "Apple, Google benefit from harmful &#8216;nudify&#8217; apps, San Francisco argues",
-        "url": "https://www.abajournal.com/news/article/san&#45;francisco&#45;argues&#45;apple&#45;and&#45;google&#45;are&#45;benefiting&#45;from&#45;harmful&#45;nudify&#45;apps/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-20T14:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/20/clifford-chance-launches-ai-km-platform-with-microsoft-epiq",
         "title": "Clifford Chance Launches AI KM Platform With Microsoft + Epiq",
         "url": "https://www.artificiallawyer.com/2026/07/20/clifford-chance-launches-ai-km-platform-with-microsoft-epiq/",
@@ -124,36 +164,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-07-20T06:49:12.000Z",
         "summary": "New data shows that entry-level associate hiring in the US has been flat for four years – despite overall legal market growth. Is this the ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/top&",
-        "title": "Top prosecutor for International Criminal Court accused of sexual misconduct",
-        "url": "https://www.abajournal.com/news/article/top&#45;prosecutor&#45;for&#45;international&#45;criminal&#45;court&#45;accused&#45;of&#45;sexual&#45;misconduct/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-17T15:20:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/big&",
-        "title": "Big Tech companies facing new wave of lawsuits over copyright and AI",
-        "url": "https://www.abajournal.com/news/article/big&#45;tech&#45;companies&#45;facing&#45;new&#45;wave&#45;of&#45;lawsuits&#45;over&#45;copyright&#45;and&#45;AI/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-17T14:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/lawyers&",
-        "title": "Lawyers for low-income clients strike in NYC",
-        "url": "https://www.abajournal.com/news/article/lawyers&#45;for&#45;low&#45;income&#45;clients&#45;strike&#45;in&#45;nyc/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-17T13:54:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -255,16 +265,6 @@
         "publishedAt": "2026-07-15T12:00:03.000Z",
         "summary": "Legal tech legend, Litera, has ‘relaunched’ itself with its Lito agent as the principal point of focus, offering the ability to tap both its business ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal",
-        "title": "Meet Amazon Quick For Legal",
-        "url": "https://www.artificiallawyer.com/2026/07/15/meet-amazon-quick-for-legal/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-15T09:57:59.000Z",
-        "summary": "Just when you wondered who else among the tech giants would cover legal, it turns out that the ‘Everything Store’ has an ‘Amazon Quick For ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1318,39 +1318,9 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zg1ipdqr8pjjhuqe7gbf",
-        "title": "一句话上线 AI Agent 应用：火山 Supabase + IGA Pages 全栈部署实践",
-        "url": "https://www.infoq.cn/article/ZG1ipDQr8pjjHUQe7gbF?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-20T14:47:38.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/companies/article/3361377/zhongji-innolight-aims-hong-kongs-biggest-ipo-7-years-us8b-sale",
-        "title": "Zhongji Innolight already has 30 cornerstone investors for US$8b IPO: sources",
-        "url": "https://www.scmp.com/business/companies/article/3361377/zhongji-innolight-aims-hong-kongs-biggest-ipo-7-years-us8b-sale?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-21T12:46:13.000Z",
-        "summary": "Zhongji Innolight has attracted more than 30 cornerstone investors for its blockbuster initial public offering in Hong Kong, which could become the city’s biggest listing in seven years, according to people familiar with",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3361283/us-biotech-firm-developing-therapies-infant-brain-injuries-plans-hong-kong-listing",
-        "title": "US biotech firm developing therapies for infant brain injuries plans Hong Kong listing",
-        "url": "https://www.scmp.com/business/banking-finance/article/3361283/us-biotech-firm-developing-therapies-infant-brain-injuries-plans-hong-kong-listing?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-21T11:00:09.000Z",
-        "summary": "A US-headquartered biotech firm plans to seek a primary listing in Hong Kong, joining a swelling pipeline of artificial intelligence-powered medical players raising capital in the city. Axiom Biosciences, which develops ",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/opinion/china-opinion/article/3360497/agentic-ai-next-battleground-chinese-brands",
         "title": "Agentic AI: the next battleground for Chinese brands",
