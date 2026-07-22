@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T13:24:14.866Z",
+  "generatedAt": "2026-07-22T18:59:24.845Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,96 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/turn&",
+        "title": "Turn the Beat Around: How a Dallas law firm stepped up to save the local music scene",
+        "url": "https://www.abajournal.com/web/article/turn&#45;the&#45;beat&#45;around/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-22T17:28:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/georgia&",
+        "title": "Lawyer arrested, charged with theft, forgery after facing previous disciplinary action from court",
+        "url": "https://www.abajournal.com/news/article/georgia&#45;lawyer&#45;arrested&#45;charged&#45;with&#45;theft&#45;and&#45;forgery/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-22T16:51:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/disbarred&",
+        "title": "Disbarred lawyer pleads guilty to stealing over $300K from former clients to support gambling addiction",
+        "url": "https://www.abajournal.com/news/article/disbarred&#45;attorney&#45;stole&#45;more&#45;than&#45;300000&#45;from&#45;clients&#45;to&#45;support&#45;gambling&#45;addiction/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-22T15:44:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawsuit&",
+        "title": "Lawsuit alleging &#8216;sordid&#8217; sexual abuse by former WWE chairman will go to arbitration",
+        "url": "https://www.abajournal.com/news/article/lawsuit&#45;alleging&#45;sordid&#45;sexual&#45;abuse&#45;by&#45;wwe&#45;chairman&#45;will&#45;go&#45;to&#45;arbitration/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-22T15:20:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/reporting&",
+        "title": "Reporting government misconduct includes defending rule of law, new ABA ethics opinion says",
+        "url": "https://www.abajournal.com/web/article/reporting&#45;government&#45;misconduct&#45;includes&#45;defending&#45;the&#45;rule&#45;of&#45;law&#45;says&#45;aba&#45;formal&#45;opinion/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-22T15:02:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/the&",
+        "title": "Telephone Consumer Protection Act&#8217;s unwanted calls provision doesn&#8217;t include texts, 7th Circuit says",
+        "url": "https://www.abajournal.com/news/article/the&#45;tcpas&#45;unwanted&#45;calls&#45;provision&#45;doesnt&#45;include&#45;texts&#45;7th&#45;circuit&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-22T14:43:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/missouri&",
+        "title": "County prosecutor removed from office amid accusations of sexual misconduct on the job",
+        "url": "https://www.abajournal.com/news/article/missouri&#45;prosecutor&#45;removed&#45;from&#45;office&#45;amid&#45;accusations&#45;of&#45;sexual&#45;misconduct&#45;on&#45;the&#45;job/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-22T14:29:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/07/built-by-lawyers-for-lawyers-dingduff-is-a-free-claude-connector-that-its-founders-say-rivals-the-legal-research-giants.html",
+        "title": "Built By Lawyers, For Lawyers: DingDuff Is A Free Claude Connector That Its Founders Say Rivals The Legal Research Giants",
+        "url": "https://www.lawnext.com/2026/07/built-by-lawyers-for-lawyers-dingduff-is-a-free-claude-connector-that-its-founders-say-rivals-the-legal-research-giants.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-22T14:25:17.000Z",
+        "summary": "Two practicing lawyers in Austin, Texas, have built a free connector that plugs Claude directly into millions of court opinions, statutes, regulations and court rules, along with federal court filings via PACER — and the",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/what&",
+        "title": "What BigLaw gets wrong about who needs legal help",
+        "url": "https://www.abajournal.com/voice/article/what&#45;big&#45;law&#45;gets&#45;wrong&#45;about&#45;who&#45;needs&#45;legal&#45;help/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-22T14:12:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/us-law-firm-willkie-partners-with-openai",
         "title": "US Law Firm Willkie Partners With OpenAI",
@@ -78,42 +168,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/southern&",
-        "title": "Pastor engaged in unauthorized law practice, California state bar finds",
-        "url": "https://www.abajournal.com/news/article/southern&#45;california&#45;pastor&#45;accused&#45;of&#45;unauthorized&#45;practice&#45;of&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-21T15:30:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/21/box-targets-legal-with-agentic-control-system",
         "title": "Box Targets Legal With Agentic Control System",
         "url": "https://www.artificiallawyer.com/2026/07/21/box-targets-legal-with-agentic-control-system/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-07-21T15:00:07.000Z",
         "summary": "Box, which has evolved from a cloud storage business into an Intelligent Content Management (ICM) platform, is targeting the legal &#8211; and other regulated sectors ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/attorneys&",
-        "title": "Attorneys begin filing lawsuits over contaminated lettuce linked to outbreak of cyclospora",
-        "url": "https://www.abajournal.com/news/article/attorneys&#45;begin&#45;filing&#45;lawsuits&#45;over&#45;contaminated&#45;lettuce/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-21T14:39:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/new&",
-        "title": "New Jersey introduces &#8216;first-of-its-kind&#8217; AI tool for public defenders",
-        "url": "https://www.abajournal.com/news/article/new&#45;jersey&#45;introduces&#45;first&#45;of&#45;its&#45;kind&#45;ai&#45;tool&#45;for&#45;public&#45;defenders/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-21T14:20:00.000Z",
-        "summary": "",
         "category": "tools",
         "region": "na"
       },
@@ -144,56 +204,6 @@
         "source": "LawSites",
         "publishedAt": "2026-07-20T20:17:50.000Z",
         "summary": "Martin Luther King famously said, &#8220;The arc of the moral universe is long, but it bends toward justice.&#8221; My guest today quoted his words in her 2024 book, Law Democratized: A Blueprint for Solving the Justice ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/after&",
-        "title": "After accusing lawyer of punching federal officer, government agrees to noncontact assault plea",
-        "url": "https://www.abajournal.com/web/article/after&#45;accusing&#45;lawyer&#45;of&#45;punching&#45;federal&#45;officer&#45;government&#45;agrees&#45;to&#45;non&#45;contact&#45;assault&#45;plea/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-20T19:02:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
-        "title": "Federal judge clears way for Kentucky law dean to take office",
-        "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;clears&#45;way&#45;for&#45;kentucky&#45;law&#45;dean&#45;to&#45;take&#45;office/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-20T18:31:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/georgia&",
-        "title": "Lawyer charged with allegedly bringing drug-soaked legal paperwork into jail",
-        "url": "https://www.abajournal.com/news/article/georgia&#45;lawyer&#45;charged&#45;with&#45;bringing&#45;drug&#45;soaked&#45;legal&#45;paperwork&#45;into&#45;jail/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-20T16:54:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/runners&",
-        "title": "Runners With a Cause: Attorney's nonprofit helps legal and law enforcement professionals facing mental health challenges",
-        "url": "https://www.abajournal.com/web/article/runners&#45;with&#45;a&#45;cause/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-20T15:26:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/why&",
-        "title": "Why would a lawyer want to be board-certified?",
-        "url": "https://www.abajournal.com/web/article/why&#45;would&#45;a&#45;lawyer&#45;want&#45;to&#45;be&#45;board&#45;certified/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-20T14:46:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1178,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/04/built-on-a-weekend-damien-riehl-and-mike-bommarito-show-what-vibe-coding-can-really-do.html",
-        "title": "Built on a Weekend: Damien Riehl and Mike Bommarito Show What Vibe Coding Can Really Do",
-        "url": "https://www.lawnext.com/2026/04/built-on-a-weekend-damien-riehl-and-mike-bommarito-show-what-vibe-coding-can-really-do.html",
-        "source": "LawSites",
-        "publishedAt": "2026-04-15T18:38:20.000Z",
-        "summary": "We don’t usually say this, but for today&#8217;s LawNext, you’re going to want to watch the video version, if you can. The audio will be good, but the video will be great. You can find it on YouTube. Why? Because we’re g",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1240,22 +1240,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3906759577949314",
-        "title": "越疆科技创业板IPO过会",
-        "url": "https://36kr.com/newsflashes/3906759577949314?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-22T12:01:21.000Z",
-        "summary": "36氪获悉，7月22日，深交所上市审核委员会召开2026年第45次上市审核委员会审议会议，审议结果显示，深圳市越疆科技股份有限公司首发符合发行条件、上市条件和信息披露要求。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/newsflashes/3906749755774086",
         "title": "中微半导：预计2026年上半年净利润同比增长90.82%",
         "url": "https://36kr.com/newsflashes/3906749755774086?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-22T11:51:21.000Z",
-        "summary": "36氪获悉，中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增长",
+        "summary": "36氪获悉，中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同��增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增",
         "category": "updates",
         "region": "cn"
       },
@@ -1330,17 +1320,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/plus/business/article/3361455/us-levels-ai-sanctions-threat-china-models-gain",
-        "title": "US levels AI sanctions threat as China models gain",
-        "url": "https://www.scmp.com/plus/business/article/3361455/us-levels-ai-sanctions-threat-china-models-gain?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-22T09:00:12.000Z",
-        "summary": "US Treasury Secretary Scott Bessent signalled potential action against open source artificial intelligence (AI) models amid accusations that Chinese developers are creating low-cost systems using stolen US intellectual p",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
