@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T08:10:48.889Z",
+  "generatedAt": "2026-07-22T13:24:14.866Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,6 +8,36 @@
   "panels": {
     "na": [
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/us-law-firm-willkie-partners-with-openai",
+        "title": "US Law Firm Willkie Partners With OpenAI",
+        "url": "https://www.artificiallawyer.com/2026/07/22/us-law-firm-willkie-partners-with-openai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-22T11:40:27.000Z",
+        "summary": "Major US law firm, Willkie, is partnering with OpenAI to develop ‘AI solutions across the firm&#8217;s legal and business operations, including a firmwide rollout of ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/tomorrow-opus-2-webinar-ai-native-litigation-workflows",
+        "title": "Tomorrow &#8211; Opus 2 Webinar: AI-Native Litigation Workflows",
+        "url": "https://www.artificiallawyer.com/2026/07/22/tomorrow-opus-2-webinar-ai-native-litigation-workflows/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-22T11:05:10.000Z",
+        "summary": "Join us tomorrow (Thursday) for a special live webinar with Opus 2 and Artificial Lawyer: ‘From AI-enabled to AI-native workflows in litigation and beyond.&#8217; It will take place July ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/netdocuments-launches-expert-witness-plaintiff-apps",
+        "title": "NetDocuments Launches Expert Witness + Plaintiff Apps",
+        "url": "https://www.artificiallawyer.com/2026/07/22/netdocuments-launches-expert-witness-plaintiff-apps/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-22T10:40:54.000Z",
+        "summary": "NetDocuments is continuing its expansion drive into AI tools with a collection of new apps. For AL, the most significant ones are those related to ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/the-ai-dividend-who-gets-the-savings-from-legal-ai",
         "title": "The AI Dividend: Who Gets the Savings From Legal AI?",
         "url": "https://www.artificiallawyer.com/2026/07/22/the-ai-dividend-who-gets-the-savings-from-legal-ai/",
@@ -15,6 +45,16 @@
         "publishedAt": "2026-07-22T06:45:28.000Z",
         "summary": "By Adam Nguyen, CEO, eBrevia. For the past two years, corporate legal departments have been told that AI will make legal work faster, more efficient ...",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/introducing-openai-presence",
+        "title": "Introducing OpenAI Presence",
+        "url": "https://openai.com/index/introducing-openai-presence",
+        "source": "OpenAI News",
+        "publishedAt": "2026-07-22T05:30:00.000Z",
+        "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -198,42 +238,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/17/law-firms-dont-have-an-ai-problem-they-have-a-data-problem",
-        "title": "Law Firms Don&#8217;t Have an AI Problem, They Have a Data Problem",
-        "url": "https://www.artificiallawyer.com/2026/07/17/law-firms-dont-have-an-ai-problem-they-have-a-data-problem/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-17T06:42:14.000Z",
-        "summary": "By Kevin Walker, CEO, Centari. In recent months, several of the world&#8217;s leading law firms have announced investments in legal technology at a scale only ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/relativity-president-chris-brown-on-the-gavel-acquisition-opening-up-to-claude-and-the-gangbusters-growth-of-air.html",
         "title": "Relativity President Chris Brown on the Gavel Acquisition, Opening Up to Claude, and the ‘Gangbusters’ Growth of aiR",
         "url": "https://www.lawnext.com/2026/07/relativity-president-chris-brown-on-the-gavel-acquisition-opening-up-to-claude-and-the-gangbusters-growth-of-air.html",
         "source": "LawSites",
         "publishedAt": "2026-07-16T12:31:07.000Z",
         "summary": "Last week, Relativity announced that Chris Brown, its chief product officer since 2018, had been named the company’s president, effective July 13. In the new role, Brown continues to lead Relativity’s product organizatio",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/16/harvey-buys-benchmark-asset-management-startup",
-        "title": "Harvey Buys Benchmark Asset Management Startup",
-        "url": "https://www.artificiallawyer.com/2026/07/16/harvey-buys-benchmark-asset-management-startup/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-16T12:27:18.000Z",
-        "summary": "Harvey has announced its acquisition of New York-based Benchmark, a decision infrastructure platform for asset management. Benchmark helps investors make better decisions by capturing their ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/16/vanilla-meatballs-cooleys-flat-fees-with-david-wang",
-        "title": "Vanilla, Meatballs + Cooley’s Flat Fees – with David Wang",
-        "url": "https://www.artificiallawyer.com/2026/07/16/vanilla-meatballs-cooleys-flat-fees-with-david-wang/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-16T07:50:39.000Z",
-        "summary": "Cooley’s fund formation platform, Vanilla, is now offering a key element of its work – transfers – for a $495 flat fee. AL talked to ...",
         "category": "tools",
         "region": "na"
       },
@@ -1196,36 +1206,66 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/d5wzmcfw9gsea7fmg40c",
-        "title": "西部数据 Tim Rausch：AI不是只有GPU，数据最终还要回到存储系统",
-        "url": "https://www.infoq.cn/article/d5wZmCfW9GSEA7FMg40C?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/p8g7tasip0rkefflxaf0",
+        "title": "OpenAI承认为了偷答案，GPT-5.6 Sol 一路“杀进”生产系统：AI自主攻击时代真的来了",
+        "url": "https://www.infoq.cn/article/P8G7TAsIP0rkeFFLxAf0?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-22T14:12:17.000Z",
+        "publishedAt": "2026-07-22T17:46:50.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/o3bsr8isf5bhna6h4zrt",
-        "title": "Uber 如何构建具备区域故障容错能力的 OpenSearch 集群",
-        "url": "https://www.infoq.cn/article/o3bsr8iSF5bHNa6H4zrt?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/jxq5oqeocejlkuq2qc0y",
+        "title": "阿里千问发布 Qwen-Image-3.0，文本输入长度提升4.5倍",
+        "url": "https://www.infoq.cn/article/jXQ5oQeOcEjLkuq2Qc0y?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-22T14:00:00.000Z",
+        "publishedAt": "2026-07-22T17:42:33.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3906764227695748",
+        "title": "5连板立新能源：无算力产业相关业务布局，亦未开展面向算力中心的专属供电配套服务",
+        "url": "https://36kr.com/newsflashes/3906764227695748?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-22T12:13:04.000Z",
+        "summary": "36氪获悉，立新能源公告，近期公司股价波动主要受市场资金炒作、电力行业题材、迎峰度夏用电预期等情绪因素驱动，公司日常生产经营、内外经营环境未发生重大实质性变化，股价存在快速回调、大幅震荡的风险，敬请广大投资者注意二级市场交易风险，理性决策，审慎投资。目前，公司无算力产业相关业务布局，亦未开展面向算力中心的专属供电配套服务，也未与相关企业落地算力领域合作。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3906759577949314",
+        "title": "越疆科技创业板IPO过会",
+        "url": "https://36kr.com/newsflashes/3906759577949314?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-22T12:01:21.000Z",
+        "summary": "36氪获悉，7月22日，深交所上市审核委员会召开2026年第45次上市审核委员会审议会议，审议结果显示，深圳市越疆科技股份有限公司首发符合发行条件、上市条件和信息披露要求。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3906749755774086",
+        "title": "中微半导：预计2026年上半年净利润同比增长90.82%",
+        "url": "https://36kr.com/newsflashes/3906749755774086?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-22T11:51:21.000Z",
+        "summary": "36氪获悉，中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增长",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3906606931907971",
+        "title": "氪星晚报 ｜苹果iPhone18系列已量产；小红书回应IPO传闻：相关信息均不属实；明治将在华牛奶业务转让给澳亚集团",
+        "url": "https://36kr.com/p/3906606931907971?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-22T09:29:03.000Z",
+        "summary": "大公司： 小马智行与京东养车达成战略合作 36氪获悉，7月21日，小马智行与京东养车达成战略合作，双方将围绕自动驾驶车辆维保服务及供应链协同等领域展开深度合作，共同打造面向自动驾驶车队的标准化、规模化运维服务体系。这是自动驾驶公司首次与全国性汽车后市场服务平台建立全面战略合作。 益生股份：2026年上半年净利润3.08亿元，同比增长4897.29% 36氪获悉，益生股份公告，2026年上半年营收16.97亿元，同比增长28.44%；净利",
         "category": "updates",
         "region": "cn"
       },
@@ -1240,16 +1280,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3906509570020488",
-        "title": "AI算力产业链成为上海出口重要增长动能",
-        "url": "https://36kr.com/newsflashes/3906509570020488?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-22T07:47:01.000Z",
-        "summary": "从上海海关获悉，上半年，上海制造的服务器、光收发模块、集成电路、工业级变压器、储能电池等人工智能（AI）相关产品出口均实现快速增长，AI算力产业链已成为上海出口的重要增长动能。上海海关统计分析处副处长李计融认为，上半年，上海AI相关产品出口的快速增长，是集成电路、人工智能等先导产业迭代驱动的结构性、持续性增长。相较传统外贸品类的平稳增长，AI相关产业链的带动性较强，从上游储能电力设备等基础配件，到中游集成电路、固态硬盘等算力硬件，再到下",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3906499484996742",
         "title": "对话润建股份：AI应用拼的不只是模型能力，更是从Token到价值创造的闭环能力",
         "url": "https://36kr.com/p/3906499484996742?f=rss",
@@ -1260,32 +1290,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3906482444588417",
-        "title": "估值500亿美元，月之暗面计划8月启动上市前最后一轮融资",
-        "url": "https://36kr.com/newsflashes/3906482444588417?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-22T07:19:26.000Z",
-        "summary": "中国AI大模型独角兽月之暗面（Moonshot AI）计划于8月启动上市前最后一轮融资谈判，目标估值高达500亿美元。据了解，月之暗面预计将在未来几天完成今年夏季启动的一轮融资，该轮融资估值约315亿美元。融资完成后，月之暗面将立即启动新一轮融资洽谈，这将成为月之暗面赴港上市前的最后一次资本注入，最快可能于今年内登陆香港资本市场。（澎湃）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3906468088042886",
         "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
         "url": "https://36kr.com/p/3906468088042886?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-22T07:06:04.000Z",
         "summary": "硬氪获悉，智能船艇公司同舟智航近日完成数千万种子轮融资，由英诺天使和吴中金控联合领投，江苏金桥基金跟投。融资将用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓。 同舟智航2025年6月成立，核心理念是用人工智能赋能船舶。创始人张呈伦拥有10余年汽车自动驾驶行业经验，曾任华为商用车解决方案部负责人，并创立过规模超百人的矿山自动驾驶公司。 团队自动驾驶基因雄厚，首席科学家为美国康涅狄格大学AI博士及博士后，曾任某自动驾驶独角兽",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3906426901222537",
-        "title": "地平线与大众汽车集团达成合作",
-        "url": "https://36kr.com/newsflashes/3906426901222537?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-22T06:31:55.000Z",
-        "summary": "36氪获悉，7月22日，地平线与大众汽车集团正式宣布，通过CARIAD与地平线的合资公司酷睿程 (CARIZON) ，大众汽车集团将进一步深化与地平线在AI基座大模型领域的技术合作。地平线的AI基座大模型将与酷睿程在研的系统级芯片C7H、以及GAIA世界模型数据平台紧密协同，全面赋能大众汽车集团L3和L4级自动驾驶能力落地。按照规划，大众汽车集团L3级自动驾驶能力最快将于2027年下半年启动交付。",
         "category": "updates",
         "region": "cn"
       },
@@ -1318,36 +1328,16 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qaiqh8e5ynr4i4rayysz",
-        "title": "DoorDash 如何打造了一款不完全依赖大型语言模型（LLM）的 AI 购物助手",
-        "url": "https://www.infoq.cn/article/QAIQh8E5yNr4i4RAYySz?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-21T14:15:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3905169127114368",
-        "title": "圆桌论坛：夏天周而复始·VC3.0| 36氪WAVES2026新浪潮",
-        "url": "https://36kr.com/p/3905169127114368?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-21T09:05:17.000Z",
-        "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/opinion/china-opinion/article/3360497/agentic-ai-next-battleground-chinese-brands",
-        "title": "Agentic AI: the next battleground for Chinese brands",
-        "url": "https://www.scmp.com/opinion/china-opinion/article/3360497/agentic-ai-next-battleground-chinese-brands?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/plus/business/article/3361455/us-levels-ai-sanctions-threat-china-models-gain",
+        "title": "US levels AI sanctions threat as China models gain",
+        "url": "https://www.scmp.com/plus/business/article/3361455/us-levels-ai-sanctions-threat-china-models-gain?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-07-17T08:30:06.000Z",
-        "summary": "China’s companies have mastered social media marketing playbooks. Now, they must learn to win the trust of artificial intelligence (AI) agents that will increasingly shape what consumers discover, consider and ultimately",
+        "publishedAt": "2026-07-22T09:00:12.000Z",
+        "summary": "US Treasury Secretary Scott Bessent signalled potential action against open source artificial intelligence (AI) models amid accusations that Chinese developers are creating low-cost systems using stolen US intellectual p",
         "category": "updates",
         "region": "cn_en"
       }
