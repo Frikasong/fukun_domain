@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T18:59:24.845Z",
+  "generatedAt": "2026-07-23T01:59:42.640Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,76 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/9seaqulww0wau016qh5r",
+        "title": "谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制",
+        "url": "https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-23T09:48:46.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ckrpv6edbmeoob2mbvju",
+        "title": "30+ 家企业组团参展 WAIC，张江 AI 小镇藏不住了",
+        "url": "https://www.infoq.cn/article/cKrPV6EdBMEoOb2mBvju?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-23T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3907555260716423",
+        "title": "两部门：引导新建数据中心与可再生能源发电协同规划布局，分类挖掘算力负荷时空调节潜力",
+        "url": "https://36kr.com/newsflashes/3907555260716423?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-23T01:30:45.000Z",
+        "summary": "36氪获悉，国家发展改革委、国家能源局印发《可再生能源发展“十五五”规划》，其中提出，统筹推进数字基础设施可再生能源消费。引导新建数据中心与可再生能源发电协同规划布局，分类挖掘算力负荷时空调节潜力，创新绿电直连、源网荷储一体化等方式，稳步提高数字基础设施绿色电力消费水平。提升存量数字基础设施可再生能源消费比例。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3907536767833473",
+        "title": "36氪首发 | 前华尔街投资人下场造“手”，以“自研视触觉+软硬闭环”破解行业数据难题",
+        "url": "https://36kr.com/p/3907536767833473?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-23T01:12:15.000Z",
+        "summary": "图源/企业 本文约 2100 字，建议阅读 5 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人灵巧操作方案提供商拾玥科技（LumiBot）近日完成数千万元天使轮融资。本轮由常州智融长优股权投资合伙企业（有限合伙）（常友科技旗下基金）领投，另外两家国有投资平台旗下基金跟投。资金将主要用于团队扩张、产品迭代与小批量产线建设，以及灵巧操作数据采集与模型研发。 拾玥科技成立于2025年初，专注于为工业制造、精密装配等高精度场景提供灵巧操作解决",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3907532622648453",
+        "title": "36氪首发 | 同济博士做几何、物理AI重构设计制造，累计获超3亿元融资",
+        "url": "https://36kr.com/p/3907532622648453?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-23T01:08:03.000Z",
+        "summary": "图源/企业 本文约 1400 字，建议阅读 3 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，工业AI设计研发解决方案供应商「设序科技」于近日正式完成B轮超亿元融资，累计获超3亿元融资，投资方包括深产投、合鼎共及老股东涌铧投资等。融资将用于市场开拓（含出海）及核心模型技术研发。 设序科技成立于2020年，旗下产品“则形AI”是基于自研工业世界模型与自然语言大模型封装的面向硬件工程的设计研发智能体平台，提供云架构下的3D设计方案与2D工程图纸",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3907507736466822",
+        "title": "中信证券：看好超跌后的电子板块投资机会",
+        "url": "https://36kr.com/newsflashes/3907507736466822?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-23T00:42:25.000Z",
+        "summary": "36氪获悉，中信证券研报认为，7月以来科技板块大幅调整，相关标的估值已明显回落，但自主可控、AI零部件、涨价链及消费电子等方向的基本面并未发生逆转，部分细分板块当前估值尚未充分反映后续订单增长、涨价延续及业绩兑现预期，具备较强的超跌修复空间。国内半导体设备与国产算力的业绩上行拐点进一步明确，全球AI需求驱动下PCB、存储、AI电源等环节的供需景气度仍将保持高位，同时AI产业链行情有望逐步向消费电子扩散，持续看好上述方向。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3907461333144711",
+        "title": "8点1氪丨小红书回应IPO因前员工举报而受阻传闻：均不属实；谷歌Gemini跌出全球排名前十；耐克宣布终止滔搏线上经销权",
+        "url": "https://36kr.com/p/3907461333144711?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-22T23:58:11.000Z",
+        "summary": "今日热点导览 香港高院驳回宗馥莉上诉申请，维持冻结18亿美元资产 苹果拟推出月租iPhone，支持大多数机型 SpaceX做空比例飙至32%，马斯克警告空头：几无存活可能 康美药业原实控人马兴田夫妇赔付13.96亿元 宇���科技王兴兴：具身智能的“ChatGPT时刻\"有望最快在两三年内到来 越疆科技回应招股书举报风波 TOP3大新闻 小红书回应IPO传闻 近日，有较多传言称“小红书已于6月底前秘密提交IPO申请”，但因前员工举报其“上",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/p8g7tasip0rkefflxaf0",
         "title": "OpenAI承认为了偷答案，GPT-5.6 Sol 一路“杀进”生产系统：AI自主攻击时代真的来了",
         "url": "https://www.infoq.cn/article/P8G7TAsIP0rkeFFLxAf0?utm_source=rss&utm_medium=article",
@@ -1226,26 +1296,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-07-22T17:42:33.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3906764227695748",
-        "title": "5连板立新能源：无算力产业相关业务布局，亦未开展面向算力中心的专属供电配套服务",
-        "url": "https://36kr.com/newsflashes/3906764227695748?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-22T12:13:04.000Z",
-        "summary": "36氪获悉，立新能源公告，近期公司股价波动主要受市场资金炒作、电力行业题材、迎峰度夏用电预期等情绪因素驱动，公司日常生产经营、内外经营环境未发生重大实质性变化，股价存在快速回调、大幅震荡的风险，敬请广大投资者注意二级市场交易风险，理性决策，审慎投资。目前，公司无算力产业相关业务布局，亦未开展面向算力中心的专属供电配套服务，也未与相关企业落地算力领域合作。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3906749755774086",
-        "title": "中微半导：预计2026年上半年净利润同比增长90.82%",
-        "url": "https://36kr.com/newsflashes/3906749755774086?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-22T11:51:21.000Z",
-        "summary": "36氪获悉，中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同��增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增",
         "category": "updates",
         "region": "cn"
       },
@@ -1290,31 +1340,11 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3906043683296648",
-        "title": "8点1氪丨怡颗莓回应“检出致癌物”；美团否认上线“本科专送”“硕士优送”等配送服务；美方喊话三星电子、SK海力士分享超额利润",
-        "url": "https://36kr.com/p/3906043683296648?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-21T23:55:35.000Z",
-        "summary": "今日热点导览 字节XR业务PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人 ZARA客服回应“阔腿裤存安全隐患”：专员正在核实处理 SpaceX将于8月4日发布上市后首份财报 恋与深空多平台账号停更 美国发布全球安全警示 TOP3大新闻 怡颗莓回应“检出致癌物”：国内销售草莓来自云南 近日，全球最大浆果品牌“怡颗莓”（Driscoll's）陷入食品安全争议。美国消费者对其提起集体诉讼，指控其草莓检出包括1类致癌物全氟辛酸（PFOA）",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/abfekfvlat7vffsv7arl",
         "title": "GOAI 世界人工智能开源大赛四大赛道正式发布",
         "url": "https://www.infoq.cn/article/aBFeKFvlAt7vFfsv7arl?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-21T20:17:22.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/6yn5sfxoqobx2h32ytjc",
-        "title": "16 万 Star 的 OpenCode 彻底重写：API 全部重做、Bun 换 Node、桌面端迁移 Electron",
-        "url": "https://www.infoq.cn/article/6yN5sFxOqoBX2h32YtjC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-21T14:53:28.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
