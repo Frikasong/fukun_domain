@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T01:55:17.001Z",
+  "generatedAt": "2026-07-24T08:10:19.401Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/24/lexis-spellbook-google-legal-innovators-nordics",
+        "title": "Lexis $$$, Spellbook / Google, Legal Innovators Nordics",
+        "url": "https://www.artificiallawyer.com/2026/07/24/lexis-spellbook-google-legal-innovators-nordics/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-24T07:49:09.000Z",
+        "summary": "We start this week’s Wrap with news that the Claude Crash earlier this year, which hit market sentiment and wiped billions off the value of ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/south&",
         "title": "Bar association helps young lawyers refine business etiquette skills",
@@ -88,6 +98,16 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship",
+        "title": "Harvey Deepens Microsoft Relationship",
+        "url": "https://www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-23T12:38:56.000Z",
+        "summary": "Harvey has deepened its engagement with Microsoft, in this case via providing its legal AI platform to the tech giant&#8217;s Corporate, External, and Legal Affairs ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/07/microsofts-own-legal-department-will-use-harvey-as-the-two-companies-deepen-their-alliance.html",
         "title": "Microsoft&#8217;s Own Legal Department Will Use Harvey, As the Two Companies Deepen Their Alliance",
         "url": "https://www.lawnext.com/2026/07/microsofts-own-legal-department-will-use-harvey-as-the-two-companies-deepen-their-alliance.html",
@@ -105,6 +125,26 @@
         "publishedAt": "2026-07-23T11:00:18.000Z",
         "summary": "The legal data company Entegrata, whose data lakehouse platform helps law firms consolidate siloed data into a single source of truth, has hired Andrew Baker, who for more than five years led applied AI and data science ",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/flank-launches-record-agentic-contract-truth-system",
+        "title": "Flank Launches ‘Record’ – Agentic Contract Truth System",
+        "url": "https://www.artificiallawyer.com/2026/07/23/flank-launches-record-agentic-contract-truth-system/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-23T08:09:52.000Z",
+        "summary": "Flank, the agentic legal tech company focused on inhouse teams, has launched Flank Record, an autonomous agentic contract system of record, which greatly reduces the ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/the-innovators-press-conference",
+        "title": "The Innovators – &#8216;Press Conference&#8217;",
+        "url": "https://www.artificiallawyer.com/2026/07/23/the-innovators-press-conference/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-23T06:48:04.000Z",
+        "summary": "Katie stood outside the managing partner’s door like a naughty student. Tim had sent everyone else away so he could have a solitary, emergency brainstorm. ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -135,6 +175,66 @@
         "publishedAt": "2026-07-22T14:25:17.000Z",
         "summary": "Two practicing lawyers in Austin, Texas, have built a free connector that plugs Claude directly into millions of court opinions, statutes, regulations and court rules, along with federal court filings via PACER — and the",
         "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/us-law-firm-willkie-partners-with-openai",
+        "title": "US Law Firm Willkie Partners With OpenAI",
+        "url": "https://www.artificiallawyer.com/2026/07/22/us-law-firm-willkie-partners-with-openai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-22T11:40:27.000Z",
+        "summary": "Major US law firm, Willkie, is partnering with OpenAI to develop ‘AI solutions across the firm&#8217;s legal and business operations, including a firmwide rollout of ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/tomorrow-opus-2-webinar-ai-native-litigation-workflows",
+        "title": "Tomorrow &#8211; Opus 2 Webinar: AI-Native Litigation Workflows",
+        "url": "https://www.artificiallawyer.com/2026/07/22/tomorrow-opus-2-webinar-ai-native-litigation-workflows/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-22T11:05:10.000Z",
+        "summary": "Join us tomorrow (Thursday) for a special live webinar with Opus 2 and Artificial Lawyer: ‘From AI-enabled to AI-native workflows in litigation and beyond.&#8217; It will take place July ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/netdocuments-launches-expert-witness-plaintiff-apps",
+        "title": "NetDocuments Launches Expert Witness + Plaintiff Apps",
+        "url": "https://www.artificiallawyer.com/2026/07/22/netdocuments-launches-expert-witness-plaintiff-apps/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-22T10:40:54.000Z",
+        "summary": "NetDocuments is continuing its expansion drive into AI tools with a collection of new apps. For AL, the most significant ones are those related to ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/the-ai-dividend-who-gets-the-savings-from-legal-ai",
+        "title": "The AI Dividend: Who Gets the Savings From Legal AI?",
+        "url": "https://www.artificiallawyer.com/2026/07/22/the-ai-dividend-who-gets-the-savings-from-legal-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-22T06:45:28.000Z",
+        "summary": "By Adam Nguyen, CEO, eBrevia. For the past two years, corporate legal departments have been told that AI will make legal work faster, more efficient ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/21/box-targets-legal-with-agentic-control-system",
+        "title": "Box Targets Legal With Agentic Control System",
+        "url": "https://www.artificiallawyer.com/2026/07/21/box-targets-legal-with-agentic-control-system/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-21T15:00:07.000Z",
+        "summary": "Box, which has evolved from a cloud storage business into an Intelligent Content Management (ICM) platform, is targeting the legal &#8211; and other regulated sectors ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/21/walk-through-ebrevia-draftpro-contract-ai",
+        "title": "Walk Through: eBrevia – DraftPro, Contract AI",
+        "url": "https://www.artificiallawyer.com/2026/07/21/walk-through-ebrevia-draftpro-contract-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-21T07:47:50.000Z",
+        "summary": "This week’s AL TV Product Walk Through is with eBrevia and takes a detailed look at DraftPro, part of its contract AI suite for inhouse ...",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -1106,76 +1206,86 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/jtsp2ayluesx55j8yr7e",
-        "title": "Cloudera CTO：技术自主，始于开源架构",
-        "url": "https://www.infoq.cn/article/JtSP2aYluESx55J8yr7e?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/scpx11gzcauxofdksekc",
+        "title": "Java 近期新闻：值对象、WildFly 41、TornadoVM、LangChain4j、Oracle AI Agent Studio",
+        "url": "https://www.infoq.cn/article/SCpx11gzcAUXOFdkSEKC?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-24T09:51:32.000Z",
+        "publishedAt": "2026-07-24T14:24:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/efrkvfz2bcbztdfthycu",
-        "title": "AWS Continuum 将为企业提供智能体代码安全解决方案",
-        "url": "https://www.infoq.cn/article/efrkvfZ2bcbztDfThycu?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/lujs2pphvhqb8s5f2wua",
+        "title": "具身智能争夺下一块拼图：一目科技估值破百亿，触觉传感器走向量产",
+        "url": "https://www.infoq.cn/article/luJs2PpHVhQb8s5F2WuA?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-24T09:27:10.000Z",
+        "publishedAt": "2026-07-24T13:41:19.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3908935688475783",
-        "title": "上半年量价承压，光伏产业链反转拐点或临近",
-        "url": "https://36kr.com/newsflashes/3908935688475783?f=rss",
+        "id": "36Kr:36kr.com/p/3909358392988806",
+        "title": "对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程",
+        "url": "https://36kr.com/p/3909358392988806?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-24T01:07:54.000Z",
-        "summary": "2026年上半年，光伏行业进入调整阶段，主产业链各环节产量普遍下行，产品价格震荡走弱，新增装机规模明显回落。7月23日，在中国光伏行业协会主办的光伏行业2026年上半年发展回顾与下半年形势展望研讨会上，多位专家剖析了行业当下遭遇的多重挑战。业内专家认为，伴随强制性国家标准落地，低效产能加速出清，行业竞争逻辑正发生转变，逐步由以往“比拼价格，扩张规模”，转向以技术、品质、差异化优势为核心的价值竞争赛道。乐观预期下，头部企业经营状况有望在下",
+        "publishedAt": "2026-07-24T08:06:05.000Z",
+        "summary": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。曾鸣教授在WAIC现场接受36氪「氪话未来」特邀专访，围绕AI时代企业增长、组织变革、智能复利、AI原生业务以及企业落地路径等话题，分享了他对于人工智能如何重塑商业模式与价值创造方式的观察与判断。 本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3908904196052354",
-        "title": "新机潮叠加AI机遇，消费电子产业链全速备货",
-        "url": "https://36kr.com/newsflashes/3908904196052354?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3909268957582471",
+        "title": "\"辰光一号\"成功发射，中科天塔自研航天垂直大模型随星搭载",
+        "url": "https://36kr.com/newsflashes/3909268957582471?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-24T01:01:59.000Z",
-        "summary": "消费电子行业景气度稳步回暖，业绩端迎来明显改善。Wind数据显示，截至7月23日，A股已有32家消费电子公司披露上半年业绩预告，逾七成预计盈利。AI已成为行业增长的核心引擎，AI智能硬件放量与算力业务拓展支撑起多家公司上半年业绩大幅预增。进入下半年，消费电子行业在传统旺季中亮点纷呈：全球首款AI智能体手机正式亮相，三星首款AI眼镜发布，苹果首款折叠屏手机组装出货量预计多达800万台。上述消息持续催化市场热度，A股产业链公司纷纷加快备货节",
+        "publishedAt": "2026-07-24T06:34:01.000Z",
+        "summary": "36氪获悉，7月24日7时33分，“辰光一号”技术试验卫星在酒泉卫星发射中心商业航天创新试验区发射升空，卫星准确进入预定轨道，发射任务取得圆满成功。西安中科天塔科技股份有限公司（“中科天塔”）自研航天垂直大模型“华山”卫星健康管理模块随星搭载，开展在轨大模型训练与航天器智能管控全流程验证。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3909263129400709",
+        "title": "小鹏人形机器人正小批量试生产，量产产线进入最后联调阶段",
+        "url": "https://36kr.com/newsflashes/3909263129400709?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-24T06:28:05.000Z",
+        "summary": "小鹏人形机器人已在广州工厂正式开启小批量试生产，同时量产产线进入最后联调阶段，量产冲刺正式进入倒计时。此前，小鹏集团内部召开机器人量产动员大会，明确了关键时间节点：2026年实现人形机器人量产，预计2027年起将陆续进驻全球小鹏门店及商业场景，承担导购、讲解等服务。小鹏机器人业务整合集团在硬件、AI大模型、供应链及营销等模块能力，并将汽车业务积累的软硬件协同研发、智能制造与全球化渠道经验，系统性地复用于机器人领域，加速高阶人形机器人的量",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3909257936196996",
+        "title": "联想等在贵州成立新科技公司，注册资本2000万",
+        "url": "https://36kr.com/newsflashes/3909257936196996?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-24T06:22:48.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，贵州新联智想科技有限公司成立，法定代表人为吴明疆，注册资本2000万人民币，经营范围包括人工智能应用软件开发、大数据服务、信息系统集成服务等。股东信息显示，该公司由联想旗下广西联想智联信息科技有限公司、海南黔源投资有限公司、海南漪迪能源科技有限公司共同持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3909084356433025",
+        "title": "DeepSeek不是理想主义公司，它只是把现实服务于理想",
+        "url": "https://36kr.com/p/3909084356433025?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-24T04:26:38.000Z",
+        "summary": "DeepSeek的答案，不是只仰望星空，也不是只脚踏实地，而是用现实问题去支撑一个足够远的目标。 撰文 | 李嘉星 刘辰艺 编辑 | 张薇 头图来源 | DeepSeek 封面来源 | DeepSeek DeepSeek又一次被推到聚光灯下。 这家公司一度几乎是AI圈最神秘的存在：工程师文化、低调，创始人很少公开露面，团队也不像典型互联网公司那样频繁讲故事、做传播。但过去一年，它几乎每隔一段时间就会成为中文科技圈的中心。模型发布时，它因",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3909033052722310",
+        "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
+        "url": "https://36kr.com/p/3909033052722310?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-24T02:37:12.000Z",
+        "summary": "7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海落下帷幕。黄浦江畔，热浪与人潮一起涌动。本届大会以“智能伙伴，共创未来”为主题，在世博、张江、西岸三地四馆展开。作为年度人工智能产业观察窗口，WAIC 2026留下的关键信号，不在于展陈规模本身，而在于AI叙事的重心变化：技术展示正在退居幕后，真实场景、系统交付与商业价值被推到台前。 这也是36氪“氪话未来”连续第三年走进WAIC现场。过去三年，AI产业经历了",
         "category": "updates",
         "region": "cn"
       },
@@ -1206,16 +1316,6 @@
         "source": "36Kr",
         "publishedAt": "2026-07-23T10:01:57.000Z",
         "summary": "从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。 林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2025年我国森林蓄积量达209.88亿立方米，全国木材产量达1.4亿立方米；联合国粮农组织数据显示，全球圆木年采伐量约40亿立方米，这背后是伐区蓄积量核算、树木胸径测量等大量工作。 林下环境复杂，传统人工作业模式成本大、效率低且危险重重。虽然行业对自动化替代方",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/9seaqulww0wau016qh5r",
-        "title": "谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制",
-        "url": "https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-23T09:48:46.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
@@ -1257,36 +1357,6 @@
         "publishedAt": "2026-07-23T02:57:46.000Z",
         "summary": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。FutureTech负责人张梦钊在WAIC现场接受36氪「氪话未来」特邀专访，围绕FutureTech平台定位、OPC独立先锋挑战赛、AI创业趋势以及初创企业商业化路径等话题，分享了FutureTech如何连接创业团队、产业资源与创新生态，探索AI时代下的新型创业范式。 本届WAIC以“智能",
         "category": "skills",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3907590205085056",
-        "title": "对话蚂蚁数科：打造商业智能体超级工厂，生态共建中国行业版Harness标准",
-        "url": "https://36kr.com/p/3907590205085056?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-23T02:09:19.000Z",
-        "summary": "7月17日，2026世界人工智能大会（WAIC）在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。蚂蚁数科副总裁、中国区业务发展部总经理孙磊在WAIC现场接受36氪「氪话未来」特邀专访，围绕商业智能体超级工厂、行业垂直大模型、AI工程化能力以及企业智能体落地等话题，分享了蚂蚁数科面向企业智能化升级的最新实践与思考。 本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3907536767833473",
-        "title": "36氪首发 | 前华尔街投资人下场造“手”，以“自研视触觉+软硬闭环”破解行业数据难题",
-        "url": "https://36kr.com/p/3907536767833473?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-23T01:12:15.000Z",
-        "summary": "图源/企业 本文约 2100 字，建议阅读 5 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人灵巧操作方案提供商拾玥科技（LumiBot）近日完成数千万元天使轮融资。本轮由某上市公司旗下基金领投。资金将主要用于团队扩张、产品迭代与小批量产线建设，以及灵巧操作数据采集与模型研发。 拾玥科技成立于2025年初，专注于为工业制造、精密装配等高精度场景提供灵巧操作解决方案。目前，公司已推出Lumi-Dex系列高自由度灵巧手、Lumi-Tac指",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/p8g7tasip0rkefflxaf0",
-        "title": "OpenAI承认为了偷答案，GPT-5.6 Sol 一路“杀进”生产系统：AI自主攻击时代真的来了",
-        "url": "https://www.infoq.cn/article/P8G7TAsIP0rkeFFLxAf0?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-22T17:46:50.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
         "region": "cn"
       }
     ],
