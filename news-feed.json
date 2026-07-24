@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T13:20:17.916Z",
+  "generatedAt": "2026-07-24T19:13:56.071Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,66 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/closing&",
+        "title": "How to close the legal experience gap with simulation-based learning platforms",
+        "url": "https://www.abajournal.com/columns/article/closing&#45;the&#45;legal&#45;experience&#45;gap&#45;with&#45;simulation&#45;based&#45;learning&#45;platforms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-24T18:56:00.000Z",
+        "summary": "",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/kentucky&",
+        "title": "Lawyer’s former clients allege fraud, millions in theft before he died",
+        "url": "https://www.abajournal.com/news/article/kentucky&#45;lawyers&#45;former&#45;clients&#45;allege&#45;fraud&#45;in&#45;the&#45;millions&#45;before&#45;he&#45;died/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-24T17:29:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/texas&",
+        "title": "Texas county must pay jurors nearly $27K after case was dropped",
+        "url": "https://www.abajournal.com/news/article/texas&#45;county&#45;must&#45;pay&#45;jurors&#45;27k&#45;after&#45;case&#45;was&#45;dropped/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-24T15:15:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
+        "title": "Congressman calls for impeaching dead federal judge",
+        "url": "https://www.abajournal.com/news/article/florida&#45;congressman&#45;calls&#45;for&#45;impeachment&#45;of&#45;dead&#45;federal&#45;judge/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-24T14:49:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/new&",
+        "title": "New York public defenders return to work after weeklong strike",
+        "url": "https://www.abajournal.com/news/article/new&#45;york&#45;public&#45;defenders&#45;return&#45;to&#45;work&#45;after&#45;week&#45;long&#45;strike/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-24T14:33:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/financial&",
+        "title": "Financial pressures lead law deans to leave their posts, new study finds",
+        "url": "https://www.abajournal.com/web/article/financial&#45;pressures&#45;lead&#45;law&#45;deans&#45;to&#45;leave&#45;their&#45;posts&#45;study&#45;finds/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-24T14:11:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/24/lexis-spellbook-google-legal-innovators-nordics",
         "title": "Lexis $$$, Spellbook / Google, Legal Innovators Nordics",
@@ -68,36 +128,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/holland&",
-        "title": "Holland & Knight hit with $1.2B malpractice suit",
-        "url": "https://www.abajournal.com/news/article/holland&#45;knight&#45;hit&#45;with&#45;1.2b&#45;malpractice&#45;suit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-23T14:50:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/pastor&",
-        "title": "Pastor sues OpenAI over bad medical advice from ChatGPT that nearly killed him",
-        "url": "https://www.abajournal.com/news/article/pastor&#45;sues&#45;openai&#45;over&#45;bad&#45;medical&#45;advice&#45;from&#45;chatgpt&#45;that&#45;nearly&#45;killed&#45;him/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-23T14:40:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/the&",
-        "title": "‘The most important criminal case of the term&#8217;—SCOTUS takes on plea bargaining",
-        "url": "https://www.abajournal.com/web/article/the&#45;most&#45;important&#45;criminal&#45;case&#45;of&#45;the&#45;term&#45;scotus&#45;takes&#45;on&#45;plea&#45;bargaining/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-23T14:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship",
         "title": "Harvey Deepens Microsoft Relationship",
         "url": "https://www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship/",
@@ -144,26 +174,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-07-23T06:48:04.000Z",
         "summary": "Katie stood outside the managing partner’s door like a naughty student. Tim had sent everyone else away so he could have a solitary, emergency brainstorm. ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/turn&",
-        "title": "Turn the Beat Around: How a Dallas law firm stepped up to save the local music scene",
-        "url": "https://www.abajournal.com/web/article/turn&#45;the&#45;beat&#45;around/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-22T17:28:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/disbarred&",
-        "title": "Disbarred lawyer pleads guilty to stealing over $300K from former clients to support gambling addiction",
-        "url": "https://www.abajournal.com/news/article/disbarred&#45;attorney&#45;stole&#45;more&#45;than&#45;300000&#45;from&#45;clients&#45;to&#45;support&#45;gambling&#45;addiction/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-22T15:44:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1196,29 +1206,9 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/7rhl2bfzsq4knvpq9219",
-        "title": "“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持",
-        "url": "https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-24T19:30:52.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/video/wkdvjzq0lf6luznagwrp",
         "title": "深度对话：AI Agent 真落地，为什么需要 GPU 原生认知数据库？",
@@ -1325,7 +1315,7 @@
         "url": "https://36kr.com/p/3908881985901959?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-24T00:00:48.000Z",
-        "summary": "今日热点导览 混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型 极氪回应“海外锁车”事件 客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知 哈兰德和亚马尔2.2亿欧元身价破纪录 张雪峰女儿再接手三家公司股份 TOP 3 大新闻 段永平：10年内大概率不会卖泡泡玛特 7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最新想法。雪球上有用户向知名投资人段永平提问：“阿段不会要减点泡泡玛特仓位去��马斯克的SpaceX吧",
+        "summary": "今日热点导览 混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型 极氪回应“海外锁车”事件 客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知 哈兰德和亚马尔2.2亿欧元身价破纪录 张雪峰女儿再接手三家公司股份 TOP 3 大新闻 段永平：10年内大概率不会卖泡泡玛特 7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最新想法。雪球上有用户向知名投资人段永平提问：“阿段不会要减点泡泡玛特仓位去买马斯克的SpaceX吧？",
         "category": "updates",
         "region": "cn"
       },
