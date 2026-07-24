@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T19:01:19.430Z",
+  "generatedAt": "2026-07-24T01:55:17.001Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -88,16 +88,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship",
-        "title": "Harvey Deepens Microsoft Relationship",
-        "url": "https://www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-23T12:38:56.000Z",
-        "summary": "Harvey has deepened its engagement with Microsoft, in this case via providing its legal AI platform to the tech giant&#8217;s Corporate, External, and Legal Affairs ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/microsofts-own-legal-department-will-use-harvey-as-the-two-companies-deepen-their-alliance.html",
         "title": "Microsoft&#8217;s Own Legal Department Will Use Harvey, As the Two Companies Deepen Their Alliance",
         "url": "https://www.lawnext.com/2026/07/microsofts-own-legal-department-will-use-harvey-as-the-two-companies-deepen-their-alliance.html",
@@ -115,26 +105,6 @@
         "publishedAt": "2026-07-23T11:00:18.000Z",
         "summary": "The legal data company Entegrata, whose data lakehouse platform helps law firms consolidate siloed data into a single source of truth, has hired Andrew Baker, who for more than five years led applied AI and data science ",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/flank-launches-record-agentic-contract-truth-system",
-        "title": "Flank Launches ‘Record’ – Agentic Contract Truth System",
-        "url": "https://www.artificiallawyer.com/2026/07/23/flank-launches-record-agentic-contract-truth-system/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-23T08:09:52.000Z",
-        "summary": "Flank, the agentic legal tech company focused on inhouse teams, has launched Flank Record, an autonomous agentic contract system of record, which greatly reduces the ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/the-innovators-press-conference",
-        "title": "The Innovators – &#8216;Press Conference&#8217;",
-        "url": "https://www.artificiallawyer.com/2026/07/23/the-innovators-press-conference/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-23T06:48:04.000Z",
-        "summary": "Katie stood outside the managing partner’s door like a naughty student. Tim had sent everyone else away so he could have a solitary, emergency brainstorm. ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -165,86 +135,6 @@
         "publishedAt": "2026-07-22T14:25:17.000Z",
         "summary": "Two practicing lawyers in Austin, Texas, have built a free connector that plugs Claude directly into millions of court opinions, statutes, regulations and court rules, along with federal court filings via PACER — and the",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/us-law-firm-willkie-partners-with-openai",
-        "title": "US Law Firm Willkie Partners With OpenAI",
-        "url": "https://www.artificiallawyer.com/2026/07/22/us-law-firm-willkie-partners-with-openai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-22T11:40:27.000Z",
-        "summary": "Major US law firm, Willkie, is partnering with OpenAI to develop ‘AI solutions across the firm&#8217;s legal and business operations, including a firmwide rollout of ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/tomorrow-opus-2-webinar-ai-native-litigation-workflows",
-        "title": "Tomorrow &#8211; Opus 2 Webinar: AI-Native Litigation Workflows",
-        "url": "https://www.artificiallawyer.com/2026/07/22/tomorrow-opus-2-webinar-ai-native-litigation-workflows/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-22T11:05:10.000Z",
-        "summary": "Join us tomorrow (Thursday) for a special live webinar with Opus 2 and Artificial Lawyer: ‘From AI-enabled to AI-native workflows in litigation and beyond.&#8217; It will take place July ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/netdocuments-launches-expert-witness-plaintiff-apps",
-        "title": "NetDocuments Launches Expert Witness + Plaintiff Apps",
-        "url": "https://www.artificiallawyer.com/2026/07/22/netdocuments-launches-expert-witness-plaintiff-apps/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-22T10:40:54.000Z",
-        "summary": "NetDocuments is continuing its expansion drive into AI tools with a collection of new apps. For AL, the most significant ones are those related to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/the-ai-dividend-who-gets-the-savings-from-legal-ai",
-        "title": "The AI Dividend: Who Gets the Savings From Legal AI?",
-        "url": "https://www.artificiallawyer.com/2026/07/22/the-ai-dividend-who-gets-the-savings-from-legal-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-22T06:45:28.000Z",
-        "summary": "By Adam Nguyen, CEO, eBrevia. For the past two years, corporate legal departments have been told that AI will make legal work faster, more efficient ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/introducing-openai-presence",
-        "title": "Introducing OpenAI Presence",
-        "url": "https://openai.com/index/introducing-openai-presence",
-        "source": "OpenAI News",
-        "publishedAt": "2026-07-22T05:30:00.000Z",
-        "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/21/box-targets-legal-with-agentic-control-system",
-        "title": "Box Targets Legal With Agentic Control System",
-        "url": "https://www.artificiallawyer.com/2026/07/21/box-targets-legal-with-agentic-control-system/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-21T15:00:07.000Z",
-        "summary": "Box, which has evolved from a cloud storage business into an Intelligent Content Management (ICM) platform, is targeting the legal &#8211; and other regulated sectors ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/21/walk-through-ebrevia-draftpro-contract-ai",
-        "title": "Walk Through: eBrevia – DraftPro, Contract AI",
-        "url": "https://www.artificiallawyer.com/2026/07/21/walk-through-ebrevia-draftpro-contract-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-21T07:47:50.000Z",
-        "summary": "This week’s AL TV Product Walk Through is with eBrevia and takes a detailed look at DraftPro, part of its contract AI suite for inhouse ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/21/ai-is-accelerating-your-dms-will-determine-whether-you-keep-pace",
-        "title": "AI Is Accelerating – Your DMS Will Determine Whether You Keep Pace",
-        "url": "https://www.artificiallawyer.com/2026/07/21/ai-is-accelerating-your-dms-will-determine-whether-you-keep-pace/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-21T06:48:40.000Z",
-        "summary": "By Neil Araujo, CEO, iManage. In a relatively short span of time, it&#8217;s become increasingly clear that AI will have a profound impact on the ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,36 +1096,96 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3908211008050567",
-        "title": "黑石集团依托人工智能投资利润大幅飙升",
-        "url": "https://36kr.com/newsflashes/3908211008050567?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-23T12:37:49.000Z",
-        "summary": "受益于布局人工智能产业建设带来的收益，黑石第二季度可分配收益大涨26%，达到19.8亿美元。黑石本轮盈利增长核心驱动力来自人工智能相关投资。这家顶级资管巨头第二季度利润大幅走高，公司在全美大范围人工智能基建赛道的多板块投资兑现收益，利好覆盖私募股权、私募信贷、不动产等全部核心业务板块。（新浪财经）",
+        "id": "InfoQ China:www.infoq.cn/article/jtsp2ayluesx55j8yr7e",
+        "title": "Cloudera CTO：技术自主，始于开源架构",
+        "url": "https://www.infoq.cn/article/JtSP2aYluESx55J8yr7e?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-24T09:51:32.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3908187949159560",
-        "title": "证监会：落实落细投融资综合改革各项措施，更好发挥股票、基金、债券、期货市场功能",
-        "url": "https://36kr.com/newsflashes/3908187949159560?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-23T12:14:22.000Z",
-        "summary": "36氪获悉，中国证监会召开党的建设暨监管工作座谈会，会议强调，深化改革提升制度包容性适应性。落实落细投融资综合改革各项措施，更好发挥股票、基金、债券、期货市场功能。从严监管维护市场“三公”。坚持打大打恶打重点，提高监管执法质效，依法严查严处财务造假、内幕交易、操纵市场等违法违规行为，加强新型业务监管，推进人工智能在监管中的应用。",
+        "id": "InfoQ China:www.infoq.cn/article/efrkvfz2bcbztdfthycu",
+        "title": "AWS Continuum 将为企业提供智能体代码安全解决方案",
+        "url": "https://www.infoq.cn/article/efrkvfZ2bcbztDfThycu?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-24T09:27:10.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3908171048326532",
-        "title": "普冉股份：预计2026年上半年净利润同比增长1925.36%",
-        "url": "https://36kr.com/newsflashes/3908171048326532?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3908935688475783",
+        "title": "上半年量价承压，光伏产业链反转拐点或临近",
+        "url": "https://36kr.com/newsflashes/3908935688475783?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-23T12:04:10.000Z",
-        "summary": "36氪获悉，普冉股份公告，预计2026年半年度实现归属于母公司所有者的净利润约为8.25亿元，与上年同期（法定披露数据）相比，将增加7.84亿元左右，同比增加1925.36%左右。2026年上半年，受益于全球人工智能算力建设，存储芯片行业供给格局结构优化，通用存储芯片产品价格维持上涨态势，存储业务实现量价同步改善。同时公司持续落实“存储+”发展战略，MCU、Driver等模拟新产品逐步渗透工业控制、AIoT领域并实现规模出货，相关产品市",
+        "publishedAt": "2026-07-24T01:07:54.000Z",
+        "summary": "2026年上半年，光伏行业进入调整阶段，主产业链各环节产量普遍下行，产品价格震荡走弱，新增装机规模明显回落。7月23日，在中国光伏行业协会主办的光伏行业2026年上半年发展回顾与下半年形势展望研讨会上，多位专家剖析了行业当下遭遇的多重挑战。业内专家认为，伴随强制性国家标准落地，低效产能加速出清，行业竞争逻辑正发生转变，逐步由以往“比拼价格，扩张规模”，转向以技术、品质、差异化优势为核心的价值竞争赛道。乐观预期下，头部企业经营状况有望在下",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3908904196052354",
+        "title": "新机潮叠加AI机遇，消费电子产业链全速备货",
+        "url": "https://36kr.com/newsflashes/3908904196052354?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-24T01:01:59.000Z",
+        "summary": "消费电子行业景气度稳步回暖，业绩端迎来明显改善。Wind数据显示，截至7月23日，A股已有32家消费电子公司披露上半年业绩预告，逾七成预计盈利。AI已成为行业增长的核心引擎，AI智能硬件放量与算力业务拓展支撑起多家公司上半年业绩大幅预增。进入下半年，消费电子行业在传统旺季中亮点纷呈：全球首款AI智能体手机正式亮相，三星首款AI眼镜发布，苹果首款折叠屏手机组装出货量预计多达800万台。上述消息持续催化市场热度，A股产业链公司纷纷加快备货节",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3908881985901959",
+        "title": "8点1氪丨段永平称10年内大概率不会卖泡泡玛特；中国数学家王虹、邓煜获得菲尔兹奖；宜家回应甩卖8处物业：不代表退出中国市场",
+        "url": "https://36kr.com/p/3908881985901959?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-24T00:00:48.000Z",
+        "summary": "今日热点导览 混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型 极氪回应“海外锁车”事件 客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知 哈兰德和亚马尔2.2亿欧元身价破纪录 张雪峰女儿再接手三家公司股份 TOP 3 大新闻 段永平：10年内大概率不会卖泡泡玛特 7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最新想法。雪球上有用户向知名投资人段永平提问：“阿段不会要减点泡泡玛特仓位去买马斯克的SpaceX吧？",
         "category": "updates",
         "region": "cn"
       },
@@ -1330,16 +1280,6 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/p/3907532622648453",
-        "title": "36氪首发 | 同济博士做几何、物理AI重构设计制造，累计获超3亿元融资",
-        "url": "https://36kr.com/p/3907532622648453?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-23T01:08:03.000Z",
-        "summary": "图源/企业 本文约 1400 字，建议阅读 3 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，工业AI设计研发解决方案供应商「设序科技」于近日正式完成B轮超亿元融资，累计获超3亿元融资，投资方包括深产投、合鼎共及老股东涌铧投资等。融资将用于市场开拓（含出海）及核心模型技术研发。 设序科技成立于2020年，旗下产品“则形AI”是基于自研工业世界模型与自然语言大模型封装的面向硬件工程的设计研发智能体平台，提供云架构下的3D设计方案与2D工程图纸",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/p8g7tasip0rkefflxaf0",
         "title": "OpenAI承认为了偷答案，GPT-5.6 Sol 一路“杀进”生产系统：AI自主攻击时代真的来了",
         "url": "https://www.infoq.cn/article/P8G7TAsIP0rkeFFLxAf0?utm_source=rss&utm_medium=article",
@@ -1348,18 +1288,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/jxq5oqeocejlkuq2qc0y",
-        "title": "阿里千问发布 Qwen-Image-3.0，文本输入长度提升4.5倍",
-        "url": "https://www.infoq.cn/article/jXQ5oQeOcEjLkuq2Qc0y?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-22T17:42:33.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/opinion/hong-kong-opinion/article/3361470/hong-kong-must-wake-cold-hard-geopolitics-ai",
+        "title": "Hong Kong must wake up to the cold hard geopolitics of AI",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3361470/hong-kong-must-wake-cold-hard-geopolitics-ai?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-24T01:30:09.000Z",
+        "summary": "Officials talking about artificial intelligence (AI) often speak in terms of the next industrial revolution or existential risks. Such rhetoric ultimately does little to capture how AI filters into the ordinary workings ",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
