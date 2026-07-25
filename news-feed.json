@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T13:04:50.809Z",
+  "generatedAt": "2026-07-25T18:55:02.970Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1235,7 +1235,7 @@
         "url": "https://36kr.com/newsflashes/3910433082545536?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-25T03:00:00.000Z",
-        "summary": "随着全球科技巨头竞相加码人工智能基础设施建设，穆迪评级警告称，AI投资热潮正侵蚀大型云计算服务商的自由现金流，并推高资产负债表风险，未来投资者将更加关注这些企业能否从巨额AI投入中获得足够回��。穆迪在本周发布的研究报告中表示，包括微软(MSFT.US)、亚马逊(AMZN.US)、谷歌母公司Alphabet(GOOGL.US)、Meta(META.US)、甲骨文(ORCL.US)及CoreWeave(CRWV.US)在内的六家科技企业，",
+        "summary": "随着全球科技巨头竞相加码人工智能基础设施建设，穆迪评级警告称，AI投资热潮正侵蚀大型云计算服务商的自由现金流，并推高资产负债表风险，未来投资者将更加关注这些企业能否从巨额AI投入中获得足够回报。穆迪在本周发布的研究报告中表示，包括微软(MSFT.US)、亚马逊(AMZN.US)、谷歌母公司Alphabet(GOOGL.US)、Meta(META.US)、甲骨文(ORCL.US)及CoreWeave(CRWV.US)在内的六家科技企业，正",
         "category": "updates",
         "region": "cn"
       },
@@ -1285,7 +1285,7 @@
         "url": "https://36kr.com/p/3909160840451465?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-24T11:00:26.000Z",
-        "summary": "大公司： 字节跳动在中卫成立朔方星河科技公司，注册资本24亿 36氪获悉，天眼查App显示，近日，中卫朔方星河科技有限公司成立，法定代表人为田凯，注册资本24亿人民币，经营范围包括信息技术咨询服务、软件开发、信息系统集成服务、网络设备销售等。股东信息显示，该公司由北京字跳网络技术有限公司全资持股。 周生生、老凤祥等品牌金饰价格集体下调 当地时间7月23日，黄金白银大跌，油价狂飙。现货黄金跌1.96%，报4049美元��现货白银跌3.60",
+        "summary": "大公司： 字节跳动在中卫成立朔方星河科技公司，注册资本24亿 36氪获悉，天眼查App显示，近日，中卫朔方星河科技有限公司成立，法定代表人为田凯，注册资本24亿人民币，经营范围包括信息技术咨询服务、软件开发、信息系统集成服务、网络设备销售等。股东信息显示，该公司由北京字跳网络技术有限公司全资持股。 周生生、老凤祥等品牌金饰价格集体下调 当地时间7月23日，黄金白银大跌，油价狂飙。现货黄金跌1.96%，报4049美元；现货白银跌3.60%",
         "category": "updates",
         "region": "cn"
       },
@@ -1335,7 +1335,7 @@
         "url": "https://36kr.com/p/3908881985901959?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-24T00:00:48.000Z",
-        "summary": "今日热点导览 混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型 极氪回应“海外锁车”事件 客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知 哈兰德和亚马尔2.2亿欧元身价破纪录 张雪峰女儿再接手��家公司股份 TOP 3 大新闻 段永平：10年内大概率不会卖泡泡玛特 7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最新想法。雪球上有用户向知名投资人段永平提问：“阿段不会要减点泡泡玛特仓位去买马斯克的SpaceX吧",
+        "summary": "今日热点导览 混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型 极氪回应“海外锁车”事件 客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知 哈兰德和亚马尔2.2亿欧元身价破纪录 张雪峰女儿再接手三家公司股份 TOP 3 大新闻 段永平：10年内大概率不会卖泡泡玛特 7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最新想法。雪球上有用户向知名投资人段永平提问：“阿段不会要减点泡泡玛特仓位去买马斯克的SpaceX吧？",
         "category": "updates",
         "region": "cn"
       },
@@ -1351,16 +1351,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3361562/what-supernode-and-why-does-it-matter-china-us-tech-rivalry",
-        "title": "What is a supernode, and why does it matter for the China-US tech rivalry?",
-        "url": "https://www.scmp.com/tech/article/3361562/what-supernode-and-why-does-it-matter-china-us-tech-rivalry?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-25T13:00:08.000Z",
-        "summary": "As the size of artificial intelligence models expands beyond 1 trillion parameters, a new concept is dominating the computing landscape: “supernode”. At this year’s World Artificial Intelligence Conference (WAIC), China’",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures",
         "title": "Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures",
