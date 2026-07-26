@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T08:10:42.694Z",
+  "generatedAt": "2026-07-26T13:01:31.645Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1220,16 +1220,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/video/hdxigc63e5vuwiy7q6qd",
-        "title": "先有一致性，才有智能：AI 分析背后的隐性工程 ｜ Summit 2026",
-        "url": "https://www.infoq.cn/video/HDxIGC63e5vUWIy7q6qd?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-26T14:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/w9xu1rewna9klukjdbja",
         "title": "Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳",
         "url": "https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA?utm_source=rss&utm_medium=article",
@@ -1266,16 +1256,6 @@
         "source": "36Kr",
         "publishedAt": "2026-07-26T04:33:25.000Z",
         "summary": "据报道，在经历过去一段时间月之暗面Kimi K3发布引发的广泛关注后，月之暗面于本周五在北京的一个酒吧举行了庆功活动。据流出内容，月之暗面展示的一张庆功标语显示，月之暗面对于K3的定位是“扩容升级”，同时期望将下一代K4“狠狠干到极致”，并喊出了“冲上月球”口号。一张流出的图片显示，本场活动上，月之暗面联合创始人、总裁张予彤疑似也到了现场。（新浪科技）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3911975571379331",
-        "title": "交流会纪要外泄影响DeepSeek融资？内部人士：不可信",
-        "url": "https://36kr.com/newsflashes/3911975571379331?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-26T04:27:20.000Z",
-        "summary": "近日，疑似DeepSeek投资者交流会的纪要在市面上流出，引发广泛关注。据市场消息，这场本应在小范围封闭场合进行的内部交流，因会议纪要在未经授权的情况下外泄，已影响DeepSeek正在进行的新一轮融资进程，目前梁文锋已决定暂停新一轮交易的推进，要求团队重新评估信息披露流程和投资者沟通机制。 对于上述消息，有DeepSeek内部人士表示，“不可信，外部消息多为假的或者臆测”。不过，截至目前DeepSeek官方并未就此事进行任何回应。（新浪",
         "category": "updates",
         "region": "cn"
       },
@@ -1395,12 +1375,22 @@
         "url": "https://36kr.com/p/3908881985901959?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-24T00:00:48.000Z",
-        "summary": "今日热点导览 混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型 极氪回应“海外锁车”事件 客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知 哈兰德和亚马尔2.2亿欧元身价破纪录 张雪峰女儿再接手三家公司股份 TOP 3 大新闻 段永平：10年内大概率不会卖泡泡玛特 7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的��新想法。雪球上有用户向知名投资人段永平提问：“阿段不会要减点泡泡玛特仓位去买马斯克的SpaceX吧",
+        "summary": "今日热点导览 混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型 极氪回应“海外锁车”事件 客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知 哈兰德和亚马尔2.2亿欧元身价破纪录 张雪峰女儿再接手三家公司股份 TOP 3 大新闻 段永平：10年内大概率不会卖泡泡玛特 7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最新想法。雪球上有用户向知名投资人段永平提问：“阿段不会要减点泡泡玛特仓位去买马斯克的SpaceX吧？",
         "category": "updates",
         "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3361731/low-profile-high-ai-ambition-what-leaked-comments-reveal-about-deepseeks-liang-wenfeng",
+        "title": "Low profile, high AI ambition: what leaked comments reveal about DeepSeek’s Liang Wenfeng",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3361731/low-profile-high-ai-ambition-what-leaked-comments-reveal-about-deepseeks-liang-wenfeng?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-26T12:00:08.000Z",
+        "summary": "In an era dominated by aggressive tech founders who chase billion-dollar valuations and maximal profits while curating loud public profiles, Liang Wenfeng stands out for his insistence on staying in the background. With ",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures",
         "title": "Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures",
