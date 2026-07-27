@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T02:06:32.967Z",
+  "generatedAt": "2026-07-27T09:34:13.049Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/27/should-clients-expect-price-cuts-due-to-legal-ai",
+        "title": "Should Clients Expect Price Cuts Due To Legal AI?",
+        "url": "https://www.artificiallawyer.com/2026/07/27/should-clients-expect-price-cuts-due-to-legal-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-27T07:37:21.000Z",
+        "summary": "This is the central question: should clients expect price cuts from law firms and other legal businesses due to legal AI? Because if there is ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/columns/article/closing&",
         "title": "How to close the legal experience gap with simulation-based learning platforms",
@@ -234,16 +244,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-07-21T15:00:07.000Z",
         "summary": "Box, which has evolved from a cloud storage business into an Intelligent Content Management (ICM) platform, is targeting the legal &#8211; and other regulated sectors ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/21/walk-through-ebrevia-draftpro-contract-ai",
-        "title": "Walk Through: eBrevia – DraftPro, Contract AI",
-        "url": "https://www.artificiallawyer.com/2026/07/21/walk-through-ebrevia-draftpro-contract-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-21T07:47:50.000Z",
-        "summary": "This week’s AL TV Product Walk Through is with eBrevia and takes a detailed look at DraftPro, part of its contract AI suite for inhouse ...",
         "category": "tools",
         "region": "na"
       },
@@ -1210,31 +1210,81 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/apthbqxkujjm3bkaxzcy",
-        "title": "Snowflake CoCo 中的 Loop Engineering ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/APthBQXkUJjM3BkaXZCy?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/hjjofog5obigvyfod90j",
+        "title": "GitLab 将碳足迹意识融入 CI/CD，以衡量软件交付的环境成本",
+        "url": "https://www.infoq.cn/article/hJjOFog5ObigvYFod90j?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-27T10:00:00.000Z",
+        "publishedAt": "2026-07-27T17:14:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/sjj23grv7zxbhyaci8eq",
-        "title": "全球首款2nm GPU 炸场！OpenAI、Meta、微软集体站台，AMD 要拆掉英伟达护城河？",
-        "url": "https://www.infoq.cn/article/SJj23gRv7ZXBHyaCi8Eq?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/e5sncwkifnxylsqoeaq6",
+        "title": "从固定编排到自进化蜂群：EvoMap 如何让 Agent 继承经验｜AICon深圳",
+        "url": "https://www.infoq.cn/article/e5SNCwkIFNXylsQOEaQ6?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-27T09:57:45.000Z",
+        "publishedAt": "2026-07-27T17:05:25.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ja9xf4ldl8tkw9kyxv5x",
-        "title": "御三家都在押注的 Loops，代码怎么还是垃圾？",
-        "url": "https://www.infoq.cn/article/JA9Xf4ldl8TkW9kYxv5x?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/1yyoykv4gk0erge5hpto",
+        "title": "快手从 ClickHouse 到 Apache Doris 的百 PB 数据、200+集群迁移实践",
+        "url": "https://www.infoq.cn/article/1YYoykV4gk0eRGE5HpTO?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-27T09:44:41.000Z",
+        "publishedAt": "2026-07-27T16:55:43.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vhx0vynxpiesiuq0yir6",
+        "title": "从Token到任务：Agentic AI 如何改变基础设施的关注焦点",
+        "url": "https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-27T16:51:36.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/ztqtrhdya75f8fhvvoir",
+        "title": "圆桌访谈：为了钱包考虑，你必须关注的 Agent 基础设施",
+        "url": "https://www.infoq.cn/video/ZTqtrHdYa75f8FhvVOIR?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-27T16:27:19.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/gkxggedf2yzcm6mhxcv8",
+        "title": "跨境电商也“招” AI 员工了？模力工场×InfoQ×数势科技，共办龙岗跨境电商 AI 闭门峰会",
+        "url": "https://www.infoq.cn/article/gkXGgedf2YZCM6mhxCv8?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-27T16:13:05.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/pl99pqdrdo6abailm1jp",
+        "title": "RSPack 2.0：性能提升、更精简的依赖项和 ESM 核心",
+        "url": "https://www.infoq.cn/article/Pl99PqDrDO6abAIlm1jp?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-27T15:56:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/osl5ff3ibpsjzcqzkxow",
+        "title": "曝梁文锋不满内部会议泄露，DeepSeek或暂停融资；Karpathy入职Anthropic仅两月疑离职；日媒拆解宇树G1后认输：短期内赶不上中国｜AI周报",
+        "url": "https://www.infoq.cn/article/oSL5ff3IbpsJZcQzKxow?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-27T11:46:47.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1250,42 +1300,32 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/jdgonrm19rof1qhzfoqo",
-        "title": "亚马逊云科技发布 Loom，一个用于在企业级规模上管理 AI 代理的开源参考平台",
-        "url": "https://www.infoq.cn/article/JDgONrm19ROF1qHzfOQO?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-27T09:24:39.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3913684400952448",
+        "title": "上海市新增16款已完成备案的生成式人工智能服务",
+        "url": "https://36kr.com/newsflashes/3913684400952448?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-27T09:25:38.000Z",
+        "summary": "36氪获悉，上海市委网信办发布生成式人工智能服务已备案信息公告。截至7月27日，上海市新增16款已完成备案的生成式人工智能服务，累计已完成187款生成式人工智能服务备案。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3913222112089225",
-        "title": "英伟达用Vera处理器加速下一代CPU和GPU设计",
-        "url": "https://36kr.com/newsflashes/3913222112089225?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3913680378893703",
+        "title": "英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全",
+        "url": "https://36kr.com/newsflashes/3913680378893703?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-27T01:51:22.000Z",
-        "summary": "英伟达发文称，随着工程团队致力于开发越来越复杂的CPU、GPU和人工智能系统，现代芯片设计的复杂性也在不断增加。为应对这一挑战，英伟达正部署Vera应用于其下一代CPU和GPU开发的EDA工作流程。（新浪财经）",
-        "category": "updates",
+        "publishedAt": "2026-07-27T09:21:33.000Z",
+        "summary": "7月27日，英伟达、微软、Adobe、SpacexAI、IBM、SAP、戴尔、思科等企业宣布成立开放安全人工智能联盟，旨在构建和共享开放工具，以促进AI的负责任使用。该联盟成员还包括Cadence、Capital One、Cloudera、Cloudflare、Cognition、CrowdStrike、Databricks、DoorDash、Elastic、慧与、Hugging Face、LangChain、Linux基金会、NAVE",
+        "category": "articles",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3913224940115334",
-        "title": "国家统计局：上半年算力需求大幅增长，推动电子行业利润同比增长96.9%",
-        "url": "https://36kr.com/newsflashes/3913224940115334?f=rss",
+        "id": "36Kr:36kr.com/p/3913490184754313",
+        "title": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付",
+        "url": "https://36kr.com/p/3913490184754313?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-27T01:38:15.000Z",
-        "summary": "36氪获悉，国家统计局工业司首席统计师于卫宁解读2026年1—6月份工业企业利润数据，电子相关行业利润高速增长。上半年，人工智能与各领域加速融合，算力需求大幅增长，推动电子行业利润同比增长96.9%，拉动全部规模以上工业企业利润增长8.5个百分点，是规模以上工业企业利润较快增长的重要支撑。其中，服务器、高性能工作站相关领域中，计算机整机制造、计算机外围设备制造行业利润分别增长689.3%、305.8%；电子器件制造领域中，集成电路制造、",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3913166692177031",
-        "title": "市场调整资金逆势进场，超650亿元资金净流入ETF",
-        "url": "https://36kr.com/newsflashes/3913166692177031?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-27T00:54:46.000Z",
-        "summary": "上周，A股市场震荡分化，资源板块表现活跃，市场风格呈现明显切换特征。黄金股、有色、油气等资产表现强势，多只黄金主题ETF周涨幅超过10%。与此同时，在科技股普遍承压的背景下，半导体产业链持续受到资金关注，中韩半导体等ETF上周成交活跃。从资金流向来看，在市场调整之际，ETF市场呈现大量资金净流入。上周，ETF市场资金净流入超650亿元，科创50、沪深300等核心宽基指数ETF受到资金重点布局。同时，多只黄金ETF、半导体设备ETF、电力",
+        "publishedAt": "2026-07-27T06:08:54.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。 一思智能成立于2024年12月，从AI网球机器人切入，尝试构建覆盖硬件、软件、数据、AI教练与运动服务的智能训练生态。公司创始人刘礼谦拥有十余年机器人研发和产品经验，曾在大疆、KUKA等企业从事研发工作，联合创始人晁光此前曾任职",
         "category": "updates",
         "region": "cn"
       },
@@ -1348,69 +1388,19 @@
         "summary": "今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。 据悉，距上次中国企业家登上该刊",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/wkdvjzq0lf6luznagwrp",
-        "title": "深度对话：AI Agent 真落地，为什么需要 GPU 原生认知数据库？",
-        "url": "https://www.infoq.cn/video/WKDVJzq0LF6luzNAGwrP?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-24T17:30:28.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/scpx11gzcauxofdksekc",
-        "title": "Java 近期新闻：值对象、WildFly 41、TornadoVM、LangChain4j、Oracle AI Agent Studio",
-        "url": "https://www.infoq.cn/article/SCpx11gzcAUXOFdkSEKC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-24T14:24:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3909565569324163",
-        "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
-        "url": "https://36kr.com/p/3909565569324163?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-24T11:36:12.000Z",
-        "summary": "7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“ AnySearch 学生与开发者成长计划”（AnySearch Student & Developer Program） 。该计划面向全球学生与开发者开放，旨在通过提供开放的 AI 搜索基础设施，支持更多 AI 创造者开展学术研究、开源创新和 AI 应用开发。 图片1 随着 AI 加速演进，AI 应用正在从简单信息交互迈",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3909160840451465",
-        "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
-        "url": "https://36kr.com/p/3909160840451465?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-24T11:00:26.000Z",
-        "summary": "大公司： 字节跳动在中卫成立朔方星河科技公司，注册资本24亿 36氪获悉，天眼查App显示，近日，中卫朔方星河科技有限公司成立，法定代表人为田凯，注册资本24亿人民币，经营范围包括信息技术咨询服务、软件开发、信息系统集成服务、网络设备销售等。股东信息显示，该公司由北京字跳网络技术有限公司全资持股。 周生生、老凤祥等品牌金饰价格集体下调 当地时间7月23日，黄金白银大跌，油价狂飙。现货黄金跌1.96%，报4049美元；现货白银跌3.60%",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3909499179767169",
-        "title": "你的下一位面试官，可能不是人",
-        "url": "https://36kr.com/p/3909499179767169?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-24T10:34:07.000Z",
-        "summary": "谁能保证超级数字员工不是下一个AI落地的窗口 撰文 | 李嘉星 编辑 | 张薇 封面来源 | 元企AI 七月初，秋招开始预热。你投出去的下一份简历，可能不是先被HR看到，而是先被一个AI员工读完。 机器筛简历并不新鲜。真正有意思的是，如果这个AI不只是帮HR筛一下简历，而是像一个新入职的同事一样，被交代一个目标后，自己去找人、沟通、打分、汇报结果呢？ 最近，元企AI推出了第一款产品“超级HR”。 它不是一个只解决单点环节的工具，而是试图",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3909358392988806",
-        "title": "对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程",
-        "url": "https://36kr.com/p/3909358392988806?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-24T08:06:05.000Z",
-        "summary": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。曾鸣教授在WAIC现场接受36氪「氪话未来」特邀专访，围绕AI时代企业增长、组织变革、智能复利、AI原生业务以及企业落地路径等话题，分享了他对于人工智能如何重塑商业模式与价值创造方式的观察与判断。 本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/plus/tech/big-tech/article/3361997/cxmt-surge-shows-why-china-stock-buyers-see-ipos-one-way-bet",
+        "title": "CXMT surge shows why China stock buyers see IPOs as one-way bet",
+        "url": "https://www.scmp.com/plus/tech/big-tech/article/3361997/cxmt-surge-shows-why-china-stock-buyers-see-ipos-one-way-bet?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-27T09:24:12.000Z",
+        "summary": "Chipmaker CXMT surged more than fivefold on its Shanghai trading debut to become the largest mainland-listed company by market value as the artificial intelligence boom stokes demand for memory chips. The stock closed at",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3361731/low-profile-high-ai-ambition-what-leaked-comments-reveal-about-deepseeks-liang-wenfeng",
         "title": "Low profile, high AI ambition: what leaked comments reveal about DeepSeek’s Liang Wenfeng",
