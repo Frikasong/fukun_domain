@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T09:34:13.049Z",
+  "generatedAt": "2026-07-27T14:12:59.297Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,71 +1210,21 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/video/htlgbwf6rgbkdi7teb7i",
+        "title": "圆桌访谈：当 AI Coding 成为日常，开发者真正该关心什么？",
+        "url": "https://www.infoq.cn/video/hTlgBWF6rgBKDi7TEb7i?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-27T18:03:04.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/hjjofog5obigvyfod90j",
         "title": "GitLab 将碳足迹意识融入 CI/CD，以衡量软件交付的环境成本",
         "url": "https://www.infoq.cn/article/hJjOFog5ObigvYFod90j?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-27T17:14:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/e5sncwkifnxylsqoeaq6",
-        "title": "从固定编排到自进化蜂群：EvoMap 如何让 Agent 继承经验｜AICon深圳",
-        "url": "https://www.infoq.cn/article/e5SNCwkIFNXylsQOEaQ6?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-27T17:05:25.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/1yyoykv4gk0erge5hpto",
-        "title": "快手从 ClickHouse 到 Apache Doris 的百 PB 数据、200+集群迁移实践",
-        "url": "https://www.infoq.cn/article/1YYoykV4gk0eRGE5HpTO?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-27T16:55:43.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vhx0vynxpiesiuq0yir6",
-        "title": "从Token到任务：Agentic AI 如何改变基础设施的关注焦点",
-        "url": "https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-27T16:51:36.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/ztqtrhdya75f8fhvvoir",
-        "title": "圆桌访谈：为了钱包考虑，你必须关注的 Agent 基础设施",
-        "url": "https://www.infoq.cn/video/ZTqtrHdYa75f8FhvVOIR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-27T16:27:19.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/gkxggedf2yzcm6mhxcv8",
-        "title": "跨境电商也“招” AI 员工了？模力工场×InfoQ×数势科技，共办龙岗跨境电商 AI 闭门峰会",
-        "url": "https://www.infoq.cn/article/gkXGgedf2YZCM6mhxCv8?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-27T16:13:05.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/pl99pqdrdo6abailm1jp",
-        "title": "RSPack 2.0：性能提升、更精简的依赖项和 ESM 核心",
-        "url": "https://www.infoq.cn/article/Pl99PqDrDO6abAIlm1jp?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-27T15:56:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1290,6 +1240,26 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/p/3913320648971395",
+        "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+        "url": "https://36kr.com/p/3913320648971395?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-27T11:37:06.000Z",
+        "summary": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一 36氪获悉，7月27日，Ope",
+        "category": "articles",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3913798998201732",
+        "title": "小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一",
+        "url": "https://36kr.com/newsflashes/3913798998201732?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-27T11:22:13.000Z",
+        "summary": "36氪获悉，7月27日，OpenRouter最新数据显示，小米MiMo-V2.5登上全球大模型调用量周榜、月榜双第一，成为当周全球调用量唯一突破10T的模型。5月以来，MiMo-V2.5全球调用量持续攀升，单周token量从1.46T逐步升至10.46T，两个月增长约 616%。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/5qw8qe37kgvdq9yy57xc",
         "title": "Cursor 用一群Agent重造SQLite：仅凭 835 页手册，无源码、无测试、不联网",
         "url": "https://www.infoq.cn/article/5qw8Qe37kGVDq9Yy57XC?utm_source=rss&utm_medium=article",
@@ -1297,26 +1267,6 @@
         "publishedAt": "2026-07-27T09:34:44.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3913684400952448",
-        "title": "上海市新增16款已完成备案的生成式人工智能服务",
-        "url": "https://36kr.com/newsflashes/3913684400952448?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-27T09:25:38.000Z",
-        "summary": "36氪获悉，上海市委网信办发布生成式人工智能服务已备案信息公告。截至7月27日，上海市新增16款已完成备案的生成式人工智能服务，累计已完成187款生成式人工智能服务备案。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3913680378893703",
-        "title": "英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全",
-        "url": "https://36kr.com/newsflashes/3913680378893703?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-27T09:21:33.000Z",
-        "summary": "7月27日，英伟达、微软、Adobe、SpacexAI、IBM、SAP、戴尔、思科等企业宣布成立开放安全人工智能联盟，旨在构建和共享开放工具，以促进AI的负责任使用。该联盟成员还包括Cadence、Capital One、Cloudera、Cloudflare、Cognition、CrowdStrike、Databricks、DoorDash、Elastic、慧与、Hugging Face、LangChain、Linux基金会、NAVE",
-        "category": "articles",
         "region": "cn"
       },
       {
@@ -1350,16 +1300,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/w9xu1rewna9klukjdbja",
-        "title": "Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳",
-        "url": "https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-26T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3911162147640456",
         "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
         "url": "https://36kr.com/p/3911162147640456?f=rss",
@@ -1368,29 +1308,29 @@
         "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。 这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」两个月内再次获得投资，此外，该公司Pre-A+轮的近5亿融资也在交割当中。该公司透露，今年上半年以来，「眸深智能」的估值增长超10倍，是业内",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3910880823202948",
-        "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
-        "url": "https://36kr.com/p/3910880823202948?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-25T11:00:21.000Z",
-        "summary": "文｜温丽虹 编辑｜张雨忻 Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。 从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。 公司刚创办，曾歆勋就拿到了今日资本徐新200万美元天",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3910351337821318",
-        "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
-        "url": "https://36kr.com/p/3910351337821318?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-25T00:57:52.000Z",
-        "summary": "今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。 据悉，距上次中国企业家登上该刊",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3362033/hong-kong-banks-early-stages-preparing-quantum-computing-threats-hkma-says",
+        "title": "Hong Kong banks in early stages of preparing for quantum computing threats, HKMA says",
+        "url": "https://www.scmp.com/business/banking-finance/article/3362033/hong-kong-banks-early-stages-preparing-quantum-computing-threats-hkma-says?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-27T13:50:35.000Z",
+        "summary": "Hong Kong’s banking sector is still in the early stages of preparing for cybersecurity risks posed by quantum computing, the city’s de facto central bank said on Monday as it unveiled a new benchmark to track the industr",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3361950/big-short-trader-michael-burrys-rising-bearish-ai-positions-test-chinas-stock-support",
+        "title": "Big Short trader Michael Burry’s rising bearish AI positions test China’s stock support",
+        "url": "https://www.scmp.com/business/china-business/article/3361950/big-short-trader-michael-burrys-rising-bearish-ai-positions-test-chinas-stock-support?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-27T10:00:11.000Z",
+        "summary": "China’s state support for its stock markets may face a test, as seasoned US hedge fund manager Michael Burry increased bearish wagers on artificial intelligence-linked stocks and Moody’s warned of debt risks from hypersc",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/plus/tech/big-tech/article/3361997/cxmt-surge-shows-why-china-stock-buyers-see-ipos-one-way-bet",
         "title": "CXMT surge shows why China stock buyers see IPOs as one-way bet",
