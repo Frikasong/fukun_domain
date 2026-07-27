@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T18:58:40.742Z",
+  "generatedAt": "2026-07-27T02:06:32.967Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,96 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/apthbqxkujjm3bkaxzcy",
+        "title": "Snowflake CoCo 中的 Loop Engineering ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/APthBQXkUJjM3BkaXZCy?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-27T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/sjj23grv7zxbhyaci8eq",
+        "title": "全球首款2nm GPU 炸场！OpenAI、Meta、微软集体站台，AMD 要拆掉英伟达护城河？",
+        "url": "https://www.infoq.cn/article/SJj23gRv7ZXBHyaCi8Eq?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-27T09:57:45.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ja9xf4ldl8tkw9kyxv5x",
+        "title": "御三家都在押注的 Loops，代码怎么还是垃圾？",
+        "url": "https://www.infoq.cn/article/JA9Xf4ldl8TkW9kYxv5x?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-27T09:44:41.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/5qw8qe37kgvdq9yy57xc",
+        "title": "Cursor 用一群Agent重造SQLite：仅凭 835 页手册，无源码、无测试、不联网",
+        "url": "https://www.infoq.cn/article/5qw8Qe37kGVDq9Yy57XC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-27T09:34:44.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jdgonrm19rof1qhzfoqo",
+        "title": "亚马逊云科技发布 Loom，一个用于在企业级规模上管理 AI 代理的开源参考平台",
+        "url": "https://www.infoq.cn/article/JDgONrm19ROF1qHzfOQO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-27T09:24:39.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3913222112089225",
+        "title": "英伟达用Vera处理器加速下一代CPU和GPU设计",
+        "url": "https://36kr.com/newsflashes/3913222112089225?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-27T01:51:22.000Z",
+        "summary": "英伟达发文称，随着工程团队致力于开发越来越复杂的CPU、GPU和人工智能系统，现代芯片设计的复杂性也在不断增加。为应对这一挑战，英伟达正部署Vera应用于其下一代CPU和GPU开发的EDA工作流程。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3913224940115334",
+        "title": "国家统计局：上半年算力需求大幅增长，推动电子行业利润同比增长96.9%",
+        "url": "https://36kr.com/newsflashes/3913224940115334?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-27T01:38:15.000Z",
+        "summary": "36氪获悉，国家统计局工业司首席统计师于卫宁解读2026年1—6月份工业企业利润数据，电子相关行业利润高速增长。上半年，人工智能与各领域加速融合，算力需求大幅增长，推动电子行业利润同比增长96.9%，拉动全部规模以上工业企业利润增长8.5个百分点，是规模以上工业企业利润较快增长的重要支撑。其中，服务器、高性能工作站相关领域中，计算机整机制造、计算机外围设备制造行业利润分别增长689.3%、305.8%；电子器件制造领域中，集成电路制造、",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3913166692177031",
+        "title": "市场调整资金逆势进场，超650亿元资金净流入ETF",
+        "url": "https://36kr.com/newsflashes/3913166692177031?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-27T00:54:46.000Z",
+        "summary": "上周，A股市场震荡分化，资源板块表现活跃，市场风格呈现明显切换特征。黄金股、有色、油气等资产表现强势，多只黄金主题ETF周涨幅超过10%。与此同时，在科技股普遍承压的背景下，半导体产业链持续受到资金关注，中韩半导体等ETF上周成交活跃。从资金流向来看，在市场调整之际，ETF市场呈现大量资金净流入。上周，ETF市场资金净流入超650亿元，科创50、沪深300等核心宽基指数ETF受到资金重点布局。同时，多只黄金ETF、半导体设备ETF、电力",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3913118530819457",
+        "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
+        "url": "https://36kr.com/p/3913118530819457?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-26T23:50:15.000Z",
+        "summary": "今日热点导览 A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间 360原董秘称离职7年股权激励未兑现，涉及金额约2649万 马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋 法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实 韩国养老金7月首度净买入KOSPI成分股，为今年首次 TOP 3大新闻 滥用市场支配地位实施垄断行为，携程被罚没51.79亿元 7月25日，市场监管总局依法对携程集团有限公司滥用市场支配地位实施垄断行为作出行政",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/video/tv8xhcydgpx6a38tuzeh",
         "title": "AI Agent 与前沿部署工程：商业决策智能实践 ｜ Summit 2026",
         "url": "https://www.infoq.cn/video/TV8xhCYdGPx6a38TuzEh?utm_source=rss&utm_medium=article",
@@ -1226,36 +1316,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-07-26T10:00:00.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3912181723518084",
-        "title": "亿田智能：子公司拟不超20亿元采购服务器及配套设备，为客户提供算力服务",
-        "url": "https://36kr.com/newsflashes/3912181723518084?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-26T07:57:02.000Z",
-        "summary": "7月26日，亿田智能公告称，公司全资子公司甘肃亿算拟向多家供应商采购服务器及配套设备，采购合同总金额预计不超过20亿元。本次采购主要用于为客户提供算力服务，不构成重大资产重组或关联交易。通过此次采购，公司能够加速构建自身的AI算力资源。亿田智能同时提示，公司算力业务尚处于业务拓展初期，公司主营业务仍为集成灶等厨房电器相关业务，整体经营基本面未发生变化。（财联社）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3912076178789766",
-        "title": "三星李在镕与OpenAI据悉磋商人工智能与半导体领域合作方案",
-        "url": "https://36kr.com/newsflashes/3912076178789766?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-26T06:09:40.000Z",
-        "summary": "三星电子会长李在镕与OpenAI首席执行官山姆・奥特曼于旧金山OpenAI总部会面，磋商人工智能与半导体领域合作方案。OpenAI 26日对外公布，当地时间25日上午，李在镕与奥特曼在其旧金山总部举行会谈。OpenAI并未披露具体洽谈内容与议题，但业内观察人士判断，双方大概率围绕高带宽内存（HBM）、动态随机存取存储器（DRAM）、先进晶圆代工等AI基础设施深化合作展开沟通。双方或还探讨了三星全业务线落地生成式人工智能的数字化转型方案。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3911981562270848",
-        "title": "月之暗面Kimi K3庆功照流出，张予彤疑现身，喊出“冲上月球”口号",
-        "url": "https://36kr.com/newsflashes/3911981562270848?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-26T04:33:25.000Z",
-        "summary": "据报道，在经历过去一段时间月之暗面Kimi K3发布引发的广泛关注后，月之暗面于本周五在北京的一个酒吧举行了庆功活动。据流出内容，月之暗面展示的一张庆功标语显示，月之暗面对于K3的定位是“扩容升级”，同时期望将下一代K4“狠狠干到极致”，并喊出了“冲上月球”口号。一张流出的图片显示，本场活动上，月之暗面联合创始人、总裁张予彤疑似也到了现场。（新浪科技）",
         "category": "updates",
         "region": "cn"
       },
@@ -1346,36 +1406,6 @@
         "source": "36Kr",
         "publishedAt": "2026-07-24T08:06:05.000Z",
         "summary": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。曾鸣教授在WAIC现场接受36氪「氪话未来」特邀专访，围绕AI时代企业增长、组织变革、智能复利、AI原生业务以及企业落地路径等话题，分享了他对于人工智能如何重塑商业模式与价值创造方式的观察与判断。 本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3909084356433025",
-        "title": "DeepSeek不是理想主义公司，它只是把现实服务于理想",
-        "url": "https://36kr.com/p/3909084356433025?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-24T04:26:38.000Z",
-        "summary": "DeepSeek的答案，不是只仰望星空，也不是只脚踏实地，而是用现实问题去支撑一个足够远的目标。 撰文 | 李嘉星 刘辰艺 编辑 | 张薇 头图来源 | DeepSeek 封面来源 | DeepSeek DeepSeek又一次被推到聚光灯下。 这家公司一度几乎是AI圈最神秘的存在：工程师文化、低调，创始人很少公开露面，团队也不像典型互联网公司那样频繁讲故事、做传播。但过去一年，它几乎每隔一段时间就会成为中文科技圈的中心。模型发布时，它因",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3909033052722310",
-        "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
-        "url": "https://36kr.com/p/3909033052722310?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-24T02:37:12.000Z",
-        "summary": "7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海落下帷幕。黄浦江畔，热浪与人潮一起涌动。本届大会以“智能伙伴，共创未来”为主题，在世博、张江、西岸三地四馆展开。作为年度人工智能产业观察窗口，WAIC 2026留下的关键信号，不在于展陈规模本身，而在于AI叙事的重心变化：技术展示正在退居幕后，真实场景、系统交付与商业价值被推到台前。 这也是36氪“氪话未来”连续第三年走进WAIC现场。过去三年，AI产业经历了",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3908881985901959",
-        "title": "8点1氪丨段永平称10年内大概率不会卖泡泡玛特；中国数学家王虹、邓煜获得菲尔兹奖；宜家回应甩卖8处物业：不代表退出中国市场",
-        "url": "https://36kr.com/p/3908881985901959?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-24T00:00:48.000Z",
-        "summary": "今日热点导览 混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型 极氪回应“海外锁车”事件 客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知 哈兰德和亚马尔2.2亿欧元身价破纪录 张雪峰女儿再接手三家公司股份 TOP 3 大新闻 段永平：10年内大概率不会卖泡泡玛特 7月23���，段永平在社交媒体平台雪球上发表了他对近期投资操作的最新想法。雪球上有用户向知名投资人段永平提问：“阿段不会要减点泡泡玛特仓位去买马斯克的SpaceX",
         "category": "updates",
         "region": "cn"
       }
