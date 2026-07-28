@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T13:44:00.519Z",
+  "generatedAt": "2026-07-28T19:10:26.437Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,12 +8,102 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.com/news/article/maine&",
+        "title": "Lobster defamation case wades into free speech concerns at 1st Circuit",
+        "url": "https://www.abajournal.com/news/article/maine&#45;lobster&#45;defamation&#45;case&#45;wades&#45;into&#45;speech&#45;concerns&#45;at&#45;the&#45;first&#45;circuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-28T17:25:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/07/q2-report-on-legal-tech-advertising-finds-q1s-buying-surge-was-largely-seasonal-but-reveals-where-demand-is-now-concentrated.html",
+        "title": "Q2 Report On Legal Tech Advertising Finds Q1’s Buying Surge Was Largely Seasonal, But Reveals Where Demand Is Now Concentrated",
+        "url": "https://www.lawnext.com/2026/07/q2-report-on-legal-tech-advertising-finds-q1s-buying-surge-was-largely-seasonal-but-reveals-where-demand-is-now-concentrated.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-28T17:04:51.000Z",
+        "summary": "In April, I reported here on a dramatic first-quarter 2026 increase in the numbers of legal tech demos law firms were scheduling, with the numbers going up across nearly every major practice area by as much as 40% to 50%",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/the&",
+        "title": "The value of proprietary content in an AI era",
+        "url": "https://www.abajournal.com/columns/article/the&#45;value&#45;of&#45;proprietary&#45;content&#45;in&#45;an&#45;ai&#45;era/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-28T15:59:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/black&",
+        "title": "Black, Latino drivers win certification in traffic stop bias suit",
+        "url": "https://www.abajournal.com/news/article/black&#45;latino&#45;drivers&#45;win&#45;certification&#45;in&#45;chicago&#45;traffic&#45;stop&#45;bias&#45;suit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-28T15:33:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ai&",
+        "title": "AI may push more contract attorneys to cut pay, new study shows",
+        "url": "https://www.abajournal.com/news/article/ai&#45;may&#45;push&#45;more&#45;contract&#45;attorneys&#45;to&#45;cut&#45;pay&#45;new&#45;study&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-28T14:38:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/supreme&",
+        "title": "Supreme Court public approval rating hits all-time low",
+        "url": "https://www.abajournal.com/news/article/supreme&#45;court&#45;public&#45;approval&#45;rating&#45;hits&#45;all&#45;time&#45;low/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-28T14:26:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/milbank&",
+        "title": "Milbank gives associates bonuses after raising their salaries",
+        "url": "https://www.abajournal.com/news/article/milbank&#45;gives&#45;associates&#45;special&#45;bonuses&#45;after&#45;raises/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-28T14:19:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/strengthening&",
+        "title": "Strengthening Our Democracy: ABA advocates to strengthen democracy",
+        "url": "https://www.abajournal.com/web/article/strengthening&#45;our&#45;democracy&#45;aba&#45;advocates&#45;to&#45;strengthen&#45;democracy/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-28T14:08:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/one&",
+        "title": "One size fits all? What’s prompting the rapid consolidation of legal practice tech tools?",
+        "url": "https://www.abajournal.com/web/article/one&#45;size&#45;fits&#45;all&#45;whats&#45;prompting&#45;the&#45;rapid&#45;consolidation&#45;of&#45;legal&#45;practice&#45;tech&#45;tools/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-28T14:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom",
         "title": "LegalOn Lets 100 AI Workflows Bloom",
         "url": "https://www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-07-28T12:00:10.000Z",
-        "summary": "LegalOn, the contract review specialists, have rolled out a library of 100-plus AI workflows, all available within its platform and aimed at inhouse lawyers. The ...",
+        "summary": "LegalOn, the contract review specialists, have rolled out a library of 100-plus AI workflows, all available within its platform and aimed at inhouse lawyers. (See ...",
         "category": "tools",
         "region": "na"
       },
@@ -68,16 +158,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/penn&",
-        "title": "Dean of Pennsylvania State University’s Dickinson Law steps down",
-        "url": "https://www.abajournal.com/web/article/penn&#45;state&#45;dickinson&#45;law&#45;dean&#45;steps&#45;down/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-27T16:26:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/bringing-home-the-bacon-clio-launches-clio-work-ai-in-its-home-country-of-canada.html",
         "title": "Bringing Home The Bacon: Clio Launches &#8216;Clio Work&#8217; AI In Its Home Country Of Canada",
         "url": "https://www.lawnext.com/2026/07/bringing-home-the-bacon-clio-launches-clio-work-ai-in-its-home-country-of-canada.html",
@@ -88,82 +168,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/chadwick&",
-        "title": "&#8216;Black Panther&#8217; star Chadwick Boseman&#8217;s brothers ask court to take control of his estate from widow",
-        "url": "https://www.abajournal.com/news/article/chadwick&#45;bosemans&#45;brothers&#45;ask&#45;la&#45;court&#45;to&#45;take&#45;control&#45;of&#45;his&#45;estate&#45;from&#45;widow/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-27T15:33:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/new&",
-        "title": "Lawyers barred from sex with clients in this state",
-        "url": "https://www.abajournal.com/news/article/new&#45;jersey&#45;bars&#45;lawyers&#45;from&#45;sex&#45;with&#45;clients/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-27T15:11:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/milwaukee&",
-        "title": "Lawyer convicted of sexual assault gets 21 years in prison",
-        "url": "https://www.abajournal.com/news/article/milwaukee&#45;lawyer&#45;convicted&#45;of&#45;sexual&#45;assault&#45;gets&#45;21&#45;years&#45;in&#45;prison/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-27T14:57:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/ill&",
-        "title": "I’ll Take the Law for $500: Who is the Foley & Lardner associate with a 2026 'Jeopardy!' appearance?",
-        "url": "https://www.abajournal.com/web/article/ill&#45;take&#45;the&#45;law&#45;for&#45;500/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-27T14:19:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/judges&",
-        "title": "Judges Under Fire: Now more than ever, judges are the targets of attacks that largely result from their case rulings",
-        "url": "https://www.abajournal.com/web/article/judges&#45;under&#45;fire/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-27T14:17:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/27/should-clients-expect-price-cuts-due-to-legal-ai",
         "title": "Should Clients Expect Price Cuts Due To Legal AI?",
         "url": "https://www.artificiallawyer.com/2026/07/27/should-clients-expect-price-cuts-due-to-legal-ai/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-07-27T07:37:21.000Z",
         "summary": "This is the central question: should clients expect price cuts from law firms and other legal businesses due to legal AI? Because if there is ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/closing&",
-        "title": "How to close the legal experience gap with simulation-based learning platforms",
-        "url": "https://www.abajournal.com/columns/article/closing&#45;the&#45;legal&#45;experience&#45;gap&#45;with&#45;simulation&#45;based&#45;learning&#45;platforms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-24T18:56:00.000Z",
-        "summary": "",
-        "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/kentucky&",
-        "title": "Lawyer’s former clients allege fraud, millions in theft before he died",
-        "url": "https://www.abajournal.com/news/article/kentucky&#45;lawyers&#45;former&#45;clients&#45;allege&#45;fraud&#45;in&#45;the&#45;millions&#45;before&#45;he&#45;died/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-24T17:29:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1178,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/04/flash-justice-aims-to-take-small-claims-plaintiffs-not-just-to-the-form-but-all-the-way-through-filing.html",
-        "title": "Flash Justice Aims to Take Small-Claims Plaintiffs Not Just to the Form, But All the Way through Filing",
-        "url": "https://www.lawnext.com/2026/04/flash-justice-aims-to-take-small-claims-plaintiffs-not-just-to-the-form-but-all-the-way-through-filing.html",
-        "source": "LawSites",
-        "publishedAt": "2026-04-23T13:35:15.000Z",
-        "summary": "In the wake of the Oct. 7, 2023, Hamas attack on Israel, Israeli entrepreneur Erez Vega-Kadoch kept receiving what he considered to be inappropriate text messages from an Israeli company. Never having consented to the me",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,16 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/video/spvfuewcp2vrtkcso1kb",
-        "title": "1v1 对话：一个人，能用 AI 做出什么？——和一位顶级 AI Builder 深聊",
-        "url": "https://www.infoq.cn/video/spVFUewcp2VRtKCSo1kB?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-28T19:30:29.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/newsflashes/3915250409270665",
         "title": "立昂技术：拟募资不超2.55亿元，用于立昂云数据人工智能算力资源池项目等",
         "url": "https://36kr.com/newsflashes/3915250409270665?f=rss",
@@ -1231,7 +1221,7 @@
       },
       {
         "id": "36Kr:36kr.com/newsflashes/3915264169275015",
-        "title": "亚马逊云服务与AI公司Recursive签署价值4.1亿美元多��期合作协议",
+        "title": "亚马逊云服务与AI公司Recursive签署价值4.1亿美元多年期合作协议",
         "url": "https://36kr.com/newsflashes/3915264169275015?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-28T12:12:40.000Z",
@@ -1285,7 +1275,7 @@
         "url": "https://36kr.com/p/3913637793059968?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-28T09:24:01.000Z",
-        "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃尔沃",
+        "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项���。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃",
         "category": "updates",
         "region": "cn"
       },
