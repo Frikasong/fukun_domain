@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T19:14:34.860Z",
+  "generatedAt": "2026-07-28T01:47:39.430Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,56 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/i84ffl01baixa1p6kqcl",
+        "title": "多区域架构中的权衡：延迟与成本",
+        "url": "https://www.infoq.cn/article/i84fFL01baIXa1P6Kqcl?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-28T09:24:24.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3914648643277958",
+        "title": "月之暗面Kimi K3正式开源",
+        "url": "https://36kr.com/newsflashes/3914648643277958?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-28T01:46:31.000Z",
+        "summary": "36氪获悉，7月27日晚，月之暗面发布Kimi K3的模型权重、技术报告，并开源支撑Kimi K3模型训练的关键Infra技术：MoonEP、FlashKDA和AgentEnv。据介绍，Kimi K3是一个拥有2.8万亿参数的混合专家（MoE）模型，具备原生视觉理解能力，并支持100万token的上下文窗口。月之暗面表示，现在每个人都可以下载并部署Kimi K3模型，无论是用于内部研发，还是嵌入到面向终端用户的产品中，均可自由使用。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3914601205011587",
+        "title": "阿里云真武超节点适配Kimi K3",
+        "url": "https://36kr.com/newsflashes/3914601205011587?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-28T00:58:16.000Z",
+        "summary": "36氪获悉，据阿里云消息，阿里云真武M890超节点实例已Day0适配Kimi K3，这是国内首个跑通近3万亿参数模型的超节点。双方将进一步展开国产算力合作，千问AI平台和阿里云百炼也将提供Kimi K3的模型API。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3914585364813189",
+        "title": "SK海力士市值蒸发4700亿美元，存储芯片热潮出现裂痕",
+        "url": "https://36kr.com/newsflashes/3914585364813189?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-28T00:42:09.000Z",
+        "summary": "短短一个多月内市值蒸发4700亿美元，SK海力士从全球最热门的人工智能主题交易之一变成投资组合中的问题持仓。由于投资者担忧AI主题交易过度拥挤，并且杠杆交易导致波动急剧上升，这家韩国存储芯片巨头的股价较6月创下的历史高点暴跌约38%。在此期间，SK海力士的市值缩水规模在全球范围内仅次于SpaceX。随着人工智能热潮推动芯片价格上涨，SK海力士周三料再次公布创纪录的季度业绩，但投资者正变得愈发谨慎，担忧存储芯片成本不断上升，可能迫使用户减",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3914520847570307",
+        "title": "8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果",
+        "url": "https://36kr.com/p/3914520847570307?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-27T23:36:45.000Z",
+        "summary": "今日热点导览 2026暑期档电影票房已突破57亿 茅台多地直营店：53度、500ml飞天茅台售价提至1719元/瓶 长鑫科技上市半日，7名高管晋升“10亿身家” 巴西总统卢拉：美持续在关税上对巴施压系战略错误 苹果公司称多项服务出现故障，包括App Store TOP 3大新闻 蔚来战投长鑫科技浮盈超7亿，李斌现身答谢晚宴 7月27日，国产存储龙头企业长鑫科技正式登陆科创板，一举成为A股最大市值公司。截至当天收盘，公司报49元/股，全天",
+        "category": "articles",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/video/htlgbwf6rgbkdi7teb7i",
         "title": "圆桌访谈：当 AI Coding 成为日常，开发者真正该关心什么？",
         "url": "https://www.infoq.cn/video/hTlgBWF6rgBKDi7TEb7i?utm_source=rss&utm_medium=article",
@@ -1247,16 +1297,6 @@
         "publishedAt": "2026-07-27T11:37:06.000Z",
         "summary": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一 36氪获悉，7月27日，Ope",
         "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3913798998201732",
-        "title": "小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一",
-        "url": "https://36kr.com/newsflashes/3913798998201732?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-27T11:22:13.000Z",
-        "summary": "36氪获悉，7月27日，OpenRouter最新数据显示，小米MiMo-V2.5登上全球大模型调用量周榜、月榜双第一，成为当周全球调用量唯一突破10T的模型。5月以来，MiMo-V2.5全球调用量持续攀升，单周token量从1.46T逐步升至10.46T，两个月增长约 616%。",
-        "category": "updates",
         "region": "cn"
       },
       {
@@ -1298,29 +1338,9 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3911162147640456",
-        "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
-        "url": "https://36kr.com/p/3911162147640456?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-26T01:00:00.000Z",
-        "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。 这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」两个月内再次获得投资，此外，该公司Pre-A+轮的近5亿融资也在交割当中。该公司透露，今年上半年以来，「眸深智能」的估值增长超10倍，是业内",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3362033/hong-kong-banks-early-stages-preparing-quantum-computing-threats-hkma-says",
-        "title": "Hong Kong banks in early stages of preparing for quantum computing threats, HKMA says",
-        "url": "https://www.scmp.com/business/banking-finance/article/3362033/hong-kong-banks-early-stages-preparing-quantum-computing-threats-hkma-says?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-27T13:50:35.000Z",
-        "summary": "Hong Kong’s banking sector is still in the early stages of preparing for cybersecurity risks posed by quantum computing, the city’s de facto central bank said on Monday as it unveiled a new benchmark to track the industr",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3361731/low-profile-high-ai-ambition-what-leaked-comments-reveal-about-deepseeks-liang-wenfeng",
         "title": "Low profile, high AI ambition: what leaked comments reveal about DeepSeek’s Liang Wenfeng",
