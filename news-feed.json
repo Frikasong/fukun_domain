@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T08:17:53.111Z",
+  "generatedAt": "2026-07-28T13:44:00.519Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom",
+        "title": "LegalOn Lets 100 AI Workflows Bloom",
+        "url": "https://www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-28T12:00:10.000Z",
+        "summary": "LegalOn, the contract review specialists, have rolled out a library of 100-plus AI workflows, all available within its platform and aimed at inhouse lawyers. The ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/28/crosby-to-insure-its-agents-for-legal-liability",
+        "title": "Crosby to Insure Its Agents for Legal Liability",
+        "url": "https://www.artificiallawyer.com/2026/07/28/crosby-to-insure-its-agents-for-legal-liability/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-28T08:24:37.000Z",
+        "summary": "NewMod law firm Crosby is to provide ‘professional liability insurance for [their] agents, so that they can do autonomous legal work’, in what is an ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/28/al-interview-lexisnexis-ceo-sean-fitzpatrick",
         "title": "AL Interview: LexisNexis CEO, Sean Fitzpatrick",
@@ -244,26 +264,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-07-22T11:05:10.000Z",
         "summary": "Join us tomorrow (Thursday) for a special live webinar with Opus 2 and Artificial Lawyer: ‘From AI-enabled to AI-native workflows in litigation and beyond.&#8217; It will take place July ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/netdocuments-launches-expert-witness-plaintiff-apps",
-        "title": "NetDocuments Launches Expert Witness + Plaintiff Apps",
-        "url": "https://www.artificiallawyer.com/2026/07/22/netdocuments-launches-expert-witness-plaintiff-apps/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-22T10:40:54.000Z",
-        "summary": "NetDocuments is continuing its expansion drive into AI tools with a collection of new apps. For AL, the most significant ones are those related to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/the-ai-dividend-who-gets-the-savings-from-legal-ai",
-        "title": "The AI Dividend: Who Gets the Savings From Legal AI?",
-        "url": "https://www.artificiallawyer.com/2026/07/22/the-ai-dividend-who-gets-the-savings-from-legal-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-22T06:45:28.000Z",
-        "summary": "By Adam Nguyen, CEO, eBrevia. For the past two years, corporate legal departments have been told that AI will make legal work faster, more efficient ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,42 +1210,92 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/vtcxtkbyjau54ivast6t",
-        "title": "OpenTelemetry晋升为CNCF的最高成熟度项目",
-        "url": "https://www.infoq.cn/article/VtCxtKByjAU54iVaSt6T?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/spvfuewcp2vrtkcso1kb",
+        "title": "1v1 对话：一个人，能用 AI 做出什么？——和一位顶级 AI Builder 深聊",
+        "url": "https://www.infoq.cn/video/spVFUewcp2VRtKCSo1kB?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-28T15:28:00.000Z",
+        "publishedAt": "2026-07-28T19:30:29.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/3uknejewovoqdcn0jpoy",
-        "title": "谷歌 AlphaEvolve 正式上线，提供“进化式代码优化即服务”",
-        "url": "https://www.infoq.cn/article/3UKNEJewovoQDcN0jpoy?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-28T14:00:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3915250409270665",
+        "title": "立昂技术：拟募资不超2.55亿元，用于立昂云数据人工智能算力资源池项目等",
+        "url": "https://36kr.com/newsflashes/3915250409270665?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-28T12:15:35.000Z",
+        "summary": "36氪获悉，立昂技术公告，公司发布2026年度以简易程序向特定对象发行股票预案，拟募集资金总额不超过2.55亿元，扣除发行费用后用于立昂云数据人工智能算力资源池项目及补充流动资金。",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3915020321871232",
-        "title": "OpenAI首席执行官将与美国财长、商务部长及国会议员会谈，讨论人工智能相关政策",
-        "url": "https://36kr.com/newsflashes/3915020321871232?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3915264169275015",
+        "title": "亚马逊云服务与AI公司Recursive签署价值4.1亿美元多��期合作协议",
+        "url": "https://36kr.com/newsflashes/3915264169275015?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-28T08:15:18.000Z",
-        "summary": "据知情人士透露，OpenAI首席执行官萨姆・奥特曼预计将于当地时间周三、周四重返华盛顿，与白宫及美国政府其他官员、国会两党议员举行会谈，讨论人工智能相关政策。其中一名消息人士透露，奥特曼预计将会见美国财长斯科特・贝森特；另有两名消息人士称，他还将与美国商务部长霍华德・卢特尼克会面。奥特曼此次访问正值关键节点，这不仅事关OpenAI，也关乎所有拥有前沿模型的人工智能企业。目前美国国会议员与监管机构正艰难寻求平衡：一方面要防范前沿模型被滥用",
+        "publishedAt": "2026-07-28T12:12:40.000Z",
+        "summary": "7月28日，亚马逊云服务（AWS）宣布与人工智能公司Recursive达成一项价值4.1亿美元的多年期协议。Recursive将指定AWS作为其云服务提供商，并在亚马逊云服务平台上运行其自动化AI研究系统。（界面）",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3915011137918345",
-        "title": "商务部：人工智能相关产品成为中国外贸“新名片”",
-        "url": "https://36kr.com/newsflashes/3915011137918345?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3915247046405507",
+        "title": "英伟达出资500亿美元租赁得州数据中心，该中心将采用其芯片",
+        "url": "https://36kr.com/newsflashes/3915247046405507?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-28T07:55:16.000Z",
-        "summary": "商务部外贸司副司长贺少军在28日举行的国新办发布会上表示，根据海关统计，今年上半年，我国工业机器人、3D打印机等人工智能相关产品出口表现亮眼，同比分别增长18.6%、109.3%，成为中国外贸“新名片”。（新华社）",
+        "publishedAt": "2026-07-28T12:10:04.000Z",
+        "summary": "英伟达签署最高价值500亿美元的巨型得州数据中心租赁协议。这项此前未对外披露的合作，再度引发市场关注：这家芯片巨头正不断深入参与AI基础设施融资环节。五位知情交易人士透露，这家市值接近5万亿美元的企业将整租数据中心开发商Hut 8在建的这座1吉瓦算力园区，园区内将部署数十万颗英伟达图形处理器。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3915239611739781",
+        "title": "科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思",
+        "url": "https://36kr.com/p/3915239611739781?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-28T11:48:20.000Z",
+        "summary": "7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌暨工作推进会在慕思健康睡眠股份有限公司（以下简称“慕思”）总部举行。本次工作推进会由东莞市科学技术局、厚街镇人民政府指导，慕思、广东华中科技大学工业技术研究院联合主办，东莞市相关职能部门、顶尖高校、三甲医疗机构、产业链核心企业、投资机构及主流媒体代表约300人参会。 推进会同步举行聘任与授牌仪式，正式聘任中科院院士、华中科技大学副校长尹周平为东莞市数字人体与智慧睡眠创新联合体首席科学家，",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3913321294369924",
+        "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
+        "url": "https://36kr.com/p/3913321294369924?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-28T11:39:56.000Z",
+        "summary": "大公司： YouTube与NBC环球达成合作协议，将为美用户提供流媒体捆绑服务 7月27日，美国流媒体平台YouTube与媒体巨头NBC环球（NBCUniversal）宣布深化战略合作。根据双方达成的协议，自2027年初起，美国本土的YouTube Premium订阅用户将无需支付额外费用，直接获取NBC环球旗下流媒体平台Peacock Premium的会员权益。（新浪财经） Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心 ",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3913213962540164",
+        "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发",
+        "url": "https://36kr.com/p/3913213962540164?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-28T10:38:46.000Z",
+        "summary": "作者 | 黄楠 编辑 | 袁斯来 硬氪获悉，人形机器人基础模型公司德塔智能（Delta Intelligence）近日完成近5亿元天使++轮融资，本轮投资方包括多家上市公司产业方和头部财务投资机构。资金将主要用于人形机器人基础模型持续迭代，加快自研数采设备的量产与数据闭环建设，扩充核心研发团队，以推动技术在真实工业场景中的工程化落地与验证。 这也是公司成立半年内完成的第六轮融资，此前，投资方包括北京通研院、智元机器人、乐聚机器人、星海图",
+        "category": "articles",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3913637793059968",
+        "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
+        "url": "https://36kr.com/p/3913637793059968?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-28T09:24:01.000Z",
+        "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃尔沃",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3915057199535233",
+        "title": "Kando AI完成数千万元种子轮融资，要做“决策领域的Cursor”｜涌现新项目",
+        "url": "https://36kr.com/p/3915057199535233?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-28T08:42:58.000Z",
+        "summary": "文｜邓咏仪 编辑｜张雨忻 吴秉哲每天至少复盘一次。 作为北大计算机博士，他同时也是一个高频的投资者。每天盘后，他会回顾当天的判断——哪些预案执行了，哪些被盘面的新信息打乱了，哪些潜意识的决策事后被验证是对的。 这个习惯持续了很多年。但有一个问题是，大部分复盘都没被系统性地沉淀下来。 “你的认知是一种资产，但现在所有东西都停留在人脑里。”吴秉哲说。他和Kando AI CEO毛书翰同为活跃的二级市场投资者。两个人的共性是，都在高频地做不确",
         "category": "updates",
         "region": "cn"
       },
@@ -1280,33 +1330,13 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/osl5ff3ibpsjzcqzkxow",
-        "title": "曝梁文锋不满内部会议泄露，DeepSeek或暂停融资；Karpathy入职Anthropic仅两月疑离职；日媒拆解宇树G1后认输：短期内赶不上中国｜AI周报",
-        "url": "https://www.infoq.cn/article/oSL5ff3IbpsJZcQzKxow?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-27T11:46:47.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3913320648971395",
-        "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业��本核算模型通则》发布，引导行业有序竞争",
+        "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
         "url": "https://36kr.com/p/3913320648971395?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-27T11:37:06.000Z",
         "summary": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一 36氪获悉，7月27日，Ope",
         "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3913490184754313",
-        "title": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付",
-        "url": "https://36kr.com/p/3913490184754313?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-27T06:08:54.000Z",
-        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。 一思智能成立于2024年12月，从AI网球机器人切入，尝试构建覆盖硬件、软件、数据、AI教练与运动服务的智能训练生态。公司创始人刘礼谦拥有十余年机器人研发和产品经验，曾在大疆、KUKA等企业从事研发工作，联合创始人晁光此前曾任职",
-        "category": "updates",
         "region": "cn"
       }
     ],
