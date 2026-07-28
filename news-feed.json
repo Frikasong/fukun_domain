@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T01:47:39.430Z",
+  "generatedAt": "2026-07-28T08:17:53.111Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/28/al-interview-lexisnexis-ceo-sean-fitzpatrick",
+        "title": "AL Interview: LexisNexis CEO, Sean Fitzpatrick",
+        "url": "https://www.artificiallawyer.com/2026/07/28/al-interview-lexisnexis-ceo-sean-fitzpatrick/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-28T06:50:33.000Z",
+        "summary": "Artificial Lawyer spoke to LexisNexis CEO, Sean Fitzpatrick, about a range of Big Picture topics: from company growth despite the Claude Crash, how token costs ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/scotus&",
         "title": "SCOTUSblog founder Tom Goldstein gets prison time; court filing details big spending, loans",
@@ -255,16 +265,6 @@
         "publishedAt": "2026-07-22T06:45:28.000Z",
         "summary": "By Adam Nguyen, CEO, eBrevia. For the past two years, corporate legal departments have been told that AI will make legal work faster, more efficient ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/21/box-targets-legal-with-agentic-control-system",
-        "title": "Box Targets Legal With Agentic Control System",
-        "url": "https://www.artificiallawyer.com/2026/07/21/box-targets-legal-with-agentic-control-system/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-21T15:00:07.000Z",
-        "summary": "Box, which has evolved from a cloud storage business into an Intelligent Content Management (ICM) platform, is targeting the legal &#8211; and other regulated sectors ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1210,42 +1210,42 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/i84ffl01baixa1p6kqcl",
-        "title": "多区域架构中的权衡：延迟与成本",
-        "url": "https://www.infoq.cn/article/i84fFL01baIXa1P6Kqcl?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/vtcxtkbyjau54ivast6t",
+        "title": "OpenTelemetry晋升为CNCF的最高成熟度项目",
+        "url": "https://www.infoq.cn/article/VtCxtKByjAU54iVaSt6T?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-28T09:24:24.000Z",
+        "publishedAt": "2026-07-28T15:28:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3914648643277958",
-        "title": "月之暗面Kimi K3正式开源",
-        "url": "https://36kr.com/newsflashes/3914648643277958?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-28T01:46:31.000Z",
-        "summary": "36氪获悉，7月27日晚，月之暗面发布Kimi K3的模型权重、技术报告，并开源支撑Kimi K3模型训练的关键Infra技术：MoonEP、FlashKDA和AgentEnv。据介绍，Kimi K3是一个拥有2.8万亿参数的混合专家（MoE）模型，具备原生视觉理解能力，并支持100万token的上下文窗口。月之暗面表示，现在每个人都可以下载并部署Kimi K3模型，无论是用于内部研发，还是嵌入到面向终端用户的产品中，均可自由使用。",
+        "id": "InfoQ China:www.infoq.cn/article/3uknejewovoqdcn0jpoy",
+        "title": "谷歌 AlphaEvolve 正式上线，提供“进化式代码优化即服务”",
+        "url": "https://www.infoq.cn/article/3UKNEJewovoQDcN0jpoy?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-28T14:00:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3914601205011587",
-        "title": "阿里云真武超节点适配Kimi K3",
-        "url": "https://36kr.com/newsflashes/3914601205011587?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3915020321871232",
+        "title": "OpenAI首席执行官将与美国财长、商务部长及国会议员会谈，讨论人工智能相关政策",
+        "url": "https://36kr.com/newsflashes/3915020321871232?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-28T00:58:16.000Z",
-        "summary": "36氪获悉，据阿里云消息，阿里云真武M890超节点实例已Day0适配Kimi K3，这是国内首个跑通近3万亿参数模型的超节点。双方将进一步展开国产算力合作，千问AI平台和阿里云百炼也将提供Kimi K3的模型API。",
+        "publishedAt": "2026-07-28T08:15:18.000Z",
+        "summary": "据知情人士透露，OpenAI首席执行官萨姆・奥特曼预计将于当地时间周三、周四重返华盛顿，与白宫及美国政府其他官员、国会两党议员举行会谈，讨论人工智能相关政策。其中一名消息人士透露，奥特曼预计将会见美国财长斯科特・贝森特；另有两名消息人士称，他还将与美国商务部长霍华德・卢特尼克会面。奥特曼此次访问正值关键节点，这不仅事关OpenAI，也关乎所有拥有前沿模型的人工智能企业。目前美国国会议员与监管机构正艰难寻求平衡：一方面要防范前沿模型被滥用",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3914585364813189",
-        "title": "SK海力士市值蒸发4700亿美元，存储芯片热潮出现裂痕",
-        "url": "https://36kr.com/newsflashes/3914585364813189?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3915011137918345",
+        "title": "商务部：人工智能相关产品成为中国外贸“新名片”",
+        "url": "https://36kr.com/newsflashes/3915011137918345?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-28T00:42:09.000Z",
-        "summary": "短短一个多月内市值蒸发4700亿美元，SK海力士从全球最热门的人工智能主题交易之一变成投资组合中的问题持仓。由于投资者担忧AI主题交易过度拥挤，并且杠杆交易导致波动急剧上升，这家韩国存储芯片巨头的股价较6月创下的历史高点暴跌约38%。在此期间，SK海力士的市值缩水规模在全球范围内仅次于SpaceX。随着人工智能热潮推动芯片价格上涨，SK海力士周三料再次公布创纪录的季度业绩，但投资者正变得愈发谨慎，担忧存储芯片成本不断上升，可能迫使用户减",
+        "publishedAt": "2026-07-28T07:55:16.000Z",
+        "summary": "商务部外贸司副司长贺少军在28日举行的国新办发布会上表示，根据海关统计，今年上半年，我国工业机器人、3D打印机等人工智能相关产品出口表现亮眼，同比分别增长18.6%、109.3%，成为中国外贸“新名片”。（新华社）",
         "category": "updates",
         "region": "cn"
       },
@@ -1291,22 +1291,12 @@
       },
       {
         "id": "36Kr:36kr.com/p/3913320648971395",
-        "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+        "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业��本核算模型通则》发布，引导行业有序竞争",
         "url": "https://36kr.com/p/3913320648971395?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-27T11:37:06.000Z",
         "summary": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一 36氪获悉，7月27日，Ope",
         "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/5qw8qe37kgvdq9yy57xc",
-        "title": "Cursor 用一群Agent重造SQLite：仅凭 835 页手册，无源码、无测试、不联网",
-        "url": "https://www.infoq.cn/article/5qw8Qe37kGVDq9Yy57XC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-27T09:34:44.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
         "region": "cn"
       },
       {
@@ -1316,26 +1306,6 @@
         "source": "36Kr",
         "publishedAt": "2026-07-27T06:08:54.000Z",
         "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。 一思智能成立于2024年12月，从AI网球机器人切入，尝试构建覆盖硬件、软件、数据、AI教练与运动服务的智能训练生态。公司创始人刘礼谦拥有十余年机器人研发和产品经验，曾在大疆、KUKA等企业从事研发工作，联合创始人晁光此前曾任职",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3913118530819457",
-        "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
-        "url": "https://36kr.com/p/3913118530819457?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-26T23:50:15.000Z",
-        "summary": "今日热点导览 A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间 360原董秘称离职7年股权激励未兑现，涉及金额约2649万 马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋 法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实 韩国养老金7月首度净买入KOSPI成分股，为今年首次 TOP 3大新闻 滥用市场支配地位实施垄断行为，携程被罚没51.79亿元 7月25日，市场监管总局依法对携程集团有限公司滥用市场支配地位实施垄断行为作出行政",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/tv8xhcydgpx6a38tuzeh",
-        "title": "AI Agent 与前沿部署工程：商业决策智能实践 ｜ Summit 2026",
-        "url": "https://www.infoq.cn/video/TV8xhCYdGPx6a38TuzEh?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-26T15:03:20.000Z",
-        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
