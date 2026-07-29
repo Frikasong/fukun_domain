@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T13:49:08.738Z",
+  "generatedAt": "2026-07-29T19:00:05.473Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,66 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/grand&",
+        "title": "Grand jury vetoes felony hit-and-run charges against former US attorney in Texas",
+        "url": "https://www.abajournal.com/news/article/grand&#45;jury&#45;rejects&#45;felony&#45;hit&#45;and&#45;run&#45;charges&#45;against&#45;former&#45;texas&#45;us&#45;attorney/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-29T16:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/pro&",
+        "title": "Pro se litigant starts trial with help of artificial intelligence",
+        "url": "https://www.abajournal.com/news/article/pro&#45;se&#45;litigant&#45;starts&#45;georgia&#45;trial&#45;with&#45;help&#45;of&#45;ai/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-29T15:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/bronx&",
+        "title": "Bronx Defenders Union joins ongoing strike with other NY public defenders",
+        "url": "https://www.abajournal.com/news/article/bronx&#45;defenders&#45;union&#45;joins&#45;ongoing&#45;strike&#45;with&#45;other&#45;ny&#45;public&#45;defenders/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-29T14:49:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/queens&",
+        "title": "Former Queens Defenders executive director sentenced to 43 months in prison",
+        "url": "https://www.abajournal.com/news/article/queens&#45;defenders&#45;co&#45;founder&#45;sentenced&#45;to&#45;43&#45;months/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-29T14:36:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/chemerinsky&",
+        "title": "Chemerinsky: How the Supreme Court&#8217;s decisions have had an impact on democracy",
+        "url": "https://www.abajournal.com/columns/article/chemerinsky&#45;how&#45;supreme&#45;courts&#45;decisions&#45;had&#45;an&#45;impact&#45;on&#45;democracy/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-29T14:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/76&",
+        "title": "Large majority of test-takers pass first step of new three-pronged Nevada bar exam",
+        "url": "https://www.abajournal.com/web/article/76&#45;pass&#45;first&#45;step&#45;of&#45;new&#45;three&#45;pronged&#45;nevada&#45;bar&#45;exam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-29T14:09:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/29/holiday-read-the-innovators-civil-war",
         "title": "Holiday Read &#8211; The Innovators – ‘Civil War’",
@@ -78,56 +138,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/ai&",
-        "title": "AI may be a boon for contract attorneys, new study shows",
-        "url": "https://www.abajournal.com/news/article/ai&#45;may&#45;push&#45;more&#45;contract&#45;attorneys&#45;to&#45;cut&#45;pay&#45;new&#45;study&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-28T14:38:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/supreme&",
-        "title": "Supreme Court public approval rating hits all-time low",
-        "url": "https://www.abajournal.com/news/article/supreme&#45;court&#45;public&#45;approval&#45;rating&#45;hits&#45;all&#45;time&#45;low/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-28T14:26:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/milbank&",
-        "title": "Milbank gives associates bonuses after raising their salaries",
-        "url": "https://www.abajournal.com/news/article/milbank&#45;gives&#45;associates&#45;special&#45;bonuses&#45;after&#45;raises/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-28T14:19:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/strengthening&",
-        "title": "Strengthening Our Democracy: ABA advocates to strengthen democracy",
-        "url": "https://www.abajournal.com/web/article/strengthening&#45;our&#45;democracy&#45;aba&#45;advocates&#45;to&#45;strengthen&#45;democracy/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-28T14:08:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/one&",
-        "title": "One size fits all? What’s prompting the rapid consolidation of legal practice tech tools?",
-        "url": "https://www.abajournal.com/web/article/one&#45;size&#45;fits&#45;all&#45;whats&#45;prompting&#45;the&#45;rapid&#45;consolidation&#45;of&#45;legal&#45;practice&#45;tech&#45;tools/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-28T14:07:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom",
         "title": "LegalOn Lets 100 AI Workflows Bloom",
         "url": "https://www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom/",
@@ -154,16 +164,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-07-28T06:50:33.000Z",
         "summary": "Artificial Lawyer spoke to LexisNexis CEO, Sean Fitzpatrick, about a range of Big Picture topics: from company growth despite the Claude Crash, how token costs ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/scotus&",
-        "title": "SCOTUSblog founder Tom Goldstein gets prison time; court filing details big spending, loans",
-        "url": "https://www.abajournal.com/web/article/scotus&#45;blog&#45;founder&#45;tom&#45;goldstein&#45;gets&#45;prison&#45;time&#45;court&#45;filing&#45;detail&#45;big&#45;spending&#45;and&#45;loans/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-27T18:49:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1210,22 +1210,22 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/video/g3qila4jaztdlcghqvkx",
-        "title": "深度对话：做AI的最佳伙伴：定义Token从“生产”到“应用”的确定性旅程",
-        "url": "https://www.infoq.cn/video/G3qIla4jAZtDLCGhqvKx?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-29T19:12:21.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/joov0ras1aezo92e4kyu",
         "title": "AI智能体正击穿生物安全防线！智源、北大实测11款商用大模型，均能生成绕过筛查的拆分方案",
         "url": "https://www.infoq.cn/article/JOOv0RAS1AEZO92E4KyU?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-29T16:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3916800672656773",
+        "title": "让AI先吃，这个国民级健康难题有解了",
+        "url": "https://36kr.com/p/3916800672656773?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T14:21:47.000Z",
+        "summary": "在科学减重这件事上，继战略投资薄荷健康之后，蚂蚁阿福又放了个大招。 7月29日，蚂蚁阿福宣布升级上线“AI拍饮食”功能，用户拍食物照片发给阿福，就能自动估算营养和热量信息，获得健康饮食搭配建议和运动消耗计划等，还支持一健存入个人健康档案，建立“热量账户”。吃得对不对，多不多，一目了然。 阿福此次推出“AI拍饮食”功能，并非是一项孤立动作。 一个月前，36氪曾报道，蚂蚁阿福发起“科学减重1亿斤”号召，推出“1分钱”低价供应体脂秤、升级AI",
         "category": "updates",
         "region": "cn"
       },
@@ -1388,39 +1388,9 @@
         "summary": "7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌暨工作推进会在慕思健康睡眠股份有限公司（以下简称“慕思”）总部举行。本次工作推进会由东莞市科学技术局、厚街镇人民政府指导，慕思、广东华中科技大学工业技术研究院联合主办，东莞市相关职能部门、顶尖高校、三甲医疗机构、产业链核心企业、投资机构及主流媒体代表约300人参会。 推进会同步举行聘任与授牌仪式，正式聘任中科院院士、华中科技大学副校长尹周平为东莞市数字人体与智慧睡眠创新联合体首席科学家，",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3913321294369924",
-        "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
-        "url": "https://36kr.com/p/3913321294369924?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-28T11:39:56.000Z",
-        "summary": "大公司： YouTube与NBC环球达成合作协议，将为美用户提供流媒体捆绑服务 7月27日，美国流媒体平台YouTube与媒体巨头NBC环球（NBCUniversal）宣布深化战略合作。根据双方达成的协议，自2027年初起，美国本土的YouTube Premium订阅用户将无需支付额外费用，直接获取NBC环球旗下流媒体平台Peacock Premium的会员权益。（新浪财经） Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心 ",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3362265/chinese-mlcc-firms-profits-and-stock-prices-fatten-hunger-electronic-rice",
-        "title": "Chinese MLCC firms’ profits and stock prices fatten on hunger for electronic ‘rice’",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3362265/chinese-mlcc-firms-profits-and-stock-prices-fatten-hunger-electronic-rice?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-29T10:30:12.000Z",
-        "summary": "Chinese manufacturers of multilayer ceramic capacitors (MLCCs) – tiny components required in great numbers to regulate electrical flow in electronic devices – are riding a stock rally on the back of explosive first-half ",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3362255/why-zhongji-unveiling-us12-billion-buy-backs-its-hong-kong-debut",
-        "title": "Why is Zhongji unveiling US$1.2 billion in buy-backs before its Hong Kong debut?",
-        "url": "https://www.scmp.com/tech/big-tech/article/3362255/why-zhongji-unveiling-us12-billion-buy-backs-its-hong-kong-debut?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-29T09:00:31.000Z",
-        "summary": "Zhongji Innolight’s buy-back plan – worth as much as 8 billion yuan (US$1.2 billion) in the run-up to its offshore listing in Hong Kong – may give global investors an anchor for pricing, as the Chinese supplier of US hyp",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3361731/low-profile-high-ai-ambition-what-leaked-comments-reveal-about-deepseeks-liang-wenfeng",
         "title": "Low profile, high AI ambition: what leaked comments reveal about DeepSeek’s Liang Wenfeng",
