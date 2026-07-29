@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T01:50:19.681Z",
+  "generatedAt": "2026-07-29T08:24:05.163Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,23 +1210,113 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/video/tolqxgztqedte6daglrs",
-        "title": "「进阶探索」掌握WorkBuddy隐藏技能，成为“养虾”高手",
-        "url": "https://www.infoq.cn/video/ToLqXgzTqeDtE6dAGLRs?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/joov0ras1aezo92e4kyu",
+        "title": "AI智能体正击穿生物安全防线！智源、北大实测11款商用大模型，均能生成绕过筛查的拆分方案",
+        "url": "https://www.infoq.cn/article/JOOv0RAS1AEZO92E4KyU?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-29T09:44:30.000Z",
+        "publishedAt": "2026-07-29T16:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/video/hyefbbaknc8v5tou0xzs",
-        "title": "「效率实战」用WorkBuddy搞定90%日常办公场景",
-        "url": "https://www.infoq.cn/video/HYeFbBAkNC8v5tOU0XzS?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/hmuigvovoymc0y29czxc",
+        "title": "GPT“失控”被索赔1亿美元，微软反手扔王炸：新模型踩翻Mythos、价格砍半，还拉上“苦主”组了联盟",
+        "url": "https://www.infoq.cn/article/HmUiGVoVoyMc0Y29cZXc?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-29T09:40:48.000Z",
+        "publishedAt": "2026-07-29T14:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/lmqjqxbzbw9cufy4kb9c",
+        "title": "全球六城联动，世界人工智能开源大赛（GOAI）线下宣讲即将启动",
+        "url": "https://www.infoq.cn/article/LmqJqxbZBw9cUFY4Kb9c?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-29T13:48:45.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/nd7yicucmbwkzxmtrfia",
+        "title": "从多区域 AWS API 中移除隐藏的往返请求",
+        "url": "https://www.infoq.cn/article/ND7YIcuCmbwKZXmtrFia?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-29T10:07:09.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/butxqdt3qzqziloszx4m",
+        "title": "OPPO 端侧多模态大模型工程化实践｜AICon深圳",
+        "url": "https://www.infoq.cn/article/ButxqDt3qZqzILoSZx4m?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-29T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jz394no5piziqnvbn4md",
+        "title": "普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+        "url": "https://www.infoq.cn/article/jZ394NO5PIZIqNVbN4mD?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-29T09:57:08.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3916447498825348",
+        "title": "黑芝麻智能与正行创新达成战略合作，全力推动具身智能全球布局",
+        "url": "https://36kr.com/newsflashes/3916447498825348?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T08:16:25.000Z",
+        "summary": "7月29日，黑芝麻智能与正行创新正式签署战略合作协议。双方将依托各自在端侧AI芯片与具身智能领域的核心优势，在本土化具身智能生态构建、算法适配与场景部署、全球市场商业化落地等诸多领域展开深度协同，携手推动具身智能技术向规模化产业应用迈进。此次合作是是黑芝麻智能完善具身智能生态布局的重要举措，也是打开全球市场的重要契机。未来，黑芝麻智能将持续开放算力平台能力，携手更多产业链伙伴深化协同，以高性能、高可靠的端侧 AI 算力底座，赋能具身智能",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3916413032230536",
+        "title": "国家人工智能产业基金入股艾捷科芯",
+        "url": "https://36kr.com/newsflashes/3916413032230536?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T08:03:17.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，北京艾捷科芯科技有限公司发生工商变更，新增国家人工智能产业投资基金合伙企业（有限合伙）为股东，同时，注册资本由约528万人民币增至约541万人民币。该公司成立于2023年8月，法定代表人为蒋毅敏，经营范围包括集成电路设计、集成电路芯片设计及服务、集成电路芯片及产品销售等，现由北京昆致科技有限公司、北京碧捷安芯科技有限公司及上述新增股东等共同持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3916412645568133",
+        "title": "东阳光在北京成立未来实验室科技公司，注册资本1亿",
+        "url": "https://36kr.com/newsflashes/3916412645568133?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T07:40:57.000Z",
+        "summary": "36氪获悉，天眼查App显示，近日，东阳光未来实验室科技（北京）有限公司成立，法定代表人为周林，注册资本1亿人民币，经营范围包括人工智能应用软件开发、智能机器人的研发、工业机器人制造、智能机器人销售等，由广东东阳光科技控股股份有限公司全资持股。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3916392126918277",
+        "title": "国家邮政局：“人工智能+”赋能邮政，无人机无人车加速落地",
+        "url": "https://36kr.com/newsflashes/3916392126918277?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T07:20:05.000Z",
+        "summary": "国家邮政局新闻发言人胡凯表示，“十五五”时期，国家邮政局将深入实施创新驱动发展战略，加强人工智能方向技术研发中心建设，统筹发展和安全，协同国家有关部门不断完善相关政策法规标准，拓展应用场景，培育发展行业新质生产力。不仅是“天上飞”“地上跑”的硬件升级，《邮政业发展“十五五”规划》还要求普及应用一批智能终端和智能体，提高全程智能监控和调度水平。同时挖掘行业数据在监测消费需求变化、物流通畅情况、经济发展状况等方面的价值，更好地服务政府决策、",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3916202023660929",
+        "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
+        "url": "https://36kr.com/p/3916202023660929?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T04:10:36.000Z",
+        "summary": "文｜王欣逸 编辑｜张雨忻 见到Mind Lab创始人陈锴杰，是在北京的晚上9点半，他已经见了一天的投资人。 陈锴杰是一位连续创业者，从杜克大学休学，做过AI互动故事平台MidReal，也推出了Personal Agent应用Macaron（马卡龙），上线当天就登顶了Product Hunt日榜；2025年10月，Mind Lab成立，团队约30余人，Mind Lab创始人Andrew Chen曾和姚顺雨共同发表FireAct论文，团队主",
+        "category": "tools",
         "region": "cn"
       },
       {
@@ -1240,32 +1330,12 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3916019086585225",
-        "title": "AI算力需求催热上半年业绩，MLCC产业链高景气度下半年将延续",
-        "url": "https://36kr.com/newsflashes/3916019086585225?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-29T01:00:36.000Z",
-        "summary": "今年以来，受益于AI算力需求爆发，素有“电子工业大米”之称的MLCC（片式多层陶瓷电容器）供应紧俏，价格持续上涨，带动被动元器件行业景气度回升，多家上市公司预计上半年业绩实现大幅增长，最高增幅超过6倍。展望下半年，有行业人士向记者表示，7月以来，MLCC价格整体平稳，品类内部价格则分化加剧，AI和车规级高端高容产品价格继续上涨。在AI服务器需求旺盛、原厂产能被锁定、上游贵金属等原材料价格居高的背景下，预计下半年高端高容MLCC价格将继续",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3915998116457858",
-        "title": "中信证券：看好特斯拉机器人的量产和应用前景",
-        "url": "https://36kr.com/newsflashes/3915998116457858?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-29T00:39:16.000Z",
-        "summary": "36氪获悉，中信证券指出，特斯拉兼具领先的AI大模型技术与规模化制造能力，公司位于全球具身智能产业链头部梯队，坚定看好特斯拉机器人的量产和应用前景。特斯拉Optimus即将进入生产阶段，Cybercab按计划进行测试中。建议关注产业链核心玩家。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3878652674715905",
         "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
         "url": "https://36kr.com/p/3878652674715905?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-29T00:15:00.000Z",
-        "summary": "文｜胡香赟 编辑｜海若镜 36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由蓝湾资本、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。 米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+ANN（微控制器+人工神经网络）通用算力方案，诞生于图像、文本离散数据场景，较难适配人体连续、微弱、高",
+        "summary": "文｜胡香赟 编辑｜海若镜 36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由仙居蓝湾基金、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。 米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+ANN（微控制器+人工神经网络）通用算力方案，诞生于图像、文本离散数据场景，较难适配人体连续、微弱",
         "category": "updates",
         "region": "cn"
       },
@@ -1301,7 +1371,7 @@
       },
       {
         "id": "36Kr:36kr.com/p/3913321294369924",
-        "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“��科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
+        "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
         "url": "https://36kr.com/p/3913321294369924?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-28T11:39:56.000Z",
@@ -1328,46 +1398,16 @@
         "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃尔沃",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3915057199535233",
-        "title": "Kando AI完成数千万元种子轮融资，要做“决策领域的Cursor”｜涌现新项目",
-        "url": "https://36kr.com/p/3915057199535233?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-28T08:42:58.000Z",
-        "summary": "文｜邓咏仪 编辑｜张雨忻 吴秉哲每天至少复盘一次。 作为北大计算机博士，他同时也是一个高频的投资者。每天盘后，他会回顾当天的判断——哪些预案执行了，哪些被盘面的新信息打乱了，哪些潜意识的决策事后被验证是对的。 这个习惯持续了很多年。但有一个问题是，大部分复盘都没被系统性地沉淀下来。 “你的认知是一种资产，但现在所有东西都停留在人脑里。”吴秉哲说。他和Kando AI CEO毛书翰同为活跃的二级市场投资者。两个人的共性是，都在高频地做不确",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/htlgbwf6rgbkdi7teb7i",
-        "title": "圆桌访谈：当 AI Coding 成为日常，开发者真正该关心什么？",
-        "url": "https://www.infoq.cn/video/hTlgBWF6rgBKDi7TEb7i?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-27T18:03:04.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hjjofog5obigvyfod90j",
-        "title": "GitLab 将碳足迹意识融入 CI/CD，以衡量软件交付的环境成本",
-        "url": "https://www.infoq.cn/article/hJjOFog5ObigvYFod90j?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-27T17:14:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/markets/article/3362123/hong-kong-stocks-hunker-down-day-packed-fed-decision-jumbo-ipo-debut",
-        "title": "Hong Kong stocks hunker down for a day packed with Fed decision, jumbo IPO debut",
-        "url": "https://www.scmp.com/business/markets/article/3362123/hong-kong-stocks-hunker-down-day-packed-fed-decision-jumbo-ipo-debut?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/article/3362223/chinese-ai-chip-giant-cambricon-sets-us148b-revenue-goal-tied-staff-incentive-plan",
+        "title": "Chinese AI chip giant Cambricon sets US$14.8b revenue goal tied to staff incentive plan",
+        "url": "https://www.scmp.com/tech/article/3362223/chinese-ai-chip-giant-cambricon-sets-us148b-revenue-goal-tied-staff-incentive-plan?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-07-29T00:00:10.000Z",
-        "summary": "Hong Kong stocks are gearing up for an eventful day on Thursday, when both a rate decision by the US Federal Reserve and a debut of the city’s largest initial public offering (IPO) in seven years coincide to test investo",
+        "publishedAt": "2026-07-29T06:21:19.000Z",
+        "summary": "Chinese artificial intelligence chip champion Cambricon Technologies has set a target of more than 100 billion yuan (US$14.8 billion) in revenue over the next three years as the prerequisite for a newly proposed employee",
         "category": "updates",
         "region": "cn_en"
       },
@@ -1378,16 +1418,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-07-26T12:00:08.000Z",
         "summary": "In an era dominated by aggressive tech founders who chase billion-dollar valuations and maximal profits while curating loud public profiles, Liang Wenfeng stands out for his insistence on staying in the background. With ",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/opinion/hong-kong-opinion/article/3361470/hong-kong-must-wake-cold-hard-geopolitics-ai",
-        "title": "Hong Kong must wake up to the cold hard geopolitics of AI",
-        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3361470/hong-kong-must-wake-cold-hard-geopolitics-ai?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-24T01:30:09.000Z",
-        "summary": "Officials talking about artificial intelligence (AI) often speak in terms of the next industrial revolution or existential risks. Such rhetoric ultimately does little to capture how AI filters into the ordinary workings ",
         "category": "updates",
         "region": "cn_en"
       }
