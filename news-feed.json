@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T19:10:26.437Z",
+  "generatedAt": "2026-07-29T01:50:19.681Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/whats&",
+        "title": "What&#8217;s it like to be a solo practitioner?",
+        "url": "https://www.abajournal.com/voice/article/whats&#45;it&#45;like&#45;to&#45;be&#45;a&#45;solo&#45;practitioner/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-28T20:01:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/maine&",
         "title": "Lobster defamation case wades into free speech concerns at 1st Circuit",
@@ -49,7 +59,7 @@
       },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/ai&",
-        "title": "AI may push more contract attorneys to cut pay, new study shows",
+        "title": "AI may be a boon for contract attorneys, new study shows",
         "url": "https://www.abajournal.com/news/article/ai&#45;may&#45;push&#45;more&#45;contract&#45;attorneys&#45;to&#45;cut&#45;pay&#45;new&#45;study&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-07-28T14:38:00.000Z",
@@ -145,16 +155,6 @@
         "publishedAt": "2026-07-27T18:31:09.000Z",
         "summary": "As chief technology officer at Casetext, Ryan Walker helped build CoCounsel, one of the first and most consequential generative AI legal assistants — a product so significant it led to the company&#8217;s $650 million ac",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/icc&",
-        "title": "Top prosecutor for International Criminal Court ousted following sexual misconduct investigation",
-        "url": "https://www.abajournal.com/news/article/icc&#45;top&#45;prosecutor&#45;ousted&#45;amid&#45;sexual&#45;misconduct&#45;investigation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-27T17:15:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,32 +1210,82 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3915250409270665",
-        "title": "立昂技术：拟募资不超2.55亿元，用于立昂云数据人工智能算力资源池项目等",
-        "url": "https://36kr.com/newsflashes/3915250409270665?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-28T12:15:35.000Z",
-        "summary": "36氪获悉，立昂技术公告，公司发布2026年度以简易程序向特定对象发行股票预案，拟募集资金总额不超过2.55亿元，扣除发行费用后用于立昂云数据人工智能算力资源池项目及补充流动资金。",
+        "id": "InfoQ China:www.infoq.cn/video/tolqxgztqedte6daglrs",
+        "title": "「进阶探索」掌握WorkBuddy隐藏技能，成为“养虾”高手",
+        "url": "https://www.infoq.cn/video/ToLqXgzTqeDtE6dAGLRs?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-29T09:44:30.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3915264169275015",
-        "title": "亚马逊云服务与AI公司Recursive签署价值4.1亿美元多年期合作协议",
-        "url": "https://36kr.com/newsflashes/3915264169275015?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-28T12:12:40.000Z",
-        "summary": "7月28日，亚马逊云服务（AWS）宣布与人工智能公司Recursive达成一项价值4.1亿美元的多年期协议。Recursive将指定AWS作为其云服务提供商，并在亚马逊云服务平台上运行其自动化AI研究系统。（界面）",
+        "id": "InfoQ China:www.infoq.cn/video/hyefbbaknc8v5tou0xzs",
+        "title": "「效率实战」用WorkBuddy搞定90%日常办公场景",
+        "url": "https://www.infoq.cn/video/HYeFbBAkNC8v5tOU0XzS?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-29T09:40:48.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3915247046405507",
-        "title": "英伟达出资500亿美元租赁得州数据中心，该中心将采用其芯片",
-        "url": "https://36kr.com/newsflashes/3915247046405507?f=rss",
+        "id": "36Kr:36kr.com/p/3915175290901889",
+        "title": "柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发",
+        "url": "https://36kr.com/p/3915175290901889?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-07-28T12:10:04.000Z",
-        "summary": "英伟达签署最高价值500亿美元的巨型得州数据中心租赁协议。这项此前未对外披露的合作，再度引发市场关注：这家芯片巨头正不断深入参与AI基础设施融资环节。五位知情交易人士透露，这家市值接近5万亿美元的企业将整租数据中心开发商Hut 8在建的这座1吉瓦算力园区，园区内将部署数十万颗英伟达图形处理器。（新浪财经）",
+        "publishedAt": "2026-07-29T01:30:00.000Z",
+        "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，柔性触觉感知企业「尧乐科技」近日完成Pre-A+新一轮融资，本轮融资由鼎和高达领投，上市公司常熟汽饰、祖龙娱乐跟投，云道资本担任长期独家财务顾问。资金将主要用于柔性织物传感技术研发、产品性能迭代升级，加快数据手套产能拓展和批量交付，并完善数据采集、标定与接口能力，加速面向具身智能、世界模型与智能座舱等场景落地。 尧乐科技以柔性织物传感为硬件入口，面向具身智能与世界模型所需的真实物理交互数据采集与预处理",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3916019086585225",
+        "title": "AI算力需求催热上半年业绩，MLCC产业链高景气度下半年将延续",
+        "url": "https://36kr.com/newsflashes/3916019086585225?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T01:00:36.000Z",
+        "summary": "今年以来，受益于AI算力需求爆发，素有“电子工业大米”之称的MLCC（片式多层陶瓷电容器）供应紧俏，价格持续上涨，带动被动元器件行业景气度回升，多家上市公司预计上半年业绩实现大幅增长，最高增幅超过6倍。展望下半年，有行业人士向记者表示，7月以来，MLCC价格整体平稳，品类内部价格则分化加剧，AI和车规级高端高容产品价格继续上涨。在AI服务器需求旺盛、原厂产能被锁定、上游贵金属等原材料价格居高的背景下，预计下半年高端高容MLCC价格将继续",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3915998116457858",
+        "title": "中信证券：看好特斯拉机器人的量产和应用前景",
+        "url": "https://36kr.com/newsflashes/3915998116457858?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T00:39:16.000Z",
+        "summary": "36氪获悉，中信证券指出，特斯拉兼具领先的AI大模型技术与规模化制造能力，公司位于全球具身智能产业链头部梯队，坚定看好特斯拉机器人的量产和应用前景。特斯拉Optimus即将进入生产阶段，Cybercab按计划进行测试中。建议关注产业链核心玩家。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3878652674715905",
+        "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+        "url": "https://36kr.com/p/3878652674715905?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T00:15:00.000Z",
+        "summary": "文｜胡香赟 编辑｜海若镜 36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由蓝湾资本、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。 米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+ANN（微控制器+人工神经网络）通用算力方案，诞生于图像、文本离散数据场景，较难适配人体连续、微弱、高",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3915953688604296",
+        "title": "8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源",
+        "url": "https://36kr.com/p/3915953688604296?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-28T23:54:15.000Z",
+        "summary": "今日热点导览 李宁此前起诉多个网络账号名誉侵权案，已取得胜诉判决 小米已注册澎程关联商标 泡泡玛特城市乐园涨价 英伟达据悉签署价值高达500亿美元的得州数据中心租赁协议 “抱抱脸”向OpenAI索赔1亿美元算力 TOP 3 大新闻 韩国考虑为“借钱炒股”封顶20% 韩国KOSPI指数尾盘扩大跌幅，日内大跌11%，自4月14日以来首次跌破6000点，较6月峰值跌超30%。据韩国《中央日报》中文网28日报道，韩国金融监管当局决定，若单一股票",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3915066350327176",
+        "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
+        "url": "https://36kr.com/p/3915066350327176?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-28T23:30:00.000Z",
+        "summary": "当前，AI技术正加速向实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品能力升级与产业价值提升的关键发展阶段。腾讯研究院2026年3月的调研数据显示，国内已有80.8%的消费者购买或使用过至少一类AI相关硬件产品，其中32.0%的用户表示将在未来三个月增加相关消费支出，消费端市场需求具备稳步向上的支撑基础。与此同时，端侧AI芯片、轻量化大模型、多传感融合等底层技术不断取得突破，推动智能硬件逐步降低对云端算力的",
         "category": "updates",
         "region": "cn"
       },
@@ -1251,7 +1301,7 @@
       },
       {
         "id": "36Kr:36kr.com/p/3913321294369924",
-        "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
+        "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“��科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
         "url": "https://36kr.com/p/3913321294369924?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-28T11:39:56.000Z",
@@ -1275,7 +1325,7 @@
         "url": "https://36kr.com/p/3913637793059968?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-28T09:24:01.000Z",
-        "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项���。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃",
+        "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃尔沃",
         "category": "updates",
         "region": "cn"
       },
@@ -1287,16 +1337,6 @@
         "publishedAt": "2026-07-28T08:42:58.000Z",
         "summary": "文｜邓咏仪 编辑｜张雨忻 吴秉哲每天至少复盘一次。 作为北大计算机博士，他同时也是一个高频的投资者。每天盘后，他会回顾当天的判断——哪些预案执行了，哪些被盘面的新信息打乱了，哪些潜意识的决策事后被验证是对的。 这个习惯持续了很多年。但有一个问题是，大部分复盘都没被系统性地沉淀下来。 “你的认知是一种资产，但现在所有东西都停留在人脑里。”吴秉哲说。他和Kando AI CEO毛书翰同为活跃的二级市场投资者。两个人的共性是，都在高频地做不确",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3914520847570307",
-        "title": "8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果",
-        "url": "https://36kr.com/p/3914520847570307?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-27T23:36:45.000Z",
-        "summary": "今日热点导览 2026暑期档电影票房已突破57亿 茅台多地直营店：53度、500ml飞天茅台售价提至1719元/瓶 长鑫科技上市半日，7名高管晋升“10亿身家” 巴西总统卢拉：美持续在关税上对巴施压系战略错误 苹果公司称多项服务出现故障，包括App Store TOP 3大新闻 蔚来战投长鑫科技浮盈超7亿，李斌现身答谢晚宴 7月27日，国产存储龙头企业长鑫科技正式登陆科创板，一举成为A股最大市值公司。截至当天收盘，公司报49元/股，全天",
-        "category": "articles",
         "region": "cn"
       },
       {
@@ -1318,19 +1358,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3913320648971395",
-        "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
-        "url": "https://36kr.com/p/3913320648971395?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-27T11:37:06.000Z",
-        "summary": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一 36氪获悉，7月27日，Ope",
-        "category": "articles",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/markets/article/3362123/hong-kong-stocks-hunker-down-day-packed-fed-decision-jumbo-ipo-debut",
+        "title": "Hong Kong stocks hunker down for a day packed with Fed decision, jumbo IPO debut",
+        "url": "https://www.scmp.com/business/markets/article/3362123/hong-kong-stocks-hunker-down-day-packed-fed-decision-jumbo-ipo-debut?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-29T00:00:10.000Z",
+        "summary": "Hong Kong stocks are gearing up for an eventful day on Thursday, when both a rate decision by the US Federal Reserve and a debut of the city’s largest initial public offering (IPO) in seven years coincide to test investo",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3361731/low-profile-high-ai-ambition-what-leaked-comments-reveal-about-deepseeks-liang-wenfeng",
         "title": "Low profile, high AI ambition: what leaked comments reveal about DeepSeek’s Liang Wenfeng",
