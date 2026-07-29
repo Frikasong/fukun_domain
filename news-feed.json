@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T08:24:05.163Z",
+  "generatedAt": "2026-07-29T13:49:08.738Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/29/holiday-read-the-innovators-civil-war",
+        "title": "Holiday Read &#8211; The Innovators – ‘Civil War’",
+        "url": "https://www.artificiallawyer.com/2026/07/29/holiday-read-the-innovators-civil-war/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-29T09:45:59.000Z",
+        "summary": "[ Artificial Lawyer is on holiday until Wed, Aug 5 – here’s Part 4 of ‘The Innovators’. ] &#8212; ‘We have a leak,’ Timothy Marks ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year",
+        "title": "Legora Buys Wexler – 5th Deal This Year",
+        "url": "https://www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-29T09:17:39.000Z",
+        "summary": "Legora is buying Wexler, a fact intelligence platform for litigation. Wexler&#8217;s engineering group will form &#8216;the founding team of Legora&#8217;s London engineering hub&#8217;, they added. ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/voice/article/whats&",
         "title": "What&#8217;s it like to be a solo practitioner?",
@@ -255,26 +275,6 @@
         "publishedAt": "2026-07-22T14:25:17.000Z",
         "summary": "Two practicing lawyers in Austin, Texas, have built a free connector that plugs Claude directly into millions of court opinions, statutes, regulations and court rules, along with federal court filings via PACER — and the",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/us-law-firm-willkie-partners-with-openai",
-        "title": "US Law Firm Willkie Partners With OpenAI",
-        "url": "https://www.artificiallawyer.com/2026/07/22/us-law-firm-willkie-partners-with-openai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-22T11:40:27.000Z",
-        "summary": "Major US law firm, Willkie, is partnering with OpenAI to develop ‘AI solutions across the firm&#8217;s legal and business operations, including a firmwide rollout of ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/22/tomorrow-opus-2-webinar-ai-native-litigation-workflows",
-        "title": "Tomorrow &#8211; Opus 2 Webinar: AI-Native Litigation Workflows",
-        "url": "https://www.artificiallawyer.com/2026/07/22/tomorrow-opus-2-webinar-ai-native-litigation-workflows/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-22T11:05:10.000Z",
-        "summary": "Join us tomorrow (Thursday) for a special live webinar with Opus 2 and Artificial Lawyer: ‘From AI-enabled to AI-native workflows in litigation and beyond.&#8217; It will take place July ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/video/g3qila4jaztdlcghqvkx",
+        "title": "深度对话：做AI的最佳伙伴：定义Token从“生产”到“应用”的确定性旅程",
+        "url": "https://www.infoq.cn/video/G3qIla4jAZtDLCGhqvKx?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-29T19:12:21.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/joov0ras1aezo92e4kyu",
         "title": "AI智能体正击穿生物安全防线！智源、北大实测11款商用大模型，均能生成绕过筛查的拆分方案",
         "url": "https://www.infoq.cn/article/JOOv0RAS1AEZO92E4KyU?utm_source=rss&utm_medium=article",
@@ -1240,6 +1250,56 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3916706867867009",
+        "title": "上交所投保专委会三大调研齐发，全面覆盖防非打非、AI应用与纠纷化解",
+        "url": "https://36kr.com/newsflashes/3916706867867009?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T12:40:15.000Z",
+        "summary": "7月29日从业内获悉，上海证券交易所理事会投资者教育和保护专门委员会今年确定三项重点研究课题——非法证券活动的防控机制建设、人工智能在证券服务中的应用边界与合规治理、证券公司投诉典型情形识别与纠纷化解机制。目前，对应三份专项调研问卷已陆续发至各会员单位，一场覆盖证券行业的投保体系“深度体检”正在展开。券商人士表示，从问卷设计来看，监管思路正从“有没有”转向“好不好”——不再满足于建章立制，而是深入到机制运转的实际效能、技术手段的真实效果",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3916672776383877",
+        "title": "英伟达合作伙伴广达电脑寻求发行全球存托股票筹资不超22亿美元",
+        "url": "https://36kr.com/newsflashes/3916672776383877?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T12:23:29.000Z",
+        "summary": "7月29日消息，人工智能服务器制造商广达电脑计划通过发行全球存托股票（GDS）筹资至多21.9亿美元。这家英伟达合作伙伴拟发行4900万份证券，每份发行价介于43.91美元至44.77美元。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3916649775705734",
+        "title": "行云科技：全资子公司签订算力服务补充协议，合同金额增至30.53亿元",
+        "url": "https://36kr.com/newsflashes/3916649775705734?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T12:00:19.000Z",
+        "summary": "36氪获悉，行云科技公告，公司全资子公司深圳行云与VB客户签订《算力服务协议》补充协议，约定由深圳行云提供的算力服务单元数翻倍，由原协议约定的128个单元增加到256个单元，同时也增加了单位算力服务费，对应算力服务费用总金额调整至305280万元，较原签约协议金额提升201.14%。公司已完成首批8单元算力服务交付，后续将按新协议执行。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3916639671922052",
+        "title": "亿田智能：子公司签署11.06亿元算力资源服务合同",
+        "url": "https://36kr.com/newsflashes/3916639671922052?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T11:42:51.000Z",
+        "summary": "36氪获悉，亿田智能公告，公司全资子公司甘肃亿算智能科技有限公司与客户Y公司签署《算力资源服务合同》，合同含税金额为110643.6万元，服务期限为60个月。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3916547493965442",
+        "title": "氪星晚报 | 月之暗面Kimi已完成超35亿美元F轮融资，投后估值涨至350亿美元； SpaceX空头持仓超260亿美元，账面获利超70亿",
+        "url": "https://36kr.com/p/3916547493965442?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-29T11:04:52.000Z",
+        "summary": "大公司： 美的集团：受欧洲持续极端高温影响当地空调需求爆发，空调芜湖、广州双基地一月内新增欧洲订单共20万台 36氪获悉，美的集团在互动平台表示，受欧洲持续极端高温影响，当地空调需求爆发，美的空调芜湖、广州双基地一月内新增欧洲订单共20万台。PortaSplit移动分体空调自6月新增接单超16万台。7月，法国3万台移动空调紧急订单中2万台已完成发运。 新东方：2026财年第四季度净营收15.3亿美元，同比增长23.0% 36氪获悉，新东",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/nd7yicucmbwkzxmtrfia",
         "title": "从多区域 AWS API 中移除隐藏的往返请求",
         "url": "https://www.infoq.cn/article/ND7YIcuCmbwKZXmtrFia?utm_source=rss&utm_medium=article",
@@ -1266,46 +1326,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-07-29T09:57:08.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3916447498825348",
-        "title": "黑芝麻智能与正行创新达成战略合作，全力推动具身智能全球布局",
-        "url": "https://36kr.com/newsflashes/3916447498825348?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-29T08:16:25.000Z",
-        "summary": "7月29日，黑芝麻智能与正行创新正式签署战略合作协议。双方将依托各自在端侧AI芯片与具身智能领域的核心优势，在本土化具身智能生态构建、算法适配与场景部署、全球市场商业化落地等诸多领域展开深度协同，携手推动具身智能技术向规模化产业应用迈进。此次合作是是黑芝麻智能完善具身智能生态布局的重要举措，也是打开全球市场的重要契机。未来，黑芝麻智能将持续开放算力平台能力，携手更多产业链伙伴深化协同，以高性能、高可靠的端侧 AI 算力底座，赋能具身智能",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3916413032230536",
-        "title": "国家人工智能产业基金入股艾捷科芯",
-        "url": "https://36kr.com/newsflashes/3916413032230536?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-29T08:03:17.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，北京艾捷科芯科技有限公司发生工商变更，新增国家人工智能产业投资基金合伙企业（有限合伙）为股东，同时，注册资本由约528万人民币增至约541万人民币。该公司成立于2023年8月，法定代表人为蒋毅敏，经营范围包括集成电路设计、集成电路芯片设计及服务、集成电路芯片及产品销售等，现由北京昆致科技有限公司、北京碧捷安芯科技有限公司及上述新增股东等共同持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3916412645568133",
-        "title": "东阳光在北京成立未来实验室科技公司，注册资本1亿",
-        "url": "https://36kr.com/newsflashes/3916412645568133?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-29T07:40:57.000Z",
-        "summary": "36氪获悉，天眼查App显示，近日，东阳光未来实验室科技（北京）有限公司成立，法定代表人为周林，注册资本1亿人民币，经营范围包括人工智能应用软件开发、智能机器人的研发、工业机器人制造、智能机器人销售等，由广东东阳光科技控股股份有限公司全资持股。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3916392126918277",
-        "title": "国家邮政局：“人工智能+”赋能邮政，无人机无人车加速落地",
-        "url": "https://36kr.com/newsflashes/3916392126918277?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-29T07:20:05.000Z",
-        "summary": "国家邮政局新闻发言人胡凯表示，“十五五”时期，国家邮政局将深入实施创新驱动发展战略，加强人工智能方向技术研发中心建设，统筹发展和安全，协同国家有关部门不断完善相关政策法规标准，拓展应用场景，培育发展行业新质生产力。不仅是“天上飞”“地上跑”的硬件升级，《邮政业发展“十五五”规划》还要求普及应用一批智能终端和智能体，提高全程智能监控和调度水平。同时挖掘行业数据在监测消费需求变化、物流通畅情况、经济发展状况等方面的价值，更好地服务政府决策、",
         "category": "updates",
         "region": "cn"
       },
@@ -1378,36 +1398,26 @@
         "summary": "大公司： YouTube与NBC环球达成合作协议，将为美用户提供流媒体捆绑服务 7月27日，美国流媒体平台YouTube与媒体巨头NBC环球（NBCUniversal）宣布深化战略合作。根据双方达成的协议，自2027年初起，美国本土的YouTube Premium订阅用户将无需支付额外费用，直接获取NBC环球旗下流媒体平台Peacock Premium的会员权益。（新浪财经） Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心 ",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3913213962540164",
-        "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发",
-        "url": "https://36kr.com/p/3913213962540164?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-28T10:38:46.000Z",
-        "summary": "作者 | 黄楠 编辑 | 袁斯来 硬氪获悉，人形机器人基础模型公司德塔智能（Delta Intelligence）近日完成近5亿元天使++轮融资，本轮投资方包括多家上市公司产业方和头部财务投资机构。资金将主要用于人形机器人基础模型持续迭代，加快自研数采设备的量产与数据闭环建设，扩充核心研发团队，以推动技术在真实工业场景中的工程化落地与验证。 这也是公司成立半年内完成的第六轮融资，此前，投资方包括北京通研院、智元机器人、乐聚机器人、星海图",
-        "category": "articles",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3913637793059968",
-        "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
-        "url": "https://36kr.com/p/3913637793059968?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-28T09:24:01.000Z",
-        "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示， 新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈巴赫在中国D级轿车市场建立起近乎垄断的优势。 沃尔沃",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3362223/chinese-ai-chip-giant-cambricon-sets-us148b-revenue-goal-tied-staff-incentive-plan",
-        "title": "Chinese AI chip giant Cambricon sets US$14.8b revenue goal tied to staff incentive plan",
-        "url": "https://www.scmp.com/tech/article/3362223/chinese-ai-chip-giant-cambricon-sets-us148b-revenue-goal-tied-staff-incentive-plan?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3362265/chinese-mlcc-firms-profits-and-stock-prices-fatten-hunger-electronic-rice",
+        "title": "Chinese MLCC firms’ profits and stock prices fatten on hunger for electronic ‘rice’",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3362265/chinese-mlcc-firms-profits-and-stock-prices-fatten-hunger-electronic-rice?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-07-29T06:21:19.000Z",
-        "summary": "Chinese artificial intelligence chip champion Cambricon Technologies has set a target of more than 100 billion yuan (US$14.8 billion) in revenue over the next three years as the prerequisite for a newly proposed employee",
+        "publishedAt": "2026-07-29T10:30:12.000Z",
+        "summary": "Chinese manufacturers of multilayer ceramic capacitors (MLCCs) – tiny components required in great numbers to regulate electrical flow in electronic devices – are riding a stock rally on the back of explosive first-half ",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3362255/why-zhongji-unveiling-us12-billion-buy-backs-its-hong-kong-debut",
+        "title": "Why is Zhongji unveiling US$1.2 billion in buy-backs before its Hong Kong debut?",
+        "url": "https://www.scmp.com/tech/big-tech/article/3362255/why-zhongji-unveiling-us12-billion-buy-backs-its-hong-kong-debut?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-29T09:00:31.000Z",
+        "summary": "Zhongji Innolight’s buy-back plan – worth as much as 8 billion yuan (US$1.2 billion) in the run-up to its offshore listing in Hong Kong – may give global investors an anchor for pricing, as the Chinese supplier of US hyp",
         "category": "updates",
         "region": "cn_en"
       },
