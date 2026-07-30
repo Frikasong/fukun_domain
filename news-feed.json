@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T19:00:05.473Z",
+  "generatedAt": "2026-07-30T01:43:12.622Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/us&",
+        "title": "Chobani can face lawsuit over no-sugar yogurt claim, 7th Circuit rules",
+        "url": "https://www.abajournal.com/news/article/us&#45;appeals&#45;court&#45;rules&#45;chobani&#45;can&#45;face&#45;lawsuit&#45;over&#45;no&#45;sugar&#45;yogurt&#45;claim/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-29T20:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/washington&",
+        "title": "Washington calls off bar exam after NextGen UBE has tech issues",
+        "url": "https://www.abajournal.com/web/article/washington&#45;state&#45;calls&#45;off&#45;bar&#45;exam&#45;after&#45;the&#45;nextgen&#45;ube&#45;exam&#45;has&#45;tech&#45;issues/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-29T19:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ongoing&",
+        "title": "Ongoing auction features documents, furniture Lincoln used to practice law",
+        "url": "https://www.abajournal.com/news/article/ongoing&#45;auction&#45;features&#45;documents&#45;and&#45;furniture&#45;lincoln&#45;used&#45;to&#45;practice&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-29T19:09:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/grand&",
         "title": "Grand jury vetoes felony hit-and-run charges against former US attorney in Texas",
@@ -24,6 +54,16 @@
         "source": "ABA Journal",
         "publishedAt": "2026-07-29T15:07:00.000Z",
         "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+        "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+        "source": "OpenAI News",
+        "publishedAt": "2026-07-29T15:00:00.000Z",
+        "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
         "category": "updates",
         "region": "na"
       },
@@ -68,41 +108,11 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/29/holiday-read-the-innovators-civil-war",
-        "title": "Holiday Read &#8211; The Innovators – ‘Civil War’",
-        "url": "https://www.artificiallawyer.com/2026/07/29/holiday-read-the-innovators-civil-war/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-29T09:45:59.000Z",
-        "summary": "[ Artificial Lawyer is on holiday until Wed, Aug 5 – here’s Part 4 of ‘The Innovators’. ] &#8212; ‘We have a leak,’ Timothy Marks ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year",
-        "title": "Legora Buys Wexler – 5th Deal This Year",
-        "url": "https://www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-29T09:17:39.000Z",
-        "summary": "Legora is buying Wexler, a fact intelligence platform for litigation. Wexler&#8217;s engineering group will form &#8216;the founding team of Legora&#8217;s London engineering hub&#8217;, they added. ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "ABA Journal:www.abajournal.com/voice/article/whats&",
         "title": "What&#8217;s it like to be a solo practitioner?",
         "url": "https://www.abajournal.com/voice/article/whats&#45;it&#45;like&#45;to&#45;be&#45;a&#45;solo&#45;practitioner/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-07-28T20:01:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/maine&",
-        "title": "Lobster defamation case wades into free speech concerns at 1st Circuit",
-        "url": "https://www.abajournal.com/news/article/maine&#45;lobster&#45;defamation&#45;case&#45;wades&#45;into&#45;speech&#45;concerns&#45;at&#45;the&#45;first&#45;circuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-28T17:25:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -115,56 +125,6 @@
         "publishedAt": "2026-07-28T17:04:51.000Z",
         "summary": "In April, I reported here on a dramatic first-quarter 2026 increase in the numbers of legal tech demos law firms were scheduling, with the numbers going up across nearly every major practice area by as much as 40% to 50%",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/the&",
-        "title": "The value of proprietary content in an AI era",
-        "url": "https://www.abajournal.com/columns/article/the&#45;value&#45;of&#45;proprietary&#45;content&#45;in&#45;an&#45;ai&#45;era/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-28T15:59:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/black&",
-        "title": "Black, Latino drivers win certification in traffic stop bias suit",
-        "url": "https://www.abajournal.com/news/article/black&#45;latino&#45;drivers&#45;win&#45;certification&#45;in&#45;chicago&#45;traffic&#45;stop&#45;bias&#45;suit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-28T15:33:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom",
-        "title": "LegalOn Lets 100 AI Workflows Bloom",
-        "url": "https://www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-28T12:00:10.000Z",
-        "summary": "LegalOn, the contract review specialists, have rolled out a library of 100-plus AI workflows, all available within its platform and aimed at inhouse lawyers. (See ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/28/crosby-to-insure-its-agents-for-legal-liability",
-        "title": "Crosby to Insure Its Agents for Legal Liability",
-        "url": "https://www.artificiallawyer.com/2026/07/28/crosby-to-insure-its-agents-for-legal-liability/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-28T08:24:37.000Z",
-        "summary": "NewMod law firm Crosby is to provide ‘professional liability insurance for [their] agents, so that they can do autonomous legal work’, in what is an ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/28/al-interview-lexisnexis-ceo-sean-fitzpatrick",
-        "title": "AL Interview: LexisNexis CEO, Sean Fitzpatrick",
-        "url": "https://www.artificiallawyer.com/2026/07/28/al-interview-lexisnexis-ceo-sean-fitzpatrick/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-28T06:50:33.000Z",
-        "summary": "Artificial Lawyer spoke to LexisNexis CEO, Sean Fitzpatrick, about a range of Big Picture topics: from company growth despite the Claude Crash, how token costs ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -188,26 +148,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/27/should-clients-expect-price-cuts-due-to-legal-ai",
-        "title": "Should Clients Expect Price Cuts Due To Legal AI?",
-        "url": "https://www.artificiallawyer.com/2026/07/27/should-clients-expect-price-cuts-due-to-legal-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-27T07:37:21.000Z",
-        "summary": "This is the central question: should clients expect price cuts from law firms and other legal businesses due to legal AI? Because if there is ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/24/lexis-spellbook-google-legal-innovators-nordics",
-        "title": "Lexis $$$, Spellbook / Google, Legal Innovators Nordics",
-        "url": "https://www.artificiallawyer.com/2026/07/24/lexis-spellbook-google-legal-innovators-nordics/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-24T07:49:09.000Z",
-        "summary": "We start this week’s Wrap with news that the Claude Crash earlier this year, which hit market sentiment and wiped billions off the value of ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/legal-research-startup-midpage-crosses-another-threshold-of-coverage-adding-federal-and-state-statutes-regulations-and-agency-guidance.html",
         "title": "Legal Research Startup Midpage Crosses Another Threshold Of Coverage, Adding Federal and State Statutes, Regulations and Agency Guidance",
         "url": "https://www.lawnext.com/2026/07/legal-research-startup-midpage-crosses-another-threshold-of-coverage-adding-federal-and-state-statutes-regulations-and-agency-guidance.html",
@@ -215,16 +155,6 @@
         "publishedAt": "2026-07-23T17:00:06.000Z",
         "summary": "It was just 18 months ago that I wrote about the legal research startup Midpage passing what its founder considered a critical threshold in its development, achieving full data coverage of key U.S. case law. Now the comp",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship",
-        "title": "Harvey Deepens Microsoft Relationship",
-        "url": "https://www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-23T12:38:56.000Z",
-        "summary": "Harvey has deepened its engagement with Microsoft, in this case via providing its legal AI platform to the tech giant&#8217;s Corporate, External, and Legal Affairs ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -245,26 +175,6 @@
         "publishedAt": "2026-07-23T11:00:18.000Z",
         "summary": "The legal data company Entegrata, whose data lakehouse platform helps law firms consolidate siloed data into a single source of truth, has hired Andrew Baker, who for more than five years led applied AI and data science ",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/flank-launches-record-agentic-contract-truth-system",
-        "title": "Flank Launches ‘Record’ – Agentic Contract Truth System",
-        "url": "https://www.artificiallawyer.com/2026/07/23/flank-launches-record-agentic-contract-truth-system/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-23T08:09:52.000Z",
-        "summary": "Flank, the agentic legal tech company focused on inhouse teams, has launched Flank Record, an autonomous agentic contract system of record, which greatly reduces the ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/the-innovators-press-conference",
-        "title": "The Innovators – &#8216;Press Conference&#8217;",
-        "url": "https://www.artificiallawyer.com/2026/07/23/the-innovators-press-conference/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-23T06:48:04.000Z",
-        "summary": "Katie stood outside the managing partner’s door like a naughty student. Tim had sent everyone else away so he could have a solitary, emergency brainstorm. ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,9 +1116,109 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/bsphipbastkezt9eqgzl",
+        "title": "GitLab 19.2 借助 AI 代理处理安全待办事项",
+        "url": "https://www.infoq.cn/article/BSPHIPBaSTkEZT9eqgzL?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-30T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3917472450588032",
+        "title": "字节跳动启动AI业务组织调整：飞书与豆包火山团队整合",
+        "url": "https://36kr.com/newsflashes/3917472450588032?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-30T01:39:03.000Z",
+        "summary": "7月30日，字节跳动启动面向 AI 业务的组织调整。飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。GTM （市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的 ToB GTM 组织“创造力服务平台（Creativity Service Platform）”，整体负责字节 MaaS和SaaS等云服务的市场、销售和客户服务，由火山引擎负责人谭待负责，飞书销售",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3917434099773065",
+        "title": "美国众议院能源委员会要求参观xAI数据中心以调查污染情况",
+        "url": "https://36kr.com/newsflashes/3917434099773065?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-30T01:11:52.000Z",
+        "summary": "美国众议院能源与商业委员会首席民主党议员已致信SpaceX首席执行官埃隆・马斯克，要求参观其xAI位于田纳西州孟菲斯市内及周边的数据中心与电站。新泽西州民主党众议员弗兰克・帕隆在周三致马斯克的信函中写道：“美国民众忧心，数据中心以及科技巨头大举扩张人工智能，会给社区、就业、房产价值与长远发展带来何种影响。电价飞涨、电网负荷紧张，洁净空气与水源遭受污染，持续噪音正损害居民健康，不断消耗民众的耐心。”（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3917435911007621",
+        "title": "微软新增数据中心租约超1300亿美元",
+        "url": "https://36kr.com/newsflashes/3917435911007621?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-30T01:01:52.000Z",
+        "summary": "当地时间7月29日，微软在一份监管文件中披露，第四财季新增尚未开始执行的数据中心租约承诺超过1300亿美元，显示其AI算力扩张仍在加速。截至6月30日，微软尚未开始履行的租赁总承诺达到3291亿美元，较前一季度的1966亿美元大幅上升。（界面）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3916820073623171",
+        "title": "36氪首发｜本末科技前合伙人创业做电助力渔轮，获高瓴、启明投资",
+        "url": "https://36kr.com/p/3916820073623171?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-30T01:00:42.000Z",
+        "summary": "文｜张子怡 编辑｜袁斯来 硬氪获悉，海洋科技消费品公司「蓝色涌现」近日完成数千万人民币天使+轮融资，本轮投资方包括高瓴创投、启明创投、云沐资本，老股东天使投资人高秉强教授、奇绩创坛、松禾创投联创等持续加注，累计融资超5000万人民币，云沐资本担任独家财务顾问。本轮资金将主要用于核心产品的技术研发迭代，以及产品上市后的市场销售渠道搭建。 蓝色涌现成立于2024年，首款产品是面向海钓场景的电助力渔轮，产品已在用户内测阶段。 相比北美、日本和",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3917412792020359",
+        "title": "“翻倍基”数量锐减，绩优基金之间差距拉开",
+        "url": "https://36kr.com/newsflashes/3917412792020359?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-30T00:50:18.000Z",
+        "summary": "基金年内业绩榜正在经历一场剧烈洗牌。Wind数据显示，截至7月28日，年内收益率超过100%的基金仅剩6只，较6月末的246只减少240只。不足一个月，上半年批量涌现的“翻倍基”数量缩水97.56%。“翻倍基”阵营快速缩水的背后，是前期领涨的科技板块遭遇集体调整。7月以来，创业板50指数、科创50指数分别下跌23.16%、23.97%，市场由单边上涨转向高位震荡，重仓人工智能、半导体、通信等方向的基金首当其冲。值得注意的是，剧烈波动也进",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/joov0ras1aezo92e4kyu",
         "title": "AI智能体正击穿生物安全防线！智源、北大实测11款商用大模型，均能生成绕过筛查的拆分方案",
@@ -1246,46 +1256,6 @@
         "source": "InfoQ China",
         "publishedAt": "2026-07-29T13:48:45.000Z",
         "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3916706867867009",
-        "title": "上交所投保专委会三大调研齐发，全面覆盖防非打非、AI应用与纠纷化解",
-        "url": "https://36kr.com/newsflashes/3916706867867009?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-29T12:40:15.000Z",
-        "summary": "7月29日从业内获悉，上海证券交易所理事会投资者教育和保护专门委员会今年确定三项重点研究课题——非法证券活动的防控机制建设、人工智能在证券服务中的应用边界与合规治理、证券公司投诉典型情形识别与纠纷化解机制。目前，对应三份专项调研问卷已陆续发至各会员单位，一场覆盖证券行业的投保体系“深度体检”正在展开。券商人士表示，从问卷设计来看，监管思路正从“有没有”转向“好不好”——不再满足于建章立制，而是深入到机制运转的实际效能、技术手段的真实效果",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3916672776383877",
-        "title": "英伟达合作伙伴广达电脑寻求发行全球存托股票筹资不超22亿美元",
-        "url": "https://36kr.com/newsflashes/3916672776383877?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-29T12:23:29.000Z",
-        "summary": "7月29日消息，人工智能服务器制造商广达电脑计划通过发行全球存托股票（GDS）筹资至多21.9亿美元。这家英伟达合作伙伴拟发行4900万份证券，每份发行价介于43.91美元至44.77美元。（界面）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3916649775705734",
-        "title": "行云科技：全资子公司签订算力服务补充协议，合同金额增至30.53亿元",
-        "url": "https://36kr.com/newsflashes/3916649775705734?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-29T12:00:19.000Z",
-        "summary": "36氪获悉，行云科技公告，公司全资子公司深圳行云与VB客户签订《算力服务协议》补充协议，约定由深圳行云提供的算力服务单元数翻倍，由原协议约定的128个单元增加到256个单元，同时也增加了单位算力服务费，对应算力服务费用总金额调整至305280万元，较原签约协议金额提升201.14%。公司已完成首批8单元算力服务交付，后续将按新协议执行。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3916639671922052",
-        "title": "亿田智能：子公司签署11.06亿元算力资源服务合同",
-        "url": "https://36kr.com/newsflashes/3916639671922052?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-29T11:42:51.000Z",
-        "summary": "36氪获悉，亿田智能公告，公司全资子公司甘肃亿算智能科技有限公司与客户Y公司签署《算力资源服务合同》，合同含税金额为110643.6万元，服务期限为60个月。",
         "category": "updates",
         "region": "cn"
       },
@@ -1368,29 +1338,19 @@
         "summary": "今日热点导览 李宁此前起诉多个网络账号名誉侵权案，已取得胜诉判决 小米已注册澎程关联商标 泡泡玛特城市乐园涨价 英伟达据悉签署价值高达500亿美元的得州数据中心租赁协议 “抱抱脸”向OpenAI索赔1亿美元算力 TOP 3 大新闻 韩国考虑为“借钱炒股”封顶20% 韩国KOSPI指数尾盘扩大跌幅，日内大跌11%，自4月14日以来首次跌破6000点，较6月峰值跌超30%。据韩国《中央日报》中文网28日报道，韩国金融监管当局决定，若单一股票",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3915066350327176",
-        "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
-        "url": "https://36kr.com/p/3915066350327176?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-28T23:30:00.000Z",
-        "summary": "当前，AI技术正加速向实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品能力升级与产业价值提升的关键发展阶段。腾讯研究院2026年3月的调研数据显示，国内已有80.8%的消费者购买或使用过至少一类AI相关硬件产品，其中32.0%的用户表示将在未来三个月增加相关消费支出，消费端市场需求具备稳步向上的支撑基础。与此同时，端侧AI芯片、轻量化大模型、多传感融合等底层技术不断取得突破，推动智能硬件逐步降低对云端算力的",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3915239611739781",
-        "title": "科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思",
-        "url": "https://36kr.com/p/3915239611739781?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-28T11:48:20.000Z",
-        "summary": "7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌暨工作推进会在慕思健康睡眠股份有限公司（以下简称“慕思”）总部举行。本次工作推进会由东莞市科学技术局、厚街镇人民政府指导，慕思、广东华中科技大学工业技术研究院联合主办，东莞市相关职能部门、顶尖高校、三甲医疗机构、产业链核心企业、投资机构及主流媒体代表约300人参会。 推进会同步举行聘任与授牌仪式，正式聘任中科院院士、华中科技大学副校长尹周平为东莞市数字人体与智慧睡眠创新联合体首席科学家，",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/companies/article/3362321/zhongji-innolight-shares-fall-hong-kong-debut-amid-global-ai-sell",
+        "title": "Zhongji Innolight shares fall on Hong Kong debut amid global AI sell-off",
+        "url": "https://www.scmp.com/business/companies/article/3362321/zhongji-innolight-shares-fall-hong-kong-debut-amid-global-ai-sell?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-30T01:40:00.000Z",
+        "summary": "Zhongji Innolight saw its share price drop as much as 3 per cent after its hotly anticipated debut on the Hong Kong stock market on Thursday, as the Chinese firm felt the impact of a global downturn in investor sentiment",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3361731/low-profile-high-ai-ambition-what-leaked-comments-reveal-about-deepseeks-liang-wenfeng",
         "title": "Low profile, high AI ambition: what leaked comments reveal about DeepSeek’s Liang Wenfeng",
