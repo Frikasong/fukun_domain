@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T13:40:12.262Z",
+  "generatedAt": "2026-07-30T19:11:43.673Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,12 +8,112 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.com/web/article/washington&",
+        "title": "Washington law deans demand diploma privilege after aborted NextGen UBE administration",
+        "url": "https://www.abajournal.com/web/article/washington&#45;law&#45;deans&#45;demand&#45;diploma&#45;privilege&#45;after&#45;aborted&#45;nextgen&#45;ube&#45;administration/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-30T18:49:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/insurance&",
+        "title": "Insurance group seeks to dodge $10M damages award to worker who sued HR company over racial bias",
+        "url": "https://www.abajournal.com/news/article/insurance&#45;company&#45;looks&#45;to&#45;dodge&#45;10&#45;million&#45;damages&#45;award/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-30T17:01:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ny&",
+        "title": "New York attorney general asks state&#8217;s top court to halt NYC foie gras ban",
+        "url": "https://www.abajournal.com/news/article/ny&#45;ag&#45;james&#45;asks&#45;states&#45;top&#45;court&#45;to&#45;halt&#45;nyc&#45;foie&#45;gras&#45;ban/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-30T16:16:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/mo&",
+        "title": "Mo’ money for Lionsgate top lawyer with 64% pay bump",
+        "url": "https://www.abajournal.com/news/article/mo&#45;money&#45;for&#45;lionsgate&#45;top&#45;lawyer&#45;with&#45;a&#45;64&#45;pay&#45;bump/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-30T15:32:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/illinois&",
+        "title": "Appeals court imposes higher sanction on attorney to deter &#8216;unacceptable&#8217; misuse of AI",
+        "url": "https://www.abajournal.com/news/article/illinois&#45;appeals&#45;court&#45;imposes&#45;higher&#45;sanction&#45;on&#45;attorney&#45;to&#45;deter&#45;unacceptable&#45;misuse&#45;of&#45;ai/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-30T14:33:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/the&",
+        "title": "Bryan Garner on the discipline of getting caught",
+        "url": "https://www.abajournal.com/columns/article/the&#45;discipline&#45;of&#45;getting&#45;caught/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-30T14:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/07/replay-legaltech-week-for-07-24-26-free-legal-claude-connector-aall-recap-openais-rogue-model-and-more.html",
         "title": "Replay &#8211; Legaltech Week for 07/24/26: Free Legal Claude Connector, AALL recap, OpenAI&#8217;s rogue model, and more",
         "url": "https://www.lawnext.com/2026/07/replay-legaltech-week-for-07-24-26-free-legal-claude-connector-aall-recap-openais-rogue-model-and-more.html",
         "source": "LawSites",
         "publishedAt": "2026-07-30T13:24:53.000Z",
         "summary": "Every Friday, a panel of leading legal tech journalists come together to discuss the top stories of the week in legal tech and legal innovation. The show is live and free to attend. You can register to attend the weekly ",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+        "title": "Advancing the price-performance frontier with GPT-5.6",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+        "source": "OpenAI News",
+        "publishedAt": "2026-07-30T10:00:00.000Z",
+        "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/us&",
+        "title": "Chobani can face lawsuit over no-sugar yogurt claim, 7th Circuit rules",
+        "url": "https://www.abajournal.com/news/article/us&#45;appeals&#45;court&#45;rules&#45;chobani&#45;can&#45;face&#45;lawsuit&#45;over&#45;no&#45;sugar&#45;yogurt&#45;claim/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-29T20:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ongoing&",
+        "title": "Ongoing auction features documents, furniture Lincoln used to practice law",
+        "url": "https://www.abajournal.com/news/article/ongoing&#45;auction&#45;features&#45;documents&#45;and&#45;furniture&#45;lincoln&#45;used&#45;to&#45;practice&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-29T19:09:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/grand&",
+        "title": "Grand jury vetoes felony hit-and-run charges against former US attorney in Texas",
+        "url": "https://www.abajournal.com/news/article/grand&#45;jury&#45;rejects&#45;felony&#45;hit&#45;and&#45;run&#45;charges&#45;against&#45;former&#45;texas&#45;us&#45;attorney/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-29T16:56:00.000Z",
+        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1106,56 +1206,6 @@
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
@@ -1165,26 +1215,6 @@
         "url": "https://www.infoq.cn/article/h0WG6p7z3tyTk3hxQIhT?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-30T19:50:44.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zargerh3rskub9taluj6",
-        "title": "为什么黑灯软件工厂会失败",
-        "url": "https://www.infoq.cn/article/zaRGeRH3RSKub9tALUj6?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-30T19:44:11.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wbtenuldowovnchxecmf",
-        "title": "编程界新分水岭：Uncle Bob说“绝不读AI写的代码”，Hashimoto却说他“逐行阅读”，你站谁？",
-        "url": "https://www.infoq.cn/article/WbtENUlDowovNCHxECMf?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-30T19:31:15.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1216,6 +1246,16 @@
         "source": "InfoQ China",
         "publishedAt": "2026-07-30T14:00:00.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3917972674735747",
+        "title": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
+        "url": "https://36kr.com/p/3917972674735747?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-30T13:56:03.000Z",
+        "summary": "大公司： 证监会同意沈鼓集团沪市主板IPO注册 36氪获悉，证监会同意沈鼓集团股份有限公司首次公开发行股票并在沪市主板上市的注册申请。 三星电子：已同全球五大数据中心客户签订合同 据报道，三星电子7月30日预测，明年存储芯片供不应求现象将进一步加剧，超大规模云服务商扩大对人工智能（AI）基础设施的投资，带动服务器、固态硬盘、高带宽内存（HBM）需求进一步增长。三星电子称，公司已与全球五大数据中心客户签订合同，另与AI相关五大大型客户进行",
         "category": "updates",
         "region": "cn"
       },
@@ -1255,7 +1295,7 @@
         "url": "https://36kr.com/p/3917548470218371?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-30T02:58:26.000Z",
-        "summary": "作者 | 黄绎达 编辑 | 张帆 今年一骑绝尘的韩国股市在���期开启暴跌模式，两大超级权重股三星电子和SK海力士惨遭持续抛售，由此频繁触发大盘“熔断”，重仓韩股龙头的金融产品亦在近期损失惨重，典型如两倍做多三星电子/SK海力士ETF，不少该类型产品在近期的回撤都在60%以上。 张坤管理的QDII基金易方达亚洲精选（以下简称：亚洲精选），也重仓了三星电子和SK海力士，在此前AI链牛市的加持下，基金净值表现十分亮眼。二季度末，韩股开始暴跌",
+        "summary": "作者 | 黄绎达 编辑 | 张帆 今年一骑绝尘的韩国股市在近期开启暴跌模式，两大超级权重股三星电子和SK海力士惨遭持续抛售，由此频繁触发大盘“熔断”，重仓韩股龙头的金融产品亦在近期损失惨重，典型如两倍做多三星电子/SK海力士ETF，不少该类型产品在近期的回撤都在60%以上。 张坤管理的QDII基金易方达亚洲精��（以下简称：亚洲精选），也重仓了三星电子和SK海力士，在此前AI链牛市的加持下，基金净值表现十分亮眼。二季度末，韩股开始暴跌，",
         "category": "updates",
         "region": "cn"
       },
@@ -1292,43 +1332,13 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3362417/bytedances-us4b-projected-ai-revenue-tops-china-it-restructures-office-tool-lark",
-        "title": "ByteDance’s US$4b projected AI revenue tops China as it restructures office tool Lark",
-        "url": "https://www.scmp.com/tech/article/3362417/bytedances-us4b-projected-ai-revenue-tops-china-it-restructures-office-tool-lark?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/presented/business/topics/greater-bay-area-ceo-forum/article/3362227/gba-optimised-ai-achieve-its-full-potential",
+        "title": "The GBA is optimised for AI to achieve its full potential",
+        "url": "https://www.scmp.com/presented/business/topics/greater-bay-area-ceo-forum/article/3362227/gba-optimised-ai-achieve-its-full-potential?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-07-30T12:30:16.000Z",
-        "summary": "ByteDance has integrated its enterprise collaboration unit into other teams, a move that sharpens its focus on using artificial intelligence to serve corporate clients as annualised AI revenue of US$4 billion pushes it t",
-        "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3362385/us-listed-chinese-stocks-benefit-fed-policy-haze-drives-rotation-amid-ai-slump",
-        "title": "US-listed Chinese stocks benefit as Fed policy haze drives rotation amid AI slump",
-        "url": "https://www.scmp.com/business/china-business/article/3362385/us-listed-chinese-stocks-benefit-fed-policy-haze-drives-rotation-amid-ai-slump?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-30T10:00:15.000Z",
-        "summary": "Chinese stocks trading overseas may emerge as a shelter for global investors, as confusion over the Federal Reserve’s monetary path drives diversification away from US equities and bonds amid a stumbling artificial intel",
+        "publishedAt": "2026-07-30T16:00:10.000Z",
+        "summary": "[The content of this article has been produced by our advertising partner.] In 2022, the concept of functional, intuitive, and interactive artificial intelligence (AI) systems leapt from the domain of science fiction int",
         "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/plus/business/companies/article/3362388/ai-stock-rout-fells-innolight-after-mega-hong-kong-ipo",
-        "title": "AI stock rout fells Innolight after mega Hong Kong IPO",
-        "url": "https://www.scmp.com/plus/business/companies/article/3362388/ai-stock-rout-fells-innolight-after-mega-hong-kong-ipo?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-30T09:06:47.000Z",
-        "summary": "Zhongji Innolight fell on its trading debut after Hong Kong’s biggest initial public offering in seven years amid souring appetite worldwide for artificial intelligence (AI) shares. The stock closed down 2 per cent after",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3362362/byd-debut-first-humanoid-robots-august-rivalry-tesla-intensifies",
-        "title": "BYD to debut first humanoid robots in August as rivalry with Tesla intensifies",
-        "url": "https://www.scmp.com/business/china-business/article/3362362/byd-debut-first-humanoid-robots-august-rivalry-tesla-intensifies?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-30T08:00:14.000Z",
-        "summary": "Electric vehicle giant BYD plans to unveil its first humanoid robots within the next few weeks, as China’s electric car makers accelerate their push into the embodied artificial intelligence market. The Shenzhen-based co",
-        "category": "tools",
         "region": "cn_en"
       },
       {
