@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T13:44:13.753Z",
+  "generatedAt": "2026-07-31T19:10:18.013Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,66 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "OpenAI News:openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+        "title": "Disrupting a Criminal Scam Operation",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-04T00:00:00.000Z",
+        "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/nascar&",
+        "title": "Trademark violations alleged by NASCAR in suit targeting counterfeit merch sellers",
+        "url": "https://www.abajournal.com/news/article/nascar&#45;alleges&#45;trademark&#45;violations&#45;in&#45;lawsuit&#45;targeting&#45;counterfeit&#45;merch&#45;sellers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-31T16:18:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/defense&",
+        "title": "Defense attorneys should cautiously adopt AI, new study says",
+        "url": "https://www.abajournal.com/news/article/defense&#45;attorneys&#45;should&#45;cautiously&#45;adopt&#45;ai&#45;new&#45;study&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-31T15:32:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/jimothy&",
+        "title": "Is Jimothy the raccoon too popular to be owned? IP attorneys weigh in",
+        "url": "https://www.abajournal.com/news/article/jimothy&#45;the&#45;raccoon&#45;is&#45;too&#45;popular&#45;to&#45;be&#45;owned&#45;ip&#45;attorneys&#45;say/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-31T15:08:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/traders&",
+        "title": "Traders plead guilty to BigLaw stolen-info scheme",
+        "url": "https://www.abajournal.com/news/article/traders&#45;plead&#45;guilty&#45;to&#45;scheme&#45;involving&#45;insider&#45;info&#45;from&#45;biglaw&#45;firms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-31T14:44:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/minneapolis&",
+        "title": "Former top public defender in Minneapolis disbarred after felony tax conviction",
+        "url": "https://www.abajournal.com/news/article/minneapolis&#45;former&#45;top&#45;public&#45;defender&#45;disbarred&#45;after&#45;felony&#45;tax&#45;conviction/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-07-31T14:30:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/washington&",
         "title": "Washington law deans demand diploma privilege after aborted NextGen UBE administration",
@@ -58,16 +118,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/columns/article/the&",
-        "title": "Bryan Garner on the discipline of getting caught",
-        "url": "https://www.abajournal.com/columns/article/the&#45;discipline&#45;of&#45;getting&#45;caught/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-30T14:14:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/replay-legaltech-week-for-07-24-26-free-legal-claude-connector-aall-recap-openais-rogue-model-and-more.html",
         "title": "Replay &#8211; Legaltech Week for 07/24/26: Free Legal Claude Connector, AALL recap, OpenAI&#8217;s rogue model, and more",
         "url": "https://www.lawnext.com/2026/07/replay-legaltech-week-for-07-24-26-free-legal-claude-connector-aall-recap-openais-rogue-model-and-more.html",
@@ -78,56 +128,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/us&",
-        "title": "Chobani can face lawsuit over no-sugar yogurt claim, 7th Circuit rules",
-        "url": "https://www.abajournal.com/news/article/us&#45;appeals&#45;court&#45;rules&#45;chobani&#45;can&#45;face&#45;lawsuit&#45;over&#45;no&#45;sugar&#45;yogurt&#45;claim/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-29T20:27:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ongoing&",
-        "title": "Ongoing auction features documents, furniture Lincoln used to practice law",
-        "url": "https://www.abajournal.com/news/article/ongoing&#45;auction&#45;features&#45;documents&#45;and&#45;furniture&#45;lincoln&#45;used&#45;to&#45;practice&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-29T19:09:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/grand&",
-        "title": "Grand jury vetoes felony hit-and-run charges against former US attorney in Texas",
-        "url": "https://www.abajournal.com/news/article/grand&#45;jury&#45;rejects&#45;felony&#45;hit&#45;and&#45;run&#45;charges&#45;against&#45;former&#45;texas&#45;us&#45;attorney/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-29T16:56:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/29/holiday-read-the-innovators-civil-war",
-        "title": "Holiday Read &#8211; The Innovators – ‘Civil War’",
-        "url": "https://www.artificiallawyer.com/2026/07/29/holiday-read-the-innovators-civil-war/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-29T09:45:59.000Z",
-        "summary": "[ Artificial Lawyer is on holiday until Wed, Aug 5 – here’s Part 4 of ‘The Innovators’. ] &#8212; ‘We have a leak,’ Timothy Marks ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year",
-        "title": "Legora Buys Wexler – 5th Deal This Year",
-        "url": "https://www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-29T09:17:39.000Z",
-        "summary": "Legora is buying Wexler, a fact intelligence platform for litigation. Wexler&#8217;s engineering group will form &#8216;the founding team of Legora&#8217;s London engineering hub&#8217;, they added. ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/q2-report-on-legal-tech-advertising-finds-q1s-buying-surge-was-largely-seasonal-but-reveals-where-demand-is-now-concentrated.html",
         "title": "Q2 Report On Legal Tech Advertising Finds Q1’s Buying Surge Was Largely Seasonal, But Reveals Where Demand Is Now Concentrated",
         "url": "https://www.lawnext.com/2026/07/q2-report-on-legal-tech-advertising-finds-q1s-buying-surge-was-largely-seasonal-but-reveals-where-demand-is-now-concentrated.html",
@@ -135,36 +135,6 @@
         "publishedAt": "2026-07-28T17:04:51.000Z",
         "summary": "In April, I reported here on a dramatic first-quarter 2026 increase in the numbers of legal tech demos law firms were scheduling, with the numbers going up across nearly every major practice area by as much as 40% to 50%",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom",
-        "title": "LegalOn Lets 100 AI Workflows Bloom",
-        "url": "https://www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-28T12:00:10.000Z",
-        "summary": "LegalOn, the contract review specialists, have rolled out a library of 100-plus AI workflows, all available within its platform and aimed at inhouse lawyers. (See ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/28/crosby-to-insure-its-agents-for-legal-liability",
-        "title": "Crosby to Insure Its Agents for Legal Liability",
-        "url": "https://www.artificiallawyer.com/2026/07/28/crosby-to-insure-its-agents-for-legal-liability/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-28T08:24:37.000Z",
-        "summary": "NewMod law firm Crosby is to provide ‘professional liability insurance for [their] agents, so that they can do autonomous legal work’, in what is an ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/28/al-interview-lexisnexis-ceo-sean-fitzpatrick",
-        "title": "AL Interview: LexisNexis CEO, Sean Fitzpatrick",
-        "url": "https://www.artificiallawyer.com/2026/07/28/al-interview-lexisnexis-ceo-sean-fitzpatrick/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-28T06:50:33.000Z",
-        "summary": "Artificial Lawyer spoke to LexisNexis CEO, Sean Fitzpatrick, about a range of Big Picture topics: from company growth despite the Claude Crash, how token costs ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -188,26 +158,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/27/should-clients-expect-price-cuts-due-to-legal-ai",
-        "title": "Should Clients Expect Price Cuts Due To Legal AI?",
-        "url": "https://www.artificiallawyer.com/2026/07/27/should-clients-expect-price-cuts-due-to-legal-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-27T07:37:21.000Z",
-        "summary": "This is the central question: should clients expect price cuts from law firms and other legal businesses due to legal AI? Because if there is ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/24/lexis-spellbook-google-legal-innovators-nordics",
-        "title": "Lexis $$$, Spellbook / Google, Legal Innovators Nordics",
-        "url": "https://www.artificiallawyer.com/2026/07/24/lexis-spellbook-google-legal-innovators-nordics/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-24T07:49:09.000Z",
-        "summary": "We start this week’s Wrap with news that the Claude Crash earlier this year, which hit market sentiment and wiped billions off the value of ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/legal-research-startup-midpage-crosses-another-threshold-of-coverage-adding-federal-and-state-statutes-regulations-and-agency-guidance.html",
         "title": "Legal Research Startup Midpage Crosses Another Threshold Of Coverage, Adding Federal and State Statutes, Regulations and Agency Guidance",
         "url": "https://www.lawnext.com/2026/07/legal-research-startup-midpage-crosses-another-threshold-of-coverage-adding-federal-and-state-statutes-regulations-and-agency-guidance.html",
@@ -215,16 +165,6 @@
         "publishedAt": "2026-07-23T17:00:06.000Z",
         "summary": "It was just 18 months ago that I wrote about the legal research startup Midpage passing what its founder considered a critical threshold in its development, achieving full data coverage of key U.S. case law. Now the comp",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship",
-        "title": "Harvey Deepens Microsoft Relationship",
-        "url": "https://www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-23T12:38:56.000Z",
-        "summary": "Harvey has deepened its engagement with Microsoft, in this case via providing its legal AI platform to the tech giant&#8217;s Corporate, External, and Legal Affairs ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -245,26 +185,6 @@
         "publishedAt": "2026-07-23T11:00:18.000Z",
         "summary": "The legal data company Entegrata, whose data lakehouse platform helps law firms consolidate siloed data into a single source of truth, has hired Andrew Baker, who for more than five years led applied AI and data science ",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/flank-launches-record-agentic-contract-truth-system",
-        "title": "Flank Launches ‘Record’ – Agentic Contract Truth System",
-        "url": "https://www.artificiallawyer.com/2026/07/23/flank-launches-record-agentic-contract-truth-system/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-23T08:09:52.000Z",
-        "summary": "Flank, the agentic legal tech company focused on inhouse teams, has launched Flank Record, an autonomous agentic contract system of record, which greatly reduces the ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/the-innovators-press-conference",
-        "title": "The Innovators – &#8216;Press Conference&#8217;",
-        "url": "https://www.artificiallawyer.com/2026/07/23/the-innovators-press-conference/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-23T06:48:04.000Z",
-        "summary": "Katie stood outside the managing partner’s door like a naughty student. Tim had sent everyone else away so he could have a solitary, emergency brainstorm. ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,9 +1126,49 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "36Kr:36kr.com/p/3919386961177985",
+        "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+        "url": "https://36kr.com/p/3919386961177985?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-31T15:23:43.000Z",
+        "summary": "文｜王欣逸 编辑｜张雨忻 一句话介绍 国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。 主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。 融资情况 近日，丘脑智能已完成数千万元种子轮融资，投资方包括深圳一线基金和产业资本，本轮融资主要用于技术研发以及人才队伍补充。 团队介绍 丘脑智能创立于",
+        "category": "articles",
+        "region": "cn"
+      },
       {
         "id": "36Kr:36kr.com/newsflashes/3919556554305154",
         "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
@@ -1308,16 +1268,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-07-31T11:00:25.000Z",
         "summary": "In a bid to defend its market share against rapidly advancing, lower-cost Chinese rivals, US artificial intelligence firm OpenAI has launched an aggressive price war, slashing prices for its latest GPT-5.6 model line-up ",
-        "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3362520/rednote-eyes-us22-billion-data-centre-china-ramps-ai-infrastructure-source-says",
-        "title": "RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says",
-        "url": "https://www.scmp.com/tech/big-tech/article/3362520/rednote-eyes-us22-billion-data-centre-china-ramps-ai-infrastructure-source-says?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-31T08:00:46.000Z",
-        "summary": "RedNote, the Chinese lifestyle social media platform also known as Xiaohongshu domestically, is looking to build out a large data centre facility in the Inner Mongolia autonomous region, according to a source, in a move ",
         "category": "tools",
         "region": "cn_en"
       },
