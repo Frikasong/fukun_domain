@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T02:00:11.459Z",
+  "generatedAt": "2026-07-31T08:37:07.279Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -104,16 +104,6 @@
         "source": "ABA Journal",
         "publishedAt": "2026-07-29T16:56:00.000Z",
         "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-        "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-        "source": "OpenAI News",
-        "publishedAt": "2026-07-29T15:00:00.000Z",
-        "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
         "category": "updates",
         "region": "na"
       },
@@ -1206,16 +1196,86 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/xem23uosnw0s7q8xuctp",
-        "title": "React Compiler 迁移 Rust 后更快了，但开发者担心“没人看得懂代码”",
-        "url": "https://www.infoq.cn/article/xeM23uOSNw0s7Q8xUCTp?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/zim0p8hwswhwugc54bsu",
+        "title": "枫清科技高雪峰：AI正在进入材料研发与化工生产全流程",
+        "url": "https://www.infoq.cn/article/zIm0P8HWsWHWuGC54BsU?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-07-31T09:00:00.000Z",
+        "publishedAt": "2026-07-31T15:57:22.000Z",
         "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qsmnws8rolhie9sa2mbe",
+        "title": "自构建智能体：一项 LangChain4j 实验",
+        "url": "https://www.infoq.cn/article/QSMNwS8RolhIE9sA2MbE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-31T15:41:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/u4rdqep8zvwujsqvoq23",
+        "title": "GitHub AI Agent 翻车：攻击者不用黑客技术，只写一句话就能窃取数据",
+        "url": "https://www.infoq.cn/article/u4rDqep8zVWUJsqVoQ23?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-07-31T12:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3919112515956355",
+        "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
+        "url": "https://36kr.com/p/3919112515956355?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-31T08:24:28.000Z",
+        "summary": "你的创业想法，值得被看见 有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率，也有人还在为融资、获客、团队管理等问题发愁。 我们发现，每位创业者关注的重点都不一样，但大家都在面对同一个问题： 未来，企业该如何更好地发展？ 为了更真实地了解创业者当下最关心的话题，36氪发起了一份 创业者需求调研 。这份问卷没有标准答案，也不是产品推广，而是希望听到创业者最真实的声音。 当然，我们也会关注一个绕不开的话题—— 人工智",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3919264117714567",
+        "title": "蚂蚁国际：其全球账户服务已被超过半数的中国大中型游戏厂商所采用",
+        "url": "https://36kr.com/newsflashes/3919264117714567?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-31T08:22:34.000Z",
+        "summary": "36氪获悉，2026年ChinaJoy期间，蚂蚁国际宣布，其全球账户服务已被超过半数的中国大中型游戏厂商所采用，其中包括库洛游戏、完美世界、网易等行业头部；同时众多AI应用企业、短剧平台以及中小游戏开发工作室也已接入该服务。蚂蚁国际相关数据显示，中国数娱出海商户交易额在2026年上半年快速增长。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3919202835345033",
+        "title": "小鹏汽车、智元机器人等将率先接入Seedance 2.5",
+        "url": "https://36kr.com/newsflashes/3919202835345033?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-31T07:15:12.000Z",
+        "summary": "36氪获悉，据火山引擎消息，今天，新一代视频生成模型Seedance 2.5正式发布。针对企业用户，火山引擎将于近期上线API服务。徐工集团、小鹏汽车、智元机器人、灵初智能、微分智飞、穹彻智能、Xspark AI（无界智航）等多家企业已与火山引擎达成合作意向，将率先接入Seedance 2.5。",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3919137999957382",
+        "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
+        "url": "https://36kr.com/p/3919137999957382?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-31T06:00:25.000Z",
+        "summary": "AI在企业端的快速渗透正在被持续验证。 7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。 分业务来看， 与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎 。该业务上半年实现收入2.26亿元，同比增长209.2%，收入占比由上年同期的55.3%提升至79.6%。相比之下，“FastData企业级数据智",
         "category": "updates",
         "region": "cn"
       },
@@ -1230,81 +1290,11 @@
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3918897678069383",
-        "title": "创业板指涨超6%",
-        "url": "https://36kr.com/newsflashes/3918897678069383?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-31T01:48:52.000Z",
-        "summary": "36氪获悉，创业板指涨超6%，沪指涨超1%，深成指涨近4%，科创50涨近8%；芯片、算力硬件等方向领涨，沪深京三市上涨个股超4500只。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3918865590677126",
-        "title": "MiniMax H3正式发布",
-        "url": "https://36kr.com/newsflashes/3918865590677126?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-31T01:16:13.000Z",
-        "summary": "36氪获悉，MiniMax宣布正式发布MiniMax H3。据介绍，这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持15s 2K分辨率。MiniMax表示，计划在未来几天内，在符合相关法律法规的前提下，开放模型权重。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3918863627988358",
-        "title": "扩建算力数据中心后，智谱GLM Coding Plan开放订阅",
-        "url": "https://36kr.com/newsflashes/3918863627988358?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-31T01:14:13.000Z",
-        "summary": "7月31日，智谱宣布，随着基础设施持续扩容，面向开发者群体的付费订阅服务GLM Coding Plan开放订阅。此前因AI Coding需求爆发，用户需求增长，阶段性限制订阅名额。另据了解，智谱已落地1GW级国产AI算力数据中心建设，全部采用国产AI芯片，并持续投入算力基础设施建设。（第一财经）",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3918830343859843",
-        "title": "人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线",
-        "url": "https://36kr.com/newsflashes/3918830343859843?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-31T00:40:22.000Z",
-        "summary": "2到4个小时，是当前全球主流量产人形机器人的普遍续航时长。这意味着，一台号称能替代工厂工人的机器人，撑不满一个标准班次。当人形机器人从实验室走向工厂乃至家庭，续航这道坎，正在成为规模化落地最现实的“拦路虎”。在近日举办的世界人工智能大会（WAIC2026）上，均胜电子旗下均恩新能源总经理徐伟向记者点出了行业面临的六大挑战：续航时间短、有效载荷受限、内部空间紧张、补能时间过长、安全风险突出以及高动态运动下的瞬时大功率需求。“但这些可以归结",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/h0wg6p7z3tytk3hxqiht",
         "title": "Kubernetes 统治了容器时代，谷歌 Agent Substrate 意在拿下下一个十年",
         "url": "https://www.infoq.cn/article/h0WG6p7z3tyTk3hxQIhT?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-07-30T19:50:44.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/nmxxsss9qb8ltrlwmr5v",
-        "title": "从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”",
-        "url": "https://www.infoq.cn/article/NMXxssS9qB8LtRlWMr5V?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-30T17:12:29.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/8fazw1rx2ffsrru6qydw",
-        "title": "你真的驾驭好 AI Coding 了吗",
-        "url": "https://www.infoq.cn/video/8FaZW1Rx2ffsrru6QYdw?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-30T16:37:42.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/msl3k1dasj3xiwlmd4tn",
-        "title": "AI Agent 不是唯一答案，Expedia 用确定性工作流打造 AI 运维平台",
-        "url": "https://www.infoq.cn/article/msL3K1DAsj3XIwLmd4tN?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-30T14:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1328,47 +1318,17 @@
         "summary": "消费决策入口正在发生变化。 过去，人们购买一款产品，往往依赖品牌认知、朋友推荐、内容测评，或者在搜索框中主动寻找答案。 但如今，这一过程正在被AI重新改写。 “20-30万元新能源轿车怎么选？”“适合油皮的抗老精华有哪些？”“预算5000元买什么手机？”越来越多具体消费问题，开始直接交给AI回答。 QuestMobile数据显示，截至2026年6月，豆包、千问、DeepSeek的月活跃用户规模已分别达到3.82亿、1.67亿和1.30亿",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/szagmzi0g7inltxalmvi",
-        "title": "轻量化异构双臂 x VLA/世界模型：家庭服务具身机器人的落地实践｜AICon深圳",
-        "url": "https://www.infoq.cn/article/SZaGmZI0g7INLtxalmvi?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-30T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3917548470218371",
-        "title": "易方达「戒酒」",
-        "url": "https://36kr.com/p/3917548470218371?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-30T02:58:26.000Z",
-        "summary": "作者 | 黄绎达 编辑 | 张帆 今年一骑绝尘的韩国股市在近期开启暴跌模式，两大超级权重股三星电子和SK海力士惨遭持续抛售，由此频繁触发大盘“熔断”，重仓韩股龙头的金融产品亦在近期损失惨重，典型如两倍做多三星电子/SK海力士ETF，不少该类型产品在近期的回撤都在60%以上。 张坤管理的QDII基金易方达亚洲精选（以下简称：亚洲精选），也重仓了三星电子和SK海力士，在此前AI链牛市的加持下，基金净值表现十分亮眼。二季度末，韩股开始暴跌，基",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3916820073623171",
-        "title": "36氪首发｜本末科技前合伙人创业做电助力渔轮，获高瓴、启明创投联合投资",
-        "url": "https://36kr.com/p/3916820073623171?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-30T01:00:42.000Z",
-        "summary": "文｜张子怡 编辑｜袁斯来 硬氪获悉，海洋科技消费品公司「蓝色涌现」近日完成数千万人民币天使+轮融资，本轮投资方高瓴创投联合启明创投领投，云沐资本跟投，老股东天使投资人高秉强教授、奇绩创坛、松禾创投联创等持续加注，累计融资超5000万人民币，云沐资本担任独家财务顾问。本轮资金将主要用于核心产品的技术研发迭代，以及产品上市后的市场销售渠道搭建。 蓝色涌现成立于2024年，首款产品是面向海钓场景的电助力渔轮，产品已在用户内测阶段。 相比北美、",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/presented/business/topics/igniting-minds-building-futures/article/3361979/beyond-pitch-how-ideapop-teaching-students-build-social-innovation-works",
-        "title": "Beyond the Pitch: How IdeaPOP! Is Teaching Students to Build Social Innovation That Works",
-        "url": "https://www.scmp.com/presented/business/topics/igniting-minds-building-futures/article/3361979/beyond-pitch-how-ideapop-teaching-students-build-social-innovation-works?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3362520/rednote-eyes-us22-billion-data-centre-china-ramps-ai-infrastructure-source-says",
+        "title": "RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says",
+        "url": "https://www.scmp.com/tech/big-tech/article/3362520/rednote-eyes-us22-billion-data-centre-china-ramps-ai-infrastructure-source-says?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-07-31T01:00:06.000Z",
-        "summary": "[The content of this article has been produced by our advertising partner.] When the SEED Foundation began reviewing applications for IdeaPOP! 2026, a pattern emerged almost immediately. Across more than a hundred submis",
-        "category": "skills",
+        "publishedAt": "2026-07-31T08:00:46.000Z",
+        "summary": "RedNote, the Chinese lifestyle social media platform also known as Xiaohongshu domestically, is looking to build out a large data centre facility in the Inner Mongolia autonomous region, according to a source, in a move ",
+        "category": "tools",
         "region": "cn_en"
       },
       {
