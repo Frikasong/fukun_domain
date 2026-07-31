@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T08:37:07.279Z",
+  "generatedAt": "2026-07-31T13:44:13.753Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,22 +1210,12 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/zim0p8hwswhwugc54bsu",
-        "title": "枫清科技高雪峰：AI正在进入材料研发与化工生产全流程",
-        "url": "https://www.infoq.cn/article/zIm0P8HWsWHWuGC54BsU?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-31T15:57:22.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qsmnws8rolhie9sa2mbe",
-        "title": "自构建智能体：一项 LangChain4j 实验",
-        "url": "https://www.infoq.cn/article/QSMNwS8RolhIE9sA2MbE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-31T15:41:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3919556554305154",
+        "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
+        "url": "https://36kr.com/newsflashes/3919556554305154?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-31T12:59:06.000Z",
+        "summary": "36氪获悉，7月31日，国务院国资委党委召开扩大会议。会议强调，要指导中央企业主动对接和带头落实好国家政策，抓住重点、主动作为，充分发挥引领带动作用，更好助推经济持续向新向优向好发展。要锚定全年目标不动摇，切实加强现场督导调研，把中央企业生产经营情况摸清摸透，找准痛点、对症下药，夯实企业高质量发展基础。要着力推进原始创新和关键核心技术攻关，以更大力度加强基础研究，深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业。要持续深化",
         "category": "updates",
         "region": "cn"
       },
@@ -1240,32 +1230,52 @@
         "region": "cn"
       },
       {
+        "id": "36Kr:36kr.com/newsflashes/3919473270812290",
+        "title": "欧盟8月2日起执行《人工智能法》相关规定，新增AI透明度要求",
+        "url": "https://36kr.com/newsflashes/3919473270812290?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-31T11:45:20.000Z",
+        "summary": "欧盟委员会7月31日宣布，自8月2日起，欧盟委员会人工智能办公室将与各成员国主管部门共同开始执行《人工智能法》相关规定。同时，新的人工智能透明度要求也将正式生效，要求部分人工智能系统明确告知用户其正在与人工智能互动，以及相关内容是否由人工智能生成或修改。根据新规，聊天机器人等交互式人工智能系统必须向用户明确表明其人工智能身份，而非真人。利用人工智能生成或编辑的深度伪造图片、视频和音频等内容必须进行标识，由人工智能生成或修改的内容还需添加",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3910776673064073",
+        "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+        "url": "https://36kr.com/p/3910776673064073?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-31T10:27:38.000Z",
+        "summary": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。 曾爱玲 B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。 曾爱玲的个人主页显示，她曾在腾讯混元&AI Lab团队和国际数字经济研究院（IDEA）工作三年，领导以人为中心的感知与生成研究团队。其后，她加入米哈",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3919378312670857",
+        "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+        "url": "https://36kr.com/p/3919378312670857?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-31T10:01:34.000Z",
+        "summary": "大公司： 途牛：8月中上旬或将迎新一轮客流高峰 36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。 Prada集团上半年营收增长16%，Miu Miu增速显著放缓 2026年上半年，Prada集团营收按固定汇率计同比",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3919225763540611",
+        "title": "开云的转折：在中国，做一个AI乐观派",
+        "url": "https://36kr.com/p/3919225763540611?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-07-31T08:58:59.000Z",
+        "summary": "作者 | 谢芸子 黄绎达 编辑 | 张帆 开云的转型初见成效。 7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。 更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。 其中，核心品牌古驰Gucci第二季度的营收14.1亿欧元，同比降幅从第一季度的8%收窄至2%，环比改善7个百分",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "36Kr:36kr.com/p/3919112515956355",
         "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
         "url": "https://36kr.com/p/3919112515956355?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-07-31T08:24:28.000Z",
         "summary": "你的创业想法，值得被看见 有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率，也有人还在为融资、获客、团队管理等问题发愁。 我们发现，每位创业者关注的重点都不一样，但大家都在面对同一个问题： 未来，企业该如何更好地发展？ 为了更真实地了解创业者当下最关心的话题，36氪发起了一份 创业者需求调研 。这份问卷没有标准答案，也不是产品推广，而是希望听到创业者最真实的声音。 当然，我们也会关注一个绕不开的话题—— 人工智",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3919264117714567",
-        "title": "蚂蚁国际：其全球账户服务已被超过半数的中国大中型游戏厂商所采用",
-        "url": "https://36kr.com/newsflashes/3919264117714567?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-31T08:22:34.000Z",
-        "summary": "36氪获悉，2026年ChinaJoy期间，蚂蚁国际宣布，其全球账户服务已被超过半数的中国大中型游戏厂商所采用，其中包括库洛游戏、完美世界、网易等行业头部；同时众多AI应用企业、短剧平台以及中小游戏开发工作室也已接入该服务。蚂蚁国际相关数据显示，中国数娱出海商户交易额在2026年上半年快速增长。",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/newsflashes/3919202835345033",
-        "title": "小鹏汽车、智元机器人等将率先接入Seedance 2.5",
-        "url": "https://36kr.com/newsflashes/3919202835345033?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-31T07:15:12.000Z",
-        "summary": "36氪获悉，据火山引擎消息，今天，新一代视频生成模型Seedance 2.5正式发布。针对企业用户，火山引擎将于近期上线API服务。徐工集团、小鹏汽车、智元机器人、灵初智能、微分智飞、穹彻智能、Xspark AI（无界智航）等多家企业已与火山引擎达成合作意向，将率先接入Seedance 2.5。",
         "category": "updates",
         "region": "cn"
       },
@@ -1288,39 +1298,19 @@
         "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。 昆腾动力成立于2026年上半年，公司聚焦AI与真实物理世界的深度融合，自研可跨多场景复用",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/h0wg6p7z3tytk3hxqiht",
-        "title": "Kubernetes 统治了容器时代，谷歌 Agent Substrate 意在拿下下一个十年",
-        "url": "https://www.infoq.cn/article/h0WG6p7z3tyTk3hxQIhT?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-30T19:50:44.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3917972674735747",
-        "title": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
-        "url": "https://36kr.com/p/3917972674735747?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-30T13:56:03.000Z",
-        "summary": "大公司： 证监会同意沈鼓集团沪市主板IPO注册 36氪获悉，证监会同意沈鼓集团股份有限公司首次公开发行股票并在沪市主板上市的注册申请。 三星电子：已同全球五大数据中心客户签订合同 据报道，三星电子7月30日预测，明年存储芯片供不应求现象将进一步加剧，超大规模云服务商扩大对人工智能（AI）基础设施的投资，带动服务器、固态硬盘、高带宽内存（HBM）需求进一步增长。三星电子称，公司已与全球五大数据中心客户签订合同，另与AI相关五大大型客户进行",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3917984470576769",
-        "title": "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」",
-        "url": "https://36kr.com/p/3917984470576769?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-30T10:26:14.000Z",
-        "summary": "消费决策入口正在发生变化。 过去，人们购买一款产品，往往依赖品牌认知、朋友推荐、内容测评，或者在搜索框中主动寻找答案。 但如今，这一过程正在被AI重新改写。 “20-30万元新能源轿车怎么选？”“适合油皮的抗老精华有哪些？”“预算5000元买什么手机？”越来越多具体消费问题，开始直接交给AI回答。 QuestMobile数据显示，截至2026年6月，豆包、千问、DeepSeek的月活跃用户规模已分别达到3.82亿、1.67亿和1.30亿",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3362568/openai-blinks-face-chinese-rivals-drops-pricing-some-models-80",
+        "title": "OpenAI blinks in face-off with Chinese rivals, drops pricing for some models up to 80%",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3362568/openai-blinks-face-chinese-rivals-drops-pricing-some-models-80?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-07-31T11:00:25.000Z",
+        "summary": "In a bid to defend its market share against rapidly advancing, lower-cost Chinese rivals, US artificial intelligence firm OpenAI has launched an aggressive price war, slashing prices for its latest GPT-5.6 model line-up ",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3362520/rednote-eyes-us22-billion-data-centre-china-ramps-ai-infrastructure-source-says",
         "title": "RedNote eyes US$2.2 billion data centre as China ramps up AI infrastructure, source says",
