@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T01:58:01.809Z",
+  "generatedAt": "2026-08-02T08:07:51.563Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,22 +1210,62 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/s8ia8kgdrizgcesqaoxr",
-        "title": "用了多年 React，Remix 终于“叛变”了：3.0 版本彻底重写",
-        "url": "https://www.infoq.cn/article/s8IA8KgdrizgCEsQAOXr?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-02T09:11:00.000Z",
-        "summary": "点击查看原文>",
+        "id": "36Kr:36kr.com/newsflashes/3922077104664199",
+        "title": "谷歌地球紧急叫停AI生图：虚构场景可叠加卫星图散播假信息",
+        "url": "https://36kr.com/newsflashes/3922077104664199?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-08-02T07:51:54.000Z",
+        "summary": "谷歌推出谷歌地球（Google Earth）人工智能（AI）图像生成功能不到48小时后，宣布暂停服务，以加强安全防护。专家此前警告，这项工具可把虚构场景叠加在真实卫星图像上，容易被用于散播假信息。 (澎湃新闻)",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3920435807923841",
-        "title": "浙江实施人工智能OPC术语团体标准：由1名核心自然人主导",
-        "url": "https://36kr.com/newsflashes/3920435807923841?f=rss",
+        "id": "36Kr:36kr.com/newsflashes/3921989528432259",
+        "title": "中国产品包揽全球大模型调用量前五",
+        "url": "https://36kr.com/newsflashes/3921989528432259?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-08-01T06:15:22.000Z",
-        "summary": "由浙江省数字经济发展中心等编制的《人工智能OPC术语》团体标准2026年8月1日起实施，将人工智能OPC（One Person Company，一人公司）界定为由1名核心自然人主导控制，员工一般不超过10人，以AI技术研究、开发、应用或服务为主营业务的公司。",
+        "publishedAt": "2026-08-02T06:14:03.000Z",
+        "summary": "近日，全球多模型聚合平台OpenRouter发布最新一周AI大模型调用量榜单，排名前五的产品全部由中国企业研发。登顶榜单首位的是小米MiMo-V2.5，单周调用量达到10.5万亿Token，环比增长12%。排名第二和第五的均来自DeepSeek，两款模型形成高低搭配，覆盖不同开发需求，其中旗舰Pro版本在代码、复杂智能体任务性能对标海外顶级闭源模型。而这些模型的共同之处，是发布时间很短便快速上榜，位列第三的腾讯混元3，7月6日才正式开源",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3921943840353668",
+        "title": "新一代通信网建设加快，千兆光网覆盖超九成国民经济大类",
+        "url": "https://36kr.com/newsflashes/3921943840353668?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-08-02T05:27:35.000Z",
+        "summary": "记者从工业和信息化部了解到，我国正加快新一代通信网建设，目前千兆光网典型应用已覆盖超九成国民经济大类。工业和信息化部信息通信发展司副司长赵策介绍，千兆光网与人工智能、云计算、大数据等技术加速融合，覆盖我国国民经济97个大类中的91个，在智能制造、智慧交通、数字医疗、智慧教育等领域形成一批可复制、可推广的典型方案。我国已经实现“县县通千兆”“村村通宽带”，千兆光网典型应用案例超过5万个，重庆等城市已实现千兆光网城乡全域覆盖。工业和信息化部",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3921888283848068",
+        "title": "银河证券：Kimi K3正式开源重塑大模型商业生态，建议关注国产超节点及产业链相关公司",
+        "url": "https://36kr.com/newsflashes/3921888283848068?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-08-02T04:31:04.000Z",
+        "summary": "银河证券研报指出，Kimi K3上线后仅48小时，请求量便把现有集群打满，随后Kimi宣布暂停C端新用户会员订阅，验证Kimi K3模型能力突出与算力紧缺。银河证券认为，Kimi K3并非抑制算力需求，一方面国产开源模型的能力逼近全球顶级闭源模型，倒逼顶级大模型厂商通过更大规模的训练以及更快的迭代来维持差异化，另一方面持续引爆推理算力需求，当前Kimi K3已实现与多家国产算力平台的‌Day 0极速适配，拉动国产超节点的需求，进而推动产",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3921849987706240",
+        "title": "山东：力争3年内集聚万名人工智能OPC创新人才",
+        "url": "https://36kr.com/newsflashes/3921849987706240?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-08-02T04:07:01.000Z",
+        "summary": "36氪获悉，据山东政府网官微消息，山东省工信厅等12部门近日联合印发《关于支持人工智能OPC创新发展的行动方案》，培育壮大人工智能OPC（One Person Company，一人公司）新型市场主体，推动“AI+超级个体”新型创业模式加速落地。力争3年内，建成百个定位清晰、功能完善的特色载体，培育千家技术领先、成长性强的创业主体，集聚万名优秀人工智能OPC创新人才。支持济南、青岛、烟台等市结合产业禀赋，统筹规划存量资源与新增空间，依托数",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3921838043065736",
+        "title": "长三角（嘉兴）Token运营中心正式启动",
+        "url": "https://36kr.com/newsflashes/3921838043065736?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-08-02T03:39:57.000Z",
+        "summary": "36氪获悉，长三角（嘉兴）Token运营中心发布会日前在嘉兴沙龙宾馆举行。发布会上，作为长三角（嘉兴）Token运营中心面向市场的统一服务窗口，长三角（嘉兴）Token运营中心门户网站同步上线。企业不再需要找代码、配环境、调参数。平台如同一个大型的“数据模型超市”，企业一次接入，即可按需调用DeepSeek、Qwen等100余款主流大模型。 (浙江发布)",
         "category": "updates",
         "region": "cn"
       },
