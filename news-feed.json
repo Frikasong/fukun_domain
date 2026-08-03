@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T02:00:29.640Z",
+  "generatedAt": "2026-08-03T09:25:56.883Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,22 +1210,102 @@
     ],
     "cn": [
       {
-        "id": "36Kr:36kr.com/newsflashes/3923128725646979",
-        "title": "铠侠计划今年量产下一代AI NAND产品",
-        "url": "https://36kr.com/newsflashes/3923128725646979?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-08-03T01:32:54.000Z",
-        "summary": "日本铠侠正瞄准下一代人工智能（AI）NAND市场，其计划今年量产最新的标准NAND解决方案，包括“PCIe（PCIExpress）6.0”和“UFS（UniversalFlashStorage）5.0”。（新浪财经）",
+        "id": "InfoQ China:www.infoq.cn/video/ppo5zn9ptts5wcqgohgz",
+        "title": "用DeepSeek-TUI+玩转+Vibe+Coding",
+        "url": "https://www.infoq.cn/video/PPO5ZN9pTtS5WCqgohgz?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-03T16:35:13.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3923097236729472",
-        "title": "“奇点逃逸”完成千万级种子轮融资",
-        "url": "https://36kr.com/newsflashes/3923097236729472?f=rss",
+        "id": "InfoQ China:www.infoq.cn/video/va74x3wdgnzrce6cvk1j",
+        "title": "WorkBuddy精选高价值场景全解析",
+        "url": "https://www.infoq.cn/video/VA74X3wdGNzrCE6cVk1J?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-03T16:35:04.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/5si5hgxikqjbwfwyj5ac",
+        "title": "Amazon EKS 新增升级后 7 天内回滚 Kubernetes 版本的功能",
+        "url": "https://www.infoq.cn/article/5si5hgXIKQjbwFwyJ5aC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-03T16:09:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jwp8lyvuod0tmfellrq4",
+        "title": "软件从现实开始：知识驱动计算（KDC）的Reality First主张",
+        "url": "https://www.infoq.cn/article/JWP8LYvuoD0tmFelLRq4?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-03T15:22:05.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/0j39gylo41a3vmv9booi",
+        "title": "Anthropic 详解 Claude 的安全隔离架构：如何在 Web、开发和桌面环境中约束 Agent 行为",
+        "url": "https://www.infoq.cn/article/0j39GYLo41A3VMv9BoOi?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-03T14:30:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/urotvrukptorhzfwspxj",
+        "title": "Altman 带着GPT-6进白宫？OpenAI 新模型曝光，或成美国首批过审模型",
+        "url": "https://www.infoq.cn/article/uRoTVrUKptoRHzFwSpxj?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-03T11:55:25.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/amvxr0j31a7nmb4f5z3z",
+        "title": "浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+        "url": "https://www.infoq.cn/article/amvXR0j31a7NMB4F5Z3Z?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-03T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3923538498727556",
+        "title": "小摩：AI板块不太可能是下半年回报的主要驱动力",
+        "url": "https://36kr.com/newsflashes/3923538498727556?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-08-03T01:00:52.000Z",
-        "summary": "36氪获悉，近日，“奇点逃逸”完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。",
+        "publishedAt": "2026-08-03T08:52:48.000Z",
+        "summary": "摩根大通策略师认为，随着市场表现向更多板块扩散，科技股或人工智能相关股票下半年不太可能是市场回报的主要驱动力。由Mislav Matejka带领的团队表示，动量交易的抛售可能大部分已经结束，半导体股目前已接近超卖水平该团队在报告中写道：“由于每股收益动能依然向上，这应有助于相关股票企稳”。不过，策略师预计市场表现将继续向更多板块扩散，并重申，由于地缘政治局势紧张，建议投资者逢低买入。小摩还预计，美联储将“尽可能保持宽松”，从而推动债券收",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/newsflashes/3923523338956168",
+        "title": "特朗普媒体集团推出高价付费数据服务引发市场质疑与合规争议",
+        "url": "https://36kr.com/newsflashes/3923523338956168?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-08-03T08:14:20.000Z",
+        "summary": "特朗普媒体科技集团近日正式推出名为“Truth API”的企业级数据接口服务，向金融机构及专业投资者出售社交平台“真实社交”（Truth Social）特定账号的实时数据订阅权限。由于该服务允许付费用户提前获取包含美国总统特朗普在内的关键账号言论，且预估月订阅费高达数万美元，随即在华尔街、学术界及法律界引发关于内幕交易、市场不公及政商利益冲突的强烈质疑。据了解，该数据接口服务于当地时间8月1日面向机构客户开放。（新浪财经）",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3923374038265217",
+        "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
+        "url": "https://36kr.com/p/3923374038265217?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-08-03T05:43:36.000Z",
+        "summary": "硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。 量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。 图源企业 公司创始团队融合了国内外研发和制造经验，创始人李耀基拥有30余年的集成电路行业经验，曾任重庆联合微电子CUMEC工程副总裁，Cade",
         "category": "updates",
         "region": "cn"
       },
@@ -1268,39 +1348,19 @@
         "summary": "文｜王欣逸 编辑｜张雨忻 一句话介绍 国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。 主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。 融资情况 近日，丘脑智能已完成数千万元种子轮融资，投资方包括深圳一线基金和产业资本，本轮融资主要用于技术研发以及人才队伍补充。 团队介绍 丘脑智能创立于",
         "category": "articles",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/u4rdqep8zvwujsqvoq23",
-        "title": "GitHub AI Agent 翻车：攻击者不用黑客技术，只写一句话就能窃取数据",
-        "url": "https://www.infoq.cn/article/u4rDqep8zVWUJsqVoQ23?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-07-31T12:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3910776673064073",
-        "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
-        "url": "https://36kr.com/p/3910776673064073?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-31T10:27:38.000Z",
-        "summary": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。 曾爱玲 B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。 曾爱玲的个人主页显示，她曾在腾讯混元&AI Lab团队和国际数字经济研究院（IDEA）工作三年，领导以人为中心的感知与生成研究团队。其后，她加入米哈",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3919378312670857",
-        "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
-        "url": "https://36kr.com/p/3919378312670857?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-07-31T10:01:34.000Z",
-        "summary": "大公司： 途牛：8月中上旬或将迎新一轮客流高峰 36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。 Prada集团上半年营收增长16%，Miu Miu增速显著放缓 2026年上半年，Prada集团营收按固定汇率计同比",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3362766/chinas-social-security-fund-boosts-stakes-share-firms-first-7-months-data-shows",
+        "title": "China’s social security fund boosts stakes in A-share firms in first 7 months, data shows",
+        "url": "https://www.scmp.com/business/banking-finance/article/3362766/chinas-social-security-fund-boosts-stakes-share-firms-first-7-months-data-shows?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-03T06:39:48.000Z",
+        "summary": "China’s social security sovereign fund cast a vote of confidence in the onshore stock market by increasing stakes in A-share companies in the first seven months of this year, financial data showed. The buying came as the",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3362568/openai-blinks-face-chinese-rivals-drops-pricing-some-models-80",
         "title": "OpenAI blinks in face-off with Chinese rivals, drops pricing for some models up to 80%",
