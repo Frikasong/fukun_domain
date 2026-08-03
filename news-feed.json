@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T14:18:55.218Z",
+  "generatedAt": "2026-08-03T19:21:01.590Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,106 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
+        "title": "ABA President Michelle A. Behnke addresses House of Delegates",
+        "url": "https://www.abajournal.com/news/article/aba&#45;president&#45;michelle&#45;a&#45;behnke&#45;addresses&#45;house&#45;of&#45;delegates/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-03T18:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/08/new-site-from-suffolk-law-dean-andrew-perlman-catalogs-ai-policies-at-128-law-schools.html",
+        "title": "New Site From Suffolk Law Dean Andrew Perlman Catalogs AI Policies at 128 Law Schools",
+        "url": "https://www.lawnext.com/2026/08/new-site-from-suffolk-law-dean-andrew-perlman-catalogs-ai-policies-at-128-law-schools.html",
+        "source": "LawSites",
+        "publishedAt": "2026-08-03T17:53:08.000Z",
+        "summary": "When law school AI policies have made news, it has usually been because they were controversial. UC Berkeley School of Law&#8217;s restrictive policy, which I wrote about in May, drew national attention for barring gener",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/attorney&",
+        "title": "Attorney accused of defrauding multiple clients of more than $855K",
+        "url": "https://www.abajournal.com/news/article/attorney&#45;accused&#45;of&#45;defrauding&#45;multiple&#45;clients&#45;of&#45;more&#45;than&#45;800000/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-03T16:57:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/bar&",
+        "title": "Test-takers with accommodations in Washington were able to finish NextGen UBE",
+        "url": "https://www.abajournal.com/web/article/bar&#45;candidates&#45;with&#45;accommodations&#45;in&#45;washington&#45;were&#45;able&#45;to&#45;finish&#45;the&#45;nextgen/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-03T16:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/08/as-ai-legal-research-tools-race-to-give-answers-this-new-product-gives-only-cases-and-thats-the-point.html",
+        "title": "As AI Legal Research Tools Race to Give Answers, This New Product Gives Only Cases — And That&#8217;s the Point",
+        "url": "https://www.lawnext.com/2026/08/as-ai-legal-research-tools-race-to-give-answers-this-new-product-gives-only-cases-and-thats-the-point.html",
+        "source": "LawSites",
+        "publishedAt": "2026-08-03T16:08:49.000Z",
+        "summary": "At a time when virtually every major AI legal research product is moving toward delivering a single, synthesized answer to your research question, a new product launching today is based on the premise that many litigator",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/scotusblog&",
+        "title": "SCOTUSblog founder Tom Goldstein appeals fraud conviction",
+        "url": "https://www.abajournal.com/news/article/scotusblog&#45;founder&#45;appeals&#45;fraud&#45;conviction/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-03T15:55:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/vance&",
+        "title": "Vance imagines a bright ABA future at Nominating Committee candidates’ forum",
+        "url": "https://www.abajournal.com/news/article/vance&#45;imagines&#45;a&#45;bright&#45;aba&#45;future&#45;at&#45;nominating&#45;committee&#45;candidates&#45;forum/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-03T15:45:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/new&",
+        "title": "New pathway to bar approved in this state",
+        "url": "https://www.abajournal.com/web/article/new&#45;mexico&#45;approves&#45;new&#45;pathway&#45;to&#45;bar/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-03T15:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/hbos&",
+        "title": "HBO’s John Oliver dares popular chain Buc-ee&#8217;s to sue him over mascot use",
+        "url": "https://www.abajournal.com/news/article/hbos&#45;john&#45;oliver&#45;dares&#45;popular&#45;chain&#45;buc&#45;ees&#45;to&#45;sue&#45;him&#45;over&#45;mascot&#45;use/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-03T14:54:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/anti&",
+        "title": "Anti-cop license plates are protected as free speech, 4th Circuit rules",
+        "url": "https://www.abajournal.com/news/article/anti&#45;cop&#45;license&#45;plates&#45;are&#45;protected&#45;as&#45;free&#45;speech&#45;fourth&#45;circuit&#45;rules/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-03T14:38:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/justices&",
         "title": "Justices discuss international legal roots and ongoing legacy of the Declaration of Independence at ABA Annual Conference",
@@ -23,86 +123,6 @@
         "url": "https://www.abajournal.com/news/article/american&#45;bar&#45;association&#45;honors&#45;civil&#45;legal&#45;aid&#45;champion&#45;john&#45;m&#45;rosenberg&#45;with&#45;2026&#45;aba&#45;medal/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-08-02T15:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
-        "title": "ABA Commission on Women in the Profession finds women lawyers face persistent barriers",
-        "url": "https://www.abajournal.com/news/article/aba&#45;commission&#45;on&#45;women&#45;in&#45;the&#45;profession&#45;finds&#45;women&#45;lawyers&#45;face&#45;persistent&#45;barriers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-02T01:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/nascar&",
-        "title": "Trademark violations alleged by NASCAR in suit targeting counterfeit merch sellers",
-        "url": "https://www.abajournal.com/news/article/nascar&#45;alleges&#45;trademark&#45;violations&#45;in&#45;lawsuit&#45;targeting&#45;counterfeit&#45;merch&#45;sellers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-31T16:18:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/defense&",
-        "title": "Defense attorneys should cautiously adopt AI, new study says",
-        "url": "https://www.abajournal.com/news/article/defense&#45;attorneys&#45;should&#45;cautiously&#45;adopt&#45;ai&#45;new&#45;study&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-31T15:32:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/jimothy&",
-        "title": "Is Jimothy the raccoon too popular to be owned? IP attorneys weigh in",
-        "url": "https://www.abajournal.com/news/article/jimothy&#45;the&#45;raccoon&#45;is&#45;too&#45;popular&#45;to&#45;be&#45;owned&#45;ip&#45;attorneys&#45;say/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-31T15:08:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/traders&",
-        "title": "Traders plead guilty to BigLaw stolen-info scheme",
-        "url": "https://www.abajournal.com/news/article/traders&#45;plead&#45;guilty&#45;to&#45;scheme&#45;involving&#45;insider&#45;info&#45;from&#45;biglaw&#45;firms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-31T14:44:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/minneapolis&",
-        "title": "Former top public defender in Minneapolis disbarred after felony tax conviction",
-        "url": "https://www.abajournal.com/news/article/minneapolis&#45;former&#45;top&#45;public&#45;defender&#45;disbarred&#45;after&#45;felony&#45;tax&#45;conviction/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-31T14:30:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/washington&",
-        "title": "Washington law deans demand diploma privilege after aborted NextGen UBE administration",
-        "url": "https://www.abajournal.com/web/article/washington&#45;law&#45;deans&#45;demand&#45;diploma&#45;privilege&#45;after&#45;aborted&#45;nextgen&#45;ube&#45;administration/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-30T18:49:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/insurance&",
-        "title": "Insurance group seeks to dodge $10M damages award to worker who sued HR company over racial bias",
-        "url": "https://www.abajournal.com/news/article/insurance&#45;company&#45;looks&#45;to&#45;dodge&#45;10&#45;million&#45;damages&#45;award/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-07-30T17:01:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1168,26 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/04/gavel-launches-web-based-ai-contract-platform-expanding-gavel-exec-beyond-its-word-add-in.html",
-        "title": "Gavel Launches Web-Based AI Contract Platform, Expanding &#8216;Gavel Exec&#8217; Beyond Its Word Add-In",
-        "url": "https://www.lawnext.com/2026/04/gavel-launches-web-based-ai-contract-platform-expanding-gavel-exec-beyond-its-word-add-in.html",
-        "source": "LawSites",
-        "publishedAt": "2026-04-27T13:00:59.000Z",
-        "summary": "Gavel, the Los Angeles-based legal AI company, today announced the launch of Gavel Exec for Web, a browser-based expansion of its AI contract review and drafting product that until now has lived primarily as an add-in in",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/04/questel-launches-qaecter-a-new-ai-model-claiming-state-of-the-art-performance-in-patent-search.html",
-        "title": "Questel Launches QaECTER, a New AI Model Claiming State-of-the-Art Performance in Patent Search",
-        "url": "https://www.lawnext.com/2026/04/questel-launches-qaecter-a-new-ai-model-claiming-state-of-the-art-performance-in-patent-search.html",
-        "source": "LawSites",
-        "publishedAt": "2026-04-27T13:00:24.000Z",
-        "summary": "Questel, an intellectual property software and services company headquartered in Paris, has released QaECTER, a new AI model designed specifically for semantic patent retrieval. The company says the model outperforms com",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1335,7 +1335,7 @@
         "url": "https://36kr.com/p/3923374038265217?f=rss",
         "source": "36Kr",
         "publishedAt": "2026-08-03T05:43:36.000Z",
-        "summary": "硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。 量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。 图源企业 公司创始团队融合了国内外研发和制造经验，创始人李耀基拥有30余年的集成电路行业经验，曾任重庆联合微电子CUMEC工程副总裁，Cade",
+        "summary": "硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。 量引科技成立于2024年，聚焦光子集成电路领域，��力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。 图源企业 公司创始团队融合了国内外研发和制造经验，创始人李耀基拥有30余年的集成电路行业经验，曾任重庆联合微电子CUMEC工程副总裁，Cad",
         "category": "updates",
         "region": "cn"
       },
