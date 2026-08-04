@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T01:45:58.138Z",
+  "generatedAt": "2026-08-04T08:23:24.513Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,62 +1210,72 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/kfoq3gzkdqawg7q3uvyd",
-        "title": "微软发布 .NET 11 Preview 6，带来语言和框架更新",
-        "url": "https://www.infoq.cn/article/kfoq3gzKdqawG7Q3uVYd?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/qm3rhl133sesfzjgrmea",
+        "title": "Agent 记忆，不能只靠聊天记录",
+        "url": "https://www.infoq.cn/article/qm3RHL133SESFZJGrmeA?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-04T09:00:00.000Z",
+        "publishedAt": "2026-08-04T14:37:52.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3924551743617416",
-        "title": "创业板指涨超2%",
-        "url": "https://36kr.com/newsflashes/3924551743617416?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-08-04T01:40:28.000Z",
-        "summary": "36氪获悉，创业板指涨超2%，沪指涨0.1%，深成指涨1.38%，医药医疗、CPO、算力租赁等方向涨幅居前，沪深京三市上涨个股超3900只。",
+        "id": "InfoQ China:www.infoq.cn/article/mar3v7yyh4pjyfkluzuh",
+        "title": "以 AI 为辅助的安全研究人员发现，攻击者可以利用经过特殊构造的视频获取用户电脑的访问权限",
+        "url": "https://www.infoq.cn/article/Mar3v7yyH4PjYFKLUZUh?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-04T14:15:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3924513901820041",
-        "title": "网络安全初创公司Horizon3.ai融资2.5亿美元",
-        "url": "https://36kr.com/newsflashes/3924513901820041?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-08-04T01:12:54.000Z",
-        "summary": "总部位于旧金山的提供道德黑客雇佣服务的Horizon3.ai在后期融资中筹集了2.5亿美元。本轮融资由NightDragon和NEA共同领投，这两家机构均曾参与早期融资，此外还有十多家新老投资者参投。Anthropic的Mythos和其他前沿人工智能（AI）模型让网络攻击威力大增，引发了企业界的担忧浪潮，该公司希望借此势头实现发展。（新浪财经）",
+        "id": "InfoQ China:www.infoq.cn/article/barnorjtarc9o7buwvue",
+        "title": "Java 近期新闻：简单 JSON API、JEPs for JDK 28、Oracle CPUs、Embabel 1.0、Azul Payara、Helidon",
+        "url": "https://www.infoq.cn/article/bARNOrjTARc9O7BuwVUE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-04T10:52:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3924502785095816",
-        "title": "中金：8月A股行情可能进入大幅回调后的修复阶段",
-        "url": "https://36kr.com/newsflashes/3924502785095816?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-08-04T00:59:36.000Z",
-        "summary": "36氪获悉，中金公司指出，7月下旬以来指数震荡盘整，行情可能进入大幅回调后的修复阶段。建议近期开始关注两条主线：1、景气成长仍需要精挑细选：科技风格剧烈调整之后拥挤度已经有明显回落，景气度足够高的产业能够实现分子端高增长对冲分母端拖累的效果，AI基础设施相关环节，如光通信、PCB等环节，高景气状态在今年确定性仍较强，半导体及算力等领域较多公司则仍需要关注基本面与估值的匹配程度，科技成长后市或呈现分化走势；创新药较多公司进入临床数据验证阶",
+        "id": "InfoQ China:www.infoq.cn/article/vumdr8i7mo5sqovwlxn8",
+        "title": "中国软件行业领军人物、深开鸿CEO王成录博士确认出席AICon深圳，将分享“让 AI 拥有身体：从大模型迈向物理 AI”",
+        "url": "https://www.infoq.cn/article/vUmdr8i7Mo5sqovwLxN8?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-04T10:00:00.000Z",
+        "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3924485879937413",
-        "title": "玻璃基封装成产业竞逐新焦点，面板厂商跨界布局",
-        "url": "https://36kr.com/newsflashes/3924485879937413?f=rss",
+        "id": "36Kr:36kr.com/p/3924913931679877",
+        "title": "东山精密涨停背后：36氪企业全情报捕捉市场机会",
+        "url": "https://36kr.com/p/3924913931679877?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-08-04T00:41:24.000Z",
-        "summary": "日前，TCL科技高级副总裁、TCL华星首席执行官赵军在上海ChinaJoy（中国国际数码互动娱乐展览会）期间透露，TCL华星已组建专业团队推进玻璃基封装关键工艺验证，计划下半年展示相关样品并筹建中试线；此外，京东方9.93亿元投资的玻璃基封装载板试验线已向国内客户送样，部分客户通过概念认证进入技术测试阶段；深天马亦搭建MPG多项目玻璃基板技术平台，将先进封装列为重点赋能方向之一。随着AI芯片向大尺寸、高算力、高密度互连加速演进，传统有机",
+        "publishedAt": "2026-08-04T08:18:21.000Z",
+        "summary": "36氪企业全情报带你发现涨停背后的机会 开篇，先给大家送个福利 最近不少朋友在体验企业全情报，我们也准备了一波奖品回馈大家。 体验小程序，完成15秒阅读+任意订阅一家企业即可免费参与抽奖。 奖品有影石Insta360 Luna Ultra、运动相机挂脖支架、36氪航天徽章。 祝大家都能中奖，点击即可参与：👇 https://lucky.nocode.com/v2/s/8VhKju6Ehgy 扫码抽奖！ 今日A股收盘数据 上证指数： 3",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "36Kr:36kr.com/newsflashes/3924472893356165",
-        "title": "个人AI定义新一轮增长，消费电子产业链加速拥抱变革",
-        "url": "https://36kr.com/newsflashes/3924472893356165?f=rss",
+        "id": "36Kr:36kr.com/p/3924826666301831",
+        "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+        "url": "https://36kr.com/p/3924826666301831?f=rss",
         "source": "36Kr",
-        "publishedAt": "2026-08-04T00:31:09.000Z",
-        "summary": "荣耀首款机器人手机Robot Phone预约量已突破20万台，超越历代旗舰；OPPO“小布Next计划”开启多机型内测，让AI（人工智能）助手化身“24小时待命的专家团队”；华为新款鸿蒙折叠电脑定档8月5日发布；苹果首款折叠屏手机将于今秋亮相，“Apple智能”已完成国内备案……从手机到PC，从可穿戴到智能眼镜，一场以AI为核心引擎的产业变革正在消费电子领域全面铺开。专家表示，构建以用户为中心的个人AI体验，正成为消费电子终端厂商决胜的",
+        "publishedAt": "2026-08-04T06:32:05.000Z",
+        "summary": "文 | 李炤锋 编辑 | 张雨忻 “长链任务如果只通过代码层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。” 过去一年，Coding与Agent能力不断改写大模型的排名，也成为AI最快兑现商业价值的场景之一。与此同时，随着Agent开始接管更多长链任务，越来越多的通用大模型开始匹配原生多模态能力。 今年1月，OpenAI发布的一份企业使用报告显示",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "36Kr:36kr.com/p/3924634192673153",
+        "title": "3氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资",
+        "url": "https://36kr.com/p/3924634192673153?f=rss",
+        "source": "36Kr",
+        "publishedAt": "2026-08-04T03:05:05.000Z",
+        "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，空间态势感知公司「清博空天」近日完成数千万元天使+轮融资。本轮融资由明荟投资领投，兴湘投资、泰亚投资共同参与。Maple Pledge 枫承资本出任私募股权融资顾问。本轮资金将主要用于空间目标监测网络建设、空间态势感知算法平台迭代、核心技术团队扩充及重点客户开拓。 随着低轨卫星和空间碎片数量快速增长，近地轨道正在变得更加拥挤，卫星碰撞风险随之提升，空间态势感知（Space Situation",
         "category": "updates",
         "region": "cn"
       },
@@ -1340,16 +1350,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/amvxr0j31a7nmb4f5z3z",
-        "title": "浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
-        "url": "https://www.infoq.cn/article/amvXR0j31a7NMB4F5Z3Z?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-03T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "36Kr:36kr.com/p/3923374038265217",
         "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
         "url": "https://36kr.com/p/3923374038265217?f=rss",
@@ -1358,39 +1358,9 @@
         "summary": "硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。 量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。 图源企业 公司创始团队融合了国内外研发和制造经验，创始人李耀基拥有30余年的集成电路行业经验，曾任重庆联合微电子CUMEC工程副总裁，Cade",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3919025939246727",
-        "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
-        "url": "https://36kr.com/p/3919025939246727?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-08-03T00:10:16.000Z",
-        "summary": "文 | 赵京娜 访谈 编辑 | 海若镜 36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。 奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商",
-        "category": "skills",
-        "region": "cn"
-      },
-      {
-        "id": "36Kr:36kr.com/p/3923043072634498",
-        "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
-        "url": "https://36kr.com/p/3923043072634498?f=rss",
-        "source": "36Kr",
-        "publishedAt": "2026-08-03T00:07:39.000Z",
-        "summary": "今日热点导览 马斯克关注了DeepSeek的X账号 祥鹏航空回应航班误发过期方便面 OpenAI或将IPO推迟到明年 SpaceX首份财报即将发布 小米多款手机正式涨价 每月10万美元，特朗普“真实社交”售卖“优先访问权” TOP3大新闻 蔡崇信宣布离婚，不涉及出售阿里股份 8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻。声明称，这一决定由双方共同作出，彼此仍保持尊重，",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/markets/article/3362812/why-chinese-brokers-forecast-share-tech-and-chip-rebound",
-        "title": "Why Chinese brokers forecast an A-share tech and chip rebound",
-        "url": "https://www.scmp.com/business/markets/article/3362812/why-chinese-brokers-forecast-share-tech-and-chip-rebound?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-03T23:00:05.000Z",
-        "summary": "Leading Chinese brokerages have expressed optimism for domestic tech shares traded in August, distinguishing them from the sharp sell-off that has rattled South Korean financial markets. Citic Securities said it believed",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3362568/openai-blinks-face-chinese-rivals-drops-pricing-some-models-80",
         "title": "OpenAI blinks in face-off with Chinese rivals, drops pricing for some models up to 80%",
