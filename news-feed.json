@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T08:21:17.520Z",
+  "generatedAt": "2026-08-05T13:46:10.955Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/thomson-reuters-partners-with-laurel",
+        "title": "Thomson Reuters Partners With Laurel",
+        "url": "https://www.artificiallawyer.com/2026/08/05/thomson-reuters-partners-with-laurel/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-05T13:15:03.000Z",
+        "summary": "Thomson Reuters is adding to its long list of legal tech partners with the addition of Laurel, the time recording system. The move follows TR’s ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/wordsmith-celebrates-14m-series-b-extension",
+        "title": "Wordsmith Celebrates $14m Series B Extension",
+        "url": "https://www.artificiallawyer.com/2026/08/05/wordsmith-celebrates-14m-series-b-extension/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-05T11:23:10.000Z",
+        "summary": "Wordsmith has raised a $14 million extension to their June Series B round, led with new investment from Intact Private Capital, alongside existing investors Highland ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/pick-your-ai-judges-give-them-a-spin",
+        "title": "Pick Your AI Judges, Give Them A Spin!",
+        "url": "https://www.artificiallawyer.com/2026/08/05/pick-your-ai-judges-give-them-a-spin/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-05T10:02:57.000Z",
+        "summary": "Meet BenchSim, a legal tech company that now provides video simulations of AI judges so that you can test out your courtroom prowess. Or, as ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/aavalynx-raises-1-5m-pre-seed-for-litigation-insights",
+        "title": "Aavalynx Raises £1.5m Pre-Seed for Litigation Insights",
+        "url": "https://www.artificiallawyer.com/2026/08/05/aavalynx-raises-1-5m-pre-seed-for-litigation-insights/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-05T09:08:20.000Z",
+        "summary": "Aavalynx, an AI-powered platform that gives insights into ongoing litigation portfolios for enterprises, has raised £1.5 million in pre-seed funding. Its founder and CEO, Hanna ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/is-this-the-great-legal-tech-consolidation",
         "title": "Is This The Great Legal Tech Consolidation?",
@@ -258,26 +298,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/27/should-clients-expect-price-cuts-due-to-legal-ai",
-        "title": "Should Clients Expect Price Cuts Due To Legal AI?",
-        "url": "https://www.artificiallawyer.com/2026/07/27/should-clients-expect-price-cuts-due-to-legal-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-27T07:37:21.000Z",
-        "summary": "This is the central question: should clients expect price cuts from law firms and other legal businesses due to legal AI? Because if there is ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/24/lexis-spellbook-google-legal-innovators-nordics",
-        "title": "Lexis $$$, Spellbook / Google, Legal Innovators Nordics",
-        "url": "https://www.artificiallawyer.com/2026/07/24/lexis-spellbook-google-legal-innovators-nordics/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-24T07:49:09.000Z",
-        "summary": "We start this week’s Wrap with news that the Claude Crash earlier this year, which hit market sentiment and wiped billions off the value of ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/07/legal-research-startup-midpage-crosses-another-threshold-of-coverage-adding-federal-and-state-statutes-regulations-and-agency-guidance.html",
         "title": "Legal Research Startup Midpage Crosses Another Threshold Of Coverage, Adding Federal and State Statutes, Regulations and Agency Guidance",
         "url": "https://www.lawnext.com/2026/07/legal-research-startup-midpage-crosses-another-threshold-of-coverage-adding-federal-and-state-statutes-regulations-and-agency-guidance.html",
@@ -285,16 +305,6 @@
         "publishedAt": "2026-07-23T17:00:06.000Z",
         "summary": "It was just 18 months ago that I wrote about the legal research startup Midpage passing what its founder considered a critical threshold in its development, achieving full data coverage of key U.S. case law. Now the comp",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship",
-        "title": "Harvey Deepens Microsoft Relationship",
-        "url": "https://www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-23T12:38:56.000Z",
-        "summary": "Harvey has deepened its engagement with Microsoft, in this case via providing its legal AI platform to the tech giant&#8217;s Corporate, External, and Legal Affairs ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -315,16 +325,6 @@
         "publishedAt": "2026-07-23T11:00:18.000Z",
         "summary": "The legal data company Entegrata, whose data lakehouse platform helps law firms consolidate siloed data into a single source of truth, has hired Andrew Baker, who for more than five years led applied AI and data science ",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/23/flank-launches-record-agentic-contract-truth-system",
-        "title": "Flank Launches ‘Record’ – Agentic Contract Truth System",
-        "url": "https://www.artificiallawyer.com/2026/07/23/flank-launches-record-agentic-contract-truth-system/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-23T08:09:52.000Z",
-        "summary": "Flank, the agentic legal tech company focused on inhouse teams, has launched Flank Record, an autonomous agentic contract system of record, which greatly reduces the ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,16 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/0slnehokwzujdxd7d1fj",
-        "title": "可观测性厂商 AI 大战开始：Grafana、Datadog、Splunk 全部入场",
-        "url": "https://www.infoq.cn/article/0slNEHoKwzuJdxD7D1fJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-05T16:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/olbv9datxabu0bb4kapt",
         "title": "Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
         "url": "https://www.infoq.cn/article/OlBv9DATXabu0bb4kAPt?utm_source=rss&utm_medium=article",
@@ -1230,51 +1220,11 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/qyp5nclor64ema3bq11f",
-        "title": "开出AI界最高薪的Anthropic，抱怨员工为钱而来？全网“阴阳”：和你死活反开源一样",
-        "url": "https://www.infoq.cn/article/qYp5NCloR64emA3Bq11F?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-05T15:25:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zx9z9etgapbsdol9ftw1",
-        "title": "谷歌连发三模型，把机器人调教成“全能打工人”！几小时速配、从头控到脚，还能“组团”开干",
-        "url": "https://www.infoq.cn/article/Zx9Z9etgapBsdOL9FtW1?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-05T15:19:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/krogtjyeghrskcsns70o",
         "title": "GPT-5.6价格暴降，最低打两折！网友隔空点A社：该你了",
         "url": "https://www.infoq.cn/article/KROGtjyegHRSKCSNS70o?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-08-05T15:17:20.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/yeqkh6hqgul2aqwoco1f",
-        "title": "机器人进厂要提速了！光轮智能与西门子探索工业仿真进入机器学习的新路径",
-        "url": "https://www.infoq.cn/article/yEqKH6HqgUl2aQWOco1f?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-05T15:13:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/yzeahczsdt3lzhhyvlpx",
-        "title": "亚马逊云科技发布 GuardDuty Investigation Agent：让 AI 帮安全团队追查攻击线索",
-        "url": "https://www.infoq.cn/article/YZEahCZsDt3lZhHYvLPX?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-05T14:26:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1302,42 +1252,22 @@
     ],
     "cn_en": [
       {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3363059/chinas-ai-revenue-projected-reach-us13b-breakthroughs-adoption-goldman-sachs",
+        "title": "China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs",
+        "url": "https://www.scmp.com/tech/big-tech/article/3363059/chinas-ai-revenue-projected-reach-us13b-breakthroughs-adoption-goldman-sachs?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-05T10:30:19.000Z",
+        "summary": "Rising cost efficiency and rapidly advancing capabilities from players like DeepSeek and MiniMax have prompted Goldman Sachs to raise its run-rate revenue forecast for China’s artificial intelligence model market by 30 p",
+        "category": "articles",
+        "region": "cn_en"
+      },
+      {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3363026/chinas-moonshot-ai-aims-us50b-round-year-end-hong-kong-ipo-targeted-sources",
         "title": "China’s Moonshot AI aims for US$50b round as year-end Hong Kong IPO targeted: sources",
         "url": "https://www.scmp.com/tech/big-tech/article/3363026/chinas-moonshot-ai-aims-us50b-round-year-end-hong-kong-ipo-targeted-sources?utm_source=rss_feed",
         "source": "SCMP China Business",
         "publishedAt": "2026-08-05T07:24:12.000Z",
         "summary": "Chinese unicorn Moonshot AI has started and is expected to close its latest financing round by the end of this month, as it dismantles its offshore structure to pave the way for a potential Hong Kong initial public offer",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-evs/article/3362896/byds-first-humanoid-robots-brazil-named-biggest-buyer-chinese-cars-7-ev-reads",
-        "title": "BYD’s first humanoid robots; Brazil named biggest buyer of Chinese cars: 7 EV reads",
-        "url": "https://www.scmp.com/business/china-evs/article/3362896/byds-first-humanoid-robots-brazil-named-biggest-buyer-chinese-cars-7-ev-reads?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-05T06:30:08.000Z",
-        "summary": "We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. BYD to",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3363013/amid-ai-tumult-more-chinese-investors-seek-haven-undervalued-hang-seng-index",
-        "title": "Amid AI tumult, more Chinese investors seek haven in undervalued Hang Seng Index",
-        "url": "https://www.scmp.com/business/china-business/article/3363013/amid-ai-tumult-more-chinese-investors-seek-haven-undervalued-hang-seng-index?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-05T05:20:43.000Z",
-        "summary": "Mainland Chinese investors bought more Hong Kong stocks than they sold for a second consecutive month in July, rotating into the undervalued market to take shelter from the tumult in artificial intelligence-linked shares",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/markets/article/3362996/chinas-stock-market-sees-drop-new-share-margin-trading-accounts-amid-tech-sell",
-        "title": "China’s stock market sees drop in new A-share, margin-trading accounts amid tech sell-off",
-        "url": "https://www.scmp.com/business/markets/article/3362996/chinas-stock-market-sees-drop-new-share-margin-trading-accounts-amid-tech-sell?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-05T03:49:19.000Z",
-        "summary": "New account openings and leveraged trading in mainland China’s stock market slowed in July, as a global artificial intelligence-linked sell-off dented investor appetite following a positive first half of the year for tec",
         "category": "updates",
         "region": "cn_en"
       },
