@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T01:48:26.955Z",
+  "generatedAt": "2026-08-06T08:18:13.621Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/06/law-firms-need-to-reassert-their-ai-sovereignty-heres-how",
+        "title": "Law Firms Need To Reassert Their AI Sovereignty, Here’s How",
+        "url": "https://www.artificiallawyer.com/2026/08/06/law-firms-need-to-reassert-their-ai-sovereignty-heres-how/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-06T06:41:19.000Z",
+        "summary": "By Jesse Hampton, Draftwise. ‘You essentially pay for intelligence twice, once with money, and again with something even more valuable: the proprietary knowledge you must ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/dog&",
         "title": "Dog toy maker laps up victory over Jack Daniel’s trademark challenge at 9th Circuit",
@@ -274,16 +284,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-07-28T08:24:37.000Z",
         "summary": "NewMod law firm Crosby is to provide ‘professional liability insurance for [their] agents, so that they can do autonomous legal work’, in what is an ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/28/al-interview-lexisnexis-ceo-sean-fitzpatrick",
-        "title": "AL Interview: LexisNexis CEO, Sean Fitzpatrick",
-        "url": "https://www.artificiallawyer.com/2026/07/28/al-interview-lexisnexis-ceo-sean-fitzpatrick/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-28T06:50:33.000Z",
-        "summary": "Artificial Lawyer spoke to LexisNexis CEO, Sean Fitzpatrick, about a range of Big Picture topics: from company growth despite the Claude Crash, how token costs ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,21 +1210,51 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/htbd9e2yfks3omfygiyy",
-        "title": "AWS 推出免费沙箱环境，可直接体验 Workshop",
-        "url": "https://www.infoq.cn/article/HtbD9e2YFkS3omFYgIyY?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/bjfl6lkjti2feznmxyb5",
+        "title": "如何在技能与子代理之间做出恰当的选择",
+        "url": "https://www.infoq.cn/article/BjFl6lKjTi2FEZNMxyb5?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-06T09:21:03.000Z",
+        "publishedAt": "2026-08-06T16:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/init5qqlkjsdi2kmt8hb",
-        "title": "从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
-        "url": "https://www.infoq.cn/article/iNit5qqLKJSdi2kMt8HB?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/x5siq2led2h6g2uvyu48",
+        "title": "Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路",
+        "url": "https://www.infoq.cn/article/x5sIQ2lED2h6G2Uvyu48?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-06T09:00:00.000Z",
+        "publishedAt": "2026-08-06T14:39:55.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hla2i6dd1v0ou0se8kkb",
+        "title": "别再修代码了，去修系统：DevOps 之父说，Agent 时代的组织变革比技术更难",
+        "url": "https://www.infoq.cn/article/hLA2I6DD1v0ou0sE8KKB?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-06T14:34:59.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/lb94ji4ma9w0x9u0ez6f",
+        "title": "MCP 迎来最大更新：重回上古时代HTTP",
+        "url": "https://www.infoq.cn/article/Lb94jI4ma9w0X9u0Ez6F?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-06T14:18:10.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/huteb0lszfutyib1aj4w",
+        "title": "Claude Code之父：每半年清空一次claude.md、skills和hooks，模型自己会想办法",
+        "url": "https://www.infoq.cn/article/hUTEb0LSzFUTyib1AJ4W?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-06T14:07:53.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1235,26 +1265,6 @@
         "url": "https://www.infoq.cn/article/OlBv9DATXabu0bb4kAPt?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-08-05T15:57:15.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/krogtjyeghrskcsns70o",
-        "title": "GPT-5.6价格暴降，最低打两折！网友隔空点A社：该你了",
-        "url": "https://www.infoq.cn/article/KROGtjyegHRSKCSNS70o?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-05T15:17:20.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/b52zg9lzj6dguds0sxao",
-        "title": "用Skill Hub一键调用技能，重塑 AI Agent 实战力",
-        "url": "https://www.infoq.cn/video/b52zg9lZJ6dguds0SxaO?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-05T11:51:02.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
