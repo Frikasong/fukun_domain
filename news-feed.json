@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T13:44:12.486Z",
+  "generatedAt": "2026-08-06T23:50:52.264Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,86 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/biglaw&",
+        "title": "BigLaw drives new grad hiring, new NALP study shows",
+        "url": "https://www.abajournal.com/news/article/biglaw&#45;drives&#45;new&#45;grad&#45;hiring&#45;nalp&#45;study&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-06T18:36:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
+        "title": "Florida Bar takes over lawyer addiction program",
+        "url": "https://www.abajournal.com/news/article/florida&#45;bar&#45;takes&#45;over&#45;lawyer&#45;addiction&#45;program/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-06T16:17:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/milbank&",
+        "title": "Milbank offers early start date for new associates",
+        "url": "https://www.abajournal.com/news/article/milbank&#45;offers&#45;early&#45;start&#45;date&#45;for&#45;new&#45;associates/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-06T15:22:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/61&",
+        "title": "61% of legal professionals would accept less money to work remotely, recent study says",
+        "url": "https://www.abajournal.com/news/article/61&#45;of&#45;legal&#45;professionals&#45;would&#45;accept&#45;less&#45;money&#45;to&#45;work&#45;remotely&#45;study&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-06T15:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
+        "title": "Federal judge fines attorney for AI mistakes in taco biz beef",
+        "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;fines&#45;attorney&#45;for&#45;ai&#45;mistakes&#45;in&#45;taco&#45;biz&#45;beef/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-06T14:43:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/08/exclusive-coming-out-of-stealth-paravo-launches-what-it-calls-the-first-ai-revenue-engine-for-law-firms.html",
+        "title": "Exclusive: Coming Out of Stealth, Paravo Launches What It Calls the First AI &#8216;Revenue Engine&#8217; for Law Firms",
+        "url": "https://www.lawnext.com/2026/08/exclusive-coming-out-of-stealth-paravo-launches-what-it-calls-the-first-ai-revenue-engine-for-law-firms.html",
+        "source": "LawSites",
+        "publishedAt": "2026-08-06T14:40:36.000Z",
+        "summary": "Rarely do law firms lose clients on merit, argues Cesar Tapia. They lose them before intake ever happens – to missed calls, slow follow-up and dead voicemail. Today, Tapia and his cofounder Eslam Odeh are launching their",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/moms&",
+        "title": "Mothers Who Murder: Lindsay Clancy's high-profile trial is the latest with a postpartum psychosis defense",
+        "url": "https://www.abajournal.com/web/article/moms&#45;who&#45;murder/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-06T14:25:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/dei&",
+        "title": "Law school diversity standard could be axed this month, despite House of Delegates opposition",
+        "url": "https://www.abajournal.com/web/article/dei&#45;standard&#45;could&#45;be&#45;axed&#45;this&#45;month&#45;despite&#45;house&#45;of&#45;delegates&#45;vote&#45;to&#45;keep&#45;it/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-06T14:24:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/06/law-firms-need-to-reassert-their-ai-sovereignty-heres-how",
         "title": "Law Firms Need To Reassert Their AI Sovereignty, Here’s How",
@@ -68,26 +148,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/11th&",
-        "title": "11th Circuit upholds law banning minors from attending drag shows",
-        "url": "https://www.abajournal.com/news/article/11th&#45;circuit&#45;upholds&#45;law&#45;banning&#45;minors&#45;from&#45;attending&#45;drag&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-05T14:38:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/legal&",
-        "title": "Legal artificial intelligence is creating a hidden writing problem",
-        "url": "https://www.abajournal.com/columns/article/legal&#45;ai&#45;is&#45;creating&#45;a&#45;hidden&#45;writing&#45;problem/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-05T14:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/thomson-reuters-partners-with-laurel",
         "title": "Thomson Reuters Partners With Laurel",
         "url": "https://www.artificiallawyer.com/2026/08/05/thomson-reuters-partners-with-laurel/",
@@ -138,52 +198,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/portland&",
-        "title": "Lawyer faces competence claims from 4 judges after disciplinary actions",
-        "url": "https://www.abajournal.com/news/article/portland&#45;lawyer&#45;facing&#45;judges&#45;competence&#45;claims/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-04T19:22:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/thomson-reuters-says-its-homegrown-ai-model-now-rivals-the-frontier-labs-i-take-a-closer-look-at-the-benchmarks.html",
         "title": "Thomson Reuters Says Its Homegrown AI Model Now Rivals the Frontier Labs – I Take A Closer Look At the Benchmarks",
         "url": "https://www.lawnext.com/2026/08/thomson-reuters-says-its-homegrown-ai-model-now-rivals-the-frontier-labs-i-take-a-closer-look-at-the-benchmarks.html",
         "source": "LawSites",
         "publishedAt": "2026-08-04T18:25:24.000Z",
         "summary": "Thomson Reuters says the large language model it has been quietly building in-house now performs competitively with the best general-purpose AI models in the world, and it has released its first benchmarking results to b",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
-        "title": "ABA House adopts policies on professional independence, legal education, law enforcement at Annual Conference",
-        "url": "https://www.abajournal.com/news/article/aba&#45;house&#45;adopts&#45;policies&#45;on&#45;professional&#45;independence&#45;legal&#45;education&#45;law&#45;enforcement&#45;at&#45;annual&#45;conference/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-04T18:24:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/laura&",
-        "title": "Laura V. Farber of California becomes ABA president-elect",
-        "url": "https://www.abajournal.com/news/article/laura&#45;v&#45;farber&#45;of&#45;california&#45;becomes&#45;aba&#45;president&#45;elect/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-04T18:20:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/barbara&",
-        "title": "Barbara J. Howard of Cincinnati becomes ABA president",
-        "url": "https://www.abajournal.com/news/article/barbara&#45;j&#45;howard&#45;of&#45;cincinnati&#45;becomes&#45;aba&#45;president/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-04T18:00:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1168,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/05/practice-management-platform-clio-to-discontinue-its-longtime-integration-with-payments-processor-lawpay.html",
-        "title": "Practice Management Platform Clio To Discontinue Its Longtime Integration with Payments Processor LawPay",
-        "url": "https://www.lawnext.com/2026/05/practice-management-platform-clio-to-discontinue-its-longtime-integration-with-payments-processor-lawpay.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-05T12:35:32.000Z",
-        "summary": "Legal technology company Clio&#8216;s integration with the payment processing platform 8am LawPay is discontinuing on Aug. 31, 2026, it has notified customers. After that date, customers of the Clio Manage law practice m",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1194,16 +1204,6 @@
         "source": "OpenAI News",
         "publishedAt": "2024-06-17T04:15:00.000Z",
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
       }
@@ -1241,26 +1241,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3363190/chinas-mlcc-supply-chain-expanding-rapidly-amid-surge-global-ai-demand",
-        "title": "China’s MLCC supply chain expanding rapidly amid surge in global AI demand",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3363190/chinas-mlcc-supply-chain-expanding-rapidly-amid-surge-global-ai-demand?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-06T11:30:08.000Z",
-        "summary": "China’s upstream supply chain for multilayer ceramic capacitors (MLCCs) – tiny components dubbed “the rice of electronics” – is racing to expand capacity, as an artificial intelligence-driven boom triggers a surge in glo",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3363178/unrelenting-ai-demand-spawns-new-plant-chinese-pcb-maker-victory-giant",
-        "title": "Unrelenting AI demand spawns new plant for Chinese PCB maker Victory Giant",
-        "url": "https://www.scmp.com/tech/article/3363178/unrelenting-ai-demand-spawns-new-plant-chinese-pcb-maker-victory-giant?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-06T10:30:05.000Z",
-        "summary": "Chinese printed circuit board (PCB) maker Victory Giant Technology is aggressively expanding its manufacturing footprint and international order book, highlighting relentless growth momentum across China’s artificial int",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3363059/chinas-ai-revenue-projected-reach-us13b-breakthroughs-adoption-goldman-sachs",
         "title": "China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs",
