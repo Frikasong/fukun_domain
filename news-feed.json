@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T08:18:13.621Z",
+  "generatedAt": "2026-08-06T13:44:12.486Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,21 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/bjfl6lkjti2feznmxyb5",
-        "title": "如何在技能与子代理之间做出恰当的选择",
-        "url": "https://www.infoq.cn/article/BjFl6lKjTi2FEZNMxyb5?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/j0qkf5fqgmfcdqoawkzd",
+        "title": "平台工程成熟度已成为企业人工智能应用能否成功的关键差异化因素",
+        "url": "https://www.infoq.cn/article/j0qkf5FqgMfcDqOAWkZD?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-06T16:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/x5siq2led2h6g2uvyu48",
-        "title": "Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路",
-        "url": "https://www.infoq.cn/article/x5sIQ2lED2h6G2Uvyu48?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-06T14:39:55.000Z",
+        "publishedAt": "2026-08-06T17:19:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1240,16 +1230,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/lb94ji4ma9w0x9u0ez6f",
-        "title": "MCP 迎来最大更新：重回上古时代HTTP",
-        "url": "https://www.infoq.cn/article/Lb94jI4ma9w0X9u0Ez6F?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-06T14:18:10.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/huteb0lszfutyib1aj4w",
         "title": "Claude Code之父：每半年清空一次claude.md、skills和hooks，模型自己会想办法",
         "url": "https://www.infoq.cn/article/hUTEb0LSzFUTyib1AJ4W?utm_source=rss&utm_medium=article",
@@ -1258,19 +1238,29 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/olbv9datxabu0bb4kapt",
-        "title": "Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
-        "url": "https://www.infoq.cn/article/OlBv9DATXabu0bb4kAPt?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-05T15:57:15.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3363190/chinas-mlcc-supply-chain-expanding-rapidly-amid-surge-global-ai-demand",
+        "title": "China’s MLCC supply chain expanding rapidly amid surge in global AI demand",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3363190/chinas-mlcc-supply-chain-expanding-rapidly-amid-surge-global-ai-demand?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-06T11:30:08.000Z",
+        "summary": "China’s upstream supply chain for multilayer ceramic capacitors (MLCCs) – tiny components dubbed “the rice of electronics” – is racing to expand capacity, as an artificial intelligence-driven boom triggers a surge in glo",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/article/3363178/unrelenting-ai-demand-spawns-new-plant-chinese-pcb-maker-victory-giant",
+        "title": "Unrelenting AI demand spawns new plant for Chinese PCB maker Victory Giant",
+        "url": "https://www.scmp.com/tech/article/3363178/unrelenting-ai-demand-spawns-new-plant-chinese-pcb-maker-victory-giant?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-06T10:30:05.000Z",
+        "summary": "Chinese printed circuit board (PCB) maker Victory Giant Technology is aggressively expanding its manufacturing footprint and international order book, highlighting relentless growth momentum across China’s artificial int",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3363059/chinas-ai-revenue-projected-reach-us13b-breakthroughs-adoption-goldman-sachs",
         "title": "China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs",
@@ -1289,16 +1279,6 @@
         "publishedAt": "2026-08-05T07:24:12.000Z",
         "summary": "Chinese unicorn Moonshot AI has started and is expected to close its latest financing round by the end of this month, as it dismantles its offshore structure to pave the way for a potential Hong Kong initial public offer",
         "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3362568/openai-blinks-face-chinese-rivals-drops-pricing-some-models-80",
-        "title": "OpenAI blinks in face-off with Chinese rivals, drops pricing for some models up to 80%",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3362568/openai-blinks-face-chinese-rivals-drops-pricing-some-models-80?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-07-31T11:00:25.000Z",
-        "summary": "In a bid to defend its market share against rapidly advancing, lower-cost Chinese rivals, US artificial intelligence firm OpenAI has launched an aggressive price war, slashing prices for its latest GPT-5.6 model line-up ",
-        "category": "tools",
         "region": "cn_en"
       }
     ]
