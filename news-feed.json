@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T19:16:56.297Z",
+  "generatedAt": "2026-08-06T01:48:26.955Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,26 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/htbd9e2yfks3omfygiyy",
+        "title": "AWS 推出免费沙箱环境，可直接体验 Workshop",
+        "url": "https://www.infoq.cn/article/HtbD9e2YFkS3omFYgIyY?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-06T09:21:03.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/init5qqlkjsdi2kmt8hb",
+        "title": "从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+        "url": "https://www.infoq.cn/article/iNit5qqLKJSdi2kMt8HB?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-06T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/olbv9datxabu0bb4kapt",
         "title": "Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
