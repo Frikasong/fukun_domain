@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T12:42:41.658Z",
+  "generatedAt": "2026-08-07T18:41:23.842Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,76 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/duke&",
+        "title": "Duke Law accused of racial discrimination by DOJ",
+        "url": "https://www.abajournal.com/news/article/duke&#45;law&#45;accused&#45;of&#45;racial&#45;discrimination&#45;by&#45;doj/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-07T18:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/washington&",
+        "title": "Washington State offers diploma privilege for some after bar exam cancellation",
+        "url": "https://www.abajournal.com/web/article/washington&#45;state&#45;offers&#45;diploma&#45;privilege&#45;for&#45;some&#45;after&#45;bar&#45;exam&#45;cancellation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-07T14:57:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/snark&",
+        "title": "Snark alert: It&#8217;s showtime for Judge Judy&#8217;s son Adam",
+        "url": "https://www.abajournal.com/news/article/snark&#45;alert&#45;its&#45;showtime&#45;for&#45;judge&#45;judys&#45;son&#45;adam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-07T14:38:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/walmart&",
+        "title": "Walmart faces lawsuit over alleged collection of customers’ voice prints",
+        "url": "https://www.abajournal.com/news/article/walmart&#45;faces&#45;lawsuit&#45;over&#45;alleged&#45;collection&#45;of&#45;customers&#45;voice&#45;prints/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-07T14:06:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/public&",
+        "title": "Public backs most Supreme Court rulings while overall approval ratings remain low",
+        "url": "https://www.abajournal.com/news/article/public&#45;backs&#45;most&#45;supreme&#45;court&#45;rulings&#45;while&#45;overall&#45;approval&#45;ratings&#45;remain&#45;low/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-07T12:43:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/07/anthropic-hires-head-of-claude-for-legal",
+        "title": "Anthropic Hires ‘Head of Claude For Legal’",
+        "url": "https://www.artificiallawyer.com/2026/08/07/anthropic-hires-head-of-claude-for-legal/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-07T09:08:51.000Z",
+        "summary": "Anthropic has hired Robert Mahari to be its first official ‘Head of Claude for Legal’. He’s a Fellow of Stanford&#8217;s CodeX legal tech group and ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/07/ai-realism-iltacon-legal-innovators-new-york-uk",
+        "title": "AI Realism, ILTACon, Legal Innovators New York + UK",
+        "url": "https://www.artificiallawyer.com/2026/08/07/ai-realism-iltacon-legal-innovators-new-york-uk/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-07T07:16:12.000Z",
+        "summary": "Welcome to this week’s Wrap. We start with a selection of legal tech news, including the finding that AI realism is breaking out finally, albeit ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/biglaw&",
         "title": "BigLaw drives new grad hiring, new NALP study shows",
@@ -68,32 +138,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/moms&",
-        "title": "Mothers Who Murder: Lindsay Clancy's high-profile trial is the latest with a postpartum psychosis defense",
-        "url": "https://www.abajournal.com/web/article/moms&#45;who&#45;murder/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-06T14:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/dei&",
-        "title": "Law school diversity standard could be axed this month, despite House of Delegates opposition",
-        "url": "https://www.abajournal.com/web/article/dei&#45;standard&#45;could&#45;be&#45;axed&#45;this&#45;month&#45;despite&#45;house&#45;of&#45;delegates&#45;vote&#45;to&#45;keep&#45;it/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-06T14:24:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/dog&",
-        "title": "Dog toy maker laps up victory over Jack Daniel’s trademark challenge at 9th Circuit",
-        "url": "https://www.abajournal.com/news/article/dog&#45;toy&#45;makers&#45;lap&#45;up&#45;victory&#45;over&#45;jack&#45;daniels&#45;trademark&#45;challenge&#45;at&#45;9th&#45;circuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-05T19:14:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/06/law-firms-need-to-reassert-their-ai-sovereignty-heres-how",
+        "title": "Law Firms Need To Reassert Their AI Sovereignty, Here’s How",
+        "url": "https://www.artificiallawyer.com/2026/08/06/law-firms-need-to-reassert-their-ai-sovereignty-heres-how/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-06T06:41:19.000Z",
+        "summary": "By Jesse Hampton, Draftwise. ‘You essentially pay for intelligence twice, once with money, and again with something even more valuable: the proprietary knowledge you must ...",
         "category": "updates",
         "region": "na"
       },
@@ -118,23 +168,53 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/ny&",
-        "title": "Appeals court suspends lawyer who denied sex with client",
-        "url": "https://www.abajournal.com/news/article/ny&#45;appeals&#45;court&#45;suspends&#45;lawyer&#45;for&#45;2&#45;years&#45;for&#45;denying&#45;sexual&#45;relationship&#45;with&#45;client/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-05T15:59:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/thomson-reuters-partners-with-laurel",
+        "title": "Thomson Reuters Partners With Laurel",
+        "url": "https://www.artificiallawyer.com/2026/08/05/thomson-reuters-partners-with-laurel/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-05T13:15:03.000Z",
+        "summary": "Thomson Reuters is adding to its long list of legal tech partners with the addition of Laurel, the time recording system. The move follows TR’s ...",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/courts&",
-        "title": "Trial court, bar association launch free mediation services in this state",
-        "url": "https://www.abajournal.com/news/article/courts&#45;and&#45;bar&#45;association&#45;are&#45;launching&#45;free&#45;mediation&#45;services&#45;in&#45;this&#45;state/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-05T15:24:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/wordsmith-celebrates-14m-series-b-extension",
+        "title": "Wordsmith Celebrates $14m Series B Extension",
+        "url": "https://www.artificiallawyer.com/2026/08/05/wordsmith-celebrates-14m-series-b-extension/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-05T11:23:10.000Z",
+        "summary": "Wordsmith has raised a $14 million extension to their June Series B round, led with new investment from Intact Private Capital, alongside existing investors Highland ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/pick-your-ai-judges-give-them-a-spin",
+        "title": "Pick Your AI Judges, Give Them A Spin!",
+        "url": "https://www.artificiallawyer.com/2026/08/05/pick-your-ai-judges-give-them-a-spin/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-05T10:02:57.000Z",
+        "summary": "Meet BenchSim, a legal tech company that now provides video simulations of AI judges so that you can test out your courtroom prowess. Or, as ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/aavalynx-raises-1-5m-pre-seed-for-litigation-insights",
+        "title": "Aavalynx Raises £1.5m Pre-Seed for Litigation Insights",
+        "url": "https://www.artificiallawyer.com/2026/08/05/aavalynx-raises-1-5m-pre-seed-for-litigation-insights/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-05T09:08:20.000Z",
+        "summary": "Aavalynx, an AI-powered platform that gives insights into ongoing litigation portfolios for enterprises, has raised £1.5 million in pre-seed funding. Its founder and CEO, Hanna ...",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/is-this-the-great-legal-tech-consolidation",
+        "title": "Is This The Great Legal Tech Consolidation?",
+        "url": "https://www.artificiallawyer.com/2026/08/05/is-this-the-great-legal-tech-consolidation/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-05T07:09:56.000Z",
+        "summary": "Yesterday, BigHand bought legal AI pricing startup Ayora; Anaqua bagged Unified Patents; and last week Legora picked up litigation intelligence newbie, Wexler – its fifth ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -195,6 +275,26 @@
         "publishedAt": "2026-07-30T13:24:53.000Z",
         "summary": "Every Friday, a panel of leading legal tech journalists come together to discuss the top stories of the week in legal tech and legal innovation. The show is live and free to attend. You can register to attend the weekly ",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/29/holiday-read-the-innovators-civil-war",
+        "title": "Holiday Read &#8211; The Innovators – ‘Civil War’",
+        "url": "https://www.artificiallawyer.com/2026/07/29/holiday-read-the-innovators-civil-war/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-29T09:45:59.000Z",
+        "summary": "[ Artificial Lawyer is on holiday until Wed, Aug 5 – here’s Part 4 of ‘The Innovators’. ] &#8212; ‘We have a leak,’ Timothy Marks ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year",
+        "title": "Legora Buys Wexler – 5th Deal This Year",
+        "url": "https://www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-07-29T09:17:39.000Z",
+        "summary": "Legora is buying Wexler, a fact intelligence platform for litigation. Wexler&#8217;s engineering group will form &#8216;the founding team of Legora&#8217;s London engineering hub&#8217;, they added. ...",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -1106,79 +1206,9 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/invhosahsyfyae9imzbv",
-        "title": "蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
-        "url": "https://www.infoq.cn/article/iNvHOsahsYFYaE9ImZBV?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-07T18:16:44.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qycvbmxpplludyzcloof",
-        "title": "10万人排队、一键出片，AI创作越简单，爆款为什么反而更难做了｜请回答 WAIC 2026",
-        "url": "https://www.infoq.cn/article/qYCvbmxPPLLUdyzCLOoF?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-07T18:09:45.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/b6wtpngnh0d5lolb1ed2",
-        "title": "蚂蚁集团开源Avernet：破解多智能体“找不到、对不齐”协作难题",
-        "url": "https://www.infoq.cn/article/B6WtPNGNH0d5LolB1ED2?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-07T18:06:25.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/hqd432mksxmmr2uuag6p",
         "title": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
@@ -1241,6 +1271,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "The Guardian China:www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
+        "title": "China’s AI ecosystem is not as open as it claims. Nor is any other country’s | Letters",
+        "url": "https://www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
+        "source": "The Guardian China",
+        "publishedAt": "2026-08-07T16:56:34.000Z",
+        "summary": "Responding to an article by China’s ambassador to the UK, Prof Paul H Cleverley advocates shared openness standards, while Dr Claire Jenkins says British AI can offer a distinctive path Ambassador Zheng Zeguang rightly c",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3363059/chinas-ai-revenue-projected-reach-us13b-breakthroughs-adoption-goldman-sachs",
         "title": "China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs",
