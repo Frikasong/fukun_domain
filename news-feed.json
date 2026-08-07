@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T02:12:00.442Z",
+  "generatedAt": "2026-08-07T07:01:13.124Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,21 +1210,51 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/2vgs2fnle83yqzrlvxsf",
-        "title": "荣耀 YOYO 智能体的产品化实践｜AICon深圳",
-        "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/hqd432mksxmmr2uuag6p",
+        "title": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "url": "https://www.infoq.cn/article/HQD432MKSXMMR2UUag6P?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-07T10:00:00.000Z",
+        "publishedAt": "2026-08-07T15:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/6q0acalcmf7vmpicjb09",
-        "title": "Cloudflare推出用于自治Worker部署的临时账户",
-        "url": "https://www.infoq.cn/article/6q0ACAlcmf7vmpIcJb09?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/5deaaboicvrremhabcyz",
+        "title": "DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税",
+        "url": "https://www.infoq.cn/article/5DEAabOIcvRrEMhAbCyz?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-07T09:28:57.000Z",
+        "publishedAt": "2026-08-07T13:33:35.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fgmkg9borq7vg5ubbp4u",
+        "title": "HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复",
+        "url": "https://www.infoq.cn/article/FGMkg9BOrQ7vg5ubBp4U?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-07T11:53:50.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/d6ypygivilrghz1mjatr",
+        "title": "HarmonyOS 7（API 26）Beta 2 新能力解读：平行视界开启大屏多任务新体验",
+        "url": "https://www.infoq.cn/article/d6ypyGIvilRgHz1MJaTR?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-07T11:53:35.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/edt24uft212xlaw83rym",
+        "title": "DevEco CLI 快速入门：让 AI Agent 更懂 HarmonyOS 应用开发",
+        "url": "https://www.infoq.cn/article/eDt24UFt212XlaW83ryM?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-07T11:53:21.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1261,6 +1291,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3363261/global-ai-trade-revival-brightens-outlook-chinese-tech-stocks-after-record-sell-offs",
+        "title": "Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs",
+        "url": "https://www.scmp.com/business/china-business/article/3363261/global-ai-trade-revival-brightens-outlook-chinese-tech-stocks-after-record-sell-offs?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-07T05:41:13.000Z",
+        "summary": "The outlook for Chinese technology stocks has improved after a sharp monthly sell-off, as the global rebound in the artificial intelligence trade regains momentum, speculative positions are flushed out and falling oil pr",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3363059/chinas-ai-revenue-projected-reach-us13b-breakthroughs-adoption-goldman-sachs",
         "title": "China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs",
