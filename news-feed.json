@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T00:59:39.675Z",
+  "generatedAt": "2026-08-08T06:36:12.788Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -19,7 +19,7 @@
       },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/washington&",
-        "title": "Washington State offers diploma privilege for some after bar exam cancellation",
+        "title": "Washington state offers diploma privilege for some after bar exam cancellation",
         "url": "https://www.abajournal.com/web/article/washington&#45;state&#45;offers&#45;diploma&#45;privilege&#45;for&#45;some&#45;after&#45;bar&#45;exam&#45;cancellation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-08-07T14:57:00.000Z",
@@ -1209,26 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/og03ezjabkdod1g3rc1b",
-        "title": "AWS Lambda 取消代码存储配额，别误会：函数大小限制没变",
-        "url": "https://www.infoq.cn/article/OG03ezJaBkdOd1G3rc1b?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-08T08:37:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/9c3ek9tjqdxbabbby3aj",
-        "title": "MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了",
-        "url": "https://www.infoq.cn/article/9C3eK9tJqDXbabbBy3aj?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-08T08:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/hqd432mksxmmr2uuag6p",
         "title": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
