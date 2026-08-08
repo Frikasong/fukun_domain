@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T18:41:23.842Z",
+  "generatedAt": "2026-08-08T00:59:39.675Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/og03ezjabkdod1g3rc1b",
+        "title": "AWS Lambda 取消代码存储配额，别误会：函数大小限制没变",
+        "url": "https://www.infoq.cn/article/OG03ezJaBkdOd1G3rc1b?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-08T08:37:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/9c3ek9tjqdxbabbby3aj",
+        "title": "MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了",
+        "url": "https://www.infoq.cn/article/9C3eK9tJqDXbabbBy3aj?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-08T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/hqd432mksxmmr2uuag6p",
         "title": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
         "url": "https://www.infoq.cn/article/HQD432MKSXMMR2UUag6P?utm_source=rss&utm_medium=article",
@@ -1258,16 +1278,6 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/j0qkf5fqgmfcdqoawkzd",
-        "title": "平台工程成熟度已成为企业人工智能应用能否成功的关键差异化因素",
-        "url": "https://www.infoq.cn/article/j0qkf5FqgMfcDqOAWkZD?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-06T17:19:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
@@ -1289,16 +1299,6 @@
         "publishedAt": "2026-08-05T10:30:19.000Z",
         "summary": "Rising cost efficiency and rapidly advancing capabilities from players like DeepSeek and MiniMax have prompted Goldman Sachs to raise its run-rate revenue forecast for China’s artificial intelligence model market by 30 p",
         "category": "articles",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3363026/chinas-moonshot-ai-aims-us50b-round-year-end-hong-kong-ipo-targeted-sources",
-        "title": "China’s Moonshot AI aims for US$50b round as year-end Hong Kong IPO targeted: sources",
-        "url": "https://www.scmp.com/tech/big-tech/article/3363026/chinas-moonshot-ai-aims-us50b-round-year-end-hong-kong-ipo-targeted-sources?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-05T07:24:12.000Z",
-        "summary": "Chinese unicorn Moonshot AI has started and is expected to close its latest financing round by the end of this month, as it dismantles its offshore structure to pave the way for a potential Hong Kong initial public offer",
-        "category": "updates",
         "region": "cn_en"
       }
     ]
