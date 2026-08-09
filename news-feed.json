@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T12:32:03.062Z",
+  "generatedAt": "2026-08-09T18:26:51.252Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -54,26 +54,6 @@
         "source": "ABA Journal",
         "publishedAt": "2026-08-07T12:43:00.000Z",
         "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/07/anthropic-hires-head-of-claude-for-legal",
-        "title": "Anthropic Hires ‘Head of Claude For Legal’",
-        "url": "https://www.artificiallawyer.com/2026/08/07/anthropic-hires-head-of-claude-for-legal/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-07T09:08:51.000Z",
-        "summary": "Anthropic has hired Robert Mahari to be its first official ‘Head of Claude for Legal’. He’s a Fellow of Stanford&#8217;s CodeX legal tech group and ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/07/ai-realism-iltacon-legal-innovators-new-york-uk",
-        "title": "AI Realism, ILTACon, Legal Innovators New York + UK",
-        "url": "https://www.artificiallawyer.com/2026/08/07/ai-realism-iltacon-legal-innovators-new-york-uk/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-07T07:16:12.000Z",
-        "summary": "Welcome to this week’s Wrap. We start with a selection of legal tech news, including the finding that AI realism is breaking out finally, albeit ...",
         "category": "updates",
         "region": "na"
       },
@@ -138,16 +118,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/06/law-firms-need-to-reassert-their-ai-sovereignty-heres-how",
-        "title": "Law Firms Need To Reassert Their AI Sovereignty, Here’s How",
-        "url": "https://www.artificiallawyer.com/2026/08/06/law-firms-need-to-reassert-their-ai-sovereignty-heres-how/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-06T06:41:19.000Z",
-        "summary": "By Jesse Hampton, Draftwise. ‘You essentially pay for intelligence twice, once with money, and again with something even more valuable: the proprietary knowledge you must ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/surepoints-new-ceo-jeff-steinberg-on-his-mandate-for-change.html",
         "title": "SurePoint’s New CEO Jeff Steinberg on His Mandate for Change",
         "url": "https://www.lawnext.com/2026/08/surepoints-new-ceo-jeff-steinberg-on-his-mandate-for-change.html",
@@ -165,56 +135,6 @@
         "publishedAt": "2026-08-05T16:31:27.000Z",
         "summary": "DISCO is moving beyond e-discovery, the technology that has been its bread and butter ever since its founding in 2013, to launch what it describes as the industry&#8217;s first unified litigation solution, an AI-native a",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/thomson-reuters-partners-with-laurel",
-        "title": "Thomson Reuters Partners With Laurel",
-        "url": "https://www.artificiallawyer.com/2026/08/05/thomson-reuters-partners-with-laurel/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-05T13:15:03.000Z",
-        "summary": "Thomson Reuters is adding to its long list of legal tech partners with the addition of Laurel, the time recording system. The move follows TR’s ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/wordsmith-celebrates-14m-series-b-extension",
-        "title": "Wordsmith Celebrates $14m Series B Extension",
-        "url": "https://www.artificiallawyer.com/2026/08/05/wordsmith-celebrates-14m-series-b-extension/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-05T11:23:10.000Z",
-        "summary": "Wordsmith has raised a $14 million extension to their June Series B round, led with new investment from Intact Private Capital, alongside existing investors Highland ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/pick-your-ai-judges-give-them-a-spin",
-        "title": "Pick Your AI Judges, Give Them A Spin!",
-        "url": "https://www.artificiallawyer.com/2026/08/05/pick-your-ai-judges-give-them-a-spin/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-05T10:02:57.000Z",
-        "summary": "Meet BenchSim, a legal tech company that now provides video simulations of AI judges so that you can test out your courtroom prowess. Or, as ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/aavalynx-raises-1-5m-pre-seed-for-litigation-insights",
-        "title": "Aavalynx Raises £1.5m Pre-Seed for Litigation Insights",
-        "url": "https://www.artificiallawyer.com/2026/08/05/aavalynx-raises-1-5m-pre-seed-for-litigation-insights/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-05T09:08:20.000Z",
-        "summary": "Aavalynx, an AI-powered platform that gives insights into ongoing litigation portfolios for enterprises, has raised £1.5 million in pre-seed funding. Its founder and CEO, Hanna ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/is-this-the-great-legal-tech-consolidation",
-        "title": "Is This The Great Legal Tech Consolidation?",
-        "url": "https://www.artificiallawyer.com/2026/08/05/is-this-the-great-legal-tech-consolidation/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-05T07:09:56.000Z",
-        "summary": "Yesterday, BigHand bought legal AI pricing startup Ayora; Anaqua bagged Unified Patents; and last week Legora picked up litigation intelligence newbie, Wexler – its fifth ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -275,26 +195,6 @@
         "publishedAt": "2026-07-30T13:24:53.000Z",
         "summary": "Every Friday, a panel of leading legal tech journalists come together to discuss the top stories of the week in legal tech and legal innovation. The show is live and free to attend. You can register to attend the weekly ",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/29/holiday-read-the-innovators-civil-war",
-        "title": "Holiday Read &#8211; The Innovators – ‘Civil War’",
-        "url": "https://www.artificiallawyer.com/2026/07/29/holiday-read-the-innovators-civil-war/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-29T09:45:59.000Z",
-        "summary": "[ Artificial Lawyer is on holiday until Wed, Aug 5 – here’s Part 4 of ‘The Innovators’. ] &#8212; ‘We have a leak,’ Timothy Marks ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year",
-        "title": "Legora Buys Wexler – 5th Deal This Year",
-        "url": "https://www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-29T09:17:39.000Z",
-        "summary": "Legora is buying Wexler, a fact intelligence platform for litigation. Wexler&#8217;s engineering group will form &#8216;the founding team of Legora&#8217;s London engineering hub&#8217;, they added. ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1205,6 +1105,46 @@
         "publishedAt": "2024-06-17T04:15:00.000Z",
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
         "region": "na"
       }
     ],
