@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T12:48:53.156Z",
+  "generatedAt": "2026-08-10T18:43:36.300Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,12 +8,102 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.com/news/article/columbia&",
+        "title": "Columbia Law School updates AI policy with new restrictions",
+        "url": "https://www.abajournal.com/news/article/columbia&#45;law&#45;school&#45;updates&#45;ai&#45;policy&#45;with&#45;new&#45;restrictions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-10T16:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/author&",
+        "title": "Author of ‘How to Kill a Federal Judge’ convicted on multiple counts",
+        "url": "https://www.abajournal.com/news/article/author&#45;of&#45;how&#45;to&#45;kill&#45;a&#45;federal&#45;judge&#45;convicted&#45;on&#45;multiple&#45;counts/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-10T16:36:00.000Z",
+        "summary": "",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/experts&",
+        "title": "What happens after an AI breach? Experts weigh in",
+        "url": "https://www.abajournal.com/news/article/experts&#45;weigh&#45;in&#45;on&#45;what&#45;happens&#45;after&#45;an&#45;ai&#45;breach/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-10T15:23:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/former&",
+        "title": "Former clients sue &#8216;Lawyer of Miracles&#8217; for alleged fraud",
+        "url": "https://www.abajournal.com/news/article/former&#45;clients&#45;sue&#45;miracle&#45;worker&#45;for&#45;fraud/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-10T14:59:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/tell&",
+        "title": "Tell Me How to Get Even With My Lawyer: Pro se use of AI is changing litigation landscape in good, bad ways, lawyers say",
+        "url": "https://www.abajournal.com/web/article/Tell&#45;me&#45;how&#45;to&#45;get&#45;even&#45;with&#45;my&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-10T14:25:00.000Z",
+        "summary": "",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/purdue&",
+        "title": "Dean of Purdue Global Law School creates illustrated book about &#8216;Furious George&#8217;",
+        "url": "https://www.abajournal.com/web/article/purdue&#45;law&#45;dean&#45;writes&#45;illustrated&#45;book&#45;about&#45;furious&#45;george/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-10T14:23:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/harbor-seeks-to-counter-general-llm-fdes",
+        "title": "Harbor Seeks To Counter General LLM FDEs",
+        "url": "https://www.artificiallawyer.com/2026/08/10/harbor-seeks-to-counter-general-llm-fdes/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-10T13:00:43.000Z",
+        "summary": "Legal tech consultancy Harbor has launched ‘Deploy’ for legal AI needs, which will see them ‘embed specialist teams, including forward-deployed engineers (FDE), inside clients’. They ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/08/after-his-own-trademark-fight-revealed-gaps-in-trademark-tools-this-fintech-founder-built-his-own.html",
         "title": "After His Own Trademark Fight Revealed Gaps in Trademark Tools, This Fintech Founder Built His Own",
         "url": "https://www.lawnext.com/2026/08/after-his-own-trademark-fight-revealed-gaps-in-trademark-tools-this-fintech-founder-built-his-own.html",
         "source": "LawSites",
         "publishedAt": "2026-08-10T12:02:26.000Z",
         "summary": "Howard Katzenberg’s idea for a trademark software company began with a trademark fight of his own. Today, he is formally launching that software, called GleanMark, a U.S. trademark research and workflow platform for lawy",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/model-ml",
+        "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "url": "https://openai.com/index/model-ml",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-10T12:00:00.000Z",
+        "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+        "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-10T10:00:00.000Z",
+        "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
         "category": "articles",
         "region": "na"
       },
@@ -88,16 +178,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/public&",
-        "title": "Public backs most Supreme Court rulings while overall approval ratings remain low",
-        "url": "https://www.abajournal.com/news/article/public&#45;backs&#45;most&#45;supreme&#45;court&#45;rulings&#45;while&#45;overall&#45;approval&#45;ratings&#45;remain&#45;low/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-07T12:43:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/07/anthropic-hires-head-of-claude-for-legal",
         "title": "Anthropic Hires ‘Head of Claude For Legal’",
         "url": "https://www.artificiallawyer.com/2026/08/07/anthropic-hires-head-of-claude-for-legal/",
@@ -114,56 +194,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-08-07T07:16:12.000Z",
         "summary": "Welcome to this week’s Wrap. We start with a selection of legal tech news, including the finding that AI realism is breaking out finally, albeit ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/biglaw&",
-        "title": "BigLaw drives new grad hiring, new NALP study shows",
-        "url": "https://www.abajournal.com/news/article/biglaw&#45;drives&#45;new&#45;grad&#45;hiring&#45;nalp&#45;study&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-06T18:36:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
-        "title": "Florida Bar takes over lawyer addiction program",
-        "url": "https://www.abajournal.com/news/article/florida&#45;bar&#45;takes&#45;over&#45;lawyer&#45;addiction&#45;program/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-06T16:17:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/milbank&",
-        "title": "Milbank offers early start date for new associates",
-        "url": "https://www.abajournal.com/news/article/milbank&#45;offers&#45;early&#45;start&#45;date&#45;for&#45;new&#45;associates/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-06T15:22:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/61&",
-        "title": "61% of legal professionals would accept less money to work remotely, recent study says",
-        "url": "https://www.abajournal.com/news/article/61&#45;of&#45;legal&#45;professionals&#45;would&#45;accept&#45;less&#45;money&#45;to&#45;work&#45;remotely&#45;study&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-06T15:07:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
-        "title": "Federal judge fines attorney for AI mistakes in taco biz beef",
-        "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;fines&#45;attorney&#45;for&#45;ai&#45;mistakes&#45;in&#45;taco&#45;biz&#45;beef/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-06T14:43:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -235,16 +265,6 @@
         "publishedAt": "2026-08-05T10:02:57.000Z",
         "summary": "Meet BenchSim, a legal tech company that now provides video simulations of AI judges so that you can test out your courtroom prowess. Or, as ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/aavalynx-raises-1-5m-pre-seed-for-litigation-insights",
-        "title": "Aavalynx Raises £1.5m Pre-Seed for Litigation Insights",
-        "url": "https://www.artificiallawyer.com/2026/08/05/aavalynx-raises-1-5m-pre-seed-for-litigation-insights/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-05T09:08:20.000Z",
-        "summary": "Aavalynx, an AI-powered platform that gives insights into ongoing litigation portfolios for enterprises, has raised £1.5 million in pre-seed funding. Its founder and CEO, Hanna ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1184,26 +1204,6 @@
         "source": "LawSites",
         "publishedAt": "2026-05-07T12:00:02.000Z",
         "summary": "Less than three months after replacing Lexis+ AI with Lexis+ with Protégé as its flagship legal AI platform, LexisNexis today is announcing a substantial expansion of that platform – what the company is calling its &#822",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/gpt-5-cursor",
-        "title": "How Cursor uses GPT-5",
-        "url": "https://openai.com/index/gpt-5-cursor",
-        "source": "OpenAI News",
-        "publishedAt": "2025-08-07T00:00:00.000Z",
-        "summary": "Learn how Cursor uses GPT-5.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
       }
