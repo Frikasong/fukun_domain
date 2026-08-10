@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T01:05:00.390Z",
+  "generatedAt": "2026-08-10T07:13:59.902Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/4-legal-techs-join-y-combinator-summer-26",
+        "title": "4 Legal Techs Join Y Combinator Summer ‘26",
+        "url": "https://www.artificiallawyer.com/2026/08/10/4-legal-techs-join-y-combinator-summer-26/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-10T06:55:32.000Z",
+        "summary": "Legendary startup incubator and investor, Y Combinator, has accepted four legal tech companies into its summer 2026 cohort. Artificial Lawyer takes a look: Perceptron ML ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/duke&",
         "title": "Duke Law accused of racial discrimination by DOJ",
@@ -285,16 +295,6 @@
         "publishedAt": "2026-07-29T09:45:59.000Z",
         "summary": "[ Artificial Lawyer is on holiday until Wed, Aug 5 – here’s Part 4 of ‘The Innovators’. ] &#8212; ‘We have a leak,’ Timothy Marks ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year",
-        "title": "Legora Buys Wexler – 5th Deal This Year",
-        "url": "https://www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-29T09:17:39.000Z",
-        "summary": "Legora is buying Wexler, a fact intelligence platform for litigation. Wexler&#8217;s engineering group will form &#8216;the founding team of Legora&#8217;s London engineering hub&#8217;, they added. ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1210,61 +1210,51 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/lwrkahlso9f7oobigxdi",
+        "title": "33% 增速、126% 留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+        "url": "https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-10T14:26:35.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/dxkqwgtlotdel82dzqr6",
+        "title": "破局“数据困境”：橡木果发布全球首个“具身本能模型”Natus AGE-0，获招商局创投与蔚来资本天使轮投资",
+        "url": "https://www.infoq.cn/article/dXkqWgtLOtDEl82dzQR6?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-10T14:24:34.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/etcjhcladecisiah5rfu",
+        "title": "Java 近期新闻：OpenJDK JEP、Jakarta EE、GraalVM、TornadoVM、Micronaut、Quarkus、JobRunr、Maven",
+        "url": "https://www.infoq.cn/article/ETcjHcLADeCISiah5RfU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-10T13:26:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fecoi8kyogufyq39aceo",
+        "title": "涨价30倍仍是最便宜的模型，DeepSeek可能有这个底气",
+        "url": "https://www.infoq.cn/article/FEcOI8kYoGuFYq39acEo?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-10T09:25:43.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/rxrur3tn9msnmauwrtcl",
         "title": "OpenAI给10亿用户免费换上GPT-5.6",
         "url": "https://www.infoq.cn/article/RXRuR3TN9msNMAUWRtCl?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-08-09T10:23:42.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hqd432mksxmmr2uuag6p",
-        "title": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
-        "url": "https://www.infoq.cn/article/HQD432MKSXMMR2UUag6P?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-07T15:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/5deaaboicvrremhabcyz",
-        "title": "DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税",
-        "url": "https://www.infoq.cn/article/5DEAabOIcvRrEMhAbCyz?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-07T13:33:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fgmkg9borq7vg5ubbp4u",
-        "title": "HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复",
-        "url": "https://www.infoq.cn/article/FGMkg9BOrQ7vg5ubBp4U?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-07T11:53:50.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/d6ypygivilrghz1mjatr",
-        "title": "HarmonyOS 7（API 26）Beta 2 新能力解读：平行视界开启大屏多任务新体验",
-        "url": "https://www.infoq.cn/article/d6ypyGIvilRgHz1MJaTR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-07T11:53:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/edt24uft212xlaw83rym",
-        "title": "DevEco CLI 快速入门：让 AI Agent 更懂 HarmonyOS 应用开发",
-        "url": "https://www.infoq.cn/article/eDt24UFt212XlaW83ryM?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-07T11:53:21.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
