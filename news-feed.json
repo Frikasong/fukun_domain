@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T07:13:59.902Z",
+  "generatedAt": "2026-08-10T12:48:53.156Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/08/after-his-own-trademark-fight-revealed-gaps-in-trademark-tools-this-fintech-founder-built-his-own.html",
+        "title": "After His Own Trademark Fight Revealed Gaps in Trademark Tools, This Fintech Founder Built His Own",
+        "url": "https://www.lawnext.com/2026/08/after-his-own-trademark-fight-revealed-gaps-in-trademark-tools-this-fintech-founder-built-his-own.html",
+        "source": "LawSites",
+        "publishedAt": "2026-08-10T12:02:26.000Z",
+        "summary": "Howard Katzenberg’s idea for a trademark software company began with a trademark fight of his own. Today, he is formally launching that software, called GleanMark, a U.S. trademark research and workflow platform for lawy",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/must-claude-for-legal-head-be-a-lawyer",
+        "title": "Must &#8216;Claude For Legal&#8217; Head Be A Lawyer?",
+        "url": "https://www.artificiallawyer.com/2026/08/10/must-claude-for-legal-head-be-a-lawyer/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-10T09:45:18.000Z",
+        "summary": "Some have criticised Anthropic’s choice of Robert Mahari as its ‘Head of Claude for Legal’ for not having worked long-term as a lawyer. But, does ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/bird-bird-hires-big-four-transformation-team-from-ey",
+        "title": "Bird &#038; Bird Hires Big Four Transformation Team From EY",
+        "url": "https://www.artificiallawyer.com/2026/08/10/bird-bird-hires-big-four-transformation-team-from-ey/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-10T08:55:35.000Z",
+        "summary": "International law firm Bird &#38; Bird has hired a legal transformation team from Big Four firm EY in the shape of Shahin Baghaei, along with: ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/4-legal-techs-join-y-combinator-summer-26",
         "title": "4 Legal Techs Join Y Combinator Summer ‘26",
@@ -218,16 +248,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/is-this-the-great-legal-tech-consolidation",
-        "title": "Is This The Great Legal Tech Consolidation?",
-        "url": "https://www.artificiallawyer.com/2026/08/05/is-this-the-great-legal-tech-consolidation/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-05T07:09:56.000Z",
-        "summary": "Yesterday, BigHand bought legal AI pricing startup Ayora; Anaqua bagged Unified Patents; and last week Legora picked up litigation intelligence newbie, Wexler – its fifth ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/thomson-reuters-says-its-homegrown-ai-model-now-rivals-the-frontier-labs-i-take-a-closer-look-at-the-benchmarks.html",
         "title": "Thomson Reuters Says Its Homegrown AI Model Now Rivals the Frontier Labs – I Take A Closer Look At the Benchmarks",
         "url": "https://www.lawnext.com/2026/08/thomson-reuters-says-its-homegrown-ai-model-now-rivals-the-frontier-labs-i-take-a-closer-look-at-the-benchmarks.html",
@@ -284,16 +304,6 @@
         "source": "LawSites",
         "publishedAt": "2026-07-30T13:24:53.000Z",
         "summary": "Every Friday, a panel of leading legal tech journalists come together to discuss the top stories of the week in legal tech and legal innovation. The show is live and free to attend. You can register to attend the weekly ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/07/29/holiday-read-the-innovators-civil-war",
-        "title": "Holiday Read &#8211; The Innovators – ‘Civil War’",
-        "url": "https://www.artificiallawyer.com/2026/07/29/holiday-read-the-innovators-civil-war/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-07-29T09:45:59.000Z",
-        "summary": "[ Artificial Lawyer is on holiday until Wed, Aug 5 – here’s Part 4 of ‘The Innovators’. ] &#8212; ‘We have a leak,’ Timothy Marks ...",
         "category": "updates",
         "region": "na"
       },
@@ -1178,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/05/california-bar-proposes-rule-requiring-lawyers-to-verify-every-ai-output-and-five-other-ai-focused-ethics-changes.html",
-        "title": "California Bar Proposes Rule Requiring Lawyers to Verify Every AI Output — and Five Other AI-Focused Ethics Changes",
-        "url": "https://www.lawnext.com/2026/05/california-bar-proposes-rule-requiring-lawyers-to-verify-every-ai-output-and-five-other-ai-focused-ethics-changes.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-05T15:03:09.000Z",
-        "summary": "When using any technology — including AI — a lawyer &#8220;must independently review, verify, and exercise professional judgment regarding any output generated by the technology that is used in connection with representi",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1209,36 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/lwrkahlso9f7oobigxdi",
-        "title": "33% 增速、126% 留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
-        "url": "https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-10T14:26:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/dxkqwgtlotdel82dzqr6",
-        "title": "破局“数据困境”：橡木果发布全球首个“具身本能模型”Natus AGE-0，获招商局创投与蔚来资本天使轮投资",
-        "url": "https://www.infoq.cn/article/dXkqWgtLOtDEl82dzQR6?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-10T14:24:34.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/etcjhcladecisiah5rfu",
-        "title": "Java 近期新闻：OpenJDK JEP、Jakarta EE、GraalVM、TornadoVM、Micronaut、Quarkus、JobRunr、Maven",
-        "url": "https://www.infoq.cn/article/ETcjHcLADeCISiah5RfU?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-10T13:26:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/fecoi8kyogufyq39aceo",
         "title": "涨价30倍仍是最便宜的模型，DeepSeek可能有这个底气",
