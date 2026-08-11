@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T06:51:57.520Z",
+  "generatedAt": "2026-08-11T12:43:36.554Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/08/ken-crutchfield-when-ai-models-become-commodities-what-open-weight-ai-could-mean-for-legaltech.html",
+        "title": "Ken Crutchfield: When AI Models Become Commodities &#8212; What Open-Weight AI Could Mean For LegalTech",
+        "url": "https://www.lawnext.com/2026/08/ken-crutchfield-when-ai-models-become-commodities-what-open-weight-ai-could-mean-for-legaltech.html",
+        "source": "LawSites",
+        "publishedAt": "2026-08-11T12:42:21.000Z",
+        "summary": "We are rapidly approaching budget season and planning for contingencies in 2027. Perhaps open-weight models should be part of your fall planning. Last year, DeepSeek created a scare for the American AI industry when it c",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/11/scissero-mayer-brown-form-partnership-ceo-interview",
+        "title": "Scissero + Mayer Brown Form Partnership – CEO Interview",
+        "url": "https://www.artificiallawyer.com/2026/08/11/scissero-mayer-brown-form-partnership-ceo-interview/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-11T12:00:18.000Z",
+        "summary": "Legal AI pioneer Scissero and major US law firm Mayer Brown are partnering to provide an integrated issuance solution for structured products. This exclusive deal ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/11/aloi-raises-7m-for-organisational-judgment-ceo-interview",
+        "title": "Aloi Raises $7m For ‘Organisational Judgment’ + CEO Interview",
+        "url": "https://www.artificiallawyer.com/2026/08/11/aloi-raises-7m-for-organisational-judgment-ceo-interview/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-11T06:58:24.000Z",
+        "summary": "Aloi has raised $7m in early funding to develop what it calls &#8216;organisational judgment&#8217;, in order to improve legal AI outcomes. (See in-depth AL interview ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/lais&",
         "title": "Laís Ramirez Santoro supports immigrants through ABA and other opportunities",
@@ -234,26 +264,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-08-05T13:15:03.000Z",
         "summary": "Thomson Reuters is adding to its long list of legal tech partners with the addition of Laurel, the time recording system. The move follows TR’s ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/wordsmith-celebrates-14m-series-b-extension",
-        "title": "Wordsmith Celebrates $14m Series B Extension",
-        "url": "https://www.artificiallawyer.com/2026/08/05/wordsmith-celebrates-14m-series-b-extension/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-05T11:23:10.000Z",
-        "summary": "Wordsmith has raised a $14 million extension to their June Series B round, led with new investment from Intact Private Capital, alongside existing investors Highland ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/05/pick-your-ai-judges-give-them-a-spin",
-        "title": "Pick Your AI Judges, Give Them A Spin!",
-        "url": "https://www.artificiallawyer.com/2026/08/05/pick-your-ai-judges-give-them-a-spin/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-05T10:02:57.000Z",
-        "summary": "Meet BenchSim, a legal tech company that now provides video simulations of AI judges so that you can test out your courtroom prowess. Or, as ...",
         "category": "updates",
         "region": "na"
       },
@@ -1188,16 +1198,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/05/lexisnexis-expands-lexis-with-protege-adding-agentic-skills-collaboration-workrooms-and-customer-held-encryption-keys.html",
-        "title": "LexisNexis Expands Lexis+ with Protégé, Adding Agentic Skills, Collaboration Workrooms, and Customer-Held Encryption Keys",
-        "url": "https://www.lawnext.com/2026/05/lexisnexis-expands-lexis-with-protege-adding-agentic-skills-collaboration-workrooms-and-customer-held-encryption-keys.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-07T12:00:02.000Z",
-        "summary": "Less than three months after replacing Lexis+ AI with Lexis+ with Protégé as its flagship legal AI platform, LexisNexis today is announcing a substantial expansion of that platform – what the company is calling its &#822",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,33 +1210,13 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ksqvyjviwtvxsumygrtf",
-        "title": "腾讯WorkBuddy升级多端同步，支持手机远程授权和停止电脑端任务",
-        "url": "https://www.infoq.cn/article/kSqvyjVIwTvXsumYgRtf?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/pqwqcoysq5hdkz96vso3",
+        "title": "把 AI 视频的钱花在刀刃上，不是每一刀上",
+        "url": "https://www.infoq.cn/article/pqWqcoySQ5HdKz96vSo3?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-11T14:28:27.000Z",
+        "publishedAt": "2026-08-11T19:11:29.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/2nsa9ft1uhjmdrrwzoo3",
-        "title": "让 Agent 读懂业务世界：Snowflake Cortex Agents 的本体驱动推理实践",
-        "url": "https://www.infoq.cn/article/2NsA9FT1uhjmdRrwzOo3?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-11T14:18:18.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mfaoxcr6rxqg515xw7hh",
-        "title": "eslint-rspack-plugin 5.0.0 以纯 ESM 包的形式发布，与 Rstack 生态系统保持一致",
-        "url": "https://www.infoq.cn/article/MfAOXCR6RxQG515xW7HH?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-11T13:21:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
         "region": "cn"
       },
       {
@@ -1272,6 +1252,16 @@
     ],
     "cn_en": [
       {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3363637/alibaba-says-modular-design-delivers-ai-data-centres-100-days-10-lower-cost",
+        "title": "Alibaba says modular design delivers AI data centres in 100 days at 10% lower cost",
+        "url": "https://www.scmp.com/tech/big-tech/article/3363637/alibaba-says-modular-design-delivers-ai-data-centres-100-days-10-lower-cost?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-11T10:00:16.000Z",
+        "summary": "As demand for artificial intelligence infrastructure surges, Alibaba Group Holding says it can deliver new data centres in a fraction of the usual time while cutting construction costs by 10 per cent through its propriet",
+        "category": "articles",
+        "region": "cn_en"
+      },
+      {
         "id": "The Guardian China:www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
         "title": "China’s AI ecosystem is not as open as it claims. Nor is any other country’s | Letters",
         "url": "https://www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
@@ -1279,16 +1269,6 @@
         "publishedAt": "2026-08-07T16:56:34.000Z",
         "summary": "Responding to an article by China’s ambassador to the UK, Prof Paul H Cleverley advocates shared openness standards, while Dr Claire Jenkins says British AI can offer a distinctive path Ambassador Zheng Zeguang rightly c",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3363059/chinas-ai-revenue-projected-reach-us13b-breakthroughs-adoption-goldman-sachs",
-        "title": "China’s AI revenue projected to reach US$13b on breakthroughs, adoption: Goldman Sachs",
-        "url": "https://www.scmp.com/tech/big-tech/article/3363059/chinas-ai-revenue-projected-reach-us13b-breakthroughs-adoption-goldman-sachs?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-05T10:30:19.000Z",
-        "summary": "Rising cost efficiency and rapidly advancing capabilities from players like DeepSeek and MiniMax have prompted Goldman Sachs to raise its run-rate revenue forecast for China’s artificial intelligence model market by 30 p",
-        "category": "articles",
         "region": "cn_en"
       }
     ]
