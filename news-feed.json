@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T01:04:17.882Z",
+  "generatedAt": "2026-08-11T06:51:57.520Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -94,16 +94,6 @@
         "source": "LawSites",
         "publishedAt": "2026-08-10T12:02:26.000Z",
         "summary": "Howard Katzenberg’s idea for a trademark software company began with a trademark fight of his own. Today, he is formally launching that software, called GleanMark, a U.S. trademark research and workflow platform for lawy",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/model-ml",
-        "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "url": "https://openai.com/index/model-ml",
-        "source": "OpenAI News",
-        "publishedAt": "2026-08-10T12:00:00.000Z",
-        "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
         "category": "articles",
         "region": "na"
       },
@@ -1206,25 +1196,75 @@
         "summary": "Less than three months after replacing Lexis+ AI with Lexis+ with Protégé as its flagship legal AI platform, LexisNexis today is announcing a substantial expansion of that platform – what the company is calling its &#822",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/gpt-5-cursor",
+        "title": "How Cursor uses GPT-5",
+        "url": "https://openai.com/index/gpt-5-cursor",
+        "source": "OpenAI News",
+        "publishedAt": "2025-08-07T00:00:00.000Z",
+        "summary": "Learn how Cursor uses GPT-5.",
+        "category": "updates",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/fecoi8kyogufyq39aceo",
-        "title": "涨价30倍仍是最便宜的模型，DeepSeek可能有这个底气",
-        "url": "https://www.infoq.cn/article/FEcOI8kYoGuFYq39acEo?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ksqvyjviwtvxsumygrtf",
+        "title": "腾讯WorkBuddy升级多端同步，支持手机远程授权和停止电脑端任务",
+        "url": "https://www.infoq.cn/article/kSqvyjVIwTvXsumYgRtf?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-10T09:25:43.000Z",
+        "publishedAt": "2026-08-11T14:28:27.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/rxrur3tn9msnmauwrtcl",
-        "title": "OpenAI给10亿用户免费换上GPT-5.6",
-        "url": "https://www.infoq.cn/article/RXRuR3TN9msNMAUWRtCl?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/2nsa9ft1uhjmdrrwzoo3",
+        "title": "让 Agent 读懂业务世界：Snowflake Cortex Agents 的本体驱动推理实践",
+        "url": "https://www.infoq.cn/article/2NsA9FT1uhjmdRrwzOo3?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-09T10:23:42.000Z",
+        "publishedAt": "2026-08-11T14:18:18.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/mfaoxcr6rxqg515xw7hh",
+        "title": "eslint-rspack-plugin 5.0.0 以纯 ESM 包的形式发布，与 Rstack 生态系统保持一致",
+        "url": "https://www.infoq.cn/article/MfAOXCR6RxQG515xW7HH?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-11T13:21:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fisl2qoucpcr9v55xpp8",
+        "title": "开源共生 先锋同行｜世界人工智能开源大赛（GOAI）全球六城巡回宣讲活动圆满收官",
+        "url": "https://www.infoq.cn/article/FisL2qoucPCr9v55Xpp8?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-11T12:34:19.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/exuyjgsomytprpmpbipd",
+        "title": "HashiCorp 发布 Vault Kubernetes 密钥管理功能的公开测试版",
+        "url": "https://www.infoq.cn/article/eXUYjgSomYtprPMpbIPd?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-11T10:27:03.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/q1f3na2a1mhhgqsetlum",
+        "title": "开源LangAlpha正式发布：金融领域的Claude Code，用自然语言驱动投研工作流",
+        "url": "https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-11T09:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
