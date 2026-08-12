@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T12:49:02.949Z",
+  "generatedAt": "2026-08-12T18:50:50.803Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,106 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/08/lawnext-lexisnexis-cto-greg-dickason-on-building-legal-ai-in-real-time-with-customers-in-its-new-innovation-lab.html",
+        "title": "LawNext: LexisNexis CTO Greg Dickason On Building Legal AI In Real Time with Customers in Its New Innovation Lab",
+        "url": "https://www.lawnext.com/2026/08/lawnext-lexisnexis-cto-greg-dickason-on-building-legal-ai-in-real-time-with-customers-in-its-new-innovation-lab.html",
+        "source": "LawSites",
+        "publishedAt": "2026-08-12T17:47:36.000Z",
+        "summary": "This week, LexisNexis announced the opening of its Customer Innovation Lab in New York City — a physical space where legal professionals, LexisNexis engineers, and AI companies such as OpenAI and Amazon Web Services sit ",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/colorado&",
+        "title": "Whistleblower’s suit against state judicial system dismissed",
+        "url": "https://www.abajournal.com/news/article/colorado&#45;whistleblowers&#45;suit&#45;against&#45;state&#45;judicial&#45;system&#45;dismissed/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-12T17:33:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/new&",
+        "title": "Judge in Luigi Mangione case speaks out about public access during proceedings",
+        "url": "https://www.abajournal.com/news/article/new&#45;york&#45;judge&#45;in&#45;luigi&#45;mangione&#45;case&#45;sets&#45;record&#45;straight&#45;over&#45;public&#45;access/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-12T17:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/top&",
+        "title": "Median LSAT score hits over 170 for these 17 law schools",
+        "url": "https://www.abajournal.com/news/article/top&#45;17&#45;law&#45;school&#45;median&#45;lsat&#45;score&#45;hits&#45;over&#45;170/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-12T15:18:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/bar&",
+        "title": "Bar candidates, exam vendor for troubled California test reach settlement",
+        "url": "https://www.abajournal.com/news/article/bar&#45;candidates&#45;exam&#45;vendor&#45;for&#45;troubled&#45;california&#45;test&#45;reach&#45;settlement/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-12T14:33:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/aals&",
+        "title": "Association of American Law Schools creates new task force on legal education regulation",
+        "url": "https://www.abajournal.com/web/article/aals&#45;creates&#45;task&#45;force&#45;on&#45;regulation&#45;of&#45;legal&#45;education/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-12T14:01:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/12/relativity-develops-clair-conversational-ai-system",
+        "title": "Relativity Develops claiR Conversational AI System",
+        "url": "https://www.artificiallawyer.com/2026/08/12/relativity-develops-clair-conversational-ai-system/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-12T14:00:41.000Z",
+        "summary": "Relativity has announced that it has developed &#8216;claiR&#8217;, a conversational AI system, which taps customers&#8217; data already stored within RelativityOne – and can reason across ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/08/relativity-announces-clair-a-conversational-ai-for-lawyers-but-youll-have-to-wait-awhile-to-chat-with-it.html",
+        "title": "Relativity Announces claiR, A Conversational AI for Lawyers, But You&#8217;ll Have to Wait Awhile to Chat with It",
+        "url": "https://www.lawnext.com/2026/08/relativity-announces-clair-a-conversational-ai-for-lawyers-but-youll-have-to-wait-awhile-to-chat-with-it.html",
+        "source": "LawSites",
+        "publishedAt": "2026-08-12T14:00:12.000Z",
+        "summary": "Relativity today announced Relativity claiR, a conversational AI interface that lets lawyers ask plain-language questions across an entire RelativityOne matter and get back answers with citations to the underlying record",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/legalrebels/article/rebels&",
+        "title": "Are AI-native law firms the wave of the future?",
+        "url": "https://www.abajournal.com/legalrebels/article/rebels&#45;podcast&#45;episode&#45;127/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-12T13:57:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai",
+        "title": "The L Suite: Inhouse Community + Legal AI",
+        "url": "https://www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-12T06:41:51.000Z",
+        "summary": "This week’s special AL TV interview is with L Suite co-founders Greg Raiten and Kiran Lingam. We explore, among other topics, how this inhouse community ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/a&",
         "title": "Pitt Law grad&#8217;s tale of 2 lawyers with burnout wins 2026 ABA Journal Ross Writing Contest",
@@ -58,43 +158,13 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/washington&",
-        "title": "Employment-related litigation surges in this state",
-        "url": "https://www.abajournal.com/news/article/washington&#45;state&#45;seeing&#45;a&#45;surge&#45;in&#45;employment&#45;litigation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-11T15:22:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/individuals&",
-        "title": "Those targeted but not killed by John Wayne Gacy tell their stories in People magazine docuseries",
-        "url": "https://www.abajournal.com/columns/article/individuals&#45;john&#45;wayne&#45;gacy&#45;targeted&#45;but&#45;did&#45;not&#45;kill&#45;tell&#45;their&#45;stories&#45;in&#45;people&#45;magazine&#45;show/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-11T15:03:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/pennsylvania&",
-        "title": "Lawyer suspended following conviction for stealing valuable coins",
-        "url": "https://www.abajournal.com/news/article/pennsylvania&#45;lawyer&#45;suspended&#45;following&#45;conviction&#45;of&#45;stealing&#45;valuable&#45;coins/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-11T14:50:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/rising&",
-        "title": "Rising AI expenses could hinder BigLaw performance, new survey shows",
-        "url": "https://www.abajournal.com/news/article/rising&#45;ai&#45;expenses&#45;could&#45;hinder&#45;biglaw&#45;performance&#45;new&#45;survey&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-11T14:34:00.000Z",
-        "summary": "",
-        "category": "updates",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/11/ivo-launches-collaborate-contract-lifecycle-platform",
+        "title": "Ivo Launches ‘Collaborate’ Contract Lifecycle Platform",
+        "url": "https://www.artificiallawyer.com/2026/08/11/ivo-launches-collaborate-contract-lifecycle-platform/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-11T13:00:03.000Z",
+        "summary": "Ivo has launched Collaborate, an ‘orchestration platform for the entire contract lifecycle’. It handles contracts from intake through to approval, negotiation and signature, they said. ...",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -108,22 +178,32 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/lais&",
-        "title": "Laís Ramirez Santoro supports immigrants through ABA and other opportunities",
-        "url": "https://www.abajournal.com/web/article/lais&#45;ramirez&#45;santoro&#45;supports&#45;immigrants&#45;through&#45;aba&#45;and&#45;other&#45;opportunities/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-10T18:45:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/11/scissero-mayer-brown-form-partnership-ceo-interview",
+        "title": "Scissero + Mayer Brown Form Partnership – CEO Interview",
+        "url": "https://www.artificiallawyer.com/2026/08/11/scissero-mayer-brown-form-partnership-ceo-interview/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-11T12:00:18.000Z",
+        "summary": "Legal AI pioneer Scissero and major US law firm Mayer Brown are partnering to provide an integrated issuance solution for structured products. This exclusive deal ...",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/columbia&",
-        "title": "Columbia Law School updates AI policy with new restrictions",
-        "url": "https://www.abajournal.com/news/article/columbia&#45;law&#45;school&#45;updates&#45;ai&#45;policy&#45;with&#45;new&#45;restrictions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-10T16:56:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/11/aloi-raises-7m-for-organisational-judgment-ceo-interview",
+        "title": "Aloi Raises $7m For ‘Organisational Judgment’ + CEO Interview",
+        "url": "https://www.artificiallawyer.com/2026/08/11/aloi-raises-7m-for-organisational-judgment-ceo-interview/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-11T06:58:24.000Z",
+        "summary": "Aloi has raised $7m in early funding to develop what it calls &#8216;organisational judgment&#8217;, in order to improve legal AI outcomes. (See in-depth AL interview ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/harbor-seeks-to-counter-general-llm-fdes",
+        "title": "Harbor Seeks To Counter General LLM FDEs",
+        "url": "https://www.artificiallawyer.com/2026/08/10/harbor-seeks-to-counter-general-llm-fdes/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-10T13:00:43.000Z",
+        "summary": "Legal tech consultancy Harbor has launched ‘Deploy’ for legal AI needs, which will see them ‘embed specialist teams, including forward-deployed engineers (FDE), inside clients’. They ...",
         "category": "updates",
         "region": "na"
       },
@@ -135,6 +215,46 @@
         "publishedAt": "2026-08-10T12:02:26.000Z",
         "summary": "Howard Katzenberg’s idea for a trademark software company began with a trademark fight of his own. Today, he is formally launching that software, called GleanMark, a U.S. trademark research and workflow platform for lawy",
         "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/must-claude-for-legal-head-be-a-lawyer",
+        "title": "Must &#8216;Claude For Legal&#8217; Head Be A Lawyer?",
+        "url": "https://www.artificiallawyer.com/2026/08/10/must-claude-for-legal-head-be-a-lawyer/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-10T09:45:18.000Z",
+        "summary": "Some have criticised Anthropic’s choice of Robert Mahari as its ‘Head of Claude for Legal’ for not having worked long-term as a lawyer. But, does ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/bird-bird-hires-big-four-transformation-team-from-ey",
+        "title": "Bird &#038; Bird Hires Big Four Transformation Team From EY",
+        "url": "https://www.artificiallawyer.com/2026/08/10/bird-bird-hires-big-four-transformation-team-from-ey/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-10T08:55:35.000Z",
+        "summary": "International law firm Bird &#38; Bird has hired a legal transformation team from Big Four firm EY in the shape of Shahin Baghaei, along with: ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/4-legal-techs-join-y-combinator-summer-26",
+        "title": "4 Legal Techs Join Y Combinator Summer ‘26",
+        "url": "https://www.artificiallawyer.com/2026/08/10/4-legal-techs-join-y-combinator-summer-26/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-10T06:55:32.000Z",
+        "summary": "Legendary startup incubator and investor, Y Combinator, has accepted four legal tech companies into its summer 2026 cohort. Artificial Lawyer takes a look: Perceptron ML ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/07/anthropic-hires-head-of-claude-for-legal",
+        "title": "Anthropic Hires ‘Head of Claude For Legal’",
+        "url": "https://www.artificiallawyer.com/2026/08/07/anthropic-hires-head-of-claude-for-legal/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-07T09:08:51.000Z",
+        "summary": "Anthropic has hired Robert Mahari to be its first official ‘Head of Claude for Legal’. He’s a Fellow of Stanford&#8217;s CodeX legal tech group and ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1078,16 +1198,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/05/ken-crutchfield-when-open-source-meets-legal-how-mikeoss-signals-the-end-of-legals-secret-sauce.html",
-        "title": "Ken Crutchfield: When Open Source Meets Legal &#8212; How MikeOSS Signals the End of Legal’s Secret Sauce",
-        "url": "https://www.lawnext.com/2026/05/ken-crutchfield-when-open-source-meets-legal-how-mikeoss-signals-the-end-of-legals-secret-sauce.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-08T12:38:49.000Z",
-        "summary": "Last week, Will Chen released MikeOSS, an open-source project on GitHub that claims to be feature-equivalent to Harvey and Legora. Among other things, MikeOSS has an assistant, a tabular review function, and reusable wor",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1095,56 +1205,6 @@
         "publishedAt": "2025-08-07T00:00:00.000Z",
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
         "region": "na"
       }
     ],
@@ -1181,16 +1241,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing",
-        "title": "Chinese AI start-up ModelBest kicks off pre-IPO tutoring process for mainland listing",
-        "url": "https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-12T07:26:50.000Z",
-        "summary": "Chinese AI start-up ModelBest has kicked off its pre-initial public offering (IPO) tutoring process for a listing in mainland China, capitalising on growing demand for compact artificial intelligence models that run loca",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "The Guardian China:www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
         "title": "China’s AI ecosystem is not as open as it claims. Nor is any other country’s | Letters",
