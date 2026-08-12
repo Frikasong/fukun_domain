@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T18:49:40.940Z",
+  "generatedAt": "2026-08-12T01:11:58.051Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/a&",
+        "title": "Pitt Law grad&#8217;s tale of 2 lawyers with burnout wins 2026 ABA Journal Ross Writing Contest",
+        "url": "https://www.abajournal.com/web/article/a&#45;tale&#45;of&#45;two&#45;lawyers&#45;with&#45;burnout&#45;written&#45;by&#45;a&#45;pitt&#45;law&#45;grad&#45;wins&#45;the&#45;2026&#45;aba&#45;journal&#45;ross&#45;writing&#45;contest/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-11T20:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/legal&",
+        "title": "Legal Attire and the Clash of the Generations, Part 1: The courtroom",
+        "url": "https://www.abajournal.com/voice/article/legal&#45;attire&#45;and&#45;the&#45;clash&#45;of&#45;the&#45;generations&#45;part&#45;1&#45;the&#45;courtroom/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-11T18:49:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/08/universal-migrator-helps-aggressive-startups-onboard-customers-quicker.html",
         "title": "Universal Migrator helps aggressive startups onboard customers quicker",
@@ -133,26 +153,6 @@
         "url": "https://www.abajournal.com/news/article/columbia&#45;law&#45;school&#45;updates&#45;ai&#45;policy&#45;with&#45;new&#45;restrictions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-08-10T16:56:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/author&",
-        "title": "Author of ‘How to Kill a Federal Judge’ convicted on multiple counts",
-        "url": "https://www.abajournal.com/news/article/author&#45;of&#45;how&#45;to&#45;kill&#45;a&#45;federal&#45;judge&#45;convicted&#45;on&#45;multiple&#45;counts/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-10T16:36:00.000Z",
-        "summary": "",
-        "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/experts&",
-        "title": "What happens after an AI breach? Experts weigh in",
-        "url": "https://www.abajournal.com/news/article/experts&#45;weigh&#45;in&#45;on&#45;what&#45;happens&#45;after&#45;an&#45;ai&#45;breach/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-10T15:23:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1241,6 +1241,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3363712/what-are-chinas-quantitative-trading-funds-and-why-are-they-so-controversial",
+        "title": "What are China’s quantitative trading funds, and why are they so controversial?",
+        "url": "https://www.scmp.com/business/banking-finance/article/3363712/what-are-chinas-quantitative-trading-funds-and-why-are-they-so-controversial?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-12T01:00:27.000Z",
+        "summary": "For years, quantitative trading was the undisputed darling of China’s stock market, using sophisticated algorithms and artificial intelligence to deliver eye-popping returns and grow into one of the most powerful drivers",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "The Guardian China:www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
         "title": "China’s AI ecosystem is not as open as it claims. Nor is any other country’s | Letters",
