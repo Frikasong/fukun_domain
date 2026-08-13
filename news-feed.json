@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T12:50:37.717Z",
+  "generatedAt": "2026-08-13T18:51:12.543Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,12 +8,112 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.com/news/article/law&",
+        "title": "Law students see more options for summer training programs",
+        "url": "https://www.abajournal.com/news/article/law&#45;students&#45;see&#45;more&#45;options&#45;for&#45;summer&#45;training&#45;programs/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-13T18:30:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/florda&",
+        "title": "Lawyer disbarred after borrowing $16K from client, not paying it back",
+        "url": "https://www.abajournal.com/news/article/florda&#45;lawyer&#45;disbarred/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-13T17:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/wyomings&",
+        "title": "Stand-your-ground law in Wyoming is skewed, says trans woman charged with assault",
+        "url": "https://www.abajournal.com/news/article/wyomings&#45;stand&#45;your&#45;ground&#45;law&#45;is&#45;skewed&#45;says&#45;trans&#45;woman&#45;charged&#45;with&#45;assault/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-13T16:48:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/snapchat&",
+        "title": "Snapchat video plays into arrest of lawyer charged with solicitation of prostitution, trafficking",
+        "url": "https://www.abajournal.com/news/article/snapchat&#45;video&#45;plays&#45;into&#45;the&#45;arrest&#45;of&#45;texas&#45;lawyer&#45;charged&#45;with&#45;solicitation&#45;of&#45;prostitution/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-13T15:47:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/california&",
+        "title": "California Supreme Court orders electronic recording for indigent litigants",
+        "url": "https://www.abajournal.com/news/article/california&#45;supreme&#45;court&#45;orders&#45;electronic&#45;recording&#45;for&#45;indigent&#45;litigants/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-13T15:02:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/newly&",
+        "title": "Newly appointed Muslim judge in small Mississippi town draws social media attacks",
+        "url": "https://www.abajournal.com/news/article/newly&#45;appointed&#45;muslim&#45;judge&#45;in&#45;small&#45;mississippi&#45;town&#45;draws&#45;social&#45;media&#45;attacks/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-13T14:35:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/08/deepjudge-releases-an-open-protocol-for-passing-users-and-their-context-between-ai-products-with-harvey-and-thomson-reuters-on-board.html",
+        "title": "DeepJudge Releases an Open Protocol for Passing Users – and Their Context – Between AI Products, with Harvey and Thomson Reuters On Board",
+        "url": "https://www.lawnext.com/2026/08/deepjudge-releases-an-open-protocol-for-passing-users-and-their-context-between-ai-products-with-harvey-and-thomson-reuters-on-board.html",
+        "source": "LawSites",
+        "publishedAt": "2026-08-13T13:00:21.000Z",
+        "summary": "DeepJudge, the Zurich-based enterprise search company that describes itself as the institutional intelligence platform for legal AI, today introduced the Agent Handoff Protocol, an open protocol designed to let users mov",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/13/deepjudge-launches-agent-handoff-protocol-harvey-tr-adopt",
+        "title": "DeepJudge Launches Agent Handoff Protocol, Harvey + TR Adopt",
+        "url": "https://www.artificiallawyer.com/2026/08/13/deepjudge-launches-agent-handoff-protocol-harvey-tr-adopt/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-13T13:00:12.000Z",
+        "summary": "KM pioneer DeepJudge has launched an ‘Agent Handoff Protocol’ or AHP, which is an open system that ‘enables users to move between AI platforms without ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/13/anthropic-will-embed-watermarks-in-ai-outputs",
         "title": "Anthropic Will Embed Watermarks in AI Outputs",
         "url": "https://www.artificiallawyer.com/2026/08/13/anthropic-will-embed-watermarks-in-ai-outputs/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-08-13T11:32:36.000Z",
         "summary": "By Donna Carpenter. This week, Anthropic announced that all of its Claude products released from 2 August 2026 onwards will now include machine readable marking ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/builders-guide-to-gpt-5-6",
+        "title": "The builder’s guide to GPT‑5.6",
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-13T11:00:00.000Z",
+        "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/previewing-ultrafast",
+        "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "url": "https://openai.com/index/previewing-ultrafast",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-13T10:00:00.000Z",
+        "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
         "category": "updates",
         "region": "na"
       },
@@ -88,26 +188,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/bar&",
-        "title": "Bar candidates, exam vendor for troubled California test reach settlement",
-        "url": "https://www.abajournal.com/news/article/bar&#45;candidates&#45;exam&#45;vendor&#45;for&#45;troubled&#45;california&#45;test&#45;reach&#45;settlement/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-12T14:33:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/aals&",
-        "title": "Association of American Law Schools creates new task force on legal education regulation",
-        "url": "https://www.abajournal.com/web/article/aals&#45;creates&#45;task&#45;force&#45;on&#45;regulation&#45;of&#45;legal&#45;education/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-12T14:01:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/12/relativity-develops-clair-conversational-ai-system",
         "title": "Relativity Develops claiR Conversational AI System",
         "url": "https://www.artificiallawyer.com/2026/08/12/relativity-develops-clair-conversational-ai-system/",
@@ -128,16 +208,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/legalrebels/article/rebels&",
-        "title": "Are AI-native law firms the wave of the future?",
-        "url": "https://www.abajournal.com/legalrebels/article/rebels&#45;podcast&#45;episode&#45;127/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-12T13:57:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai",
         "title": "The L Suite: Inhouse Community + Legal AI",
         "url": "https://www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai/",
@@ -148,42 +218,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/a&",
-        "title": "Pitt Law grad&#8217;s tale of 2 lawyers with burnout wins 2026 ABA Journal Ross Writing Contest",
-        "url": "https://www.abajournal.com/web/article/a&#45;tale&#45;of&#45;two&#45;lawyers&#45;with&#45;burnout&#45;written&#45;by&#45;a&#45;pitt&#45;law&#45;grad&#45;wins&#45;the&#45;2026&#45;aba&#45;journal&#45;ross&#45;writing&#45;contest/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-11T20:07:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/voice/article/legal&",
-        "title": "Legal Attire and the Clash of the Generations, Part 1: The courtroom",
-        "url": "https://www.abajournal.com/voice/article/legal&#45;attire&#45;and&#45;the&#45;clash&#45;of&#45;the&#45;generations&#45;part&#45;1&#45;the&#45;courtroom/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-11T18:49:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/universal-migrator-helps-aggressive-startups-onboard-customers-quicker.html",
         "title": "Universal Migrator helps aggressive startups onboard customers quicker",
         "url": "https://www.lawnext.com/2026/08/universal-migrator-helps-aggressive-startups-onboard-customers-quicker.html",
         "source": "LawSites",
         "publishedAt": "2026-08-11T17:00:13.000Z",
         "summary": "For ambitious software startups, winning a new customer is only the beginning. The next challenge is getting that customer fully operational before delays, technical complications, or a difficult data migration undermine",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/the&",
-        "title": "The Burton Book Review: &#8216;The Etcher: The Life and Art of Oskar Stoessel&#8217; by Bryan A. Garner",
-        "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;the&#45;etcher&#45;the&#45;life&#45;and&#45;art&#45;of&#45;oskar&#45;stoessel&#45;by&#45;bryan&#45;a&#45;garner/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-11T16:11:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -245,16 +285,6 @@
         "publishedAt": "2026-08-10T12:02:26.000Z",
         "summary": "Howard Katzenberg’s idea for a trademark software company began with a trademark fight of his own. Today, he is formally launching that software, called GleanMark, a U.S. trademark research and workflow platform for lawy",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/must-claude-for-legal-head-be-a-lawyer",
-        "title": "Must &#8216;Claude For Legal&#8217; Head Be A Lawyer?",
-        "url": "https://www.artificiallawyer.com/2026/08/10/must-claude-for-legal-head-be-a-lawyer/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-10T09:45:18.000Z",
-        "summary": "Some have criticised Anthropic’s choice of Robert Mahari as its ‘Head of Claude for Legal’ for not having worked long-term as a lawyer. But, does ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1176,49 +1206,9 @@
         "summary": "Nearly half of in-house legal professionals say they would not detect an unauthorized or incorrect action taken by an AI agent until after it had already occurred — sometimes days or weeks later — according to new survey",
         "category": "articles",
         "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/05/ediscovery-ai-launches-casebot-a-conversational-ai-assistant-for-case-data.html",
-        "title": "eDiscovery AI Launches CaseBot, a Conversational AI Assistant for Case Data",
-        "url": "https://www.lawnext.com/2026/05/ediscovery-ai-launches-casebot-a-conversational-ai-assistant-for-case-data.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-11T13:15:11.000Z",
-        "summary": "eDiscovery AI, which was acquired in February by HaystackID, today announced the general availability of CaseBot, a conversational AI assistant that allows legal teams to interrogate case data in natural language and rec",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/05/exterro-launches-autonomous-subpoena-tool-unveils-broader-ai-governance-vision-at-cloc.html",
-        "title": "Exterro Launches Autonomous Subpoena Tool, Unveils Broader AI Governance Vision at CLOC",
-        "url": "https://www.lawnext.com/2026/05/exterro-launches-autonomous-subpoena-tool-unveils-broader-ai-governance-vision-at-cloc.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-11T13:00:25.000Z",
-        "summary": "Timed to coincide with today&#8217;s opening of the Corporate Legal Operations Consortium (CLOC) Global Institute in Chicago, Exterro is making two related announcements: the launch of a new autonomous subpoena managemen",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/gpt-5-cursor",
-        "title": "How Cursor uses GPT-5",
-        "url": "https://openai.com/index/gpt-5-cursor",
-        "source": "OpenAI News",
-        "publishedAt": "2025-08-07T00:00:00.000Z",
-        "summary": "Learn how Cursor uses GPT-5.",
-        "category": "updates",
-        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/oemzispbwkep8ttkdutf",
-        "title": "从“开放模型”到“开放生态”，AI 开源进入下半场",
-        "url": "https://www.infoq.cn/article/oEMzispbWkEP8TtKdUtf?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-13T18:21:46.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/ybcpst8secs3xwqzwwle",
         "title": "别再所有人平分AI算力：顶级模型给资深工程师才省钱，新人刷题式成长已失效",
@@ -1231,16 +1221,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3363929/ai-demand-drives-triple-digit-quarterly-profit-growth-chinese-foundries-smic-hua-hong",
-        "title": "AI demand drives triple-digit profit growth for Chinese chip foundries SMIC, Hua Hong",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3363929/ai-demand-drives-triple-digit-quarterly-profit-growth-chinese-foundries-smic-hua-hong?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-13T11:00:10.000Z",
-        "summary": "China’s top two contract chipmakers, Semiconductor Manufacturing International Corporation (SMIC) and Hua Hong Grace Semiconductor, saw their profits surge by triple digits in the second quarter, amid a spike in demand f",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "The Guardian China:www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
         "title": "China’s AI ecosystem is not as open as it claims. Nor is any other country’s | Letters",
