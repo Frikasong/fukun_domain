@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T07:14:09.110Z",
+  "generatedAt": "2026-08-13T12:50:37.717Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/13/anthropic-will-embed-watermarks-in-ai-outputs",
+        "title": "Anthropic Will Embed Watermarks in AI Outputs",
+        "url": "https://www.artificiallawyer.com/2026/08/13/anthropic-will-embed-watermarks-in-ai-outputs/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-13T11:32:36.000Z",
+        "summary": "By Donna Carpenter. This week, Anthropic announced that all of its Claude products released from 2 August 2026 onwards will now include machine readable marking ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/13/smartesq-grows-funds-skills-critiques-kirkland-ai-move",
+        "title": "SmartEsq Grows Funds Skills, Critiques Kirkland AI Move",
+        "url": "https://www.artificiallawyer.com/2026/08/13/smartesq-grows-funds-skills-critiques-kirkland-ai-move/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-13T08:21:15.000Z",
+        "summary": "New York-based SmartEsq has rolled out multiple new capabilities designed to help private funds teams manage the legal lifecycle ‘in one connected environment’. The company ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/13/neota-rolls-out-new-ai-governance-strategy",
+        "title": "Neota Rolls Out New AI Governance Strategy",
+        "url": "https://www.artificiallawyer.com/2026/08/13/neota-rolls-out-new-ai-governance-strategy/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-13T07:24:51.000Z",
+        "summary": "Neota Logic, which is now going to market as ‘the AI governance layer for legal teams’, has launched an AI orchestration capability which lets lawyers ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/wiped&",
         "title": "Wiped Clean: Is resetting your phone after being stopped by Border Patrol agents a federal offense?",
@@ -224,36 +254,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-08-10T09:45:18.000Z",
         "summary": "Some have criticised Anthropic’s choice of Robert Mahari as its ‘Head of Claude for Legal’ for not having worked long-term as a lawyer. But, does ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/bird-bird-hires-big-four-transformation-team-from-ey",
-        "title": "Bird &#038; Bird Hires Big Four Transformation Team From EY",
-        "url": "https://www.artificiallawyer.com/2026/08/10/bird-bird-hires-big-four-transformation-team-from-ey/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-10T08:55:35.000Z",
-        "summary": "International law firm Bird &#38; Bird has hired a legal transformation team from Big Four firm EY in the shape of Shahin Baghaei, along with: ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/4-legal-techs-join-y-combinator-summer-26",
-        "title": "4 Legal Techs Join Y Combinator Summer ‘26",
-        "url": "https://www.artificiallawyer.com/2026/08/10/4-legal-techs-join-y-combinator-summer-26/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-10T06:55:32.000Z",
-        "summary": "Legendary startup incubator and investor, Y Combinator, has accepted four legal tech companies into its summer 2026 cohort. Artificial Lawyer takes a look: Perceptron ML ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/07/anthropic-hires-head-of-claude-for-legal",
-        "title": "Anthropic Hires ‘Head of Claude For Legal’",
-        "url": "https://www.artificiallawyer.com/2026/08/07/anthropic-hires-head-of-claude-for-legal/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-07T09:08:51.000Z",
-        "summary": "Anthropic has hired Robert Mahari to be its first official ‘Head of Claude for Legal’. He’s a Fellow of Stanford&#8217;s CodeX legal tech group and ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,11 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/sw9wgh5vppzpuumqvfo1",
-        "title": "TanStack Table V9测试版：Tree-Shakable特性、TanStack Store状态与更低内存的使用",
-        "url": "https://www.infoq.cn/article/sw9Wgh5VPpzpuUmQvFo1?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/oemzispbwkep8ttkdutf",
+        "title": "从“开放模型”到“开放生态”，AI 开源进入下半场",
+        "url": "https://www.infoq.cn/article/oEMzispbWkEP8TtKdUtf?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-13T14:23:01.000Z",
+        "publishedAt": "2026-08-13T18:21:46.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1231,6 +1231,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3363929/ai-demand-drives-triple-digit-quarterly-profit-growth-chinese-foundries-smic-hua-hong",
+        "title": "AI demand drives triple-digit profit growth for Chinese chip foundries SMIC, Hua Hong",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3363929/ai-demand-drives-triple-digit-quarterly-profit-growth-chinese-foundries-smic-hua-hong?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-13T11:00:10.000Z",
+        "summary": "China’s top two contract chipmakers, Semiconductor Manufacturing International Corporation (SMIC) and Hua Hong Grace Semiconductor, saw their profits surge by triple digits in the second quarter, amid a spike in demand f",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "The Guardian China:www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
         "title": "China’s AI ecosystem is not as open as it claims. Nor is any other country’s | Letters",
