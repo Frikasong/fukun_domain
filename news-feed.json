@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T07:11:15.764Z",
+  "generatedAt": "2026-08-14T12:44:28.126Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/14/legal-innovators-new-york-spellbook-vera",
+        "title": "Legal Innovators New York, Spellbook, Vera +",
+        "url": "https://www.artificiallawyer.com/2026/08/14/legal-innovators-new-york-spellbook-vera/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-14T07:15:24.000Z",
+        "summary": "Welcome to this week’s Wrap. We start by announcing some of the great speakers appearing at the upcoming Legal Innovators New York conference on November ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/law&",
         "title": "Law students see more options for summer training programs",
@@ -264,16 +274,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-08-11T06:58:24.000Z",
         "summary": "Aloi has raised $7m in early funding to develop what it calls &#8216;organisational judgment&#8217;, in order to improve legal AI outcomes. (See in-depth AL interview ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/harbor-seeks-to-counter-general-llm-fdes",
-        "title": "Harbor Seeks To Counter General LLM FDEs",
-        "url": "https://www.artificiallawyer.com/2026/08/10/harbor-seeks-to-counter-general-llm-fdes/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-10T13:00:43.000Z",
-        "summary": "Legal tech consultancy Harbor has launched ‘Deploy’ for legal AI needs, which will see them ‘embed specialist teams, including forward-deployed engineers (FDE), inside clients’. They ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,16 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/gkodbzgi6rxgmn09piek",
-        "title": "“写代码从来都不是难点”，这是对全世界所有程序员的严重侮辱",
-        "url": "https://www.infoq.cn/article/gkOdbZGI6RXGmN09pIeK?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-14T14:55:20.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/5jaos4xarzjgb5sj2lxg",
         "title": "Zig 创始人直言，Bun 靠 Claude 生成的 Rust 重构版是“没人把关的烂代码”",
         "url": "https://www.infoq.cn/article/5JAOs4xARzjGb5sj2LxG?utm_source=rss&utm_medium=article",
@@ -1250,16 +1240,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/abck0czdtskmhbpxcdwf",
-        "title": "从“工具”到“同事”——AI 时代的产品进化",
-        "url": "https://www.infoq.cn/article/ABCk0CzDtSKMHbPXCdWF?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-14T14:37:37.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/xpfuaftcee3ilggzygzi",
         "title": "DeepSeek + Pi 王炸组合跑赢 Claude Code？Pi创始人：这套组合我早押中了",
         "url": "https://www.infoq.cn/article/XpFUaftcEE3iLgGzYGZi?utm_source=rss&utm_medium=article",
@@ -1280,26 +1260,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/4t8skmgi28bud345i2ta",
-        "title": "Rust 给 AI 编程立新规：能帮你看，不能替你写，用多了还会“熔断”",
-        "url": "https://www.infoq.cn/article/4t8SKMGI28buD345I2Ta?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-14T14:24:20.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/dxzigmlmi6bn4mwqyni2",
-        "title": "AI 正在重塑故障处理流程，但棘手问题仍需人类解决",
-        "url": "https://www.infoq.cn/article/dxzigmlmI6BN4MWqYNI2?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-14T13:54:40.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/uiz6ovab2ekt0t9q3nzp",
         "title": "涛思数据创始人&CEO陶建辉博士确认出席AICon深圳，将分享“大模型在工业场景落地的挑战与实践”",
         "url": "https://www.infoq.cn/article/Uiz6Ovab2eKT0T9q3Nzp?utm_source=rss&utm_medium=article",
@@ -1311,6 +1271,26 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3364077/zhipu-launches-flagship-model-glm-53-china-seeks-mythos-level-edge-cyber-defence",
+        "title": "Zhipu launches flagship model GLM-5.3 as China seeks Mythos-level edge in cyber defence",
+        "url": "https://www.scmp.com/tech/big-tech/article/3364077/zhipu-launches-flagship-model-glm-53-china-seeks-mythos-level-edge-cyber-defence?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-14T11:03:30.000Z",
+        "summary": "Chinese artificial intelligence firm Zhipu, also known as Z.ai, has unveiled its flagship GLM-5.3 model, saying it beat Anthropic’s frontier Mythos 5 model in a key cybersecurity test, as China races to counter Western a",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/opinion/world-opinion/article/3363818/just-yen-america-cannot-save-ai-bubble",
+        "title": "Just like with the yen, America cannot save the AI bubble",
+        "url": "https://www.scmp.com/opinion/world-opinion/article/3363818/just-yen-america-cannot-save-ai-bubble?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-14T08:30:07.000Z",
+        "summary": "In a rare intervention, the US has propped up the Japanese yen. The move is seen as a bid to hold off a further rise in yields for US government bonds – amid Japan’s sell-off of US Treasuries to fund its shoring up of th",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3363793/chinese-banks-test-repo-linked-corporate-loans-make-pricing-more-market-based",
         "title": "Chinese banks test repo-linked corporate loans for more market-based pricing",
