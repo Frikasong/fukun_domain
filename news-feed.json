@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T18:51:12.543Z",
+  "generatedAt": "2026-08-14T01:12:38.715Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -12,7 +12,7 @@
         "title": "Law students see more options for summer training programs",
         "url": "https://www.abajournal.com/news/article/law&#45;students&#45;see&#45;more&#45;options&#45;for&#45;summer&#45;training&#45;programs/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-08-13T18:30:00.000Z",
+        "publishedAt": "2026-08-13T18:28:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -78,26 +78,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/13/deepjudge-launches-agent-handoff-protocol-harvey-tr-adopt",
-        "title": "DeepJudge Launches Agent Handoff Protocol, Harvey + TR Adopt",
-        "url": "https://www.artificiallawyer.com/2026/08/13/deepjudge-launches-agent-handoff-protocol-harvey-tr-adopt/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-13T13:00:12.000Z",
-        "summary": "KM pioneer DeepJudge has launched an ‘Agent Handoff Protocol’ or AHP, which is an open system that ‘enables users to move between AI platforms without ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/13/anthropic-will-embed-watermarks-in-ai-outputs",
-        "title": "Anthropic Will Embed Watermarks in AI Outputs",
-        "url": "https://www.artificiallawyer.com/2026/08/13/anthropic-will-embed-watermarks-in-ai-outputs/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-13T11:32:36.000Z",
-        "summary": "By Donna Carpenter. This week, Anthropic announced that all of its Claude products released from 2 August 2026 onwards will now include machine readable marking ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/builders-guide-to-gpt-5-6",
         "title": "The builder’s guide to GPT‑5.6",
         "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
@@ -114,26 +94,6 @@
         "source": "OpenAI News",
         "publishedAt": "2026-08-13T10:00:00.000Z",
         "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/13/smartesq-grows-funds-skills-critiques-kirkland-ai-move",
-        "title": "SmartEsq Grows Funds Skills, Critiques Kirkland AI Move",
-        "url": "https://www.artificiallawyer.com/2026/08/13/smartesq-grows-funds-skills-critiques-kirkland-ai-move/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-13T08:21:15.000Z",
-        "summary": "New York-based SmartEsq has rolled out multiple new capabilities designed to help private funds teams manage the legal lifecycle ‘in one connected environment’. The company ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/13/neota-rolls-out-new-ai-governance-strategy",
-        "title": "Neota Rolls Out New AI Governance Strategy",
-        "url": "https://www.artificiallawyer.com/2026/08/13/neota-rolls-out-new-ai-governance-strategy/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-13T07:24:51.000Z",
-        "summary": "Neota Logic, which is now going to market as ‘the AI governance layer for legal teams’, has launched an AI orchestration capability which lets lawyers ...",
         "category": "updates",
         "region": "na"
       },
@@ -188,32 +148,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/12/relativity-develops-clair-conversational-ai-system",
-        "title": "Relativity Develops claiR Conversational AI System",
-        "url": "https://www.artificiallawyer.com/2026/08/12/relativity-develops-clair-conversational-ai-system/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-12T14:00:41.000Z",
-        "summary": "Relativity has announced that it has developed &#8216;claiR&#8217;, a conversational AI system, which taps customers&#8217; data already stored within RelativityOne – and can reason across ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/relativity-announces-clair-a-conversational-ai-for-lawyers-but-youll-have-to-wait-awhile-to-chat-with-it.html",
         "title": "Relativity Announces claiR, A Conversational AI for Lawyers, But You&#8217;ll Have to Wait Awhile to Chat with It",
         "url": "https://www.lawnext.com/2026/08/relativity-announces-clair-a-conversational-ai-for-lawyers-but-youll-have-to-wait-awhile-to-chat-with-it.html",
         "source": "LawSites",
         "publishedAt": "2026-08-12T14:00:12.000Z",
         "summary": "Relativity today announced Relativity claiR, a conversational AI interface that lets lawyers ask plain-language questions across an entire RelativityOne matter and get back answers with citations to the underlying record",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai",
-        "title": "The L Suite: Inhouse Community + Legal AI",
-        "url": "https://www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-12T06:41:51.000Z",
-        "summary": "This week’s special AL TV interview is with L Suite co-founders Greg Raiten and Kiran Lingam. We explore, among other topics, how this inhouse community ...",
         "category": "updates",
         "region": "na"
       },
@@ -228,52 +168,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/11/ivo-launches-collaborate-contract-lifecycle-platform",
-        "title": "Ivo Launches ‘Collaborate’ Contract Lifecycle Platform",
-        "url": "https://www.artificiallawyer.com/2026/08/11/ivo-launches-collaborate-contract-lifecycle-platform/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-11T13:00:03.000Z",
-        "summary": "Ivo has launched Collaborate, an ‘orchestration platform for the entire contract lifecycle’. It handles contracts from intake through to approval, negotiation and signature, they said. ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/ken-crutchfield-when-ai-models-become-commodities-what-open-weight-ai-could-mean-for-legaltech.html",
         "title": "Ken Crutchfield: When AI Models Become Commodities &#8212; What Open-Weight AI Could Mean For LegalTech",
         "url": "https://www.lawnext.com/2026/08/ken-crutchfield-when-ai-models-become-commodities-what-open-weight-ai-could-mean-for-legaltech.html",
         "source": "LawSites",
         "publishedAt": "2026-08-11T12:42:21.000Z",
         "summary": "We are rapidly approaching budget season and planning for contingencies in 2027. Perhaps open-weight models should be part of your fall planning. Last year, DeepSeek created a scare for the American AI industry when it c",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/11/scissero-mayer-brown-form-partnership-ceo-interview",
-        "title": "Scissero + Mayer Brown Form Partnership – CEO Interview",
-        "url": "https://www.artificiallawyer.com/2026/08/11/scissero-mayer-brown-form-partnership-ceo-interview/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-11T12:00:18.000Z",
-        "summary": "Legal AI pioneer Scissero and major US law firm Mayer Brown are partnering to provide an integrated issuance solution for structured products. This exclusive deal ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/11/aloi-raises-7m-for-organisational-judgment-ceo-interview",
-        "title": "Aloi Raises $7m For ‘Organisational Judgment’ + CEO Interview",
-        "url": "https://www.artificiallawyer.com/2026/08/11/aloi-raises-7m-for-organisational-judgment-ceo-interview/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-11T06:58:24.000Z",
-        "summary": "Aloi has raised $7m in early funding to develop what it calls &#8216;organisational judgment&#8217;, in order to improve legal AI outcomes. (See in-depth AL interview ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/10/harbor-seeks-to-counter-general-llm-fdes",
-        "title": "Harbor Seeks To Counter General LLM FDEs",
-        "url": "https://www.artificiallawyer.com/2026/08/10/harbor-seeks-to-counter-general-llm-fdes/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-10T13:00:43.000Z",
-        "summary": "Legal tech consultancy Harbor has launched ‘Deploy’ for legal AI needs, which will see them ‘embed specialist teams, including forward-deployed engineers (FDE), inside clients’. They ...",
         "category": "updates",
         "region": "na"
       },
@@ -1206,6 +1106,76 @@
         "summary": "Nearly half of in-house legal professionals say they would not detect an unauthorized or incorrect action taken by an AI agent until after it had already occurred — sometimes days or weeks later — according to new survey",
         "category": "articles",
         "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/05/ediscovery-ai-launches-casebot-a-conversational-ai-assistant-for-case-data.html",
+        "title": "eDiscovery AI Launches CaseBot, a Conversational AI Assistant for Case Data",
+        "url": "https://www.lawnext.com/2026/05/ediscovery-ai-launches-casebot-a-conversational-ai-assistant-for-case-data.html",
+        "source": "LawSites",
+        "publishedAt": "2026-05-11T13:15:11.000Z",
+        "summary": "eDiscovery AI, which was acquired in February by HaystackID, today announced the general availability of CaseBot, a conversational AI assistant that allows legal teams to interrogate case data in natural language and rec",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/gpt-5-cursor",
+        "title": "How Cursor uses GPT-5",
+        "url": "https://openai.com/index/gpt-5-cursor",
+        "source": "OpenAI News",
+        "publishedAt": "2025-08-07T00:00:00.000Z",
+        "summary": "Learn how Cursor uses GPT-5.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/color-health",
+        "title": "Using GPT-4o reasoning to transform cancer care",
+        "url": "https://openai.com/index/color-health",
+        "source": "OpenAI News",
+        "publishedAt": "2024-06-17T04:15:00.000Z",
+        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
@@ -1221,6 +1191,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3363793/chinese-banks-test-repo-linked-corporate-loans-make-pricing-more-market-based",
+        "title": "Chinese banks test repo-linked corporate loans to make pricing more market-based",
+        "url": "https://www.scmp.com/business/banking-finance/article/3363793/chinese-banks-test-repo-linked-corporate-loans-make-pricing-more-market-based?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-13T23:00:08.000Z",
+        "summary": "Chinese banks are rushing to test a new way of pricing corporate loans against short-term market funding costs, a move that analysts say could make borrowing rates more responsive to monetary conditions but also test len",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "The Guardian China:www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
         "title": "China’s AI ecosystem is not as open as it claims. Nor is any other country’s | Letters",
