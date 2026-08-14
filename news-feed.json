@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T12:44:28.126Z",
+  "generatedAt": "2026-08-14T18:41:42.022Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/goodwin&",
+        "title": "Goodwin Procter unveils AI-enhanced tool for venture capital funding",
+        "url": "https://www.abajournal.com/news/article/goodwin&#45;procter&#45;unveils&#45;ai&#45;enhanced&#45;tool&#45;for&#45;venture&#45;capital&#45;funding/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-14T18:31:00.000Z",
+        "summary": "",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/2&",
+        "title": "2 BigLaw partners retained for Taylor Farms, Taco Bell over contaminated lettuce lawsuits",
+        "url": "https://www.abajournal.com/news/article/2&#45;biglaw&#45;partners&#45;retained&#45;for&#45;taylor&#45;farms&#45;taco&#45;bell&#45;over&#45;contaminated&#45;lettuce&#45;lawsuits/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-14T16:41:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ca&",
+        "title": "California prisons failed to protect incarcerated women from sexual assault, new DOJ report says",
+        "url": "https://www.abajournal.com/news/article/ca&#45;prisons&#45;failed&#45;to&#45;protect&#45;women&#45;doj&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-14T16:19:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/multimillion&",
+        "title": "11 people indicted in &#8216;multimillion-dollar marriage fraud scheme&#8217;",
+        "url": "https://www.abajournal.com/news/article/multimillion&#45;dollar&#45;sham&#45;marriage&#45;scheme&#45;indicts&#45;11&#45;people&#45;in&#45;new&#45;york/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-14T15:48:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/personal&",
+        "title": "Personal injury firm at center of dispute over unauthorized sidewalk messages",
+        "url": "https://www.abajournal.com/news/article/personal&#45;injury&#45;firm&#45;at&#45;center&#45;of&#45;dispute&#45;over&#45;unauthorized&#45;sidewalk&#45;messages/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-14T14:36:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/14/legal-innovators-new-york-spellbook-vera",
         "title": "Legal Innovators New York, Spellbook, Vera +",
@@ -63,16 +113,6 @@
         "url": "https://www.abajournal.com/news/article/california&#45;supreme&#45;court&#45;orders&#45;electronic&#45;recording&#45;for&#45;indigent&#45;litigants/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-08-13T15:02:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/newly&",
-        "title": "Newly appointed Muslim judge in small Mississippi town draws social media attacks",
-        "url": "https://www.abajournal.com/news/article/newly&#45;appointed&#45;muslim&#45;judge&#45;in&#45;small&#45;mississippi&#45;town&#45;draws&#45;social&#45;media&#45;attacks/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-13T14:35:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -148,52 +188,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/wiped&",
-        "title": "Wiped Clean: Is resetting your phone after being stopped by Border Patrol agents a federal offense?",
-        "url": "https://www.abajournal.com/web/article/wiped&#45;clean/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-12T19:50:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/lawnext-lexisnexis-cto-greg-dickason-on-building-legal-ai-in-real-time-with-customers-in-its-new-innovation-lab.html",
         "title": "LawNext: LexisNexis CTO Greg Dickason On Building Legal AI In Real Time with Customers in Its New Innovation Lab",
         "url": "https://www.lawnext.com/2026/08/lawnext-lexisnexis-cto-greg-dickason-on-building-legal-ai-in-real-time-with-customers-in-its-new-innovation-lab.html",
         "source": "LawSites",
         "publishedAt": "2026-08-12T17:47:36.000Z",
         "summary": "This week, LexisNexis announced the opening of its Customer Innovation Lab in New York City — a physical space where legal professionals, LexisNexis engineers, and AI companies such as OpenAI and Amazon Web Services sit ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/colorado&",
-        "title": "Whistleblower’s suit against state judicial system dismissed",
-        "url": "https://www.abajournal.com/news/article/colorado&#45;whistleblowers&#45;suit&#45;against&#45;state&#45;judicial&#45;system&#45;dismissed/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-12T17:33:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/new&",
-        "title": "Judge in Luigi Mangione case speaks out about public access during proceedings",
-        "url": "https://www.abajournal.com/news/article/new&#45;york&#45;judge&#45;in&#45;luigi&#45;mangione&#45;case&#45;sets&#45;record&#45;straight&#45;over&#45;public&#45;access/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-12T17:14:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/top&",
-        "title": "Median LSAT score hits over 170 for these 17 law schools",
-        "url": "https://www.abajournal.com/news/article/top&#45;17&#45;law&#45;school&#45;median&#45;lsat&#45;score&#45;hits&#45;over&#45;170/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-12T15:18:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/55mbodvkkhgihyqfqkfg",
+        "title": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+        "url": "https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-15T00:19:32.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ywxm26hrwc9ysegz9lpp",
+        "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+        "url": "https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-14T23:41:55.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/5jaos4xarzjgb5sj2lxg",
         "title": "Zig 创始人直言，Bun 靠 Claude 生成的 Rust 重构版是“没人把关的烂代码”",
         "url": "https://www.infoq.cn/article/5JAOs4xARzjGb5sj2LxG?utm_source=rss&utm_medium=article",
@@ -1278,16 +1298,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-08-14T11:03:30.000Z",
         "summary": "Chinese artificial intelligence firm Zhipu, also known as Z.ai, has unveiled its flagship GLM-5.3 model, saying it beat Anthropic’s frontier Mythos 5 model in a key cybersecurity test, as China races to counter Western a",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/opinion/world-opinion/article/3363818/just-yen-america-cannot-save-ai-bubble",
-        "title": "Just like with the yen, America cannot save the AI bubble",
-        "url": "https://www.scmp.com/opinion/world-opinion/article/3363818/just-yen-america-cannot-save-ai-bubble?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-14T08:30:07.000Z",
-        "summary": "In a rare intervention, the US has propped up the Japanese yen. The move is seen as a bid to hold off a further rise in yields for US government bonds – amid Japan’s sell-off of US Treasuries to fund its shoring up of th",
         "category": "updates",
         "region": "cn_en"
       },
