@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T00:47:09.443Z",
+  "generatedAt": "2026-08-16T06:24:39.783Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/lflwiiivhrzlakxdgexc",
+        "title": "从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
+        "url": "https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-16T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/412hbbva0nf0ayp0cjzd",
         "title": "MCP 走向无状态，开发者追问：这不就又变回 API 了吗？",
         "url": "https://www.infoq.cn/article/412hbBva0NF0AYP0CjzD?utm_source=rss&utm_medium=article",
@@ -1288,19 +1298,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/uiz6ovab2ekt0t9q3nzp",
-        "title": "涛思数据创始人&CEO陶建辉博士确认出席AICon深圳，将分享“大模型在工业场景落地的挑战与实践”",
-        "url": "https://www.infoq.cn/article/Uiz6Ovab2eKT0T9q3Nzp?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-14T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent",
+        "title": "Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent",
+        "url": "https://www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-16T03:00:12.000Z",
+        "summary": "China’s southern manufacturing powerhouse of Guangdong province welcomed nearly 40 computer science students from Tsinghua University this week, part of a targeted push by local authorities to bridge a widening gap in Ch",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3364077/zhipu-launches-flagship-model-glm-53-china-seeks-mythos-level-edge-cyber-defence",
         "title": "Zhipu launches flagship model GLM-5.3 as China seeks Mythos-level edge in cyber defence",
