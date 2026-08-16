@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T06:24:39.783Z",
+  "generatedAt": "2026-08-16T12:21:21.507Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1301,6 +1301,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3364068/i-gave-tencents-wechat-ai-agent-control-24-hours-where-it-excelled-and-stumbled",
+        "title": "I gave Tencent’s WeChat AI agent control for 24 hours: where it excelled – and stumbled",
+        "url": "https://www.scmp.com/tech/big-tech/article/3364068/i-gave-tencents-wechat-ai-agent-control-24-hours-where-it-excelled-and-stumbled?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-16T08:00:08.000Z",
+        "summary": "Tencent Holdings’ WeChat is already the undisputed super-app for over a billion people in China, handling everything from splitting dinner bills to hailing taxis. Now, Tencent is embedding an artificial intelligence agen",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent",
         "title": "Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent",
