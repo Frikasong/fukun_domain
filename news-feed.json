@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T06:35:50.784Z",
+  "generatedAt": "2026-08-17T12:25:38.799Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/17/culture-still-eats-ai-for-breakfast-workday-survey",
+        "title": "Culture Still Eats AI For Breakfast &#8211; Workday Survey",
+        "url": "https://www.artificiallawyer.com/2026/08/17/culture-still-eats-ai-for-breakfast-workday-survey/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-17T10:15:21.000Z",
+        "summary": "A major survey by Workday of 7,000 lawyers and other enterprise staff across 10 countries has found that contract chaos persists, with only 37% of ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/17/claudes-watermarks-and-their-legal-sector-impact",
+        "title": "Claude’s Watermarks and their Legal Sector Impact",
+        "url": "https://www.artificiallawyer.com/2026/08/17/claudes-watermarks-and-their-legal-sector-impact/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-17T07:05:00.000Z",
+        "summary": "How will Claude’s watermarks work and how will they impact the legal world? Artificial Lawyer explores. Anthropic – and all other LLM makers operating within ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/goodwin&",
         "title": "Goodwin Procter unveils AI-enhanced tool for venture capital funding",
@@ -234,26 +254,6 @@
         "source": "LawSites",
         "publishedAt": "2026-08-11T12:42:21.000Z",
         "summary": "We are rapidly approaching budget season and planning for contingencies in 2027. Perhaps open-weight models should be part of your fall planning. Last year, DeepSeek created a scare for the American AI industry when it c",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/11/scissero-mayer-brown-form-partnership-ceo-interview",
-        "title": "Scissero + Mayer Brown Form Partnership – CEO Interview",
-        "url": "https://www.artificiallawyer.com/2026/08/11/scissero-mayer-brown-form-partnership-ceo-interview/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-11T12:00:18.000Z",
-        "summary": "Legal AI pioneer Scissero and major US law firm Mayer Brown are partnering to provide an integrated issuance solution for structured products. This exclusive deal ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/11/aloi-raises-7m-for-organisational-judgment-ceo-interview",
-        "title": "Aloi Raises $7m For ‘Organisational Judgment’ + CEO Interview",
-        "url": "https://www.artificiallawyer.com/2026/08/11/aloi-raises-7m-for-organisational-judgment-ceo-interview/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-11T06:58:24.000Z",
-        "summary": "Aloi has raised $7m in early funding to develop what it calls &#8216;organisational judgment&#8217;, in order to improve legal AI outcomes. (See in-depth AL interview ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,41 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/fedxcebcno8denqbgnz0",
-        "title": "当操作系统开始“理解意图”：鸿蒙 AI 如何改变开发者的工作方式",
-        "url": "https://www.infoq.cn/article/FEdxCeBCNO8DENqbGNZ0?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/0mlcgopxzziltxb8cork",
+        "title": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+        "url": "https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-17T13:58:32.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/urrl1wxppsqqd1a9hn5f",
-        "title": "Vibe check：你的AI产品真的能落地吗",
-        "url": "https://www.infoq.cn/article/urRl1WXpPSQQd1A9hN5f?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-17T12:14:27.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vifwzzk2b2ifeigxastc",
-        "title": "调用成功不等于判断正确：KDC 的行动治理主张",
-        "url": "https://www.infoq.cn/article/ViFwzzK2B2ifEIgXaSTC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-17T12:05:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/6xg6wlbuuqjpdrrf8r7i",
-        "title": "Instacart 推出 Blueberry AI 助手，帮助值班工程师处理线上故障",
-        "url": "https://www.infoq.cn/article/6xG6wLBUuqjPdRrf8r7I?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-17T12:01:55.000Z",
+        "publishedAt": "2026-08-17T18:47:40.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1278,39 +1248,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/412hbbva0nf0ayp0cjzd",
-        "title": "MCP 走向无状态，开发者追问：这不就又变回 API 了吗？",
-        "url": "https://www.infoq.cn/article/412hbBva0NF0AYP0CjzD?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-16T08:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ogbviicigja8tase0lwi",
-        "title": "面向多模态推理的高效长上下文建模｜AICon深圳",
-        "url": "https://www.infoq.cn/article/OgbViICigja8tasE0lwi?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-15T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ywxm26hrwc9ysegz9lpp",
-        "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
-        "url": "https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-14T23:41:55.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand",
+        "title": "China’s self-driving push gains ground in Europe as Momenta, Pony.ai expand",
+        "url": "https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-17T07:00:11.000Z",
+        "summary": "China’s autonomous-driving ambitions are winning growing recognition in Europe, with Deutsche Bank raising its target price for Momenta following a key regulatory breakthrough, and Pony.ai expanding its European robotaxi",
+        "category": "articles",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3364068/i-gave-tencents-wechat-ai-agent-control-24-hours-where-it-excelled-and-stumbled",
         "title": "I gave Tencent’s WeChat AI agent control for 24 hours: where it excelled – and stumbled",
