@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T00:45:00.072Z",
+  "generatedAt": "2026-08-17T06:35:50.784Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,66 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/fedxcebcno8denqbgnz0",
+        "title": "当操作系统开始“理解意图”：鸿蒙 AI 如何改变开发者的工作方式",
+        "url": "https://www.infoq.cn/article/FEdxCeBCNO8DENqbGNZ0?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-17T13:58:32.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/urrl1wxppsqqd1a9hn5f",
+        "title": "Vibe check：你的AI产品真的能落地吗",
+        "url": "https://www.infoq.cn/article/urRl1WXpPSQQd1A9hN5f?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-17T12:14:27.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vifwzzk2b2ifeigxastc",
+        "title": "调用成功不等于判断正确：KDC 的行动治理主张",
+        "url": "https://www.infoq.cn/article/ViFwzzK2B2ifEIgXaSTC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-17T12:05:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/6xg6wlbuuqjpdrrf8r7i",
+        "title": "Instacart 推出 Blueberry AI 助手，帮助值班工程师处理线上故障",
+        "url": "https://www.infoq.cn/article/6xG6wLBUuqjPdRrf8r7I?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-17T12:01:55.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/j9zi9lelcpxfre23phdy",
+        "title": "Netflix详述其基于Triton与vLLM的内部LLM服务平台",
+        "url": "https://www.infoq.cn/article/J9Zi9LELcpxFRe23PHdY?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-17T09:56:24.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/xwywwu4znptlhpb15tia",
+        "title": "编程能力提高50%！GLM-5.3 满分通过了GPT-5.6给的Coding 测试",
+        "url": "https://www.infoq.cn/article/xWyWwu4ZNptlhpb15tia?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-17T09:44:16.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/lflwiiivhrzlakxdgexc",
         "title": "从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
         "url": "https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&utm_medium=article",
@@ -1245,56 +1305,6 @@
         "url": "https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-08-14T23:41:55.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/5jaos4xarzjgb5sj2lxg",
-        "title": "Zig 创始人直言，Bun 靠 Claude 生成的 Rust 重构版是“没人把关的烂代码”",
-        "url": "https://www.infoq.cn/article/5JAOs4xARzjGb5sj2LxG?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-14T14:54:05.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/avjlp0xapukyu6cnlokl",
-        "title": "Claude Code没有“魔法”",
-        "url": "https://www.infoq.cn/article/aVJlp0XApUkyu6CNLOkL?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-14T14:44:32.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/de9aljwc4ejw2kayw8dd",
-        "title": "DeepSeek 把 Harness 开源了：模型、工具、Agent Loop 全是插件",
-        "url": "https://www.infoq.cn/article/de9AljWc4ejW2KAyW8dD?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-14T14:38:24.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/xpfuaftcee3ilggzygzi",
-        "title": "DeepSeek + Pi 王炸组合跑赢 Claude Code？Pi创始人：这套组合我早押中了",
-        "url": "https://www.infoq.cn/article/XpFUaftcEE3iLgGzYGZi?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-14T14:34:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ydy2qdiazq1l314uh4qc",
-        "title": "从“会用”到“驾驭”：AI Coding 进入生产环境的真实碰撞",
-        "url": "https://www.infoq.cn/article/ydy2QDIAzQ1L314UH4qc?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-14T14:28:52.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
