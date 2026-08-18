@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T00:43:44.263Z",
+  "generatedAt": "2026-08-18T06:27:38.565Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -29,7 +29,7 @@
       },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/big&",
-        "title": "Big Law firms are building up their national security practices to meet market demands",
+        "title": "BigLaw firms are building up their national security practices to meet market demands",
         "url": "https://www.abajournal.com/news/article/big&#45;law&#45;firms&#45;are&#45;building&#45;up&#45;their&#45;national&#45;security&#45;practices&#45;to&#45;meet&#45;market&#45;demands/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-08-17T13:50:00.000Z",
@@ -1210,31 +1210,31 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/j9zi9lelcpxfre23phdy",
-        "title": "Netflix详述其基于Triton与vLLM的内部LLM服务平台",
-        "url": "https://www.infoq.cn/article/J9Zi9LELcpxFRe23PHdY?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/lhpgjmverysthz0kkig4",
+        "title": "Stripe 利用 Graph Search 和状态机实现数据库修复自动化",
+        "url": "https://www.infoq.cn/article/lHpgJMVERySthZ0KKIg4?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-17T09:56:24.000Z",
+        "publishedAt": "2026-08-18T14:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/xwywwu4znptlhpb15tia",
-        "title": "编程能力提高50%！GLM-5.3 满分通过了GPT-5.6给的Coding 测试",
-        "url": "https://www.infoq.cn/article/xWyWwu4ZNptlhpb15tia?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/gc7cu8lbymha1qpmvqp7",
+        "title": "世界人工智能开源大赛（GOAI）初赛评审正式启动，全球AI创新项目进入首轮遴选",
+        "url": "https://www.infoq.cn/article/gC7CU8lbYmha1QPMvqP7?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-17T09:44:16.000Z",
+        "publishedAt": "2026-08-18T13:22:04.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/lflwiiivhrzlakxdgexc",
-        "title": "从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
-        "url": "https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/1ep0hwuqrzccrwarr7gj",
+        "title": "DeepSeek Harness 怎么入门？这套极简教程用一个项目给你讲清楚",
+        "url": "https://www.infoq.cn/article/1EP0hwuqRzccrWArR7GJ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-16T10:00:00.000Z",
+        "publishedAt": "2026-08-18T12:43:32.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
