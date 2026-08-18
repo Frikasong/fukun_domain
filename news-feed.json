@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T06:27:38.565Z",
+  "generatedAt": "2026-08-18T12:27:42.293Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/18/inhouse-embraces-aiand-does-little-with-it",
+        "title": "Inhouse Embraces AI…And Does Little With It",
+        "url": "https://www.artificiallawyer.com/2026/08/18/inhouse-embraces-aiand-does-little-with-it/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-18T08:29:51.000Z",
+        "summary": "A new survey by LegalOn has found empirical data that supports what Artificial Lawyer is hearing on the legal tech street, namely that while inhouse ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/18/lexisnexis-picks-document-drafter-for-automated-docs",
+        "title": "LexisNexis Picks Document Drafter for Automated Docs",
+        "url": "https://www.artificiallawyer.com/2026/08/18/lexisnexis-picks-document-drafter-for-automated-docs/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-18T07:46:41.000Z",
+        "summary": "LexisNexis has selected Denmark-based Document Drafter to deliver its automated documents to customers globally after an evaluation of multiple platforms. The startup also built a ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/18/speed-without-structure-what-legal-ai-is-really-exposing",
+        "title": "Speed Without Structure: What Legal AI Is Really Exposing",
+        "url": "https://www.artificiallawyer.com/2026/08/18/speed-without-structure-what-legal-ai-is-really-exposing/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-18T06:42:01.000Z",
+        "summary": "By Dan Hoadley, Clio. AI is speeding up legal work in increasingly visible and practical ways. Drafting cycles are compressing. Legal research that once took ...",
+        "category": "articles",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/bad&",
         "title": "Bad Bunny’s ‘Frankenstein’ rhythm defense in copyright case creates ‘nightmare’ for judge",
@@ -218,32 +248,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/12/relativity-develops-clair-conversational-ai-system",
-        "title": "Relativity Develops claiR Conversational AI System",
-        "url": "https://www.artificiallawyer.com/2026/08/12/relativity-develops-clair-conversational-ai-system/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-12T14:00:41.000Z",
-        "summary": "Relativity has announced that it has developed &#8216;claiR&#8217;, a conversational AI system, which taps customers&#8217; data already stored within RelativityOne – and can reason across ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/relativity-announces-clair-a-conversational-ai-for-lawyers-but-youll-have-to-wait-awhile-to-chat-with-it.html",
         "title": "Relativity Announces claiR, A Conversational AI for Lawyers, But You&#8217;ll Have to Wait Awhile to Chat with It",
         "url": "https://www.lawnext.com/2026/08/relativity-announces-clair-a-conversational-ai-for-lawyers-but-youll-have-to-wait-awhile-to-chat-with-it.html",
         "source": "LawSites",
         "publishedAt": "2026-08-12T14:00:12.000Z",
         "summary": "Relativity today announced Relativity claiR, a conversational AI interface that lets lawyers ask plain-language questions across an entire RelativityOne matter and get back answers with citations to the underlying record",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai",
-        "title": "The L Suite: Inhouse Community + Legal AI",
-        "url": "https://www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-12T06:41:51.000Z",
-        "summary": "This week’s special AL TV interview is with L Suite co-founders Greg Raiten and Kiran Lingam. We explore, among other topics, how this inhouse community ...",
         "category": "updates",
         "region": "na"
       },
@@ -255,16 +265,6 @@
         "publishedAt": "2026-08-11T17:00:13.000Z",
         "summary": "For ambitious software startups, winning a new customer is only the beginning. The next challenge is getting that customer fully operational before delays, technical complications, or a difficult data migration undermine",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/11/ivo-launches-collaborate-contract-lifecycle-platform",
-        "title": "Ivo Launches ‘Collaborate’ Contract Lifecycle Platform",
-        "url": "https://www.artificiallawyer.com/2026/08/11/ivo-launches-collaborate-contract-lifecycle-platform/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-11T13:00:03.000Z",
-        "summary": "Ivo has launched Collaborate, an ‘orchestration platform for the entire contract lifecycle’. It handles contracts from intake through to approval, negotiation and signature, they said. ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1210,11 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/lhpgjmverysthz0kkig4",
-        "title": "Stripe 利用 Graph Search 和状态机实现数据库修复自动化",
-        "url": "https://www.infoq.cn/article/lHpgJMVERySthZ0KKIg4?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/kjk3qg9m7ueytf7sicgu",
+        "title": "豆包视频通话升级，火山引擎多模态传输系统提供技术支撑",
+        "url": "https://www.infoq.cn/article/kJK3qG9m7UEYtf7siCgU?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-18T14:00:00.000Z",
+        "publishedAt": "2026-08-18T14:46:57.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1278,16 +1278,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-08-16T03:00:12.000Z",
         "summary": "China’s southern manufacturing powerhouse of Guangdong province welcomed nearly 40 computer science students from Tsinghua University this week, part of a targeted push by local authorities to bridge a widening gap in Ch",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3363793/chinese-banks-test-repo-linked-corporate-loans-make-pricing-more-market-based",
-        "title": "Chinese banks test repo-linked corporate loans for more market-based pricing",
-        "url": "https://www.scmp.com/business/banking-finance/article/3363793/chinese-banks-test-repo-linked-corporate-loans-make-pricing-more-market-based?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-13T23:00:08.000Z",
-        "summary": "Chinese banks are rushing to test a new way of pricing corporate loans against short-term market funding costs, a move that analysts say could make borrowing rates more responsive to monetary conditions but also test len",
         "category": "updates",
         "region": "cn_en"
       }
