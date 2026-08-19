@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T00:44:01.034Z",
+  "generatedAt": "2026-08-19T06:28:22.776Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,16 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/8grno7ecm3rly0nv8bcs",
+        "title": "Valhalla 项目首次预览：JEP 401 重新定义 Java 对象的 == 运算符",
+        "url": "https://www.infoq.cn/article/8grNo7eCm3Rly0NV8bcS?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-19T12:25:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/kjk3qg9m7ueytf7sicgu",
         "title": "豆包视频通话升级，火山引擎多模态传输系统提供技术支撑",
