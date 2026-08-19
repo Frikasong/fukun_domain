@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T06:28:22.776Z",
+  "generatedAt": "2026-08-19T12:27:19.256Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/19/harvey-picks-deepl-for-legal-translation",
+        "title": "Harvey Picks DeepL For Legal Translation",
+        "url": "https://www.artificiallawyer.com/2026/08/19/harvey-picks-deepl-for-legal-translation/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-19T12:03:58.000Z",
+        "summary": "Harvey has selected DeepL for legal translation needs. Its AI-driven document translation capability will now work directly inside the Harvey platform via an integration. DeepL ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/19/zach-richards-excellent-legal-ai-adventure-5",
+        "title": "Zach + Richard&#8217;s Excellent Legal AI Adventure",
+        "url": "https://www.artificiallawyer.com/2026/08/19/zach-richards-excellent-legal-ai-adventure-5/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-19T11:19:41.000Z",
+        "summary": "Welcome to the latest episode of Zach and Richard&#8217;s Excellent Legal AI Adventure – where we focus on a range of hot topics, from why ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/19/why-general-ai-alone-is-not-enough-for-legal-work",
+        "title": "Why General AI Alone Is Not Enough for Legal Work",
+        "url": "https://www.artificiallawyer.com/2026/08/19/why-general-ai-alone-is-not-enough-for-legal-work/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-19T07:35:30.000Z",
+        "summary": "By Senne Mennes, LawVu. Few terms in legal technology have become as overused as ‘AI-powered.’ Not to mention over-hyped. Today, virtually every legal tech vendor ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/19/elevate-buys-lupl-in-software-business-expansion",
+        "title": "Elevate Buys Lupl in Software Business Expansion",
+        "url": "https://www.artificiallawyer.com/2026/08/19/elevate-buys-lupl-in-software-business-expansion/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-19T07:00:49.000Z",
+        "summary": "Elevate has bought Lupl, the legal project management platform backed by CMS, Cooley, and Rajah &#38; Tann Asia. It’s the latest in a series of ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/will&",
         "title": "Will Missouri Supreme Court drop pass score for July bar exam?",
@@ -188,36 +228,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/17/culture-still-eats-ai-for-breakfast-workday-survey",
-        "title": "Culture Still Eats AI For Breakfast &#8211; Workday Survey",
-        "url": "https://www.artificiallawyer.com/2026/08/17/culture-still-eats-ai-for-breakfast-workday-survey/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-17T10:15:21.000Z",
-        "summary": "A major survey by Workday of 7,000 lawyers and other enterprise staff across 10 countries has found that contract chaos persists, with only 37% of ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/17/claudes-watermarks-and-their-legal-sector-impact",
-        "title": "Claude’s Watermarks and their Legal Sector Impact",
-        "url": "https://www.artificiallawyer.com/2026/08/17/claudes-watermarks-and-their-legal-sector-impact/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-17T07:05:00.000Z",
-        "summary": "How will Claude’s watermarks work and how will they impact the legal world? Artificial Lawyer explores. Anthropic – and all other LLM makers operating within ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/14/legal-innovators-new-york-spellbook-vera",
-        "title": "Legal Innovators New York, Spellbook, Vera +",
-        "url": "https://www.artificiallawyer.com/2026/08/14/legal-innovators-new-york-spellbook-vera/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-14T07:15:24.000Z",
-        "summary": "Welcome to this week’s Wrap. We start by announcing some of the great speakers appearing at the upcoming Legal Innovators New York conference on November ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/deepjudge-releases-an-open-protocol-for-passing-users-and-their-context-between-ai-products-with-harvey-and-thomson-reuters-on-board.html",
         "title": "DeepJudge Releases an Open Protocol for Passing Users – and Their Context – Between AI Products, with Harvey and Thomson Reuters On Board",
         "url": "https://www.lawnext.com/2026/08/deepjudge-releases-an-open-protocol-for-passing-users-and-their-context-between-ai-products-with-harvey-and-thomson-reuters-on-board.html",
@@ -225,16 +235,6 @@
         "publishedAt": "2026-08-13T13:00:21.000Z",
         "summary": "DeepJudge, the Zurich-based enterprise search company that describes itself as the institutional intelligence platform for legal AI, today introduced the Agent Handoff Protocol, an open protocol designed to let users mov",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/13/deepjudge-launches-agent-handoff-protocol-harvey-tr-adopt",
-        "title": "DeepJudge Launches Agent Handoff Protocol, Harvey + TR Adopt",
-        "url": "https://www.artificiallawyer.com/2026/08/13/deepjudge-launches-agent-handoff-protocol-harvey-tr-adopt/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-13T13:00:12.000Z",
-        "summary": "KM pioneer DeepJudge has launched an ‘Agent Handoff Protocol’ or AHP, which is an open system that ‘enables users to move between AI platforms without ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,11 +1210,31 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/8grno7ecm3rly0nv8bcs",
-        "title": "Valhalla 项目首次预览：JEP 401 重新定义 Java 对象的 == 运算符",
-        "url": "https://www.infoq.cn/article/8grNo7eCm3Rly0NV8bcS?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ae1kpz9eijd2v4dcq0au",
+        "title": "中国“机器人第一股”来了，宇树科技开盘暴涨 620%",
+        "url": "https://www.infoq.cn/article/Ae1KpZ9eIJD2V4DcQ0Au?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-19T12:25:00.000Z",
+        "publishedAt": "2026-08-19T20:19:24.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/blff9zugrzpqj5qbsbjd",
+        "title": "OpenAI 因安全问题突然停训GPT-6！网友：当你造出一个神，就不可能再给它拴上绳子",
+        "url": "https://www.infoq.cn/article/BLfF9zUGrzpqJ5QbSBJD?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-19T20:14:12.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/7g2xadmzvapd9x8liay5",
+        "title": "CPU 迎来高光时刻：解读 Arm 在超大规模云计算市场增长背后的逻辑",
+        "url": "https://www.infoq.cn/article/7G2xADmzVapd9x8lIaY5?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-19T20:10:24.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1238,19 +1258,29 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/1ep0hwuqrzccrwarr7gj",
-        "title": "DeepSeek Harness 怎么入门？这套极简教程用一个项目给你讲清楚",
-        "url": "https://www.infoq.cn/article/1EP0hwuqRzccrWArR7GJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-18T12:43:32.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/markets/article/3364550/china-fund-managers-stick-ai-chips-august-despite-july-sell-survey-finds",
+        "title": "China fund managers stick with AI, chips in August despite July sell-off, survey finds",
+        "url": "https://www.scmp.com/business/markets/article/3364550/china-fund-managers-stick-ai-chips-august-despite-july-sell-survey-finds?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-19T08:13:55.000Z",
+        "summary": "Despite July’s sharp sell-off in global semiconductor shares, driven by concerns over AI-linked profitability, artificial intelligence and chips remained China’s most preferred investment themes in August, while more inv",
+        "category": "articles",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3364522/chinese-robotaxi-firms-see-eased-regulatory-bottleneck-europe-deployment-picks",
+        "title": "Chinese robotaxi firms see eased regulatory bottleneck in Europe as deployment picks up",
+        "url": "https://www.scmp.com/business/china-business/article/3364522/chinese-robotaxi-firms-see-eased-regulatory-bottleneck-europe-deployment-picks?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-19T06:39:59.000Z",
+        "summary": "The business environment for Chinese robotaxi operators in Europe has become more open over the past year, which would help Chinese firms to commercialise their self-driving technology worldwide, according to Pony AI fou",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/presented/business/banking-finance/topics/c-suite-content-hub/article/3363978/banking-connectivity-fragmented-world",
         "title": "Banking on Connectivity in a Fragmented World",
