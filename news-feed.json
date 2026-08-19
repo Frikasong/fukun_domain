@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T12:27:19.256Z",
+  "generatedAt": "2026-08-19T18:20:48.490Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/less&",
+        "title": "Less &#8216;Mayhem&#8217; for Lady Gaga as judge dismisses infringement lawsuit",
+        "url": "https://www.abajournal.com/news/article/less&#45;mayhem&#45;for&#45;lady&#45;gaga&#45;as&#45;judge&#45;dismisses&#45;infringement&#45;lawsuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-19T17:37:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/stock&",
+        "title": "Stock awards reshape rankings of top-paid female general counsels",
+        "url": "https://www.abajournal.com/news/article/stock&#45;awards&#45;reshaping&#45;the&#45;rankings&#45;of&#45;top&#45;paid&#45;female&#45;gc/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-19T16:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/seventh&",
+        "title": "7th Circuit sides with Planned Parenthood over sharing abortion information with minors",
+        "url": "https://www.abajournal.com/news/article/seventh&#45;circuit&#45;sides&#45;with&#45;planned&#45;parenthood&#45;over&#45;sharing&#45;abortion&#45;information&#45;with&#45;minors/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-19T14:47:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ny&",
+        "title": "Judge tosses Uber suits against 3 personal injury firms",
+        "url": "https://www.abajournal.com/news/article/ny&#45;judge&#45;tosses&#45;uber&#45;suits&#45;against&#45;personal&#45;injury&#45;firms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-19T14:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/19/harvey-picks-deepl-for-legal-translation",
         "title": "Harvey Picks DeepL For Legal Translation",
@@ -45,6 +85,16 @@
         "publishedAt": "2026-08-19T07:00:49.000Z",
         "summary": "Elevate has bought Lupl, the legal project management platform backed by CMS, Cooley, and Rajah &#38; Tann Asia. It’s the latest in a series of ...",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/replit",
+        "title": "Replit expands access to software creation with GPT-5.6 Luna",
+        "url": "https://openai.com/index/replit",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-19T07:00:00.000Z",
+        "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -128,42 +178,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/big&",
-        "title": "BigLaw firms see uptick in demand, expenses, new report shows",
-        "url": "https://www.abajournal.com/news/article/big&#45;law&#45;firms&#45;see&#45;uptick&#45;in&#45;both&#45;demand&#45;and&#45;expenses&#45;new&#45;report&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-18T15:18:00.000Z",
-        "summary": "",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/indiana&",
-        "title": "Judge pleads guilty, swiftly takes responsibility for driving while intoxicated",
-        "url": "https://www.abajournal.com/news/article/indiana&#45;judge&#45;swiftly&#45;takes&#45;responsibility&#45;for&#45;driving&#45;while&#45;intoxicated/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-18T14:52:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/18/next-gen-harvey-ii-launches-with-memory-at-its-core",
         "title": "Next Gen ‘Harvey II’ Launches with Memory at Its Core",
         "url": "https://www.artificiallawyer.com/2026/08/18/next-gen-harvey-ii-launches-with-memory-at-its-core/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-08-18T14:31:35.000Z",
         "summary": "Harvey is launching the next generation of the legal AI platform with its Memory capability at its core, alongside preference setting, context sharing, and learning ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/revamped&",
-        "title": "Revamped Harvey AI platform remembers lawyers’ &#8216;individual preferences’",
-        "url": "https://www.abajournal.com/web/article/revamped&#45;harvey&#45;ai&#45;platform&#45;remembers&#45;lawyers&#45;individual&#45;preferences/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-18T14:30:00.000Z",
-        "summary": "",
         "category": "tools",
         "region": "na"
       },
@@ -1186,55 +1206,15 @@
         "summary": "Law firms sell experience — but for decades, harnessing and operationalizing that experience has been a largely manual, chaotic process. In this episode, recorded live at the Legal Marketing Association annual conference",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/gpt-5-cursor",
-        "title": "How Cursor uses GPT-5",
-        "url": "https://openai.com/index/gpt-5-cursor",
-        "source": "OpenAI News",
-        "publishedAt": "2025-08-07T00:00:00.000Z",
-        "summary": "Learn how Cursor uses GPT-5.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ae1kpz9eijd2v4dcq0au",
-        "title": "中国“机器人第一股”来了，宇树科技开盘暴涨 620%",
-        "url": "https://www.infoq.cn/article/Ae1KpZ9eIJD2V4DcQ0Au?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-19T20:19:24.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/blff9zugrzpqj5qbsbjd",
         "title": "OpenAI 因安全问题突然停训GPT-6！网友：当你造出一个神，就不可能再给它拴上绳子",
         "url": "https://www.infoq.cn/article/BLfF9zUGrzpqJ5QbSBJD?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-08-19T20:14:12.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/7g2xadmzvapd9x8liay5",
-        "title": "CPU 迎来高光时刻：解读 Arm 在超大规模云计算市场增长背后的逻辑",
-        "url": "https://www.infoq.cn/article/7G2xADmzVapd9x8lIaY5?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-19T20:10:24.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1248,27 +1228,17 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/gc7cu8lbymha1qpmvqp7",
-        "title": "世界人工智能开源大赛（GOAI）初赛评审正式启动，全球AI创新项目进入首轮遴选",
-        "url": "https://www.infoq.cn/article/gC7CU8lbYmha1QPMvqP7?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-18T13:22:04.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/markets/article/3364550/china-fund-managers-stick-ai-chips-august-despite-july-sell-survey-finds",
-        "title": "China fund managers stick with AI, chips in August despite July sell-off, survey finds",
-        "url": "https://www.scmp.com/business/markets/article/3364550/china-fund-managers-stick-ai-chips-august-despite-july-sell-survey-finds?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/blockchain/article/3364593/shanghai-lays-out-plan-boost-digital-economy-catch-beijing-shenzhen",
+        "title": "Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen",
+        "url": "https://www.scmp.com/tech/blockchain/article/3364593/shanghai-lays-out-plan-boost-digital-economy-catch-beijing-shenzhen?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-08-19T08:13:55.000Z",
-        "summary": "Despite July’s sharp sell-off in global semiconductor shares, driven by concerns over AI-linked profitability, artificial intelligence and chips remained China’s most preferred investment themes in August, while more inv",
-        "category": "articles",
+        "publishedAt": "2026-08-19T13:30:09.000Z",
+        "summary": "Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and",
+        "category": "updates",
         "region": "cn_en"
       },
       {
