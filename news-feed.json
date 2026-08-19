@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T18:24:24.814Z",
+  "generatedAt": "2026-08-19T00:44:01.034Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/will&",
+        "title": "Will Missouri Supreme Court drop pass score for July bar exam?",
+        "url": "https://www.abajournal.com/web/article/will&#45;missouri&#45;supreme&#45;court&#45;drop&#45;pass&#45;score&#45;for&#45;july&#45;bar&#45;exam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-18T20:11:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/bad&",
+        "title": "Bad PR Day? Federal judges can run some businesses but probably not a public relations firm, ethics experts say",
+        "url": "https://www.abajournal.com/web/article/bad&#45;pr&#45;day/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-18T19:22:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/gc&",
         "title": "General counsel pay hit record high in 2025",
@@ -145,16 +165,6 @@
         "publishedAt": "2026-08-18T06:42:01.000Z",
         "summary": "By Dan Hoadley, Clio. AI is speeding up legal work in increasingly visible and practical ways. Drafting cycles are compressing. Legal research that once took ...",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/bad&",
-        "title": "Bad Bunny’s ‘Frankenstein’ rhythm defense in copyright case creates ‘nightmare’ for judge",
-        "url": "https://www.abajournal.com/news/article/bad&#45;bunnys&#45;frankenstein&#45;rhythm&#45;defense&#45;in&#45;copyright&#45;case&#45;creates&#45;nightmare&#45;for&#45;judge/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-17T17:15:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1194,16 +1204,6 @@
         "source": "OpenAI News",
         "publishedAt": "2024-06-17T04:15:00.000Z",
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
       }
