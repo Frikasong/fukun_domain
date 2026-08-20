@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T06:30:36.089Z",
+  "generatedAt": "2026-08-20T12:29:47.363Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/20/netdocuments-goes-after-ma-due-diligence",
+        "title": "NetDocuments Goes After M&#038;A Due Diligence",
+        "url": "https://www.artificiallawyer.com/2026/08/20/netdocuments-goes-after-ma-due-diligence/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-20T12:25:47.000Z",
+        "summary": "NetDocuments is now making it clear to the market that it absolutely isn’t ‘just a DMS’ any longer. Its latest foray into the wider world ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/20/avvoka-partners-with-harvey-launches-curate-for-templates",
+        "title": "Avvoka Partners With Harvey, Launches Curate For Templates",
+        "url": "https://www.artificiallawyer.com/2026/08/20/avvoka-partners-with-harvey-launches-curate-for-templates/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-20T09:04:58.000Z",
+        "summary": "Avvoka, the drafting automation platform, has formed a partnership with Harvey, and it’s also just launched ‘Curate’, which ‘turns a law firm&#8217;s transaction documents into ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/20/a-lawyer-for-ai-agents",
+        "title": "A Lawyer for AI Agents",
+        "url": "https://www.artificiallawyer.com/2026/08/20/a-lawyer-for-ai-agents/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-20T07:30:54.000Z",
+        "summary": "By Damien Charlotin, Yourhuman.ai There are scores of AI lawyers for humans. I want to make the case for a human lawyer for AI. In ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/08/law-practice-management-company-smokeball-unveils-new-global-brand-built-around-powering-people-law.html",
         "title": "Law Practice Management Company Smokeball Unveils New Global Brand Built Around &#8216;Powering People-Law&#8217;",
@@ -195,36 +225,6 @@
         "publishedAt": "2026-08-18T13:00:59.000Z",
         "summary": "KM pioneer DeepJudge and Legora have formed a bidirectional partnership. A spokesperson told this site: ‘It’s a deep level of engagement. The Agent Handoff Protocol ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/18/inhouse-embraces-aiand-does-little-with-it",
-        "title": "Inhouse Embraces AI…And Does Little With It",
-        "url": "https://www.artificiallawyer.com/2026/08/18/inhouse-embraces-aiand-does-little-with-it/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-18T08:29:51.000Z",
-        "summary": "A new survey by LegalOn has found empirical data that supports what Artificial Lawyer is hearing on the legal tech street, namely that while inhouse ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/18/lexisnexis-picks-document-drafter-for-automated-docs",
-        "title": "LexisNexis Picks Document Drafter for Automated Docs",
-        "url": "https://www.artificiallawyer.com/2026/08/18/lexisnexis-picks-document-drafter-for-automated-docs/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-18T07:46:41.000Z",
-        "summary": "LexisNexis has selected Denmark-based Document Drafter to deliver its automated documents to customers globally after an evaluation of multiple platforms. The startup also built a ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/18/speed-without-structure-what-legal-ai-is-really-exposing",
-        "title": "Speed Without Structure: What Legal AI Is Really Exposing",
-        "url": "https://www.artificiallawyer.com/2026/08/18/speed-without-structure-what-legal-ai-is-really-exposing/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-18T06:42:01.000Z",
-        "summary": "By Dan Hoadley, Clio. AI is speeding up legal work in increasingly visible and practical ways. Drafting cycles are compressing. Legal research that once took ...",
-        "category": "articles",
         "region": "na"
       },
       {
@@ -1210,11 +1210,21 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/d5mwbgzxb2l2vrto8wfu",
-        "title": "将可理解性作为架构特性：无法理解的系统无法安全演进",
-        "url": "https://www.infoq.cn/article/d5mWBGZxB2l2vRTO8wFU?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/lpnjoa7au7wihtbmvcjo",
+        "title": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-20T14:00:00.000Z",
+        "publishedAt": "2026-08-20T19:03:02.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qawyth5p4tze1cqhhagq",
+        "title": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+        "url": "https://www.infoq.cn/article/qaWyth5P4tZE1CQhhaGq?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-20T18:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1242,12 +1252,12 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3364569/chinas-mech-mind-robotics-set-open-order-book-us300m-ipo-sources-say",
-        "title": "China’s Mech-Mind Robotics set to open order book for US$300m IPO, sources say",
-        "url": "https://www.scmp.com/business/banking-finance/article/3364569/chinas-mech-mind-robotics-set-open-order-book-us300m-ipo-sources-say?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3364705/alibabas-ai-cloud-growth-surge-drives-earnings-despite-soaring-tech-spending",
+        "title": "Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending",
+        "url": "https://www.scmp.com/tech/big-tech/article/3364705/alibabas-ai-cloud-growth-surge-drives-earnings-despite-soaring-tech-spending?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-08-20T01:30:10.000Z",
-        "summary": "China’s Mech-Mind Robotics Technologies plans to start taking investor orders for its Hong Kong initial public offering (IPO) as soon as next week amid a boom in artificial intelligence-driven robotics that has lifted in",
+        "publishedAt": "2026-08-20T10:16:24.000Z",
+        "summary": "Alibaba Group Holding on Thursday reported revenue growth of 45 per cent for its cloud and artificial intelligence division in the June quarter, driving adjusted profit to a better-than-expected 27.3 billion yuan (US$4 b",
         "category": "updates",
         "region": "cn_en"
       },
