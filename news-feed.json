@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T18:20:48.490Z",
+  "generatedAt": "2026-08-20T00:43:57.268Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/08/law-practice-management-company-smokeball-unveils-new-global-brand-built-around-powering-people-law.html",
+        "title": "Law Practice Management Company Smokeball Unveils New Global Brand Built Around &#8216;Powering People-Law&#8217;",
+        "url": "https://www.lawnext.com/2026/08/law-practice-management-company-smokeball-unveils-new-global-brand-built-around-powering-people-law.html",
+        "source": "LawSites",
+        "publishedAt": "2026-08-19T19:07:55.000Z",
+        "summary": "Did you know that the law practice management company Smokeball is named for a famous court case — Carlill v. Carbolic Smoke Ball Co. — that stands for the proposition that a company has a duty to deliver on its promises",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/less&",
         "title": "Less &#8216;Mayhem&#8217; for Lady Gaga as judge dismisses infringement lawsuit",
@@ -85,16 +95,6 @@
         "publishedAt": "2026-08-19T07:00:49.000Z",
         "summary": "Elevate has bought Lupl, the legal project management platform backed by CMS, Cooley, and Rajah &#38; Tann Asia. It’s the latest in a series of ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/replit",
-        "title": "Replit expands access to software creation with GPT-5.6 Luna",
-        "url": "https://openai.com/index/replit",
-        "source": "OpenAI News",
-        "publishedAt": "2026-08-19T07:00:00.000Z",
-        "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1198,13 +1198,13 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/05/lawnext-how-ai-is-transforming-the-way-law-firms-win-business-with-ikaun-president-jason-noble.html",
-        "title": "LawNext: How AI Is Transforming the Way Law Firms Win Business, with Ikaun President Jason Noble",
-        "url": "https://www.lawnext.com/2026/05/lawnext-how-ai-is-transforming-the-way-law-firms-win-business-with-ikaun-president-jason-noble.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-12T15:50:56.000Z",
-        "summary": "Law firms sell experience — but for decades, harnessing and operationalizing that experience has been a largely manual, chaotic process. In this episode, recorded live at the Legal Marketing Association annual conference",
-        "category": "tools",
+        "id": "OpenAI News:openai.com/index/gpt-5-cursor",
+        "title": "How Cursor uses GPT-5",
+        "url": "https://openai.com/index/gpt-5-cursor",
+        "source": "OpenAI News",
+        "publishedAt": "2025-08-07T00:00:00.000Z",
+        "summary": "Learn how Cursor uses GPT-5.",
+        "category": "updates",
         "region": "na"
       }
     ],
@@ -1262,16 +1262,6 @@
         "region": "cn_en"
       },
       {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand",
-        "title": "China’s self-driving push gains ground in Europe as Momenta, Pony.ai expand",
-        "url": "https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-17T07:00:11.000Z",
-        "summary": "China’s autonomous-driving ambitions are winning growing recognition in Europe, with Deutsche Bank raising its target price for Momenta following a key regulatory breakthrough, and Pony.ai expanding its European robotaxi",
-        "category": "articles",
-        "region": "cn_en"
-      },
-      {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3364068/i-gave-tencents-wechat-ai-agent-control-24-hours-where-it-excelled-and-stumbled",
         "title": "I gave Tencent’s WeChat AI agent control for 24 hours: where it excelled – and stumbled",
         "url": "https://www.scmp.com/tech/big-tech/article/3364068/i-gave-tencents-wechat-ai-agent-control-24-hours-where-it-excelled-and-stumbled?utm_source=rss_feed",
@@ -1279,16 +1269,6 @@
         "publishedAt": "2026-08-16T08:00:08.000Z",
         "summary": "Tencent Holdings’ WeChat is already the undisputed super-app for over a billion people in China, handling everything from splitting dinner bills to hailing taxis. Now, Tencent is embedding an artificial intelligence agen",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent",
-        "title": "Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent",
-        "url": "https://www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-16T03:00:12.000Z",
-        "summary": "China’s southern manufacturing powerhouse of Guangdong province welcomed nearly 40 computer science students from Tsinghua University this week, part of a targeted push by local authorities to bridge a widening gap in Ch",
-        "category": "updates",
         "region": "cn_en"
       }
     ]
