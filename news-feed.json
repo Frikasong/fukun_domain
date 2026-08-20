@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T00:43:57.268Z",
+  "generatedAt": "2026-08-20T06:30:36.089Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/d5mwbgzxb2l2vrto8wfu",
+        "title": "将可理解性作为架构特性：无法理解的系统无法安全演进",
+        "url": "https://www.infoq.cn/article/d5mWBGZxB2l2vRTO8wFU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-20T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/u2o9k3qizkeibqj7gspw",
+        "title": "将Pod作为worker而非智能体：在Kubernetes上重新思考AI智能体的部署单元",
+        "url": "https://www.infoq.cn/article/u2O9k3QiZkeIbqJ7GsPw?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-20T12:50:54.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/blff9zugrzpqj5qbsbjd",
         "title": "OpenAI 因安全问题突然停训GPT-6！网友：当你造出一个神，就不可能再给它拴上绳子",
         "url": "https://www.infoq.cn/article/BLfF9zUGrzpqJ5QbSBJD?utm_source=rss&utm_medium=article",
@@ -1218,19 +1238,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/kjk3qg9m7ueytf7sicgu",
-        "title": "豆包视频通话升级，火山引擎多模态传输系统提供技术支撑",
-        "url": "https://www.infoq.cn/article/kJK3qG9m7UEYtf7siCgU?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-18T14:46:57.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3364569/chinas-mech-mind-robotics-set-open-order-book-us300m-ipo-sources-say",
+        "title": "China’s Mech-Mind Robotics set to open order book for US$300m IPO, sources say",
+        "url": "https://www.scmp.com/business/banking-finance/article/3364569/chinas-mech-mind-robotics-set-open-order-book-us300m-ipo-sources-say?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-20T01:30:10.000Z",
+        "summary": "China’s Mech-Mind Robotics Technologies plans to start taking investor orders for its Hong Kong initial public offering (IPO) as soon as next week amid a boom in artificial intelligence-driven robotics that has lifted in",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/blockchain/article/3364593/shanghai-lays-out-plan-boost-digital-economy-catch-beijing-shenzhen",
         "title": "Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen",
@@ -1259,16 +1279,6 @@
         "publishedAt": "2026-08-17T23:00:07.000Z",
         "summary": "George Tung, CEO of UOB Hong Kong, is positioning the bank to leverage the city’s role as a cross-border capital hub by strengthening ASEAN links, deepening client trust and embedding disciplined risk management. Capital",
         "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3364068/i-gave-tencents-wechat-ai-agent-control-24-hours-where-it-excelled-and-stumbled",
-        "title": "I gave Tencent’s WeChat AI agent control for 24 hours: where it excelled – and stumbled",
-        "url": "https://www.scmp.com/tech/big-tech/article/3364068/i-gave-tencents-wechat-ai-agent-control-24-hours-where-it-excelled-and-stumbled?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-16T08:00:08.000Z",
-        "summary": "Tencent Holdings’ WeChat is already the undisputed super-app for over a billion people in China, handling everything from splitting dinner bills to hailing taxis. Now, Tencent is embedding an artificial intelligence agen",
-        "category": "tools",
         "region": "cn_en"
       }
     ]
