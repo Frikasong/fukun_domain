@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:31:23.613Z",
+  "generatedAt": "2026-08-21T12:28:47.181Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/21/harvey-tenet-nashville-legal-innovators",
+        "title": "Harvey Tenet, Nashville, Legal Innovators +",
+        "url": "https://www.artificiallawyer.com/2026/08/21/harvey-tenet-nashville-legal-innovators/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-21T07:44:10.000Z",
+        "summary": "It’s gone totally wild on the news front this week because of the impending Nashville festival (see more below), but we start with news that ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/aba&",
         "title": "ABA and TEDLaw partner to reimagine professional development for the legal profession",
@@ -235,16 +245,6 @@
         "publishedAt": "2026-08-18T17:00:28.000Z",
         "summary": "When Clio acquired vLex in 2025, a key asset it gained was Docket Alarm, one of the world’s largest litigation databases containing more than 1 billion filings from federal and state courts. At the ClioCon user conferenc",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/18/cem-ucan-ex-legoran-launches-a16z-speedrun-funded-newmod",
-        "title": "Cem Ucan, Ex-Legoran, Launches a16z Speedrun-Funded NewMod",
-        "url": "https://www.artificiallawyer.com/2026/08/18/cem-ucan-ex-legoran-launches-a16z-speedrun-funded-newmod/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-18T16:01:26.000Z",
-        "summary": "Cem Ucan, who previously worked at Baker McKenzie before joining Legora in 2024, has now moved on to launch a NewMod law firm, Athena, with ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1210,11 +1210,41 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/xl611mlf8nkr0ztb7aml",
-        "title": "初级岗位消失、高级人才断层：下一代高级工程师从哪里来？",
-        "url": "https://www.infoq.cn/article/xL611mlF8NKR0zTB7aMl?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/3mnjh5f34gssrqjjwjzy",
+        "title": "神秘“Ox Alpha”突袭 OpenRouter，性能超过 Fable 5？全网盲猜智谱 or 小米",
+        "url": "https://www.infoq.cn/article/3MNJh5F34GSsRQJJWJzY?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-21T12:00:00.000Z",
+        "publishedAt": "2026-08-21T19:41:49.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jltfe57d4r0juzpz8fk5",
+        "title": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+        "url": "https://www.infoq.cn/article/jlTfe57D4r0Juzpz8Fk5?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-21T19:34:36.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/yb51rwb95kevmliz0xqd",
+        "title": "材科源图三个月完成两轮融资，AI全链路闭环加速材料产业化",
+        "url": "https://www.infoq.cn/article/YB51rwb95keVmlIZ0xQd?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-21T19:31:11.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/7facahvuw89vjnwuowrc",
+        "title": "视频生成迎来“Claude Code时刻”，MiniMax Design “杀入” Adobe、Canva 腹地",
+        "url": "https://www.infoq.cn/article/7FAcAhVUw89VJNwuOwrc?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-21T16:55:09.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1268,27 +1298,17 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/blff9zugrzpqj5qbsbjd",
-        "title": "OpenAI 因安全问题突然停训GPT-6！网友：当你造出一个神，就不可能再给它拴上绳子",
-        "url": "https://www.infoq.cn/article/BLfF9zUGrzpqJ5QbSBJD?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-19T20:14:12.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3364752/hong-kongs-stock-benchmark-may-see-more-tech-additions-review-result-looms",
-        "title": "Hong Kong’s stock benchmark may see more tech additions as review result looms",
-        "url": "https://www.scmp.com/business/china-business/article/3364752/hong-kongs-stock-benchmark-may-see-more-tech-additions-review-result-looms?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/article/3364825/alibaba-signals-faster-ai-payoff-margin-gains-halfway-through-us56-billion-capex-plan",
+        "title": "Alibaba signals faster AI payoff, margin gains halfway through US$56 billion capex plan",
+        "url": "https://www.scmp.com/tech/article/3364825/alibaba-signals-faster-ai-payoff-margin-gains-halfway-through-us56-billion-capex-plan?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-08-21T02:59:26.000Z",
-        "summary": "More artificial intelligence companies may join the Hang Seng Index to increase the benchmark’s weighting towards technology, as the index compiler is due to reveal the result of its latest quarterly review on Friday. AI",
-        "category": "updates",
+        "publishedAt": "2026-08-21T10:30:10.000Z",
+        "summary": "Alibaba Group Holding is expected to further accelerate cloud growth, expand operating margins and achieve faster payback on artificial intelligence investments, analysts say, as the Chinese tech giant reaches the halfwa",
+        "category": "articles",
         "region": "cn_en"
       },
       {
@@ -1308,16 +1328,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-08-19T06:39:59.000Z",
         "summary": "The business environment for Chinese robotaxi operators in Europe has become more open over the past year, which would help Chinese firms to commercialise their self-driving technology worldwide, according to Pony AI fou",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/presented/business/banking-finance/topics/c-suite-content-hub/article/3363978/banking-connectivity-fragmented-world",
-        "title": "Banking on Connectivity in a Fragmented World",
-        "url": "https://www.scmp.com/presented/business/banking-finance/topics/c-suite-content-hub/article/3363978/banking-connectivity-fragmented-world?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-17T23:00:07.000Z",
-        "summary": "George Tung, CEO of UOB Hong Kong, is positioning the bank to leverage the city’s role as a cross-border capital hub by strengthening ASEAN links, deepening client trust and embedding disciplined risk management. Capital",
         "category": "updates",
         "region": "cn_en"
       }
