@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T00:44:07.853Z",
+  "generatedAt": "2026-08-22T06:24:23.492Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1268,26 +1268,16 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/u2o9k3qizkeibqj7gspw",
-        "title": "将Pod作为worker而非智能体：在Kubernetes上重新思考AI智能体的部署单元",
-        "url": "https://www.infoq.cn/article/u2O9k3QiZkeIbqJ7GsPw?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-20T12:50:54.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/tech/blockchain/article/3364593/shanghai-lays-out-plan-boost-digital-economy-catch-beijing-shenzhen",
-        "title": "Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen",
-        "url": "https://www.scmp.com/tech/blockchain/article/3364593/shanghai-lays-out-plan-boost-digital-economy-catch-beijing-shenzhen?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/business/china-evs/article/3364766/components-crunch-chinas-carmakers-face-rising-costs-keep-intelligence-edge",
+        "title": "Components crunch: China’s carmakers face rising costs to keep intelligence edge",
+        "url": "https://www.scmp.com/business/china-evs/article/3364766/components-crunch-chinas-carmakers-face-rising-costs-keep-intelligence-edge?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-08-19T13:30:09.000Z",
-        "summary": "Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and",
+        "publishedAt": "2026-08-22T06:00:26.000Z",
+        "summary": "Chinese smart vehicle makers have been hit by another setback as a global components shortage collides with surging prices of raw materials, driven by the artificial intelligence boom. It would take at least a year for t",
         "category": "updates",
         "region": "cn_en"
       }
