@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T18:24:01.412Z",
+  "generatedAt": "2026-08-22T00:44:07.853Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/why&",
+        "title": "Why the next competitive advantage in the AI era is partnership, not just technology",
+        "url": "https://www.abajournal.com/columns/article/why&#45;the&#45;next&#45;competitive&#45;advantage&#45;in&#45;the&#45;ai&#45;era&#45;is&#45;partnership&#45;not&#45;just&#45;technology/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-21T20:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/legal&",
+        "title": "ABA Legal Ed council will decide Sept. 8 whether DEI standard is repealed; will it matter?",
+        "url": "https://www.abajournal.com/web/article/legal&#45;ed&#45;council&#45;to&#45;decide&#45;sept&#45;8&#45;if&#45;dei&#45;standard&#45;repealed&#45;will&#45;it&#45;matter/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-21T19:41:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/things&",
         "title": "Things I wish my spouse had told me before they died",
@@ -104,26 +124,6 @@
         "source": "LawSites",
         "publishedAt": "2026-08-20T17:10:26.000Z",
         "summary": "Law practice company Clio said today that it is bringing AI to Clio Grow, its client intake and relationship management product. Clio describes the new Grow AI as a set of features within Grow &#8220;that work around the",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/absent&",
-        "title": "Missing avocado oil in Campbell&#8217;s chips creates class action crunch",
-        "url": "https://www.abajournal.com/news/article/absent&#45;avocado&#45;oil&#45;in&#45;campbells&#45;chips&#45;creates&#45;a&#45;class&#45;action&#45;crunch/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-20T17:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/arguing&",
-        "title": "Arguing bad jury instructions, counsel for SCOTUSblog founder Tom Goldstein seek his release",
-        "url": "https://www.abajournal.com/news/article/arguing&#45;bad&#45;jury&#45;instructions&#45;counsel&#45;for&#45;scotus&#45;blog&#45;founder&#45;tom&#45;goldstein&#45;seek&#45;his&#45;release/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-20T16:41:00.000Z",
-        "summary": "",
         "category": "tools",
         "region": "na"
       },
@@ -1288,16 +1288,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-08-19T13:30:09.000Z",
         "summary": "Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech hubs such as Beijing and",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3364522/chinese-robotaxi-firms-see-eased-regulatory-bottleneck-europe-deployment-picks",
-        "title": "Chinese robotaxi firms see eased regulatory bottleneck in Europe as deployment picks up",
-        "url": "https://www.scmp.com/business/china-business/article/3364522/chinese-robotaxi-firms-see-eased-regulatory-bottleneck-europe-deployment-picks?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-19T06:39:59.000Z",
-        "summary": "The business environment for Chinese robotaxi operators in Europe has become more open over the past year, which would help Chinese firms to commercialise their self-driving technology worldwide, according to Pony AI fou",
         "category": "updates",
         "region": "cn_en"
       }
