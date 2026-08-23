@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T00:48:53.541Z",
+  "generatedAt": "2026-08-23T06:25:56.898Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/9yicfqysexjdmx11xg4m",
+        "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+        "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-23T14:09:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/jltfe57d4r0juzpz8fk5",
         "title": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
         "url": "https://www.infoq.cn/article/jlTfe57D4r0Juzpz8Fk5?utm_source=rss&utm_medium=article",
@@ -1255,16 +1265,6 @@
         "url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-08-20T19:03:02.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qawyth5p4tze1cqhhagq",
-        "title": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
-        "url": "https://www.infoq.cn/article/qaWyth5P4tZE1CQhhaGq?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-20T18:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
