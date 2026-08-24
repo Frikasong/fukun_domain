@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T06:38:51.736Z",
+  "generatedAt": "2026-08-24T12:30:19.825Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/24/lexis-rolls-out-legal-intelligence-engine-agentic-capabilities",
+        "title": "Lexis Rolls Out Legal Intelligence Engine Agentic Capabilities",
+        "url": "https://www.artificiallawyer.com/2026/08/24/lexis-rolls-out-legal-intelligence-engine-agentic-capabilities/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-24T12:02:01.000Z",
+        "summary": "LexisNexis is rolling out a united and frictionless agentic offering, which works with its Legal Intelligence Engine harness. This brings together its mass of legal ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/08/lexisnexis-unveils-legal-intelligence-engine-rebuilding-protege-around-dynamic-agentic-orchestration.html",
+        "title": "LexisNexis Unveils &#8216;Legal Intelligence Engine,&#8217; Rebuilding Protégé Around Dynamic Agentic Orchestration",
+        "url": "https://www.lawnext.com/2026/08/lexisnexis-unveils-legal-intelligence-engine-rebuilding-protege-around-dynamic-agentic-orchestration.html",
+        "source": "LawSites",
+        "publishedAt": "2026-08-24T12:00:03.000Z",
+        "summary": "LexisNexis Legal &#38; Professional today announced what it is calling the next generation of Lexis+ with Protégé, its generative AI legal assistant, unveiling new agentic capabilities designed to enable legal profession",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/24/legal-ai-works-why-is-the-return-so-hard-to-find",
+        "title": "Legal AI Works, Why Is the Return So Hard to Find?",
+        "url": "https://www.artificiallawyer.com/2026/08/24/legal-ai-works-why-is-the-return-so-hard-to-find/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-24T06:45:24.000Z",
+        "summary": "By Alejandro Castellano, CEO, Caddi. Two years ago the question in front of every management committee was whether the AI worked. That question is largely ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/columns/article/why&",
         "title": "Why the next competitive advantage in the AI era is partnership, not just technology",
@@ -215,26 +245,6 @@
         "publishedAt": "2026-08-19T11:19:41.000Z",
         "summary": "Welcome to the latest episode of Zach and Richard&#8217;s Excellent Legal AI Adventure – where we focus on a range of hot topics, from why ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/19/why-general-ai-alone-is-not-enough-for-legal-work",
-        "title": "Why General AI Alone Is Not Enough for Legal Work",
-        "url": "https://www.artificiallawyer.com/2026/08/19/why-general-ai-alone-is-not-enough-for-legal-work/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-19T07:35:30.000Z",
-        "summary": "By Senne Mennes, LawVu. Few terms in legal technology have become as overused as ‘AI-powered.’ Not to mention over-hyped. Today, virtually every legal tech vendor ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/19/elevate-buys-lupl-in-software-business-expansion",
-        "title": "Elevate Buys Lupl in Software Business Expansion",
-        "url": "https://www.artificiallawyer.com/2026/08/19/elevate-buys-lupl-in-software-business-expansion/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-19T07:00:49.000Z",
-        "summary": "Elevate has bought Lupl, the legal project management platform backed by CMS, Cooley, and Rajah &#38; Tann Asia. It’s the latest in a series of ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1188,16 +1198,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/05/justice-technology-association-named-access-to-justice-partner-in-anthropics-legal-ai-launch.html",
-        "title": "Justice Technology Association Named Access to Justice Partner in Anthropic&#8217;s Legal AI Launch",
-        "url": "https://www.lawnext.com/2026/05/justice-technology-association-named-access-to-justice-partner-in-anthropics-legal-ai-launch.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-12T17:35:23.000Z",
-        "summary": "The Justice Technology Association (JTA), a nonprofit trade group representing mission-driven companies focused on the access to justice crisis, announced today that it has joined Anthropic as a launch partner in what An",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1209,26 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/yekcmo03wxvuyzpj1c1d",
-        "title": "“我们破坏了你们所有的应用”：React Router v8 引发争议，有开发者转向 TanStack Router",
-        "url": "https://www.infoq.cn/article/yEKcMO03wXvuyZpj1C1d?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-24T14:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zdc3hzpvqa96jwwa6lgb",
-        "title": "GitHub 公开预览 Stacked Pull Requests 功能",
-        "url": "https://www.infoq.cn/article/zdc3HzpvqA96jwWA6lGb?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-24T12:19:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/ogfmpsyd3lqr9rtbirky",
         "title": "完全相信AI代码的Uncle Bob，坦诚这条路还没走通",
@@ -1258,46 +1238,16 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/7facahvuw89vjnwuowrc",
-        "title": "视频生成迎来“Claude Code时刻”，MiniMax Design “杀入” Adobe、Canva 腹地",
-        "url": "https://www.infoq.cn/article/7FAcAhVUw89VJNwuOwrc?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-21T16:55:09.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/money/markets-investing/article/3365002/investment-market-volatility-here-stay-unless-global-recession-strikes-analyst",
-        "title": "Investment market volatility is ‘here to stay’ unless global recession strikes: analyst",
-        "url": "https://www.scmp.com/business/money/markets-investing/article/3365002/investment-market-volatility-here-stay-unless-global-recession-strikes-analyst?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood",
+        "title": "Alibaba’s record stock sale adds to Hong Kong tech flood",
+        "url": "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-08-24T03:00:09.000Z",
-        "summary": "Wealthy investors should be ready for higher volatility “for years” as uncertainties around artificial intelligence (AI) development and geopolitical risks are set to persist, according to a major private bank. In the pa",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3364920/rural-city-once-known-livestock-now-provides-chinas-ai-computing-fuel",
-        "title": "A rural city, once known for livestock, now provides China’s AI computing fuel",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3364920/rural-city-once-known-livestock-now-provides-chinas-ai-computing-fuel?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-24T02:00:17.000Z",
-        "summary": "For generations, Ulanqab – a city several hundred kilometres northwest of Beijing whose Mongolian name means “red cliff pass” – was known for its windswept pastureland, where cattle grazed and potatoes thrived under long",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3365003/alibaba-sets-price-us102-billion-new-share-offer-fuel-ai-expansion",
-        "title": "Alibaba’s US$10 billion share sale three times oversubscribed in Hong Kong",
-        "url": "https://www.scmp.com/tech/big-tech/article/3365003/alibaba-sets-price-us102-billion-new-share-offer-fuel-ai-expansion?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-24T01:59:29.000Z",
-        "summary": "Alibaba Group Holding has sold 710 million new shares at HK$112.70 each to raise HK$80 billion (US$10.2 billion) in one of the largest artificial intelligence-dedicated fundraising efforts by a Chinese technology firm. T",
+        "publishedAt": "2026-08-24T09:09:53.000Z",
+        "summary": "Alibaba raised HK$80 billion (US$10.2 billion) in a record Hong Kong secondary stock sale as the e-commerce giant pours money into artificial intelligence (AI). Shares were priced at HK$112.70 apiece, an 8.4 per cent dis",
         "category": "updates",
         "region": "cn_en"
       }
