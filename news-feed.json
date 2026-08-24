@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T12:30:19.825Z",
+  "generatedAt": "2026-08-24T18:27:09.722Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,126 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/law&",
+        "title": "Law school applications reach record high—again",
+        "url": "https://www.abajournal.com/news/article/law&#45;school&#45;applications&#45;reach&#45;record&#45;high&#45;again/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-24T17:45:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/08/harvey-and-pacerpro-announce-partnership-to-connect-docket-data-with-ai-litigation-workflows.html",
+        "title": "Harvey and PacerPro Announce Partnership To Connect Docket Data with AI Litigation Workflows",
+        "url": "https://www.lawnext.com/2026/08/harvey-and-pacerpro-announce-partnership-to-connect-docket-data-with-ai-litigation-workflows.html",
+        "source": "LawSites",
+        "publishedAt": "2026-08-24T16:11:46.000Z",
+        "summary": "The legal AI company Harvey and the court data company PacerPro have announced an integration partnership that gives litigation teams working in Harvey access to their firm&#8217;s complete litigation record, including t",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/texas&",
+        "title": "Appeals court reduces $50M judgment against former Infowars host Alex Jones",
+        "url": "https://www.abajournal.com/news/article/texas&#45;appeals&#45;court&#45;cuts&#45;50&#45;million&#45;from&#45;alex&#45;jones&#45;judgment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-24T16:08:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/the&",
+        "title": "The Burton Book Review: An interview with Professor Ray Madoff",
+        "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;an&#45;interview&#45;with&#45;professor&#45;ray&#45;madoff/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-24T15:55:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/criminal&",
+        "title": "Attorney admits ‘stupidity’ over AI errors but still receives sharp rebuke from state high court",
+        "url": "https://www.abajournal.com/news/article/criminal&#45;defense&#45;attorney&#45;admits&#45;stupidity&#45;over&#45;ai&#45;errors&#45;but&#45;still&#45;receives&#45;sharp&#45;rebuke&#45;from&#45;his&#45;states&#45;high&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-24T15:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/dog&",
+        "title": "Dog owner asks Supreme Court to spare pooch from execution",
+        "url": "https://www.abajournal.com/news/article/dog&#45;owner&#45;asks&#45;supreme&#45;court&#45;to&#45;spare&#45;pooch&#45;from&#45;execution/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-24T14:38:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/24/newcode-raises-13-5m-relativity-invests",
+        "title": "Newcode Raises $13.5m, Relativity Invests",
+        "url": "https://www.artificiallawyer.com/2026/08/24/newcode-raises-13-5m-relativity-invests/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-24T14:06:34.000Z",
+        "summary": "Newcode, a ‘configurable AI harness’ for law firms has raised $13.5m in its Series A, with Relativity’s investment arm Rel Labs joining the round. See ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/privileged&",
+        "title": "Privileged Penance: Courts don't get to decide who is clergy or what a confession covers, Arizona Supreme Court says",
+        "url": "https://www.abajournal.com/web/article/privileged&#45;penance/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-24T14:02:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/24/tr-ceo-steve-hasker-on-thomson-1-0",
+        "title": "TR CEO Steve Hasker on Thomson 1.0",
+        "url": "https://www.artificiallawyer.com/2026/08/24/tr-ceo-steve-hasker-on-thomson-1-0/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-24T13:38:21.000Z",
+        "summary": "As Artificial Lawyer just shared, Thomson Reuters has launched Thomson 1.0, its own open weights LLM, trained on its own data. Here, AL talks in-depth ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/24/tr-launches-thomson-1-0-its-own-llm",
+        "title": "TR Launches Thomson 1.0 &#8211; Its Own LLM",
+        "url": "https://www.artificiallawyer.com/2026/08/24/tr-launches-thomson-1-0-its-own-llm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-24T13:01:50.000Z",
+        "summary": "After months of work, TR has launched Thomson 1.0, its own LLM, trained on its own data – and it shows a performance that is ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/08/thomson-reuters-launches-thomson-its-own-proprietary-llm-trained-on-westlaw-and-practical-law-content.html",
+        "title": "Thomson Reuters Launches Thomson, Its Own Proprietary LLM Trained on Westlaw and Practical Law Content",
+        "url": "https://www.lawnext.com/2026/08/thomson-reuters-launches-thomson-its-own-proprietary-llm-trained-on-westlaw-and-practical-law-content.html",
+        "source": "LawSites",
+        "publishedAt": "2026-08-24T13:00:39.000Z",
+        "summary": "It certainly has been no secret that Thomson Reuters has been building its own proprietary large language model. In fact, in my June interview with TR’s CEO Steve Hasker, he talked openly about it, and just a few weeks a",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/24/draftwise-launches-legal-ontology-to-capture-the-judgment-layer",
+        "title": "Draftwise Launches &#8216;Legal Ontology&#8217; to Capture The Judgment Layer",
+        "url": "https://www.artificiallawyer.com/2026/08/24/draftwise-launches-legal-ontology-to-capture-the-judgment-layer/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-24T12:32:17.000Z",
+        "summary": "Draftwise has launched ‘Legal Ontology’, which leverages knowledge and lawyer judgment embedded in the relationships between data sitting inside a law firm&#8217;s documents. The move ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/24/lexis-rolls-out-legal-intelligence-engine-agentic-capabilities",
         "title": "Lexis Rolls Out Legal Intelligence Engine Agentic Capabilities",
@@ -68,82 +188,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/troutman&",
-        "title": "Troutman Pepper Locke associate files discrimination lawsuit against firm",
-        "url": "https://www.abajournal.com/news/article/troutman&#45;pepper&#45;locke&#45;associate&#45;files&#45;discrimination&#45;lawsuit&#45;against&#45;firm/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-21T17:47:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/jay&",
-        "title": "Jay-Z&#8217;s extortion suit against lawyer in withdrawn rape case faces skepticism from judge",
-        "url": "https://www.abajournal.com/news/article/jay&#45;zs&#45;extortion&#45;suit&#45;against&#45;lawyer&#45;in&#45;rape&#45;case&#45;faces&#45;judges&#45;skepticism/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-21T17:28:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/education&",
-        "title": "US Department of Education recommends removing the ABA Legal Ed council&#8217;s accrediting powers",
-        "url": "https://www.abajournal.com/web/article/education&#45;department&#45;recommends&#45;removing&#45;legal&#45;ed&#45;councils&#45;accrediting&#45;powers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-21T15:31:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/nyc&",
-        "title": "New NYC Bar opinion advises against recording nonclient conversations without ‘good reason’",
-        "url": "https://www.abajournal.com/news/article/nyc&#45;bar&#45;opinion&#45;advises&#45;against&#45;recording&#45;non&#45;client&#45;conversations&#45;without&#45;good&#45;reason/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-21T15:30:00.000Z",
-        "summary": "",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
-        "title": "Federal judge dismisses defamation suit filed by attorney-owned marijuana company",
-        "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;dismisses&#45;defamation&#45;suit&#45;filed&#45;by&#45;attorney&#45;owned&#45;marijuana&#45;company/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-21T15:06:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former public defender faces sentencing for healthcare fraud",
-        "url": "https://www.abajournal.com/news/article/former&#45;iowa&#45;public&#45;defender&#45;faces&#45;sentencing&#45;for&#45;healthcare&#45;fraud/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-21T14:44:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/21/harvey-tenet-nashville-legal-innovators",
         "title": "Harvey Tenet, Nashville, Legal Innovators +",
         "url": "https://www.artificiallawyer.com/2026/08/21/harvey-tenet-nashville-legal-innovators/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-08-21T07:44:10.000Z",
         "summary": "It’s gone totally wild on the news front this week because of the impending Nashville festival (see more below), but we start with news that ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
-        "title": "ABA and TEDLaw partner to reimagine professional development for the legal profession",
-        "url": "https://www.abajournal.com/news/article/aba&#45;and&#45;tedlaw&#45;partner&#45;to&#45;reimagine&#45;professional&#45;development&#45;for&#45;the&#45;legal&#45;profession/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-20T20:00:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -198,52 +248,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/20/avvoka-partners-with-harvey-launches-curate-for-templates",
-        "title": "Avvoka Partners With Harvey, Launches Curate For Templates",
-        "url": "https://www.artificiallawyer.com/2026/08/20/avvoka-partners-with-harvey-launches-curate-for-templates/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-20T09:04:58.000Z",
-        "summary": "Avvoka, the drafting automation platform, has formed a partnership with Harvey, and it’s also just launched ‘Curate’, which ‘turns a law firm&#8217;s transaction documents into ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/20/a-lawyer-for-ai-agents",
-        "title": "A Lawyer for AI Agents",
-        "url": "https://www.artificiallawyer.com/2026/08/20/a-lawyer-for-ai-agents/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-20T07:30:54.000Z",
-        "summary": "By Damien Charlotin, Yourhuman.ai There are scores of AI lawyers for humans. I want to make the case for a human lawyer for AI. In ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/law-practice-management-company-smokeball-unveils-new-global-brand-built-around-powering-people-law.html",
         "title": "Law Practice Management Company Smokeball Unveils New Global Brand Built Around &#8216;Powering People-Law&#8217;",
         "url": "https://www.lawnext.com/2026/08/law-practice-management-company-smokeball-unveils-new-global-brand-built-around-powering-people-law.html",
         "source": "LawSites",
         "publishedAt": "2026-08-19T19:07:55.000Z",
         "summary": "Did you know that the law practice management company Smokeball is named for a famous court case — Carlill v. Carbolic Smoke Ball Co. — that stands for the proposition that a company has a duty to deliver on its promises",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/19/harvey-picks-deepl-for-legal-translation",
-        "title": "Harvey Picks DeepL For Legal Translation",
-        "url": "https://www.artificiallawyer.com/2026/08/19/harvey-picks-deepl-for-legal-translation/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-19T12:03:58.000Z",
-        "summary": "Harvey has selected DeepL for legal translation needs. Its AI-driven document translation capability will now work directly inside the Harvey platform via an integration. DeepL ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/19/zach-richards-excellent-legal-ai-adventure-5",
-        "title": "Zach + Richard&#8217;s Excellent Legal AI Adventure",
-        "url": "https://www.artificiallawyer.com/2026/08/19/zach-richards-excellent-legal-ai-adventure-5/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-19T11:19:41.000Z",
-        "summary": "Welcome to the latest episode of Zach and Richard&#8217;s Excellent Legal AI Adventure – where we focus on a range of hot topics, from why ...",
         "category": "updates",
         "region": "na"
       },
@@ -1178,26 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/05/clio-says-it-has-surpassed-500m-in-annual-recurring-revenue.html",
-        "title": "Clio, Once A Feisty Startup, Says It Has Now Surpassed $500M In Annual Recurring Revenue",
-        "url": "https://www.lawnext.com/2026/05/clio-says-it-has-surpassed-500m-in-annual-recurring-revenue.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-13T14:01:05.000Z",
-        "summary": "Amid all the hubbub yesterday around Claude for legal, Clio quietly slipped in a notable story of its own: that it has now surpassed $500 million in annual recurring revenue. Since few legal tech companies are public, it",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/05/each-side-claims-the-same-recent-ruling-supports-its-position-in-thomson-reuters-v-ross-appeal.html",
-        "title": "Each Side Claims the Same Recent Ruling Supports Its Position in Thomson Reuters v. ROSS Appeal",
-        "url": "https://www.lawnext.com/2026/05/each-side-claims-the-same-recent-ruling-supports-its-position-in-thomson-reuters-v-ross-appeal.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-13T12:57:12.000Z",
-        "summary": "The long-running copyright litigation between legal research giant Thomson Reuters and now-shuttered legal research startup ROSS Intelligence took another interesting turn this week, following the 3rd U.S. Circuit Court ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1205,6 +1195,16 @@
         "publishedAt": "2025-08-07T00:00:00.000Z",
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/color-health",
+        "title": "Using GPT-4o reasoning to transform cancer care",
+        "url": "https://openai.com/index/color-health",
+        "source": "OpenAI News",
+        "publishedAt": "2024-06-17T04:15:00.000Z",
+        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
+        "category": "tools",
         "region": "na"
       }
     ],
@@ -1240,17 +1240,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood",
-        "title": "Alibaba’s record stock sale adds to Hong Kong tech flood",
-        "url": "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-24T09:09:53.000Z",
-        "summary": "Alibaba raised HK$80 billion (US$10.2 billion) in a record Hong Kong secondary stock sale as the e-commerce giant pours money into artificial intelligence (AI). Shares were priced at HK$112.70 apiece, an 8.4 per cent dis",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
