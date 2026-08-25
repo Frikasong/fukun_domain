@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T18:27:09.722Z",
+  "generatedAt": "2026-08-25T00:45:28.899Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -145,6 +145,16 @@
         "publishedAt": "2026-08-24T12:00:03.000Z",
         "summary": "LexisNexis Legal &#38; Professional today announced what it is calling the next generation of Lexis+ with Protégé, its generative AI legal assistant, unveiling new agentic capabilities designed to enable legal profession",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/gpt-5-6-in-kiro",
+        "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+        "url": "https://openai.com/index/gpt-5-6-in-kiro",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-24T12:00:00.000Z",
+        "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1195,16 +1205,6 @@
         "publishedAt": "2025-08-07T00:00:00.000Z",
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
         "region": "na"
       }
     ],
