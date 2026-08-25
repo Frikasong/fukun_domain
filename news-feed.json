@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T06:31:07.281Z",
+  "generatedAt": "2026-08-25T12:30:47.203Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/25/google-launches-gemini-enterprise-for-legal",
+        "title": "Google Launches Gemini Enterprise for Legal",
+        "url": "https://www.artificiallawyer.com/2026/08/25/google-launches-gemini-enterprise-for-legal/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-25T12:18:00.000Z",
+        "summary": "As predicted by AL, another tech giant has joined the legal world. Google Cloud has unveiled Gemini Enterprise for Legal, an ‘enterprise-grade, purpose-built agentic AI ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/25/iltacon-2026-day-one-briefing",
+        "title": "ILTACon 2026: Day One Briefing",
+        "url": "https://www.artificiallawyer.com/2026/08/25/iltacon-2026-day-one-briefing/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-25T07:33:29.000Z",
+        "summary": "By Special Correspondent, Will Seaton at Draftwise. Missed day one at ILTACon? Across sessions on change management, taxonomy, AI, and document management, a common theme ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/25/ai-adoption-isnt-the-hard-part-for-legal",
+        "title": "AI Adoption Isn’t the Hard Part for Legal",
+        "url": "https://www.artificiallawyer.com/2026/08/25/ai-adoption-isnt-the-hard-part-for-legal/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-25T06:45:07.000Z",
+        "summary": "By Neil Smith, LawVu. Ask any legal team today whether they have adopted AI, and most will say yes. Contract review tools. Drafting assistants. A ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/law&",
         "title": "Law school applications reach record high—again",
@@ -208,26 +238,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/20/interview-with-twin1-ceo-lewis-liu",
-        "title": "Interview with Twin1 CEO Lewis Liu",
-        "url": "https://www.artificiallawyer.com/2026/08/20/interview-with-twin1-ceo-lewis-liu/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-20T14:59:15.000Z",
-        "summary": "As part of the news about the official launch of Twin1 to build digital twins for lawyers, which has just raised $20m from several major ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/20/ex-eigen-team-raises-20m-seed-for-twin1",
-        "title": "Ex-Eigen Team Raises $20m Seed For Twin1",
-        "url": "https://www.artificiallawyer.com/2026/08/20/ex-eigen-team-raises-20m-seed-for-twin1/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-20T14:30:10.000Z",
-        "summary": "Twin1 has come out of stealth with a $20m Seed round co-led by Bessemer Venture Partners, among others, to develop digital twins for lawyers. It’s ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/netdocuments-adds-tabular-review-and-automatic-extraction-of-legal-authorities-to-its-platform.html",
         "title": "NetDocuments Adds Tabular Review and Automatic Extraction of Legal Authorities to Its Platform",
         "url": "https://www.lawnext.com/2026/08/netdocuments-adds-tabular-review-and-automatic-extraction-of-legal-authorities-to-its-platform.html",
@@ -235,16 +245,6 @@
         "publishedAt": "2026-08-20T13:00:42.000Z",
         "summary": "The document management company NetDocuments today announced two additions to its platform&#8217;s AI capabilities. One, Tabular Review, is a tool that lets users analyze collections of documents in a structured table. T",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/20/netdocuments-goes-after-ma-due-diligence",
-        "title": "NetDocuments Goes After M&#038;A Due Diligence",
-        "url": "https://www.artificiallawyer.com/2026/08/20/netdocuments-goes-after-ma-due-diligence/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-20T12:25:47.000Z",
-        "summary": "NetDocuments is now making it clear to the market that it absolutely isn’t ‘just a DMS’ any longer. Its latest foray into the wider world ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1209,16 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/xictlq7l5ck9dirvvcvd",
-        "title": "Cloudflare 将 CI 管道转变为 TypeScript 工作流",
-        "url": "https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-25T12:12:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/ogfmpsyd3lqr9rtbirky",
         "title": "完全相信AI代码的Uncle Bob，坦诚这条路还没走通",
