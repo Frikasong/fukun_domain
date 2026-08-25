@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T00:45:28.899Z",
+  "generatedAt": "2026-08-25T06:31:07.281Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -145,16 +145,6 @@
         "publishedAt": "2026-08-24T12:00:03.000Z",
         "summary": "LexisNexis Legal &#38; Professional today announced what it is calling the next generation of Lexis+ with Protégé, its generative AI legal assistant, unveiling new agentic capabilities designed to enable legal profession",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/gpt-5-6-in-kiro",
-        "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-        "url": "https://openai.com/index/gpt-5-6-in-kiro",
-        "source": "OpenAI News",
-        "publishedAt": "2026-08-24T12:00:00.000Z",
-        "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,9 +1196,29 @@
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/color-health",
+        "title": "Using GPT-4o reasoning to transform cancer care",
+        "url": "https://openai.com/index/color-health",
+        "source": "OpenAI News",
+        "publishedAt": "2024-06-17T04:15:00.000Z",
+        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/xictlq7l5ck9dirvvcvd",
+        "title": "Cloudflare 将 CI 管道转变为 TypeScript 工作流",
+        "url": "https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-25T12:12:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/ogfmpsyd3lqr9rtbirky",
         "title": "完全相信AI代码的Uncle Bob，坦诚这条路还没走通",
@@ -1228,18 +1238,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/jltfe57d4r0juzpz8fk5",
-        "title": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
-        "url": "https://www.infoq.cn/article/jlTfe57D4r0Juzpz8Fk5?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-21T19:34:36.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/blockchain/article/3365147/bitcoin-tops-us80000-first-time-may-us-moves-boost-crypto",
+        "title": "Bitcoin tops US$80,000 for first time since May as US moves boost crypto",
+        "url": "https://www.scmp.com/tech/blockchain/article/3365147/bitcoin-tops-us80000-first-time-may-us-moves-boost-crypto?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-25T04:46:28.000Z",
+        "summary": "Bitcoin has broken above US$80,000 for the first time in three months, riding a broader rally in alternative assets triggered by Washington’s efforts to tame US bond yields. The world’s largest cryptocurrency traded abov",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
