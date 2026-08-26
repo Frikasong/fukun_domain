@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T06:33:16.686Z",
+  "generatedAt": "2026-08-26T12:34:08.942Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/iltacon-2026-day-two-briefing",
+        "title": "ILTACON 2026: Day Two Briefing",
+        "url": "https://www.artificiallawyer.com/2026/08/26/iltacon-2026-day-two-briefing/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-26T11:37:53.000Z",
+        "summary": "By the Draftwise team. Ask anyone on the show floor, and you&#8217;ll hear the same thing: ILTACON feels bigger this year, which is no small ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/california-sb-574-will-ais-home-state-kill-off-ai-for-law",
+        "title": "California SB 574: Will AI’s Home State Kill Off AI for Law?",
+        "url": "https://www.artificiallawyer.com/2026/08/26/california-sb-574-will-ais-home-state-kill-off-ai-for-law/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-26T10:05:08.000Z",
+        "summary": "By Erin Fraser. The California legislature will wrap its 2025-2026 legislative session on August 31, but there is a bill still alive in the legislature ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/gemini-for-legal-and-the-battle-for-centrality",
+        "title": "Gemini for Legal and the Battle for Centrality",
+        "url": "https://www.artificiallawyer.com/2026/08/26/gemini-for-legal-and-the-battle-for-centrality/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-26T08:38:37.000Z",
+        "summary": "Google launching Gemini Enterprise for Legal (GEL) will have long-term ramifications for legal tech, however Artificial Lawyer can see one thing very clearly already: there ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/product-walk-through-monjur",
+        "title": "Product Walk Through: Monjur",
+        "url": "https://www.artificiallawyer.com/2026/08/26/product-walk-through-monjur/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-26T07:36:27.000Z",
+        "summary": "This week’s AL TV Product Walk Through is with Monjur, which handles the contract needs of Managed Service Providers. Tracy Lee Thibodeau, VP Product &#38; ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/same-facts-different-answer-legal-ais-consistency-problem",
+        "title": "Same Facts, Different Answer: Legal AI&#8217;s Consistency Problem",
+        "url": "https://www.artificiallawyer.com/2026/08/26/same-facts-different-answer-legal-ais-consistency-problem/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-26T06:44:24.000Z",
+        "summary": "By Shaz Aziz, Neota Logic. It is August 2026. A lawyer with no technical background can now build a working legal AI tool in a ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/voice/article/leading&",
         "title": "Leading change in complex systems",
@@ -168,16 +218,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/24/tr-launches-thomson-1-0-its-own-llm",
-        "title": "TR Launches Thomson 1.0 &#8211; Its Own LLM",
-        "url": "https://www.artificiallawyer.com/2026/08/24/tr-launches-thomson-1-0-its-own-llm/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-24T13:01:50.000Z",
-        "summary": "After months of work, TR has launched Thomson 1.0, its own LLM, trained on its own data – and it shows a performance that is ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/thomson-reuters-launches-thomson-its-own-proprietary-llm-trained-on-westlaw-and-practical-law-content.html",
         "title": "Thomson Reuters Launches Thomson, Its Own Proprietary LLM Trained on Westlaw and Practical Law Content",
         "url": "https://www.lawnext.com/2026/08/thomson-reuters-launches-thomson-its-own-proprietary-llm-trained-on-westlaw-and-practical-law-content.html",
@@ -188,26 +228,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/24/draftwise-launches-legal-ontology-to-capture-the-judgment-layer",
-        "title": "Draftwise Launches &#8216;Legal Ontology&#8217; to Capture The Judgment Layer",
-        "url": "https://www.artificiallawyer.com/2026/08/24/draftwise-launches-legal-ontology-to-capture-the-judgment-layer/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-24T12:32:17.000Z",
-        "summary": "Draftwise has launched ‘Legal Ontology’, which leverages knowledge and lawyer judgment embedded in the relationships between data sitting inside a law firm&#8217;s documents. The move ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/24/lexis-rolls-out-legal-intelligence-engine-agentic-capabilities",
-        "title": "Lexis Rolls Out Legal Intelligence Engine Agentic Capabilities",
-        "url": "https://www.artificiallawyer.com/2026/08/24/lexis-rolls-out-legal-intelligence-engine-agentic-capabilities/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-24T12:02:01.000Z",
-        "summary": "LexisNexis is rolling out a united and frictionless agentic offering, which works with its Legal Intelligence Engine harness. This brings together its mass of legal ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/lexisnexis-unveils-legal-intelligence-engine-rebuilding-protege-around-dynamic-agentic-orchestration.html",
         "title": "LexisNexis Unveils &#8216;Legal Intelligence Engine,&#8217; Rebuilding Protégé Around Dynamic Agentic Orchestration",
         "url": "https://www.lawnext.com/2026/08/lexisnexis-unveils-legal-intelligence-engine-rebuilding-protege-around-dynamic-agentic-orchestration.html",
@@ -215,26 +235,6 @@
         "publishedAt": "2026-08-24T12:00:03.000Z",
         "summary": "LexisNexis Legal &#38; Professional today announced what it is calling the next generation of Lexis+ with Protégé, its generative AI legal assistant, unveiling new agentic capabilities designed to enable legal profession",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/24/legal-ai-works-why-is-the-return-so-hard-to-find",
-        "title": "Legal AI Works, Why Is the Return So Hard to Find?",
-        "url": "https://www.artificiallawyer.com/2026/08/24/legal-ai-works-why-is-the-return-so-hard-to-find/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-24T06:45:24.000Z",
-        "summary": "By Alejandro Castellano, CEO, Caddi. Two years ago the question in front of every management committee was whether the AI worked. That question is largely ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/21/harvey-tenet-nashville-legal-innovators",
-        "title": "Harvey Tenet, Nashville, Legal Innovators +",
-        "url": "https://www.artificiallawyer.com/2026/08/21/harvey-tenet-nashville-legal-innovators/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-21T07:44:10.000Z",
-        "summary": "It’s gone totally wild on the news front this week because of the impending Nashville festival (see more below), but we start with news that ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,41 +1210,21 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/minibook/nzapvo5fpwp185srljvj",
-        "title": "企业级多智能体架构搭建与应用能力·人才培养项目",
-        "url": "https://www.infoq.cn/minibook/NZapvO5FpWP185SRLjvj?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/vs7tpslpdevzhmkdtxei",
+        "title": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分”",
+        "url": "https://www.infoq.cn/article/vS7tpsLPdevZhMKdtxei?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-26T14:21:28.000Z",
+        "publishedAt": "2026-08-26T16:26:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/wrkyptecrlcybb4t056x",
-        "title": "C# 终于支持带标签的 break！.NET 11 Preview 7 新特性速览",
-        "url": "https://www.infoq.cn/article/WrkYpTecRlcybb4t056x?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/y7ktos9ybbz0ocoyiweq",
+        "title": "535B 大模型“直播”训练三个月：代码、数据、Loss全公开，吴恩达公开力挺",
+        "url": "https://www.infoq.cn/article/y7KTOS9YbBz0OcoyiweQ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-08-26T13:16:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ogfmpsyd3lqr9rtbirky",
-        "title": "完全相信AI代码的Uncle Bob，坦诚这条路还没走通",
-        "url": "https://www.infoq.cn/article/ogFMPSyD3LqR9RtbIRky?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-24T10:16:52.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ongsa7k86lcxfyu64n2z",
-        "title": "DeepSeek 再度调价；英伟达AI服务器涨价超 15%；“AI红娘”承诺三年不结婚就退款，前 Kimi搜索负责人创业目标：拉高10%结婚率 | AI周报",
-        "url": "https://www.infoq.cn/article/ONGSA7k86LcxFyU64N2z?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-24T10:11:16.000Z",
+        "publishedAt": "2026-08-26T14:51:50.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1252,12 +1232,12 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/markets/article/3365288/china-dividend-stocks-back-vogue-ai-trade-fizzles-out-and-bond-yields-fall",
-        "title": "China dividend stocks back in vogue as AI trade fizzles out and bond yields fall",
-        "url": "https://www.scmp.com/business/markets/article/3365288/china-dividend-stocks-back-vogue-ai-trade-fizzles-out-and-bond-yields-fall?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3365341/minimax-revenue-surges-283-remains-behind-pace-meet-forecast-amid-crowded-ai-race",
+        "title": "MiniMax revenue surges 283% but remains behind pace to meet forecast amid crowded AI race",
+        "url": "https://www.scmp.com/tech/big-tech/article/3365341/minimax-revenue-surges-283-remains-behind-pace-meet-forecast-amid-crowded-ai-race?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-08-26T06:00:39.000Z",
-        "summary": "Chinese investors have been seeking shelter in dividend stocks since a global rout on technology stocks, with a handful of old-economy companies beating chipmakers and artificial intelligence (AI) hardware manufacturers.",
+        "publishedAt": "2026-08-26T10:52:43.000Z",
+        "summary": "Chinese artificial intelligence firm MiniMax on Wednesday posted a 283 per cent surge in first-half revenue to US$116.6 million, powered by a 700 per cent jump in its enterprise business, though top-line growth remains o",
         "category": "updates",
         "region": "cn_en"
       },
@@ -1267,7 +1247,7 @@
         "url": "https://www.scmp.com/tech/big-tech/article/3365280/deepseek-nears-pre-ipo-funding-round-2027-market-debut-takes-shape-sources?utm_source=rss_feed",
         "source": "SCMP China Business",
         "publishedAt": "2026-08-26T05:01:09.000Z",
-        "summary": "DeepSeek is nearing the completion of a new funding round that values the company at about 500 billion yuan (US$74 billion) before investment, as the Chinese artificial intelligence start-up moves closer to a potential l",
+        "summary": "DeepSeek is nearing the completion of a new funding round valuing the company at about 500 billion yuan (US$74 billion) before investment, as the Chinese artificial intelligence start-up moves closer to a potential listi",
         "category": "updates",
         "region": "cn_en"
       },
