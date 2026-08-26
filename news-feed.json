@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T00:47:14.982Z",
+  "generatedAt": "2026-08-26T06:33:16.686Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/minibook/nzapvo5fpwp185srljvj",
+        "title": "企业级多智能体架构搭建与应用能力·人才培养项目",
+        "url": "https://www.infoq.cn/minibook/NZapvO5FpWP185SRLjvj?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-26T14:21:28.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wrkyptecrlcybb4t056x",
+        "title": "C# 终于支持带标签的 break！.NET 11 Preview 7 新特性速览",
+        "url": "https://www.infoq.cn/article/WrkYpTecRlcybb4t056x?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-26T13:16:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/ogfmpsyd3lqr9rtbirky",
         "title": "完全相信AI代码的Uncle Bob，坦诚这条路还没走通",
         "url": "https://www.infoq.cn/article/ogFMPSyD3LqR9RtbIRky?utm_source=rss&utm_medium=article",
@@ -1231,6 +1251,26 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/markets/article/3365288/china-dividend-stocks-back-vogue-ai-trade-fizzles-out-and-bond-yields-fall",
+        "title": "China dividend stocks back in vogue as AI trade fizzles out and bond yields fall",
+        "url": "https://www.scmp.com/business/markets/article/3365288/china-dividend-stocks-back-vogue-ai-trade-fizzles-out-and-bond-yields-fall?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-26T06:00:39.000Z",
+        "summary": "Chinese investors have been seeking shelter in dividend stocks since a global rout on technology stocks, with a handful of old-economy companies beating chipmakers and artificial intelligence (AI) hardware manufacturers.",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3365280/deepseek-nears-pre-ipo-funding-round-2027-market-debut-takes-shape-sources",
+        "title": "DeepSeek nears pre-IPO funding round as 2027 market debut takes shape: sources",
+        "url": "https://www.scmp.com/tech/big-tech/article/3365280/deepseek-nears-pre-ipo-funding-round-2027-market-debut-takes-shape-sources?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-08-26T05:01:09.000Z",
+        "summary": "DeepSeek is nearing the completion of a new funding round that values the company at about 500 billion yuan (US$74 billion) before investment, as the Chinese artificial intelligence start-up moves closer to a potential l",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/blockchain/article/3365147/bitcoin-tops-us80000-first-time-may-us-moves-boost-crypto",
         "title": "Bitcoin tops US$80,000 for first time since May as US moves boost crypto",
