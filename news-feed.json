@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T19:38:26.865Z",
+  "generatedAt": "2026-08-27T05:58:48.035Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,26 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/cv1s25pv0lltvyb9diu3",
+        "title": "Aspire 13.5 正式发布：终端进入仪表板，TypeScript AppHost 转正",
+        "url": "https://www.infoq.cn/article/cV1s25pv0lLTvYB9diU3?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-27T13:33:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/p8qelfuwcdbic11pxg72",
+        "title": "Flux 推出 Mirror 插件：只让可信制品进入 Kubernetes 集群",
+        "url": "https://www.infoq.cn/article/p8qELFuWcdBic11PXG72?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-27T12:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/vs7tpslpdevzhmkdtxei",
         "title": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分”",
