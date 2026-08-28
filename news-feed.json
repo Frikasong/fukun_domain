@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T17:24:26.263Z",
+  "generatedAt": "2026-08-28T01:57:05.879Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/mass&",
+        "title": "State government official charged with pandemic benefit fraud, money laundering",
+        "url": "https://www.abajournal.com/news/article/mass&#45;state&#45;rep&#45;charged&#45;with&#45;pandemic&#45;benefit&#45;fraud&#45;money&#45;laundering/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-27T18:43:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/it&",
         "title": "It ends with $407K in Blake Lively’s $8M litigation fee request as judge cites &#8216;blunderbuss approach&#8217;",
@@ -133,16 +143,6 @@
         "url": "https://www.abajournal.com/news/article/what&#45;makes&#45;this&#45;holiday&#45;card&#45;so&#45;special&#45;think&#45;rbg&#45;and&#45;soc/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-08-26T16:02:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/is&",
-        "title": "Is lockstep associate pay falling out of favor?",
-        "url": "https://www.abajournal.com/news/article/is&#45;lockstep&#45;associate&#45;pay&#45;falling&#45;out&#45;of&#45;favor/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-26T15:14:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/z9biwfsmcia9yilusdvj",
+        "title": "曝英伟达129 亿美元收购Hugging Face！黄仁勋：我只后悔没有更早、更多投资OpenAI、Anthropic",
+        "url": "https://www.infoq.cn/article/Z9bIWfsMCIA9yiLUSDvJ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-28T09:29:22.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/y410fsrgi67furnuuzyb",
         "title": "世界人工智能开源大赛（GOAI）初赛评审结果暨晋级名单公告",
         "url": "https://www.infoq.cn/article/Y410fSRGi67fUrNUuzYb?utm_source=rss&utm_medium=article",
@@ -1288,16 +1298,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-08-26T05:01:09.000Z",
         "summary": "DeepSeek is nearing the completion of a new funding round valuing the company at about 500 billion yuan (US$74 billion) before investment, as the Chinese artificial intelligence start-up moves closer to a potential listi",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/blockchain/article/3365147/bitcoin-tops-us80000-first-time-may-us-moves-boost-crypto",
-        "title": "Bitcoin tops US$80,000 for first time since May as US moves boost crypto",
-        "url": "https://www.scmp.com/tech/blockchain/article/3365147/bitcoin-tops-us80000-first-time-may-us-moves-boost-crypto?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-25T04:46:28.000Z",
-        "summary": "Bitcoin has broken above US$80,000 for the first time in three months, riding a broader rally in alternative assets triggered by Washington’s efforts to tame US bond yields. The world’s largest cryptocurrency traded abov",
         "category": "updates",
         "region": "cn_en"
       }
