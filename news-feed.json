@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:15:47.907Z",
+  "generatedAt": "2026-08-31T22:13:39.565Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,11 +8,111 @@
   "panels": {
     "na": [
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/aba&",
-        "title": "ABA Treasurer&#8217;s Report",
-        "url": "https://www.abajournal.com/web/article/aba&#45;treasurers&#45;report/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "ABA Journal:www.abajournal.com/web/article/new&",
+        "title": "New financial aid rules didn&#8217;t hurt incoming law class size",
+        "url": "https://www.abajournal.com/web/article/new&#45;financial&#45;aid&#45;rules&#45;didnt&#45;hurt&#45;incoming&#45;law&#45;class&#45;size/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-08-28T19:00:00.000Z",
+        "publishedAt": "2026-08-31T19:13:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/washington&",
+        "title": "Washington State Bar Association beefs up tech support for NextGen UBE retake",
+        "url": "https://www.abajournal.com/web/article/washington&#45;state&#45;bar&#45;beefs&#45;up&#45;tech&#45;support&#45;for&#45;nextgen&#45;ube&#45;retake/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-31T18:55:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/biglaw&",
+        "title": "BigLaw firms offer parental leave coaching to support lawyer parents, boost engagement",
+        "url": "https://www.abajournal.com/web/article/biglaw&#45;firms&#45;offer&#45;parental&#45;leave&#45;coaching&#45;to&#45;support&#45;lawyer&#45;parents&#45;boost&#45;engagement/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-31T18:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/08/series-a-round-for-newcode-an-ai-harness-for-legal-brings-its-funding-to-20m-and-fuels-u-s-expansion.html",
+        "title": "Series A Round for Newcode, An AI Harness for Legal, Brings Its Funding To $20M and Fuels U.S. Expansion",
+        "url": "https://www.lawnext.com/2026/08/series-a-round-for-newcode-an-ai-harness-for-legal-brings-its-funding-to-20m-and-fuels-u-s-expansion.html",
+        "source": "LawSites",
+        "publishedAt": "2026-08-31T17:17:47.000Z",
+        "summary": "Newcode, an Oslo-based legal AI company that sells law firms a configurable AI harness rather than a finished assistant, has raised a Series A led by OnDean Forward, the investment firm founded by Relativity founder Andr",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/floyd&",
+        "title": "Floyd Mayweather Jr. brings fighting spirit to legal arena",
+        "url": "https://www.abajournal.com/news/article/floyd&#45;mayweather&#45;jr&#45;brings&#45;his&#45;fighting&#45;spirit&#45;to&#45;the&#45;legal&#45;arena/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-31T16:47:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/law&",
+        "title": "Law firms drive surge in office leasing in first half of 2026, new data shows",
+        "url": "https://www.abajournal.com/news/article/law&#45;firms&#45;drive&#45;surge&#45;in&#45;office&#45;leasing&#45;in&#45;first&#45;half&#45;of&#45;2026/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-31T16:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/dumb&",
+        "title": "&#8216;Dumb judge&#8217; and other insults turn up in BigLaw lawyers&#8217; emails in NCAA eligibility suit",
+        "url": "https://www.abajournal.com/news/article/dumb&#45;judge&#45;and&#45;other&#45;insults&#45;turn&#45;up&#45;in&#45;lawyers&#45;emails&#45;in&#45;ncaa&#45;eligibility&#45;suit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-31T15:51:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/michigan&",
+        "title": "Lawyer faces criminal charges in deadly crash with motorcyclist",
+        "url": "https://www.abajournal.com/news/article/michigan&#45;attorney&#45;faces&#45;criminal&#45;charges&#45;in&#45;deadly&#45;crash&#45;with&#45;motorcyclist/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-31T14:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/attorneys&",
+        "title": "Attorneys awarded $146.8M in fees after verdict against Google",
+        "url": "https://www.abajournal.com/news/article/attorneys&#45;awarded&#45;146.8m&#45;in&#45;fees&#45;after&#45;verdict&#45;against&#45;google/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-31T14:43:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/dei&",
+        "title": "DEI in disguise? Some law firms continue prioritizing diversity efforts despite hostility from government",
+        "url": "https://www.abajournal.com/web/article/dei&#45;in&#45;disguise&#45;some&#45;law&#45;firms&#45;continue&#45;prioritizing&#45;diversity&#45;efforts&#45;despite&#45;hostility&#45;from&#45;the&#45;government/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-31T14:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/legal&",
+        "title": "Legal professionals feel ‘miserable’ over admin tasks, new 8am report shows",
+        "url": "https://www.abajournal.com/news/article/legal&#45;professionals&#45;feel&#45;miserable&#45;over&#45;admin&#45;tasks&#45;new&#45;report&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-08-31T13:01:00.000Z",
         "summary": "",
         "category": "articles",
         "region": "na"
@@ -25,196 +125,6 @@
         "publishedAt": "2026-08-28T16:54:10.000Z",
         "summary": "“We’ve reached peak legal tech.” That was the takeaway of a veteran legal tech CEO while attending this week’s ILTACON, the annual conference of the International Legal Technology Association. The conference was in Nashv",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
-        "title": "Judge considers attorney fees request in $425M Google privacy class action",
-        "url": "https://www.abajournal.com/news/article/judge&#45;considers&#45;attorney&#45;fee&#45;request&#45;in&#45;425&#45;million&#45;google&#45;privacy&#45;class&#45;action/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-28T16:07:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/5th&",
-        "title": "5th Circuit examines, and sets aside, server test for online copyright infringement claims",
-        "url": "https://www.abajournal.com/news/article/5th&#45;circuit&#45;examines&#45;and&#45;sets&#45;aside&#45;server&#45;test&#45;for&#45;online&#45;copyright&#45;infringement&#45;claims/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-28T15:23:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/california&",
-        "title": "California passes bill to stop law firm private equity takeovers",
-        "url": "https://www.abajournal.com/news/article/california&#45;passes&#45;bill&#45;to&#45;stop&#45;law&#45;firm&#45;private&#45;equity&#45;takeovers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-28T13:06:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/28/legal-world-is-booming-ai-roi-omg-legal-innovators",
-        "title": "Legal World Is Booming, AI ROI OMG! + Legal Innovators",
-        "url": "https://www.artificiallawyer.com/2026/08/28/legal-world-is-booming-ai-roi-omg-legal-innovators/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-28T07:20:23.000Z",
-        "summary": "Nashville had a party, but it was Google’s new Gemini Enterprise for Legal that stole the show – see AL coverage here – and what ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/mass&",
-        "title": "State government official charged with pandemic benefit fraud, money laundering",
-        "url": "https://www.abajournal.com/news/article/mass&#45;state&#45;rep&#45;charged&#45;with&#45;pandemic&#45;benefit&#45;fraud&#45;money&#45;laundering/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-27T18:43:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/it&",
-        "title": "It ends with $407K in Blake Lively’s $8M litigation fee request as judge cites &#8216;blunderbuss approach&#8217;",
-        "url": "https://www.abajournal.com/news/article/it&#45;ends&#45;with&#45;407k&#45;in&#45;attorney&#45;fees&#45;granted&#45;in&#45;blake&#45;livelys&#45;8m&#45;request&#45;as&#45;judge&#45;cites&#45;blunderbuss&#45;approach/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-27T15:46:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/justice&",
-        "title": "Justice Thomas says farmwork helped shape his views on precedents",
-        "url": "https://www.abajournal.com/news/article/justice&#45;clarence&#45;thomas&#45;says&#45;farm&#45;work&#45;helped&#45;shape&#45;his&#45;views&#45;on&#45;precedents/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-27T15:17:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/anthropics&",
-        "title": "Anthropic&#8217;s general counsel announces new role as &#8216;international special envoy&#8217;",
-        "url": "https://www.abajournal.com/news/article/anthropics&#45;gc&#45;announces&#45;new&#45;role&#45;as&#45;international&#45;special&#45;envoy/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-27T14:49:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/duke&",
-        "title": "Dean of Duke University School of Law plans to step down",
-        "url": "https://www.abajournal.com/news/article/duke&#45;law&#45;dean&#45;to&#45;step&#45;down/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-27T14:17:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/judge&",
-        "title": "Judge should be benched for suing eye doc employee who filed complaint against him, agency says",
-        "url": "https://www.abajournal.com/web/article/Judge&#45;should&#45;be&#45;benched&#45;for&#45;suing&#45;eye&#45;doc&#45;employee&#45;who&#45;filed&#45;complaint&#45;against&#45;him&#45;agency&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-27T12:50:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/iltacon-2026-day-three-briefing",
-        "title": "ILTACON 2026: Day Three Briefing",
-        "url": "https://www.artificiallawyer.com/2026/08/27/iltacon-2026-day-three-briefing/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-27T12:22:53.000Z",
-        "summary": "By the Draftwise team. Wednesday moved at a calmer pace and was also more reflective. Winston Weinberg, CEO of Harvey, summed it up: ‘This is ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/webinar-the-looming-legal-tidal-wave-sept-15",
-        "title": "Webinar: The Looming Legal Tidal Wave &#8211; Sept 15",
-        "url": "https://www.artificiallawyer.com/2026/08/27/webinar-the-looming-legal-tidal-wave-sept-15/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-27T11:06:05.000Z",
-        "summary": "On September 15, at 12 noon ET / 9 am PT / 5PM BST, LegalOn CEO, Daniel Lewis, will lead a live conversation with Artificial ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/google-weil-gemini-enterprise-for-legal",
-        "title": "Google, Weil + Gemini Enterprise for Legal",
-        "url": "https://www.artificiallawyer.com/2026/08/27/google-weil-gemini-enterprise-for-legal/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-27T07:45:25.000Z",
-        "summary": "Leading US law firm, Weil, contributed to the development of Google&#8217;s new Gemini Enterprise for Legal. Artificial Lawyer spoke to Andrew Simon, Weil’s Chief AI ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/accountability-by-design-in-agentic-contract-management",
-        "title": "Accountability by Design in Agentic Contract Management",
-        "url": "https://www.artificiallawyer.com/2026/08/27/accountability-by-design-in-agentic-contract-management/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-27T06:42:51.000Z",
-        "summary": "By Ken Priore, Deputy General Counsel, Docusign. Agentic AI has arrived for agreements. Software no longer only drafts a clause or flags a risk for ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/iltacon-2026-day-two-briefing",
-        "title": "ILTACON 2026: Day Two Briefing",
-        "url": "https://www.artificiallawyer.com/2026/08/26/iltacon-2026-day-two-briefing/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-26T11:37:53.000Z",
-        "summary": "By the Draftwise team. Ask anyone on the show floor, and you&#8217;ll hear the same thing: ILTACON feels bigger this year, which is no small ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/california-sb-574-will-ais-home-state-kill-off-ai-for-law",
-        "title": "California SB 574: Will AI’s Home State Kill Off AI for Law?",
-        "url": "https://www.artificiallawyer.com/2026/08/26/california-sb-574-will-ais-home-state-kill-off-ai-for-law/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-26T10:05:08.000Z",
-        "summary": "By Erin Fraser. The California legislature will wrap its 2025-2026 legislative session on August 31, but there is a bill still alive in the legislature ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/gemini-for-legal-and-the-battle-for-centrality",
-        "title": "Gemini for Legal and the Battle for Centrality",
-        "url": "https://www.artificiallawyer.com/2026/08/26/gemini-for-legal-and-the-battle-for-centrality/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-26T08:38:37.000Z",
-        "summary": "Google launching Gemini Enterprise for Legal (GEL) will have long-term ramifications for legal tech, however Artificial Lawyer can see one thing very clearly already: there ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/product-walk-through-monjur",
-        "title": "Product Walk Through: Monjur",
-        "url": "https://www.artificiallawyer.com/2026/08/26/product-walk-through-monjur/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-26T07:36:27.000Z",
-        "summary": "This week’s AL TV Product Walk Through is with Monjur, which handles the contract needs of Managed Service Providers. Tracy Lee Thibodeau, VP Product &#38; ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/same-facts-different-answer-legal-ais-consistency-problem",
-        "title": "Same Facts, Different Answer: Legal AI&#8217;s Consistency Problem",
-        "url": "https://www.artificiallawyer.com/2026/08/26/same-facts-different-answer-legal-ais-consistency-problem/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-26T06:44:24.000Z",
-        "summary": "By Shaz Aziz, Neota Logic. It is August 2026. A lawyer with no technical background can now build a working legal AI tool in a ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1178,16 +1088,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/05/evenup-extends-beyond-software-with-launch-of-pre-litigation-as-a-service-offering-for-pi-law-firms.html",
-        "title": "EvenUp Extends Beyond Software with Launch of &#8216;Pre-Litigation-as-a-Service&#8217; Offering For PI Law Firms",
-        "url": "https://www.lawnext.com/2026/05/evenup-extends-beyond-software-with-launch-of-pre-litigation-as-a-service-offering-for-pi-law-firms.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-14T17:51:55.000Z",
-        "summary": "EvenUp, the personal injury AI company that reached a $2 billion valuation last fall, is making a significant shift in its business model – one that extends it beyond software vendor to something closer to an outsourced ",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1206,19 +1106,49 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/l7p7ca3umxxqjcbfyhuj",
-        "title": "从出片到出海：AI MediaKit 重塑短剧全链路生产力",
-        "url": "https://www.infoq.cn/article/L7P7cA3UMXXQJcBfyHuJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-31T18:27:41.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/sdyqxrwr6zdpjulx4fa8",
         "title": "AI Coding 之后，如何让 Agent 进入企业研发全链路？得物推荐的 Harness 实践",
@@ -1291,16 +1221,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3365870/chinas-zai-revenue-jumps-400-total-losses-narrow-explosive-cloud-gains",
-        "title": "China’s Z.ai revenue jumps 400% as total losses narrow on explosive cloud gains",
-        "url": "https://www.scmp.com/tech/big-tech/article/3365870/chinas-zai-revenue-jumps-400-total-losses-narrow-explosive-cloud-gains?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-31T11:43:48.000Z",
-        "summary": "Chinese artificial intelligence company Z.ai on Monday reported a 400 per cent increase in first-half revenue, driven by explosive growth in its open platform and application programming interface business, which helped ",
-        "category": "tools",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3365478/hong-kong-expands-ai-sandbox-projects-include-banks-securities-and-insurance",
         "title": "Hong Kong expands AI sandbox with projects that include banks, securities and insurance",
