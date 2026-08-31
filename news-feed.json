@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T20:19:41.132Z",
+  "generatedAt": "2026-08-31T02:35:30.959Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -54,6 +54,16 @@
         "source": "ABA Journal",
         "publishedAt": "2026-08-28T13:06:00.000Z",
         "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/28/legal-world-is-booming-ai-roi-omg-legal-innovators",
+        "title": "Legal World Is Booming, AI ROI OMG! + Legal Innovators",
+        "url": "https://www.artificiallawyer.com/2026/08/28/legal-world-is-booming-ai-roi-omg-legal-innovators/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-28T07:20:23.000Z",
+        "summary": "Nashville had a party, but it was Google’s new Gemini Enterprise for Legal that stole the show – see AL coverage here – and what ...",
         "category": "updates",
         "region": "na"
       },
@@ -115,6 +125,96 @@
         "publishedAt": "2026-08-27T12:50:00.000Z",
         "summary": "",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/iltacon-2026-day-three-briefing",
+        "title": "ILTACON 2026: Day Three Briefing",
+        "url": "https://www.artificiallawyer.com/2026/08/27/iltacon-2026-day-three-briefing/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-27T12:22:53.000Z",
+        "summary": "By the Draftwise team. Wednesday moved at a calmer pace and was also more reflective. Winston Weinberg, CEO of Harvey, summed it up: ‘This is ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/webinar-the-looming-legal-tidal-wave-sept-15",
+        "title": "Webinar: The Looming Legal Tidal Wave &#8211; Sept 15",
+        "url": "https://www.artificiallawyer.com/2026/08/27/webinar-the-looming-legal-tidal-wave-sept-15/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-27T11:06:05.000Z",
+        "summary": "On September 15, at 12 noon ET / 9 am PT / 5PM BST, LegalOn CEO, Daniel Lewis, will lead a live conversation with Artificial ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/google-weil-gemini-enterprise-for-legal",
+        "title": "Google, Weil + Gemini Enterprise for Legal",
+        "url": "https://www.artificiallawyer.com/2026/08/27/google-weil-gemini-enterprise-for-legal/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-27T07:45:25.000Z",
+        "summary": "Leading US law firm, Weil, contributed to the development of Google&#8217;s new Gemini Enterprise for Legal. Artificial Lawyer spoke to Andrew Simon, Weil’s Chief AI ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/accountability-by-design-in-agentic-contract-management",
+        "title": "Accountability by Design in Agentic Contract Management",
+        "url": "https://www.artificiallawyer.com/2026/08/27/accountability-by-design-in-agentic-contract-management/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-27T06:42:51.000Z",
+        "summary": "By Ken Priore, Deputy General Counsel, Docusign. Agentic AI has arrived for agreements. Software no longer only drafts a clause or flags a risk for ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/iltacon-2026-day-two-briefing",
+        "title": "ILTACON 2026: Day Two Briefing",
+        "url": "https://www.artificiallawyer.com/2026/08/26/iltacon-2026-day-two-briefing/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-26T11:37:53.000Z",
+        "summary": "By the Draftwise team. Ask anyone on the show floor, and you&#8217;ll hear the same thing: ILTACON feels bigger this year, which is no small ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/california-sb-574-will-ais-home-state-kill-off-ai-for-law",
+        "title": "California SB 574: Will AI’s Home State Kill Off AI for Law?",
+        "url": "https://www.artificiallawyer.com/2026/08/26/california-sb-574-will-ais-home-state-kill-off-ai-for-law/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-26T10:05:08.000Z",
+        "summary": "By Erin Fraser. The California legislature will wrap its 2025-2026 legislative session on August 31, but there is a bill still alive in the legislature ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/gemini-for-legal-and-the-battle-for-centrality",
+        "title": "Gemini for Legal and the Battle for Centrality",
+        "url": "https://www.artificiallawyer.com/2026/08/26/gemini-for-legal-and-the-battle-for-centrality/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-26T08:38:37.000Z",
+        "summary": "Google launching Gemini Enterprise for Legal (GEL) will have long-term ramifications for legal tech, however Artificial Lawyer can see one thing very clearly already: there ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/product-walk-through-monjur",
+        "title": "Product Walk Through: Monjur",
+        "url": "https://www.artificiallawyer.com/2026/08/26/product-walk-through-monjur/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-26T07:36:27.000Z",
+        "summary": "This week’s AL TV Product Walk Through is with Monjur, which handles the contract needs of Managed Service Providers. Tracy Lee Thibodeau, VP Product &#38; ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/same-facts-different-answer-legal-ais-consistency-problem",
+        "title": "Same Facts, Different Answer: Legal AI&#8217;s Consistency Problem",
+        "url": "https://www.artificiallawyer.com/2026/08/26/same-facts-different-answer-legal-ais-consistency-problem/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-08-26T06:44:24.000Z",
+        "summary": "By Shaz Aziz, Neota Logic. It is August 2026. A lawyer with no technical background can now build a working legal AI tool in a ...",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -1106,49 +1206,29 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/8ot7grmndmicpcw2rk34",
+        "title": "长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+        "url": "https://www.infoq.cn/article/8Ot7gRMNDMICpCW2Rk34?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-31T10:20:53.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/cssbsqtm2jyzb8thxcre",
+        "title": "InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "url": "https://www.infoq.cn/article/CsSbsqtM2jYZb8THXcrE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-08-31T09:53:52.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/irow9kwvs4zscbyu8wqe",
         "title": "大模型和硬件之间，长出了一层新生意",
@@ -1181,16 +1261,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference",
-        "title": "MiniMax expands Alibaba cloud pact as compute needs surge for training and inference",
-        "url": "https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-28T08:00:14.000Z",
-        "summary": "Chinese artificial intelligence firm MiniMax has raised the three-year purchase ceiling on its cloud computing deals with Alibaba Group Holding by 220 per cent to US$1.2 billion, underscoring surging demand for computing",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3365478/hong-kong-expands-ai-sandbox-projects-include-banks-securities-and-insurance",
         "title": "Hong Kong expands AI sandbox with projects that include banks, securities and insurance",
