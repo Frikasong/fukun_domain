@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:50:58.096Z",
+  "generatedAt": "2026-09-01T15:49:01.661Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/jones&",
+        "title": "Jones Day lawyer returns to firm after stint at DOJ",
+        "url": "https://www.abajournal.com/news/article/jones&#45;day&#45;lawyer&#45;returns&#45;after&#45;stint&#45;at&#45;doj/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-01T15:33:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/judges&",
+        "title": "Judge&#8217;s release of order with AI errors is &#8216;pretty serious matter,&#8217; 5th Circuit says",
+        "url": "https://www.abajournal.com/news/article/judges&#45;release&#45;of&#45;order&#45;with&#45;ai&#45;errors&#45;is&#45;a&#45;serious&#45;matter&#45;5th&#45;circuit&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-01T15:02:00.000Z",
+        "summary": "",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
+        "title": "Lawyer arrested on charge he made terroristic threat against 16-year-old family member",
+        "url": "https://www.abajournal.com/news/article/lawyer&#45;arrested&#45;on&#45;a&#45;charge&#45;he&#45;made&#45;terroristic&#45;threat&#45;against&#45;16&#45;year&#45;old&#45;family&#45;member/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-01T14:41:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/we&",
+        "title": "&#8216;We Want Information&#8217;: What &#8216;The Prisoner&#8217; knew about AI",
+        "url": "https://www.abajournal.com/voice/article/we&#45;want&#45;information&#45;what&#45;the&#45;prisoner&#45;knew&#45;about&#45;ai/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-01T14:06:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/01/1-4-of-young-people-use-ai-for-their-legal-needs",
         "title": "1/4 of Young People Use AI For Their Legal Needs",
@@ -105,46 +145,6 @@
         "publishedAt": "2026-08-31T15:51:00.000Z",
         "summary": "",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/michigan&",
-        "title": "Lawyer faces criminal charges in deadly crash with motorcyclist",
-        "url": "https://www.abajournal.com/news/article/michigan&#45;attorney&#45;faces&#45;criminal&#45;charges&#45;in&#45;deadly&#45;crash&#45;with&#45;motorcyclist/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-31T14:56:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/attorneys&",
-        "title": "Attorneys awarded $146.8M in fees after verdict against Google",
-        "url": "https://www.abajournal.com/news/article/attorneys&#45;awarded&#45;146.8m&#45;in&#45;fees&#45;after&#45;verdict&#45;against&#45;google/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-31T14:43:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/dei&",
-        "title": "DEI in disguise? Some law firms continue prioritizing diversity efforts despite hostility from government",
-        "url": "https://www.abajournal.com/web/article/dei&#45;in&#45;disguise&#45;some&#45;law&#45;firms&#45;continue&#45;prioritizing&#45;diversity&#45;efforts&#45;despite&#45;hostility&#45;from&#45;the&#45;government/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-31T14:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/legal&",
-        "title": "Legal professionals feel ‘miserable’ over admin tasks, new 8am report shows",
-        "url": "https://www.abajournal.com/news/article/legal&#45;professionals&#45;feel&#45;miserable&#45;over&#45;admin&#45;tasks&#45;new&#45;report&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-31T13:01:00.000Z",
-        "summary": "",
-        "category": "articles",
         "region": "na"
       },
       {
@@ -1210,21 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/u57ogmqcgnx26lclsdef",
-        "title": "VoidZero 发布 Vite+ Beta 版：通过单条命令即可调用的一体化 Web 工具链",
-        "url": "https://www.infoq.cn/article/u57OGmqCgNX26LClSDef?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/qfljxpvjk5dqeoogsy3d",
+        "title": "云原生弹性的能力，迁移成为 Agent 时代的数据基座能力之一？",
+        "url": "https://www.infoq.cn/video/QflJXpVJK5DqeoOgsY3D?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-01T18:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/rs9fozslbijpwwbeynho",
-        "title": "AWS 发布 Aws-Bench，用于评估云任务中的智能代理",
-        "url": "https://www.infoq.cn/article/rs9FOZsLBIJPwWbeYNHO?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-01T16:22:00.000Z",
+        "publishedAt": "2026-09-01T21:24:38.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1245,46 +1235,6 @@
         "url": "https://www.infoq.cn/article/sDyQxrWR6zDPJuLX4FA8?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-08-31T16:39:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/4kqhjc49t8j8fpqaevlv",
-        "title": "OpenClaw 从意外爆红到“无人问津”：一个开源 AI Agent 的八个月过山车",
-        "url": "https://www.infoq.cn/article/4KQHJC49t8J8FPqaEVLv?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-31T15:27:10.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/rsiipg7xwqakgyulc88d",
-        "title": "“你以为买的是 DeepSeek Flash，到手可能是 1.5 bit 缩水版”：Pi 核心贡献者谈 AI Token 黑箱",
-        "url": "https://www.infoq.cn/article/rsiiPG7xwQakgyulC88D?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-31T15:19:34.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/6gflptymhrqhrilolq9q",
-        "title": "不抢最贵GPU，专捡“没人要”的算力：前英伟达工程师搞出一套“拾荒者”打法",
-        "url": "https://www.infoq.cn/article/6gFLptyMHRQhrILOlQ9Q?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-31T15:03:23.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/gufwnd24ww5aflrxxtbo",
-        "title": "坚决不用行业标准AGENTS.md，Claude Code惹来“封杀令”：Anthropic终于回应了，但开发者更气了",
-        "url": "https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-31T15:03:08.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
