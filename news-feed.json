@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T15:49:01.661Z",
+  "generatedAt": "2026-09-01T20:20:24.635Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/big&",
+        "title": "Lawyer &#8216;broke out of the closet&#8217; after partner berated him; LGBTQ+ groups are now his clients",
+        "url": "https://www.abajournal.com/web/article/big&#45;firm&#45;associate&#45;experience&#45;led&#45;this&#45;employment&#45;lawyer&#45;to&#45;live&#45;life&#45;authentically/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-01T16:31:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/in&",
+        "title": "Lawyers withdraw as counsel for singer known as D4vd in murder trial of 14-year-old girl",
+        "url": "https://www.abajournal.com/news/article/in&#45;los&#45;angeles&#45;murder&#45;trial&#45;lawyers&#45;withdraw&#45;as&#45;counsel&#45;for&#45;singer&#45;known&#45;as&#45;d4vd/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-01T16:22:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/duquesne&",
+        "title": "Duquesne University law school looks to real-world legal AI use to inform curriculum",
+        "url": "https://www.abajournal.com/news/article/duquesne&#45;kline&#45;law&#45;looks&#45;to&#45;real&#45;world&#45;legal&#45;ai&#45;use&#45;to&#45;inform&#45;curriculum/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-01T15:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/jones&",
         "title": "Jones Day lawyer returns to firm after stint at DOJ",
@@ -115,36 +145,6 @@
         "publishedAt": "2026-08-31T17:17:47.000Z",
         "summary": "Newcode, an Oslo-based legal AI company that sells law firms a configurable AI harness rather than a finished assistant, has raised a Series A led by OnDean Forward, the investment firm founded by Relativity founder Andr",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/floyd&",
-        "title": "Floyd Mayweather Jr. brings fighting spirit to legal arena",
-        "url": "https://www.abajournal.com/news/article/floyd&#45;mayweather&#45;jr&#45;brings&#45;his&#45;fighting&#45;spirit&#45;to&#45;the&#45;legal&#45;arena/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-31T16:47:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/law&",
-        "title": "Law firms drive surge in office leasing in first half of 2026, new data shows",
-        "url": "https://www.abajournal.com/news/article/law&#45;firms&#45;drive&#45;surge&#45;in&#45;office&#45;leasing&#45;in&#45;first&#45;half&#45;of&#45;2026/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-31T16:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/dumb&",
-        "title": "&#8216;Dumb judge&#8217; and other insults turn up in BigLaw lawyers&#8217; emails in NCAA eligibility suit",
-        "url": "https://www.abajournal.com/news/article/dumb&#45;judge&#45;and&#45;other&#45;insults&#45;turn&#45;up&#45;in&#45;lawyers&#45;emails&#45;in&#45;ncaa&#45;eligibility&#45;suit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-31T15:51:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1178,16 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/05/law-librarians-name-thomson-reuters-cocounsel-as-winner-of-2026-new-product-award.html",
-        "title": "Law Librarians Name Thomson Reuters CoCounsel As Winner Of 2026 New Product Award",
-        "url": "https://www.lawnext.com/2026/05/law-librarians-name-thomson-reuters-cocounsel-as-winner-of-2026-new-product-award.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-15T13:51:47.000Z",
-        "summary": "The American Association of Law Libraries has named Thomson Reuters CoCounsel Legal the recipient of its 2026 New Product Award, the organization announced yesterday. AALL&#8217;s New Product Award recognizes commercial ",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1206,19 +1196,19 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/video/qfljxpvjk5dqeoogsy3d",
-        "title": "云原生弹性的能力，迁移成为 Agent 时代的数据基座能力之一？",
-        "url": "https://www.infoq.cn/video/QflJXpVJK5DqeoOgsY3D?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-01T21:24:38.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/su2betkpuhxx0jtvazbi",
         "title": "Expedia和Airbnb引入LLM生成的GraphQL模拟数据，不过规范相对滞后",
