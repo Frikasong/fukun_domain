@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T02:48:58.014Z",
+  "generatedAt": "2026-09-01T10:50:58.096Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/01/1-4-of-young-people-use-ai-for-their-legal-needs",
+        "title": "1/4 of Young People Use AI For Their Legal Needs",
+        "url": "https://www.artificiallawyer.com/2026/09/01/1-4-of-young-people-use-ai-for-their-legal-needs/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-01T09:35:40.000Z",
+        "summary": "A new survey of over 3,200 people has found that just over one quarter (26%) of 18 to 24 year olds have turned to AI ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/01/precisely-confronts-uncomfortable-clm-truth-with-lexnus",
+        "title": "Precisely Confronts ‘Uncomfortable’ CLM Truth With Lexnus",
+        "url": "https://www.artificiallawyer.com/2026/09/01/precisely-confronts-uncomfortable-clm-truth-with-lexnus/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-01T08:31:43.000Z",
+        "summary": "Precisely has launched Lexnus, a new CLM platform ‘that takes a fundamentally different approach’ and focuses heavily on a company&#8217;s legal policies via playbook creation. ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/01/stripe-moves-into-legal-tech-with-clerky",
+        "title": "Stripe Moves Into Legal Tech With Clerky",
+        "url": "https://www.artificiallawyer.com/2026/09/01/stripe-moves-into-legal-tech-with-clerky/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-01T07:02:18.000Z",
+        "summary": "Payments giant Stripe has taken a step into the legal tech world with Clerky, a company formed by ex-Orrick lawyers that helps startups with their ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/new&",
         "title": "New financial aid rules didn&#8217;t hurt incoming law class size",
@@ -195,36 +225,6 @@
         "publishedAt": "2026-08-26T10:05:08.000Z",
         "summary": "By Erin Fraser. The California legislature will wrap its 2025-2026 legislative session on August 31, but there is a bill still alive in the legislature ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/gemini-for-legal-and-the-battle-for-centrality",
-        "title": "Gemini for Legal and the Battle for Centrality",
-        "url": "https://www.artificiallawyer.com/2026/08/26/gemini-for-legal-and-the-battle-for-centrality/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-26T08:38:37.000Z",
-        "summary": "Google launching Gemini Enterprise for Legal (GEL) will have long-term ramifications for legal tech, however Artificial Lawyer can see one thing very clearly already: there ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/product-walk-through-monjur",
-        "title": "Product Walk Through: Monjur",
-        "url": "https://www.artificiallawyer.com/2026/08/26/product-walk-through-monjur/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-26T07:36:27.000Z",
-        "summary": "This week’s AL TV Product Walk Through is with Monjur, which handles the contract needs of Managed Service Providers. Tracy Lee Thibodeau, VP Product &#38; ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/same-facts-different-answer-legal-ais-consistency-problem",
-        "title": "Same Facts, Different Answer: Legal AI&#8217;s Consistency Problem",
-        "url": "https://www.artificiallawyer.com/2026/08/26/same-facts-different-answer-legal-ais-consistency-problem/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-26T06:44:24.000Z",
-        "summary": "By Shaz Aziz, Neota Logic. It is August 2026. A lawyer with no technical background can now build a working legal AI tool in a ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1210,11 +1210,31 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ql9rmrihmytaub4r53kw",
-        "title": "智元的“夺冠方法论”",
-        "url": "https://www.infoq.cn/article/Ql9rmriHMYtauB4R53Kw?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/u57ogmqcgnx26lclsdef",
+        "title": "VoidZero 发布 Vite+ Beta 版：通过单条命令即可调用的一体化 Web 工具链",
+        "url": "https://www.infoq.cn/article/u57OGmqCgNX26LClSDef?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-01T10:26:42.000Z",
+        "publishedAt": "2026-09-01T18:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/rs9fozslbijpwwbeynho",
+        "title": "AWS 发布 Aws-Bench，用于评估云任务中的智能代理",
+        "url": "https://www.infoq.cn/article/rs9FOZsLBIJPwWbeYNHO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-01T16:22:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/su2betkpuhxx0jtvazbi",
+        "title": "Expedia和Airbnb引入LLM生成的GraphQL模拟数据，不过规范相对滞后",
+        "url": "https://www.infoq.cn/article/Su2betkPUhxX0JTVazBi?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-01T11:55:29.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1265,16 +1285,6 @@
         "url": "https://www.infoq.cn/article/GuFWNd24Ww5AFlrXxTBo?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-08-31T15:03:08.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/yihrlklx6i6ip92bgv7k",
-        "title": "OpenAI 将全面断供 Cursor：SpaceX 收购后触发控制权条款",
-        "url": "https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-31T14:16:40.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
