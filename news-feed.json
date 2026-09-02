@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:20:24.635Z",
+  "generatedAt": "2026-09-02T02:09:15.378Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,36 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/epme6yoojgushdgztgfj",
+        "title": "Claude越狱后，Anthropic停掉训练、150人紧急转岗",
+        "url": "https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-02T09:42:36.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/o8p3ib5ityxpj4okgoq2",
+        "title": "如何让数据库更容易暴露 Bug？",
+        "url": "https://www.infoq.cn/video/O8p3IB5iTYxpJ4OKgOQ2?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-02T09:30:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/a1cmwgyyvte64n1s3ehv",
+        "title": "随着 AI 内存需求推高非 AI 基础设施价格，OVHcloud 将上调服务价格",
+        "url": "https://www.infoq.cn/article/A1CMWgYYvtE64N1s3EHv?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-02T09:10:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/su2betkpuhxx0jtvazbi",
         "title": "Expedia和Airbnb引入LLM生成的GraphQL模拟数据，不过规范相对滞后",
         "url": "https://www.infoq.cn/article/Su2betkPUhxX0JTVazBi?utm_source=rss&utm_medium=article",
@@ -1218,19 +1248,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/sdyqxrwr6zdpjulx4fa8",
-        "title": "AI Coding 之后，如何让 Agent 进入企业研发全链路？得物推荐的 Harness 实践",
-        "url": "https://www.infoq.cn/article/sDyQxrWR6zDPJuLX4FA8?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-08-31T16:39:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3365975/chinas-tech-push-fuels-fastest-profit-growth-4-years-amid-signs-economic-divide",
+        "title": "China’s tech push fuels fastest profit growth in 4 years amid signs of economic divide",
+        "url": "https://www.scmp.com/business/china-business/article/3365975/chinas-tech-push-fuels-fastest-profit-growth-4-years-amid-signs-economic-divide?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-02T00:00:18.000Z",
+        "summary": "Artificial intelligence demand and technological domestic substitution drove profit growth for Chinese listed companies to its fastest pace in four years in the first half, underscoring the nation’s K-shaped economy as i",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3365478/hong-kong-expands-ai-sandbox-projects-include-banks-securities-and-insurance",
         "title": "Hong Kong expands AI sandbox with projects that include banks, securities and insurance",
