@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T10:15:54.747Z",
+  "generatedAt": "2026-09-02T15:41:39.461Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,22 +8,62 @@
   "panels": {
     "na": [
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/02/we-use-ai-but-we-pass-on-the-savings-kyra-law",
-        "title": "‘We Use AI, But We Pass on the Savings’ &#8211; Kyra Law",
-        "url": "https://www.artificiallawyer.com/2026/09/02/we-use-ai-but-we-pass-on-the-savings-kyra-law/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-02T07:46:53.000Z",
-        "summary": "Kyra Law is a pioneering UK-based NewMod law firm. Artificial Lawyer spoke to co-founder Julian Ritter about leveraging AI with this new business model, the ...",
+        "id": "ABA Journal:www.abajournal.com/web/article/aba&",
+        "title": "Representation of clients with &#8216;decision-making limitations&#8217; addressed in new ABA ethics opinion",
+        "url": "https://www.abajournal.com/web/article/aba&#45;ethics&#45;opinion&#45;addresses&#45;representation&#45;of&#45;individuals&#45;with&#45;decision&#45;making&#45;limitations/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-02T15:03:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/texas&",
+        "title": "Attorney arrested and charged for allegedly running $1.45M Ponzi scheme",
+        "url": "https://www.abajournal.com/news/article/texas&#45;attorney&#45;arrested&#45;for&#45;running&#45;1.45m&#45;ponzi&#45;scheme&#45;federal&#45;prosecutors&#45;say/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-02T14:53:00.000Z",
+        "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/02/webinar-why-is-the-legal-ai-roi-conversation-still-broken",
-        "title": "Webinar: Why is the Legal AI ROI Conversation Still Broken?",
-        "url": "https://www.artificiallawyer.com/2026/09/02/webinar-why-is-the-legal-ai-roi-conversation-still-broken/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-02T06:43:15.000Z",
-        "summary": "On Wednesday, September 16, 4 PM BST, 11 AM ET, 8 AM PT, Chamelio and Artificial Lawyer will be holding a live webinar to explore the increasingly ...",
+        "id": "LawSites:www.lawnext.com/2026/09/filevine-takes-on-shepards-and-keycite-with-its-own-ai-case-law-citator-and-hallucination-checker.html",
+        "title": "Filevine Takes On Shepard’s and KeyCite With Its Own AI Case Law Citator and Hallucination Checker",
+        "url": "https://www.lawnext.com/2026/09/filevine-takes-on-shepards-and-keycite-with-its-own-ai-case-law-citator-and-hallucination-checker.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-02T14:24:33.000Z",
+        "summary": "The legal technology company Filevine has launched an AI-native citator and a companion brief-checking tool inside LOIS, its Legal Operating Intelligence System AI platform, that its CEO says perform as well as or better",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/iltacon&",
+        "title": "ILTACON 2026: The race to connect the dots—and the data",
+        "url": "https://www.abajournal.com/columns/article/iltacon&#45;2026&#45;and&#45;the&#45;race&#45;to&#45;connect&#45;the&#45;dots/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-02T14:20:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/does&",
+        "title": "Does Bryan Garner think AI will end bad legal writing?",
+        "url": "https://www.abajournal.com/columns/article/does&#45;bryan&#45;garner&#45;think&#45;ai&#45;will&#45;end&#45;bad&#45;legal&#45;writing/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-02T14:04:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/chemerinsky&",
+        "title": "Chemerinsky: The legal legacy of 9/11",
+        "url": "https://www.abajournal.com/columns/article/chemerinsky&#45;the&#45;legal&#45;legacy&#45;of&#45;9&#45;11/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-02T14:03:00.000Z",
+        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -78,86 +118,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
-        "title": "Lawyer arrested on charge he made terroristic threat against 16-year-old family member",
-        "url": "https://www.abajournal.com/news/article/lawyer&#45;arrested&#45;on&#45;a&#45;charge&#45;he&#45;made&#45;terroristic&#45;threat&#45;against&#45;16&#45;year&#45;old&#45;family&#45;member/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-01T14:41:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/voice/article/we&",
-        "title": "&#8216;We Want Information&#8217;: What &#8216;The Prisoner&#8217; knew about AI",
-        "url": "https://www.abajournal.com/voice/article/we&#45;want&#45;information&#45;what&#45;the&#45;prisoner&#45;knew&#45;about&#45;ai/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-01T14:06:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/01/1-4-of-young-people-use-ai-for-their-legal-needs",
-        "title": "1/4 of Young People Use AI For Their Legal Needs",
-        "url": "https://www.artificiallawyer.com/2026/09/01/1-4-of-young-people-use-ai-for-their-legal-needs/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-01T09:35:40.000Z",
-        "summary": "A new survey of over 3,200 people has found that just over one quarter (26%) of 18 to 24 year olds have turned to AI ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/01/precisely-confronts-uncomfortable-clm-truth-with-lexnus",
-        "title": "Precisely Confronts ‘Uncomfortable’ CLM Truth With Lexnus",
-        "url": "https://www.artificiallawyer.com/2026/09/01/precisely-confronts-uncomfortable-clm-truth-with-lexnus/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-01T08:31:43.000Z",
-        "summary": "Precisely has launched Lexnus, a new CLM platform ‘that takes a fundamentally different approach’ and focuses heavily on a company&#8217;s legal policies via playbook creation. ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/01/stripe-moves-into-legal-tech-with-clerky",
-        "title": "Stripe Moves Into Legal Tech With Clerky",
-        "url": "https://www.artificiallawyer.com/2026/09/01/stripe-moves-into-legal-tech-with-clerky/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-01T07:02:18.000Z",
-        "summary": "Payments giant Stripe has taken a step into the legal tech world with Clerky, a company formed by ex-Orrick lawyers that helps startups with their ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/new&",
-        "title": "New financial aid rules didn&#8217;t hurt incoming law class size",
-        "url": "https://www.abajournal.com/web/article/new&#45;financial&#45;aid&#45;rules&#45;didnt&#45;hurt&#45;incoming&#45;law&#45;class&#45;size/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-31T19:13:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/washington&",
-        "title": "Washington State Bar Association beefs up tech support for NextGen UBE retake",
-        "url": "https://www.abajournal.com/web/article/washington&#45;state&#45;bar&#45;beefs&#45;up&#45;tech&#45;support&#45;for&#45;nextgen&#45;ube&#45;retake/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-31T18:55:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/biglaw&",
-        "title": "BigLaw firms offer parental leave coaching to support lawyer parents, boost engagement",
-        "url": "https://www.abajournal.com/web/article/biglaw&#45;firms&#45;offer&#45;parental&#45;leave&#45;coaching&#45;to&#45;support&#45;lawyer&#45;parents&#45;boost&#45;engagement/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-08-31T18:14:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/08/series-a-round-for-newcode-an-ai-harness-for-legal-brings-its-funding-to-20m-and-fuels-u-s-expansion.html",
         "title": "Series A Round for Newcode, An AI Harness for Legal, Brings Its Funding To $20M and Fuels U.S. Expansion",
         "url": "https://www.lawnext.com/2026/08/series-a-round-for-newcode-an-ai-harness-for-legal-brings-its-funding-to-20m-and-fuels-u-s-expansion.html",
@@ -174,56 +134,6 @@
         "source": "LawSites",
         "publishedAt": "2026-08-28T16:54:10.000Z",
         "summary": "“We’ve reached peak legal tech.” That was the takeaway of a veteran legal tech CEO while attending this week’s ILTACON, the annual conference of the International Legal Technology Association. The conference was in Nashv",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/28/legal-world-is-booming-ai-roi-omg-legal-innovators",
-        "title": "Legal World Is Booming, AI ROI OMG! + Legal Innovators",
-        "url": "https://www.artificiallawyer.com/2026/08/28/legal-world-is-booming-ai-roi-omg-legal-innovators/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-28T07:20:23.000Z",
-        "summary": "Nashville had a party, but it was Google’s new Gemini Enterprise for Legal that stole the show – see AL coverage here – and what ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/iltacon-2026-day-three-briefing",
-        "title": "ILTACON 2026: Day Three Briefing",
-        "url": "https://www.artificiallawyer.com/2026/08/27/iltacon-2026-day-three-briefing/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-27T12:22:53.000Z",
-        "summary": "By the Draftwise team. Wednesday moved at a calmer pace and was also more reflective. Winston Weinberg, CEO of Harvey, summed it up: ‘This is ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/webinar-the-looming-legal-tidal-wave-sept-15",
-        "title": "Webinar: The Looming Legal Tidal Wave &#8211; Sept 15",
-        "url": "https://www.artificiallawyer.com/2026/08/27/webinar-the-looming-legal-tidal-wave-sept-15/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-27T11:06:05.000Z",
-        "summary": "On September 15, at 12 noon ET / 9 am PT / 5PM BST, LegalOn CEO, Daniel Lewis, will lead a live conversation with Artificial ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/google-weil-gemini-enterprise-for-legal",
-        "title": "Google, Weil + Gemini Enterprise for Legal",
-        "url": "https://www.artificiallawyer.com/2026/08/27/google-weil-gemini-enterprise-for-legal/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-27T07:45:25.000Z",
-        "summary": "Leading US law firm, Weil, contributed to the development of Google&#8217;s new Gemini Enterprise for Legal. Artificial Lawyer spoke to Andrew Simon, Weil’s Chief AI ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/accountability-by-design-in-agentic-contract-management",
-        "title": "Accountability by Design in Agentic Contract Management",
-        "url": "https://www.artificiallawyer.com/2026/08/27/accountability-by-design-in-agentic-contract-management/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-27T06:42:51.000Z",
-        "summary": "By Ken Priore, Deputy General Counsel, Docusign. Agentic AI has arrived for agreements. Software no longer only drafts a clause or flags a risk for ...",
         "category": "updates",
         "region": "na"
       },
@@ -1168,16 +1078,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/05/stilta-a-stockholm-startup-bringing-agentic-ai-to-patent-litigation-raises-10-5m-seed-led-by-andreessen-horowitz.html",
-        "title": "Stilta, A Swedish Startup Bringing Agentic AI To Patent Litigation, Raises $10.5M Seed Led By Andreessen Horowitz",
-        "url": "https://www.lawnext.com/2026/05/stilta-a-stockholm-startup-bringing-agentic-ai-to-patent-litigation-raises-10-5m-seed-led-by-andreessen-horowitz.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-19T13:00:57.000Z",
-        "summary": "A five-month-old Swedish startup that says its AI agents can do the heavy lifting of patent invalidity and infringement analysis has raised a $10.5 million seed round led by Andreessen Horowitz, one of the world&#8217;s ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1206,29 +1106,39 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/rhkvs8radp4avpzd0vzu",
-        "title": "当 AI 开始重写负载，数据库该如何重新设计？",
-        "url": "https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-02T18:07:15.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/el0ibcwagf1hxccjyuup",
-        "title": "Java 近期新闻：JDK 27-RC1、OpenJDK JEPs、Jakarta EE、BellSoft、Helidon、Micrometer、Tika 4.0",
-        "url": "https://www.infoq.cn/article/el0IBcWagf1hxccJYUUP?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-02T16:06:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/epme6yoojgushdgztgfj",
         "title": "Claude越狱后，Anthropic停掉训练、150人紧急转岗",
@@ -1240,17 +1150,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3366096/china-cracks-down-ai-deepfakes-and-clickbait-cluttering-wechat-rednote-douyin",
-        "title": "China cracks down on AI ‘slop’, clearing out clutter from WeChat, RedNote, Douyin",
-        "url": "https://www.scmp.com/tech/article/3366096/china-cracks-down-ai-deepfakes-and-clickbait-cluttering-wechat-rednote-douyin?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-02T09:15:21.000Z",
-        "summary": "China is cracking down on artificial intelligence-generated “slop” – low-grade, mass-produced synthetic content cluttering social media and news feeds – as part of a sweeping campaign against the abuse of the generative ",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
