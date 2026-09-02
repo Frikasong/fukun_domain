@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T02:09:15.378Z",
+  "generatedAt": "2026-09-02T10:15:54.747Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/02/we-use-ai-but-we-pass-on-the-savings-kyra-law",
+        "title": "‘We Use AI, But We Pass on the Savings’ &#8211; Kyra Law",
+        "url": "https://www.artificiallawyer.com/2026/09/02/we-use-ai-but-we-pass-on-the-savings-kyra-law/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-02T07:46:53.000Z",
+        "summary": "Kyra Law is a pioneering UK-based NewMod law firm. Artificial Lawyer spoke to co-founder Julian Ritter about leveraging AI with this new business model, the ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/02/webinar-why-is-the-legal-ai-roi-conversation-still-broken",
+        "title": "Webinar: Why is the Legal AI ROI Conversation Still Broken?",
+        "url": "https://www.artificiallawyer.com/2026/09/02/webinar-why-is-the-legal-ai-roi-conversation-still-broken/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-02T06:43:15.000Z",
+        "summary": "On Wednesday, September 16, 4 PM BST, 11 AM ET, 8 AM PT, Chamelio and Artificial Lawyer will be holding a live webinar to explore the increasingly ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/big&",
         "title": "Lawyer &#8216;broke out of the closet&#8217; after partner berated him; LGBTQ+ groups are now his clients",
@@ -204,26 +224,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-08-27T06:42:51.000Z",
         "summary": "By Ken Priore, Deputy General Counsel, Docusign. Agentic AI has arrived for agreements. Software no longer only drafts a clause or flags a risk for ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/iltacon-2026-day-two-briefing",
-        "title": "ILTACON 2026: Day Two Briefing",
-        "url": "https://www.artificiallawyer.com/2026/08/26/iltacon-2026-day-two-briefing/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-26T11:37:53.000Z",
-        "summary": "By the Draftwise team. Ask anyone on the show floor, and you&#8217;ll hear the same thing: ILTACON feels bigger this year, which is no small ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/26/california-sb-574-will-ais-home-state-kill-off-ai-for-law",
-        "title": "California SB 574: Will AI’s Home State Kill Off AI for Law?",
-        "url": "https://www.artificiallawyer.com/2026/08/26/california-sb-574-will-ais-home-state-kill-off-ai-for-law/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-26T10:05:08.000Z",
-        "summary": "By Erin Fraser. The California legislature will wrap its 2025-2026 legislative session on August 31, but there is a bill still alive in the legislature ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/rhkvs8radp4avpzd0vzu",
+        "title": "当 AI 开始重写负载，数据库该如何重新设计？",
+        "url": "https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-02T18:07:15.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/el0ibcwagf1hxccjyuup",
+        "title": "Java 近期新闻：JDK 27-RC1、OpenJDK JEPs、Jakarta EE、BellSoft、Helidon、Micrometer、Tika 4.0",
+        "url": "https://www.infoq.cn/article/el0IBcWagf1hxccJYUUP?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-02T16:06:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/epme6yoojgushdgztgfj",
         "title": "Claude越狱后，Anthropic停掉训练、150人紧急转岗",
         "url": "https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&utm_medium=article",
@@ -1218,56 +1238,16 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/o8p3ib5ityxpj4okgoq2",
-        "title": "如何让数据库更容易暴露 Bug？",
-        "url": "https://www.infoq.cn/video/O8p3IB5iTYxpJ4OKgOQ2?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-02T09:30:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/a1cmwgyyvte64n1s3ehv",
-        "title": "随着 AI 内存需求推高非 AI 基础设施价格，OVHcloud 将上调服务价格",
-        "url": "https://www.infoq.cn/article/A1CMWgYYvtE64N1s3EHv?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-02T09:10:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/su2betkpuhxx0jtvazbi",
-        "title": "Expedia和Airbnb引入LLM生成的GraphQL模拟数据，不过规范相对滞后",
-        "url": "https://www.infoq.cn/article/Su2betkPUhxX0JTVazBi?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-01T11:55:29.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3365975/chinas-tech-push-fuels-fastest-profit-growth-4-years-amid-signs-economic-divide",
-        "title": "China’s tech push fuels fastest profit growth in 4 years amid signs of economic divide",
-        "url": "https://www.scmp.com/business/china-business/article/3365975/chinas-tech-push-fuels-fastest-profit-growth-4-years-amid-signs-economic-divide?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/article/3366096/china-cracks-down-ai-deepfakes-and-clickbait-cluttering-wechat-rednote-douyin",
+        "title": "China cracks down on AI ‘slop’, clearing out clutter from WeChat, RedNote, Douyin",
+        "url": "https://www.scmp.com/tech/article/3366096/china-cracks-down-ai-deepfakes-and-clickbait-cluttering-wechat-rednote-douyin?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-09-02T00:00:18.000Z",
-        "summary": "Artificial intelligence demand and technological domestic substitution drove profit growth for Chinese listed companies to its fastest pace in four years in the first half, underscoring the nation’s K-shaped economy as i",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3365478/hong-kong-expands-ai-sandbox-projects-include-banks-securities-and-insurance",
-        "title": "Hong Kong expands AI sandbox with projects that include banks, securities and insurance",
-        "url": "https://www.scmp.com/business/banking-finance/article/3365478/hong-kong-expands-ai-sandbox-projects-include-banks-securities-and-insurance?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-08-27T11:30:08.000Z",
-        "summary": "Hong Kong’s financial regulators have selected the first batch of projects for an expanded generative artificial-intelligence (GenAI) testing programme spanning banking, securities, insurance and pensions, as the city ex",
+        "publishedAt": "2026-09-02T09:15:21.000Z",
+        "summary": "China is cracking down on artificial intelligence-generated “slop” – low-grade, mass-produced synthetic content cluttering social media and news feeds – as part of a sweeping campaign against the abuse of the generative ",
         "category": "updates",
         "region": "cn_en"
       }
