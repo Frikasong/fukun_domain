@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T02:15:52.026Z",
+  "generatedAt": "2026-09-03T10:26:46.936Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/03/the-innovators-conference",
+        "title": "The Innovators – ‘Conference’",
+        "url": "https://www.artificiallawyer.com/2026/09/03/the-innovators-conference/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-03T07:56:07.000Z",
+        "summary": "Recap: After the summer break, Katie’s adventures as head of innovation at Smyth &#38; Marmalade continue. Project Rubicon – to build their own AI system ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/03/building-the-judgment-layer-with-legal-ai-aloi",
+        "title": "Building the Judgment Layer with Legal AI – Aloi",
+        "url": "https://www.artificiallawyer.com/2026/09/03/building-the-judgment-layer-with-legal-ai-aloi/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-03T06:42:17.000Z",
+        "summary": "‘Legal AI can’t do judgment’, some have said, as if this were a sacrosanct area of legal work. But, AI can capture and leverage judgment ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/texas&",
         "title": "Former federal judge joins A&O Shearman as IP partner",
@@ -204,26 +224,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-08-27T12:22:53.000Z",
         "summary": "By the Draftwise team. Wednesday moved at a calmer pace and was also more reflective. Winston Weinberg, CEO of Harvey, summed it up: ‘This is ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/webinar-the-looming-legal-tidal-wave-sept-15",
-        "title": "Webinar: The Looming Legal Tidal Wave &#8211; Sept 15",
-        "url": "https://www.artificiallawyer.com/2026/08/27/webinar-the-looming-legal-tidal-wave-sept-15/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-27T11:06:05.000Z",
-        "summary": "On September 15, at 12 noon ET / 9 am PT / 5PM BST, LegalOn CEO, Daniel Lewis, will lead a live conversation with Artificial ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/google-weil-gemini-enterprise-for-legal",
-        "title": "Google, Weil + Gemini Enterprise for Legal",
-        "url": "https://www.artificiallawyer.com/2026/08/27/google-weil-gemini-enterprise-for-legal/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-27T07:45:25.000Z",
-        "summary": "Leading US law firm, Weil, contributed to the development of Google&#8217;s new Gemini Enterprise for Legal. Artificial Lawyer spoke to Andrew Simon, Weil’s Chief AI ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,66 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/hcqkk8oifwlmkw2zqss9",
+        "title": "从内部 Side Project 到 3.9 万开发者使用，Kiro Crew 创造者亲述开发幕后",
+        "url": "https://www.infoq.cn/article/hcQKK8OIfwlMKw2zQSS9?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-03T17:54:55.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ie4cyywblyyksbg7lxfx",
+        "title": "当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施",
+        "url": "https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-03T17:19:14.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/sjobmxzkuj5kx7tlnvkc",
+        "title": "3个月拿下 3000 star，只因我们比 MinerU 多做了这件事",
+        "url": "https://www.infoq.cn/article/SJOBmxzKUJ5kX7TLNVKC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-03T17:09:32.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/9yiehb3haftulxopmdgc",
+        "title": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "url": "https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-03T16:49:43.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/gz4w1nvnijjs8fzoaqzd",
+        "title": "AI窗口期只剩3-4年，98%的企业却高估了自身的技术成熟度",
+        "url": "https://www.infoq.cn/article/Gz4w1NVNIJjs8fZOaQZD?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-03T16:20:38.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/cg5y0kcfmwkrijcrazeh",
+        "title": "亚马逊云科技推出规范驱动组合：数据工作流不再靠复制代码",
+        "url": "https://www.infoq.cn/article/cg5y0kCfmWKrIjCraZeH?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-03T16:16:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/labxcnbt15hapoww69lq",
         "title": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
         "url": "https://www.infoq.cn/article/labxcNbT15HapoWw69lq?utm_source=rss&utm_medium=article",
@@ -1218,18 +1278,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/epme6yoojgushdgztgfj",
-        "title": "Claude越狱后，Anthropic停掉训练、150人紧急转岗",
-        "url": "https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-02T09:42:36.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3366216/tech-race-flashpoint-huang-musk-push-back-ai-guard-rails-amid-heated-us-china-rivalry",
+        "title": "Tech race flashpoint: Huang, Musk push back on AI guard rails amid heated US-China rivalry",
+        "url": "https://www.scmp.com/tech/big-tech/article/3366216/tech-race-flashpoint-huang-musk-push-back-ai-guard-rails-amid-heated-us-china-rivalry?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-03T08:00:26.000Z",
+        "summary": "US tech titans including Nvidia CEO Jensen Huang and Tesla’s Elon Musk are pressing global powers to curb artificial intelligence regulations, warning that strict guard rails risk suffocating innovation as the US and Chi",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
