@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T20:19:35.035Z",
+  "generatedAt": "2026-09-03T02:15:52.026Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,16 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/labxcnbt15hapoww69lq",
+        "title": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+        "url": "https://www.infoq.cn/article/labxcNbT15HapoWw69lq?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-03T09:09:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/epme6yoojgushdgztgfj",
         "title": "Claude越狱后，Anthropic停掉训练、150人紧急转岗",
