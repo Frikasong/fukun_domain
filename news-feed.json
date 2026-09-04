@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T20:19:44.617Z",
+  "generatedAt": "2026-09-04T02:11:17.181Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -134,6 +134,16 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-03T06:42:17.000Z",
         "summary": "‘Legal AI can’t do judgment’, some have said, as if this were a sacrosanct area of legal work. But, AI can capture and leverage judgment ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/safety-overview-gpt-6-astra",
+        "title": "Safety overview: GPT-6 Astra",
+        "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
         "category": "updates",
         "region": "na"
       },
@@ -1196,19 +1206,19 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/iv0rspyo5xzdj7797hlj",
+        "title": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "url": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-04T09:21:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/9yiehb3haftulxopmdgc",
         "title": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
