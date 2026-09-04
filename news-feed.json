@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T15:30:10.795Z",
+  "generatedAt": "2026-09-04T20:05:04.984Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawsuit&",
+        "title": "DOJ fired lawyer because she wouldn’t bend rules for Mel Gibson, lawsuit alleges",
+        "url": "https://www.abajournal.com/news/article/lawsuit&#45;alleges&#45;doj&#45;lawyer&#45;was&#45;fired&#45;because&#45;she&#45;wouldnt&#45;bend&#45;the&#45;rules&#45;for&#45;mel&#45;gibson/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-04T19:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/dc&",
+        "title": "DC appeals court blames Deutsche Bank lawyers for AI hallucinations",
+        "url": "https://www.abajournal.com/news/article/dc&#45;circuit&#45;blames&#45;deutsche&#45;bank&#45;lawyers&#45;for&#45;ai&#45;hallucinations/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-04T18:53:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/biglaw&",
+        "title": "2 BigLaw firms fined $2M, accused of helping client make false statements",
+        "url": "https://www.abajournal.com/news/article/biglaw&#45;firms&#45;fined&#45;2m&#45;for&#45;helping&#45;client&#45;make&#45;false&#45;statements/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-04T15:51:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/fiu&",
+        "title": "Florida International University faculty raise red flags as Trump aide moves to interim law dean post",
+        "url": "https://www.abajournal.com/news/article/fiu&#45;faculty&#45;raise&#45;red&#45;flags&#45;as&#45;trump&#45;aide&#45;moves&#45;to&#45;law&#45;dean&#45;post/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-04T15:36:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/home&",
         "title": "Home addresses of federal judges available online, new report says",
@@ -118,46 +158,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/personal&",
-        "title": "Personal injury case management platform Hona launches AI agent",
-        "url": "https://www.abajournal.com/news/article/personal&#45;injury&#45;case&#45;manager&#45;hona&#45;launches&#45;ai&#45;agent/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-03T16:23:00.000Z",
-        "summary": "",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/cyberattack&",
-        "title": "Cyberattack targeting Thomson Reuters&#8217; C-Track impacts courts in multiple jurisdictions",
-        "url": "https://www.abajournal.com/news/article/cyberattack&#45;targeting&#45;thomson&#45;reuters&#45;c&#45;track&#45;impacts&#45;courts&#45;in&#45;multiple&#45;jurisdictions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-03T15:59:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/west&",
-        "title": "State supreme court justice has medical incident on bench",
-        "url": "https://www.abajournal.com/news/article/west&#45;virginia&#45;supreme&#45;court&#45;cancels&#45;court&#45;when&#45;justice&#45;suffers&#45;medical&#45;incident/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-03T15:36:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
-        "title": "Florida Bar rejects judges&#8217; ethics complaint over DHS lawyer&#8217;s social media posts",
-        "url": "https://www.abajournal.com/news/article/florida&#45;bar&#45;rejects&#45;judges&#45;ethics&#45;complaint&#45;over&#45;dhs&#45;lawyers&#45;social&#45;media&#45;posts/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-03T15:09:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/09/iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity-reveal.html",
         "title": "ILTACON News Round-Up Part 1, E-Discovery: DISCO, Everlaw, Nuix, Relativity, Reveal",
         "url": "https://www.lawnext.com/2026/09/iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity-reveal.html",
@@ -184,16 +184,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-03T06:42:17.000Z",
         "summary": "‘Legal AI can’t do judgment’, some have said, as if this were a sacrosanct area of legal work. But, AI can capture and leverage judgment ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/safety-overview-gpt-6-astra",
-        "title": "Safety overview: GPT-6 Astra",
-        "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-        "source": "OpenAI News",
-        "publishedAt": "2026-09-03T00:00:00.000Z",
-        "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
         "category": "updates",
         "region": "na"
       },
@@ -1204,6 +1194,16 @@
         "source": "OpenAI News",
         "publishedAt": "2024-06-17T04:15:00.000Z",
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
       }
