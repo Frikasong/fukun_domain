@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T02:11:17.181Z",
+  "generatedAt": "2026-09-04T10:14:18.964Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/04/legal-innovators-uk-clio-chamelio-aloi",
+        "title": "Legal Innovators UK, Clio, Chamelio, Aloi +",
+        "url": "https://www.artificiallawyer.com/2026/09/04/legal-innovators-uk-clio-chamelio-aloi/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-04T07:47:20.000Z",
+        "summary": "We start the Wrap with news about Legal Innovators UK, London, Nov 4 + 5, and some of the excellent speakers we can already announce ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/meet&",
         "title": "Meet Melissa Hart, the new chair of the ABA Legal Ed council",
@@ -254,16 +264,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-08-28T07:20:23.000Z",
         "summary": "Nashville had a party, but it was Google’s new Gemini Enterprise for Legal that stole the show – see AL coverage here – and what ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/27/iltacon-2026-day-three-briefing",
-        "title": "ILTACON 2026: Day Three Briefing",
-        "url": "https://www.artificiallawyer.com/2026/08/27/iltacon-2026-day-three-briefing/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-27T12:22:53.000Z",
-        "summary": "By the Draftwise team. Wednesday moved at a calmer pace and was also more reflective. Winston Weinberg, CEO of Harvey, summed it up: ‘This is ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,11 +1210,41 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/iv0rspyo5xzdj7797hlj",
-        "title": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
-        "url": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/hwqs9a123hhtdytk0adq",
+        "title": "Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式",
+        "url": "https://www.infoq.cn/article/hWQs9a123hhtDYtk0ADQ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-04T09:21:00.000Z",
+        "publishedAt": "2026-09-04T17:23:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/mkgb7ziprlaifdzcwk0v",
+        "title": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+        "url": "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-04T13:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/6jc130in2oaxqspdizmj",
+        "title": "人人都能整个“自己的DeepSeek Harness”，那我们为啥还在给Claude Code们充会员？",
+        "url": "https://www.infoq.cn/article/6Jc130IN2OaXqsPDIzmJ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-04T10:22:50.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/m792kcz4fizk7yhe4wht",
+        "title": "“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队",
+        "url": "https://www.infoq.cn/article/M792kCZ4FIzk7YHe4WhT?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-04T10:16:42.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1225,16 +1255,6 @@
         "url": "https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-03T16:49:43.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/labxcnbt15hapoww69lq",
-        "title": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
-        "url": "https://www.infoq.cn/article/labxcNbT15HapoWw69lq?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-03T09:09:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
