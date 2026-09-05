@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T09:42:54.639Z",
+  "generatedAt": "2026-09-05T14:17:56.181Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,16 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/tij5t0vj1yk0s7uov7se",
-        "title": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
-        "url": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-05T17:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/bsxsiyqjexqdh8eo2kwl",
         "title": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
         "url": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article",
@@ -1280,17 +1270,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3366335/new-reality-chinas-entertainment-sector-ai-drama-goes-prime-time",
-        "title": "New reality for China’s entertainment sector as AI drama goes prime time",
-        "url": "https://www.scmp.com/tech/article/3366335/new-reality-chinas-entertainment-sector-ai-drama-goes-prime-time?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-05T07:00:07.000Z",
-        "summary": "From low-quality “slop” such as soap operas starring humanlike cats and dating shows featuring anthropomorphic fruit, to increasingly slick productions realistic enough to pass for live action, artificial intelligence-ge",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
