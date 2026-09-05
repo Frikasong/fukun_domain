@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T20:05:04.984Z",
+  "generatedAt": "2026-09-05T02:11:59.784Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,16 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/bsxsiyqjexqdh8eo2kwl",
+        "title": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+        "url": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-05T09:56:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/4c4rqugphaxgcx8g64ab",
         "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
