@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:44:57.389Z",
+  "generatedAt": "2026-09-06T02:07:33.524Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,16 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ufmveqdpiwm92btrahrp",
+        "title": "蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+        "url": "https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-06T09:15:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/bsxsiyqjexqdh8eo2kwl",
         "title": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
