@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T11:08:17.034Z",
+  "generatedAt": "2026-09-07T16:55:35.386Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,36 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/bewewltvchcpzuact36w",
-        "title": "利用 Workload Identity Federation 清除 GCP 中长期有效的凭据",
-        "url": "https://www.infoq.cn/article/bEwEWltvchcPZUACt36w?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-07T18:24:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hjybb35wmveu07htpwib",
-        "title": "Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
-        "url": "https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-07T17:34:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/utrvjxwesgdp2kzlhpiv",
-        "title": "AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来",
-        "url": "https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-07T16:32:04.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/boie7qfjxsqjhkutevvp",
         "title": "阿里前销售总监在美失踪逾半月后确认身亡；5天10万元！外国高管涌入中国“工厂游”；传DeepSeek计划采购16万颗昇腾芯片｜AI周报",
