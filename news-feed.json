@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T02:04:39.951Z",
+  "generatedAt": "2026-09-07T11:08:17.034Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/07/harvey-legora-on-openais-gpt-6-astra",
+        "title": "Harvey + Legora on OpenAI&#8217;s GPT-6 Astra",
+        "url": "https://www.artificiallawyer.com/2026/09/07/harvey-legora-on-openais-gpt-6-astra/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-07T07:23:10.000Z",
+        "summary": "OpenAI has released GPT-6 Astra, its new flagship model and their most capable LLM yet for end-to-end tasks. Both Harvey and Legora have provided some ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/lawsuit&",
         "title": "DOJ fired lawyer because she wouldn’t bend rules for Mel Gibson, lawsuit alleges",
@@ -274,16 +284,6 @@
         "source": "LawSites",
         "publishedAt": "2026-08-28T16:54:10.000Z",
         "summary": "“We’ve reached peak legal tech.” That was the takeaway of a veteran legal tech CEO while attending this week’s ILTACON, the annual conference of the International Legal Technology Association. The conference was in Nashv",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/08/28/legal-world-is-booming-ai-roi-omg-legal-innovators",
-        "title": "Legal World Is Booming, AI ROI OMG! + Legal Innovators",
-        "url": "https://www.artificiallawyer.com/2026/08/28/legal-world-is-booming-ai-roi-omg-legal-innovators/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-08-28T07:20:23.000Z",
-        "summary": "Nashville had a party, but it was Google’s new Gemini Enterprise for Legal that stole the show – see AL coverage here – and what ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,56 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/bewewltvchcpzuact36w",
+        "title": "利用 Workload Identity Federation 清除 GCP 中长期有效的凭据",
+        "url": "https://www.infoq.cn/article/bEwEWltvchcPZUACt36w?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-07T18:24:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hjybb35wmveu07htpwib",
+        "title": "Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
+        "url": "https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-07T17:34:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/utrvjxwesgdp2kzlhpiv",
+        "title": "AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来",
+        "url": "https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-07T16:32:04.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/boie7qfjxsqjhkutevvp",
+        "title": "阿里前销售总监在美失踪逾半月后确认身亡；5天10万元！外国高管涌入中国“工厂游”；传DeepSeek计划采购16万颗昇腾芯片｜AI周报",
+        "url": "https://www.infoq.cn/article/boiE7qfjxSQjHKUtevvp?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-07T14:05:35.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/stpcll13xcqsoyrfwslb",
+        "title": "微软将人工智能治理从政策层面转向运行时执行",
+        "url": "https://www.infoq.cn/article/STpCLL13xCQsoYrfWSLb?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-07T12:35:44.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/bsxsiyqjexqdh8eo2kwl",
         "title": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
         "url": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article",
@@ -1225,36 +1275,6 @@
         "url": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-04T22:18:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mkgb7ziprlaifdzcwk0v",
-        "title": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
-        "url": "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-04T13:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/6jc130in2oaxqspdizmj",
-        "title": "人人都能整个“自己的DeepSeek Harness”，那我们为啥还在给Claude Code们充会员？",
-        "url": "https://www.infoq.cn/article/6Jc130IN2OaXqsPDIzmJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-04T10:22:50.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/m792kcz4fizk7yhe4wht",
-        "title": "“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队",
-        "url": "https://www.infoq.cn/article/M792kCZ4FIzk7YHe4WhT?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-04T10:16:42.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
