@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T15:43:19.486Z",
+  "generatedAt": "2026-09-08T20:31:31.466Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,66 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/perry&",
+        "title": "Is Perry Mason TV&#8217;s most effective lawyer? New study names top 5",
+        "url": "https://www.abajournal.com/news/article/perry&#45;mason&#45;named&#45;most&#45;effective&#45;tv&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-08T19:21:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/09/on-lawnext-casefleet-founder-jeff-kerr-on-fact-management-in-the-age-of-ai.html",
+        "title": "On LawNext: Casefleet Founder Jeff Kerr on Fact Management in the Age of AI",
+        "url": "https://www.lawnext.com/2026/09/on-lawnext-casefleet-founder-jeff-kerr-on-fact-management-in-the-age-of-ai.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-08T18:54:33.000Z",
+        "summary": "Chronologies have become one of legal tech&#8217;s hottest categories, with a wave of AI startups promising to turn a messy evidentiary record into a structured timeline in minutes. Jeff Kerr and his company Casefleet we",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/codex-quantum-computing-experiments",
+        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "url": "https://openai.com/index/codex-quantum-computing-experiments",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-08T17:00:00.000Z",
+        "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/legal&",
+        "title": "ABA Legal Ed council repeals DEI standard",
+        "url": "https://www.abajournal.com/web/article/legal&#45;ed&#45;council&#45;kills&#45;dei&#45;standard/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-08T16:38:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
+        "title": "Lawyer who cited paraphrasing as direct quotes in 2nd Circuit brief says AI played a role",
+        "url": "https://www.abajournal.com/news/article/lawyer&#45;admits&#45;to&#45;citing&#45;paraphrasing&#45;as&#45;direct&#45;quotes&#45;in&#45;2nd&#45;circut&#45;brief&#45;and&#45;says&#45;ai&#45;played&#45;a&#45;role/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-08T16:16:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/08/chamelio-launches-always-on-ai-agent-hub",
+        "title": "Chamelio Launches ‘Always On’ AI Agent Hub",
+        "url": "https://www.artificiallawyer.com/2026/09/08/chamelio-launches-always-on-ai-agent-hub/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-08T16:01:05.000Z",
+        "summary": "Legal intelligence platform, Chamelio, has launched Agent Hub, which lets inhouse lawyers use a suite of ‘always-on AI agents’ that can work independently, monitor what ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/after&",
         "title": "After jury deadlock and mistrial, Lindsay Clancy could face second trial",
@@ -128,36 +188,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/fiu&",
-        "title": "Florida International University faculty raise red flags as Trump aide moves to interim law dean post",
-        "url": "https://www.abajournal.com/news/article/fiu&#45;faculty&#45;raise&#45;red&#45;flags&#45;as&#45;trump&#45;aide&#45;moves&#45;to&#45;law&#45;dean&#45;post/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-04T15:36:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/home&",
-        "title": "Home addresses of federal judges available online, new report says",
-        "url": "https://www.abajournal.com/news/article/home&#45;addresses&#45;of&#45;federal&#45;judges&#45;available&#45;online&#45;report&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-04T15:10:00.000Z",
-        "summary": "",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/will&",
-        "title": "Will California lawyers see new AI guidance?",
-        "url": "https://www.abajournal.com/news/article/will&#45;california&#45;lawyers&#45;see&#45;new&#45;ai&#45;guidance/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-04T14:50:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/09/iltacon-news-round-up-part-4-the-business-of-law-litera-aderant-oddr-tre-ai-intapp.html",
         "title": "ILTACON News Round-Up Part 4, The Business of Law: Litera, Aderant, Oddr, TRĒ AI, Intapp",
         "url": "https://www.lawnext.com/2026/09/iltacon-news-round-up-part-4-the-business-of-law-litera-aderant-oddr-tre-ai-intapp.html",
@@ -254,16 +284,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-02T11:52:02.000Z",
         "summary": "15% of lawyers at large law firms are &#8216;now dependent on AI’ to do their job, a survey by LexisNexis in the UK has found. ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/02/we-use-ai-but-we-pass-on-the-savings-kyra-law",
-        "title": "‘We Use AI, But We Pass on the Savings’ &#8211; Kyra Law",
-        "url": "https://www.artificiallawyer.com/2026/09/02/we-use-ai-but-we-pass-on-the-savings-kyra-law/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-02T07:46:53.000Z",
-        "summary": "Kyra Law is a pioneering UK-based NewMod law firm. Artificial Lawyer spoke to co-founder Julian Ritter about leveraging AI with this new business model, the ...",
         "category": "updates",
         "region": "na"
       },
@@ -1168,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/05/ahead-of-june-10-shareholder-vote-union-investor-renews-push-for-thomson-reuters-to-assess-human-rights-impact-of-its-products-used-by-ice.html",
-        "title": "Ahead of June 10 Shareholder Vote, Union Investor Renews Push for Thomson Reuters to Assess Human Rights Impact of Its Products Used By ICE",
-        "url": "https://www.lawnext.com/2026/05/ahead-of-june-10-shareholder-vote-union-investor-renews-push-for-thomson-reuters-to-assess-human-rights-impact-of-its-products-used-by-ice.html",
-        "source": "LawSites",
-        "publishedAt": "2026-05-26T17:47:18.000Z",
-        "summary": "Last month, I wrote about the pushback by employees, shareholders and others against Thomson Reuters over its contracts to sell law enforcement data to U.S. Immigration and Customs Enforcement (ICE), primarily through tw",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1194,16 +1204,6 @@
         "source": "OpenAI News",
         "publishedAt": "2024-06-17T04:15:00.000Z",
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
       }
@@ -1240,17 +1240,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-evs/article/3366461/tesla-exhibit-cybercab-robotaxi-china-can-it-spark-buzz-amid-slow-sales",
-        "title": "Tesla to exhibit Cybercab robotaxi in China: can it spark buzz amid slow sales?",
-        "url": "https://www.scmp.com/business/china-evs/article/3366461/tesla-exhibit-cybercab-robotaxi-china-can-it-spark-buzz-amid-slow-sales?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-06T04:00:09.000Z",
-        "summary": "Tesla is facing weaker sales in China this year, but the American electric vehicle (EV) manufacturer is looking to generate a buzz in its second-largest market by exhibiting its new self-driving vehicle, the Cybercab. Th",
-        "category": "tools",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
