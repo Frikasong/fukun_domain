@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T20:56:16.959Z",
+  "generatedAt": "2026-09-08T02:16:43.874Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,16 +7,6 @@
   },
   "panels": {
     "na": [
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/07/harvey-legora-on-openais-gpt-6-astra",
-        "title": "Harvey + Legora on OpenAI&#8217;s GPT-6 Astra",
-        "url": "https://www.artificiallawyer.com/2026/09/07/harvey-legora-on-openais-gpt-6-astra/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-07T07:23:10.000Z",
-        "summary": "OpenAI has released GPT-6 Astra, its new flagship model and their most capable LLM yet for end-to-end tasks. Both Harvey and Legora have provided some ...",
-        "category": "updates",
-        "region": "na"
-      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/lawsuit&",
         "title": "DOJ fired lawyer because she wouldn’t bend rules for Mel Gibson, lawsuit alleges",
@@ -118,16 +108,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/04/legal-innovators-uk-clio-chamelio-aloi",
-        "title": "Legal Innovators UK, Clio, Chamelio, Aloi +",
-        "url": "https://www.artificiallawyer.com/2026/09/04/legal-innovators-uk-clio-chamelio-aloi/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-04T07:47:20.000Z",
-        "summary": "We start the Wrap with news about Legal Innovators UK, London, Nov 4 + 5, and some of the excellent speakers we can already announce ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "ABA Journal:www.abajournal.com/web/article/meet&",
         "title": "Meet Melissa Hart, the new chair of the ABA Legal Ed council",
         "url": "https://www.abajournal.com/web/article/meet&#45;melissa&#45;hart&#45;new&#45;chair&#45;of&#45;the&#45;aba&#45;legal&#45;ed&#45;council/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -178,26 +158,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/03/the-innovators-conference",
-        "title": "The Innovators – ‘Conference’",
-        "url": "https://www.artificiallawyer.com/2026/09/03/the-innovators-conference/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-03T07:56:07.000Z",
-        "summary": "Recap: After the summer break, Katie’s adventures as head of innovation at Smyth &#38; Marmalade continue. Project Rubicon – to build their own AI system ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/03/building-the-judgment-layer-with-legal-ai-aloi",
-        "title": "Building the Judgment Layer with Legal AI – Aloi",
-        "url": "https://www.artificiallawyer.com/2026/09/03/building-the-judgment-layer-with-legal-ai-aloi/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-03T06:42:17.000Z",
-        "summary": "‘Legal AI can’t do judgment’, some have said, as if this were a sacrosanct area of legal work. But, AI can capture and leverage judgment ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/09/filevine-takes-on-shepards-and-keycite-with-its-own-ai-case-law-citator-and-hallucination-checker.html",
         "title": "Filevine Takes On Shepard’s and KeyCite With Its Own AI Case Law Citator and Hallucination Checker",
         "url": "https://www.lawnext.com/2026/09/filevine-takes-on-shepards-and-keycite-with-its-own-ai-case-law-citator-and-hallucination-checker.html",
@@ -205,66 +165,6 @@
         "publishedAt": "2026-09-02T14:24:33.000Z",
         "summary": "The legal technology company Filevine has launched an AI-native citator and a companion brief-checking tool inside LOIS, its Legal Operating Intelligence System AI platform, that its CEO says perform as well as or better",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/02/15-of-large-firm-lawyers-now-dependent-on-ai",
-        "title": "15% of Large Firm Lawyers &#8216;Now Dependent on AI’",
-        "url": "https://www.artificiallawyer.com/2026/09/02/15-of-large-firm-lawyers-now-dependent-on-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-02T11:52:02.000Z",
-        "summary": "15% of lawyers at large law firms are &#8216;now dependent on AI’ to do their job, a survey by LexisNexis in the UK has found. ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/02/we-use-ai-but-we-pass-on-the-savings-kyra-law",
-        "title": "‘We Use AI, But We Pass on the Savings’ &#8211; Kyra Law",
-        "url": "https://www.artificiallawyer.com/2026/09/02/we-use-ai-but-we-pass-on-the-savings-kyra-law/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-02T07:46:53.000Z",
-        "summary": "Kyra Law is a pioneering UK-based NewMod law firm. Artificial Lawyer spoke to co-founder Julian Ritter about leveraging AI with this new business model, the ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/02/webinar-why-is-the-legal-ai-roi-conversation-still-broken",
-        "title": "Webinar: Why is the Legal AI ROI Conversation Still Broken?",
-        "url": "https://www.artificiallawyer.com/2026/09/02/webinar-why-is-the-legal-ai-roi-conversation-still-broken/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-02T06:43:15.000Z",
-        "summary": "On Wednesday, September 16, 4 PM BST, 11 AM ET, 8 AM PT, Chamelio and Artificial Lawyer will be holding a live webinar to explore the increasingly ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/01/1-4-of-young-people-use-ai-for-their-legal-needs",
-        "title": "1/4 of Young People Use AI For Their Legal Needs",
-        "url": "https://www.artificiallawyer.com/2026/09/01/1-4-of-young-people-use-ai-for-their-legal-needs/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-01T09:35:40.000Z",
-        "summary": "A new survey of over 3,200 people has found that just over one quarter (26%) of 18 to 24 year olds have turned to AI ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/01/precisely-confronts-uncomfortable-clm-truth-with-lexnus",
-        "title": "Precisely Confronts ‘Uncomfortable’ CLM Truth With Lexnus",
-        "url": "https://www.artificiallawyer.com/2026/09/01/precisely-confronts-uncomfortable-clm-truth-with-lexnus/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-01T08:31:43.000Z",
-        "summary": "Precisely has launched Lexnus, a new CLM platform ‘that takes a fundamentally different approach’ and focuses heavily on a company&#8217;s legal policies via playbook creation. ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/01/stripe-moves-into-legal-tech-with-clerky",
-        "title": "Stripe Moves Into Legal Tech With Clerky",
-        "url": "https://www.artificiallawyer.com/2026/09/01/stripe-moves-into-legal-tech-with-clerky/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-01T07:02:18.000Z",
-        "summary": "Payments giant Stripe has taken a step into the legal tech world with Clerky, a company formed by ex-Orrick lawyers that helps startups with their ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,9 +1106,49 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hoj5r8sqvqsgvm0knhtd",
+        "title": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
+        "url": "https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-08T09:11:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/boie7qfjxsqjhkutevvp",
         "title": "阿里前销售总监在美失踪逾半月后确认身亡；5天10万元！外国高管涌入中国“工厂游”；传DeepSeek计划采购16万颗昇腾芯片｜AI周报",
@@ -1235,16 +1175,6 @@
         "url": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-05T09:56:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/4c4rqugphaxgcx8g64ab",
-        "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
-        "url": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-04T22:18:30.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
