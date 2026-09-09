@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T20:31:31.466Z",
+  "generatedAt": "2026-09-09T02:20:07.652Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/owxmsobp9h1wfcrqw000",
+        "title": "Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
+        "url": "https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-09T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qhiikwm0gj0mcqtugmsi",
+        "title": "Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！",
+        "url": "https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-09T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/c8wbrpaljejlfsh2xjjj",
         "title": "Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息",
         "url": "https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&utm_medium=article",
@@ -1240,6 +1260,17 @@
         "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/presented/business/topics/ai-transformation/article/3366579/octopus-appoints-wonderful-advance-ai-transformation",
+        "title": "Octopus Appoints Wonderful to Advance AI Transformation",
+        "url": "https://www.scmp.com/presented/business/topics/ai-transformation/article/3366579/octopus-appoints-wonderful-advance-ai-transformation?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-09T02:00:10.000Z",
+        "summary": "[The content of this article has been produced by our advertising partner.] (Hong Kong, 27 August 2026) – Octopus Cards Limited (“Octopus”) has engaged Wonderful to support its applied AI transformation, with a focus on ",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
