@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T02:20:07.652Z",
+  "generatedAt": "2026-09-09T10:28:17.667Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/09/qa-jen-leonard-on-unprecedented-and-the-future-of-law",
+        "title": "Q&#038;A: Jen Leonard on Unprecedented and the Future of Law",
+        "url": "https://www.artificiallawyer.com/2026/09/09/qa-jen-leonard-on-unprecedented-and-the-future-of-law/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-09T07:41:05.000Z",
+        "summary": "At a recent Practising Law Institute event celebrating the publication of her book, Unprecedented, Jen Leonard sat down for a Q&#38;A to discuss the challenges ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/09/caddi-back-office-automation-for-lawyers",
+        "title": "Caddi – Back-Office Automation For Lawyers",
+        "url": "https://www.artificiallawyer.com/2026/09/09/caddi-back-office-automation-for-lawyers/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-09T06:40:25.000Z",
+        "summary": "In this week’s AL TV Product Walk Through we take a look at Caddi, which provides back-office automation for lawyers. As Co-Founder &#38; CEO, Alejandro ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/perry&",
         "title": "Is Perry Mason TV&#8217;s most effective lawyer? New study names top 5",
@@ -24,16 +44,6 @@
         "source": "LawSites",
         "publishedAt": "2026-09-08T18:54:33.000Z",
         "summary": "Chronologies have become one of legal tech&#8217;s hottest categories, with a wave of AI startups promising to turn a messy evidentiary record into a structured timeline in minutes. Jeff Kerr and his company Casefleet we",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/codex-quantum-computing-experiments",
-        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-        "url": "https://openai.com/index/codex-quantum-computing-experiments",
-        "source": "OpenAI News",
-        "publishedAt": "2026-09-08T17:00:00.000Z",
-        "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
         "category": "updates",
         "region": "na"
       },
@@ -258,16 +268,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/03/building-the-judgment-layer-with-legal-ai-aloi",
-        "title": "Building the Judgment Layer with Legal AI – Aloi",
-        "url": "https://www.artificiallawyer.com/2026/09/03/building-the-judgment-layer-with-legal-ai-aloi/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-03T06:42:17.000Z",
-        "summary": "‘Legal AI can’t do judgment’, some have said, as if this were a sacrosanct area of legal work. But, AI can capture and leverage judgment ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/09/filevine-takes-on-shepards-and-keycite-with-its-own-ai-case-law-citator-and-hallucination-checker.html",
         "title": "Filevine Takes On Shepard’s and KeyCite With Its Own AI Case Law Citator and Hallucination Checker",
         "url": "https://www.lawnext.com/2026/09/filevine-takes-on-shepards-and-keycite-with-its-own-ai-case-law-citator-and-hallucination-checker.html",
@@ -275,16 +275,6 @@
         "publishedAt": "2026-09-02T14:24:33.000Z",
         "summary": "The legal technology company Filevine has launched an AI-native citator and a companion brief-checking tool inside LOIS, its Legal Operating Intelligence System AI platform, that its CEO says perform as well as or better",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/02/15-of-large-firm-lawyers-now-dependent-on-ai",
-        "title": "15% of Large Firm Lawyers &#8216;Now Dependent on AI’",
-        "url": "https://www.artificiallawyer.com/2026/09/02/15-of-large-firm-lawyers-now-dependent-on-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-02T11:52:02.000Z",
-        "summary": "15% of lawyers at large law firms are &#8216;now dependent on AI’ to do their job, a survey by LexisNexis in the UK has found. ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,25 +1196,55 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/owxmsobp9h1wfcrqw000",
-        "title": "Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
-        "url": "https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/xxrz8ujads3s51aqochf",
+        "title": "面向 Agent 开发的数据库新范式 | 腾讯云数据库 DBTalk",
+        "url": "https://www.infoq.cn/video/xXRz8UJAdS3S51AqOchf?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-09T10:00:00.000Z",
+        "publishedAt": "2026-09-09T18:17:24.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/qhiikwm0gj0mcqtugmsi",
-        "title": "Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！",
-        "url": "https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/qqfyjfd6mgxvercfmyyi",
+        "title": "jQuery 二十年：一个小小的库如何重塑了 Web 开发",
+        "url": "https://www.infoq.cn/article/qqfyJFd6mGXvErcfmyYI?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-09T09:00:00.000Z",
+        "publishedAt": "2026-09-09T17:37:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wljkefjxmgak9o91ow2z",
+        "title": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
+        "url": "https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-09T16:30:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qf5dy8qyzruzaea9jg5z",
+        "title": "如何在人工智能时代开展严谨且可持续的人工审核",
+        "url": "https://www.infoq.cn/article/Qf5dY8QyzRUZaeA9JG5Z?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-09T14:01:38.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1238,37 +1258,17 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/rdesg5icyiz71j7xb69k",
-        "title": "OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互",
-        "url": "https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-08T13:32:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zmiqafpda993wfozmtt3",
-        "title": "AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海",
-        "url": "https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-08T11:10:18.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/presented/business/topics/ai-transformation/article/3366579/octopus-appoints-wonderful-advance-ai-transformation",
-        "title": "Octopus Appoints Wonderful to Advance AI Transformation",
-        "url": "https://www.scmp.com/presented/business/topics/ai-transformation/article/3366579/octopus-appoints-wonderful-advance-ai-transformation?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3366863/china-embraces-ai-only-24-us-pharma-execs-bet-it-drug-making",
+        "title": "As China embraces AI, only 24% of US pharma execs bet on it for drug-making",
+        "url": "https://www.scmp.com/business/china-business/article/3366863/china-embraces-ai-only-24-us-pharma-execs-bet-it-drug-making?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-09-09T02:00:10.000Z",
-        "summary": "[The content of this article has been produced by our advertising partner.] (Hong Kong, 27 August 2026) – Octopus Cards Limited (“Octopus”) has engaged Wonderful to support its applied AI transformation, with a focus on ",
-        "category": "updates",
+        "publishedAt": "2026-09-09T06:00:15.000Z",
+        "summary": "Pharmaceutical companies have embraced artificial intelligence in drug research almost universally, yet few company executives expect AI to actually make drugs succeed, according to a Citi survey released on Tuesday. “Th",
+        "category": "articles",
         "region": "cn_en"
       }
     ]
