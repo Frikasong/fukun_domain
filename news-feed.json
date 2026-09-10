@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T15:34:11.993Z",
+  "generatedAt": "2026-09-10T20:15:41.490Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/doj&",
+        "title": "UC Berkeley Law discriminated in admissions, DOJ says",
+        "url": "https://www.abajournal.com/web/article/doj&#45;says&#45;uc&#45;berkeley&#45;law&#45;discriminated&#45;in&#45;admissions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-10T19:52:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/lindsay&",
+        "title": "Lindsay Clancy trial shows how hard it is to prove intent retroactively",
+        "url": "https://www.abajournal.com/columns/article/lindsay&#45;clancy&#45;trial&#45;shows&#45;how&#45;hard&#45;it&#45;is&#45;to&#45;prove&#45;intent&#45;retroactively/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-10T17:15:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/harvey&",
+        "title": "Harvey raises $550M in latest round of funding",
+        "url": "https://www.abajournal.com/news/article/harvey&#45;raises&#45;550&#45;million&#45;in&#45;latest&#45;round&#45;of&#45;funding/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-10T16:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/vanderbilt&",
+        "title": "Vanderbilt law students will gain access to AI-powered deposition simulations",
+        "url": "https://www.abajournal.com/news/article/vanderbilt&#45;law&#45;students&#45;to&#45;gain&#45;access&#45;to&#45;ai&#45;powered&#45;deposition&#45;simulations/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-10T16:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/is&",
         "title": "Is there a religious right to abortion? State supreme court will weigh in",
@@ -88,6 +128,16 @@
         "region": "na"
       },
       {
+        "id": "OpenAI News:openai.com/index/introducing-chatgpt-financial-services",
+        "title": "Introducing ChatGPT for Financial Services",
+        "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-10T07:00:00.000Z",
+        "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+        "category": "articles",
+        "region": "na"
+      },
+      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/10/white-case-invests-in-saudi-startup-clauze",
         "title": "White &#038; Case Invests in Saudi Startup Clauze",
         "url": "https://www.artificiallawyer.com/2026/09/10/white-case-invests-in-saudi-startup-clauze/",
@@ -98,32 +148,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/ohio&",
-        "title": "State attorney general sues J. Peterman, retailer linked to &#8216;Seinfeld&#8217; TV show",
-        "url": "https://www.abajournal.com/news/article/ohio&#45;attorney&#45;general&#45;sues&#45;j&#45;peterman&#45;retailer&#45;linked&#45;to&#45;seinfeld/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-09T19:51:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/the&",
-        "title": "AI policy your bar association wrote is for BigLaw; here&#8217;s what solo, small firms should do instead",
-        "url": "https://www.abajournal.com/columns/article/the&#45;ai&#45;policy&#45;your&#45;bar&#45;association&#45;wrote&#45;is&#45;for&#45;biglaw&#45;what&#45;solo&#45;and&#45;small&#45;firms&#45;should&#45;do&#45;instead/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-09T19:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/the&",
-        "title": "The Burton Book Review: &#8216;Bad Law: Ten Popular Laws that are Ruining America,&#8217; by Elie Mystal",
-        "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;bad&#45;law&#45;ten&#45;popular&#45;laws&#45;that&#45;are&#45;ruining&#45;america&#45;by&#45;elie&#45;mystal/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-09T18:34:00.000Z",
-        "summary": "",
+        "id": "OpenAI News:openai.com/index/introducing-gpt-live-1-in-the-api",
+        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
         "category": "updates",
         "region": "na"
       },
@@ -1175,36 +1205,6 @@
         "publishedAt": "2025-08-07T00:00:00.000Z",
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
         "region": "na"
       }
     ],
