@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:18:31.672Z",
+  "generatedAt": "2026-09-10T15:34:11.993Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,96 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/is&",
+        "title": "Is there a religious right to abortion? State supreme court will weigh in",
+        "url": "https://www.abajournal.com/news/article/is&#45;there&#45;a&#45;religious&#45;right&#45;to&#45;abortion&#45;indiana&#45;supreme&#45;court&#45;to&#45;weigh&#45;in/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-10T15:31:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/judges&",
+        "title": "Federal judges&#8217; interns may accept stipends from law firms, ethics panel says",
+        "url": "https://www.abajournal.com/news/article/judges&#45;interns&#45;may&#45;accept&#45;stipends&#45;from&#45;law&#45;firms&#45;recruiting&#45;them&#45;ethics&#45;panel&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-10T15:12:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/former&",
+        "title": "Former lawyer who pulled gun on ex-wife in restaurant convicted of attempted murder",
+        "url": "https://www.abajournal.com/news/article/former&#45;lawyer&#45;who&#45;pulled&#45;gun&#45;on&#45;ex&#45;wife&#45;in&#45;restaurant&#45;convicted&#45;of&#45;attempted&#45;murder/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-10T14:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/fighting&",
+        "title": "Fighting for attention with AI ads, attorney’s estate planning billboard gets right to the point",
+        "url": "https://www.abajournal.com/news/article/fighting&#45;for&#45;attention&#45;with&#45;ai&#45;ads&#45;attorneys&#45;estate&#45;planning&#45;billboard&#45;gets&#45;right&#45;to&#45;the&#45;point/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-10T14:43:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/safe&",
+        "title": "Safe Strategies? 25 years after 9/11, some wonder whether the DOJ’s focus on preventing terrorism is compromised",
+        "url": "https://www.abajournal.com/web/article/safe&#45;strategies/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-10T14:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/new&",
+        "title": "New ABA/Krill Strategies lawyer mental health study shows escalating burnout, risky alcohol use",
+        "url": "https://www.abajournal.com/news/article/new&#45;aba&#45;krill&#45;strategies&#45;lawyer&#45;mental&#45;health&#45;study&#45;shows&#45;escalating&#45;burnout&#45;risky&#45;alcohol&#45;use/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-10T14:26:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/10/the-innovators-memories",
+        "title": "The Innovators – ‘Memories’",
+        "url": "https://www.artificiallawyer.com/2026/09/10/the-innovators-memories/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-10T09:12:28.000Z",
+        "summary": "On one hand Katie was happy to depart San Francisco. She’d had quite enough of the conspiratorial shenanigans. Sara Keating, and most of all Harry ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/10/why-legal-research-needs-a-specialist-layer",
+        "title": "Why Legal Research Needs a Specialist Layer",
+        "url": "https://www.artificiallawyer.com/2026/09/10/why-legal-research-needs-a-specialist-layer/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-10T07:08:02.000Z",
+        "summary": "By Jean-Rémi de Maistre, CEO, Jus Mundi. The legal AI market is converging as general-purpose AI and legal workflow platforms compete to be the interface ...",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/10/white-case-invests-in-saudi-startup-clauze",
+        "title": "White &#038; Case Invests in Saudi Startup Clauze",
+        "url": "https://www.artificiallawyer.com/2026/09/10/white-case-invests-in-saudi-startup-clauze/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-10T06:44:49.000Z",
+        "summary": "Global law firm, White &#38; Case, has made a strategic investment into Saudi-based Clauze, a new legal AI platform. It’s been founded by Waad Alkurini, ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/ohio&",
         "title": "State attorney general sues J. Peterman, retailer linked to &#8216;Seinfeld&#8217; TV show",
@@ -38,36 +128,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/new&",
-        "title": "Group of GCs, Wilson Sonsini launch new legal tech venture capital fund",
-        "url": "https://www.abajournal.com/news/article/new&#45;legal&#45;tech&#45;vc&#45;fund&#45;consisting&#45;of&#45;general&#45;counsels&#45;and&#45;wilson&#45;sonsini&#45;launches/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-09T17:16:00.000Z",
-        "summary": "",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/after&",
-        "title": "After granting change of venue, judge announces location for Alex Murdaugh&#8217;s retrial",
-        "url": "https://www.abajournal.com/news/article/after&#45;granting&#45;change&#45;of&#45;venue&#45;judge&#45;announces&#45;location&#45;for&#45;alex&#45;murdaugh&#45;retrial/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-09T16:06:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/catholic&",
-        "title": "Catholic groups sue state over new assisted-suicide law",
-        "url": "https://www.abajournal.com/news/article/catholic&#45;groups&#45;sue&#45;over&#45;states&#45;new&#45;assisted&#45;suicide&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-09T15:46:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/09/harvey-raises-another-550m-at-a-15-5b-valuation.html",
         "title": "Harvey Raises Another $550M At A $15.5B Valuation",
         "url": "https://www.lawnext.com/2026/09/harvey-raises-another-550m-at-a-15-5b-valuation.html",
@@ -78,42 +138,22 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/how&",
-        "title": "How post-9/11 pop culture helped push Americans to embrace torture",
-        "url": "https://www.abajournal.com/web/article/how&#45;post&#45;9&#45;11&#45;pop&#45;culture&#45;helped&#45;push&#45;americans&#45;to&#45;embrace&#45;torture/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-09T15:25:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/09/harvey-vs-legora-the-valuation-race",
+        "title": "Harvey vs Legora – The Valuation Race",
+        "url": "https://www.artificiallawyer.com/2026/09/09/harvey-vs-legora-the-valuation-race/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-09T15:14:31.000Z",
+        "summary": "Harvey has just raised $550m at a $15.5 billion valuation. Legora is understood to be hoping to raise another major round at a $10 billion ...",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
-        "title": "Lawyer for Lindsay Clancy’s ex-husband threatens conspiracy theorists with legal action",
-        "url": "https://www.abajournal.com/news/article/lawyer&#45;for&#45;lindsay&#45;clancys&#45;ex&#45;husband&#45;threatens&#45;conspiracy&#45;theorists&#45;with&#45;legal&#45;action/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-09T15:16:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/california&",
-        "title": "Appeals court hears &#8216;The Pitt&#8217; producers&#8217; plea to kill &#8216;ER&#8217; lawsuit",
-        "url": "https://www.abajournal.com/news/article/california&#45;appeals&#45;court&#45;hears&#45;the&#45;pitt&#45;producers&#45;plea&#45;to&#45;kill&#45;er&#45;lawsuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-09T14:59:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/5th&",
-        "title": "5th Circuit vacates $125M award after discovery of federal judge, trial counsel’s friendship",
-        "url": "https://www.abajournal.com/news/article/5th&#45;circuit&#45;vacates&#45;125m&#45;award&#45;after&#45;discovery&#45;of&#45;federal&#45;judge&#45;and&#45;trial&#45;counsels&#45;friendship/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-09T14:37:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/09/harvey-raises-550m-at-15-5bn-val-buys-guardrails-ai",
+        "title": "Harvey Raises $550m at $15.5bn Val, Buys Guardrails AI",
+        "url": "https://www.artificiallawyer.com/2026/09/09/harvey-raises-550m-at-15-5bn-val-buys-guardrails-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-09T14:24:43.000Z",
+        "summary": "Harvey has announced a $550m funding round at a $15.5B valuation, co-led by Diffusion and Lightspeed Venture Partners. It has also bought San Francisco-based Guardrails ...",
         "category": "updates",
         "region": "na"
       },
@@ -138,12 +178,62 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/09/qa-jen-leonard-on-unprecedented-and-the-future-of-law",
+        "title": "Q&#038;A: Jen Leonard on Unprecedented and the Future of Law",
+        "url": "https://www.artificiallawyer.com/2026/09/09/qa-jen-leonard-on-unprecedented-and-the-future-of-law/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-09T07:41:05.000Z",
+        "summary": "At a recent Practising Law Institute event celebrating the publication of her book, Unprecedented, Jen Leonard sat down for a Q&#38;A to discuss the challenges ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/09/caddi-back-office-automation-for-lawyers",
+        "title": "Caddi – Back-Office Automation For Lawyers",
+        "url": "https://www.artificiallawyer.com/2026/09/09/caddi-back-office-automation-for-lawyers/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-09T06:40:25.000Z",
+        "summary": "In this week’s AL TV Product Walk Through we take a look at Caddi, which provides back-office automation for lawyers. As Co-Founder &#38; CEO, Alejandro ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/09/on-lawnext-casefleet-founder-jeff-kerr-on-fact-management-in-the-age-of-ai.html",
         "title": "On LawNext: Casefleet Founder Jeff Kerr on Fact Management in the Age of AI",
         "url": "https://www.lawnext.com/2026/09/on-lawnext-casefleet-founder-jeff-kerr-on-fact-management-in-the-age-of-ai.html",
         "source": "LawSites",
         "publishedAt": "2026-09-08T18:54:33.000Z",
         "summary": "Chronologies have become one of legal tech&#8217;s hottest categories, with a wave of AI startups promising to turn a messy evidentiary record into a structured timeline in minutes. Jeff Kerr and his company Casefleet we",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/08/chamelio-launches-always-on-ai-agent-hub",
+        "title": "Chamelio Launches ‘Always On’ AI Agent Hub",
+        "url": "https://www.artificiallawyer.com/2026/09/08/chamelio-launches-always-on-ai-agent-hub/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-08T16:01:05.000Z",
+        "summary": "Legal intelligence platform, Chamelio, has launched Agent Hub, which lets inhouse lawyers use a suite of ‘always-on AI agents’ that can work independently, monitor what ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/08/new-legal-tech-vc-fund-launches-wilson-sonsini-invests",
+        "title": "New Legal Tech VC Fund Launches – Wilson Sonsini Invests",
+        "url": "https://www.artificiallawyer.com/2026/09/08/new-legal-tech-vc-fund-launches-wilson-sonsini-invests/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-08T14:02:57.000Z",
+        "summary": "A new legal tech fund, GCVC, has launched, backed by over fifty sitting general counsels from prominent private and public companies. Meanwhile, Wilson Sonsini is ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/08/lexroom-acquires-french-bulgarian-companies",
+        "title": "Lexroom Acquires French + Bulgarian Companies",
+        "url": "https://www.artificiallawyer.com/2026/09/08/lexroom-acquires-french-bulgarian-companies/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-08T13:49:06.000Z",
+        "summary": "Italy’s leading legal AI company, Lexroom – which raised $50m in a Series B round this summer – has acquired French legal tech startup Query ...",
         "category": "updates",
         "region": "na"
       },
@@ -1116,55 +1206,15 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/8t2vjhoc5sruyqqslo9m",
-        "title": "PayPal谈 Agentic Commerce：AI智能体将如何进入跨境支付场景？",
-        "url": "https://www.infoq.cn/article/8t2vJHOc5srUyQqSlO9m?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-10T17:16:06.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/ybvkfhwu90styj4sjviv",
         "title": "推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写",
         "url": "https://www.infoq.cn/article/YBvKfhWu90StYj4SJVIV?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-10T17:15:13.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/uqvqv8vlml5g8oqqkwdg",
-        "title": "把 FDE 送进企业之后：谁救火，谁背责，谁赚钱？",
-        "url": "https://www.infoq.cn/article/uQvqV8VlMl5g8OqQKwDG?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-10T17:10:55.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1180,16 +1230,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/v2ivfxussxay3zlvtzga",
-        "title": "Google 发布 BeyondCorp 继任者，但普通企业真的学得来吗？",
-        "url": "https://www.infoq.cn/article/V2IvFxuSsxAY3zLVtzga?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-10T16:06:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/kb15qddc6nfldaubcbqo",
         "title": "Copilot 代码审查功能已登陆 Azure Repos，按审查次数计费",
         "url": "https://www.infoq.cn/article/kB15qdDc6NFLdaUbCbqo?utm_source=rss&utm_medium=article",
@@ -1197,16 +1237,6 @@
         "publishedAt": "2026-09-10T11:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/klmj7wvdgqiyk6bmbi5u",
-        "title": "Kubernetes 推广 KYAML，将其作为一种更安全、更一致的配置清单处理方式",
-        "url": "https://www.infoq.cn/article/klMJ7wvdgqiYK6BmBI5u?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-09T18:34:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
         "region": "cn"
       }
     ],
@@ -1218,16 +1248,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-09-10T09:26:24.000Z",
         "summary": "DeepSeek has released its V4.1 Flash model, claiming it outperforms its previous flagship while cutting inference costs and boosting speeds – the latest salvo in China’s aggressive price-and-performance war. The Chinese ",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3366991/can-hong-kong-stocks-contend-wild-swings-without-help-state-hands",
-        "title": "Can Hong Kong stocks contend with wild swings without help from state hands?",
-        "url": "https://www.scmp.com/business/china-business/article/3366991/can-hong-kong-stocks-contend-wild-swings-without-help-state-hands?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-10T05:00:08.000Z",
-        "summary": "As concerted state buying puts a floor under mainland China’s onshore stock market amid Beijing’s stabilisation measures, investors in Hong Kong worry about coping with high volatility at a delicate time, with multiple m",
         "category": "updates",
         "region": "cn_en"
       },
