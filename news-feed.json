@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:15:41.490Z",
+  "generatedAt": "2026-09-11T02:14:26.803Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -125,16 +125,6 @@
         "publishedAt": "2026-09-10T07:08:02.000Z",
         "summary": "By Jean-Rémi de Maistre, CEO, Jus Mundi. The legal AI market is converging as general-purpose AI and legal workflow platforms compete to be the interface ...",
         "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/introducing-chatgpt-financial-services",
-        "title": "Introducing ChatGPT for Financial Services",
-        "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-        "source": "OpenAI News",
-        "publishedAt": "2026-09-10T07:00:00.000Z",
-        "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-        "category": "articles",
         "region": "na"
       },
       {
@@ -1206,9 +1196,49 @@
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/color-health",
+        "title": "Using GPT-4o reasoning to transform cancer care",
+        "url": "https://openai.com/index/color-health",
+        "source": "OpenAI News",
+        "publishedAt": "2024-06-17T04:15:00.000Z",
+        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hlyrzkawj9dkiur7uvkq",
+        "title": "端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海",
+        "url": "https://www.infoq.cn/article/hLyrZkaWJ9DkIUr7UvKQ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-11T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/pyullla6mwssorlidkbu",
+        "title": "从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+        "url": "https://www.infoq.cn/article/PyUlLla6MWSSoRLiDKbu?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-11T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/dtxid7yadp3o3qrcotyj",
+        "title": "1300 Star！开源文档框架 Blume 冲上 GitHub 趋势榜：零配置、免脚手架，一键生成文档网站",
+        "url": "https://www.infoq.cn/article/DtxID7YaDp3o3QRcOTYj?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-11T09:15:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/ybvkfhwu90styj4sjviv",
         "title": "推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写",
