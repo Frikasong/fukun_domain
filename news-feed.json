@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T15:35:43.481Z",
+  "generatedAt": "2026-09-11T20:15:01.806Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/helping&",
+        "title": "Helping future generations know history is a reward of historic preservation work, lawyer says",
+        "url": "https://www.abajournal.com/web/article/helping&#45;future&#45;generations&#45;know&#45;history&#45;is&#45;a&#45;reward&#45;of&#45;historic&#45;preservation&#45;work&#45;says&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-11T19:28:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawyers&",
+        "title": "Partner took money to pay taxes, go on trips, lawyers claim",
+        "url": "https://www.abajournal.com/news/article/lawyers&#45;claim&#45;their&#45;partner&#45;took&#45;more&#45;than&#45;300000&#45;from&#45;firm/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-11T16:32:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/in&",
+        "title": "In-house attorney group accuses competitor of using its materials to train AI chatbot",
+        "url": "https://www.abajournal.com/news/article/in&#45;house&#45;attorney&#45;group&#45;says&#45;competitor&#45;used&#45;its&#45;materials&#45;to&#45;train&#45;ai&#45;chatbot/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-11T15:53:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/former&",
         "title": "Former death penalty attorney creates stand-up comedy show with inspiration from clients",
@@ -98,36 +128,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/vanderbilt&",
-        "title": "Vanderbilt law students will gain access to AI-powered deposition simulations",
-        "url": "https://www.abajournal.com/news/article/vanderbilt&#45;law&#45;students&#45;to&#45;gain&#45;access&#45;to&#45;ai&#45;powered&#45;deposition&#45;simulations/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-10T16:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/is&",
-        "title": "Is there a religious right to abortion? State supreme court will weigh in",
-        "url": "https://www.abajournal.com/news/article/is&#45;there&#45;a&#45;religious&#45;right&#45;to&#45;abortion&#45;indiana&#45;supreme&#45;court&#45;to&#45;weigh&#45;in/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-10T15:31:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/judges&",
-        "title": "Federal judges&#8217; interns may accept stipends from law firms, ethics panel says",
-        "url": "https://www.abajournal.com/news/article/judges&#45;interns&#45;may&#45;accept&#45;stipends&#45;from&#45;law&#45;firms&#45;recruiting&#45;them&#45;ethics&#45;panel&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-10T15:12:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/10/the-innovators-memories",
         "title": "The Innovators – ‘Memories’",
         "url": "https://www.artificiallawyer.com/2026/09/10/the-innovators-memories/",
@@ -155,16 +155,6 @@
         "publishedAt": "2026-09-10T06:44:49.000Z",
         "summary": "Global law firm, White &#38; Case, has made a strategic investment into Saudi-based Clauze, a new legal AI platform. It’s been founded by Waad Alkurini, ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/introducing-gpt-live-1-in-the-api",
-        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-        "source": "OpenAI News",
-        "publishedAt": "2026-09-10T00:00:00.000Z",
-        "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,6 +1196,16 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
@@ -1215,16 +1215,6 @@
         "url": "https://www.infoq.cn/article/rlXYaPUjVR0fffbQK3Iz?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-11T21:06:08.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qprcudpgic5r8ws8r1gm",
-        "title": "怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮",
-        "url": "https://www.infoq.cn/article/QPRcUdPGic5r8Ws8R1gM?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-11T21:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
