@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T02:21:03.036Z",
+  "generatedAt": "2026-09-12T09:50:45.380Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -34,16 +34,6 @@
         "source": "ABA Journal",
         "publishedAt": "2026-09-11T16:32:00.000Z",
         "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/cognition-devin-testing-with-astra",
-        "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-        "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-        "source": "OpenAI News",
-        "publishedAt": "2026-09-11T16:00:00.000Z",
-        "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
         "category": "updates",
         "region": "na"
       },
@@ -1206,15 +1196,35 @@
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/color-health",
+        "title": "Using GPT-4o reasoning to transform cancer care",
+        "url": "https://openai.com/index/color-health",
+        "source": "OpenAI News",
+        "publishedAt": "2024-06-17T04:15:00.000Z",
+        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/opsalpullaxgxtbyxlxo",
-        "title": "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞",
-        "url": "https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/mf8wwkbqrus7zkpre3ku",
+        "title": "Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架",
+        "url": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-12T10:13:44.000Z",
+        "publishedAt": "2026-09-12T16:06:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/gha2vwxo6jtgykib7kdt",
+        "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
+        "url": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-12T10:19:25.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1233,16 +1243,6 @@
         "id": "InfoQ China:www.infoq.cn/article/hk3wb50faomdg55yvaaw",
         "title": "从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海",
         "url": "https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-12T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/exwzjvlshkxrpyekaanc",
-        "title": "Neovim 加入 vim.async：告别回调地狱",
-        "url": "https://www.infoq.cn/article/exwZJvLsHKXrPyeKaANC?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-12T10:00:00.000Z",
         "summary": "点击查看原文>",
@@ -1281,6 +1281,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3367211/how-ai-tools-are-reshaping-stock-trading-investment-research-china",
+        "title": "How AI tools are reshaping stock trading, investment research in China",
+        "url": "https://www.scmp.com/business/china-business/article/3367211/how-ai-tools-are-reshaping-stock-trading-investment-research-china?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-12T08:00:10.000Z",
+        "summary": "When Ryan Lei has an investment idea, he no longer has to spend days writing code and trawling through historical data to corroborate it. The 27-year-old quantitative trader in Hong Kong now delegates much of the grunt w",
+        "category": "articles",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3367051/deepseek-says-new-flash-ai-model-beats-kimi-k3-cyber-coding-benchmarks",
         "title": "DeepSeek says new Flash AI model beats Kimi K3 on cyber, coding benchmarks",
