@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T09:50:45.380Z",
+  "generatedAt": "2026-09-12T14:42:10.996Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,11 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/mf8wwkbqrus7zkpre3ku",
-        "title": "Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架",
-        "url": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/i1fjsynhnm4wwv78anhl",
+        "title": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",
+        "url": "https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-12T16:06:00.000Z",
+        "publishedAt": "2026-09-12T20:35:26.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1268,29 +1268,9 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/7c7c4w0kxxjmmmgs5rac",
-        "title": "Azure API Management Standard v2 支持区域冗余",
-        "url": "https://www.infoq.cn/article/7c7c4W0KxxjMMMgS5RAC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-11T11:17:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3367211/how-ai-tools-are-reshaping-stock-trading-investment-research-china",
-        "title": "How AI tools are reshaping stock trading, investment research in China",
-        "url": "https://www.scmp.com/business/china-business/article/3367211/how-ai-tools-are-reshaping-stock-trading-investment-research-china?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-12T08:00:10.000Z",
-        "summary": "When Ryan Lei has an investment idea, he no longer has to spend days writing code and trawling through historical data to corroborate it. The 27-year-old quantitative trader in Hong Kong now delegates much of the grunt w",
-        "category": "articles",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3367051/deepseek-says-new-flash-ai-model-beats-kimi-k3-cyber-coding-benchmarks",
         "title": "DeepSeek says new Flash AI model beats Kimi K3 on cyber, coding benchmarks",
