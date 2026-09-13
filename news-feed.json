@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T19:55:11.577Z",
+  "generatedAt": "2026-09-13T02:18:43.352Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,26 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/0kyhxxxhoxhxgate64ec",
+        "title": "Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+        "url": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-13T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/es4m9xepmlbkxkscyaye",
+        "title": "Figma 如何利用 AI 代理提升安全性",
+        "url": "https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-13T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/gha2vwxo6jtgykib7kdt",
         "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
