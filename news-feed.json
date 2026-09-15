@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T15:57:35.299Z",
+  "generatedAt": "2026-09-15T20:41:14.885Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/are&",
+        "title": "Are you lying? Deception detection expert shares ways to decipher cues",
+        "url": "https://www.abajournal.com/web/article/are&#45;you&#45;lying&#45;deception&#45;detection&#45;expert&#45;shares&#45;ways&#45;to&#45;decipher&#45;cues/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-15T20:02:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/nowhere&",
+        "title": "Nowhere to Go: Sick inmates on compassionate release are often barred from nursing homes",
+        "url": "https://www.abajournal.com/web/article/nowhere&#45;to&#45;go&#45;sick&#45;inmates&#45;on&#45;compassionate&#45;release&#45;are&#45;often&#45;barred&#45;from&#45;nursing&#45;homes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-15T18:49:00.000Z",
+        "summary": "",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/man&",
+        "title": "Man accused of threatening to kill federal judge set to face trial",
+        "url": "https://www.abajournal.com/news/article/man&#45;accused&#45;of&#45;threatening&#45;to&#45;kill&#45;san&#45;francisco&#45;federal&#45;judge&#45;is&#45;set&#45;to&#45;face&#45;trial/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-15T16:49:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/penn&",
+        "title": "Penn Law professor brings Trump ally John Eastman onto legal team",
+        "url": "https://www.abajournal.com/news/article/penn&#45;carey&#45;law&#45;professor&#45;brings&#45;trump&#45;ally&#45;john&#45;eastman&#45;onto&#45;team/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-15T16:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/in&",
         "title": "In apology to court, senior associate details how she will avoid AI mistakes going forward",
@@ -93,46 +133,6 @@
         "url": "https://www.abajournal.com/news/article/lawyers&#45;for&#45;scotusblog&#45;founder&#45;tom&#45;goldstein&#45;ask&#45;4th&#45;circuit&#45;to&#45;vacate&#45;his&#45;convictions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-09-14T16:21:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/who&",
-        "title": "Who gets the puggle? Illinois law is nation&#8217;s first to help unmarried couples determine pet custody",
-        "url": "https://www.abajournal.com/web/article/who&#45;gets&#45;the&#45;puggle&#45;new&#45;illinois&#45;law&#45;first&#45;in&#45;the&#45;nation&#45;to&#45;help&#45;unmarried&#45;couples&#45;determine&#45;pet&#45;custody/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-14T15:56:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/attorney&",
-        "title": "Attorney charged with sending obscene, threatening emails to county official",
-        "url": "https://www.abajournal.com/news/article/attorney&#45;charged&#45;with&#45;sending&#45;obscene&#45;threatening&#45;emails&#45;to&#45;county&#45;official/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-14T15:38:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/illinois&",
-        "title": "Lawyer accused of stealing more than $400K from minor clients",
-        "url": "https://www.abajournal.com/news/article/illinois&#45;lawyer&#45;accused&#45;of&#45;stealing&#45;more&#45;than&#45;400k&#45;from&#45;minor&#45;clients/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-14T15:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/north&",
-        "title": "District attorneys, state bar defend law banning legal advice from paralegals in this state",
-        "url": "https://www.abajournal.com/news/article/north&#45;carolina&#45;das&#45;and&#45;state&#45;bar&#45;defend&#45;law&#45;banning&#45;legal&#45;advice&#45;from&#45;paralegals/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-14T14:50:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,16 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/zfjt89uvj0egxf6aeaw4",
-        "title": "缓存不该困在一台服务器里",
-        "url": "https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-15T23:00:52.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/jgtso1drv87muoqydpgs",
         "title": "Agent开始调用基础设施，Kubernetes准备好了吗？",
         "url": "https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article",
@@ -1261,16 +1251,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3367615/wrise-prestige-accelerates-mainland-china-expansion-new-offices-ai-lab",
-        "title": "Wrise Prestige accelerates mainland China expansion with new offices, AI lab",
-        "url": "https://www.scmp.com/business/banking-finance/article/3367615/wrise-prestige-accelerates-mainland-china-expansion-new-offices-ai-lab?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-15T11:09:14.000Z",
-        "summary": "Wealth management provider Wrise Prestige is stepping up its investment in artificial intelligence technology as the firm looks to expand its footprint on the Chinese mainland and power its next phase of growth. The Sing",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/presented/business/topics/asian-captive-conference-2026/article/3367381/asian-captive-conference-2026-highlights-how-captives-are-utilised-businesses-navigate-risks",
         "title": "Asian Captive Conference 2026 Highlights How Captives Are Utilised as Businesses Navigate Risks",
