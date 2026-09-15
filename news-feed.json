@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T10:44:10.401Z",
+  "generatedAt": "2026-09-15T15:57:35.299Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/in&",
+        "title": "In apology to court, senior associate details how she will avoid AI mistakes going forward",
+        "url": "https://www.abajournal.com/news/article/in&#45;apology&#45;to&#45;court&#45;associate&#45;details&#45;how&#45;she&#45;will&#45;avoid&#45;ai&#45;mistakes&#45;going&#45;forward/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-15T15:54:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/sorority&",
+        "title": "Sorority sisters ask 10th Circuit to revive challenge to definition of ‘women’",
+        "url": "https://www.abajournal.com/news/article/sorority&#45;sisters&#45;ask&#45;10th&#45;circuit&#45;to&#45;revive&#45;challenge&#45;to&#45;definition&#45;of&#45;women/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-15T15:20:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/texas&",
+        "title": "Judge disciplined for requiring COVID-19 vaccination for parents in custody case",
+        "url": "https://www.abajournal.com/news/article/texas&#45;judge&#45;disciplined&#45;for&#45;requiring&#45;vaccination&#45;for&#45;parents&#45;visiting&#45;child/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-15T14:41:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/morgan&",
+        "title": "Morgan & Morgan aims to spend $1B on AI, sell its platform to other firms",
+        "url": "https://www.abajournal.com/news/article/morgan&#45;morgan&#45;aims&#45;to&#45;spend&#45;1b&#45;on&#45;ai&#45;sell&#45;its&#45;platform&#45;to&#45;other&#45;firms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-15T14:29:00.000Z",
+        "summary": "",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/15/white-case-partner-ai-slowdown-risks-investor-collision",
         "title": "White &#038; Case Partner: ‘AI Slowdown Risks Investor Collision’",
@@ -98,16 +138,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/prominent&",
-        "title": "Prominent Florida plastic surgeon on trial for allegedly killing &#8216;beloved&#8217; lawyer over billing dispute",
-        "url": "https://www.abajournal.com/news/article/prominent&#45;florida&#45;plastic&#45;surgeon&#45;on&#45;trial&#45;for&#45;killing&#45;beloved&#45;lawyer&#45;over&#45;billing&#45;dispute/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-14T14:37:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/14/morgan-morgan-commits-to-1-billion-for-legal-tech-ai",
         "title": "Morgan &#038; Morgan Commits to $1 Billion For Legal Tech + AI",
         "url": "https://www.artificiallawyer.com/2026/09/14/morgan-morgan-commits-to-1-billion-for-legal-tech-ai/",
@@ -144,26 +174,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-14T07:25:59.000Z",
         "summary": "The more this site thinks about law firms training open weight models and renting their own GPUs, the less it seems to make sense. Here’s ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/helping&",
-        "title": "Helping future generations know history is a reward of historic preservation work, lawyer says",
-        "url": "https://www.abajournal.com/web/article/helping&#45;future&#45;generations&#45;know&#45;history&#45;is&#45;a&#45;reward&#45;of&#45;historic&#45;preservation&#45;work&#45;says&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-11T19:28:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/in&",
-        "title": "In-house attorney group accuses competitor of using its materials to train AI chatbot",
-        "url": "https://www.abajournal.com/news/article/in&#45;house&#45;attorney&#45;group&#45;says&#45;competitor&#45;used&#45;its&#45;materials&#45;to&#45;train&#45;ai&#45;chatbot/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-11T15:53:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1196,35 +1206,35 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/at1uiemqbhewc34wvfq8",
-        "title": "支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎",
-        "url": "https://www.infoq.cn/article/at1UIEMQbHewc34wvFQ8?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/zfjt89uvj0egxf6aeaw4",
+        "title": "缓存不该困在一台服务器里",
+        "url": "https://www.infoq.cn/article/zfjt89uVj0EGxf6aeaw4?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-15T18:27:44.000Z",
+        "publishedAt": "2026-09-15T23:00:52.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ifps7rhlq24fjwym6iqw",
-        "title": "QQ 飞车 Agentic 研发转型过程中的Loop Engineering",
-        "url": "https://www.infoq.cn/article/ifpS7rhLq24FjWYM6IqW?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/jgtso1drv87muoqydpgs",
+        "title": "Agent开始调用基础设施，Kubernetes准备好了吗？",
+        "url": "https://www.infoq.cn/article/jGTsO1DrV87muOqyDPGS?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-15T17:24:16.000Z",
+        "publishedAt": "2026-09-15T20:38:38.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/acrvupdyeahteniiidwq",
+        "title": "飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT",
+        "url": "https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-15T18:37:10.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1240,36 +1250,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/video/uyi5apclol1ovcntontz",
-        "title": "京东上线“东东”购物助手：在原来的APP里长出了一个“更懂你”的Agent",
-        "url": "https://www.infoq.cn/video/UYi5ApclOl1ovCNtONTZ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-15T16:42:41.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qtiy65sxjn0q4riy7tco",
-        "title": "OpenAI故意欠技术债，等Codex来还：仅2名工程师，把核心存储从Python重写成Rust",
-        "url": "https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-15T16:09:20.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hen8icbvrcokvvo2dsna",
-        "title": "月之暗面：网传创始人及员工信息系恶意造谣；OpenAI 放弃今年上市；iPhone Duo炒到9万，黄牛贷款欲囤货｜AI周报",
-        "url": "https://www.infoq.cn/article/HEN8icBvRCoKVvo2dSNA?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-15T16:07:08.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/g9ejhszhja3jczsgzwmj",
         "title": "Claude在英伟达内部被限用，黄仁勋告诉特朗普：我们不会让AI发展放缓发生",
         "url": "https://www.infoq.cn/article/g9eJhszhJa3JcZsgZwmj?utm_source=rss&utm_medium=article",
@@ -1278,19 +1258,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/lokvl75pl8g48hd3unce",
-        "title": "不下班的经营者：把 LLM-as-Judge 做成会自我校准的评估闭环｜QCon上海",
-        "url": "https://www.infoq.cn/article/LoKvL75PL8g48hD3UNCE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-14T16:26:11.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3367615/wrise-prestige-accelerates-mainland-china-expansion-new-offices-ai-lab",
+        "title": "Wrise Prestige accelerates mainland China expansion with new offices, AI lab",
+        "url": "https://www.scmp.com/business/banking-finance/article/3367615/wrise-prestige-accelerates-mainland-china-expansion-new-offices-ai-lab?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-15T11:09:14.000Z",
+        "summary": "Wealth management provider Wrise Prestige is stepping up its investment in artificial intelligence technology as the firm looks to expand its footprint on the Chinese mainland and power its next phase of growth. The Sing",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/presented/business/topics/asian-captive-conference-2026/article/3367381/asian-captive-conference-2026-highlights-how-captives-are-utilised-businesses-navigate-risks",
         "title": "Asian Captive Conference 2026 Highlights How Captives Are Utilised as Businesses Navigate Risks",
@@ -1308,16 +1288,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-09-10T09:26:24.000Z",
         "summary": "DeepSeek has released its V4.1 Flash model, claiming it outperforms its previous flagship while cutting inference costs and boosting speeds – the latest salvo in China’s aggressive price-and-performance war. The Chinese ",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3366948/chinese-ai-firm-deepseek-taps-underwriters-including-citic-securities-ipo-sources",
-        "title": "Chinese AI firm DeepSeek taps underwriters including Citic Securities for IPO: sources",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3366948/chinese-ai-firm-deepseek-taps-underwriters-including-citic-securities-ipo-sources?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-09T12:34:42.000Z",
-        "summary": "Chinese frontier artificial intelligence lab DeepSeek has hired underwriters including Citic Securities in preparation for a domestic initial public offering (IPO), according to two people familiar with the matter. Citic",
         "category": "updates",
         "region": "cn_en"
       }
