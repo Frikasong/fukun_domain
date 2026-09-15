@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T21:12:53.664Z",
+  "generatedAt": "2026-09-15T02:39:52.131Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/556hrgkwuqwsg7nm3yt3",
+        "title": "从 Trace 到规模化实时评估：面向生产流量的 Agent 可观测实践｜QCon上海",
+        "url": "https://www.infoq.cn/article/556HrGKWUqWSg7NM3YT3?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-15T10:08:44.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/i6k1motq9fltk7ep1hze",
+        "title": "在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训",
+        "url": "https://www.infoq.cn/article/I6k1mOtQ9fltk7Ep1hZE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-15T09:04:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/lokvl75pl8g48hd3unce",
         "title": "不下班的经营者：把 LLM-as-Judge 做成会自我校准的评估闭环｜QCon上海",
         "url": "https://www.infoq.cn/article/LoKvL75PL8g48hD3UNCE?utm_source=rss&utm_medium=article",
@@ -1245,26 +1265,6 @@
         "url": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-12T10:19:25.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/g7cublzvyxfoux3vpz1t",
-        "title": "V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维",
-        "url": "https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-12T10:08:50.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hk3wb50faomdg55yvaaw",
-        "title": "从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海",
-        "url": "https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-12T10:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
