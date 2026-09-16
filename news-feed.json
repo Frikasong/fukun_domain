@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T02:34:14.803Z",
+  "generatedAt": "2026-09-16T10:32:37.631Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/16/31-of-law-firms-say-ai-improves-profitability",
+        "title": "31% of Law Firms Say AI Improves Profitability",
+        "url": "https://www.artificiallawyer.com/2026/09/16/31-of-law-firms-say-ai-improves-profitability/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-16T07:45:29.000Z",
+        "summary": "A new pricing survey by BigHand shows that 31% of law firms – which had scrutinised their data – found that AI had ‘improved profitability ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/scott&",
         "title": "Scott Turow Prize for Excellence in Legal Fiction finalists announced",
@@ -215,16 +225,6 @@
         "publishedAt": "2026-09-10T07:08:02.000Z",
         "summary": "By Jean-Rémi de Maistre, CEO, Jus Mundi. The legal AI market is converging as general-purpose AI and legal workflow platforms compete to be the interface ...",
         "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/10/white-case-invests-in-saudi-startup-clauze",
-        "title": "White &#038; Case Invests in Saudi Startup Clauze",
-        "url": "https://www.artificiallawyer.com/2026/09/10/white-case-invests-in-saudi-startup-clauze/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-10T06:44:49.000Z",
-        "summary": "Global law firm, White &#38; Case, has made a strategic investment into Saudi-based Clauze, a new legal AI platform. It’s been founded by Waad Alkurini, ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1210,31 +1210,31 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/kehko56wrachdtehekud",
-        "title": "从接住告警到自我进化：快手智能运维助手实践｜QCon上海",
-        "url": "https://www.infoq.cn/article/keHKo56wrachdtEhekUD?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/bj4q9e2pbjfuwirzkutu",
+        "title": "从概率生成到稳定交付：AIGC专业内容生产的工程化挑战",
+        "url": "https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-16T10:00:00.000Z",
+        "publishedAt": "2026-09-16T17:59:39.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/j5ijdjq6bierzhzf8fxo",
-        "title": "Cloudflare将每天90亿次请求的JavaScript CDN迁移到其开发者平台",
-        "url": "https://www.infoq.cn/article/J5iJdjq6bIeRZHZF8fXO?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/eixaqzkfmdlhlfe7ruk7",
+        "title": "借助会话追踪与成本控制排查 AI 智能体故障",
+        "url": "https://www.infoq.cn/article/EixaQZkFMDLhlfE7RUK7?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-16T09:10:00.000Z",
+        "publishedAt": "2026-09-16T17:12:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/foezsr8xfg0stq1wgbti",
-        "title": "129亿美元卖身英伟达之后，是时候重新理解Hugging Face了",
-        "url": "https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/baafghu4gttbxrrrsepw",
+        "title": "Java新闻汇总：Simple JSON API、GlassFish、Jakarta EE、JNoSQL和Open Liberty、LangChain4j",
+        "url": "https://www.infoq.cn/article/BAafGhU4GTtbxrRrSEPW?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-16T08:00:00.000Z",
+        "publishedAt": "2026-09-16T11:06:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1282,22 +1282,32 @@
     ],
     "cn_en": [
       {
+        "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3367694/us-crypto-bill-stumble-sparks-call-hong-kong-seize-critical-strategic-window",
+        "title": "US crypto bill stumble sparks call for Hong Kong to seize ‘critical strategic window’",
+        "url": "https://www.scmp.com/business/cryptocurrency/article/3367694/us-crypto-bill-stumble-sparks-call-hong-kong-seize-critical-strategic-window?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-16T08:00:36.000Z",
+        "summary": "The US Senate’s rejection of the Clarity Act – a landmark bill meant to regulate cryptocurrency market structure – has opened a window for Hong Kong to accelerate its digital asset ambitions, industry insiders say, even ",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/business/article/3367685/first-update-made-iso-9001-decade-china-shaping-ai-cybersecurity-standards",
+        "title": "First update made to ISO 9001 in a decade, with China shaping AI, cybersecurity standards",
+        "url": "https://www.scmp.com/business/article/3367685/first-update-made-iso-9001-decade-china-shaping-ai-cybersecurity-standards?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-16T07:01:17.000Z",
+        "summary": "China’s contributions and leadership were of considerable value to the revision of new International Organization for Standardization (ISO) standards for artificial intelligence, intelligent transport systems and cyberse",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
         "id": "SCMP China Business:www.scmp.com/presented/business/topics/asian-captive-conference-2026/article/3367381/asian-captive-conference-2026-highlights-how-captives-are-utilised-businesses-navigate-risks",
         "title": "Asian Captive Conference 2026 Highlights How Captives Are Utilised as Businesses Navigate Risks",
         "url": "https://www.scmp.com/presented/business/topics/asian-captive-conference-2026/article/3367381/asian-captive-conference-2026-highlights-how-captives-are-utilised-businesses-navigate-risks?utm_source=rss_feed",
         "source": "SCMP China Business",
         "publishedAt": "2026-09-14T06:37:31.000Z",
         "summary": "[The content of this article has been produced by our advertising partner.] KUALA LUMPUR, 11 September 2026 — The 8th Asian Captive Conference (ACC) 2026 yesterday brought together more than 300 risk and industry profess",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3367051/deepseek-says-new-flash-ai-model-beats-kimi-k3-cyber-coding-benchmarks",
-        "title": "DeepSeek says new Flash AI model beats Kimi K3 on cyber, coding benchmarks",
-        "url": "https://www.scmp.com/tech/big-tech/article/3367051/deepseek-says-new-flash-ai-model-beats-kimi-k3-cyber-coding-benchmarks?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-10T09:26:24.000Z",
-        "summary": "DeepSeek has released its V4.1 Flash model, claiming it outperforms its previous flagship while cutting inference costs and boosting speeds – the latest salvo in China’s aggressive price-and-performance war. The Chinese ",
         "category": "updates",
         "region": "cn_en"
       }
