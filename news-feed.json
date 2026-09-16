@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T10:32:37.631Z",
+  "generatedAt": "2026-09-16T15:50:20.871Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,86 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/california&",
+        "title": "Museum sued again over paintings looted by Nazis",
+        "url": "https://www.abajournal.com/news/article/california&#45;museum&#45;sued&#45;again&#45;over&#45;paintings&#45;looted&#45;by&#45;nazis/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-16T15:13:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/indiana&",
+        "title": "Judge in rehab after DUI conviction, says he has no plans to resign",
+        "url": "https://www.abajournal.com/news/article/indiana&#45;judge&#45;in&#45;rehab&#45;after&#45;dui&#45;conviction&#45;says&#45;he&#45;has&#45;no&#45;plans&#45;to&#45;resign/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-16T14:47:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/are&",
+        "title": "Are judges happier than lawyers?",
+        "url": "https://www.abajournal.com/voice/article/are&#45;judges&#45;happier&#45;than&#45;lawyers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-16T14:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/legalrebels/article/rebels&",
+        "title": "How AI is changing the way plaintiffs law firms work",
+        "url": "https://www.abajournal.com/legalrebels/article/rebels&#45;podcast&#45;episode&#45;128/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-16T14:12:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/16/salesforce-rolls-out-legora-for-legal-function",
+        "title": "Salesforce Rolls Out Legora For Legal Function",
+        "url": "https://www.artificiallawyer.com/2026/09/16/salesforce-rolls-out-legora-for-legal-function/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-16T13:49:02.000Z",
+        "summary": "AL doesn’t usually do client wins, but this one is worth a mention. Legora has been picked by Salesforce for its legal teams across the ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/09/relativityone-gets-a-new-name-to-reflect-its-increasing-capabilities-around-ai-and-data.html",
+        "title": "RelativityOne Gets A New Name To Reflect Its Increasing Capabilities Around AI and Data",
+        "url": "https://www.lawnext.com/2026/09/relativityone-gets-a-new-name-to-reflect-its-increasing-capabilities-around-ai-and-data.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-16T13:40:22.000Z",
+        "summary": "Perhaps it is only fitting that a product launched in the cloud should be renamed for the atmosphere it occupies. The e-discovery company Relativity announced today that it has renamed RelativityOne, its cloud-based plat",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/16/checkbox-launches-first-pass-ai-contract-review",
+        "title": "Checkbox Launches ‘First Pass’ AI Contract Review",
+        "url": "https://www.artificiallawyer.com/2026/09/16/checkbox-launches-first-pass-ai-contract-review/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-16T13:30:06.000Z",
+        "summary": "Checkbox, a legal front door for corporates, has launched First Pass, marking a move into contract review – and which builds upon its platform for ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/09/one-plus-one-equals-more-than-two-clio-lands-mccormack-to-join-arredondo-in-judiciary-expansion.html",
+        "title": "One Plus One Equals More Than Two: Clio Lands McCormack to Join Arredondo in Judiciary Expansion",
+        "url": "https://www.lawnext.com/2026/09/one-plus-one-equals-more-than-two-clio-lands-mccormack-to-join-arredondo-in-judiciary-expansion.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-16T13:00:10.000Z",
+        "summary": "The mystery of Bridget M. McCormack&#8217;s destination has been solved. Last week, I reported that McCormack, current president and CEO of the American Arbitration Association and former chief justice of the Michigan Su",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/16/31-of-law-firms-say-ai-improves-profitability",
         "title": "31% of Law Firms Say AI Improves Profitability",
@@ -78,36 +158,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/sorority&",
-        "title": "Sorority sisters ask 10th Circuit to revive challenge to definition of ‘women’",
-        "url": "https://www.abajournal.com/news/article/sorority&#45;sisters&#45;ask&#45;10th&#45;circuit&#45;to&#45;revive&#45;challenge&#45;to&#45;definition&#45;of&#45;women/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-15T15:20:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/texas&",
-        "title": "Judge disciplined for requiring COVID-19 vaccination for parents in custody case",
-        "url": "https://www.abajournal.com/news/article/texas&#45;judge&#45;disciplined&#45;for&#45;requiring&#45;vaccination&#45;for&#45;parents&#45;visiting&#45;child/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-15T14:41:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/morgan&",
-        "title": "Morgan & Morgan aims to spend $1B on AI, sell its platform to other firms",
-        "url": "https://www.abajournal.com/news/article/morgan&#45;morgan&#45;aims&#45;to&#45;spend&#45;1b&#45;on&#45;ai&#45;sell&#45;its&#45;platform&#45;to&#45;other&#45;firms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-15T14:29:00.000Z",
-        "summary": "",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/15/white-case-partner-ai-slowdown-risks-investor-collision",
         "title": "White &#038; Case Partner: ‘AI Slowdown Risks Investor Collision’",
         "url": "https://www.artificiallawyer.com/2026/09/15/white-case-partner-ai-slowdown-risks-investor-collision/",
@@ -135,16 +185,6 @@
         "publishedAt": "2026-09-14T16:45:18.000Z",
         "summary": "At the recent conference of the International Legal Technology Association, the big legal AI vendors CoCounsel, Harvey and Legora had outsized presences, with ginormous booths in the exhibit hall, major-name performers a",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ex&",
-        "title": "Ex-&#8216;Crypto King&#8217; Samuel Bankman-Fried asks Supreme Court to overturn conviction",
-        "url": "https://www.abajournal.com/news/article/ex&#45;crypto&#45;king&#45;bankman&#45;fried&#45;asks&#45;supreme&#45;court&#45;to&#45;overturn&#45;conviction/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-14T16:43:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -205,26 +245,6 @@
         "publishedAt": "2026-09-11T06:43:00.000Z",
         "summary": "Let’s start this Wrap with some news, then a reminder about two great webinars with LegalOn and also Chamelio next week, and then some videos. ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/10/the-innovators-memories",
-        "title": "The Innovators – ‘Memories’",
-        "url": "https://www.artificiallawyer.com/2026/09/10/the-innovators-memories/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-10T09:12:28.000Z",
-        "summary": "On one hand Katie was happy to depart San Francisco. She’d had quite enough of the conspiratorial shenanigans. Sara Keating, and most of all Harry ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/10/why-legal-research-needs-a-specialist-layer",
-        "title": "Why Legal Research Needs a Specialist Layer",
-        "url": "https://www.artificiallawyer.com/2026/09/10/why-legal-research-needs-a-specialist-layer/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-10T07:08:02.000Z",
-        "summary": "By Jean-Rémi de Maistre, CEO, Jus Mundi. The legal AI market is converging as general-purpose AI and legal workflow platforms compete to be the interface ...",
-        "category": "skills",
         "region": "na"
       },
       {
@@ -1158,26 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/06/context-is-everything-ceo-neil-araujo-on-imanages-ai-strategy.html",
-        "title": "Context Is Everything: CEO Neil Araujo on iManage&#8217;s AI Strategy",
-        "url": "https://www.lawnext.com/2026/06/context-is-everything-ceo-neil-araujo-on-imanages-ai-strategy.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-02T19:09:07.000Z",
-        "summary": "Neil Araujo, the CEO and cofounder of iManage, was last on this podcast almost exactly two years ago. In the dog years of the legal industry’s AI age, that feels like a long time ago. Our conversation then was about law ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/06/universal-migrator-launches-new-website-built-for-migration-experts.html",
-        "title": "Universal Migrator Launches New Website Built for Migration Experts",
-        "url": "https://www.lawnext.com/2026/06/universal-migrator-launches-new-website-built-for-migration-experts.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-02T16:35:39.000Z",
-        "summary": "Universal Migrator has launched a brand-new website designed to make legal data migrations easier to research, explain, plan, and execute. The new site gives migration consultants, IT professionals, legal technology advi",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1215,16 +1215,6 @@
         "url": "https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-16T17:59:39.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/eixaqzkfmdlhlfe7ruk7",
-        "title": "借助会话追踪与成本控制排查 AI 智能体故障",
-        "url": "https://www.infoq.cn/article/EixaQZkFMDLhlfE7RUK7?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-16T17:12:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1268,19 +1258,29 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/g9ejhszhja3jczsgzwmj",
-        "title": "Claude在英伟达内部被限用，黄仁勋告诉特朗普：我们不会让AI发展放缓发生",
-        "url": "https://www.infoq.cn/article/g9eJhszhJa3JcZsgZwmj?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-15T16:01:41.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3367745/chinas-ai-chip-stocks-face-crucial-test-metax-lock-period-expires",
+        "title": "China’s AI chip stocks face crucial test as MetaX lock-up period expires",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3367745/chinas-ai-chip-stocks-face-crucial-test-metax-lock-period-expires?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-16T12:25:00.000Z",
+        "summary": "China is bracing for a potential massive sell-off of a high-profile artificial intelligence chip stock on Thursday, when a lock-up period affecting 14 million shares in MetaX Integrated Circuits is set to expire. Analyst",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3367723/kimi-creator-moonshot-draws-global-investors-seeking-top-tier-chinese-ai-developers",
+        "title": "Kimi creator Moonshot draws global funds seeking ‘top-tier’ Chinese AI developers: sources",
+        "url": "https://www.scmp.com/tech/big-tech/article/3367723/kimi-creator-moonshot-draws-global-investors-seeking-top-tier-chinese-ai-developers?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-16T10:46:58.000Z",
+        "summary": "China’s Moonshot AI has attracted global investor interest spanning Europe, Asia and the Middle East, people familiar with the matter say, as international capital scrambles for access to Chinese frontier artificial inte",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3367694/us-crypto-bill-stumble-sparks-call-hong-kong-seize-critical-strategic-window",
         "title": "US crypto bill stumble sparks call for Hong Kong to seize ‘critical strategic window’",
