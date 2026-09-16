@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T20:41:14.885Z",
+  "generatedAt": "2026-09-16T02:34:14.803Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/scott&",
+        "title": "Scott Turow Prize for Excellence in Legal Fiction finalists announced",
+        "url": "https://www.abajournal.com/web/article/scott&#45;turow&#45;prize&#45;for&#45;excellence&#45;in&#45;legal&#45;fiction&#45;finalists&#45;announced/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-15T20:50:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/are&",
         "title": "Are you lying? Deception detection expert shares ways to decipher cues",
@@ -123,16 +133,6 @@
         "url": "https://www.abajournal.com/news/article/ex&#45;crypto&#45;king&#45;bankman&#45;fried&#45;asks&#45;supreme&#45;court&#45;to&#45;overturn&#45;conviction/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-09-14T16:43:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/lawyers&",
-        "title": "Lawyers for SCOTUSblog founder Tom Goldstein ask appeals court to vacate conviction",
-        "url": "https://www.abajournal.com/news/article/lawyers&#45;for&#45;scotusblog&#45;founder&#45;tom&#45;goldstein&#45;ask&#45;4th&#45;circuit&#45;to&#45;vacate&#45;his&#45;convictions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-14T16:21:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1209,6 +1209,36 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/kehko56wrachdtehekud",
+        "title": "从接住告警到自我进化：快手智能运维助手实践｜QCon上海",
+        "url": "https://www.infoq.cn/article/keHKo56wrachdtEhekUD?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-16T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/j5ijdjq6bierzhzf8fxo",
+        "title": "Cloudflare将每天90亿次请求的JavaScript CDN迁移到其开发者平台",
+        "url": "https://www.infoq.cn/article/J5iJdjq6bIeRZHZF8fXO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-16T09:10:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/foezsr8xfg0stq1wgbti",
+        "title": "129亿美元卖身英伟达之后，是时候重新理解Hugging Face了",
+        "url": "https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-16T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/jgtso1drv87muoqydpgs",
         "title": "Agent开始调用基础设施，Kubernetes准备好了吗？",
