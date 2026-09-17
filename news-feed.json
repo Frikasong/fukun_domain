@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T20:41:20.148Z",
+  "generatedAt": "2026-09-17T02:38:50.417Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,36 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/cbzgxutbmfjpz7wnth9h",
+        "title": "如何从历史中学习？基于RhymeRL的强化学习系统优化实践｜QCon上海",
+        "url": "https://www.infoq.cn/article/CbZGXuTBMFJPZ7WNtH9h?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-17T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/81qdfihlpmymnug269l8",
+        "title": "Snowflake World Tour 上海站 Keynote——Snowflake 企业级智能体",
+        "url": "https://www.infoq.cn/video/81qDfiHlpMYmNUg269l8?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-17T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zfk50fzmqsgy7usha2gw",
+        "title": "在线蒸馏灵活却太慢，离线缓存高效却不够灵活，LinkedIn 如何取舍？",
+        "url": "https://www.infoq.cn/article/ZFk50FZmqsgY7uShA2Gw?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-17T09:05:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/video/bj4q9e2pbjfuwirzkutu",
         "title": "从概率生成到稳定交付：AIGC专业内容生产的工程化挑战",
         "url": "https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&utm_medium=article",
@@ -1245,16 +1275,6 @@
         "url": "https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-15T18:37:10.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ifxyoy1ppkfqupjwvbvr",
-        "title": "OpenAI 发布适用于编程和计算机应用的 GPT-6 Astra",
-        "url": "https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-15T16:52:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
