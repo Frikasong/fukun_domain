@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T10:43:42.998Z",
+  "generatedAt": "2026-09-17T15:56:40.353Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/wisconsin&",
+        "title": "Former judge who helped man avoid ICE keeps law license",
+        "url": "https://www.abajournal.com/news/article/wisconsin&#45;judge&#45;who&#45;helped&#45;man&#45;avoid&#45;ice&#45;keeps&#45;law&#45;license/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-17T15:32:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/so&",
+        "title": "So you want to be an entertainment lawyer?",
+        "url": "https://www.abajournal.com/web/article/so&#45;you&#45;want&#45;to&#45;be&#45;an&#45;entertainment&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-17T15:06:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/charlie&",
+        "title": "Charlie Kirk’s family intends to sue Utah university over alleged security lapses",
+        "url": "https://www.abajournal.com/news/article/charlie&#45;kirks&#45;family&#45;intends&#45;to&#45;sue&#45;utah&#45;university&#45;over&#45;alleged&#45;security&#45;lapses/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-17T14:50:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/congress&",
+        "title": "Congress considers overhaul to judicial conduct law",
+        "url": "https://www.abajournal.com/news/article/congress&#45;considering&#45;overhaul&#45;to&#45;judicial&#45;conduct&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-17T14:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/17/google-shows-off-cloud-legal-ai-helpers-more",
         "title": "Google Shows Off Cloud Legal AI Helpers + More",
@@ -98,36 +138,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/indiana&",
-        "title": "Judge in rehab after DUI conviction, says he has no plans to resign",
-        "url": "https://www.abajournal.com/news/article/indiana&#45;judge&#45;in&#45;rehab&#45;after&#45;dui&#45;conviction&#45;says&#45;he&#45;has&#45;no&#45;plans&#45;to&#45;resign/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-16T14:47:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/voice/article/are&",
-        "title": "Are judges happier than lawyers?",
-        "url": "https://www.abajournal.com/voice/article/are&#45;judges&#45;happier&#45;than&#45;lawyers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-16T14:14:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/legalrebels/article/rebels&",
-        "title": "How AI is changing the way plaintiffs law firms work",
-        "url": "https://www.abajournal.com/legalrebels/article/rebels&#45;podcast&#45;episode&#45;128/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-16T14:12:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/16/salesforce-rolls-out-legora-for-legal-function",
         "title": "Salesforce Rolls Out Legora For Legal Function",
         "url": "https://www.artificiallawyer.com/2026/09/16/salesforce-rolls-out-legora-for-legal-function/",
@@ -174,16 +184,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-16T07:45:29.000Z",
         "summary": "A new pricing survey by BigHand shows that 31% of law firms – which had scrutinised their data – found that AI had ‘improved profitability ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/scott&",
-        "title": "Scott Turow Prize for Excellence in Legal Fiction finalists announced",
-        "url": "https://www.abajournal.com/web/article/scott&#45;turow&#45;prize&#45;for&#45;excellence&#45;in&#45;legal&#45;fiction&#45;finalists&#45;announced/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-15T20:50:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1210,16 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/t5xeqstqcb0glksrppnt",
-        "title": "硬件调试进入 Web 时代：浏览器成了新的工程师工作台",
-        "url": "https://www.infoq.cn/article/t5xEQSTQCB0glKSrppNT?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-17T17:21:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/paogkkfvhv3gbhg3gedc",
         "title": "阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作",
         "url": "https://www.infoq.cn/article/paoGkkFVHV3gbhG3GEdC?utm_source=rss&utm_medium=article",
@@ -1251,16 +1241,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3367832/huawei-quickens-ai-chip-pace-promises-next-entrant-3-quarters-early",
-        "title": "Huawei quickens AI chip pace, promises next entrant 3 quarters early",
-        "url": "https://www.scmp.com/tech/big-tech/article/3367832/huawei-quickens-ai-chip-pace-promises-next-entrant-3-quarters-early?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-17T06:36:28.000Z",
-        "summary": "Huawei Technologies said on Thursday that it would launch its next-generation artificial intelligence chip in the first quarter of 2027, moving the target launch forward by nine months as the firm aggressively expands it",
-        "category": "tools",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/presented/business/topics/prometheum-hashkey-mou/article/3367689/prometheum-capital-hashkey-digital-asset-group-and-velocity-capital-sign-binding-mou",
         "title": "Prometheum Capital, HashKey Digital Asset Group, and Velocity Capital Sign Binding MOU to Internationalize Tokenized U.S. Equities",
