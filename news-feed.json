@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T15:56:40.353Z",
+  "generatedAt": "2026-09-17T20:47:19.494Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/lsac&",
+        "title": "LSAC will lead national convening on solving rural legal deserts",
+        "url": "https://www.abajournal.com/web/article/lsac&#45;leads&#45;national&#45;convening&#45;on&#45;solving&#45;rural&#45;legal&#45;deserts/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-17T20:24:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/09/openai-releases-astra-for-law-a-gpt-6-model-configured-for-legal-work.html",
+        "title": "OpenAI Releases Astra for Law, A GPT-6 Model Tailored for Legal Work, Targeting Large Firms and Tech Vendors",
+        "url": "https://www.lawnext.com/2026/09/openai-releases-astra-for-law-a-gpt-6-model-configured-for-legal-work.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-17T20:00:31.000Z",
+        "summary": "Calling it the beginning of its long-term investment in law, ChatGPT developer OpenAI today released Astra for Law, a version of its latest model, GPT-6 Astra, configured for legal work, including a dedicated legal searc",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/openai&",
+        "title": "OpenAI introduces new AI model for law firms",
+        "url": "https://www.abajournal.com/news/article/openai&#45;introduces&#45;new&#45;ai&#45;model&#45;for&#45;law&#45;firms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-17T20:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/in&",
+        "title": "In split opinion, court permanently disbars judge convicted of indecent behavior with teens",
+        "url": "https://www.abajournal.com/news/article/in&#45;split&#45;opinion&#45;louisiana&#45;permanently&#45;disbars&#45;judge&#45;convicted&#45;of&#45;indecent&#45;behavior&#45;with&#45;teens/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-17T17:04:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/diddys&",
+        "title": "Lawyers in Sean ‘Diddy’ Combs&#8217; defamation case claim they haven&#8217;t been paid in over 6 months",
+        "url": "https://www.abajournal.com/news/article/diddys&#45;lawyers&#45;in&#45;defamation&#45;case&#45;claim&#45;they&#45;havent&#45;been&#45;paid&#45;in&#45;over&#45;six&#45;months/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-17T16:25:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/wisconsin&",
         "title": "Former judge who helped man avoid ICE keeps law license",
@@ -88,52 +138,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/los&",
-        "title": "District attorney won&#8217;t seek death penalty for Nick Reiner based on siblings’ wishes",
-        "url": "https://www.abajournal.com/news/article/los&#45;angeles&#45;da&#45;isnt&#45;seeking&#45;death&#45;penalty&#45;against&#45;nick&#45;reiner&#45;based&#45;on&#45;his&#45;siblings&#45;wishes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-16T16:34:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/16/clio-hires-bridget-mary-mccormack",
         "title": "Clio Hires Bridget Mary McCormack",
         "url": "https://www.artificiallawyer.com/2026/09/16/clio-hires-bridget-mary-mccormack/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-16T16:21:51.000Z",
         "summary": "Clio has hired Bridget Mary McCormack, a former Michigan Supreme Court Chief Justice, and most recently CEO of the American Arbitration Association (AAA), where she ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/product&",
-        "title": "Product liability cases reach 10-year high, new Lex Machina report finds",
-        "url": "https://www.abajournal.com/news/article/product&#45;liability&#45;cases&#45;reach&#45;10&#45;year&#45;high&#45;according&#45;to&#45;new&#45;lex&#45;machina&#45;report/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-16T16:00:00.000Z",
-        "summary": "",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/appellate&",
-        "title": "Appellate court affirms dismissal of Bruce Springsteen lawsuit over album cover",
-        "url": "https://www.abajournal.com/news/article/appellate&#45;court&#45;affirms&#45;dismissal&#45;of&#45;bruce&#45;springsteen&#45;lawsuit&#45;over&#45;album&#45;cover/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-16T15:51:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/california&",
-        "title": "Museum sued again over paintings looted by Nazis",
-        "url": "https://www.abajournal.com/news/article/california&#45;museum&#45;sued&#45;again&#45;over&#45;paintings&#45;looted&#45;by&#45;nazis/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-16T15:13:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1165,16 +1175,6 @@
         "publishedAt": "2026-06-04T13:50:52.000Z",
         "summary": "Somebody once told Antti Innanen that he had built a veggie burger dressed up to look like real meat. He thought it was a fun criticism, but he also thought it missed the point. That burger is Lavern, an open-source &#82",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/06/consulting-firm-harbor-acquires-ce-global-partners-expanding-its-hr-and-payroll-advisory-capabilities.html",
-        "title": "Consulting Firm Harbor Acquires CE Global Partners, Expanding Its HR and Payroll Advisory Capabilities",
-        "url": "https://www.lawnext.com/2026/06/consulting-firm-harbor-acquires-ce-global-partners-expanding-its-hr-and-payroll-advisory-capabilities.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-03T13:00:57.000Z",
-        "summary": "Harbor, a global professional and technology services firm focused on the legal industry, has acquired CE Global Partners, a specialist in HR transformation, payroll transformation, and people-process change, it announce",
-        "category": "updates",
         "region": "na"
       },
       {
