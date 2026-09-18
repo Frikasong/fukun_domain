@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:18:09.397Z",
+  "generatedAt": "2026-09-18T15:31:26.980Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/wisconsin&",
+        "title": "Wisconsin lawyer&#8217;s law license suspended for 1 year after conviction for spitting at teen",
+        "url": "https://www.abajournal.com/news/article/wisconsin&#45;lawyers&#45;law&#45;license&#45;suspended&#45;for&#45;1&#45;year&#45;after&#45;conviction&#45;for&#45;spitting&#45;at&#45;teen/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-18T14:30:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
+        "title": "Federal judiciary plans to release AI recommendations",
+        "url": "https://www.abajournal.com/news/article/federal&#45;judiciary&#45;plans&#45;to&#45;release&#45;ai&#45;recommendations/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-18T13:37:00.000Z",
+        "summary": "",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/it&",
+        "title": "It takes courage to disagree with colleagues, U.S. Supreme Court Justice Sonia Sotomayor says",
+        "url": "https://www.abajournal.com/news/article/it&#45;takes&#45;courage&#45;to&#45;disagree&#45;with&#45;colleagues&#45;u.s&#45;supreme&#45;court&#45;justice&#45;sonia&#45;sotomayor&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-18T13:22:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/from&",
+        "title": "From mob wife to public defender - Edie Falco to star in new legal drama",
+        "url": "https://www.abajournal.com/news/article/from&#45;mob&#45;wife&#45;to&#45;public&#45;defender&#45;edie&#45;falco&#45;to&#45;star&#45;in&#45;new&#45;legal&#45;drama/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-18T13:05:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/09/yesterday-came-openais-launch-into-legal-now-come-the-litany-of-vendor-integrations.html",
+        "title": "Yesterday Came OpenAI&#8217;s Launch Into Legal, Now Come the Litany of Vendor Integrations",
+        "url": "https://www.lawnext.com/2026/09/yesterday-came-openais-launch-into-legal-now-come-the-litany-of-vendor-integrations.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-18T12:43:24.000Z",
+        "summary": "Yesterday, OpenAI released Astra for Law, a GPT-6 model tailored for legal work, as I reported here. The announcement included news of 26 new ChatGPT plugins from legal tech vendors, but it mentioned only four: Harvey, i",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/18/astra-for-law-the-battle-for-centrality",
         "title": "Astra for Law + The Battle for Centrality",
@@ -19,7 +69,7 @@
       },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/18/astra-for-laws-26-legal-tech-plugins",
-        "title": "Astra for Law’s 26 Legal Tech Plugins",
+        "title": "Astra for Law’s 26 Legal Tech Plugins + 1 Million More :)",
         "url": "https://www.artificiallawyer.com/2026/09/18/astra-for-laws-26-legal-tech-plugins/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-18T07:23:42.000Z",
@@ -38,6 +88,16 @@
         "region": "na"
       },
       {
+        "id": "ABA Journal:www.abajournal.com/web/article/lsac&",
+        "title": "LSAC will lead national convening on solving rural legal deserts",
+        "url": "https://www.abajournal.com/web/article/lsac&#45;leads&#45;national&#45;convening&#45;on&#45;solving&#45;rural&#45;legal&#45;deserts/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-17T20:24:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/09/openai-releases-astra-for-law-a-gpt-6-model-configured-for-legal-work.html",
         "title": "OpenAI Releases Astra for Law, A GPT-6 Model Tailored for Legal Work, Targeting Large Firms and Tech Vendors",
         "url": "https://www.lawnext.com/2026/09/openai-releases-astra-for-law-a-gpt-6-model-configured-for-legal-work.html",
@@ -45,6 +105,46 @@
         "publishedAt": "2026-09-17T20:00:31.000Z",
         "summary": "Calling it the beginning of its long-term investment in law, ChatGPT developer OpenAI today released Astra for Law, a version of its latest model, GPT-6 Astra, configured for legal work, including a dedicated legal searc",
         "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/openai&",
+        "title": "OpenAI introduces new AI model for law firms",
+        "url": "https://www.abajournal.com/news/article/openai&#45;introduces&#45;new&#45;ai&#45;model&#45;for&#45;law&#45;firms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-17T20:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/in&",
+        "title": "In split opinion, court permanently disbars judge convicted of indecent behavior with teens",
+        "url": "https://www.abajournal.com/news/article/in&#45;split&#45;opinion&#45;louisiana&#45;permanently&#45;disbars&#45;judge&#45;convicted&#45;of&#45;indecent&#45;behavior&#45;with&#45;teens/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-17T17:04:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/diddys&",
+        "title": "Lawyers in Sean ‘Diddy’ Combs&#8217; defamation case claim they haven&#8217;t been paid in over 6 months",
+        "url": "https://www.abajournal.com/news/article/diddys&#45;lawyers&#45;in&#45;defamation&#45;case&#45;claim&#45;they&#45;havent&#45;been&#45;paid&#45;in&#45;over&#45;six&#45;months/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-17T16:25:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/so&",
+        "title": "So you want to be an entertainment lawyer?",
+        "url": "https://www.abajournal.com/web/article/so&#45;you&#45;want&#45;to&#45;be&#45;an&#45;entertainment&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-17T15:06:00.000Z",
+        "summary": "",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1068,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/06/can-a-legal-ai-platform-be-powerful-fun-and-free-all-at-the-same-time-lavern-surely-thinks-so.html",
-        "title": "Can a Legal AI Platform Be Powerful, Fun and Free All at the Same Time? Lavern Surely Thinks So.",
-        "url": "https://www.lawnext.com/2026/06/can-a-legal-ai-platform-be-powerful-fun-and-free-all-at-the-same-time-lavern-surely-thinks-so.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-04T13:50:52.000Z",
-        "summary": "Somebody once told Antti Innanen that he had built a veggie burger dressed up to look like real meat. He thought it was a fun criticism, but he also thought it missed the point. That burger is Lavern, an open-source &#82",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1116,26 +1206,6 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
@@ -1155,26 +1225,6 @@
         "url": "https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-18T17:00:25.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/o1uifjx3cf5szz3ayuai",
-        "title": "唐杰、GLM团队长文披露智谱RSI最新进展：GLM-5.3已摸到门槛，“正一步步走向取代我们”",
-        "url": "https://www.infoq.cn/article/O1uIfJx3CF5SZz3ayuaI?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-18T16:48:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/gdsf7xbmd08h0eb0gg11",
-        "title": "ColorOS 17 发布，OPPO 开始把手机 OS 推向 AgentOS",
-        "url": "https://www.infoq.cn/article/gDSf7xBmd08H0eB0GG11?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-18T15:53:51.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1238,16 +1288,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-09-16T07:01:17.000Z",
         "summary": "China’s contributions and leadership were of considerable value to the revision of new International Organization for Standardization (ISO) standards for artificial intelligence, intelligent transport systems and cyberse",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/presented/business/topics/asian-captive-conference-2026/article/3367381/asian-captive-conference-2026-highlights-how-captives-are-utilised-businesses-navigate-risks",
-        "title": "Asian Captive Conference 2026 Highlights How Captives Are Utilised as Businesses Navigate Risks",
-        "url": "https://www.scmp.com/presented/business/topics/asian-captive-conference-2026/article/3367381/asian-captive-conference-2026-highlights-how-captives-are-utilised-businesses-navigate-risks?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-14T06:37:31.000Z",
-        "summary": "[The content of this article has been produced by our advertising partner.] KUALA LUMPUR, 11 September 2026 — The 8th Asian Captive Conference (ACC) 2026 yesterday brought together more than 300 risk and industry profess",
         "category": "updates",
         "region": "cn_en"
       }
