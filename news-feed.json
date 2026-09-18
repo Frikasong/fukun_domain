@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T02:26:05.886Z",
+  "generatedAt": "2026-09-18T10:18:09.397Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,12 +8,32 @@
   "panels": {
     "na": [
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/lsac&",
-        "title": "LSAC will lead national convening on solving rural legal deserts",
-        "url": "https://www.abajournal.com/web/article/lsac&#45;leads&#45;national&#45;convening&#45;on&#45;solving&#45;rural&#45;legal&#45;deserts/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-17T20:24:00.000Z",
-        "summary": "",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/18/astra-for-law-the-battle-for-centrality",
+        "title": "Astra for Law + The Battle for Centrality",
+        "url": "https://www.artificiallawyer.com/2026/09/18/astra-for-law-the-battle-for-centrality/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-18T08:29:23.000Z",
+        "summary": "The battle for centrality is now legal tech’s greatest strategic challenge – and Astra for Law just raised the stakes for everyone. That is to ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/18/astra-for-laws-26-legal-tech-plugins",
+        "title": "Astra for Law’s 26 Legal Tech Plugins",
+        "url": "https://www.artificiallawyer.com/2026/09/18/astra-for-laws-26-legal-tech-plugins/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-18T07:23:42.000Z",
+        "summary": "Alongside the launch of Astra for Law, OpenAI has also announced that there are already 26 ‘partner-built plugins’ (see full list below), that help lawyers ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law",
+        "title": "OpenAI Launches Astra For Law",
+        "url": "https://www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-18T06:43:50.000Z",
+        "summary": "After plenty of waiting, OpenAI has launched Astra for Law, a ‘new offering powered by GPT-6 Astra with tools, settings, and context to support the ...",
         "category": "updates",
         "region": "na"
       },
@@ -28,102 +48,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/openai&",
-        "title": "OpenAI introduces new AI model for law firms",
-        "url": "https://www.abajournal.com/news/article/openai&#45;introduces&#45;new&#45;ai&#45;model&#45;for&#45;law&#45;firms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-17T20:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/in&",
-        "title": "In split opinion, court permanently disbars judge convicted of indecent behavior with teens",
-        "url": "https://www.abajournal.com/news/article/in&#45;split&#45;opinion&#45;louisiana&#45;permanently&#45;disbars&#45;judge&#45;convicted&#45;of&#45;indecent&#45;behavior&#45;with&#45;teens/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-17T17:04:00.000Z",
-        "summary": "",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/diddys&",
-        "title": "Lawyers in Sean ‘Diddy’ Combs&#8217; defamation case claim they haven&#8217;t been paid in over 6 months",
-        "url": "https://www.abajournal.com/news/article/diddys&#45;lawyers&#45;in&#45;defamation&#45;case&#45;claim&#45;they&#45;havent&#45;been&#45;paid&#45;in&#45;over&#45;six&#45;months/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-17T16:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/wisconsin&",
-        "title": "Former judge who helped man avoid ICE keeps law license",
-        "url": "https://www.abajournal.com/news/article/wisconsin&#45;judge&#45;who&#45;helped&#45;man&#45;avoid&#45;ice&#45;keeps&#45;law&#45;license/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-17T15:32:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/so&",
-        "title": "So you want to be an entertainment lawyer?",
-        "url": "https://www.abajournal.com/web/article/so&#45;you&#45;want&#45;to&#45;be&#45;an&#45;entertainment&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-17T15:06:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/charlie&",
-        "title": "Charlie Kirk’s family intends to sue Utah university over alleged security lapses",
-        "url": "https://www.abajournal.com/news/article/charlie&#45;kirks&#45;family&#45;intends&#45;to&#45;sue&#45;utah&#45;university&#45;over&#45;alleged&#45;security&#45;lapses/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-17T14:50:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/congress&",
-        "title": "Congress considers overhaul to judicial conduct law",
-        "url": "https://www.abajournal.com/news/article/congress&#45;considering&#45;overhaul&#45;to&#45;judicial&#45;conduct&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-17T14:34:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/17/google-shows-off-cloud-legal-ai-helpers-more",
         "title": "Google Shows Off Cloud Legal AI Helpers + More",
         "url": "https://www.artificiallawyer.com/2026/09/17/google-shows-off-cloud-legal-ai-helpers-more/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-17T06:35:05.000Z",
         "summary": "Yesterday, &#8216;Google Legal&#8217; gave an inside look at how Gemini Enterprise can be deployed for lawyers, from everyday prompting, to NotebookLM use, to custom app ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/nh&",
-        "title": "State supreme court chief justice resigns after staffer receives nearly $50K payout",
-        "url": "https://www.abajournal.com/web/article/nh&#45;supreme&#45;court&#45;justice&#45;resings&#45;after&#45;staffer&#45;receives&#45;50k&#45;payout/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-16T19:46:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/the&",
-        "title": "The Right to Vote: Who cares about it?",
-        "url": "https://www.abajournal.com/magazine/article/the&#45;right&#45;to&#45;vote&#45;who&#45;cares&#45;about&#45;it/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-16T19:30:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -225,36 +155,6 @@
         "publishedAt": "2026-09-14T16:45:18.000Z",
         "summary": "At the recent conference of the International Legal Technology Association, the big legal AI vendors CoCounsel, Harvey and Legora had outsized presences, with ginormous booths in the exhibit hall, major-name performers a",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/14/morgan-morgan-commits-to-1-billion-for-legal-tech-ai",
-        "title": "Morgan &#038; Morgan Commits to $1 Billion For Legal Tech + AI",
-        "url": "https://www.artificiallawyer.com/2026/09/14/morgan-morgan-commits-to-1-billion-for-legal-tech-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-14T14:01:33.000Z",
-        "summary": "Morgan &#38; Morgan, the largest plaintiff law firm in America, has announced it will spend at least $1 billion on legal tech and AI over ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/14/legora-to-launch-ontology-ai-native-citator",
-        "title": "Legora To Launch Ontology + AI Native Citator",
-        "url": "https://www.artificiallawyer.com/2026/09/14/legora-to-launch-ontology-ai-native-citator/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-14T10:33:26.000Z",
-        "summary": "Legora is ramping up its legal research capabilities by offering &#8216;a full ontology of law and an AI-native citator’. The move follows deals with Qura and ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/14/what-lathams-ai-recruitment-shows-us",
-        "title": "What Latham’s AI Recruitment Shows Us",
-        "url": "https://www.artificiallawyer.com/2026/09/14/what-lathams-ai-recruitment-shows-us/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-14T10:01:24.000Z",
-        "summary": "If you take a look at the recruitment page of Latham &#38; Watkins and search for roles that relate to AI, it paints a picture ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,25 +1106,85 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/x2fmieckedyuv66bnj3g",
-        "title": "让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海",
-        "url": "https://www.infoq.cn/article/x2FmIeCkeDYUV66BNj3g?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/afc40ll0yaxvcdvbrfok",
+        "title": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "url": "https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-18T10:00:00.000Z",
+        "publishedAt": "2026-09-18T18:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/w3toiqhv5pkhsxp6mgww",
-        "title": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
-        "url": "https://www.infoq.cn/article/W3tOIQhV5pKhsXP6mgWw?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/cephwkjzae7lzborilcq",
+        "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+        "url": "https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-18T09:04:00.000Z",
+        "publishedAt": "2026-09-18T17:00:25.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/o1uifjx3cf5szz3ayuai",
+        "title": "唐杰、GLM团队长文披露智谱RSI最新进展：GLM-5.3已摸到门槛，“正一步步走向取代我们”",
+        "url": "https://www.infoq.cn/article/O1uIfJx3CF5SZz3ayuaI?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-18T16:48:30.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/gdsf7xbmd08h0eb0gg11",
+        "title": "ColorOS 17 发布，OPPO 开始把手机 OS 推向 AgentOS",
+        "url": "https://www.infoq.cn/article/gDSf7xBmd08H0eB0GG11?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-18T15:53:51.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wbpy0kv3tb32jepv6cg0",
+        "title": "被热议的RSI，39 年前就已诞生？现代人工智能之父复盘RSI的漫长探索",
+        "url": "https://www.infoq.cn/article/wbpy0Kv3tB32jEPV6Cg0?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-18T12:35:43.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
