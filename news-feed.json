@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T15:31:26.980Z",
+  "generatedAt": "2026-09-18T20:11:47.756Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/new&",
+        "title": "New ProBAR hotline receives over 150 calls in first month",
+        "url": "https://www.abajournal.com/news/article/new&#45;probar&#45;hotline&#45;receives&#45;over&#45;150&#45;calls&#45;in&#45;first&#45;month/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-18T19:38:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/09/nominations-are-open-for-the-2027-alli-gerkman-legal-visionary-award-deadline-is-nov-1.html",
+        "title": "Nominations Are Open for the 2027 Alli Gerkman Legal Visionary Award; Deadline is Nov. 1",
+        "url": "https://www.lawnext.com/2026/09/nominations-are-open-for-the-2027-alli-gerkman-legal-visionary-award-deadline-is-nov-1.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-18T17:14:57.000Z",
+        "summary": "Nominations are now open for the 2027 Alli Gerkman Legal Visionary Award, which recognizes an innovator who, early in their career, has made a significant impact toward making the American legal system work better for ev",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/09/guest-post-the-rise-of-the-contracting-stack.html",
+        "title": "Guest Post: The Rise Of The Contracting &#8216;Stack&#8217;",
+        "url": "https://www.lawnext.com/2026/09/guest-post-the-rise-of-the-contracting-stack.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-18T16:00:13.000Z",
+        "summary": "A legal operations professional requested a demo earlier this year with a note that intrigued me. She said that she was going to &#8220;stack&#8221; a CLM solution, and she was looking for the workflow portion (which is ",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/wisconsin&",
         "title": "Wisconsin lawyer&#8217;s law license suspended for 1 year after conviction for spitting at teen",
@@ -133,16 +163,6 @@
         "url": "https://www.abajournal.com/news/article/diddys&#45;lawyers&#45;in&#45;defamation&#45;case&#45;claim&#45;they&#45;havent&#45;been&#45;paid&#45;in&#45;over&#45;six&#45;months/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-09-17T16:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/so&",
-        "title": "So you want to be an entertainment lawyer?",
-        "url": "https://www.abajournal.com/web/article/so&#45;you&#45;want&#45;to&#45;be&#45;an&#45;entertainment&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-17T15:06:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1144,26 +1164,6 @@
         "source": "LawSites",
         "publishedAt": "2026-06-08T20:52:23.000Z",
         "summary": "Clio said today it has promoted Ronnie Gurion to president and chief operating officer, expanding the role he has served as an executive who has been with the company since joining as COO in 2021. The company said that G",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/06/casepoint-names-govtech-veteran-paul-colangelo-ceo-as-thoma-bravo-backed-company-pushes-deeper-into-government.html",
-        "title": "Casepoint Names GovTech Veteran Paul Colangelo CEO, As Thoma Bravo–Backed Company Pushes Deeper Into Government",
-        "url": "https://www.lawnext.com/2026/06/casepoint-names-govtech-veteran-paul-colangelo-ceo-as-thoma-bravo-backed-company-pushes-deeper-into-government.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-08T12:15:36.000Z",
-        "summary": "Casepoint has named Paul Colangelo, a longtime government- and enterprise-software executive, as its chief executive officer, the company announced this morning. He will oversee the company&#8217;s continuing integration",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/06/less-hype-more-application-is-the-promise-of-this-june-17-legal-ai-conference-live-in-l-a-or-virtual.html",
-        "title": "&#8216;Less Hype, More Application&#8217; Is the Promise of This June 17 Legal AI Conference, Live In L.A. Or Virtual",
-        "url": "https://www.lawnext.com/2026/06/less-hype-more-application-is-the-promise-of-this-june-17-legal-ai-conference-live-in-l-a-or-virtual.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-04T18:35:20.000Z",
-        "summary": "A few months ago, I wrote about the new partnership between Masters AI Legal, the newly launched division of The Masters Conference, and Cat Casey, founder of The TechnoCat, a consulting and speaking practice focused on ",
         "category": "updates",
         "region": "na"
       },
