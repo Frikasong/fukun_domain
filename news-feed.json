@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T02:25:43.660Z",
+  "generatedAt": "2026-09-19T10:00:54.154Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -39,7 +39,7 @@
       },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/wisconsin&",
-        "title": "Wisconsin lawyer&#8217;s law license suspended for 1 year after conviction for spitting at teen",
+        "title": "Lawyer&#8217;s law license suspended for 1 year after conviction for spitting at teen",
         "url": "https://www.abajournal.com/news/article/wisconsin&#45;lawyers&#45;law&#45;license&#45;suspended&#45;for&#45;1&#45;year&#45;after&#45;conviction&#45;for&#45;spitting&#45;at&#45;teen/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-09-18T14:30:00.000Z",
@@ -59,7 +59,7 @@
       },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/it&",
-        "title": "It takes courage to disagree with colleagues, U.S. Supreme Court Justice Sonia Sotomayor says",
+        "title": "It takes courage to disagree with colleagues, Justice Sotomayor says",
         "url": "https://www.abajournal.com/news/article/it&#45;takes&#45;courage&#45;to&#45;disagree&#45;with&#45;colleagues&#45;u.s&#45;supreme&#45;court&#45;justice&#45;sonia&#45;sotomayor&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-09-18T13:22:00.000Z",
@@ -69,7 +69,7 @@
       },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/from&",
-        "title": "From mob wife to public defender - Edie Falco to star in new legal drama",
+        "title": "From Mob Wife to Public Defender: Edie Falco to star in new legal drama",
         "url": "https://www.abajournal.com/news/article/from&#45;mob&#45;wife&#45;to&#45;public&#45;defender&#45;edie&#45;falco&#45;to&#45;star&#45;in&#45;new&#45;legal&#45;drama/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-09-18T13:05:00.000Z",
@@ -1210,19 +1210,29 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/axtfcfx09anmpwglkqhn",
-        "title": "Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
-        "url": "https://www.infoq.cn/article/AXtfCFx09aNmpWgLkqhN?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/zfihhoq5tsj4ybqzpjq3",
+        "title": "当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+        "url": "https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-19T10:00:00.000Z",
+        "publishedAt": "2026-09-19T17:20:08.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/g4tlqvg2isabe0v1rdoe",
-        "title": "从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
-        "url": "https://www.infoq.cn/article/G4tlQvg2IsabE0v1RDOE?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/mrl45fq31u7jorzsv5re",
+        "title": "从技术深潜到动手实战，Snowflake World Tour 技术专场让 AI 走进真实业务",
+        "url": "https://www.infoq.cn/article/mrl45Fq31U7JORZsV5re?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-19T17:02:13.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/axtfcfx09anmpwglkqhn",
+        "title": "Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
+        "url": "https://www.infoq.cn/article/AXtfCFx09aNmpWgLkqhN?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-19T10:00:00.000Z",
         "summary": "点击查看原文>",
@@ -1258,29 +1268,9 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/paogkkfvhv3gbhg3gedc",
-        "title": "阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作",
-        "url": "https://www.infoq.cn/article/paoGkkFVHV3gbhG3GEdC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-17T15:50:57.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/presented/business/topics/prometheum-hashkey-mou/article/3367689/prometheum-capital-hashkey-digital-asset-group-and-velocity-capital-sign-binding-mou",
-        "title": "Prometheum Capital, HashKey Digital Asset Group, and Velocity Capital Sign Binding MOU to Internationalize Tokenized U.S. Equities",
-        "url": "https://www.scmp.com/presented/business/topics/prometheum-hashkey-mou/article/3367689/prometheum-capital-hashkey-digital-asset-group-and-velocity-capital-sign-binding-mou?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-16T16:00:07.000Z",
-        "summary": "[The content of this article has been produced by our advertising partner.] NEW YORK – SEPT. 16, 2026 – Prometheum Inc. (“Prometheum”), a market infrastructure provider for crypto assets, today announced that its subsidi",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3367723/kimi-creator-moonshot-draws-global-investors-seeking-top-tier-chinese-ai-developers",
         "title": "Kimi creator Moonshot draws global funds seeking ‘top-tier’ Chinese AI developers: sources",
