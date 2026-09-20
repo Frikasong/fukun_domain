@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:36:07.547Z",
+  "generatedAt": "2026-09-20T10:20:55.192Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,31 +1210,51 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/youbefokmc6mfp0otviq",
-        "title": "AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
-        "url": "https://www.infoq.cn/article/YoUBefokMC6MFP0otviQ?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/0u1zehonpap8pgmktgiy",
+        "title": "Java 27 来了：后量子密码学先落地，值类还要再等等",
+        "url": "https://www.infoq.cn/article/0U1ZEhoNPAP8pGMktGiy?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-20T10:00:00.000Z",
+        "publishedAt": "2026-09-20T18:05:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/7v4etbr4wwyjbqp7rtok",
-        "title": "九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
-        "url": "https://www.infoq.cn/article/7V4eTBr4WwyJbQp7RTOK?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/op7tdkoaamphfbkdy8uw",
+        "title": "硅基流动完成B+轮二期及C轮融资，年内累计融资近29亿元",
+        "url": "https://www.infoq.cn/article/oP7tDkoaamphFBkDY8uW?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-20T09:59:20.000Z",
+        "publishedAt": "2026-09-20T17:42:31.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/mnchcssgdsllckygtusg",
-        "title": ".NET 11 RC1 来了：C# 15 转正，联合类型却引发争议",
-        "url": "https://www.infoq.cn/article/mNChcSsgdSLLckYGTuSG?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/3fdzsfrzlb3vmdwsc1ny",
+        "title": "微软开源 TauGrid，简化 Kubernetes AI 工作负载管理",
+        "url": "https://www.infoq.cn/article/3FdzSfrzlb3vMDwsC1Ny?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-20T09:00:00.000Z",
+        "publishedAt": "2026-09-20T15:46:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zvzhvqiw9bvrwd3su7st",
+        "title": "Dropbox 分享如何通过提升现有基础设施能效为 AI 腾出算力余量",
+        "url": "https://www.infoq.cn/article/zVZhvQIW9BvrWd3SU7st?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-20T14:06:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/kcujzby0b8sz6kilulqd",
+        "title": "“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂",
+        "url": "https://www.infoq.cn/article/kCUJZby0B8SZ6kIlULQD?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-20T11:51:39.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1265,16 +1285,6 @@
         "url": "https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-18T17:00:25.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wbpy0kv3tb32jepv6cg0",
-        "title": "被热议的RSI，39 年前就已诞生？现代人工智能之父复盘RSI的漫长探索",
-        "url": "https://www.infoq.cn/article/wbpy0Kv3tB32jEPV6Cg0?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-18T12:35:43.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
