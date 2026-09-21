@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T17:31:00.438Z",
+  "generatedAt": "2026-09-21T21:28:10.330Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/09/on-lawnext-an-offer-she-could-not-turn-down-bridget-mccormack-on-joining-clio-to-transform-technology-for-judges.html",
+        "title": "On LawNext: An Offer She Could Not Turn Down &#8212; Bridget McCormack on Joining Clio to Transform Technology for Judges",
+        "url": "https://www.lawnext.com/2026/09/on-lawnext-an-offer-she-could-not-turn-down-bridget-mccormack-on-joining-clio-to-transform-technology-for-judges.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-21T20:55:43.000Z",
+        "summary": "Legal tech company Clio has long said that its mission is to transform the legal experience for all. Until now, that “all” has largely focused on law firms and their clients, but recently Clio announced a major initiativ",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
+        "title": "ABA Death Penalty Representation Project marks 40 years, recognizes firms, lawyers for pro bono service",
+        "url": "https://www.abajournal.com/news/article/aba&#45;death&#45;penalty&#45;representation&#45;project&#45;marks&#45;40&#45;years&#45;recognizes&#45;firms&#45;lawyers&#45;for&#45;pro&#45;bono&#45;service/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-21T20:36:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/a&",
+        "title": "Double Dedication: Lawyer and sister balances religion and legal practice",
+        "url": "https://www.abajournal.com/web/article/a&#45;lawyer&#45;and&#45;a&#45;sister&#45;walk&#45;into&#45;court&#45;and&#45;theyre&#45;the&#45;same&#45;person/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-21T19:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/i&",
+        "title": "I planned my retirement; then cancer filed an objection",
+        "url": "https://www.abajournal.com/voice/article/i&#45;planned&#45;my&#45;retirement&#45;then&#45;cancer&#45;filed&#45;an&#45;objection/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-21T18:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/09/finalists-named-for-american-legal-technology-awards-winners-to-be-named-at-october-gala-in-boston.html",
         "title": "Finalists Named for American Legal Technology Awards; Winners To Be Named At October Gala in Boston",
@@ -68,6 +108,16 @@
         "region": "na"
       },
       {
+        "id": "OpenAI News:openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-21T12:00:00.000Z",
+        "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/21/ai-gains-slim-for-most-staff-is-legal-different",
         "title": "AI Gains Slim for Most Staff, Is Legal Different?",
         "url": "https://www.artificiallawyer.com/2026/09/21/ai-gains-slim-for-most-staff-is-legal-different/",
@@ -123,36 +173,6 @@
         "url": "https://www.abajournal.com/news/article/wisconsin&#45;lawyers&#45;law&#45;license&#45;suspended&#45;for&#45;1&#45;year&#45;after&#45;conviction&#45;for&#45;spitting&#45;at&#45;teen/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-09-18T14:30:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
-        "title": "Federal judiciary plans to release AI recommendations",
-        "url": "https://www.abajournal.com/news/article/federal&#45;judiciary&#45;plans&#45;to&#45;release&#45;ai&#45;recommendations/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-18T13:37:00.000Z",
-        "summary": "",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/it&",
-        "title": "It takes courage to disagree with colleagues, Justice Sotomayor says",
-        "url": "https://www.abajournal.com/news/article/it&#45;takes&#45;courage&#45;to&#45;disagree&#45;with&#45;colleagues&#45;u.s&#45;supreme&#45;court&#45;justice&#45;sonia&#45;sotomayor&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-18T13:22:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/from&",
-        "title": "From Mob Wife to Public Defender: Edie Falco to star in new legal drama",
-        "url": "https://www.abajournal.com/news/article/from&#45;mob&#45;wife&#45;to&#45;public&#45;defender&#45;edie&#45;falco&#45;to&#45;star&#45;in&#45;new&#45;legal&#45;drama/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-18T13:05:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1168,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/06/targeting-european-leadership-in-patent-ai-deepip-acquires-patentmaker.html",
-        "title": "Targeting European Leadership in Patent AI, DeepIP Acquires PatentMaker",
-        "url": "https://www.lawnext.com/2026/06/targeting-european-leadership-in-patent-ai-deepip-acquires-patentmaker.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-09T10:00:15.000Z",
-        "summary": "AI patent drafting platform DeepIP has acquired PatentMaker, a patent workflow tool built by and for European IP practitioners, in a move the companies say positions them as the leading AI platform for patent drafting an",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1194,16 +1204,6 @@
         "source": "OpenAI News",
         "publishedAt": "2024-06-17T04:15:00.000Z",
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
       }
