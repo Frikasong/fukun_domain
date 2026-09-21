@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T20:02:21.503Z",
+  "generatedAt": "2026-09-21T02:33:31.136Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,36 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/rstaidv81iitt3lgmroz",
+        "title": "AI4S走出实验室：材料研发开始跨越“中试鸿沟”",
+        "url": "https://www.infoq.cn/article/rSTAidV81IITt3lgMROZ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-21T10:22:16.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/agirrrtm1lbdfivwwurx",
+        "title": "Altum：蚂蚁集团新一代大模型训练数据处理系统设计与实践｜QCon上海",
+        "url": "https://www.infoq.cn/article/AGIRRRtM1lBDFIvwWuRX?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-21T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/z3ra77ahmlro8zmy7sl3",
+        "title": "人工智能时代的代码正在变为只写且可丢弃的",
+        "url": "https://www.infoq.cn/article/Z3RA77AHmLro8zmY7Sl3?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-21T09:06:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/huoizyyh32mprwtfkone",
         "title": "比 Grok、Cursor 都狠？智谱ZCode“偷传代码”风波升级，企业发函追责",
         "url": "https://www.infoq.cn/article/huOiZyyH32MpRwTFkoNe?utm_source=rss&utm_medium=article",
@@ -1271,6 +1301,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics",
+        "title": "Chinese AI chipmaker Hygon plots expansion from data centres to robotics",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-21T00:30:10.000Z",
+        "summary": "Chinese chipmaker Hygon Information Technology is set to release a new chip targeting physical-world applications including robotics, expanding from its current focus on data centres, according to Chinese media reports a",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3367723/kimi-creator-moonshot-draws-global-investors-seeking-top-tier-chinese-ai-developers",
         "title": "Kimi creator Moonshot draws global funds seeking ‘top-tier’ Chinese AI developers: sources",
