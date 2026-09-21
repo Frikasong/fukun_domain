@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T02:33:31.136Z",
+  "generatedAt": "2026-09-21T11:33:31.685Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/21/ai-gains-slim-for-most-staff-is-legal-different",
+        "title": "AI Gains Slim for Most Staff, Is Legal Different?",
+        "url": "https://www.artificiallawyer.com/2026/09/21/ai-gains-slim-for-most-staff-is-legal-different/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-21T08:23:16.000Z",
+        "summary": "A major survey of 25,000 employees by Big Four firm Deloitte has found that the workforce in general has not seen significant productivity gains from ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/21/when-every-legal-ai-has-a-good-model-what-differentiates-it",
+        "title": "When Every Legal AI Has a Good Model, What Differentiates It?",
+        "url": "https://www.artificiallawyer.com/2026/09/21/when-every-legal-ai-has-a-good-model-what-differentiates-it/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-21T06:52:48.000Z",
+        "summary": "By Deepak Kapoor, CEO, Manupatra. The legal AI conversation has, understandably, been dominated by models. Which model reasons better? Which has the larger context window? ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/new&",
         "title": "New ProBAR hotline receives over 150 calls in first month",
@@ -244,26 +264,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-16T07:45:29.000Z",
         "summary": "A new pricing survey by BigHand shows that 31% of law firms – which had scrutinised their data – found that AI had ‘improved profitability ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/15/white-case-partner-ai-slowdown-risks-investor-collision",
-        "title": "White &#038; Case Partner: ‘AI Slowdown Risks Investor Collision’",
-        "url": "https://www.artificiallawyer.com/2026/09/15/white-case-partner-ai-slowdown-risks-investor-collision/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-15T10:29:29.000Z",
-        "summary": "Several AI bosses have called for a slowdown in the development of the technology, following agentic experiments that went wrong. Now, Daniel Turgel, a White ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/15/lawyers-are-burning-out-can-ai-help",
-        "title": "Lawyers Are Burning Out, Can AI Help?",
-        "url": "https://www.artificiallawyer.com/2026/09/15/lawyers-are-burning-out-can-ai-help/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-15T07:18:18.000Z",
-        "summary": "A major survey by the American Bar Association has found that ‘nearly half of all lawyers (47.4%) screened positive for high burnout, including 15.6% meeting ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,13 +1210,93 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/rstaidv81iitt3lgmroz",
-        "title": "AI4S走出实验室：材料研发开始跨越“中试鸿沟”",
-        "url": "https://www.infoq.cn/article/rSTAidV81IITt3lgMROZ?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/eu5m831fwofa6rdhcolo",
+        "title": "70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作",
+        "url": "https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-21T10:22:16.000Z",
+        "publishedAt": "2026-09-21T18:23:23.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ihh1ltog7d2ycelykjye",
+        "title": "70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么",
+        "url": "https://www.infoq.cn/article/ihH1ltOG7d2YCelYKJYe?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-21T18:21:03.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/te2qjg2j6ausgc6vaeny",
+        "title": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
+        "url": "https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-21T18:18:29.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/g58ahjw8gt8cquiq5sap",
+        "title": "70强项目观察之新智基座：Agent正在从“会聊”走向“会干活”",
+        "url": "https://www.infoq.cn/article/G58AHJw8gT8CQuiq5sap?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-21T18:15:51.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/cimvuekajdlqu6zy54os",
+        "title": "Lambda SnapStart 现已支持容器镜像",
+        "url": "https://www.infoq.cn/article/CIMVueKAjDLqU6zy54Os?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-21T17:37:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/va7opkwl5wylwycpidds",
+        "title": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
+        "url": "https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-21T17:07:01.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/tctru2ap9vsxxhvestfw",
+        "title": "纯 LLM 做 NL2SQL 总不准？金融场景为什么必须做本体工程",
+        "url": "https://www.infoq.cn/article/TcTrU2Ap9VsxxHVestfw?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-21T14:20:12.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/mmncvfygxtyfhpm0skvn",
+        "title": "IDC评估中国 AI算力管理平台：范式综合评分位列第一",
+        "url": "https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-21T14:10:36.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fk2zf2u01pt45ueaqqfq",
+        "title": "GitHub Copilot 推出 HydraFusion 项目，依托多模型路由实现前沿级性能",
+        "url": "https://www.infoq.cn/article/FK2ZF2u01pt45uEAqQFq?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-21T13:16:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "tools",
         "region": "cn"
       },
       {
@@ -1238,79 +1318,9 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/huoizyyh32mprwtfkone",
-        "title": "比 Grok、Cursor 都狠？智谱ZCode“偷传代码”风波升级，企业发函追责",
-        "url": "https://www.infoq.cn/article/huOiZyyH32MpRwTFkoNe?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-20T19:46:24.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/maocetzfpcvaufrqjps2",
-        "title": "70强会师杭州，世界人工智能开源大赛（GOAI）总决赛即将启幕",
-        "url": "https://www.infoq.cn/article/MaOcETZFPCvAuFRQJps2?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-20T18:47:49.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/7zz2hlnxel0guawqcyjj",
-        "title": "世界人工智能开源大赛（GOAI）总决赛70强名单公布",
-        "url": "https://www.infoq.cn/article/7zz2HLNXEl0guawQCyJj?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-20T18:15:44.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/3fdzsfrzlb3vmdwsc1ny",
-        "title": "微软开源 TauGrid，简化 Kubernetes AI 工作负载管理",
-        "url": "https://www.infoq.cn/article/3FdzSfrzlb3vMDwsC1Ny?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-20T15:46:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zvzhvqiw9bvrwd3su7st",
-        "title": "Dropbox 分享如何通过提升现有基础设施能效为 AI 腾出算力余量",
-        "url": "https://www.infoq.cn/article/zVZhvQIW9BvrWd3SU7st?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-20T14:06:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/kcujzby0b8sz6kilulqd",
-        "title": "“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂",
-        "url": "https://www.infoq.cn/article/kCUJZby0B8SZ6kIlULQD?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-20T11:51:39.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics",
-        "title": "Chinese AI chipmaker Hygon plots expansion from data centres to robotics",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-21T00:30:10.000Z",
-        "summary": "Chinese chipmaker Hygon Information Technology is set to release a new chip targeting physical-world applications including robotics, expanding from its current focus on data centres, according to Chinese media reports a",
-        "category": "tools",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3367723/kimi-creator-moonshot-draws-global-investors-seeking-top-tier-chinese-ai-developers",
         "title": "Kimi creator Moonshot draws global funds seeking ‘top-tier’ Chinese AI developers: sources",
