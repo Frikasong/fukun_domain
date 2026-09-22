@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T02:35:57.206Z",
+  "generatedAt": "2026-09-22T10:39:26.583Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/22/meet-the-legal-innovators-uk-sponsors-nov-4-5",
+        "title": "Meet The Legal Innovators UK Sponsors – Nov 4 + 5",
+        "url": "https://www.artificiallawyer.com/2026/09/22/meet-the-legal-innovators-uk-sponsors-nov-4-5/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-22T08:09:00.000Z",
+        "summary": "Legal Innovators UK is arriving soon and we are delighted to announce our latest sponsors for the landmark event in London on November 4 and ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/22/ex-latham-watkins-lawyer-launches-latest-newmod",
+        "title": "Ex-Latham &#038; Watkins Lawyer Launches Latest NewMod",
+        "url": "https://www.artificiallawyer.com/2026/09/22/ex-latham-watkins-lawyer-launches-latest-newmod/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-22T07:09:22.000Z",
+        "summary": "NewMods are forming faster than you can say ‘innovating the means of legal production’. The latest entry into the market is Vetta, created by ex-Latham ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/09/on-lawnext-an-offer-she-could-not-turn-down-bridget-mccormack-on-joining-clio-to-transform-technology-for-judges.html",
         "title": "On LawNext: An Offer She Could Not Turn Down &#8212; Bridget McCormack on Joining Clio to Transform Technology for Judges",
@@ -268,32 +288,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/16/checkbox-launches-first-pass-ai-contract-review",
-        "title": "Checkbox Launches ‘First Pass’ AI Contract Review",
-        "url": "https://www.artificiallawyer.com/2026/09/16/checkbox-launches-first-pass-ai-contract-review/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-16T13:30:06.000Z",
-        "summary": "Checkbox, a legal front door for corporates, has launched First Pass, marking a move into contract review – and which builds upon its platform for ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/09/one-plus-one-equals-more-than-two-clio-lands-mccormack-to-join-arredondo-in-judiciary-expansion.html",
         "title": "One Plus One Equals More Than Two: Clio Lands McCormack to Join Arredondo in Judiciary Expansion",
         "url": "https://www.lawnext.com/2026/09/one-plus-one-equals-more-than-two-clio-lands-mccormack-to-join-arredondo-in-judiciary-expansion.html",
         "source": "LawSites",
         "publishedAt": "2026-09-16T13:00:10.000Z",
         "summary": "The mystery of Bridget M. McCormack&#8217;s destination has been solved. Last week, I reported that McCormack, current president and CEO of the American Arbitration Association and former chief justice of the Michigan Su",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/16/31-of-law-firms-say-ai-improves-profitability",
-        "title": "31% of Law Firms Say AI Improves Profitability",
-        "url": "https://www.artificiallawyer.com/2026/09/16/31-of-law-firms-say-ai-improves-profitability/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-16T07:45:29.000Z",
-        "summary": "A new pricing survey by BigHand shows that 31% of law firms – which had scrutinised their data – found that AI had ‘improved profitability ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,21 +1210,31 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/jeg84ggvyvihaqkqfio2",
-        "title": "复杂业务 Agent 的持续进化：快手电商导购的 Harness Loop 实践｜QCon上海",
-        "url": "https://www.infoq.cn/article/jeG84GGVYvIHaQKQfIo2?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/jkdjykwiavxredawbvjk",
+        "title": "Jotai 3.0 带来仅支持 ESM 的现代化包，摒弃旧版构建方式和已弃用 API",
+        "url": "https://www.infoq.cn/article/JkDJyKWiavXREdAWBvJk?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-22T10:00:00.000Z",
+        "publishedAt": "2026-09-22T17:31:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/slzsm1qr5i1qji0jazjr",
-        "title": "Rustls 十周年：发展历程、基准测试与未来路线图",
-        "url": "https://www.infoq.cn/article/slZSm1Qr5I1QJi0JaZjr?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/xpo33yalueeisbhq4zgi",
+        "title": "AI Coding 贡献率超 90%，需求交付却只快了 10%：菜鸟如何用 Agent 托管端到端交付？",
+        "url": "https://www.infoq.cn/article/XPo33yALUEeIsBhQ4zGI?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-22T09:06:00.000Z",
+        "publishedAt": "2026-09-22T14:17:25.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jcdqhiujhjlvgoygfwgx",
+        "title": "华为云码道面向鸿蒙开发者升级：上线鸿蒙编码大模型，覆盖开发到编译全流程",
+        "url": "https://www.infoq.cn/article/jCdqhiUJHJlVgOYGfWGx?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-22T11:22:09.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1258,49 +1268,8 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/tctru2ap9vsxxhvestfw",
-        "title": "纯 LLM 做 NL2SQL 总不准？金融场景为什么必须做本体工程",
-        "url": "https://www.infoq.cn/article/TcTrU2Ap9VsxxHVestfw?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-21T14:20:12.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mmncvfygxtyfhpm0skvn",
-        "title": "IDC评估中国 AI算力管理平台：范式综合评分位列第一",
-        "url": "https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-21T14:10:36.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fk2zf2u01pt45ueaqqfq",
-        "title": "GitHub Copilot 推出 HydraFusion 项目，依托多模型路由实现前沿级性能",
-        "url": "https://www.infoq.cn/article/FK2ZF2u01pt45uEAqQFq?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-21T13:16:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
-        "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/article/3368295/chinas-mlcc-market-splits-two-ai-server-demand-outpaces-consumer-electronics",
-        "title": "China’s MLCC market splits in 2 as AI server demand outpaces consumer electronics",
-        "url": "https://www.scmp.com/tech/article/3368295/chinas-mlcc-market-splits-two-ai-server-demand-outpaces-consumer-electronics?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-22T00:00:22.000Z",
-        "summary": "In China’s hardware hub in Shenzhen, the speculative frenzy around consumer multilayer ceramic capacitors (MLCCs) has cooled into a sharp price correction, but prices for artificial intelligence server components remain ",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
