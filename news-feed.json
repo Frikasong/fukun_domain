@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T15:59:51.040Z",
+  "generatedAt": "2026-09-22T20:41:26.596Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,86 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "OpenAI News:openai.com/index/better-prompt-caching-for-gpt-6",
+        "title": "Better prompt caching for GPT-6",
+        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-22T21:00:00.000Z",
+        "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/nineth&",
+        "title": "9th Circuit overturns state order to house transgender women in women&#8217;s prisons",
+        "url": "https://www.abajournal.com/news/article/nineth&#45;circuit&#45;overturns&#45;oregon&#45;order&#45;to&#45;house&#45;transgender&#45;women&#45;in&#45;womens&#45;prisons/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-22T19:32:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/09/ken-crutchfield-lessons-from-steel-why-llms-will-become-commodities.html",
+        "title": "Ken Crutchfield: Lessons From Steel &#8212; Why LLMs Will Become Commodities",
+        "url": "https://www.lawnext.com/2026/09/ken-crutchfield-lessons-from-steel-why-llms-will-become-commodities.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-22T18:24:50.000Z",
+        "summary": "Large Language Models (LLMs) are a breakthrough technology, helping fuel the AI industrial revolution. OpenAI and Anthropic are market leaders, with extraordinary private valuations. The prospect of their respective tril",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/making&",
+        "title": "Making a Federal Case of It: 2nd Circuit upholds order that law profs who lodged attorney complaints have right to publish them",
+        "url": "https://www.abajournal.com/web/article/making&#45;a&#45;federal&#45;case&#45;of&#45;it/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-22T18:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/introducing-gpt-6-sol-and-luna",
+        "title": "Introducing GPT-6 Sol and Luna",
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-22T18:00:00.000Z",
+        "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
+        "title": "Judge dismisses suit claiming James Cameron misappropriated likeness of actress for &#8216;Avatar&#8217;",
+        "url": "https://www.abajournal.com/news/article/judge&#45;dismisses&#45;lawsuit&#45;claiming&#45;james&#45;cameron&#45;misappropriated&#45;actress&#45;likeness&#45;for&#45;avatar/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-22T17:35:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/09/harvey-launches-pro-bono-program-collaborating-with-pro-bono-leaders-at-major-firms.html",
+        "title": "Harvey Launches Pro Bono Program, Collaborating with Pro Bono Leaders At Major Firms",
+        "url": "https://www.lawnext.com/2026/09/harvey-launches-pro-bono-program-collaborating-with-pro-bono-leaders-at-major-firms.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-22T17:05:22.000Z",
+        "summary": "Legal AI company Harvey said today that it is launching a dedicated pro bono program in the United States, the United Kingdom and Australia. In the first phase of the program, the company will work with a selected group ",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lindsay&",
+        "title": "Lindsay Clancy’s lawyers seek juror’s phone records, file motion to dismiss",
+        "url": "https://www.abajournal.com/news/article/lindsay&#45;clancys&#45;lawyers&#45;seek&#45;jurors&#45;phone&#45;records&#45;file&#45;a&#45;motion&#45;to&#45;dismiss/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-22T17:04:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/22/harvey-launches-pro-bono-program",
         "title": "Harvey Launches Pro Bono Program",
@@ -134,46 +214,6 @@
         "source": "LawSites",
         "publishedAt": "2026-09-21T16:31:35.000Z",
         "summary": "The American Legal Technology Awards has named the finalists for its seventh annual awards program, honoring outstanding achievement and innovation across multiple categories of legal technology. This year&#8217;s winner",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/woman&",
-        "title": "Woman hit by city bus gets $37M for pain and suffering alone",
-        "url": "https://www.abajournal.com/news/article/woman&#45;hit&#45;by&#45;city&#45;bus&#45;gets&#45;37m&#45;for&#45;pain&#45;and&#45;suffering&#45;alone/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-21T16:19:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ai&",
-        "title": "&#8216;AI slop&#8217; is threatening courts&#8217; ability to function, appeals court says",
-        "url": "https://www.abajournal.com/news/article/ai&#45;slop&#45;is&#45;threatening&#45;courts&#45;ability&#45;to&#45;function&#45;florida&#45;appeals&#45;court&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-21T15:50:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/more&",
-        "title": "More than $370K has been raised for holdout Lindsay Clancy juror",
-        "url": "https://www.abajournal.com/news/article/more&#45;than&#45;300000&#45;has&#45;been&#45;raised&#45;for&#45;the&#45;holdout&#45;lindsay&#45;clancy&#45;juror/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-21T15:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/louisiana&",
-        "title": "Attorney disbarred after stealing $385 in food from Walmart where he worked",
-        "url": "https://www.abajournal.com/news/article/louisiana&#45;attorney&#45;disbarred&#45;after&#45;stealing&#45;385&#45;in&#45;food&#45;from&#45;walmart&#45;where&#45;he&#45;worked/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-21T15:05:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1158,26 +1198,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/06/steno-names-its-current-coo-prabhdeep-singh-as-new-ceo-to-lead-next-phase-of-growth.html",
-        "title": "Steno Names Its Current COO Prabhdeep Singh as New CEO to Lead Next Phase of Growth",
-        "url": "https://www.lawnext.com/2026/06/steno-names-its-current-coo-prabhdeep-singh-as-new-ceo-to-lead-next-phase-of-growth.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-09T14:02:14.000Z",
-        "summary": "Two years ago, Steno, a tech-enabled provider of legal support and court reporting services, named Prabhdeep Singh as its chief operating officer to help accelerate the company&#8217;s growth. Apparently, he did a good j",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/06/8am-parent-to-lawpay-mycase-and-others-has-a-new-ceo.html",
-        "title": "8am, Parent to LawPay, MyCase and Others, Has A New CEO",
-        "url": "https://www.lawnext.com/2026/06/8am-parent-to-lawpay-mycase-and-others-has-a-new-ceo.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-09T12:23:03.000Z",
-        "summary": "8am, the parent company of LawPay, MyCase, CasePeer and other law practice technology products, has a new CEO: Jeff Hughes, a member of 8am&#8217;s board since 2024 and recently its executive chairman. Hughes succeeds Dr",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1185,26 +1205,6 @@
         "publishedAt": "2025-08-07T00:00:00.000Z",
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
         "region": "na"
       }
     ],
