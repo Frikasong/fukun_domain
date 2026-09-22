@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T21:28:10.330Z",
+  "generatedAt": "2026-09-22T02:35:57.206Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -104,16 +104,6 @@
         "source": "ABA Journal",
         "publishedAt": "2026-09-21T14:46:00.000Z",
         "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-        "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-        "source": "OpenAI News",
-        "publishedAt": "2026-09-21T12:00:00.000Z",
-        "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
         "category": "updates",
         "region": "na"
       },
@@ -1206,9 +1196,39 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jeg84ggvyvihaqkqfio2",
+        "title": "复杂业务 Agent 的持续进化：快手电商导购的 Harness Loop 实践｜QCon上海",
+        "url": "https://www.infoq.cn/article/jeG84GGVYvIHaQKQfIo2?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-22T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/slzsm1qr5i1qji0jazjr",
+        "title": "Rustls 十周年：发展历程、基准测试与未来路线图",
+        "url": "https://www.infoq.cn/article/slZSm1Qr5I1QJi0JaZjr?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-22T09:06:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/video/fje6qrkx70uqqcedmrtk",
         "title": "MiniMax H3 开源后，本地 AIGC 走到了哪里？",
@@ -1268,36 +1288,16 @@
         "summary": "点击查看原文>",
         "category": "tools",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/agirrrtm1lbdfivwwurx",
-        "title": "Altum：蚂蚁集团新一代大模型训练数据处理系统设计与实践｜QCon上海",
-        "url": "https://www.infoq.cn/article/AGIRRRtM1lBDFIvwWuRX?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-21T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/z3ra77ahmlro8zmy7sl3",
-        "title": "人工智能时代的代码正在变为只写且可丢弃的",
-        "url": "https://www.infoq.cn/article/Z3RA77AHmLro8zmY7Sl3?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-21T09:06:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3367723/kimi-creator-moonshot-draws-global-investors-seeking-top-tier-chinese-ai-developers",
-        "title": "Kimi creator Moonshot draws global funds seeking ‘top-tier’ Chinese AI developers: sources",
-        "url": "https://www.scmp.com/tech/big-tech/article/3367723/kimi-creator-moonshot-draws-global-investors-seeking-top-tier-chinese-ai-developers?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/tech/article/3368295/chinas-mlcc-market-splits-two-ai-server-demand-outpaces-consumer-electronics",
+        "title": "China’s MLCC market splits in 2 as AI server demand outpaces consumer electronics",
+        "url": "https://www.scmp.com/tech/article/3368295/chinas-mlcc-market-splits-two-ai-server-demand-outpaces-consumer-electronics?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-09-16T10:46:58.000Z",
-        "summary": "China’s Moonshot AI has attracted global investor interest spanning Europe, Asia and the Middle East, people familiar with the matter say, as international capital scrambles for access to Chinese frontier artificial inte",
+        "publishedAt": "2026-09-22T00:00:22.000Z",
+        "summary": "In China’s hardware hub in Shenzhen, the speculative frenzy around consumer multilayer ceramic capacitors (MLCCs) has cooled into a sharp price correction, but prices for artificial intelligence server components remain ",
         "category": "updates",
         "region": "cn_en"
       }
