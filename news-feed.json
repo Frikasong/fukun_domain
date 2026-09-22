@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:39:26.583Z",
+  "generatedAt": "2026-09-22T15:59:51.040Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,66 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/22/harvey-launches-pro-bono-program",
+        "title": "Harvey Launches Pro Bono Program",
+        "url": "https://www.artificiallawyer.com/2026/09/22/harvey-launches-pro-bono-program/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-22T15:18:06.000Z",
+        "summary": "Harvey has launched a pro bono program in the UK, Australia, and the US, which seeks to address the reality that today many millions of ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/england&",
+        "title": "England, Wales take new measures to tackle backlog in sexual offense cases",
+        "url": "https://www.abajournal.com/news/article/england&#45;wales&#45;take&#45;new&#45;measures&#45;to&#45;tackle&#45;backlog&#45;in&#45;sexual&#45;offense&#45;cases/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-22T15:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/former&",
+        "title": "Former lawyer sentenced to 24½ years in prison for attempted murder of ex-wife",
+        "url": "https://www.abajournal.com/news/article/former&#45;lawyer&#45;sentenced&#45;to&#45;24&#45;years&#45;for&#45;attempted&#45;murder&#45;of&#45;wife/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-22T14:32:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/fired&",
+        "title": "Fired lawyer&#8217;s retaliation case against Louis Vuitton revived",
+        "url": "https://www.abajournal.com/news/article/fired&#45;lawyers&#45;retaliation&#45;case&#45;against&#45;louis&#45;vuitton&#45;revived/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-22T14:22:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/22/chamelio-raises-26m-series-a",
+        "title": "Chamelio Raises $26m Series A",
+        "url": "https://www.artificiallawyer.com/2026/09/22/chamelio-raises-26m-series-a/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-22T14:15:04.000Z",
+        "summary": "Chamelio, an AI-native platform for inhouse legal teams, has announced a $26 million Series A raise led by Entrée Capital, with participation from existing investors ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/22/webinar-why-litigators-should-train-with-simulators",
+        "title": "Webinar: Why Litigators Should Train With Simulators",
+        "url": "https://www.artificiallawyer.com/2026/09/22/webinar-why-litigators-should-train-with-simulators/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-22T10:46:30.000Z",
+        "summary": "Can lawyers learn from how other professionals train, such as pilots? Can simulators become a key part of training for lawyers, especially for litigators? You ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/22/meet-the-legal-innovators-uk-sponsors-nov-4-5",
         "title": "Meet The Legal Innovators UK Sponsors – Nov 4 + 5",
@@ -118,16 +178,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/california&",
-        "title": "California bar candidates win $1.35M after troubled 2025 exam",
-        "url": "https://www.abajournal.com/news/article/california&#45;bar&#45;candidates&#45;win&#45;135&#45;million&#45;after&#45;troubled&#45;25&#45;test/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-21T14:46:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/21/ai-gains-slim-for-most-staff-is-legal-different",
         "title": "AI Gains Slim for Most Staff, Is Legal Different?",
         "url": "https://www.artificiallawyer.com/2026/09/21/ai-gains-slim-for-most-staff-is-legal-different/",
@@ -144,16 +194,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-21T06:52:48.000Z",
         "summary": "By Deepak Kapoor, CEO, Manupatra. The legal AI conversation has, understandably, been dominated by models. Which model reasons better? Which has the larger context window? ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/new&",
-        "title": "New ProBAR hotline receives over 150 calls in first month",
-        "url": "https://www.abajournal.com/news/article/new&#45;probar&#45;hotline&#45;receives&#45;over&#45;150&#45;calls&#45;in&#45;first&#45;month/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-18T19:38:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -175,16 +215,6 @@
         "publishedAt": "2026-09-18T16:00:13.000Z",
         "summary": "A legal operations professional requested a demo earlier this year with a note that intrigued me. She said that she was going to &#8220;stack&#8221; a CLM solution, and she was looking for the workflow portion (which is ",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/wisconsin&",
-        "title": "Lawyer&#8217;s law license suspended for 1 year after conviction for spitting at teen",
-        "url": "https://www.abajournal.com/news/article/wisconsin&#45;lawyers&#45;law&#45;license&#45;suspended&#45;for&#45;1&#45;year&#45;after&#45;conviction&#45;for&#45;spitting&#45;at&#45;teen/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-18T14:30:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -238,42 +268,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/17/google-shows-off-cloud-legal-ai-helpers-more",
-        "title": "Google Shows Off Cloud Legal AI Helpers + More",
-        "url": "https://www.artificiallawyer.com/2026/09/17/google-shows-off-cloud-legal-ai-helpers-more/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-17T06:35:05.000Z",
-        "summary": "Yesterday, &#8216;Google Legal&#8217; gave an inside look at how Gemini Enterprise can be deployed for lawyers, from everyday prompting, to NotebookLM use, to custom app ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/09/on-lawnext-alex-su-newly-named-president-of-latitude-legal-on-why-ai-is-driving-demand-for-flex-talent.html",
         "title": "On LawNext: Alex Su, Newly Named President of Latitude Legal, On Why AI Is Driving Demand for Flex Talent",
         "url": "https://www.lawnext.com/2026/09/on-lawnext-alex-su-newly-named-president-of-latitude-legal-on-why-ai-is-driving-demand-for-flex-talent.html",
         "source": "LawSites",
         "publishedAt": "2026-09-16T18:57:44.000Z",
         "summary": "Call it Alex Su, redux. We do not usually have the same guest on LawNext twice in the same year, but there is good reason to have Alex back, as he has just been named president of Latitude Legal, the flexible legal staff",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/16/clio-hires-bridget-mary-mccormack",
-        "title": "Clio Hires Bridget Mary McCormack",
-        "url": "https://www.artificiallawyer.com/2026/09/16/clio-hires-bridget-mary-mccormack/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-16T16:21:51.000Z",
-        "summary": "Clio has hired Bridget Mary McCormack, a former Michigan Supreme Court Chief Justice, and most recently CEO of the American Arbitration Association (AAA), where she ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/16/salesforce-rolls-out-legora-for-legal-function",
-        "title": "Salesforce Rolls Out Legora For Legal Function",
-        "url": "https://www.artificiallawyer.com/2026/09/16/salesforce-rolls-out-legora-for-legal-function/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-16T13:49:02.000Z",
-        "summary": "AL doesn’t usually do client wins, but this one is worth a mention. Legora has been picked by Salesforce for its legal teams across the ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/rnhk14osbl5cgspmotpq",
+        "title": "从生成内容到创造体验，多模态大模型如何改变内容生产？",
+        "url": "https://www.infoq.cn/article/rNHK14OsBl5CgSpMoTPq?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-22T20:12:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/jkdjykwiavxredawbvjk",
         "title": "Jotai 3.0 带来仅支持 ESM 的现代化包，摒弃旧版构建方式和已弃用 API",
         "url": "https://www.infoq.cn/article/JkDJyKWiavXREdAWBvJk?utm_source=rss&utm_medium=article",
@@ -1270,6 +1280,17 @@
         "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai",
+        "title": "China’s Hygon moves beyond data centres with embedded processors for robotics, edge AI",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-22T14:30:09.000Z",
+        "summary": "Chinese chipmaker Hygon Information Technology on Tuesday launched a suite of central processing units (CPUs) for robotics and industrial edge devices, expanding beyond cloud computing and into the fast-growing market fo",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
