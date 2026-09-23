@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T20:41:26.596Z",
+  "generatedAt": "2026-09-23T02:36:07.158Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -39,7 +39,7 @@
       },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/making&",
-        "title": "Making a Federal Case of It: 2nd Circuit upholds order that law profs who lodged attorney complaints have right to publish them",
+        "title": "Making a Federal Case of It: Court says law profs who lodged attorney complaints have right to publish them",
         "url": "https://www.abajournal.com/web/article/making&#45;a&#45;federal&#45;case&#45;of&#45;it/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-09-22T18:07:00.000Z",
@@ -1210,6 +1210,36 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/ekvtt3hgufw4wcvp7zb5",
+        "title": "阿里 Open Code Review 登顶 GitHub Trending 周榜第一，作者李峥峰将在 QCon 上海站揭秘百万任务验证的 Agent 工程实践",
+        "url": "https://www.infoq.cn/article/ekVtt3hgufw4wCvP7Zb5?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-23T10:05:17.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/lrsujsdeahmzttycosyt",
+        "title": "飞猪 AI Native 交付大脑：用超级流程重构需求交付｜QCon上海",
+        "url": "https://www.infoq.cn/article/lRSUjSdeaHMzTTycosyT?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-23T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/izptfj6mjkyfd03qfhk9",
+        "title": "Cloudflare 测试通过缓存转码来减少存储需求",
+        "url": "https://www.infoq.cn/article/izptFj6mjkyfd03qFHk9?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-23T09:26:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/rnhk14osbl5cgspmotpq",
         "title": "从生成内容到创造体验，多模态大模型如何改变内容生产？",
         "url": "https://www.infoq.cn/article/rNHK14OsBl5CgSpMoTPq?utm_source=rss&utm_medium=article",
@@ -1268,19 +1298,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/va7opkwl5wylwycpidds",
-        "title": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
-        "url": "https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-21T17:07:01.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3368401/chinas-ai-self-reliance-presents-opportunities-valuations-geopolitics-are-risks-bofa",
+        "title": "China’s AI self-reliance presents opportunities but valuations, geopolitics are risks: BofA",
+        "url": "https://www.scmp.com/business/china-business/article/3368401/chinas-ai-self-reliance-presents-opportunities-valuations-geopolitics-are-risks-bofa?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-23T00:00:21.000Z",
+        "summary": "China’s push for tech self-reliance is opening new investment opportunities in artificial intelligence stocks, but stretched valuations and geopolitical tensions make the sector an increasingly risky bet, according to Ba",
+        "category": "articles",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai",
         "title": "China’s Hygon moves beyond data centres with embedded processors for robotics, edge AI",
