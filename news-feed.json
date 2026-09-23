@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T02:36:07.158Z",
+  "generatedAt": "2026-09-23T10:31:19.574Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,13 +8,23 @@
   "panels": {
     "na": [
       {
-        "id": "OpenAI News:openai.com/index/better-prompt-caching-for-gpt-6",
-        "title": "Better prompt caching for GPT-6",
-        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-        "source": "OpenAI News",
-        "publishedAt": "2026-09-22T21:00:00.000Z",
-        "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-        "category": "skills",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/23/law-firm-launches-legal-ai-tool-for-creators",
+        "title": "Law Firm Launches Legal AI Tool For Creators",
+        "url": "https://www.artificiallawyer.com/2026/09/23/law-firm-launches-legal-ai-tool-for-creators/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-23T09:20:16.000Z",
+        "summary": "Lewis Silkin, a UK-based law firm, and its LS Innovations affiliated tech company, have launched Lettu, an AI-powered platform to help ‘creators, talent managers, agencies ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/23/invitation-to-legal-innovators-breakfast-in-paris-oct-6",
+        "title": "Invitation to Legal Innovators Breakfast in Paris – Oct 6",
+        "url": "https://www.artificiallawyer.com/2026/09/23/invitation-to-legal-innovators-breakfast-in-paris-oct-6/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-23T07:12:29.000Z",
+        "summary": "After the success of our inaugural Legal Innovators Europe conference in Paris, Cosmonauts and Artificial Lawyer invite you to join us for a special breakfast ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -44,16 +54,6 @@
         "source": "ABA Journal",
         "publishedAt": "2026-09-22T18:07:00.000Z",
         "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/introducing-gpt-6-sol-and-luna",
-        "title": "Introducing GPT-6 Sol and Luna",
-        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-        "source": "OpenAI News",
-        "publishedAt": "2026-09-22T18:00:00.000Z",
-        "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
         "category": "updates",
         "region": "na"
       },
@@ -274,26 +274,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-18T08:29:23.000Z",
         "summary": "The battle for centrality is now legal tech’s greatest strategic challenge – and Astra for Law just raised the stakes for everyone. That is to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/18/astra-for-laws-26-legal-tech-plugins",
-        "title": "Astra for Law’s 26 Legal Tech Plugins + 1 Million More :)",
-        "url": "https://www.artificiallawyer.com/2026/09/18/astra-for-laws-26-legal-tech-plugins/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-18T07:23:42.000Z",
-        "summary": "Alongside the launch of Astra for Law, OpenAI has also announced that there are already 26 ‘partner-built plugins’ (see full list below), that help lawyers ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law",
-        "title": "OpenAI Launches Astra For Law",
-        "url": "https://www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-18T06:43:50.000Z",
-        "summary": "After plenty of waiting, OpenAI has launched Astra for Law, a ‘new offering powered by GPT-6 Astra with tools, settings, and context to support the ...",
         "category": "updates",
         "region": "na"
       },
@@ -1206,35 +1186,35 @@
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/color-health",
+        "title": "Using GPT-4o reasoning to transform cancer care",
+        "url": "https://openai.com/index/color-health",
+        "source": "OpenAI News",
+        "publishedAt": "2024-06-17T04:15:00.000Z",
+        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ekvtt3hgufw4wcvp7zb5",
-        "title": "阿里 Open Code Review 登顶 GitHub Trending 周榜第一，作者李峥峰将在 QCon 上海站揭秘百万任务验证的 Agent 工程实践",
-        "url": "https://www.infoq.cn/article/ekVtt3hgufw4wCvP7Zb5?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/2ffh5ehf2smusayqhjlx",
+        "title": "AI 改变跨平台开发取舍，Shopify 弃用 React Native，改用 Swift 和 Kotlin",
+        "url": "https://www.infoq.cn/article/2FFH5EHF2SMusaYQhjlX?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-23T10:05:17.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/lrsujsdeahmzttycosyt",
-        "title": "飞猪 AI Native 交付大脑：用超级流程重构需求交付｜QCon上海",
-        "url": "https://www.infoq.cn/article/lRSUjSdeaHMzTTycosyT?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-23T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/izptfj6mjkyfd03qfhk9",
-        "title": "Cloudflare 测试通过缓存转码来减少存储需求",
-        "url": "https://www.infoq.cn/article/izptFj6mjkyfd03qFHk9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-23T09:26:00.000Z",
+        "publishedAt": "2026-09-23T17:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1278,39 +1258,9 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/fje6qrkx70uqqcedmrtk",
-        "title": "MiniMax H3 开源后，本地 AIGC 走到了哪里？",
-        "url": "https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-21T21:31:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/te2qjg2j6ausgc6vaeny",
-        "title": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
-        "url": "https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-21T18:18:29.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3368401/chinas-ai-self-reliance-presents-opportunities-valuations-geopolitics-are-risks-bofa",
-        "title": "China’s AI self-reliance presents opportunities but valuations, geopolitics are risks: BofA",
-        "url": "https://www.scmp.com/business/china-business/article/3368401/chinas-ai-self-reliance-presents-opportunities-valuations-geopolitics-are-risks-bofa?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-23T00:00:21.000Z",
-        "summary": "China’s push for tech self-reliance is opening new investment opportunities in artificial intelligence stocks, but stretched valuations and geopolitical tensions make the sector an increasingly risky bet, according to Ba",
-        "category": "articles",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai",
         "title": "China’s Hygon moves beyond data centres with embedded processors for robotics, edge AI",
