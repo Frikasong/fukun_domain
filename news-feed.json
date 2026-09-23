@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T15:50:18.056Z",
+  "generatedAt": "2026-09-23T20:53:43.704Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/reinventing&",
+        "title": "Highlights from the ILTACON 2026 &#8216;Reinventing Professionals&#8217; podcast mixtape",
+        "url": "https://www.abajournal.com/columns/article/reinventing&#45;professionals&#45;podcast&#45;mixtape&#45;iltacon&#45;2026&#45;edition/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-23T19:57:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/legal&",
+        "title": "Education Department decision on ABA Legal Ed council status as accreditor tabled",
+        "url": "https://www.abajournal.com/web/article/legal&#45;ed&#45;council&#45;to&#45;sit&#45;before&#45;education&#45;department&#45;committee/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-23T19:49:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/18&",
+        "title": "18-year-old law school grad enrolls at Northwestern Law",
+        "url": "https://www.abajournal.com/news/article/18&#45;year&#45;old&#45;enrolls&#45;at&#45;northwestern&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-23T17:21:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/fifth&",
+        "title": "5th Circuit tells lawyers to verify citations—and cites wrong rule in doing so",
+        "url": "https://www.abajournal.com/news/article/fifth&#45;circuit&#45;warns&#45;lawyers&#45;to&#45;verify&#45;their&#45;citations&#45;and&#45;cites&#45;the&#45;wrong&#45;rule/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-23T16:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/09/at-its-user-conference-in-las-vegas-8am-announces-mcp-integration-and-new-ai-tools-for-mycase-plus-new-law-firm-funding-program-through-lawpay.html",
+        "title": "At Its User Conference in Las Vegas, 8am Announces MCP Integration and New AI Tools for MyCase, Plus New Law Firm Funding Program through LawPay",
+        "url": "https://www.lawnext.com/2026/09/at-its-user-conference-in-las-vegas-8am-announces-mcp-integration-and-new-ai-tools-for-mycase-plus-new-law-firm-funding-program-through-lawpay.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-23T16:06:27.000Z",
+        "summary": "At its second-annual Kaleidoscope customer conference in Las Vegas today, 8am announced new generative AI features, a new Claude MCP connector, and new financial products, including a law firm loan program with quick app",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/accidental&",
         "title": "Accidental email results in sharing Social Security numbers of Seyfarth Shaw clients, opposing parties",
@@ -68,6 +118,36 @@
         "region": "na"
       },
       {
+        "id": "OpenAI News:openai.com/index/harvey-from-context-to-confidence-with-astra",
+        "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+        "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-23T12:00:00.000Z",
+        "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/invideo-builds-with-gpt-6-astra",
+        "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+        "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-23T12:00:00.000Z",
+        "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/ringg",
+        "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+        "url": "https://openai.com/index/ringg",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-23T12:00:00.000Z",
+        "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/23/noxtua-raises-e100m-c-h-beck-now-majority-shareholder",
         "title": "Noxtua Raises €100m, C.H. Beck Now Majority Shareholder",
         "url": "https://www.artificiallawyer.com/2026/09/23/noxtua-raises-e100m-c-h-beck-now-majority-shareholder/",
@@ -118,26 +198,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/making&",
-        "title": "Making a Federal Case of It: Law profs who lodged attorney complaints have right to publish them, court says",
-        "url": "https://www.abajournal.com/web/article/making&#45;a&#45;federal&#45;case&#45;of&#45;it/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-22T18:07:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
-        "title": "Judge dismisses suit claiming James Cameron misappropriated likeness of actress for &#8216;Avatar&#8217;",
-        "url": "https://www.abajournal.com/news/article/judge&#45;dismisses&#45;lawsuit&#45;claiming&#45;james&#45;cameron&#45;misappropriated&#45;actress&#45;likeness&#45;for&#45;avatar/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-22T17:35:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/09/harvey-launches-pro-bono-program-collaborating-with-pro-bono-leaders-at-major-firms.html",
         "title": "Harvey Launches Pro Bono Program, Collaborating with Pro Bono Leaders At Major Firms",
         "url": "https://www.lawnext.com/2026/09/harvey-launches-pro-bono-program-collaborating-with-pro-bono-leaders-at-major-firms.html",
@@ -148,32 +208,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/lindsay&",
-        "title": "Lindsay Clancy’s lawyers seek juror’s phone records, file motion to dismiss",
-        "url": "https://www.abajournal.com/news/article/lindsay&#45;clancys&#45;lawyers&#45;seek&#45;jurors&#45;phone&#45;records&#45;file&#45;a&#45;motion&#45;to&#45;dismiss/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-22T17:04:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/22/harvey-launches-pro-bono-program",
         "title": "Harvey Launches Pro Bono Program",
         "url": "https://www.artificiallawyer.com/2026/09/22/harvey-launches-pro-bono-program/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-22T15:18:06.000Z",
         "summary": "Harvey has launched a pro bono program in the UK, Australia, and the US, which seeks to address the reality that today many millions of ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/england&",
-        "title": "England, Wales take new measures to tackle backlog in sexual offense cases",
-        "url": "https://www.abajournal.com/news/article/england&#45;wales&#45;take&#45;new&#45;measures&#45;to&#45;tackle&#45;backlog&#45;in&#45;sexual&#45;offense&#45;cases/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-22T15:10:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1166,85 +1206,15 @@
         "summary": "Law practice management company Smokeball has now partnered with 28 state bar associations to offer its trust accounting and billing software free to their members — a milestone that extends the offer to more than 900,00",
         "category": "updates",
         "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/06/on-lawnext-new-casepoint-ceo-paul-colangelo-on-ai-govtech-and-the-road-ahead.html",
-        "title": "On LawNext: New Casepoint CEO Paul Colangelo on AI, GovTech and the Road Ahead",
-        "url": "https://www.lawnext.com/2026/06/on-lawnext-new-casepoint-ceo-paul-colangelo-on-ai-govtech-and-the-road-ahead.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-10T12:20:39.000Z",
-        "summary": "When Thoma Bravo took a majority stake in Casepoint in January 2025 and merged it with the government-software company OPEXUS, it set the e-discovery pioneer on a broader course — deeper into the government market and sq",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/gpt-5-cursor",
-        "title": "How Cursor uses GPT-5",
-        "url": "https://openai.com/index/gpt-5-cursor",
-        "source": "OpenAI News",
-        "publishedAt": "2025-08-07T00:00:00.000Z",
-        "summary": "Learn how Cursor uses GPT-5.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ythwxaq6vhzum23rnyhk",
-        "title": "从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限",
-        "url": "https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-23T22:51:41.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/jg9kssrvpkfp20qif8ov",
         "title": "Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%",
         "url": "https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-23T22:41:27.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/3rxojunpmjanfv8iwqi8",
-        "title": "人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷",
-        "url": "https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-23T22:09:09.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ug1um83jfgz2bvxwryc9",
-        "title": "4096 张卡如何成为“一台计算机”？读懂华为的超节点布局",
-        "url": "https://www.infoq.cn/article/uG1Um83JFgz2BVxWRYC9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-23T21:57:13.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
