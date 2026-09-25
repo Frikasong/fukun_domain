@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T02:42:14.423Z",
+  "generatedAt": "2026-09-25T10:53:00.064Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/25/artificial-lawyer-on-tour-imanage-altaclaro",
+        "title": "Artificial Lawyer on Tour, iManage, AltaClaro +",
+        "url": "https://www.artificiallawyer.com/2026/09/25/artificial-lawyer-on-tour-imanage-altaclaro/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-25T07:26:57.000Z",
+        "summary": "It’s conference season and Artificial Lawyer is on tour! AL’s founder will be lugging his legal AI guitar from London to Paris to Boston and ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/salt&",
         "title": "Salt-N-Pepa ask appeals court to reinstate copyright ownership case",
@@ -225,16 +235,6 @@
         "publishedAt": "2026-09-22T14:15:04.000Z",
         "summary": "Chamelio, an AI-native platform for inhouse legal teams, has announced a $26 million Series A raise led by Entrée Capital, with participation from existing investors ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/22/webinar-why-litigators-should-train-with-simulators",
-        "title": "Webinar: Why Litigators Should Train With Simulators",
-        "url": "https://www.artificiallawyer.com/2026/09/22/webinar-why-litigators-should-train-with-simulators/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-22T10:46:30.000Z",
-        "summary": "Can lawyers learn from how other professionals train, such as pilots? Can simulators become a key part of training for lawyers, especially for litigators? You ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,21 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/oucl9autu0dg1bit6bib",
-        "title": "每周下载量约 16 万，仍处 Alpha 的 TanStack Charts 为什么火了？",
-        "url": "https://www.infoq.cn/article/OUcL9autU0dg1BIt6bib?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/kj4ekjplvth9it5yyxkm",
+        "title": "htmx 4.0 发布：改用 Fetch API 重写，内置 DOM Morphing Swap，并明确属性继承规则",
+        "url": "https://www.infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-25T10:10:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qqk3wiolu1vsch3u0p7t",
-        "title": "当 Vibe Coding 撞上企业级现实：真实工程中的 AI 效能之路｜QCon上海",
-        "url": "https://www.infoq.cn/article/QQk3wiolU1VScH3u0P7T?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-25T10:00:00.000Z",
+        "publishedAt": "2026-09-25T14:18:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1300,17 +1290,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai",
-        "title": "China’s Hygon moves beyond data centres with embedded processors for robotics, edge AI",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-22T14:30:09.000Z",
-        "summary": "Chinese chipmaker Hygon Information Technology on Tuesday launched a suite of central processing units (CPUs) for robotics and industrial edge devices, expanding beyond cloud computing and into the fast-growing market fo",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
