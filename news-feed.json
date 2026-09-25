@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T10:53:00.064Z",
+  "generatedAt": "2026-09-25T16:12:46.956Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "OpenAI News:openai.com/index/proaction",
+        "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "url": "https://openai.com/index/proaction",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-25T19:00:00.000Z",
+        "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/law&",
+        "title": "Law school grades are related to bar passage, new study finds",
+        "url": "https://www.abajournal.com/news/article/law&#45;school&#45;grades&#45;are&#45;related&#45;to&#45;bar&#45;passage&#45;accesslex&#45;study&#45;finds/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-25T15:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/justice&",
+        "title": "Justice Jackson criticizes frequent use of SCOTUS emergency docket orders",
+        "url": "https://www.abajournal.com/news/article/justice&#45;jackson&#45;criticizes&#45;frequent&#45;use&#45;of&#45;emergency&#45;orders/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-25T15:03:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
+        "title": "Judge will receive public reprimand for suggesting lawyers be shot",
+        "url": "https://www.abajournal.com/news/article/florida&#45;judge&#45;to&#45;receive&#45;public&#45;reprimand&#45;for&#45;suggesting&#45;lawyers&#45;be&#45;shot/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-25T14:51:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/25/artificial-lawyer-on-tour-imanage-altaclaro",
         "title": "Artificial Lawyer on Tour, iManage, AltaClaro +",
@@ -48,16 +88,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
-        "title": "Plastic surgeon found guilty of murdering &#8216;beloved&#8217; lawyer",
-        "url": "https://www.abajournal.com/news/article/florida&#45;plastic&#45;surgeon&#45;found&#45;guilty&#45;of&#45;murdering&#45;beloved&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-24T15:55:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "ABA Journal:www.abajournal.com/news/article/scammer&",
         "title": "Scammer who tortured cats hit with state&#8217;s harshest animal abuse penalty",
         "url": "https://www.abajournal.com/news/article/scammer&#45;who&#45;tortured&#45;cats&#45;hit&#45;with&#45;virginias&#45;harshest&#45;animal&#45;abuse&#45;penalty/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -83,16 +113,6 @@
         "url": "https://www.abajournal.com/news/article/lawyers&#45;for&#45;arkansas&#45;ask&#45;that&#45;10&#45;commandments&#45;law&#45;be&#45;reinstated/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-09-24T14:31:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/legal&",
-        "title": "Education Department committee declines to make recommendation on ABA Legal Ed council status as accreditor",
-        "url": "https://www.abajournal.com/web/article/legal&#45;ed&#45;council&#45;to&#45;sit&#45;before&#45;education&#45;department&#45;committee/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-24T14:08:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -124,26 +144,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-24T06:40:21.000Z",
         "summary": "By Katja Nikolaus, Co-Founder, JUNE. Few technologies have been adopted by legal departments as quickly as generative artificial intelligence. In an international survey by ACC ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/reinventing&",
-        "title": "Highlights from the ILTACON 2026 &#8216;Reinventing Professionals&#8217; podcast mixtape",
-        "url": "https://www.abajournal.com/columns/article/reinventing&#45;professionals&#45;podcast&#45;mixtape&#45;iltacon&#45;2026&#45;edition/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-23T19:57:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/18&",
-        "title": "18-year-old law school grad enrolls at Northwestern Law",
-        "url": "https://www.abajournal.com/news/article/18&#45;year&#45;old&#45;enrolls&#45;at&#45;northwestern&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-23T17:21:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1290,6 +1290,17 @@
         "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "The Guardian China:www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
+        "title": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
+        "url": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
+        "source": "The Guardian China",
+        "publishedAt": "2026-09-25T15:12:38.000Z",
+        "summary": "As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI race When the Australian prime minister, Anthony Albanese, sat down for an interview in the heart of Sil",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
