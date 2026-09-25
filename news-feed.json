@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T16:12:46.956Z",
+  "generatedAt": "2026-09-25T20:54:35.502Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -14,6 +14,16 @@
         "source": "OpenAI News",
         "publishedAt": "2026-09-25T19:00:00.000Z",
         "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/appellate&",
+        "title": "Appellate court hears arguments in case involving collegiate athletes accused of gambling",
+        "url": "https://www.abajournal.com/news/article/appellate&#45;court&#45;hears&#45;arguments&#45;in&#45;case&#45;involving&#45;iowa&#45;collegiate&#45;athletes&#45;accused&#45;of&#45;gambling/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-25T16:13:00.000Z",
+        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -103,16 +113,6 @@
         "url": "https://www.abajournal.com/news/article/zero&#45;sugar&#45;products&#45;targeted&#45;in&#45;lawsuits&#45;alleging&#45;deception/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-09-24T15:04:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/lawyers&",
-        "title": "Lawyers ask Ten Commandments law be reinstated in public school classrooms in this state",
-        "url": "https://www.abajournal.com/news/article/lawyers&#45;for&#45;arkansas&#45;ask&#45;that&#45;10&#45;commandments&#45;law&#45;be&#45;reinstated/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-24T14:31:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
