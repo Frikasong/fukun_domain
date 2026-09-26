@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:33:23.500Z",
+  "generatedAt": "2026-09-26T15:26:25.120Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,16 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/jjixcalhuvpgswtoz1uq",
-        "title": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview",
-        "url": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-26T17:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/gk4rwsqg09pwtftzlje3",
         "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
