@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T02:44:47.718Z",
+  "generatedAt": "2026-09-26T10:33:23.500Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,16 +7,6 @@
   },
   "panels": {
     "na": [
-      {
-        "id": "OpenAI News:openai.com/index/proaction",
-        "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-        "url": "https://openai.com/index/proaction",
-        "source": "OpenAI News",
-        "publishedAt": "2026-09-25T19:00:00.000Z",
-        "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-        "category": "updates",
-        "region": "na"
-      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/appellate&",
         "title": "Appellate court hears arguments in case involving collegiate athletes accused of gambling",
@@ -1206,15 +1196,25 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/c1vuzh9fumul9i5wmdzf",
-        "title": "AI 时代，技术人靠什么赢？｜QCon上海",
-        "url": "https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/jjixcalhuvpgswtoz1uq",
+        "title": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview",
+        "url": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-26T10:00:00.000Z",
+        "publishedAt": "2026-09-26T17:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1295,16 +1295,6 @@
         "url": "https://www.infoq.cn/article/TFaXKQvEWOOPfEuqmLkY?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-24T13:42:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/jg9kssrvpkfp20qif8ov",
-        "title": "Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%",
-        "url": "https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-23T22:41:27.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
