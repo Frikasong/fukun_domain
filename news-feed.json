@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T02:45:24.344Z",
+  "generatedAt": "2026-09-27T11:05:33.841Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,26 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/sqv4eomjpp0j3hm3lyf9",
-        "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
-        "url": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-27T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/uc6jk6tu7fwe5bdo8oqw",
-        "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
-        "url": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-27T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/gk4rwsqg09pwtftzlje3",
         "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
