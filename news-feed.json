@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T02:46:57.882Z",
+  "generatedAt": "2026-09-28T12:27:55.520Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/28/disney-seeks-legal-ai-chief-amid-inhouse-shakeup",
+        "title": "Disney Seeks Legal AI Chief Amid Inhouse Shakeup",
+        "url": "https://www.artificiallawyer.com/2026/09/28/disney-seeks-legal-ai-chief-amid-inhouse-shakeup/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-28T08:09:15.000Z",
+        "summary": "Entertainment giant Disney is having a legal AI moment. Last week, Deadline reported that the company’s 1,000-strong Legal and Global Affairs group would face significant ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/28/ai-is-forcing-law-firms-to-get-serious-about-matter-economics",
+        "title": "AI Is Forcing Law Firms To Get Serious About Matter Economics",
+        "url": "https://www.artificiallawyer.com/2026/09/28/ai-is-forcing-law-firms-to-get-serious-about-matter-economics/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-28T06:46:44.000Z",
+        "summary": "By Stefan Ciesla, BigHand. AI is changing the economics of legal work. That much is clear. What is less clear is how law firms should ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/appellate&",
         "title": "Appellate court hears arguments in case involving collegiate athletes accused of gambling",
@@ -178,16 +198,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/23/invitation-to-legal-innovators-breakfast-in-paris-oct-6",
-        "title": "Invitation to Legal Innovators Breakfast in Paris – Oct 6",
-        "url": "https://www.artificiallawyer.com/2026/09/23/invitation-to-legal-innovators-breakfast-in-paris-oct-6/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-23T07:12:29.000Z",
-        "summary": "After the success of our inaugural Legal Innovators Europe conference in Paris, Cosmonauts and Artificial Lawyer invite you to join us for a special breakfast ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/09/ken-crutchfield-lessons-from-steel-why-llms-will-become-commodities.html",
         "title": "Ken Crutchfield: Lessons From Steel &#8212; Why LLMs Will Become Commodities",
         "url": "https://www.lawnext.com/2026/09/ken-crutchfield-lessons-from-steel-why-llms-will-become-commodities.html",
@@ -205,26 +215,6 @@
         "publishedAt": "2026-09-22T17:05:22.000Z",
         "summary": "Legal AI company Harvey said today that it is launching a dedicated pro bono program in the United States, the United Kingdom and Australia. In the first phase of the program, the company will work with a selected group ",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/22/harvey-launches-pro-bono-program",
-        "title": "Harvey Launches Pro Bono Program",
-        "url": "https://www.artificiallawyer.com/2026/09/22/harvey-launches-pro-bono-program/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-22T15:18:06.000Z",
-        "summary": "Harvey has launched a pro bono program in the UK, Australia, and the US, which seeks to address the reality that today many millions of ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/22/chamelio-raises-26m-series-a",
-        "title": "Chamelio Raises $26m Series A",
-        "url": "https://www.artificiallawyer.com/2026/09/22/chamelio-raises-26m-series-a/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-22T14:15:04.000Z",
-        "summary": "Chamelio, an AI-native platform for inhouse legal teams, has announced a $26 million Series A raise led by Entrée Capital, with participation from existing investors ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1206,15 +1196,55 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/9uvorlmxkgjeofauq4py",
-        "title": "生成式到代理式跃迁：构建保险后援数字分身｜QCon上海",
-        "url": "https://www.infoq.cn/article/9UvorlMxKgjEoFauQ4py?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/7zcxyr8abkdqqo682cjm",
+        "title": "AKS通过新的NAP指南使节点中断更加可预测",
+        "url": "https://www.infoq.cn/article/7zcxyr8aBkDqQO682CJm?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-28T10:00:00.000Z",
+        "publishedAt": "2026-09-28T20:17:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wg5uvlds5e3k2imtcuyj",
+        "title": "Spring新闻汇总：Boot、Framework、Data、Security、Modulith、Batch的首个里程碑发布",
+        "url": "https://www.infoq.cn/article/WG5UVlDS5e3K2iMTcUYj?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-28T19:19:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zl0e1suod95yjfbonz2a",
+        "title": "Swift 6.4 正式发布：内置 Subprocess 1.0、增强跨语言互操作、Wasm 性能大幅提升及更多更新",
+        "url": "https://www.infoq.cn/article/zl0e1sUoD95YJfboNz2a?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-28T18:24:51.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/5xfeqshw0hwfud95jpwe",
+        "title": "Imagination 发布 E 系列 GPU IP 新进展：一套架构支持图形、计算与AI",
+        "url": "https://www.infoq.cn/article/5Xfeqshw0hwfUD95JpWE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-28T18:23:47.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1275,26 +1305,6 @@
         "url": "https://www.infoq.cn/article/b5oxzJyafr0lkZexoo8E?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-24T16:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vsispfio2hrjbi30wdfe",
-        "title": "GPT-6猛砍价，Opus 5.5忙“变好用”：模型价格战，已经不能只看API定价",
-        "url": "https://www.infoq.cn/article/VSIsPFiO2hrjBi30wDfE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-24T13:44:32.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/tfaxkqvewoopfeuqmlky",
-        "title": "GPT-5.6-Cyber 代理多次突破虚拟机限制，证明虚拟机和操作系统需要更好的维护",
-        "url": "https://www.infoq.cn/article/TFaXKQvEWOOPfEuqmLkY?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-24T13:42:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
