@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T20:38:31.682Z",
+  "generatedAt": "2026-09-28T02:46:57.882Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,16 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/9uvorlmxkgjeofauq4py",
+        "title": "生成式到代理式跃迁：构建保险后援数字分身｜QCon上海",
+        "url": "https://www.infoq.cn/article/9UvorlMxKgjEoFauQ4py?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-28T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/gk4rwsqg09pwtftzlje3",
         "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
