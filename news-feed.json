@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T03:28:22.311Z",
+  "generatedAt": "2026-09-29T11:51:49.825Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/29/ex-freshfields-lawyers-launch-new-model-firm",
+        "title": "Ex-Freshfields Lawyers Launch New Model Firm",
+        "url": "https://www.artificiallawyer.com/2026/09/29/ex-freshfields-lawyers-launch-new-model-firm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-29T08:09:42.000Z",
+        "summary": "We’ve seen new model law firms proliferate in the US and UK, and now here’s one in the Netherlands: Driven Lawyers, created by Jelle Drok ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/29/with-august-a-companys-agents-ask-lawyers-for-help",
+        "title": "With August, A Company&#8217;s Agents Ask Lawyers For Help",
+        "url": "https://www.artificiallawyer.com/2026/09/29/with-august-a-companys-agents-ask-lawyers-for-help/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-29T07:07:58.000Z",
+        "summary": "Legal AI platform, August, is launching a new feature that allows AI agents working inside a company to request help from lawyers &#8211; which could ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/dabblers&",
         "title": "Dabblers and Distrusters: What should divorce lawyers know about hunting down crypto assets?",
@@ -188,32 +208,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/24/the-human-clipboard-closing-the-operational-gap-in-legal-ai",
-        "title": "The Human Clipboard: Closing the Operational Gap in Legal AI",
-        "url": "https://www.artificiallawyer.com/2026/09/24/the-human-clipboard-closing-the-operational-gap-in-legal-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-24T06:40:21.000Z",
-        "summary": "By Katja Nikolaus, Co-Founder, JUNE. Few technologies have been adopted by legal departments as quickly as generative artificial intelligence. In an international survey by ACC ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/09/at-its-user-conference-in-las-vegas-8am-announces-mcp-integration-and-new-ai-tools-for-mycase-plus-new-law-firm-funding-program-through-lawpay.html",
         "title": "At Its User Conference in Las Vegas, 8am Announces MCP Integration and New AI Tools for MyCase, Plus New Law Firm Funding Program through LawPay",
         "url": "https://www.lawnext.com/2026/09/at-its-user-conference-in-las-vegas-8am-announces-mcp-integration-and-new-ai-tools-for-mycase-plus-new-law-firm-funding-program-through-lawpay.html",
         "source": "LawSites",
         "publishedAt": "2026-09-23T16:06:27.000Z",
         "summary": "At its second-annual Kaleidoscope customer conference in Las Vegas today, 8am announced new generative AI features, a new Claude MCP connector, and new financial products, including a law firm loan program with quick app",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/23/newmod-fearn-launches-for-patent-needs",
-        "title": "NewMod Fearn Launches for Patent Needs",
-        "url": "https://www.artificiallawyer.com/2026/09/23/newmod-fearn-launches-for-patent-needs/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-23T12:00:10.000Z",
-        "summary": "After raising $5.5m from Kindred Ventures and a16z Speedrun, among other investors this summer, NewMod Fearn has formally launched – joining an ever-growing group of ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,21 +1210,81 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/amyfvbwtlvyapfszqkx3",
-        "title": "自主数据工程：迈向真正智能体成熟度的五个阶段 ｜ 技术趋势",
-        "url": "https://www.infoq.cn/article/AmYfVbwTlVyApFszqKx3?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ywxyacetw4archqbsje0",
+        "title": "亚马逊云科技无法恢复仅存储在受损的中东可用区的数据",
+        "url": "https://www.infoq.cn/article/YWXyACETW4aRchQbSJE0?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-29T10:36:23.000Z",
+        "publishedAt": "2026-09-29T18:41:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/mdiczbgjphnmu6e0qbx1",
-        "title": "AI 驱动复杂业务漏洞挖掘：从业务规则建模到攻击路径验证｜QCon上海",
-        "url": "https://www.infoq.cn/article/mDiczbGJpHNMU6e0qBX1?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/he0zfgeystxf9koh70ap",
+        "title": "Agent 不只烧 Token：为什么 Agent Sandbox 正在变得重要？",
+        "url": "https://www.infoq.cn/article/he0zFgEyStxF9kOh70AP?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-29T10:00:00.000Z",
+        "publishedAt": "2026-09-29T18:36:43.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/psvhjyojtc9bslwyxpff",
+        "title": "Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？",
+        "url": "https://www.infoq.cn/article/PSvHjyoJTC9bSLWYxpfF?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-29T18:07:09.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ftfzzj6jgxha7grhhljf",
+        "title": "上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势",
+        "url": "https://www.infoq.cn/article/ftFzzJ6jgxha7grHHLjf?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-29T18:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/0x1uoewoj16s1vnmtsup",
+        "title": "Bun 在四个月内将 53.5 万行 Zig 代码重写为 Rust，消除了大量内存泄漏",
+        "url": "https://www.infoq.cn/article/0x1uOEWOj16S1vNmtsuP?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-29T17:37:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/video/hsajfo3dkr9xc0leev30",
+        "title": "金句抢先看 | 每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
+        "url": "https://www.infoq.cn/video/HsaJfo3DKR9XC0LeeV30?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-29T17:06:48.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/o5pkyu5hfr2dgrxp6zre",
+        "title": "大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？",
+        "url": "https://www.infoq.cn/article/O5pKYU5hfR2DgrXP6zRE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-29T15:49:30.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/srmksf6vofrt6lluudzb",
+        "title": "从新型存储介质PCM方案到PCIe 6.0 SSD，德明利率先推出面向AI基础设施的分层存储全栈方案",
+        "url": "https://www.infoq.cn/article/SrmkSf6vOfRt6lLuudZb?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-29T14:29:59.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1235,26 +1295,6 @@
         "url": "https://www.infoq.cn/article/XF5kZxV681STVDrzsstj?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-29T09:50:11.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/gk4rwsqg09pwtftzlje3",
-        "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
-        "url": "https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-26T09:20:21.000Z",
-        "summary": "点击查看原文>",
-        "category": "tools",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hrmb2p18ikewl24omvcv",
-        "title": "世界人工智能开源大赛（GOAI）总决赛暨颁奖盛典在杭州举行",
-        "url": "https://www.infoq.cn/article/hrmb2p18iKEwl24OMvcv?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-24T18:11:27.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
