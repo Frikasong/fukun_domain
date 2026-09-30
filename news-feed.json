@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:38:57.029Z",
+  "generatedAt": "2026-09-30T17:18:53.855Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,96 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
+        "title": "Florida AG asks judge to bar OpenAI from developing new AI models without regulation",
+        "url": "https://www.abajournal.com/news/article/florida&#45;ag&#45;asks&#45;judge&#45;to&#45;bar&#45;openai&#45;from&#45;developing&#45;new&#45;models&#45;without&#45;regulation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-30T16:51:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/after&",
+        "title": "After multiple lawsuits alleging brain injuries, Six Flags retires popular roller coaster",
+        "url": "https://www.abajournal.com/news/article/after&#45;multiple&#45;lawsuits&#45;alleging&#45;brain&#45;injury&#45;six&#45;flags&#45;retires&#45;popular&#45;roller&#45;coaster/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-30T16:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/chemerinsky&",
+        "title": "Chemerinsky: Guns, religion, environment among potential blockbusters for Supreme Court’s new term",
+        "url": "https://www.abajournal.com/columns/article/chemerinsky&#45;guns&#45;religion&#45;environment&#45;among&#45;potential&#45;blockbusters&#45;for&#45;supreme&#45;courts&#45;new&#45;term/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-30T15:38:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/scammers&",
+        "title": "Scammers impersonate criminal defense lawyer in scheme to defraud families of jailed people",
+        "url": "https://www.abajournal.com/news/article/scammers&#45;call&#45;families&#45;of&#45;jailed&#45;loved&#45;ones&#45;impersonating&#45;washington&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-30T15:27:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/newohiolawtargetslitigationfunding",
+        "title": "New law in this state targets foreign litigation funding",
+        "url": "https://www.abajournal.com/news/article/newohiolawtargetslitigationfunding/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-30T14:57:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/legal&",
+        "title": "Legal teams increasingly use AI but worry about its cost, new report shows",
+        "url": "https://www.abajournal.com/news/article/legal&#45;teams&#45;increasingly&#45;use&#45;ai&#45;but&#45;worry&#45;about&#45;its&#45;cost&#45;new&#45;report&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-30T14:43:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/entertainment&",
+        "title": "Entertainment partner’s book explores how Black artists’ intellectual property rights have been exploited",
+        "url": "https://www.abajournal.com/web/article/entertainment&#45;partners&#45;book&#45;explores&#45;how&#45;black&#45;artists&#45;intellectual&#45;property&#45;rights&#45;have&#45;been&#45;exploited/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-30T14:16:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/engineers&",
+        "title": "Engineers have sounded alarm on AI; lawyers can help build response",
+        "url": "https://www.abajournal.com/voice/article/engineers&#45;have&#45;sounded&#45;the&#45;alarm&#45;on&#45;ai&#45;lawyers&#45;can&#45;help&#45;build&#45;the&#45;response/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-30T14:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/30/clio-buys-learned-hand-as-judiciary-strategy-expands",
+        "title": "Clio Buys Learned Hand as Judiciary Strategy Expands",
+        "url": "https://www.artificiallawyer.com/2026/09/30/clio-buys-learned-hand-as-judiciary-strategy-expands/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-30T13:53:21.000Z",
+        "summary": "Clio has bought Learned Hand, an AI company focused on supporting judges and the courts. The move is part of its wider strategy to build ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/30/zero-associates-firm-pierson-ferdinand-hits-300-partners",
         "title": "‘Zero Associates&#8217; Firm Pierson Ferdinand Hits 300 Partners",
@@ -68,72 +158,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/could&",
-        "title": "Could the use of AI upend privacy and security expectations in court?",
-        "url": "https://www.abajournal.com/web/article/could&#45;the&#45;use&#45;of&#45;ai&#45;upend&#45;privacy&#45;and&#45;security&#45;expectations&#45;in&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-29T16:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/competition&",
-        "title": "Competition for law school admissions expected to remain hot",
-        "url": "https://www.abajournal.com/news/article/competition&#45;for&#45;law&#45;school&#45;admissions&#45;expected&#45;to&#45;remain&#45;hot/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-29T15:59:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/iowa&",
-        "title": "Attorney sentenced in Medicaid fraud scheme involving Rolls-Royce collection",
-        "url": "https://www.abajournal.com/news/article/iowa&#45;attorney&#45;sentenced&#45;in&#45;medicaid&#45;fraud&#45;scheme&#45;involving&#45;his&#45;rolls&#45;royce&#45;collection/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-29T15:01:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/california&",
-        "title": "California toughens penalties for lawyers who pay people to recruit clients",
-        "url": "https://www.abajournal.com/news/article/california&#45;toughens&#45;penalties&#45;for&#45;lawyers&#45;who&#45;pay&#45;people&#45;to&#45;recruit&#45;their&#45;clients/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-29T14:42:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/alito&",
-        "title": "Justice Alito makes last-minute decision to sit out climate change case",
-        "url": "https://www.abajournal.com/news/article/alito&#45;makes&#45;last&#45;minute&#45;decision&#45;to&#45;sit&#45;out&#45;climate&#45;change&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-29T14:29:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/29/legalzoom-co-founder-brian-lee-joins-steno-board",
         "title": "LegalZoom Co-Founder Brian Lee Joins Steno Board",
         "url": "https://www.artificiallawyer.com/2026/09/29/legalzoom-co-founder-brian-lee-joins-steno-board/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-29T14:17:23.000Z",
         "summary": "AL doesn’t often do board roles, but this is a biggy, so&#8230;..Steno, the court reporting and AI-driven litigation support pioneer, has appointed Brian Lee to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/garner&",
-        "title": "What are some good prompts when using AI for legal writing? Bryan Garner has some thoughts",
-        "url": "https://www.abajournal.com/columns/article/garner&#45;92826&#45;column/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-29T14:08:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -178,26 +208,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/dabblers&",
-        "title": "Dabblers and Distrusters: What should divorce lawyers know about hunting down crypto assets?",
-        "url": "https://www.abajournal.com/web/article/dabblers&#45;and&#45;distrusters/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-28T18:33:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/pass&",
-        "title": "Pass rate for inaugural NextGen UBE administration hits 72.7%, NCBE says",
-        "url": "https://www.abajournal.com/web/article/pass&#45;rates&#45;for&#45;inaugural&#45;nextgen&#45;ube&#45;administration&#45;hits&#45;72.7&#45;ncbe&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-28T18:20:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/09/in-a-marriage-of-two-alsps-repario-acquires-unitedlex-to-strengthen-its-ai-offerings.html",
         "title": "In A Marriage of Two ALSPs, Repario Acquires UnitedLex to Strengthen Its AI Offerings",
         "url": "https://www.lawnext.com/2026/09/in-a-marriage-of-two-alsps-repario-acquires-unitedlex-to-strengthen-its-ai-offerings.html",
@@ -234,16 +244,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-28T08:09:15.000Z",
         "summary": "Entertainment giant Disney is having a legal AI moment. Last week, Deadline reported that the company’s 1,000-strong Legal and Global Affairs group would face significant ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/28/ai-is-forcing-law-firms-to-get-serious-about-matter-economics",
-        "title": "AI Is Forcing Law Firms To Get Serious About Matter Economics",
-        "url": "https://www.artificiallawyer.com/2026/09/28/ai-is-forcing-law-firms-to-get-serious-about-matter-economics/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-28T06:46:44.000Z",
-        "summary": "By Stefan Ciesla, BigHand. AI is changing the economics of legal work. That much is clear. What is less clear is how law firms should ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/m6brtrsyjvug8y0m0kyh",
+        "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
+        "url": "https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-30T20:40:07.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/t5i2yv2z0lwibk36lter",
+        "title": "DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库",
+        "url": "https://www.infoq.cn/article/t5i2Yv2z0LwIbK36lteR?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-30T19:40:16.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/bduvbdbgwxj6dmbnekcc",
         "title": "机房堆满算力卡，业务却还在排队？这份评估报告拆开了“算力荒假象”的破局账本",
         "url": "https://www.infoq.cn/article/bduvBdbgwxj6DMbNeKCC?utm_source=rss&utm_medium=article",
@@ -1248,49 +1268,9 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/o5pkyu5hfr2dgrxp6zre",
-        "title": "大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？",
-        "url": "https://www.infoq.cn/article/O5pKYU5hfR2DgrXP6zRE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-29T15:49:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/srmksf6vofrt6lluudzb",
-        "title": "从新型存储介质PCM方案到PCIe 6.0 SSD，德明利率先推出面向AI基础设施的分层存储全栈方案",
-        "url": "https://www.infoq.cn/article/SrmkSf6vOfRt6lLuudZb?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-29T14:29:59.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead",
-        "title": "Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead",
-        "url": "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-30T08:00:27.000Z",
-        "summary": "Funds raised through Hong Kong initial public offerings (IPOs) doubled in the first nine months of 2026, reaching the highest level for the period since records began in 1980. A total of 112 companies raised US$48.4 bill",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3369292/mainland-chinese-hong-kong-stocks-face-bumpy-fourth-quarter-risks-mount-analysts",
-        "title": "Mainland Chinese, Hong Kong stocks face bumpy fourth quarter as risks mount: analysts",
-        "url": "https://www.scmp.com/business/china-business/article/3369292/mainland-chinese-hong-kong-stocks-face-bumpy-fourth-quarter-risks-mount-analysts?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-30T06:00:06.000Z",
-        "summary": "Mainland Chinese and Hong Kong stocks may face a challenging fourth quarter as investors contend with underwhelming stimulus measures from Beijing, tighter financial conditions in the US and a shift in the narrative arou",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/business/companies/article/3369229/hong-kongs-executives-are-ill-prepared-ai-era-report-finds",
         "title": "Hong Kong’s executives are ‘ill prepared’ for AI era, report finds",
