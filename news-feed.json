@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T17:18:53.855Z",
+  "generatedAt": "2026-09-30T21:42:05.356Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/09/3rd-circuit-rules-for-thomson-reuters-in-its-copyright-fight-against-legal-research-startup-ross.html",
+        "title": "3rd Circuit Rules For Thomson Reuters In Its Copyright Fight Against Legal Research Startup ROSS",
+        "url": "https://www.lawnext.com/2026/09/3rd-circuit-rules-for-thomson-reuters-in-its-copyright-fight-against-legal-research-startup-ross.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-30T19:29:33.000Z",
+        "summary": "Yesterday I noted that th 3rd U.S. Circuit Court of Appeals had issued an opinion in the long-running copyright battle between Thomson Reuters and the now-shuttered AI legal research company ROSS Intelligence, but that t",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/the&",
+        "title": "The Burton Book Review: An interview with Christopher Kutz, author of &#8216;Publics in Action&#8217;",
+        "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;an&#45;interview&#45;with&#45;christopher&#45;kutz&#45;author&#45;of&#45;publics&#45;in&#45;action/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-09-30T19:00:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/09/clio-acquires-learned-hand-giving-its-new-judiciary-business-an-existing-product.html",
+        "title": "Clio Acquires Learned Hand, Giving Its New Judiciary Business An Existing Product",
+        "url": "https://www.lawnext.com/2026/09/clio-acquires-learned-hand-giving-its-new-judiciary-business-an-existing-product.html",
+        "source": "LawSites",
+        "publishedAt": "2026-09-30T18:58:01.000Z",
+        "summary": "Clio today announced that it has acquired Learned Hand, a startup that builds AI exclusively for judges and courts, giving the legal tech company&#8217;s newly launched judiciary business an existing product already in u",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/florida&",
         "title": "Florida AG asks judge to bar OpenAI from developing new AI models without regulation",
@@ -123,16 +153,6 @@
         "url": "https://www.abajournal.com/web/article/how&#45;can&#45;lawyers&#45;connect&#45;with&#45;clients&#45;in&#45;the&#45;ai&#45;age&#45;8ams&#45;kaleidoscope&#45;shares&#45;some&#45;ideas/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-09-29T18:09:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/a&",
-        "title": "Judge raising fists at defendant amounts to &#8216;inappropriate and undignified&#8217; behavior, state supreme court says",
-        "url": "https://www.abajournal.com/news/article/a&#45;judge&#45;raising&#45;her&#45;fists&#45;at&#45;defendant&#45;amounts&#45;to&#45;undignified&#45;behavior&#45;says&#45;oklahoma&#45;supreme&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-09-29T17:58:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1155,26 +1175,6 @@
         "publishedAt": "2026-06-16T16:54:23.000Z",
         "summary": "BlackBoiler, a company that has spent over a decade building automated redlining technology, this week launched Veris, a new platform that takes its original deterministic editing engine and supercharges it with generati",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/06/relativity-acquires-document-automation-company-gavel-extending-its-legal-data-platform-into-word.html",
-        "title": "Relativity Acquires Document Automation Company Gavel, Extending Its Legal Data Platform Into Word",
-        "url": "https://www.lawnext.com/2026/06/relativity-acquires-document-automation-company-gavel-extending-its-legal-data-platform-into-word.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-15T13:34:16.000Z",
-        "summary": "Relativity, the Chicago-based legal data intelligence company best known for the e-discovery and litigation platform RelativityOne, has acquired Gavel, the Los Angeles-based document automation and AI drafting company fo",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/06/this-week-saw-a-slew-of-new-legal-tech-ceos-but-why.html",
-        "title": "This Week Saw A Slew Of New Legal Tech CEOs. But Why?",
-        "url": "https://www.lawnext.com/2026/06/this-week-saw-a-slew-of-new-legal-tech-ceos-but-why.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-11T17:16:34.000Z",
-        "summary": "In all my years of covering legal tech, I cannot remember a week quite like this. And I say that for a very specific reason: This week brought an unusual concentration of leadership changes at legal tech companies. Four ",
-        "category": "updates",
         "region": "na"
       },
       {
