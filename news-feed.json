@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T03:12:22.912Z",
+  "generatedAt": "2026-09-30T11:38:57.029Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/30/zero-associates-firm-pierson-ferdinand-hits-300-partners",
+        "title": "‘Zero Associates&#8217; Firm Pierson Ferdinand Hits 300 Partners",
+        "url": "https://www.artificiallawyer.com/2026/09/30/zero-associates-firm-pierson-ferdinand-hits-300-partners/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-30T08:15:52.000Z",
+        "summary": "Pierson Ferdinand, a new model law firm that has no associates and instead relies of AI platforms such as Harvey to do the heavy lifting, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/30/the-ai-value-gap-why-your-investment-isnt-paying-off",
+        "title": "The AI Value Gap: Why Your Investment Isn&#8217;t Paying Off",
+        "url": "https://www.artificiallawyer.com/2026/09/30/the-ai-value-gap-why-your-investment-isnt-paying-off/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-09-30T07:00:36.000Z",
+        "summary": "By James Tuke, CEO, AI Futures Forum. It is late September 2026. Sixteen months ago, our first report established that AI adoption was becoming inevitable ...",
+        "category": "articles",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/how&",
         "title": "How can lawyers connect with clients in the AI age? 8am’s Kaleidoscope shares some ideas",
@@ -224,26 +244,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-28T06:46:44.000Z",
         "summary": "By Stefan Ciesla, BigHand. AI is changing the economics of legal work. That much is clear. What is less clear is how law firms should ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/25/artificial-lawyer-on-tour-imanage-altaclaro",
-        "title": "Artificial Lawyer on Tour, iManage, AltaClaro +",
-        "url": "https://www.artificiallawyer.com/2026/09/25/artificial-lawyer-on-tour-imanage-altaclaro/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-25T07:26:57.000Z",
-        "summary": "It’s conference season and Artificial Lawyer is on tour! AL’s founder will be lugging his legal AI guitar from London to Paris to Boston and ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/24/the-innovators-halfway-home-part-7",
-        "title": "The Innovators – ‘Halfway Home’ – Part 7",
-        "url": "https://www.artificiallawyer.com/2026/09/24/the-innovators-halfway-home-part-7/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-24T09:29:43.000Z",
-        "summary": "When Katie arrived home from Heathrow everyone was out, which was a relief as it was 10AM. She’d have been worried if her husband and ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,11 +1210,21 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/rgb6x5rsd1p8hqzrc0k7",
-        "title": "Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
-        "url": "https://www.infoq.cn/article/Rgb6X5RSD1P8HQzRc0K7?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/bduvbdbgwxj6dmbnekcc",
+        "title": "机房堆满算力卡，业务却还在排队？这份评估报告拆开了“算力荒假象”的破局账本",
+        "url": "https://www.infoq.cn/article/bduvBdbgwxj6DMbNeKCC?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-09-30T10:45:00.000Z",
+        "publishedAt": "2026-09-30T17:37:10.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fouartwuysyzss0igg7n",
+        "title": "首发！openJiuwen workSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和",
+        "url": "https://www.infoq.cn/article/fOuaRtwuySyZsS0iGg7N?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-09-30T11:52:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1225,16 +1235,6 @@
         "url": "https://www.infoq.cn/article/OBQpdcB1xURrJMRlrJZ1?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-30T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/dbowzu6l6tr8nahcqrc8",
-        "title": "Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
-        "url": "https://www.infoq.cn/article/dbOwzu6l6Tr8NAhCQRC8?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-30T09:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1271,6 +1271,26 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead",
+        "title": "Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead",
+        "url": "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-30T08:00:27.000Z",
+        "summary": "Funds raised through Hong Kong initial public offerings (IPOs) doubled in the first nine months of 2026, reaching the highest level for the period since records began in 1980. A total of 112 companies raised US$48.4 bill",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3369292/mainland-chinese-hong-kong-stocks-face-bumpy-fourth-quarter-risks-mount-analysts",
+        "title": "Mainland Chinese, Hong Kong stocks face bumpy fourth quarter as risks mount: analysts",
+        "url": "https://www.scmp.com/business/china-business/article/3369292/mainland-chinese-hong-kong-stocks-face-bumpy-fourth-quarter-risks-mount-analysts?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-09-30T06:00:06.000Z",
+        "summary": "Mainland Chinese and Hong Kong stocks may face a challenging fourth quarter as investors contend with underwhelming stimulus measures from Beijing, tighter financial conditions in the US and a shift in the narrative arou",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/business/companies/article/3369229/hong-kongs-executives-are-ill-prepared-ai-era-report-finds",
         "title": "Hong Kong’s executives are ‘ill prepared’ for AI era, report finds",
