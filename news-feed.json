@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:07:51.480Z",
+  "generatedAt": "2026-10-01T22:10:37.532Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,106 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/the-hardest-thing-ive-ever-done-noah-waisberg-on-why-selling-a-business-hurts-and-how-zuva-aims-to-fix-it.html",
+        "title": "&#8216;The Hardest Thing I&#8217;ve Ever Done&#8217;: Noah Waisberg on Why Selling a Business Hurts, and How Zuva Aims to Fix It",
+        "url": "https://www.lawnext.com/2026/10/the-hardest-thing-ive-ever-done-noah-waisberg-on-why-selling-a-business-hurts-and-how-zuva-aims-to-fix-it.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-01T18:42:25.000Z",
+        "summary": "Five years ago, Noah Waisberg sold Kira Systems, the pioneering AI contract-analysis company he co-founded, to Litera. Even though the deal itself went well, the experience of going through the sale was hard, Waisberg no",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/supreme&",
+        "title": "Supreme Court begins new term on a quieter note than last, but that could change",
+        "url": "https://www.abajournal.com/web/article/supreme&#45;court&#45;begins&#45;new&#45;term&#45;on&#45;a&#45;quieter&#45;note&#45;than&#45;last&#45;but&#45;that&#45;could&#45;change/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-01T17:48:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/mcalister&",
+        "title": "Interim law dean of University of Florida named to permanent role",
+        "url": "https://www.abajournal.com/news/article/mcalister&#45;named&#45;university&#45;of&#45;florida&#45;levin&#45;college&#45;of&#45;law&#45;dean/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-01T17:40:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/illinois&",
+        "title": "Illinois Supreme Court rejects mandatory arbitration in wrongful death lawsuit against Uber",
+        "url": "https://www.abajournal.com/web/article/illinois&#45;supreme&#45;court&#45;rejects&#45;mand&#45;arb&#45;in&#45;wrongful&#45;death&#45;lawsuit&#45;against&#45;uber/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-01T16:29:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/clio&",
+        "title": "Clio acquires Learned Hand, an AI company for courts, judges",
+        "url": "https://www.abajournal.com/news/article/clio&#45;acquires&#45;learned&#45;hand&#45;an&#45;ai&#45;company&#45;for&#45;courts&#45;and&#45;judges/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-01T16:03:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/dallas-oct-7-masters-ai-see-you-there.html",
+        "title": "Dallas. Oct. 7. Masters AI. See You There!",
+        "url": "https://www.lawnext.com/2026/10/dallas-oct-7-masters-ai-see-you-there.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-01T15:51:13.000Z",
+        "summary": "I am thrilled to announce that I will be serving as emcee for the Masters AI conference in Dallas on Oct. 7, as well as for subsequent dates in Philadelphia on Nov. 11 and Miami on Dec. 8. This is an AI conference that i",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/arizona&",
+        "title": "Judge wrongly permitted AI-generated victim video, state appeals court says",
+        "url": "https://www.abajournal.com/news/article/arizona&#45;appeals&#45;court&#45;says&#45;judge&#45;wrongly&#45;permitted&#45;ai&#45;generated&#45;victim&#45;video/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-01T15:03:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/01/new-model-law-firm-arceus-raises-17m",
+        "title": "New Model Law Firm Arceus Raises $17m",
+        "url": "https://www.artificiallawyer.com/2026/10/01/new-model-law-firm-arceus-raises-17m/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-01T15:00:13.000Z",
+        "summary": "It’s raining new model law firms! And here is Arceus, which launched this year and has just announced a $17 million fundraise led by Greycroft. ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/fines&",
+        "title": "Fines alone aren&#8217;t enough to stop attorneys from AI errors",
+        "url": "https://www.abajournal.com/news/article/fines&#45;alone&#45;arent&#45;enough&#45;to&#45;stop&#45;attorneys&#45;from&#45;ai&#45;errors/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-01T14:46:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/as&",
+        "title": "As ABA Legal Ed council awaits Dept. of Education accreditation decision, educators consider future",
+        "url": "https://www.abajournal.com/web/article/as&#45;aba&#45;legal&#45;ed&#45;council&#45;awaits&#45;dept&#45;of&#45;education&#45;accreditation&#45;decision&#45;educators&#45;consider&#45;future/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-01T14:31:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/01/opus-2-buys-bundledocs-al-interview",
         "title": "Opus 2 Buys Bundledocs + AL Interview",
@@ -53,76 +153,6 @@
         "url": "https://www.abajournal.com/magazine/article/the&#45;right&#45;to&#45;vote&#45;who&#45;cares&#45;about&#45;it/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-10-01T06:50:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/letters&",
-        "title": "Letters From Our Readers - Fall 2026",
-        "url": "https://www.abajournal.com/magazine/article/letters&#45;from&#45;our&#45;readers&#45;fall&#45;2026/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T06:45:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/legal&",
-        "title": "Legal tech companies are turning to pro sports sponsorships to stand out in a crowded AI market",
-        "url": "https://www.abajournal.com/magazine/article/legal&#45;tech&#45;companies&#45;are&#45;turning&#45;to&#45;pro&#45;sports&#45;sponsorships&#45;to&#45;stand&#45;out&#45;in&#45;a&#45;crowded&#45;ai&#45;market/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T06:40:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/lawyers&",
-        "title": "Lawyers say board certification validates expertise and builds trust",
-        "url": "https://www.abajournal.com/magazine/article/lawyers&#45;say&#45;board&#45;certification&#45;validates&#45;expertise&#45;and&#45;builds&#45;trust/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T06:35:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/can&",
-        "title": "Can law schools learn from computer science programs in the debate on generative AI?",
-        "url": "https://www.abajournal.com/magazine/article/can&#45;law&#45;schools&#45;learn&#45;from&#45;computer&#45;science&#45;programs&#45;in&#45;the&#45;debate&#45;on&#45;generative&#45;ai/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T06:30:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/judges&",
-        "title": "Judges are increasingly faulting lawyers who fail to point out AI-generated fake citations in their opponents’ filings",
-        "url": "https://www.abajournal.com/magazine/article/judges&#45;are&#45;increasingly&#45;faulting&#45;lawyers&#45;who&#45;fail&#45;to&#45;point&#45;out&#45;ai&#45;generated&#45;fake&#45;citations&#45;in&#45;their&#45;opponents&#45;filings/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T06:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/understanding&",
-        "title": "Understanding the basic framework of the profession can help lawyers at every level",
-        "url": "https://www.abajournal.com/magazine/article/understanding&#45;the&#45;basic&#45;framework&#45;of&#45;the&#45;profession&#45;can&#45;help&#45;lawyers&#45;at&#45;every&#45;level/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T06:20:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/blasted&",
-        "title": "Blasted by My Own Canon: Syntactic ambiguity in everyday speech and legislative drafting",
-        "url": "https://www.abajournal.com/magazine/article/blasted&#45;by&#45;my&#45;own&#45;canon&#45;syntactic&#45;ambiguity&#45;in&#45;everyday&#45;speech&#45;and&#45;legislative&#45;drafting/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T06:15:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -254,16 +284,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-09-28T14:34:09.000Z",
         "summary": "Mitratech Legal has bought BotDojo, a small startup focused on agent orchestration. It will become part of the far larger company’s ARIES AI offering, they ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/28/harvey-launches-its-first-ever-tv-commercials",
-        "title": "Harvey Launches Its First Ever TV Commercials",
-        "url": "https://www.artificiallawyer.com/2026/09/28/harvey-launches-its-first-ever-tv-commercials/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-28T13:24:11.000Z",
-        "summary": "Harvey is launching its first ever TV commercials, which will run on ESPN, NBC, Amazon, Netflix, HBO Max and other channels. The theme is ‘agreements ...",
         "category": "updates",
         "region": "na"
       },
@@ -1155,26 +1175,6 @@
         "publishedAt": "2026-06-18T13:46:36.000Z",
         "summary": "In two separate announcements this week, Clio rolled out two initiatives aimed at the same problem — getting practicing lawyers comfortable with AI. One puts AI software directly into lawyers&#8217; hands at no cost; the",
         "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/06/ken-crutchfield-is-kirklands-500-million-ai-investment-really-a-bet-on-data.html",
-        "title": "Ken Crutchfield: Is Kirkland&#8217;s $500 Million AI Investment Really A Bet On Data?",
-        "url": "https://www.lawnext.com/2026/06/ken-crutchfield-is-kirklands-500-million-ai-investment-really-a-bet-on-data.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-17T14:35:48.000Z",
-        "summary": "When Kirkland &#38; Ellis announced a $500 million investment in AI, much of the reaction focused on the dollar amount. That much money commands attention in the legal industry. But the dollar amount may not be the most ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/06/blackboiler-launches-veris-pairing-its-deterministic-redlining-with-generative-ai-in-microsoft-word.html",
-        "title": "BlackBoiler Launches Veris, Pairing Its Deterministic Redlining With Generative AI in Microsoft Word",
-        "url": "https://www.lawnext.com/2026/06/blackboiler-launches-veris-pairing-its-deterministic-redlining-with-generative-ai-in-microsoft-word.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-16T16:54:23.000Z",
-        "summary": "BlackBoiler, a company that has spent over a decade building automated redlining technology, this week launched Veris, a new platform that takes its original deterministic editing engine and supercharges it with generati",
-        "category": "tools",
         "region": "na"
       },
       {
