@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:38:13.615Z",
+  "generatedAt": "2026-10-02T17:07:02.797Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,66 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/thomson&",
+        "title": "Thomson Reuters sued over Casetext acquisition and integration",
+        "url": "https://www.abajournal.com/web/article/thomson&#45;reuters&#45;sued&#45;over&#45;casetext&#45;acquisition&#45;and&#45;integration/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-02T16:46:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/practical-guide-building-gpt-6",
+        "title": "A model guide for the GPT-6 family",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6",
+        "source": "OpenAI News",
+        "publishedAt": "2026-10-02T16:15:00.000Z",
+        "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/relativity-ceo-says-2028-server-deadline-stands-will-prioritize-partnering-with-frontier-labs-over-legal-ai-companies.html",
+        "title": "Relativity CEO Says 2028 Server Deadline Stands; Will Prioritize Partnering with Frontier Labs Over Legal AI Companies",
+        "url": "https://www.lawnext.com/2026/10/relativity-ceo-says-2028-server-deadline-stands-will-prioritize-partnering-with-frontier-labs-over-legal-ai-companies.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-02T15:49:38.000Z",
+        "summary": "Relativity is holding firm on its plan to require that all new matters be hosted in the cloud beginning Jan. 1, 2028, CEO Phil Saunders said Thursday, and he had a blunt message for partners who are not on board: &#8220;",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/bill&",
+        "title": "Bill Withers&#8217; music publisher files copyright suit over Olivia Dean&#8217;s &#8216;I&#8217;ve Seen It&#8217;",
+        "url": "https://www.abajournal.com/news/article/bill&#45;withers&#45;estate&#45;suing&#45;record&#45;companies&#45;over&#45;olivia&#45;deans&#45;ive&#45;seen&#45;it/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-02T15:41:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
+        "title": "Judge reinstates US attorney in Washington fired by Trump",
+        "url": "https://www.abajournal.com/news/article/judge&#45;reinstates&#45;us&#45;attorney&#45;in&#45;washington&#45;state&#45;fired&#45;by&#45;trump/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-02T14:39:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/melissa&",
+        "title": "Melissa Hart, the chair of the ABA Legal Ed council, dies",
+        "url": "https://www.abajournal.com/web/article/melissa&#45;hart&#45;legal&#45;ed&#45;council&#45;chair&#45;dies/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-02T14:26:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets",
         "title": "Jev + the SOM Revolution, Legal Innovators UK Express Tickets +",
@@ -118,16 +178,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/as&",
-        "title": "As ABA Legal Ed council awaits Dept. of Education accreditation decision, educators consider future",
-        "url": "https://www.abajournal.com/web/article/as&#45;aba&#45;legal&#45;ed&#45;council&#45;awaits&#45;dept&#45;of&#45;education&#45;accreditation&#45;decision&#45;educators&#45;consider&#45;future/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T14:31:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/01/opus-2-buys-bundledocs-al-interview",
         "title": "Opus 2 Buys Bundledocs + AL Interview",
         "url": "https://www.artificiallawyer.com/2026/10/01/opus-2-buys-bundledocs-al-interview/",
@@ -144,36 +194,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-01T07:17:12.000Z",
         "summary": "The waiter led Katie through the busy City restaurant to where the private dining rooms were. Although it was a scheduled lunch with the managing ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/lights&",
-        "title": "Lights, Camera, AI! - Technology is changing how Hollywood replaces actors—and testing the limits of publicity law",
-        "url": "https://www.abajournal.com/magazine/article/lights&#45;camera&#45;ai&#45;technology&#45;is&#45;changing&#45;how&#45;hollywood&#45;replaces&#45;actorsand&#45;testing&#45;the&#45;limits&#45;of&#45;publicity&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T07:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/best&",
-        "title": "Best Judgment: Judges blast lawyers for citing hallucinated cases, but ethics pros say rule changes not needed",
-        "url": "https://www.abajournal.com/magazine/article/best&#45;judgment&#45;judges&#45;blast&#45;lawyers&#45;for&#45;citing&#45;hallucinated&#45;cases&#45;but&#45;ethics&#45;pros&#45;say&#45;rule&#45;changes&#45;not&#45;needed/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T06:55:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/magazine/article/the&",
-        "title": "The Right to Vote: Who cares about it?",
-        "url": "https://www.abajournal.com/magazine/article/the&#45;right&#45;to&#45;vote&#45;who&#45;cares&#45;about&#45;it/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T06:50:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1168,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/06/clio-launches-two-ai-initiatives-free-tools-for-florida-lawyers-and-a-pledge-to-train-25000-professionals.html",
-        "title": "Clio Launches Two AI Initiatives: Free Tools for Florida Lawyers and a Pledge to Train 25,000 Professionals",
-        "url": "https://www.lawnext.com/2026/06/clio-launches-two-ai-initiatives-free-tools-for-florida-lawyers-and-a-pledge-to-train-25000-professionals.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-18T13:46:36.000Z",
-        "summary": "In two separate announcements this week, Clio rolled out two initiatives aimed at the same problem — getting practicing lawyers comfortable with AI. One puts AI software directly into lawyers&#8217; hands at no cost; the",
-        "category": "skills",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1194,16 +1204,6 @@
         "source": "OpenAI News",
         "publishedAt": "2024-06-17T04:15:00.000Z",
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
       }
@@ -1292,16 +1292,6 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation",
-        "title": "China’s AI compute ambitions demand innovation",
-        "url": "https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-02T07:05:21.000Z",
-        "summary": "China has set a five-year goal for the expansion of intelligent computing capacity to drive artificial intelligence (AI) that calls for a more than fourfold increase on what was in place at the end of June this year. To ",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
         "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3369376/deepseek-effect-how-chinas-quant-funds-thrive-amid-tight-regulatory-scrutiny",
         "title": "DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny",
         "url": "https://www.scmp.com/business/banking-finance/article/3369376/deepseek-effect-how-chinas-quant-funds-thrive-amid-tight-regulatory-scrutiny?utm_source=rss_feed",
@@ -1309,16 +1299,6 @@
         "publishedAt": "2026-10-02T02:00:18.000Z",
         "summary": "China’s quantitative investing sector has added 18 new members to the ranks of funds managing more than 10 billion yuan (US$1.5 billion) in assets this year, underlining the industry’s ability to generate competitive ret",
         "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/companies/article/3369229/hong-kongs-executives-are-ill-prepared-ai-era-report-finds",
-        "title": "Hong Kong’s executives are ‘ill prepared’ for AI era, report finds",
-        "url": "https://www.scmp.com/business/companies/article/3369229/hong-kongs-executives-are-ill-prepared-ai-era-report-finds?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-09-30T00:00:11.000Z",
-        "summary": "Executives at Hong Kong’s largest listed companies have a severe lack of technological expertise, with fewer than 1 per cent of directors possessing dedicated artificial intelligence or cybersecurity skills, according to",
-        "category": "articles",
         "region": "cn_en"
       }
     ]
