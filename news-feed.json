@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T17:07:02.797Z",
+  "generatedAt": "2026-10-02T21:37:43.540Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,8 +8,38 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.com/web/article/following&",
+        "title": "Jury rejects murder defense that involved cooking for man accused of killing his lawyer girlfriend",
+        "url": "https://www.abajournal.com/web/article/following&#45;an&#45;indiana&#45;lawyers&#45;murder&#45;jury&#45;doesnt&#45;buy&#45;defense&#45;involving&#45;chopped&#45;onions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-02T19:47:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html",
+        "title": "ROSS Says It Will Ask Supreme Court to Review 3rd Circuit Ruling for Thomson Reuters in Copyright Case",
+        "url": "https://www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-02T19:38:26.000Z",
+        "summary": "Following this week&#8217;s ruling by the 3rd U.S. Circuit Court of Appeals in favor of Thomson Reuters in its long-running copyright battle against the now-shuttered AI legal research company ROSS Intelligence, ROSS say",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/texas&",
+        "title": "Judge suspended after indictment over alleged perjury",
+        "url": "https://www.abajournal.com/news/article/texas&#45;judge&#45;suspended&#45;after&#45;indictment&#45;over&#45;alleged&#45;perjury/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-02T17:41:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "ABA Journal:www.abajournal.com/web/article/thomson&",
-        "title": "Thomson Reuters sued over Casetext acquisition and integration",
+        "title": "Thomson Reuters sued over Casetext acquisition, integration",
         "url": "https://www.abajournal.com/web/article/thomson&#45;reuters&#45;sued&#45;over&#45;casetext&#45;acquisition&#45;and&#45;integration/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-10-02T16:46:00.000Z",
@@ -148,32 +178,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/arizona&",
-        "title": "Judge wrongly permitted AI-generated victim video, state appeals court says",
-        "url": "https://www.abajournal.com/news/article/arizona&#45;appeals&#45;court&#45;says&#45;judge&#45;wrongly&#45;permitted&#45;ai&#45;generated&#45;victim&#45;video/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T15:03:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/01/new-model-law-firm-arceus-raises-17m",
         "title": "New Model Law Firm Arceus Raises $17m",
         "url": "https://www.artificiallawyer.com/2026/10/01/new-model-law-firm-arceus-raises-17m/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-01T15:00:13.000Z",
         "summary": "It’s raining new model law firms! And here is Arceus, which launched this year and has just announced a $17 million fundraise led by Greycroft. ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/fines&",
-        "title": "Fines alone aren&#8217;t enough to stop attorneys from AI errors",
-        "url": "https://www.abajournal.com/news/article/fines&#45;alone&#45;arent&#45;enough&#45;to&#45;stop&#45;attorneys&#45;from&#45;ai&#45;errors/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T14:46:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1175,16 +1185,6 @@
         "publishedAt": "2026-06-22T12:19:19.000Z",
         "summary": "Most professionals are now using artificial intelligence at work, but far fewer are getting much value out of it, according to new research from Thomson Reuters. And the cost of that shortfall is starting to show up in l",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
-        "title": "BARBRI Acquires Lega, Completing the Startup&#8217;s Pivot From AI Governance to Experiential AI Training",
-        "url": "https://www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-22T11:57:28.000Z",
-        "summary": "BARBRI, the legal education company best known for bar exam preparation, has acquired Lega, the AI startup that launched in 2023 with a focus on large language model governance but which has been evolving into helping le",
-        "category": "updates",
         "region": "na"
       },
       {
