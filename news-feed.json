@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T03:19:42.085Z",
+  "generatedAt": "2026-10-02T11:38:13.615Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets",
+        "title": "Jev + the SOM Revolution, Legal Innovators UK Express Tickets +",
+        "url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-02T07:56:34.000Z",
+        "summary": "We start the Wrap with an exploration of the newly arrived SOM – or System One Model. A revolution that is sweeping the tech world, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/02/wim-dejonghe-ex-ao-boss-backs-falcon-al-interview",
+        "title": "Wim Dejonghe, Ex-A&#038;O Boss, Backs Falcon + AL Interview",
+        "url": "https://www.artificiallawyer.com/2026/10/02/wim-dejonghe-ex-ao-boss-backs-falcon-al-interview/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-02T06:29:26.000Z",
+        "summary": "Wim Dejonghe, who was the global senior partner of the former Allen &#38; Overy, has backed a new model law firm – Falcon – with ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/10/the-hardest-thing-ive-ever-done-noah-waisberg-on-why-selling-a-business-hurts-and-how-zuva-aims-to-fix-it.html",
         "title": "&#8216;The Hardest Thing I&#8217;ve Ever Done&#8217;: Noah Waisberg on Why Selling a Business Hurts, and How Zuva Aims to Fix It",
@@ -258,32 +278,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/29/with-august-a-companys-agents-ask-lawyers-for-help",
-        "title": "With August, A Company&#8217;s Agents Ask Lawyers For Help",
-        "url": "https://www.artificiallawyer.com/2026/09/29/with-august-a-companys-agents-ask-lawyers-for-help/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-29T07:07:58.000Z",
-        "summary": "Legal AI platform, August, is launching a new feature that allows AI agents working inside a company to request help from lawyers &#8211; which could ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/09/in-a-marriage-of-two-alsps-repario-acquires-unitedlex-to-strengthen-its-ai-offerings.html",
         "title": "In A Marriage of Two ALSPs, Repario Acquires UnitedLex to Strengthen Its AI Offerings",
         "url": "https://www.lawnext.com/2026/09/in-a-marriage-of-two-alsps-repario-acquires-unitedlex-to-strengthen-its-ai-offerings.html",
         "source": "LawSites",
         "publishedAt": "2026-09-28T15:08:03.000Z",
         "summary": "In a marriage of two alternative legal services providers, Repario, a company with a focus on e-discovery and managed review, has acquired UnitedLex, a global company that provides a broader range of services spanning le",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/28/mitratech-buys-botdojo-for-agent-orchestration",
-        "title": "Mitratech Buys BotDojo For Agent Orchestration",
-        "url": "https://www.artificiallawyer.com/2026/09/28/mitratech-buys-botdojo-for-agent-orchestration/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-28T14:34:09.000Z",
-        "summary": "Mitratech Legal has bought BotDojo, a small startup focused on agent orchestration. It will become part of the far larger company’s ARIES AI offering, they ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,26 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/8xup4izkkr3ex2vtdxpl",
-        "title": "Graphify：整合代码库上下文，优化基于代理的软件工程",
-        "url": "https://www.infoq.cn/article/8XuP4iZKKr3ex2VTDxpl?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-02T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/deyrayxufobhpoezgokt",
-        "title": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
-        "url": "https://www.infoq.cn/article/DEyrayxufObhpoeZgOKT?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-02T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/p5ycykfijfkaicrf8bfs",
         "title": "在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
         "url": "https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs?utm_source=rss&utm_medium=article",
@@ -1312,12 +1292,22 @@
     ],
     "cn_en": [
       {
+        "id": "SCMP China Business:www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation",
+        "title": "China’s AI compute ambitions demand innovation",
+        "url": "https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-02T07:05:21.000Z",
+        "summary": "China has set a five-year goal for the expansion of intelligent computing capacity to drive artificial intelligence (AI) that calls for a more than fourfold increase on what was in place at the end of June this year. To ",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
         "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3369376/deepseek-effect-how-chinas-quant-funds-thrive-amid-tight-regulatory-scrutiny",
         "title": "DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny",
         "url": "https://www.scmp.com/business/banking-finance/article/3369376/deepseek-effect-how-chinas-quant-funds-thrive-amid-tight-regulatory-scrutiny?utm_source=rss_feed",
         "source": "SCMP China Business",
         "publishedAt": "2026-10-02T02:00:18.000Z",
-        "summary": "China’s quantitative investing sector has produced 18 funds managing more than 10 billion yuan (US$1.5 billion) in assets each so far this year, underlining the industry’s ability to generate competitive returns despite ",
+        "summary": "China’s quantitative investing sector has added 18 new members to the ranks of funds managing more than 10 billion yuan (US$1.5 billion) in assets this year, underlining the industry’s ability to generate competitive ret",
         "category": "updates",
         "region": "cn_en"
       },
