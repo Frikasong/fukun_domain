@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T21:37:43.540Z",
+  "generatedAt": "2026-10-03T03:06:00.885Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/blb8rq6sd3zgqts0d4tp",
+        "title": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+        "url": "https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-03T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/p5ycykfijfkaicrf8bfs",
         "title": "在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
         "url": "https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs?utm_source=rss&utm_medium=article",
@@ -1291,6 +1301,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3369577/more-chinese-banks-likely-adopt-ai-rules-after-ping-move-analysts",
+        "title": "More Chinese banks likely to adopt AI rules after Ping An move: analysts",
+        "url": "https://www.scmp.com/business/banking-finance/article/3369577/more-chinese-banks-likely-adopt-ai-rules-after-ping-move-analysts?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-03T03:00:18.000Z",
+        "summary": "After Ping An Bank became the first listed Chinese lender to formally adopt rules governing its use of artificial intelligence, analysts said more mainland institutions were likely to follow, with the move setting an ear",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3369376/deepseek-effect-how-chinas-quant-funds-thrive-amid-tight-regulatory-scrutiny",
         "title": "DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny",
