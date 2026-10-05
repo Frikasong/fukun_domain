@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T20:41:56.898Z",
+  "generatedAt": "2026-10-05T03:14:56.509Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,11 +1210,21 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/p5ycykfijfkaicrf8bfs",
-        "title": "在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
-        "url": "https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/xwj8g6gafmnl74xpsgju",
+        "title": "Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+        "url": "https://www.infoq.cn/article/XWJ8G6GaFmNL74xpSgjU?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-01T14:00:00.000Z",
+        "publishedAt": "2026-10-05T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/yvwaqgczczi838jesa1b",
+        "title": "DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海",
+        "url": "https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-05T10:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
