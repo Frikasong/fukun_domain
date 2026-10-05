@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T13:08:01.590Z",
+  "generatedAt": "2026-10-05T23:30:38.745Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,66 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/cubs&",
+        "title": "Chicago Cubs win in federal court against neighboring bar that sold tickets to watch games",
+        "url": "https://www.abajournal.com/news/article/cubs&#45;win&#45;cubs&#45;win&#45;in&#45;federal&#45;court&#45;against&#45;neighboring&#45;bar&#45;that&#45;sold&#45;tickets&#45;to&#45;watch&#45;games/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-05T18:26:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
+        "title": "Lawyer allegedly shares e-filing password with disgruntled client; chaos ensues",
+        "url": "https://www.abajournal.com/news/article/lawyer&#45;shares&#45;e&#45;filing&#45;password&#45;with&#45;disgruntled&#45;client&#45;chaos&#45;ensues/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-05T16:22:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/legal&",
+        "title": "Legal hiring continues to increase, despite slowdown across broader economy, new government data shows",
+        "url": "https://www.abajournal.com/news/article/legal&#45;hiring&#45;continues&#45;to&#45;increase&#45;despite&#45;slowdown&#45;across&#45;broader&#45;economy&#45;new&#45;government&#45;data&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-05T15:39:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
+        "title": "DOJ accuses UCLA School of Law of racial discrimination",
+        "url": "https://www.abajournal.com/news/article/doj&#45;accuses&#45;ucla&#45;law&#45;of&#45;racial&#45;discrimination/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-05T15:26:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/justice&",
+        "title": "Justice Alito says he considers retirement each year",
+        "url": "https://www.abajournal.com/news/article/justice&#45;alito&#45;says&#45;he&#45;considers&#45;retirement&#45;each&#45;year/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-05T14:49:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/ncbe&",
+        "title": "NCBE will use staggered start times for NextGen UBE administrations",
+        "url": "https://www.abajournal.com/web/article/ncbe&#45;to&#45;use&#45;staggered&#45;start&#45;times&#45;for&#45;nextgen&#45;ube&#45;administrations/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-05T14:16:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/05/want-to-join-an-evolution",
         "title": "Want To Join An Evolution?",
@@ -78,26 +138,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
-        "title": "Judge reinstates US attorney in Washington fired by Trump",
-        "url": "https://www.abajournal.com/news/article/judge&#45;reinstates&#45;us&#45;attorney&#45;in&#45;washington&#45;state&#45;fired&#45;by&#45;trump/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-02T14:39:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/melissa&",
-        "title": "Melissa Hart, the chair of the ABA Legal Ed council, dies",
-        "url": "https://www.abajournal.com/web/article/melissa&#45;hart&#45;legal&#45;ed&#45;council&#45;chair&#45;dies/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-02T14:26:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets",
         "title": "Jev + the SOM Revolution, Legal Innovators UK Express Tickets +",
         "url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
@@ -125,46 +165,6 @@
         "publishedAt": "2026-10-01T18:42:25.000Z",
         "summary": "Five years ago, Noah Waisberg sold Kira Systems, the pioneering AI contract-analysis company he co-founded, to Litera. Even though the deal itself went well, the experience of going through the sale was hard, Waisberg no",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/supreme&",
-        "title": "Supreme Court begins new term on a quieter note than last, but that could change",
-        "url": "https://www.abajournal.com/web/article/supreme&#45;court&#45;begins&#45;new&#45;term&#45;on&#45;a&#45;quieter&#45;note&#45;than&#45;last&#45;but&#45;that&#45;could&#45;change/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T17:48:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/mcalister&",
-        "title": "Interim law dean of University of Florida named to permanent role",
-        "url": "https://www.abajournal.com/news/article/mcalister&#45;named&#45;university&#45;of&#45;florida&#45;levin&#45;college&#45;of&#45;law&#45;dean/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T17:40:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/illinois&",
-        "title": "Illinois Supreme Court rejects mandatory arbitration in wrongful death lawsuit against Uber",
-        "url": "https://www.abajournal.com/web/article/illinois&#45;supreme&#45;court&#45;rejects&#45;mand&#45;arb&#45;in&#45;wrongful&#45;death&#45;lawsuit&#45;against&#45;uber/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T16:29:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/clio&",
-        "title": "Clio acquires Learned Hand, an AI company for courts, judges",
-        "url": "https://www.abajournal.com/news/article/clio&#45;acquires&#45;learned&#45;hand&#45;an&#45;ai&#45;company&#45;for&#45;courts&#45;and&#45;judges/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-01T16:03:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
