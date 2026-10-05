@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T03:14:56.509Z",
+  "generatedAt": "2026-10-05T13:08:01.590Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/05/want-to-join-an-evolution",
+        "title": "Want To Join An Evolution?",
+        "url": "https://www.artificiallawyer.com/2026/10/05/want-to-join-an-evolution/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-05T06:54:50.000Z",
+        "summary": "Imagine a law firm where the goal is to continually increase the speed of work for the clients by learning from each matter, thus creating ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/following&",
         "title": "Jury rejects murder defense that involved cooking for man accused of killing his lawyer girlfriend",
@@ -285,16 +295,6 @@
         "publishedAt": "2026-09-29T12:30:27.000Z",
         "summary": "I’ll confess: When I heard that Jesse Cole, the founder of the Savannah Bananas baseball team, was to be the keynote speaker at 8am’s Kaleidoscope conference, I found myself scratching my head. After all, what could the ",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/29/ex-freshfields-lawyers-launch-new-model-firm",
-        "title": "Ex-Freshfields Lawyers Launch New Model Firm",
-        "url": "https://www.artificiallawyer.com/2026/09/29/ex-freshfields-lawyers-launch-new-model-firm/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-29T08:09:42.000Z",
-        "summary": "We’ve seen new model law firms proliferate in the US and UK, and now here’s one in the Netherlands: Driven Lawyers, created by Jelle Drok ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1209,26 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/xwj8g6gafmnl74xpsgju",
-        "title": "Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
-        "url": "https://www.infoq.cn/article/XWJ8G6GaFmNL74xpSgjU?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-05T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/yvwaqgczczi838jesa1b",
-        "title": "DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海",
-        "url": "https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-05T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/vvrszjhevkmpevs7wzzu",
         "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
