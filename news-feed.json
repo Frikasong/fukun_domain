@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T12:29:17.861Z",
+  "generatedAt": "2026-10-06T22:03:20.886Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,21 +8,81 @@
   "panels": {
     "na": [
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/cubs&",
-        "title": "Chicago Cubs win in federal court against neighboring bar that sold tickets to watch games",
-        "url": "https://www.abajournal.com/news/article/cubs&#45;win&#45;cubs&#45;win&#45;in&#45;federal&#45;court&#45;against&#45;neighboring&#45;bar&#45;that&#45;sold&#45;tickets&#45;to&#45;watch&#45;games/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "ABA Journal:www.abajournal.com/web/article/judicial&",
+        "title": "2 judges who couldn&#8217;t get along both removed from bench",
+        "url": "https://www.abajournal.com/web/article/judicial&#45;beef&#45;leads&#45;to&#45;removals&#45;for&#45;both/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-10-05T18:26:00.000Z",
+        "publishedAt": "2026-10-06T18:51:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/sotomayor&",
+        "title": "Justice Sotomayor criticizes judge who ordered juror&#8217;s arrest in front of jury pool",
+        "url": "https://www.abajournal.com/news/article/sotomayor&#45;criticizes&#45;alabama&#45;judge&#45;who&#45;ordered&#45;jurors&#45;arrest&#45;in&#45;front&#45;of&#45;jury&#45;pool/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-06T16:58:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/after&",
+        "title": "After firing basketball coach, Kansas State University agrees to pay him $12M",
+        "url": "https://www.abajournal.com/news/article/after&#45;firing&#45;basketball&#45;coach&#45;kansas&#45;state&#45;agrees&#45;to&#45;pay&#45;him&#45;12&#45;million/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-06T16:38:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
+        "title": "Federal lawsuit targets McDonald&#8217;s for alleged use of AI to hike prices",
+        "url": "https://www.abajournal.com/news/article/federal&#45;lawsuit&#45;targets&#45;mcdonalds&#45;for&#45;alleged&#45;use&#45;of&#45;ai&#45;to&#45;hike&#45;prices/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-06T16:13:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
-        "title": "Lawyer allegedly shares e-filing password with disgruntled client; chaos ensues",
-        "url": "https://www.abajournal.com/news/article/lawyer&#45;shares&#45;e&#45;filing&#45;password&#45;with&#45;disgruntled&#45;client&#45;chaos&#45;ensues/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "title": "Lawyer for defendant seen shackled outside courtroom should have sought mistrial, Oregon Supreme Court says",
+        "url": "https://www.abajournal.com/news/article/lawyer&#45;for&#45;defendant&#45;seen&#45;shackled&#45;outside&#45;of&#45;courtroom&#45;should&#45;have&#45;sought&#45;mistrial&#45;oregon&#45;supreme&#45;court&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-10-05T16:22:00.000Z",
+        "publishedAt": "2026-10-06T15:38:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/nyc&",
+        "title": "Personal injury firm fabricated cases, NYC alleges in suit",
+        "url": "https://www.abajournal.com/news/article/nyc&#45;in&#45;lawsuit&#45;claims&#45;personal&#45;injury&#45;firm&#45;fabricated&#45;cases/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-06T14:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/tennessee&",
+        "title": "Tennessee Supreme Court broadens who can take bar exam",
+        "url": "https://www.abajournal.com/news/article/tennessee&#45;broadens&#45;who&#45;can&#45;sit&#45;for&#45;the&#45;bar&#45;exam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-06T14:36:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/cubs&",
+        "title": "Chicago Cubs win in federal court against neighboring bar that sold tickets to watch games",
+        "url": "https://www.abajournal.com/news/article/cubs&#45;win&#45;cubs&#45;win&#45;in&#45;federal&#45;court&#45;against&#45;neighboring&#45;bar&#45;that&#45;sold&#45;tickets&#45;to&#45;watch&#45;games/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-05T18:26:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -38,52 +98,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
-        "title": "DOJ accuses UCLA School of Law of racial discrimination",
-        "url": "https://www.abajournal.com/news/article/doj&#45;accuses&#45;ucla&#45;law&#45;of&#45;racial&#45;discrimination/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-05T15:26:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/justice&",
-        "title": "Justice Alito says he considers retirement each year",
-        "url": "https://www.abajournal.com/news/article/justice&#45;alito&#45;says&#45;he&#45;considers&#45;retirement&#45;each&#45;year/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-05T14:49:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/ncbe&",
-        "title": "NCBE will use staggered start times for NextGen UBE administrations",
-        "url": "https://www.abajournal.com/web/article/ncbe&#45;to&#45;use&#45;staggered&#45;start&#45;times&#45;for&#45;nextgen&#45;ube&#45;administrations/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-05T14:16:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/05/want-to-join-an-evolution",
         "title": "Want To Join An Evolution?",
         "url": "https://www.artificiallawyer.com/2026/10/05/want-to-join-an-evolution/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-05T06:54:50.000Z",
         "summary": "Imagine a law firm where the goal is to continually increase the speed of work for the clients by learning from each matter, thus creating ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/following&",
-        "title": "Jury rejects murder defense that involved cooking for man accused of killing his lawyer girlfriend",
-        "url": "https://www.abajournal.com/web/article/following&#45;an&#45;indiana&#45;lawyers&#45;murder&#45;jury&#45;doesnt&#45;buy&#45;defense&#45;involving&#45;chopped&#45;onions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-02T19:47:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -98,42 +118,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/texas&",
-        "title": "Judge suspended after indictment over alleged perjury",
-        "url": "https://www.abajournal.com/news/article/texas&#45;judge&#45;suspended&#45;after&#45;indictment&#45;over&#45;alleged&#45;perjury/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-02T17:41:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/thomson&",
-        "title": "Thomson Reuters sued over Casetext acquisition, integration",
-        "url": "https://www.abajournal.com/web/article/thomson&#45;reuters&#45;sued&#45;over&#45;casetext&#45;acquisition&#45;and&#45;integration/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-02T16:46:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/10/relativity-ceo-says-2028-server-deadline-stands-will-prioritize-partnering-with-frontier-labs-over-legal-ai-companies.html",
         "title": "Relativity CEO Says 2028 Server Deadline Stands; Will Prioritize Partnering with Frontier Labs Over Legal AI Companies",
         "url": "https://www.lawnext.com/2026/10/relativity-ceo-says-2028-server-deadline-stands-will-prioritize-partnering-with-frontier-labs-over-legal-ai-companies.html",
         "source": "LawSites",
         "publishedAt": "2026-10-02T15:49:38.000Z",
         "summary": "Relativity is holding firm on its plan to require that all new matters be hosted in the cloud beginning Jan. 1, 2028, CEO Phil Saunders said Thursday, and he had a blunt message for partners who are not on board: &#8220;",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/bill&",
-        "title": "Bill Withers&#8217; music publisher files copyright suit over Olivia Dean&#8217;s &#8216;I&#8217;ve Seen It&#8217;",
-        "url": "https://www.abajournal.com/news/article/bill&#45;withers&#45;estate&#45;suing&#45;record&#45;companies&#45;over&#45;olivia&#45;deans&#45;ive&#45;seen&#45;it/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-02T15:41:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1205,6 +1195,16 @@
         "publishedAt": "2024-05-06T00:00:00.000Z",
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
         "region": "na"
       }
     ],
