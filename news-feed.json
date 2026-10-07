@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T22:03:20.886Z",
+  "generatedAt": "2026-10-07T03:30:18.492Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/mwqylyzgsid16x36k9ef",
+        "title": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+        "url": "https://www.infoq.cn/article/MwQyLYzgSiD16x36k9Ef?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-07T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wvtymucll28hkfvwhpz2",
+        "title": "用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+        "url": "https://www.infoq.cn/article/WvTYmUCLl28HKFvWHpZ2?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-07T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/vvrszjhevkmpevs7wzzu",
         "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
         "url": "https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&utm_medium=article",
@@ -1235,16 +1255,6 @@
         "url": "https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-09-30T20:40:07.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/t5i2yv2z0lwibk36lter",
-        "title": "DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库",
-        "url": "https://www.infoq.cn/article/t5i2Yv2z0LwIbK36lteR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-30T19:40:16.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
