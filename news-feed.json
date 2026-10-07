@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:22:28.710Z",
+  "generatedAt": "2026-10-07T22:28:02.256Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,76 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/texas&",
+        "title": "Texas Supreme Court could allow AI-generated transcripts of depositions",
+        "url": "https://www.abajournal.com/news/article/texas&#45;supreme&#45;court&#45;could&#45;allow&#45;ai&#45;generated&#45;transcripts&#45;of&#45;depositions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-07T18:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/roberts&",
+        "title": "Chief Justice Roberts moves oldest active federal judge&#8217;s fitness investigation to 11th Circuit",
+        "url": "https://www.abajournal.com/news/article/roberts&#45;moves&#45;pauline&#45;newman&#45;fitness&#45;investigation&#45;to&#45;the&#45;eleventh&#45;circuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-07T16:57:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/lawyer&",
+        "title": "Lawyer says he was set up by cops while traveling to what he thought was business meeting",
+        "url": "https://www.abajournal.com/web/article/lawyer&#45;says&#45;he&#45;was&#45;set&#45;up&#45;by&#45;cops&#45;while&#45;traveling&#45;to&#45;what&#45;he&#45;thought&#45;was&#45;a&#45;business&#45;meeting/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-07T15:37:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ex&",
+        "title": "Ex-public defender assistant arrested on charges of impersonating lawyer",
+        "url": "https://www.abajournal.com/news/article/ex&#45;public&#45;defender&#45;assistant&#45;arrested&#45;on&#45;charges&#45;of&#45;impersonating&#45;a&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-07T14:56:00.000Z",
+        "summary": "",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
+        "title": "DOJ lawyers told to replace term &#8216;AI&#8217; with &#8216;super intelligence&#8217;",
+        "url": "https://www.abajournal.com/news/article/doj&#45;lawyers&#45;told&#45;to&#45;use&#45;the&#45;words&#45;super&#45;intelligence&#45;instead&#45;of&#45;ai/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-07T14:36:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/the&",
+        "title": "The case of Julius Caesar v. the Roman Republic",
+        "url": "https://www.abajournal.com/voice/article/the&#45;case&#45;of&#45;julius&#45;caesar&#45;v&#45;the&#45;roman&#45;republic/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-07T14:08:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/07/spellbooks-autonomous-contract-management-on-general-release",
+        "title": "Spellbook’s Autonomous Contract Management on General Release",
+        "url": "https://www.artificiallawyer.com/2026/10/07/spellbooks-autonomous-contract-management-on-general-release/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-07T13:24:04.000Z",
+        "summary": "CLM isn’t dead. But it does have a lot of competition&#8230;.as Spellbook’s Autonomous Contract Management (ACM) capability goes on general release after an initial limited ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/07/pilot5-launches-adversarial-ai-for-lawyers",
         "title": "Pilot5 Launches Adversarial AI for Lawyers",
@@ -83,56 +153,6 @@
         "url": "https://www.abajournal.com/news/article/federal&#45;lawsuit&#45;targets&#45;mcdonalds&#45;for&#45;alleged&#45;use&#45;of&#45;ai&#45;to&#45;hike&#45;prices/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-10-06T16:13:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
-        "title": "Lawyer for defendant seen shackled outside courtroom should have sought mistrial, Oregon Supreme Court says",
-        "url": "https://www.abajournal.com/news/article/lawyer&#45;for&#45;defendant&#45;seen&#45;shackled&#45;outside&#45;of&#45;courtroom&#45;should&#45;have&#45;sought&#45;mistrial&#45;oregon&#45;supreme&#45;court&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-06T15:38:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/nyc&",
-        "title": "Personal injury firm fabricated cases, NYC alleges in suit",
-        "url": "https://www.abajournal.com/news/article/nyc&#45;in&#45;lawsuit&#45;claims&#45;personal&#45;injury&#45;firm&#45;fabricated&#45;cases/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-06T14:56:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/tennessee&",
-        "title": "Tennessee Supreme Court broadens who can take bar exam",
-        "url": "https://www.abajournal.com/news/article/tennessee&#45;broadens&#45;who&#45;can&#45;sit&#45;for&#45;the&#45;bar&#45;exam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-06T14:36:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/cubs&",
-        "title": "Chicago Cubs win in federal court against neighboring bar that sold tickets to watch games",
-        "url": "https://www.abajournal.com/news/article/cubs&#45;win&#45;cubs&#45;win&#45;in&#45;federal&#45;court&#45;against&#45;neighboring&#45;bar&#45;that&#45;sold&#45;tickets&#45;to&#45;watch&#45;games/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-05T18:26:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/legal&",
-        "title": "Legal hiring continues to increase, despite slowdown across broader economy, new government data shows",
-        "url": "https://www.abajournal.com/news/article/legal&#45;hiring&#45;continues&#45;to&#45;increase&#45;despite&#45;slowdown&#45;across&#45;broader&#45;economy&#45;new&#45;government&#45;data&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-05T15:39:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -225,16 +245,6 @@
         "publishedAt": "2026-10-01T09:00:18.000Z",
         "summary": "Opus 2, the pioneering litigation platform, has acquired Bundledocs, the widely-used document bundling system. The move marks the company’s third M&#38;A deal in recent years, ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/01/the-innovators-lunch-part-8",
-        "title": "The Innovators &#8211; ‘Lunch’ – Part 8",
-        "url": "https://www.artificiallawyer.com/2026/10/01/the-innovators-lunch-part-8/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-01T07:17:12.000Z",
-        "summary": "The waiter led Katie through the busy City restaurant to where the private dining rooms were. Although it was a scheduled lunch with the managing ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1196,16 +1206,6 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
@@ -1231,16 +1231,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/markets/article/3370073/hong-kong-tech-index-harness-fast-growth-companies-bid-better-performance",
-        "title": "Hong Kong tech index to harness fast-growth companies in bid for better performance",
-        "url": "https://www.scmp.com/business/markets/article/3370073/hong-kong-tech-index-harness-fast-growth-companies-bid-better-performance?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-07T11:34:47.000Z",
-        "summary": "Hong Kong’s stock index compiler will add 10 fast-growing companies with at least HK$500 million (US$64 million) in annual sales into the city’s technology-focused benchmark in a bid to revitalise an index that has misse",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3369757/chinas-ai-race-accelerates-model-fatigue-becomes-next-challenge",
         "title": "As China’s AI race accelerates, ‘model fatigue’ becomes the next challenge",
