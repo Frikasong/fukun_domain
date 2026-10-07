@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T03:30:18.492Z",
+  "generatedAt": "2026-10-07T12:22:28.710Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/07/pilot5-launches-adversarial-ai-for-lawyers",
+        "title": "Pilot5 Launches Adversarial AI for Lawyers",
+        "url": "https://www.artificiallawyer.com/2026/10/07/pilot5-launches-adversarial-ai-for-lawyers/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-07T11:55:51.000Z",
+        "summary": "Although a number of legal tech companies use LLM consensus and multiple model strategies already, Pilot5 and its new adversarial Legal AI product specifically taps ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/07/ivo-launches-open-source-deepseek-contract-ai-model",
+        "title": "Ivo Launches Open-Source DeepSeek Contract AI Model",
+        "url": "https://www.artificiallawyer.com/2026/10/07/ivo-launches-open-source-deepseek-contract-ai-model/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-07T08:50:22.000Z",
+        "summary": "Ivo has launched a super-affordable ‘open-source model for contract work’. Branded as Sage, it was built in partnership with River AI by post-training DeepSeek V4 ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/07/lawvu-launches-lens-total-contract-ai-capability",
+        "title": "LawVu Launches Lens &#8211; Total Contract AI Capability",
+        "url": "https://www.artificiallawyer.com/2026/10/07/lawvu-launches-lens-total-contract-ai-capability/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-07T08:07:29.000Z",
+        "summary": "Inhouse-focused LawVu has launched Lens, an AI contract analysis tool that gives lawyers visibility across a company&#8217;s &#8216;entire contract portfolio, surfacing risks and obligations before ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/07/legora-launches-250-skills-for-legal-agents",
+        "title": "Legora Launches 250+ Skills For Legal Agents",
+        "url": "https://www.artificiallawyer.com/2026/10/07/legora-launches-250-skills-for-legal-agents/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-07T06:49:59.000Z",
+        "summary": "Legora has launched Skills, a way to get much more out of the agents that work within their platform. They&#8217;ve also added a library of ...",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/judicial&",
         "title": "2 judges who couldn&#8217;t get along both removed from bench",
@@ -218,36 +258,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/30/clio-buys-learned-hand-as-judiciary-strategy-expands",
-        "title": "Clio Buys Learned Hand as Judiciary Strategy Expands",
-        "url": "https://www.artificiallawyer.com/2026/09/30/clio-buys-learned-hand-as-judiciary-strategy-expands/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-30T13:53:21.000Z",
-        "summary": "Clio has bought Learned Hand, an AI company focused on supporting judges and the courts. The move is part of its wider strategy to build ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/30/zero-associates-firm-pierson-ferdinand-hits-300-partners",
-        "title": "‘Zero Associates&#8217; Firm Pierson Ferdinand Hits 300 Partners",
-        "url": "https://www.artificiallawyer.com/2026/09/30/zero-associates-firm-pierson-ferdinand-hits-300-partners/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-30T08:15:52.000Z",
-        "summary": "Pierson Ferdinand, a new model law firm that has no associates and instead relies of AI platforms such as Harvey to do the heavy lifting, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/30/the-ai-value-gap-why-your-investment-isnt-paying-off",
-        "title": "The AI Value Gap: Why Your Investment Isn&#8217;t Paying Off",
-        "url": "https://www.artificiallawyer.com/2026/09/30/the-ai-value-gap-why-your-investment-isnt-paying-off/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-30T07:00:36.000Z",
-        "summary": "By James Tuke, CEO, AI Futures Forum. It is late September 2026. Sixteen months ago, our first report established that AI adoption was becoming inevitable ...",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/09/3rd-circuit-issues-opinion-in-thomson-reuters-v-ross-case-but-for-now-it-is-sealed.html",
         "title": "3rd Circuit Issues Opinion in Thomson Reuters v. ROSS Case, But For Now It Is Sealed",
         "url": "https://www.lawnext.com/2026/09/3rd-circuit-issues-opinion-in-thomson-reuters-v-ross-case-but-for-now-it-is-sealed.html",
@@ -264,16 +274,6 @@
         "source": "LawSites",
         "publishedAt": "2026-09-29T16:29:13.000Z",
         "summary": "Section 1: Five Realities Reshaping How Corporate Restructuring Gets Done Corporate restructuring operates at the intersection of legal precision and financial complexity, with stakeholder decisions routinely made under ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/09/29/legalzoom-co-founder-brian-lee-joins-steno-board",
-        "title": "LegalZoom Co-Founder Brian Lee Joins Steno Board",
-        "url": "https://www.artificiallawyer.com/2026/09/29/legalzoom-co-founder-brian-lee-joins-steno-board/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-09-29T14:17:23.000Z",
-        "summary": "AL doesn’t often do board roles, but this is a biggy, so&#8230;..Steno, the court reporting and AI-driven litigation support pioneer, has appointed Brian Lee to ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,26 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/mwqylyzgsid16x36k9ef",
-        "title": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
-        "url": "https://www.infoq.cn/article/MwQyLYzgSiD16x36k9Ef?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-07T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/wvtymucll28hkfvwhpz2",
-        "title": "用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
-        "url": "https://www.infoq.cn/article/WvTYmUCLl28HKFvWHpZ2?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-07T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/vvrszjhevkmpevs7wzzu",
         "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
         "url": "https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&utm_medium=article",
@@ -1248,19 +1228,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/m6brtrsyjvug8y0m0kyh",
-        "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
-        "url": "https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-09-30T20:40:07.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/markets/article/3370073/hong-kong-tech-index-harness-fast-growth-companies-bid-better-performance",
+        "title": "Hong Kong tech index to harness fast-growth companies in bid for better performance",
+        "url": "https://www.scmp.com/business/markets/article/3370073/hong-kong-tech-index-harness-fast-growth-companies-bid-better-performance?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-07T11:34:47.000Z",
+        "summary": "Hong Kong’s stock index compiler will add 10 fast-growing companies with at least HK$500 million (US$64 million) in annual sales into the city’s technology-focused benchmark in a bid to revitalise an index that has misse",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3369757/chinas-ai-race-accelerates-model-fatigue-becomes-next-challenge",
         "title": "As China’s AI race accelerates, ‘model fatigue’ becomes the next challenge",
