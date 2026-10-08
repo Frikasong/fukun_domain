@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T12:31:56.542Z",
+  "generatedAt": "2026-10-08T22:41:06.776Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,146 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/ai&",
+        "title": "AI use changes in-house teams&#8217; approach to work, outside counsel",
+        "url": "https://www.abajournal.com/web/article/ai&#45;use&#45;changes&#45;in&#45;house&#45;counsels&#45;approach&#45;to&#45;work&#45;outside&#45;counsel/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-08T18:48:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/ncbe&",
+        "title": "NCBE runs remotely proctored test to audition NextGen UBE questions",
+        "url": "https://www.abajournal.com/web/article/ncbe&#45;runs&#45;remotely&#45;proctored&#45;test&#45;to&#45;audition&#45;nextgen&#45;ube&#45;questions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-08T17:53:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/brothers&",
+        "title": "Brothers and Bystanders: If fraternities focus on character, why do rape allegations continue?",
+        "url": "https://www.abajournal.com/web/article/brothers&#45;bystanders/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-08T17:20:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/la&",
+        "title": "Judge denies allegations he made inappropriate comments during disciplinary hearing",
+        "url": "https://www.abajournal.com/news/article/la&#45;judge&#45;denies&#45;allegations&#45;that&#45;he&#45;made&#45;inappropriate&#45;comments&#45;about&#45;women&#45;and&#45;blacks&#45;during&#45;disciplinary&#45;hearing/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-08T16:40:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows",
+        "title": "AT&#038;T + OpenAI Partner for Legal AI Workflows",
+        "url": "https://www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-08T16:36:31.000Z",
+        "summary": "AT&#38;T LegalEdge, the telecom giant’s new inhouse legal agency, is partnering with OpenAI to develop AI-enabled legal workflows. Jason Boehmig, GM Legal Industry at OpenAI, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/i-sent-three-law-firms-an-rfp-theres-clearly-a-client-experience-gap.html",
+        "title": "I Sent Three Law Firms an RFP. There&#8217;s Clearly a Client Experience Gap.",
+        "url": "https://www.lawnext.com/2026/10/i-sent-three-law-firms-an-rfp-theres-clearly-a-client-experience-gap.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-08T16:14:07.000Z",
+        "summary": "As a former lawyer, a legal technology CEO, and a paying client of five major law firms, I see how legal services are built, sold, and experienced. Recently, my wife and I sent three firms an RFP for personal legal work.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/arizonas&",
+        "title": "Arizona&#8217;s court system hit by cyberattack",
+        "url": "https://www.abajournal.com/news/article/arizonas&#45;court&#45;system&#45;hit&#45;by&#45;cyberattack/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-08T16:12:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/sexism&",
+        "title": "Sexism alleged in skirmish between lawyers representing Brad Pitt, Angelina Jolie",
+        "url": "https://www.abajournal.com/news/article/sexism&#45;alleged&#45;in&#45;skirmish&#45;between&#45;lawyers&#45;representing&#45;brad&#45;pitt&#45;and&#45;angelina&#45;jolie/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-08T15:53:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/kirkland&",
+        "title": "Kirkland & Ellis will no longer share financial performance with media",
+        "url": "https://www.abajournal.com/news/article/kirkland&#45;ellis&#45;will&#45;no&#45;longer&#45;share&#45;financial&#45;performance&#45;with&#45;media/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-08T15:28:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/delaware&",
+        "title": "2 senators call for review of federal judge&#8217;s work at PR agency",
+        "url": "https://www.abajournal.com/news/article/delaware&#45;senators&#45;call&#45;for&#45;review&#45;of&#45;judges&#45;work&#45;at&#45;pr&#45;firm/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-08T15:16:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/what&",
+        "title": "What happens next in Jane Doe&#8217;s case against Cornell, the Cornell Seven?",
+        "url": "https://www.abajournal.com/web/article/what&#45;happens&#45;next&#45;in&#45;jane&#45;does&#45;case&#45;against&#45;cornell&#45;the&#45;cornell&#45;seven/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-08T14:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/alaska&",
+        "title": "Attorney sentenced to 20 years in prison for drug trafficking",
+        "url": "https://www.abajournal.com/news/article/alaska&#45;attorney&#45;sentenced&#45;to&#45;20&#45;years&#45;for&#45;drug&#45;trafficking/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-08T14:46:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/08/legal-front-door-coheso-launches-memory-al-interview",
+        "title": "Legal Front Door Coheso Launches Memory + AL Interview",
+        "url": "https://www.artificiallawyer.com/2026/10/08/legal-front-door-coheso-launches-memory-al-interview/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-08T13:50:32.000Z",
+        "summary": "Coheso, the legal front door pioneer, has launched Memory, which turns resolved legal requests into institutional knowledge. See AL Interview with CEO, Ned Gannon, below. ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/pollo-ai",
+        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "url": "https://openai.com/index/pollo-ai",
+        "source": "OpenAI News",
+        "publishedAt": "2026-10-08T12:00:00.000Z",
+        "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/08/openai-decisions-cheaper-bulk-review-for-lawyers",
         "title": "OpenAI Decisions – Cheaper Bulk Review For Lawyers",
@@ -24,66 +164,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-08T07:55:30.000Z",
         "summary": "Legal Innovators UK, on November 4 and 5 in London at the Minster Building, is right around the corner and Express Registration is now open ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/texas&",
-        "title": "Texas Supreme Court could allow AI-generated transcripts of depositions",
-        "url": "https://www.abajournal.com/news/article/texas&#45;supreme&#45;court&#45;could&#45;allow&#45;ai&#45;generated&#45;transcripts&#45;of&#45;depositions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-07T18:56:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/roberts&",
-        "title": "Chief Justice Roberts moves oldest active federal judge&#8217;s fitness investigation to 11th Circuit",
-        "url": "https://www.abajournal.com/news/article/roberts&#45;moves&#45;pauline&#45;newman&#45;fitness&#45;investigation&#45;to&#45;the&#45;eleventh&#45;circuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-07T16:57:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/lawyer&",
-        "title": "Lawyer says he was set up by cops while traveling to what he thought was business meeting",
-        "url": "https://www.abajournal.com/web/article/lawyer&#45;says&#45;he&#45;was&#45;set&#45;up&#45;by&#45;cops&#45;while&#45;traveling&#45;to&#45;what&#45;he&#45;thought&#45;was&#45;a&#45;business&#45;meeting/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-07T15:37:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ex&",
-        "title": "Ex-public defender assistant arrested on charges of impersonating lawyer",
-        "url": "https://www.abajournal.com/news/article/ex&#45;public&#45;defender&#45;assistant&#45;arrested&#45;on&#45;charges&#45;of&#45;impersonating&#45;a&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-07T14:56:00.000Z",
-        "summary": "",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
-        "title": "DOJ lawyers told to replace term &#8216;AI&#8217; with &#8216;super intelligence&#8217;",
-        "url": "https://www.abajournal.com/news/article/doj&#45;lawyers&#45;told&#45;to&#45;use&#45;the&#45;words&#45;super&#45;intelligence&#45;instead&#45;of&#45;ai/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-07T14:36:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/voice/article/the&",
-        "title": "The case of Julius Caesar v. the Roman Republic",
-        "url": "https://www.abajournal.com/voice/article/the&#45;case&#45;of&#45;julius&#45;caesar&#45;v&#45;the&#45;roman&#45;republic/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-07T14:08:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -138,46 +218,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/judicial&",
-        "title": "2 judges who couldn&#8217;t get along both removed from bench",
-        "url": "https://www.abajournal.com/web/article/judicial&#45;beef&#45;leads&#45;to&#45;removals&#45;for&#45;both/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-06T18:51:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/sotomayor&",
-        "title": "Justice Sotomayor criticizes judge who ordered juror&#8217;s arrest in front of jury pool",
-        "url": "https://www.abajournal.com/news/article/sotomayor&#45;criticizes&#45;alabama&#45;judge&#45;who&#45;ordered&#45;jurors&#45;arrest&#45;in&#45;front&#45;of&#45;jury&#45;pool/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-06T16:58:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/after&",
-        "title": "After firing basketball coach, Kansas State University agrees to pay him $12M",
-        "url": "https://www.abajournal.com/news/article/after&#45;firing&#45;basketball&#45;coach&#45;kansas&#45;state&#45;agrees&#45;to&#45;pay&#45;him&#45;12&#45;million/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-06T16:38:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
-        "title": "Federal lawsuit targets McDonald&#8217;s for alleged use of AI to hike prices",
-        "url": "https://www.abajournal.com/news/article/federal&#45;lawsuit&#45;targets&#45;mcdonalds&#45;for&#45;alleged&#45;use&#45;of&#45;ai&#45;to&#45;hike&#45;prices/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-06T16:13:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/05/want-to-join-an-evolution",
         "title": "Want To Join An Evolution?",
         "url": "https://www.artificiallawyer.com/2026/10/05/want-to-join-an-evolution/",
@@ -204,26 +244,6 @@
         "source": "LawSites",
         "publishedAt": "2026-10-02T15:49:38.000Z",
         "summary": "Relativity is holding firm on its plan to require that all new matters be hosted in the cloud beginning Jan. 1, 2028, CEO Phil Saunders said Thursday, and he had a blunt message for partners who are not on board: &#8220;",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets",
-        "title": "Jev + the SOM Revolution, Legal Innovators UK Express Tickets +",
-        "url": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-02T07:56:34.000Z",
-        "summary": "We start the Wrap with an exploration of the newly arrived SOM – or System One Model. A revolution that is sweeping the tech world, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/02/wim-dejonghe-ex-ao-boss-backs-falcon-al-interview",
-        "title": "Wim Dejonghe, Ex-A&#038;O Boss, Backs Falcon + AL Interview",
-        "url": "https://www.artificiallawyer.com/2026/10/02/wim-dejonghe-ex-ao-boss-backs-falcon-al-interview/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-02T06:29:26.000Z",
-        "summary": "Wim Dejonghe, who was the global senior partner of the former Allen &#38; Overy, has backed a new model law firm – Falcon – with ...",
         "category": "updates",
         "region": "na"
       },
@@ -1168,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/06/thomson-reuters-future-of-professionals-report-warns-of-widening-gap-between-ai-adoption-and-ai-value.html",
-        "title": "Thomson Reuters &#8216;Future of Professionals&#8217; Report Warns of Widening Gap Between AI Adoption and AI Value",
-        "url": "https://www.lawnext.com/2026/06/thomson-reuters-future-of-professionals-report-warns-of-widening-gap-between-ai-adoption-and-ai-value.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-22T12:19:19.000Z",
-        "summary": "Most professionals are now using artificial intelligence at work, but far fewer are getting much value out of it, according to new research from Thomson Reuters. And the cost of that shortfall is starting to show up in l",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1196,16 +1206,6 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
@@ -1221,26 +1221,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3370203/amid-battle-ai-edge-hong-kong-presses-hsbc-over-singapore-hub-decision-sources",
-        "title": "Amid battle for AI edge, Hong Kong presses HSBC over Singapore hub decision: sources",
-        "url": "https://www.scmp.com/business/banking-finance/article/3370203/amid-battle-ai-edge-hong-kong-presses-hsbc-over-singapore-hub-decision-sources?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-08T12:00:11.000Z",
-        "summary": "As Hong Kong and Singapore compete for leadership in businesses ranging from foreign exchange trading to wealth management, the battleground has extended to artificial intelligence, with both cities vying to attract inve",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts",
-        "title": "Alibaba’s AI cloud revenue set to surge over 50% as investment blitz pays off: analysts",
-        "url": "https://www.scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-08T11:30:22.000Z",
-        "summary": "Alibaba Group Holding is expected to report a 50 per cent revenue surge for its cloud and artificial intelligence unit for the September quarter, driven by strong returns on its aggressive AI investments, according to an",
-        "category": "articles",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3369757/chinas-ai-race-accelerates-model-fatigue-becomes-next-challenge",
         "title": "As China’s AI race accelerates, ‘model fatigue’ becomes the next challenge",
