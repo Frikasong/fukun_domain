@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T22:28:02.256Z",
+  "generatedAt": "2026-10-08T03:44:59.868Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,27 +1210,67 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/vvrszjhevkmpevs7wzzu",
-        "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
-        "url": "https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/aj7cganqf4pxvtbbtyiv",
+        "title": "AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+        "url": "https://www.infoq.cn/article/aJ7cgaNqf4pXVtbbtYiv?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-01T11:00:00.000Z",
+        "publishedAt": "2026-10-08T11:08:39.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/tljncybg9z72hv5kj2kp",
-        "title": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
-        "url": "https://www.infoq.cn/article/TLjNcyBg9Z72HV5kJ2kp?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/0wk4g4czwbhgydenoqpv",
+        "title": "海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+        "url": "https://www.infoq.cn/article/0wk4G4cZwbHgYdeNoQPV?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-01T10:00:00.000Z",
+        "publishedAt": "2026-10-08T10:35:29.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/akexm07hznrrjzmjynml",
+        "title": "从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+        "url": "https://www.infoq.cn/article/akexM07HzNrRJzmjYNml?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-08T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/4amw7bt3uhqw48qmqtps",
+        "title": "两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
+        "url": "https://www.infoq.cn/article/4AMw7Bt3UHqw48qmQTpS?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-08T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/rlax4demurxqw135zssc",
+        "title": "代码交给AI，心流却回来了：Codex负责人不再怀念手写时代",
+        "url": "https://www.infoq.cn/article/rLaX4DEMuRxqW135ZSSC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-08T09:35:10.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3370035/more-global-investors-eye-chinese-equities-ending-4-year-underweight-run-bank-says",
+        "title": "More global investors eye Chinese equities, ending 4-year underweight run, bank says",
+        "url": "https://www.scmp.com/business/china-business/article/3370035/more-global-investors-eye-chinese-equities-ending-4-year-underweight-run-bank-says?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-08T01:00:17.000Z",
+        "summary": "Global investors are taking another look at Chinese equities after years of cautious positioning, drawn by relatively cheap valuations and opportunities in artificial intelligence, although an end to persistent selling d",
+        "category": "articles",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3369757/chinas-ai-race-accelerates-model-fatigue-becomes-next-challenge",
         "title": "As China’s AI race accelerates, ‘model fatigue’ becomes the next challenge",
