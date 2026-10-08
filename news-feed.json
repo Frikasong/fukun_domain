@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T03:44:59.868Z",
+  "generatedAt": "2026-10-08T12:31:56.542Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/08/openai-decisions-cheaper-bulk-review-for-lawyers",
+        "title": "OpenAI Decisions – Cheaper Bulk Review For Lawyers",
+        "url": "https://www.artificiallawyer.com/2026/10/08/openai-decisions-cheaper-bulk-review-for-lawyers/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-08T09:30:27.000Z",
+        "summary": "OpenAI has launched Decisions, its own decision system which will compete with the likes of Jev (see here). It could potentially reduce AI costs for ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/08/express-registration-opens-for-legal-innovators-uk-nov-4-5",
+        "title": "Express Registration Opens for Legal Innovators UK – Nov 4 + 5",
+        "url": "https://www.artificiallawyer.com/2026/10/08/express-registration-opens-for-legal-innovators-uk-nov-4-5/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-08T07:55:30.000Z",
+        "summary": "Legal Innovators UK, on November 4 and 5 in London at the Minster Building, is right around the corner and Express Registration is now open ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/texas&",
         "title": "Texas Supreme Court could allow AI-generated transcripts of depositions",
@@ -225,26 +245,6 @@
         "publishedAt": "2026-10-01T15:51:13.000Z",
         "summary": "I am thrilled to announce that I will be serving as emcee for the Masters AI conference in Dallas on Oct. 7, as well as for subsequent dates in Philadelphia on Nov. 11 and Miami on Dec. 8. This is an AI conference that i",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/01/new-model-law-firm-arceus-raises-17m",
-        "title": "New Model Law Firm Arceus Raises $17m",
-        "url": "https://www.artificiallawyer.com/2026/10/01/new-model-law-firm-arceus-raises-17m/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-01T15:00:13.000Z",
-        "summary": "It’s raining new model law firms! And here is Arceus, which launched this year and has just announced a $17 million fundraise led by Greycroft. ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/01/opus-2-buys-bundledocs-al-interview",
-        "title": "Opus 2 Buys Bundledocs + AL Interview",
-        "url": "https://www.artificiallawyer.com/2026/10/01/opus-2-buys-bundledocs-al-interview/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-01T09:00:18.000Z",
-        "summary": "Opus 2, the pioneering litigation platform, has acquired Bundledocs, the widely-used document bundling system. The move marks the company’s third M&#38;A deal in recent years, ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1210,16 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/aj7cganqf4pxvtbbtyiv",
-        "title": "AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
-        "url": "https://www.infoq.cn/article/aJ7cgaNqf4pXVtbbtYiv?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-08T11:08:39.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/0wk4g4czwbhgydenoqpv",
         "title": "海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
         "url": "https://www.infoq.cn/article/0wk4G4cZwbHgYdeNoQPV?utm_source=rss&utm_medium=article",
@@ -1228,46 +1218,26 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/akexm07hznrrjzmjynml",
-        "title": "从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
-        "url": "https://www.infoq.cn/article/akexM07HzNrRJzmjYNml?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-08T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/4amw7bt3uhqw48qmqtps",
-        "title": "两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
-        "url": "https://www.infoq.cn/article/4AMw7Bt3UHqw48qmQTpS?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-08T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/rlax4demurxqw135zssc",
-        "title": "代码交给AI，心流却回来了：Codex负责人不再怀念手写时代",
-        "url": "https://www.infoq.cn/article/rLaX4DEMuRxqW135ZSSC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-08T09:35:10.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3370035/more-global-investors-eye-chinese-equities-ending-4-year-underweight-run-bank-says",
-        "title": "More global investors eye Chinese equities, ending 4-year underweight run, bank says",
-        "url": "https://www.scmp.com/business/china-business/article/3370035/more-global-investors-eye-chinese-equities-ending-4-year-underweight-run-bank-says?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3370203/amid-battle-ai-edge-hong-kong-presses-hsbc-over-singapore-hub-decision-sources",
+        "title": "Amid battle for AI edge, Hong Kong presses HSBC over Singapore hub decision: sources",
+        "url": "https://www.scmp.com/business/banking-finance/article/3370203/amid-battle-ai-edge-hong-kong-presses-hsbc-over-singapore-hub-decision-sources?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-10-08T01:00:17.000Z",
-        "summary": "Global investors are taking another look at Chinese equities after years of cautious positioning, drawn by relatively cheap valuations and opportunities in artificial intelligence, although an end to persistent selling d",
+        "publishedAt": "2026-10-08T12:00:11.000Z",
+        "summary": "As Hong Kong and Singapore compete for leadership in businesses ranging from foreign exchange trading to wealth management, the battleground has extended to artificial intelligence, with both cities vying to attract inve",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts",
+        "title": "Alibaba’s AI cloud revenue set to surge over 50% as investment blitz pays off: analysts",
+        "url": "https://www.scmp.com/tech/big-tech/article/3370209/alibabas-ai-cloud-revenue-set-surge-over-50-investment-blitz-pays-analysts?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-08T11:30:22.000Z",
+        "summary": "Alibaba Group Holding is expected to report a 50 per cent revenue surge for its cloud and artificial intelligence unit for the September quarter, driven by strong returns on its aggressive AI investments, according to an",
         "category": "articles",
         "region": "cn_en"
       },
