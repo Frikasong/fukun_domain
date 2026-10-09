@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T03:50:41.296Z",
+  "generatedAt": "2026-10-09T12:20:12.740Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/09/harvey-lexis-google-cooley-li-uk-tickets",
+        "title": "Harvey + Lexis, Google + Cooley, LI UK Tickets",
+        "url": "https://www.artificiallawyer.com/2026/10/09/harvey-lexis-google-cooley-li-uk-tickets/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-09T07:36:11.000Z",
+        "summary": "We start this week’s Wrap with several chunky news stories, including a new capability jointly built by Harvey and LexisNexis – plus, the announcement that ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/ai&",
         "title": "AI use changes in-house teams&#8217; approach to work, outside counsel",
@@ -205,16 +215,6 @@
         "publishedAt": "2026-10-07T06:49:59.000Z",
         "summary": "Legora has launched Skills, a way to get much more out of the agents that work within their platform. They&#8217;ve also added a library of ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/05/want-to-join-an-evolution",
-        "title": "Want To Join An Evolution?",
-        "url": "https://www.artificiallawyer.com/2026/10/05/want-to-join-an-evolution/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-05T06:54:50.000Z",
-        "summary": "Imagine a law firm where the goal is to continually increase the speed of work for the clients by learning from each matter, thus creating ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,6 +1210,46 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/dqy1xkmrupvj1xh7pohu",
+        "title": "黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
+        "url": "https://www.infoq.cn/article/dQy1xkMRuPVj1Xh7Pohu?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-09T17:53:58.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/e0iqfjngepz7vigrdd61",
+        "title": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+        "url": "https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-09T17:39:38.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/490gis9bk0nmyln7git1",
+        "title": "@ 一下就能派活？谷歌推出办公 Agent，拥有独立账号、能够创建子 Agent，还能调用 Claude",
+        "url": "https://www.infoq.cn/article/490gIS9Bk0NmylN7GIt1?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-09T17:15:07.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/tor9ik2xesfgf1x3cado",
+        "title": "Modal 破解 Kubernetes 限制，在几秒内扩展 100 万个并发沙箱",
+        "url": "https://www.infoq.cn/article/tor9ik2Xesfgf1x3CadO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-09T17:10:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/plewse6sevimn99ile93",
         "title": "从 Demo 到生产：AI Agent 缺的到底是什么？",
         "url": "https://www.infoq.cn/article/PLEWse6sEviMN99iLE93?utm_source=rss&utm_medium=article",
@@ -1220,31 +1260,11 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/kjpicqv1coo6azaojior",
-        "title": "全球扩散语言模型最大融资诞生：经纬、顺为、君联数亿元押注扩散智能DiffuSpace",
-        "url": "https://www.infoq.cn/article/kjPiCQV1cOO6AzaOjioR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-09T11:07:57.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/832rv3o8ireedjpo9h4v",
         "title": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
         "url": "https://www.infoq.cn/article/832RV3o8ireEdJpO9H4v?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-10-09T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/0wk4g4czwbhgydenoqpv",
-        "title": "海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
-        "url": "https://www.infoq.cn/article/0wk4G4cZwbHgYdeNoQPV?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-08T10:35:29.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
