@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:03:04.221Z",
+  "generatedAt": "2026-10-10T03:34:00.199Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,16 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/0liyfbyjtkttvmpdvkwc",
+        "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "url": "https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-10T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/e0iqfjngepz7vigrdd61",
         "title": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
