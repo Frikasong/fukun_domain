@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T03:06:54.308Z",
+  "generatedAt": "2026-10-11T11:52:01.748Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,11 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/sorobi5sjdttum95zljk",
-        "title": "利用 AI 代码智能体优化软件架构的五种方法",
-        "url": "https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/2sngaihok808v22dl5sj",
+        "title": "Uber 在 Kubernetes 平台上将扩容意图与执行操作解耦",
+        "url": "https://www.infoq.cn/article/2SNgaiHoK808v22dl5SJ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-11T10:04:31.000Z",
+        "publishedAt": "2026-10-11T15:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1248,29 +1248,9 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/e0iqfjngepz7vigrdd61",
-        "title": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
-        "url": "https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-09T17:39:38.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom",
-        "title": "Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-11T03:04:32.000Z",
-        "summary": "Japanese semiconductor materials giant Sumitomo Bakelite plans to expand production of advanced chip packaging materials in China and Singapore, marking the second such announcement for its Chinese operations in less tha",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3369757/chinas-ai-race-accelerates-model-fatigue-becomes-next-challenge",
         "title": "As China’s AI race accelerates, ‘model fatigue’ becomes the next challenge",
