@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T13:59:27.816Z",
+  "generatedAt": "2026-10-12T23:58:57.796Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/no-more-than-an-ordinary-copyright-case-3rd-circuit-unseals-its-opinion-in-thomson-reuters-case-against-ross.html",
+        "title": "&#8216;No More Than an Ordinary Copyright Case&#8217; &#8212; 3rd Circuit Unseals Its Opinion In Thomson Reuters Case Against ROSS",
+        "url": "https://www.lawnext.com/2026/10/no-more-than-an-ordinary-copyright-case-3rd-circuit-unseals-its-opinion-in-thomson-reuters-case-against-ross.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-12T16:39:41.000Z",
+        "summary": "Perhaps this is the way the case will end, not with a bang but a whimper. With apologies to T. S. Eliot, that was my reaction when I read the 3rd U.S. Circuit Court of Appeals’ assessment of the 6.5-year battle between l",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/judge&",
+        "title": "Judge agrees to retire after allegations of drinking on the job, case delays and retaliation threats",
+        "url": "https://www.abajournal.com/web/article/judge&#45;agrees&#45;to&#45;retire&#45;following&#45;allegations&#45;of&#45;drinking&#45;on&#45;the&#45;job&#45;delaying&#45;cases&#45;and&#45;threats&#45;of&#45;retaliation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-12T16:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/claude&",
+        "title": "Claude provided false tip in unsolved murder case, Anthropic says",
+        "url": "https://www.abajournal.com/news/article/claude&#45;provided&#45;false&#45;tip&#45;in&#45;unsolved&#45;murder&#45;case&#45;anthropic&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-12T13:44:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/10/ken-crutchfield-taking-biglaw-private-the-implications-of-kirklands-decision-to-stop-disclosing-financials.html",
         "title": "Ken Crutchfield: Taking BigLaw Private? The Implications Of Kirkland’s Decision To Stop Disclosing Financials",
@@ -103,26 +133,6 @@
         "url": "https://www.abajournal.com/web/article/ai&#45;use&#45;changes&#45;in&#45;house&#45;counsels&#45;approach&#45;to&#45;work&#45;outside&#45;counsel/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-10-08T18:48:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/ncbe&",
-        "title": "NCBE runs remotely proctored test to audition NextGen UBE questions",
-        "url": "https://www.abajournal.com/web/article/ncbe&#45;runs&#45;remotely&#45;proctored&#45;test&#45;to&#45;audition&#45;nextgen&#45;ube&#45;questions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-08T17:53:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/brothers&",
-        "title": "Brothers and Bystanders: If fraternities focus on character, why do rape allegations continue?",
-        "url": "https://www.abajournal.com/web/article/brothers&#45;bystanders/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-08T17:20:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -263,7 +273,7 @@
         "url": "https://www.lawnext.com/2026/09/3rd-circuit-rules-for-thomson-reuters-in-its-copyright-fight-against-legal-research-startup-ross.html",
         "source": "LawSites",
         "publishedAt": "2026-09-30T19:29:33.000Z",
-        "summary": "Yesterday I noted that th 3rd U.S. Circuit Court of Appeals had issued an opinion in the long-running copyright battle between Thomson Reuters and the now-shuttered AI legal research company ROSS Intelligence, but that t",
+        "summary": "Yesterday I noted that the 3rd U.S. Circuit Court of Appeals had issued an opinion in the long-running copyright battle between Thomson Reuters and the now-shuttered AI legal research company ROSS Intelligence, but that ",
         "category": "articles",
         "region": "na"
       },
@@ -1158,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/06/deal-intelligence-platform-centari-adds-amendment-awareness-and-deal-maps-features-that-deepen-its-multi-document-analysis.html",
-        "title": "Deal-Intelligence Platform Centari Adds Amendment Awareness and Deal Maps, Features that Deepen Its Multi-Document Analysis",
-        "url": "https://www.lawnext.com/2026/06/deal-intelligence-platform-centari-adds-amendment-awareness-and-deal-maps-features-that-deepen-its-multi-document-analysis.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-23T12:28:32.000Z",
-        "summary": "Centari, an AI platform for managing complex transactions, today launched two capabilities, Amendment Awareness and Deal Maps, that help attorneys understand how transactions change over time and how documents relate to ",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1240,17 +1240,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/money/wealth/article/3370565/former-hsbc-executive-launches-wealth-platform-powered-team-ai-agents",
-        "title": "Former HSBC executive launches wealth platform powered by team of AI agents",
-        "url": "https://www.scmp.com/business/money/wealth/article/3370565/former-hsbc-executive-launches-wealth-platform-powered-team-ai-agents?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-12T09:00:09.000Z",
-        "summary": "A former top executive at HSBC has launched an artificial intelligence-driven wealth management start-up, setting her sights on a billion-dollar valuation and betting that AI can transform how individuals manage their in",
-        "category": "tools",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
