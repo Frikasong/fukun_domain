@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T21:17:24.457Z",
+  "generatedAt": "2026-10-12T03:30:08.666Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,36 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/h86bnjsbdjrbywxp4xgt",
+        "title": "Radicle 披露了可能导致私有仓库以明文形式暴露的关键漏洞",
+        "url": "https://www.infoq.cn/article/h86bNjSBdJRBYwxP4Xgt?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-12T10:15:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/4hyrs8shakpahyztgq92",
+        "title": "阿里巴巴中国电商事业群/飞猪CTO陈烨博士已确认出席QCon上海，分享“从 Coding 到消费：AI 的下一场革命”",
+        "url": "https://www.infoq.cn/article/4hYrs8ShAKPAhyzTGQ92?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-12T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/csnmcsceutwcgqhzcl7d",
+        "title": "Artifactory 漏洞正被积极利用，可以绕过身份验证并获取管理员权限",
+        "url": "https://www.infoq.cn/article/CSNMcSceutWCGQhZcL7D?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-12T09:05:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/2sngaihok808v22dl5sj",
         "title": "Uber 在 Kubernetes 平台上将扩容意图与执行操作解耦",
