@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T03:30:08.666Z",
+  "generatedAt": "2026-10-12T13:59:27.816Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/ken-crutchfield-taking-biglaw-private-the-implications-of-kirklands-decision-to-stop-disclosing-financials.html",
+        "title": "Ken Crutchfield: Taking BigLaw Private? The Implications Of Kirkland’s Decision To Stop Disclosing Financials",
+        "url": "https://www.lawnext.com/2026/10/ken-crutchfield-taking-biglaw-private-the-implications-of-kirklands-decision-to-stop-disclosing-financials.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-12T13:21:30.000Z",
+        "summary": "Kirkland &#38; Ellis made headlines again when it stated it will no longer disclose financial information to The American Lawyer magazine and other media after 2026. Firm leadership said financial disclosures could put t",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
+        "title": "Florida can continue to charge veteran lawyers more to take bar exam, appeals court rules",
+        "url": "https://www.abajournal.com/news/article/florida&#45;can&#45;continue&#45;to&#45;charge&#45;veteran&#45;lawyers&#45;more&#45;to&#45;take&#45;bar&#45;exam&#45;appeals&#45;court&#45;rules/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-12T12:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/12/legal-ai-vs-the-adversarial-incentive",
+        "title": "Legal AI vs The Adversarial Incentive",
+        "url": "https://www.artificiallawyer.com/2026/10/12/legal-ai-vs-the-adversarial-incentive/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-12T07:29:40.000Z",
+        "summary": "Most major law firms use legal AI tools, yet there has been little significant change to how those firms operate. Why is that? The answer ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/lawyer&",
         "title": "Lawyer sober since 2020 asks discipline board to lift suspension",
@@ -98,16 +128,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/la&",
-        "title": "Judge denies allegations he made inappropriate comments during disciplinary hearing",
-        "url": "https://www.abajournal.com/news/article/la&#45;judge&#45;denies&#45;allegations&#45;that&#45;he&#45;made&#45;inappropriate&#45;comments&#45;about&#45;women&#45;and&#45;blacks&#45;during&#45;disciplinary&#45;hearing/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-08T16:40:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows",
         "title": "AT&#038;T + OpenAI Partner for Legal AI Workflows",
         "url": "https://www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows/",
@@ -124,16 +144,6 @@
         "source": "LawSites",
         "publishedAt": "2026-10-08T16:14:07.000Z",
         "summary": "As a former lawyer, a legal technology CEO, and a paying client of five major law firms, I see how legal services are built, sold, and experienced. Recently, my wife and I sent three firms an RFP for personal legal work.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/arizonas&",
-        "title": "Arizona&#8217;s court system hit by cyberattack",
-        "url": "https://www.abajournal.com/news/article/arizonas&#45;court&#45;system&#45;hit&#45;by&#45;cyberattack/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-08T16:12:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -204,16 +214,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-07T08:07:29.000Z",
         "summary": "Inhouse-focused LawVu has launched Lens, an AI contract analysis tool that gives lawyers visibility across a company&#8217;s &#8216;entire contract portfolio, surfacing risks and obligations before ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/07/legora-launches-250-skills-for-legal-agents",
-        "title": "Legora Launches 250+ Skills For Legal Agents",
-        "url": "https://www.artificiallawyer.com/2026/10/07/legora-launches-250-skills-for-legal-agents/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-07T06:49:59.000Z",
-        "summary": "Legora has launched Skills, a way to get much more out of the agents that work within their platform. They&#8217;ve also added a library of ...",
         "category": "tools",
         "region": "na"
       },
@@ -1168,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/06/thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel-legal-saying-beta-users-fing-loved-the-product.html",
-        "title": "Thomson Reuters Opens Early Access to the &#8216;Next Generation&#8217; of CoCounsel Legal, Saying Beta Users ‘F#@%ing Loved’ the Product",
-        "url": "https://www.lawnext.com/2026/06/thomson-reuters-opens-early-access-to-the-next-generation-of-cocounsel-legal-saying-beta-users-fing-loved-the-product.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-22T16:04:39.000Z",
-        "summary": "Thomson Reuters is opening early access this week to what it calls the next generation of CoCounsel Legal, the most substantial reworking of its flagship legal AI assistant since the company acquired the product as part ",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1206,39 +1196,19 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/h86bnjsbdjrbywxp4xgt",
-        "title": "Radicle 披露了可能导致私有仓库以明文形式暴露的关键漏洞",
-        "url": "https://www.infoq.cn/article/h86bNjSBdJRBYwxP4Xgt?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-12T10:15:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/4hyrs8shakpahyztgq92",
-        "title": "阿里巴巴中国电商事业群/飞猪CTO陈烨博士已确认出席QCon上海，分享“从 Coding 到消费：AI 的下一场革命”",
-        "url": "https://www.infoq.cn/article/4hYrs8ShAKPAhyzTGQ92?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-12T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/csnmcsceutwcgqhzcl7d",
-        "title": "Artifactory 漏洞正被积极利用，可以绕过身份验证并获取管理员权限",
-        "url": "https://www.infoq.cn/article/CSNMcSceutWCGQhZcL7D?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-12T09:05:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/2sngaihok808v22dl5sj",
         "title": "Uber 在 Kubernetes 平台上将扩容意图与执行操作解耦",
@@ -1268,26 +1238,16 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/sobot9tsckgljlbs519y",
-        "title": "比 Astra 还贵！GPT-6.1 Sol 极速版上线，社区吐槽：“500 美元套餐都撑不过一天”",
-        "url": "https://www.infoq.cn/article/soBOt9TSckGlJlBS519y?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-10T13:15:26.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3369757/chinas-ai-race-accelerates-model-fatigue-becomes-next-challenge",
-        "title": "As China’s AI race accelerates, ‘model fatigue’ becomes the next challenge",
-        "url": "https://www.scmp.com/tech/big-tech/article/3369757/chinas-ai-race-accelerates-model-fatigue-becomes-next-challenge?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/business/money/wealth/article/3370565/former-hsbc-executive-launches-wealth-platform-powered-team-ai-agents",
+        "title": "Former HSBC executive launches wealth platform powered by team of AI agents",
+        "url": "https://www.scmp.com/business/money/wealth/article/3370565/former-hsbc-executive-launches-wealth-platform-powered-team-ai-agents?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-10-06T12:00:07.000Z",
-        "summary": "On September 22, the global artificial intelligence landscape spun on its axis within a matter of hours. In Beijing, Xiaomi engineers went live with an unusual broadcast, streaming the training run of their new MiMo-V2.6",
+        "publishedAt": "2026-10-12T09:00:09.000Z",
+        "summary": "A former top executive at HSBC has launched an artificial intelligence-driven wealth management start-up, setting her sights on a billion-dollar valuation and betting that AI can transform how individuals manage their in",
         "category": "tools",
         "region": "cn_en"
       }
