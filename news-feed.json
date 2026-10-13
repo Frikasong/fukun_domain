@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T13:14:52.832Z",
+  "generatedAt": "2026-10-13T22:07:21.861Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,106 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/afghan&",
+        "title": "Afghan lawyer launches nonprofit to help others while also pursuing US legal education",
+        "url": "https://www.abajournal.com/web/article/afghan&#45;lawyer&#45;launches&#45;nonprofit&#45;to&#45;help&#45;others&#45;while&#45;also&#45;pursuing&#45;u.s&#45;legal&#45;education/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-13T19:56:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/a&",
+        "title": "A &#8216;Spirit of Amity&#8217; and the Original Meaning of Civility: Derek Webb&#8217;s thoughts at ABA Annual",
+        "url": "https://www.abajournal.com/columns/article/a&#45;spirit&#45;of&#45;amity&#45;and&#45;the&#45;original&#45;meaning&#45;of&#45;civility/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-13T19:50:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/tennessee&",
+        "title": "Appeals court overturns manslaughter conviction in killing of Black trans woman",
+        "url": "https://www.abajournal.com/news/article/tennessee&#45;appeals&#45;court&#45;overturns&#45;manslaughter&#45;conviction&#45;in&#45;killing&#45;of&#45;trans&#45;woman/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-13T18:25:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/the&",
+        "title": "The Burton Book Review: &#8216;Anthony M. Kennedy, Life, Law & Liberty: A Memoir&#8217;",
+        "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;anthony&#45;m&#45;kennedy&#45;life&#45;law&#45;liberty&#45;a&#45;memoir/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-13T17:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/grand&",
+        "title": "Grand Canyon University names founding dean of new law school",
+        "url": "https://www.abajournal.com/news/article/grand&#45;canyon&#45;university&#45;picks&#45;founding&#45;law&#45;dean/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-13T15:59:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/legora-and-laurel-partner-to-enable-automatic-time-capture-will-later-develop-measures-of-legoras-value-to-firms.html",
+        "title": "Legora and Laurel Partner to Enable Automatic Time Capture; Will Later Develop Measures of Legora&#8217;s Value to Firms",
+        "url": "https://www.lawnext.com/2026/10/legora-and-laurel-partner-to-enable-automatic-time-capture-will-later-develop-measures-of-legoras-value-to-firms.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-13T15:30:30.000Z",
+        "summary": "Legal professionals will now be able to automatically record the time they spend working in the legal AI platform Legora, as the result of a new partnership with the AI timekeeping platform Laurel. With this partnership,",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/west&",
+        "title": "Attorney questioned over AI errors in parental rights appeal",
+        "url": "https://www.abajournal.com/news/article/west&#45;virginia&#45;attorney&#45;questioned&#45;over&#45;ai&#45;errors&#45;in&#45;parental&#45;rights&#45;appeal/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-13T15:04:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/michigan&",
+        "title": "Judge&#8217;s CPR rescue leads to courthouse training",
+        "url": "https://www.abajournal.com/news/article/michigan&#45;judges&#45;cpr&#45;rescue&#45;leads&#45;to&#45;courthouse&#45;training/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-13T14:48:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/dog&",
+        "title": "Dog attack case comes back to bite attorneys in malpractice lawsuit",
+        "url": "https://www.abajournal.com/news/article/dog&#45;attack&#45;case&#45;comes&#45;back&#45;to&#45;bite&#45;attorneys&#45;in&#45;malpractice&#45;lawsuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-13T14:29:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html",
+        "title": "Former Big Law M&#038;A Lawyer Launches useABI, an AI &#8216;Associate&#8217; That Produces Deal Docs Without Prompting",
+        "url": "https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-13T14:01:19.000Z",
+        "summary": "A former mergers-and-acquisitions lawyer at Greenberg Traurig today launched useABI, a legal AI platform for M&#38;A lawyers that is designed to function not as just another AI assistant but as something closer to a work",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/10/in-first-major-release-since-paychex-acquisition-sixfifty-launches-agentic-hr-compliance-feature.html",
         "title": "In First Major Release Since PayChex Acquisition, SixFifty Launches Agentic HR Compliance Feature",
@@ -25,6 +125,16 @@
         "publishedAt": "2026-10-13T13:01:21.000Z",
         "summary": "Steno, the AI-enabled court reporting and litigation support company, has launched the open beta of Litigation Genius – see AL TV Product Walk Through below. ...",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/higgsfield-longer-videos-voice",
+        "title": "Higgsfield takes AI video from 1 minute to over 10",
+        "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+        "source": "OpenAI News",
+        "publishedAt": "2026-10-13T12:00:00.000Z",
+        "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -128,16 +238,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
-        "title": "Florida can continue to charge veteran lawyers more to take bar exam, appeals court rules",
-        "url": "https://www.abajournal.com/news/article/florida&#45;can&#45;continue&#45;to&#45;charge&#45;veteran&#45;lawyers&#45;more&#45;to&#45;take&#45;bar&#45;exam&#45;appeals&#45;court&#45;rules/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-12T12:56:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/12/legal-ai-vs-the-adversarial-incentive",
         "title": "Legal AI vs The Adversarial Incentive",
         "url": "https://www.artificiallawyer.com/2026/10/12/legal-ai-vs-the-adversarial-incentive/",
@@ -148,72 +248,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/lawyer&",
-        "title": "Lawyer sober since 2020 asks discipline board to lift suspension",
-        "url": "https://www.abajournal.com/web/article/lawyer&#45;sober&#45;since&#45;2020&#45;asks&#45;discipline&#45;board&#45;to&#45;lift&#45;his&#45;suspension/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-09T18:44:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ex&",
-        "title": "Ex-employee sues Sheppard Mullin over cyberattack exposing sensitive personal data",
-        "url": "https://www.abajournal.com/news/article/ex&#45;employee&#45;sues&#45;sheppard&#45;mullin&#45;over&#45;cyberattack&#45;exposing&#45;sensitive&#45;personal&#45;data/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-09T17:20:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ropes&",
-        "title": "Ropes & Gray allows more attorneys to count AI testing toward billable hours",
-        "url": "https://www.abajournal.com/news/article/ropes&#45;gray&#45;allows&#45;more&#45;attorneys&#45;to&#45;count&#45;ai&#45;testing&#45;toward&#45;billable&#45;hours/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-09T15:14:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/plaintiff&",
-        "title": "Plaintiff who filed fraudulent case, trashed desktop computer hit with sanctions",
-        "url": "https://www.abajournal.com/news/article/plaintiff&#45;who&#45;filed&#45;fraudulent&#45;case&#45;then&#45;trashed&#45;his&#45;desktop&#45;hit&#45;with&#45;sanctions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-09T14:58:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/alaska&",
-        "title": "Man who threatened Supreme Court justices avoids prison time",
-        "url": "https://www.abajournal.com/news/article/alaska&#45;man&#45;who&#45;threatened&#45;supreme&#45;court&#45;justices&#45;avoids&#45;prison&#45;time/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-09T14:34:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/09/harvey-lexis-google-cooley-li-uk-tickets",
         "title": "Harvey + Lexis, Google + Cooley, LI UK Tickets",
         "url": "https://www.artificiallawyer.com/2026/10/09/harvey-lexis-google-cooley-li-uk-tickets/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-09T07:36:11.000Z",
         "summary": "We start this week’s Wrap with several chunky news stories, including a new capability jointly built by Harvey and LexisNexis – plus, the announcement that ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/ai&",
-        "title": "AI use changes in-house teams&#8217; approach to work, outside counsel",
-        "url": "https://www.abajournal.com/web/article/ai&#45;use&#45;changes&#45;in&#45;house&#45;counsels&#45;approach&#45;to&#45;work&#45;outside&#45;counsel/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-08T18:48:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1148,26 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/06/sapphire-legal-has-built-a-legal-platform-for-a-market-almost-no-one-else-is-chasing-the-fractional-gc.html",
-        "title": "Sapphire Legal Has Built A Legal Platform for a Market Almost No One Else Is Chasing: The Fractional GC",
-        "url": "https://www.lawnext.com/2026/06/sapphire-legal-has-built-a-legal-platform-for-a-market-almost-no-one-else-is-chasing-the-fractional-gc.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-24T14:56:28.000Z",
-        "summary": "Recently I sat through a demo of a product unlike anything I’d seen before, aimed at a segment of the legal profession that legal tech companies have largely ignored – the fractional general counsel, lawyers who serve as",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/06/abstract-extends-its-legislative-intelligence-into-agentic-workflow-automation-with-launch-of-abstract-workers.html",
-        "title": "Abstract Extends Its Legislative Intelligence into Agentic Workflow Automation with Launch of &#8216;Abstract Workers&#8217;",
-        "url": "https://www.lawnext.com/2026/06/abstract-extends-its-legislative-intelligence-into-agentic-workflow-automation-with-launch-of-abstract-workers.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-24T13:19:41.000Z",
-        "summary": "When I wrote about Abstract in April, I reported on how the New York-based startup was making a push into the market for legislative and regulatory monitoring, alerting law firms and corporate legal teams to the bills an",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1185,26 +1205,6 @@
         "publishedAt": "2024-06-17T04:15:00.000Z",
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
         "region": "na"
       }
     ],
