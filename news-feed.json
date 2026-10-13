@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T23:58:57.796Z",
+  "generatedAt": "2026-10-13T05:54:39.449Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,56 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/ojladl5itjo3pcvhsumb",
+        "title": "高通终于认真做 Linux 了：Snapdragon X2 支持提前进入上游",
+        "url": "https://www.infoq.cn/article/OjlADL5itjO3PcVHsuMB?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-13T13:25:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/mrxaqhrqbmrztcsgegl1",
+        "title": "20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+        "url": "https://www.infoq.cn/article/MrxaqhrQBMrZTcSGEgL1?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-13T11:56:10.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/pkfg3povatwjt9lei8vj",
+        "title": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "url": "https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-13T11:45:54.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/bej6ixreboxspgmxrqhj",
+        "title": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "url": "https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-13T11:40:05.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/qpf1gxbpdxhcchhp4xfo",
+        "title": "Cursor 使用基于 S3 的 WAL，将 Git 存储扩展到每秒 300 多次 Push",
+        "url": "https://www.infoq.cn/article/QPf1GXbpDxhcCHHP4xfo?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-13T09:15:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/2sngaihok808v22dl5sj",
         "title": "Uber 在 Kubernetes 平台上将扩容意图与执行操作解耦",
         "url": "https://www.infoq.cn/article/2SNgaiHoK808v22dl5SJ?utm_source=rss&utm_medium=article",
@@ -1228,18 +1278,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mao3kodwm9fgickau9ak",
-        "title": "CLAUDE.md 还是 AGENTS.md？Anthropic 的答案是：以后都不用",
-        "url": "https://www.infoq.cn/article/MAo3KoDWm9FGIcKau9AK?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-10T15:18:57.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/money/markets-investing/article/3370602/chinese-stocks-undervalued-opportunity-says-charlie-munger-disciple",
+        "title": "Chinese stocks an undervalued opportunity, says Charlie Munger disciple",
+        "url": "https://www.scmp.com/business/money/markets-investing/article/3370602/chinese-stocks-undervalued-opportunity-says-charlie-munger-disciple?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-13T01:00:15.000Z",
+        "summary": "Shares in Chinese companies present better opportunities today than at other times, a disciple of legendary investor Charlie Munger said in a rare reflection on the world’s second-largest economy amid tensions with the U",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
