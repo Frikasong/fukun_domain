@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T05:54:39.449Z",
+  "generatedAt": "2026-10-13T13:14:52.832Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,86 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/in-first-major-release-since-paychex-acquisition-sixfifty-launches-agentic-hr-compliance-feature.html",
+        "title": "In First Major Release Since PayChex Acquisition, SixFifty Launches Agentic HR Compliance Feature",
+        "url": "https://www.lawnext.com/2026/10/in-first-major-release-since-paychex-acquisition-sixfifty-launches-agentic-hr-compliance-feature.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-13T13:07:26.000Z",
+        "summary": "Last year, this blog broke the news that the payroll and human resources company PayChex had acquired the employment law compliance and documentation company SixFifty, which had previously been owned by the Silicon Valle",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/13/steno-launches-litigation-genius-product-walk-through",
+        "title": "Steno Launches Litigation Genius + Product Walk Through",
+        "url": "https://www.artificiallawyer.com/2026/10/13/steno-launches-litigation-genius-product-walk-through/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-13T13:01:21.000Z",
+        "summary": "Steno, the AI-enabled court reporting and litigation support company, has launched the open beta of Litigation Genius – see AL TV Product Walk Through below. ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/13/chinese-company-launches-legal-specific-llm",
+        "title": "Chinese Company Launches Legal-Specific LLM",
+        "url": "https://www.artificiallawyer.com/2026/10/13/chinese-company-launches-legal-specific-llm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-13T11:30:31.000Z",
+        "summary": "Chinese company Z.ai, which created the GLM models, has launched a legal-specific LLM that has been ‘mid-trained’ and post-trained to handle a range of tasks ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/partners-want-ai-to-help-them-find-new-business-but-most-are-running-it-on-data-they-cant-use-introhive-survey-finds.html",
+        "title": "Partners Want AI to Help Them Find New Business, But Most Are Running It on Data They Can&#8217;t Use, Introhive Survey Finds",
+        "url": "https://www.lawnext.com/2026/10/partners-want-ai-to-help-them-find-new-business-but-most-are-running-it-on-data-they-cant-use-introhive-survey-finds.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-13T11:00:42.000Z",
+        "summary": "Partners at law and accounting firms say the one thing they most want from business-development technology is help finding new business in relationships their firms already have. But 78% say the relationship data at thei",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/13/legatics-connects-to-harvey-anthony-seale-interview",
+        "title": "Legatics Connects to Harvey + Anthony Seale Interview",
+        "url": "https://www.artificiallawyer.com/2026/10/13/legatics-connects-to-harvey-anthony-seale-interview/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-13T09:15:15.000Z",
+        "summary": "Legatics, the transaction management platform, has joined Harvey’s Connector Library, creating a unified deal experience for lawyers. To explain how it all works and what ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/13/legora-increases-inhouse-focus-with-intake",
+        "title": "Legora Increases Inhouse Focus with Intake",
+        "url": "https://www.artificiallawyer.com/2026/10/13/legora-increases-inhouse-focus-with-intake/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-13T08:39:03.000Z",
+        "summary": "Legora has increased its focus on the inhouse world with the launch of Intake, a legal front door that operates with its agents and which ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/13/decision-systems-ediscovery-litigaze-more",
+        "title": "Decision Systems, eDiscovery, Litigaze + More",
+        "url": "https://www.artificiallawyer.com/2026/10/13/decision-systems-ediscovery-litigaze-more/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-13T07:44:07.000Z",
+        "summary": "Decision systems, such as Jev, as well as the recently launched OpenAI Decisions API, herald a new, but also curiously déjà vu, way of classifying ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/13/how-legal-teams-govern-ai-driven-contracting",
+        "title": "How Legal Teams Govern AI-Driven Contracting",
+        "url": "https://www.artificiallawyer.com/2026/10/13/how-legal-teams-govern-ai-driven-contracting/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-13T06:40:15.000Z",
+        "summary": "By Megan Bradley, Senior Legal Counsel, Docusign. In-house legal teams share some common pressure points: more contracts, more stakeholders, more urgency, all without additional headcount. ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/10/no-more-than-an-ordinary-copyright-case-3rd-circuit-unseals-its-opinion-in-thomson-reuters-case-against-ross.html",
         "title": "&#8216;No More Than an Ordinary Copyright Case&#8217; &#8212; 3rd Circuit Unseals Its Opinion In Thomson Reuters Case Against ROSS",
@@ -165,66 +245,6 @@
         "publishedAt": "2026-10-08T13:50:32.000Z",
         "summary": "Coheso, the legal front door pioneer, has launched Memory, which turns resolved legal requests into institutional knowledge. See AL Interview with CEO, Ned Gannon, below. ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/08/openai-decisions-cheaper-bulk-review-for-lawyers",
-        "title": "OpenAI Decisions – Cheaper Bulk Review For Lawyers",
-        "url": "https://www.artificiallawyer.com/2026/10/08/openai-decisions-cheaper-bulk-review-for-lawyers/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-08T09:30:27.000Z",
-        "summary": "OpenAI has launched Decisions, its own decision system which will compete with the likes of Jev (see here). It could potentially reduce AI costs for ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/08/express-registration-opens-for-legal-innovators-uk-nov-4-5",
-        "title": "Express Registration Opens for Legal Innovators UK – Nov 4 + 5",
-        "url": "https://www.artificiallawyer.com/2026/10/08/express-registration-opens-for-legal-innovators-uk-nov-4-5/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-08T07:55:30.000Z",
-        "summary": "Legal Innovators UK, on November 4 and 5 in London at the Minster Building, is right around the corner and Express Registration is now open ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/07/spellbooks-autonomous-contract-management-on-general-release",
-        "title": "Spellbook’s Autonomous Contract Management on General Release",
-        "url": "https://www.artificiallawyer.com/2026/10/07/spellbooks-autonomous-contract-management-on-general-release/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-07T13:24:04.000Z",
-        "summary": "CLM isn’t dead. But it does have a lot of competition&#8230;.as Spellbook’s Autonomous Contract Management (ACM) capability goes on general release after an initial limited ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/07/pilot5-launches-adversarial-ai-for-lawyers",
-        "title": "Pilot5 Launches Adversarial AI for Lawyers",
-        "url": "https://www.artificiallawyer.com/2026/10/07/pilot5-launches-adversarial-ai-for-lawyers/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-07T11:55:51.000Z",
-        "summary": "Although a number of legal tech companies use LLM consensus and multiple model strategies already, Pilot5 and its new adversarial Legal AI product specifically taps ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/07/ivo-launches-open-source-deepseek-contract-ai-model",
-        "title": "Ivo Launches Open-Source DeepSeek Contract AI Model",
-        "url": "https://www.artificiallawyer.com/2026/10/07/ivo-launches-open-source-deepseek-contract-ai-model/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-07T08:50:22.000Z",
-        "summary": "Ivo has launched a super-affordable ‘open-source model for contract work’. Branded as Sage, it was built in partnership with River AI by post-training DeepSeek V4 ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/07/lawvu-launches-lens-total-contract-ai-capability",
-        "title": "LawVu Launches Lens &#8211; Total Contract AI Capability",
-        "url": "https://www.artificiallawyer.com/2026/10/07/lawvu-launches-lens-total-contract-ai-capability/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-07T08:07:29.000Z",
-        "summary": "Inhouse-focused LawVu has launched Lens, an AI contract analysis tool that gives lawyers visibility across a company&#8217;s &#8216;entire contract portfolio, surfacing risks and obligations before ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1148,26 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/06/thomson-reuters-ceo-steve-hasker-on-the-next-generation-of-cocounsel-the-future-of-professionals-report-and-why-tr-is-building-its-own-llm.html",
-        "title": "Thomson Reuters CEO Steve Hasker on the Next Generation of CoCounsel, the ‘Future of Professionals’ Report, and Why TR Is Building Its Own LLM",
-        "url": "https://www.lawnext.com/2026/06/thomson-reuters-ceo-steve-hasker-on-the-next-generation-of-cocounsel-the-future-of-professionals-report-and-why-tr-is-building-its-own-llm.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-23T16:39:14.000Z",
-        "summary": "Yesterday, Thomson Reuters made two announcements. It opened early access to the next generation of CoCounsel Legal, the most substantial reworking of its flagship legal AI assistant since the company acquired Casetext i",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/06/lawnext-podcast-amy-juers-and-valerie-chan-on-marketing-legal-tech-in-the-age-of-ai-search.html",
-        "title": "LawNext Podcast: Amy Juers and Valerie Chan on Marketing Legal Tech in the Age of AI Search",
-        "url": "https://www.lawnext.com/2026/06/lawnext-podcast-amy-juers-and-valerie-chan-on-marketing-legal-tech-in-the-age-of-ai-search.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-23T13:42:59.000Z",
-        "summary": "Once upon a time, a legal tech vendor’s goal in getting seen by potential customers was to rank on the first page of Google search. But in the age of AI, that is no longer enough. Now, when a potential buyer asks ChatGPT",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,31 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ojladl5itjo3pcvhsumb",
-        "title": "高通终于认真做 Linux 了：Snapdragon X2 支持提前进入上游",
-        "url": "https://www.infoq.cn/article/OjlADL5itjO3PcVHsuMB?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/8la5gsjvoof5bvfilauf",
+        "title": "Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构",
+        "url": "https://www.infoq.cn/article/8La5gsJVOOF5BvFiLAUF?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-13T13:25:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mrxaqhrqbmrztcsgegl1",
-        "title": "20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
-        "url": "https://www.infoq.cn/article/MrxaqhrQBMrZTcSGEgL1?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-13T11:56:10.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/pkfg3povatwjt9lei8vj",
-        "title": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
-        "url": "https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-13T11:45:54.000Z",
+        "publishedAt": "2026-10-13T17:41:43.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1258,39 +1238,8 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/2sngaihok808v22dl5sj",
-        "title": "Uber 在 Kubernetes 平台上将扩容意图与执行操作解耦",
-        "url": "https://www.infoq.cn/article/2SNgaiHoK808v22dl5SJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-11T15:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ftttlqvzjemie03iowfp",
-        "title": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
-        "url": "https://www.infoq.cn/article/FTtTLqvzJeMiE03IowFP?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-11T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/money/markets-investing/article/3370602/chinese-stocks-undervalued-opportunity-says-charlie-munger-disciple",
-        "title": "Chinese stocks an undervalued opportunity, says Charlie Munger disciple",
-        "url": "https://www.scmp.com/business/money/markets-investing/article/3370602/chinese-stocks-undervalued-opportunity-says-charlie-munger-disciple?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-13T01:00:15.000Z",
-        "summary": "Shares in Chinese companies present better opportunities today than at other times, a disciple of legendary investor Charlie Munger said in a rare reflection on the world’s second-largest economy amid tensions with the U",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
