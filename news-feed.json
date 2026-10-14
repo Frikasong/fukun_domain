@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T16:13:47.106Z",
+  "generatedAt": "2026-10-14T21:08:06.450Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/finding&",
+        "title": "Finding right fit is more important in judicial clerkship hiring than politics, new study says",
+        "url": "https://www.abajournal.com/news/article/finding&#45;the&#45;right&#45;fit&#45;is&#45;more&#45;important&#45;in&#45;judicial&#45;clerkship&#45;hiring&#45;than&#45;politics&#45;according&#45;to&#45;new&#45;study/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-14T16:55:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/new-scorealytics-ceo-jennie-morawetz-on-building-regulatory-intelligence-lawyers-can-rely-on.html",
+        "title": "New SCOREalytics CEO Jennie Morawetz on Building Regulatory Intelligence Lawyers Can Rely On",
+        "url": "https://www.lawnext.com/2026/10/new-scorealytics-ceo-jennie-morawetz-on-building-regulatory-intelligence-lawyers-can-rely-on.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-14T16:22:35.000Z",
+        "summary": "Jennie Morawetz, who was named this week as CEO of regulatory intelligence company SCOREalytics, wants the company&#8217;s product to become the accepted standard for how lawyers keep up with regulatory change. &#8220;I ",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/judge&",
+        "title": "Judge censured following &#8216;little experiment&#8217; in court with gun, stapler",
+        "url": "https://www.abajournal.com/web/article/judge&#45;censured&#45;following&#45;court&#45;experiment&#45;with&#45;a&#45;gun&#45;and&#45;a&#45;stapler/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-14T16:13:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/law&",
         "title": "Law firm announces new policy for employees with NICU babies",
@@ -54,6 +84,16 @@
         "source": "ABA Journal",
         "publishedAt": "2026-10-14T14:14:00.000Z",
         "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/amp-beyond-coding",
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "url": "https://openai.com/index/amp-beyond-coding",
+        "source": "OpenAI News",
+        "publishedAt": "2026-10-14T12:00:00.000Z",
+        "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
         "category": "updates",
         "region": "na"
       },
@@ -123,26 +163,6 @@
         "url": "https://www.abajournal.com/news/article/tennessee&#45;appeals&#45;court&#45;overturns&#45;manslaughter&#45;conviction&#45;in&#45;killing&#45;of&#45;trans&#45;woman/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-10-13T18:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/the&",
-        "title": "The Burton Book Review: &#8216;Anthony M. Kennedy, Life, Law & Liberty: A Memoir&#8217;",
-        "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;anthony&#45;m&#45;kennedy&#45;life&#45;law&#45;liberty&#45;a&#45;memoir/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-13T17:14:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/grand&",
-        "title": "Grand Canyon University names founding dean of new law school",
-        "url": "https://www.abajournal.com/news/article/grand&#45;canyon&#45;university&#45;picks&#45;founding&#45;law&#45;dean/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-13T15:59:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1178,16 +1198,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/06/perplexity-makes-its-move-into-legal-unveiling-industry-features-at-computer-for-counsel-event.html",
-        "title": "Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event",
-        "url": "https://www.lawnext.com/2026/06/perplexity-makes-its-move-into-legal-unveiling-industry-features-at-computer-for-counsel-event.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-25T12:43:52.000Z",
-        "summary": "Perplexity, the AI search engine known for delivering sourced answers to user queries, is making an explicit move into the legal market, rolling out legal-specific features within its agentic platform, Perplexity Compute",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1195,16 +1205,6 @@
         "publishedAt": "2025-08-07T00:00:00.000Z",
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
         "region": "na"
       }
     ],
@@ -1240,17 +1240,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/china-evs/article/3370897/hesai-launches-3d-spatial-camera-chinese-lidar-maker-expands-physical-ai",
-        "title": "Hesai launches 3D spatial camera as Chinese lidar maker expands into physical AI",
-        "url": "https://www.scmp.com/business/china-evs/article/3370897/hesai-launches-3d-spatial-camera-chinese-lidar-maker-expands-physical-ai?utm_source=rss_feed",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-14T11:47:29.000Z",
-        "summary": "Hesai Group, the world’s largest maker of lidar sensors for vehicles, has launched a 3D spatial camera as it expands into physical artificial intelligence in search of new growth opportunities. The handheld device, calle",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
