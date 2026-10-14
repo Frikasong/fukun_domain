@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T02:52:46.878Z",
+  "generatedAt": "2026-10-14T10:54:44.571Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm",
+        "title": "Goodwin Partner Launches US AI-Native Law Firm Arm",
+        "url": "https://www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-14T10:02:03.000Z",
+        "summary": "Leon Johnson, most recently a partner at Goodwin in San Francisco and previously a partner at Kirkland &#38; Ellis, is joining Omnilex, an AI-native law ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/14/harvey-launches-intake-for-inhouse-teams",
+        "title": "Harvey Launches Intake for Inhouse Teams",
+        "url": "https://www.artificiallawyer.com/2026/10/14/harvey-launches-intake-for-inhouse-teams/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-14T07:56:04.000Z",
+        "summary": "Harvey has launched Intake, its new legal front door for the inhouse world, which not only helps to funnel contracts to the right lawyers, but ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/14/from-ai-tools-to-agentic-ai-a-roadmap",
+        "title": "From AI Tools to Agentic AI – A Roadmap",
+        "url": "https://www.artificiallawyer.com/2026/10/14/from-ai-tools-to-agentic-ai-a-roadmap/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-14T06:43:41.000Z",
+        "summary": "By Paul Walker, Global Solutions Director, iManage. Law firms have always delegated work to those with less experience, lower billing rates, and narrower scope: partners ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/afghan&",
         "title": "Afghan lawyer launches nonprofit to help others while also pursuing US legal education",
@@ -238,42 +268,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/09/harvey-lexis-google-cooley-li-uk-tickets",
-        "title": "Harvey + Lexis, Google + Cooley, LI UK Tickets",
-        "url": "https://www.artificiallawyer.com/2026/10/09/harvey-lexis-google-cooley-li-uk-tickets/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-09T07:36:11.000Z",
-        "summary": "We start this week’s Wrap with several chunky news stories, including a new capability jointly built by Harvey and LexisNexis – plus, the announcement that ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows",
-        "title": "AT&#038;T + OpenAI Partner for Legal AI Workflows",
-        "url": "https://www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-08T16:36:31.000Z",
-        "summary": "AT&#38;T LegalEdge, the telecom giant’s new inhouse legal agency, is partnering with OpenAI to develop AI-enabled legal workflows. Jason Boehmig, GM Legal Industry at OpenAI, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/10/i-sent-three-law-firms-an-rfp-theres-clearly-a-client-experience-gap.html",
         "title": "I Sent Three Law Firms an RFP. There&#8217;s Clearly a Client Experience Gap.",
         "url": "https://www.lawnext.com/2026/10/i-sent-three-law-firms-an-rfp-theres-clearly-a-client-experience-gap.html",
         "source": "LawSites",
         "publishedAt": "2026-10-08T16:14:07.000Z",
         "summary": "As a former lawyer, a legal technology CEO, and a paying client of five major law firms, I see how legal services are built, sold, and experienced. Recently, my wife and I sent three firms an RFP for personal legal work.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/08/legal-front-door-coheso-launches-memory-al-interview",
-        "title": "Legal Front Door Coheso Launches Memory + AL Interview",
-        "url": "https://www.artificiallawyer.com/2026/10/08/legal-front-door-coheso-launches-memory-al-interview/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-08T13:50:32.000Z",
-        "summary": "Coheso, the legal front door pioneer, has launched Memory, which turns resolved legal requests into institutional knowledge. See AL Interview with CEO, Ned Gannon, below. ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,21 +1210,71 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/evq0s2jrvxzyo9f9gsg6",
-        "title": "无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
-        "url": "https://www.infoq.cn/article/EVQ0s2JRvxZyo9f9gSg6?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/wss036x3c6apxss41hwc",
+        "title": "企业真正需要的，不是更聪明的 Agent ？",
+        "url": "https://www.infoq.cn/video/Wss036X3C6APXsS41HwC?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-14T10:00:00.000Z",
+        "publishedAt": "2026-10-14T18:36:53.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/jf88xavrk0zmbj2ud2od",
-        "title": "Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
-        "url": "https://www.infoq.cn/article/Jf88XAvrK0zmBj2Ud2OD?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/bjowsajhmwfazrmqu4qj",
+        "title": "Spring 近期新闻：Boot、Framework、Data、Security 和 Integration 的第二个里程碑版本",
+        "url": "https://www.infoq.cn/article/bjowsAJHMwfAzRMqu4qJ?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-14T09:21:00.000Z",
+        "publishedAt": "2026-10-14T18:11:08.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/iaateifazfescqfhiyqu",
+        "title": "千问办公杀入电商经营！3万开店成本压至几百元，一个Agent接管多平台生意",
+        "url": "https://www.infoq.cn/article/IAAteiFAzfescqFHIyQU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-14T17:48:46.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zqjq0uhbpvveewkc0zfc",
+        "title": "九成具身智能公司在东部沿海，长沙抢走了另一样东西",
+        "url": "https://www.infoq.cn/article/ZqJq0uHBPvvEewkc0ZFC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-14T17:35:33.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fycaxn0nvwhbq6b7d3zy",
+        "title": "Cloudflare 正式发布 Python Workers，但关于冷启动和上游维护的问题仍待解答",
+        "url": "https://www.infoq.cn/article/fycaxN0NvWHBq6B7d3zY?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-14T17:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/pugs7qxy4afoal4wvr22",
+        "title": "从大模型到 Agent 落地，这场大会讲透 AI 全链路",
+        "url": "https://www.infoq.cn/article/PuGS7Qxy4AFOal4wVR22?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-14T14:52:06.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/6iratyfkqf7aitpafr2r",
+        "title": "Claude写代码太快，Git扛不住了：Anthropic仅靠7人，5个月重造版本控制系统",
+        "url": "https://www.infoq.cn/article/6iRATYfkqF7aITPaFR2R?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-14T11:46:46.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1235,26 +1285,6 @@
         "url": "https://www.infoq.cn/article/8La5gsJVOOF5BvFiLAUF?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-10-13T17:41:43.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/bej6ixreboxspgmxrqhj",
-        "title": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
-        "url": "https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-13T11:40:05.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qpf1gxbpdxhcchhp4xfo",
-        "title": "Cursor 使用基于 S3 的 WAL，将 Git 存储扩展到每秒 300 多次 Push",
-        "url": "https://www.infoq.cn/article/QPf1GXbpDxhcCHHP4xfo?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-13T09:15:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
