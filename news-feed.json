@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:07:21.861Z",
+  "generatedAt": "2026-10-14T02:52:46.878Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -125,16 +125,6 @@
         "publishedAt": "2026-10-13T13:01:21.000Z",
         "summary": "Steno, the AI-enabled court reporting and litigation support company, has launched the open beta of Litigation Genius – see AL TV Product Walk Through below. ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/higgsfield-longer-videos-voice",
-        "title": "Higgsfield takes AI video from 1 minute to over 10",
-        "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-        "source": "OpenAI News",
-        "publishedAt": "2026-10-13T12:00:00.000Z",
-        "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,9 +1196,39 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/evq0s2jrvxzyo9f9gsg6",
+        "title": "无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+        "url": "https://www.infoq.cn/article/EVQ0s2JRvxZyo9f9gSg6?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-14T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jf88xavrk0zmbj2ud2od",
+        "title": "Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
+        "url": "https://www.infoq.cn/article/Jf88XAvrK0zmBj2Ud2OD?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-14T09:21:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/8la5gsjvoof5bvfilauf",
         "title": "Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构",
