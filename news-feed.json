@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T02:26:37.272Z",
+  "generatedAt": "2026-10-16T10:23:26.503Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,13 +8,13 @@
   "panels": {
     "na": [
       {
-        "id": "OpenAI News:openai.com/index/introducing-the-rosalind-academic-plan",
-        "title": "Bringing GPT-Rosalind to academic research labs",
-        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-        "source": "OpenAI News",
-        "publishedAt": "2026-10-15T19:00:00.000Z",
-        "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-        "category": "articles",
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/16/legal-innovators-new-york-sponsors-spellbook-webinar",
+        "title": "Legal Innovators New York Sponsors, Spellbook Webinar +",
+        "url": "https://www.artificiallawyer.com/2026/10/16/legal-innovators-new-york-sponsors-spellbook-webinar/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-16T09:35:38.000Z",
+        "summary": "Welcome to this week’s Wrap, which starts with the unveiling of our awesome sponsors for the landmark Legal Innovators New York conference in Midtown, on ...",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -264,16 +264,6 @@
         "source": "LawSites",
         "publishedAt": "2026-10-13T13:07:26.000Z",
         "summary": "Last year, this blog broke the news that the payroll and human resources company PayChex had acquired the employment law compliance and documentation company SixFifty, which had previously been owned by the Silicon Valle",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/13/steno-launches-litigation-genius-product-walk-through",
-        "title": "Steno Launches Litigation Genius + Product Walk Through",
-        "url": "https://www.artificiallawyer.com/2026/10/13/steno-launches-litigation-genius-product-walk-through/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-13T13:01:21.000Z",
-        "summary": "Steno, the AI-enabled court reporting and litigation support company, has launched the open beta of Litigation Genius – see AL TV Product Walk Through below. ...",
         "category": "tools",
         "region": "na"
       },
@@ -1206,25 +1196,65 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/t3xbhewun37fsodapruc",
-        "title": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
-        "url": "https://www.infoq.cn/article/t3XbHewuN37fsodaprUC?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/1xtkjz1ocyrytcmb4zkb",
+        "title": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+        "url": "https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-16T10:00:00.000Z",
+        "publishedAt": "2026-10-16T17:45:51.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/dfjza7hp0ohkmpaaifg0",
-        "title": "GitLab 漏洞遭利用，可实现未认证数据外泄",
-        "url": "https://www.infoq.cn/article/DfJZA7hp0OhKMpaAIfG0?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/xqld004rgwrzfhwqboyc",
+        "title": "生产级大模型平台工程实战手册",
+        "url": "https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-16T09:16:00.000Z",
+        "publishedAt": "2026-10-16T17:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/8ikz8xnqvxdfeuxh1qla",
+        "title": "AI 生成的代码，怎么才能进得了工程体系？",
+        "url": "https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-16T16:56:30.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vzpliidgrg062mgwje5y",
+        "title": "范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”",
+        "url": "https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-16T16:38:02.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hrw4bzqquw14sqymo5f6",
+        "title": "Linus用Claude Code改Linux内核，大神也没兜住代码里的Bug",
+        "url": "https://www.infoq.cn/article/hRw4BZQQUW14sqYMo5F6?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-16T11:47:14.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1238,27 +1268,17 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/jbza5yvzl2bkutpkfdru",
-        "title": "算力效率的边界：以体系结构量化与分布式工程破局 AI Infra",
-        "url": "https://www.infoq.cn/article/JbzA5yvzl2BkuTpkfdrU?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-15T11:44:05.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report",
-        "title": "Hong Kong investors most eager in Asia to beat markets – but temper return hopes: report",
-        "url": "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report?utm_source=rss_feed",
+        "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3371083/china-has-banned-crypto-business-so-why-solana-opening-splashy-shanghai-office",
+        "title": "Crypto operator Solana abruptly cancels Shanghai event after office plan raises eyebrows",
+        "url": "https://www.scmp.com/business/cryptocurrency/article/3371083/china-has-banned-crypto-business-so-why-solana-opening-splashy-shanghai-office?utm_source=rss_feed",
         "source": "SCMP China Business",
-        "publishedAt": "2026-10-15T23:00:13.000Z",
-        "summary": "Hong Kong investors are Asia’s most ambitious stock pickers, but they have much more subdued return expectations than regional peers swept up in enthusiasm over artificial intelligence, according to a survey by a global ",
-        "category": "articles",
+        "publishedAt": "2026-10-16T03:00:07.000Z",
+        "summary": "Solana, which operates one of the world’s largest cryptocurrencies, has cancelled a high-profile event in Shanghai at the last minute as local police appeared on site, according to social media posts, just a day after th",
+        "category": "updates",
         "region": "cn_en"
       }
     ]
