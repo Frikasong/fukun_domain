@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:45:52.722Z",
+  "generatedAt": "2026-10-16T02:26:37.272Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "OpenAI News:openai.com/index/introducing-the-rosalind-academic-plan",
+        "title": "Bringing GPT-Rosalind to academic research labs",
+        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "source": "OpenAI News",
+        "publishedAt": "2026-10-15T19:00:00.000Z",
+        "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+        "category": "articles",
+        "region": "na"
+      },
       {
         "id": "LawSites:www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html",
         "title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical",
@@ -215,16 +225,6 @@
         "publishedAt": "2026-10-14T07:56:04.000Z",
         "summary": "Harvey has launched Intake, its new legal front door for the inhouse world, which not only helps to funnel contracts to the right lawyers, but ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/third-moment-research",
-        "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-        "url": "https://openai.com/index/third-moment-research",
-        "source": "OpenAI News",
-        "publishedAt": "2026-10-14T07:00:00.000Z",
-        "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-        "category": "articles",
         "region": "na"
       },
       {
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/t3xbhewun37fsodapruc",
+        "title": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "url": "https://www.infoq.cn/article/t3XbHewuN37fsodaprUC?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-16T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/dfjza7hp0ohkmpaaifg0",
+        "title": "GitLab 漏洞遭利用，可实现未认证数据外泄",
+        "url": "https://www.infoq.cn/article/DfJZA7hp0OhKMpaAIfG0?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-16T09:16:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/hc8sagazmhc6sfwp9gc9",
         "title": "黄仁勋谈中国 AI 公司：算力很缺，但他们就是在拼命把事情做成",
         "url": "https://www.infoq.cn/article/HC8SAgaZmHc6sfwp9gc9?utm_source=rss&utm_medium=article",
@@ -1230,6 +1250,17 @@
         "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report",
+        "title": "Hong Kong investors most eager in Asia to beat markets – but temper return hopes: report",
+        "url": "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-15T23:00:13.000Z",
+        "summary": "Hong Kong investors are Asia’s most ambitious stock pickers, but they have much more subdued return expectations than regional peers swept up in enthusiasm over artificial intelligence, according to a survey by a global ",
+        "category": "articles",
+        "region": "cn_en"
+      }
+    ]
   }
 }
