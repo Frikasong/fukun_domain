@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:23:26.503Z",
+  "generatedAt": "2026-10-16T15:49:40.673Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
+        "title": "Federal judge balks at lawyer&#8217;s $3K hourly rate",
+        "url": "https://www.abajournal.com/news/article/federal&#45;judge&#45;balks&#45;at&#45;lawyers&#45;3000&#45;hourly&#45;rate/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-16T15:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
+        "title": "Lawyer convicted of staging truck crashes sentenced to prison",
+        "url": "https://www.abajournal.com/news/article/lawyer&#45;convicted&#45;of&#45;staging&#45;truck&#45;crashes&#45;sentenced&#45;to&#45;prison/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-16T15:06:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/cybersecurity&",
+        "title": "Cybersecurity incident disrupts federal bankruptcy courts",
+        "url": "https://www.abajournal.com/news/article/cybersecurity&#45;incident&#45;disrupts&#45;federal&#45;bankruptcy&#45;courts/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-16T14:54:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations.html",
+        "title": "Chariot Claims Raises $10M Series A To Fuel Mass Consumer Arbitrations",
+        "url": "https://www.lawnext.com/2026/10/chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-16T13:27:57.000Z",
+        "summary": "Chariot Claims, a legal tech company that matches consumers to mass arbitration and class action cases and pairs them with law firms, has raised $10 million in Series A funding, it announced Thursday. Silverton Partners ",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/16/legal-innovators-new-york-sponsors-spellbook-webinar",
         "title": "Legal Innovators New York Sponsors, Spellbook Webinar +",
@@ -108,16 +148,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/lawful&",
-        "title": "‘Lawful but Awful’: Does anyone have legal standing to stop the livestreamed execution of Nidal Hasan?",
-        "url": "https://www.abajournal.com/web/article/lawful&#45;but&#45;awful/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-15T14:07:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html",
         "title": "Control Risks To Spin Off Its Discovery, Data and Forensics Businesses Into A New Company",
         "url": "https://www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html",
@@ -168,16 +198,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/finding&",
-        "title": "Finding right fit is more important in judicial clerkship hiring than politics, new study says",
-        "url": "https://www.abajournal.com/news/article/finding&#45;the&#45;right&#45;fit&#45;is&#45;more&#45;important&#45;in&#45;judicial&#45;clerkship&#45;hiring&#45;than&#45;politics&#45;according&#45;to&#45;new&#45;study/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-14T16:55:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/10/new-scorealytics-ceo-jennie-morawetz-on-building-regulatory-intelligence-lawyers-can-rely-on.html",
         "title": "New SCOREalytics CEO Jennie Morawetz on Building Regulatory Intelligence Lawyers Can Rely On",
         "url": "https://www.lawnext.com/2026/10/new-scorealytics-ceo-jennie-morawetz-on-building-regulatory-intelligence-lawyers-can-rely-on.html",
@@ -185,26 +205,6 @@
         "publishedAt": "2026-10-14T16:22:35.000Z",
         "summary": "Jennie Morawetz, who was named this week as CEO of regulatory intelligence company SCOREalytics, wants the company&#8217;s product to become the accepted standard for how lawyers keep up with regulatory change. &#8220;I ",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/judge&",
-        "title": "Judge censured following &#8216;little experiment&#8217; in court with gun, stapler",
-        "url": "https://www.abajournal.com/web/article/judge&#45;censured&#45;following&#45;court&#45;experiment&#45;with&#45;a&#45;gun&#45;and&#45;a&#45;stapler/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-14T16:13:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/law&",
-        "title": "Law firm announces new policy for employees with NICU babies",
-        "url": "https://www.abajournal.com/news/article/law&#45;firm&#45;announces&#45;new&#45;policy&#45;for&#45;employees&#45;with&#45;nicu&#45;babies/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-14T15:46:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1168,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/06/after-the-barbri-deal-legas-christian-lang-says-the-governance-platform-isnt-going-away-but-it-is-going-to-school.html",
-        "title": "After the BARBRI Deal, Lega&#8217;s Christian Lang Says the Governance Platform Isn&#8217;t Going Away, But It Is Going to School",
-        "url": "https://www.lawnext.com/2026/06/after-the-barbri-deal-legas-christian-lang-says-the-governance-platform-isnt-going-away-but-it-is-going-to-school.html",
-        "source": "LawSites",
-        "publishedAt": "2026-06-30T17:48:19.000Z",
-        "summary": "When I wrote last week about BARBRI&#8217;s acquisition of Lega, I had not yet had the chance to speak with Lega founder Christian Lang, who was traveling. So I closed that post with what was admittedly conjecture on my ",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1206,6 +1196,16 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
@@ -1225,26 +1225,6 @@
         "url": "https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-10-16T17:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/8ikz8xnqvxdfeuxh1qla",
-        "title": "AI 生成的代码，怎么才能进得了工程体系？",
-        "url": "https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-16T16:56:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/vzpliidgrg062mgwje5y",
-        "title": "范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”",
-        "url": "https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-16T16:38:02.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
