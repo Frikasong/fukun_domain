@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:19:02.203Z",
+  "generatedAt": "2026-10-18T10:08:30.460Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,21 +1210,21 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/qzph971cbfhkacfgg0cb",
-        "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
-        "url": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ymllswkbzxy0bcvjjw70",
+        "title": "Cloudflare 修复了容器中的跨租户数据泄露问题",
+        "url": "https://www.infoq.cn/article/YmllSwKbZXY0bcVjjw70?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-18T10:00:00.000Z",
+        "publishedAt": "2026-10-18T16:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/4bur4dmmxsbxyzyh6fxz",
-        "title": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
-        "url": "https://www.infoq.cn/article/4BUR4DmMxSBxyzYh6Fxz?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/qzph971cbfhkacfgg0cb",
+        "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "url": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-18T09:17:00.000Z",
+        "publishedAt": "2026-10-18T10:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1261,16 +1261,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "The Guardian China:www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
-        "title": "Why Britain should reject the lure of cheap – and scary – Chinese AI",
-        "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
-        "source": "The Guardian China",
-        "publishedAt": "2026-10-17T15:00:33.000Z",
-        "summary": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from China There is much to fear from artificial intelligence developed in China and handed to businesses and go",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3371083/china-has-banned-crypto-business-so-why-solana-opening-splashy-shanghai-office",
         "title": "Crypto operator Solana abruptly cancels Shanghai event after office plan raises eyebrows",
