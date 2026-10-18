@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T10:08:30.460Z",
+  "generatedAt": "2026-10-18T15:08:41.848Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,11 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ymllswkbzxy0bcvjjw70",
-        "title": "Cloudflare 修复了容器中的跨租户数据泄露问题",
-        "url": "https://www.infoq.cn/article/YmllSwKbZXY0bcVjjw70?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/udt804ujpgxrv0pqfxv2",
+        "title": "17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
+        "url": "https://www.infoq.cn/article/UdT804ujpGxrv0pQfxv2?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-18T16:00:00.000Z",
+        "publishedAt": "2026-10-18T22:58:03.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1261,6 +1261,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3371246/ai-promise-was-automation-reality-managing-digital-workers",
+        "title": "The AI promise was automation. The reality? Managing digital workers",
+        "url": "https://www.scmp.com/tech/big-tech/article/3371246/ai-promise-was-automation-reality-managing-digital-workers?utm_source=rss_feed",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-18T14:00:08.000Z",
+        "summary": "When artificial intelligence agents first arrived, they came with a tantalising promise: autonomous “digital workers” that would finally free humans from corporate drudgery. As businesses across Asia are discovering, how",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3371083/china-has-banned-crypto-business-so-why-solana-opening-splashy-shanghai-office",
         "title": "Crypto operator Solana abruptly cancels Shanghai event after office plan raises eyebrows",
