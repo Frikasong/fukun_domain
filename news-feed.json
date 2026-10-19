@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T02:34:11.550Z",
+  "generatedAt": "2026-10-19T11:40:15.392Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/19/harvey-webinar-agents-in-legal-a-practical-guide",
+        "title": "Harvey Webinar &#8211; Agents in Legal: A Practical Guide",
+        "url": "https://www.artificiallawyer.com/2026/10/19/harvey-webinar-agents-in-legal-a-practical-guide/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-19T10:17:49.000Z",
+        "summary": "Join us on November 2 at 11 am ET, 4pm GMT, for a great new webinar with Harvey in association with Artificial Lawyer, where we ...",
+        "category": "skills",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/19/big-laws-greatest-gifts",
+        "title": "Big Law’s Greatest Gifts",
+        "url": "https://www.artificiallawyer.com/2026/10/19/big-laws-greatest-gifts/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-19T07:11:53.000Z",
+        "summary": "If the AI natives want to compete at scale with Big Law they can’t just focus on speed and price. While the time/value challenge remains, ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/early&",
         "title": "Early law school applicants hit record number, new LSAC data shows",
@@ -214,26 +234,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-14T10:02:03.000Z",
         "summary": "Leon Johnson, most recently a partner at Goodwin in San Francisco and previously a partner at Kirkland &#38; Ellis, is joining Omnilex, an AI-native law ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/14/harvey-launches-intake-for-inhouse-teams",
-        "title": "Harvey Launches Intake for Inhouse Teams",
-        "url": "https://www.artificiallawyer.com/2026/10/14/harvey-launches-intake-for-inhouse-teams/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-14T07:56:04.000Z",
-        "summary": "Harvey has launched Intake, its new legal front door for the inhouse world, which not only helps to funnel contracts to the right lawyers, but ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/14/from-ai-tools-to-agentic-ai-a-roadmap",
-        "title": "From AI Tools to Agentic AI – A Roadmap",
-        "url": "https://www.artificiallawyer.com/2026/10/14/from-ai-tools-to-agentic-ai-a-roadmap/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-14T06:43:41.000Z",
-        "summary": "By Paul Walker, Global Solutions Director, iManage. Law firms have always delegated work to those with less experience, lower billing rates, and narrower scope: partners ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,31 +1210,31 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ozhrjyasxvjozxrwlt6t",
-        "title": "打造生产级的 Agent｜QCon上海",
-        "url": "https://www.infoq.cn/article/oZHrjYAsXvjOZXRwLt6T?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ad1m3mj2sh1djrta1r5q",
+        "title": "谷歌开源Harness，支持 OpenCode 和 Codex：国内开发者接入Jev实测“真行”",
+        "url": "https://www.infoq.cn/article/AD1M3mJ2SH1dJrTA1r5q?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-19T10:00:00.000Z",
+        "publishedAt": "2026-10-19T18:22:05.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ik5awdwovcu5lx3e3mhc",
-        "title": "OpenCode 2.0 正式发布：一次“重大改造”，旧插件全部报废",
-        "url": "https://www.infoq.cn/article/IK5AWDwovCu5lx3e3mhc?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/4t84hfyjyp6gq9knwe60",
+        "title": "Kubernetes多集群项目Karmada完成CNCF毕业",
+        "url": "https://www.infoq.cn/article/4t84hFyjYP6gq9KNWE60?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-19T09:51:45.000Z",
+        "publishedAt": "2026-10-19T17:23:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/uyj6ossb7gldtxoorlxx",
-        "title": "谷歌广告如何将一个开源的 macOS 术语误判为恶意内容并予以暂停",
-        "url": "https://www.infoq.cn/article/UYJ6OSsb7GlDtXoORLxx?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/zbfzqbuxfmp1qripzwtg",
+        "title": "随着可观测性模式日趋成熟，OpenTelemetry 将 Kubernetes Attribute Processor 提升为稳定版本",
+        "url": "https://www.infoq.cn/article/zBfzQbuxFmP1qrIpZWTG?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-19T09:20:00.000Z",
+        "publishedAt": "2026-10-19T14:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1285,16 +1285,6 @@
         "url": "https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-10-16T17:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hrw4bzqquw14sqymo5f6",
-        "title": "Linus用Claude Code改Linux内核，大神也没兜住代码里的Bug",
-        "url": "https://www.infoq.cn/article/hRw4BZQQUW14sqYMo5F6?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-16T11:47:14.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
