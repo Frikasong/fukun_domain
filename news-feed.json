@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:46:46.741Z",
+  "generatedAt": "2026-10-20T10:42:34.706Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/20/webinar-the-future-of-contract-management-acm-demo",
+        "title": "Webinar: The Future of Contract Management + ACM Demo",
+        "url": "https://www.artificiallawyer.com/2026/10/20/webinar-the-future-of-contract-management-acm-demo/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-20T08:21:31.000Z",
+        "summary": "On Thursday, October 29 at 12:00 PM ET, 5PM UK – Spellbook’s CEO, Scott Stevenson, and Artificial Lawyer, will be holding a special live webinar: ‘The ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/20/what-happens-when-lawyers-can-afford-to-look-further",
+        "title": "What Happens When Lawyers Can Afford to Look Further?",
+        "url": "https://www.artificiallawyer.com/2026/10/20/what-happens-when-lawyers-can-afford-to-look-further/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-20T06:40:54.000Z",
+        "summary": "By Darsan Guruvayurappan, Co-founder, Lucio AI. Most legal research does not end when the answer is found, it ends when the time runs out. Let ...",
+        "category": "articles",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/nextgen&",
         "title": "NextGen UBE examinees faced unique uncertainties in July, new study finds",
@@ -224,26 +244,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-15T11:10:29.000Z",
         "summary": "Legal Innovators New York, the landmark legal innovation conference on November 17 and 18 in Midtown, can now reveal some of our excellent speakers – ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/15/ebrevia-launches-command-contract-management-platform",
-        "title": "eBrevia Launches ‘Command’ Contract Management Platform",
-        "url": "https://www.artificiallawyer.com/2026/10/15/ebrevia-launches-command-contract-management-platform/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-15T09:26:42.000Z",
-        "summary": "Inhouse-focused legal AI pioneer, eBrevia, has launched ‘Command’, a contract management platform that ‘helps users understand what’s in their agreements, identify what needs attention and ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/15/legora-seeks-centrality-with-30-integrations-ecosystem",
-        "title": "Legora Seeks Centrality With 30+ Integrations Ecosystem",
-        "url": "https://www.artificiallawyer.com/2026/10/15/legora-seeks-centrality-with-30-integrations-ecosystem/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-15T07:31:51.000Z",
-        "summary": "Legora is seeking to secure its ‘centrality’ within a lawyer’s working life via the strategy of building a large-scale integration ecosystem, (see list below). In ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,11 +1210,21 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/zyjobqgawfurpflbqond",
-        "title": "失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
-        "url": "https://www.infoq.cn/article/ZyjObqGawfurPFLBQONd?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/houf1phd3wczck3yme7m",
+        "title": "处理了 4000 万条消息后，我们总结了 Kafka 有序处理的几个关键设计",
+        "url": "https://www.infoq.cn/article/HoUf1pHD3WcZCK3YMe7m?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-20T10:00:00.000Z",
+        "publishedAt": "2026-10-20T17:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/4frecluuqb4w4axuhxo5",
+        "title": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+        "url": "https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-20T14:55:22.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1255,36 +1265,6 @@
         "url": "https://www.infoq.cn/article/zBfzQbuxFmP1qrIpZWTG?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-10-19T14:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/euyoprubaebgbgbu5ktk",
-        "title": "Meta 联手苹果推出全美最强开源模型，编码基测输给智谱、Kimi",
-        "url": "https://www.infoq.cn/article/EuYOPRUBAeBgBGBu5ktk?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-18T23:01:33.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/udt804ujpgxrv0pqfxv2",
-        "title": "17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
-        "url": "https://www.infoq.cn/article/UdT804ujpGxrv0pQfxv2?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-18T22:58:03.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qzph971cbfhkacfgg0cb",
-        "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
-        "url": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-18T10:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
