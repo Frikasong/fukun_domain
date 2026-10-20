@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:42:34.706Z",
+  "generatedAt": "2026-10-20T16:04:59.256Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,46 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/a&",
+        "title": "&#8216;A Killer Story&#8217;: When everyone knows who did it, nobody knows anything",
+        "url": "https://www.abajournal.com/columns/article/a&#45;killer&#45;story&#45;when&#45;everyone&#45;knows&#45;who&#45;did&#45;it&#45;nobody&#45;knows&#45;anything/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-20T15:48:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/20/womble-bond-dickinson-launches-ai-labs",
+        "title": "Womble Bond Dickinson Launches ‘AI Labs’",
+        "url": "https://www.artificiallawyer.com/2026/10/20/womble-bond-dickinson-launches-ai-labs/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-20T15:04:13.000Z",
+        "summary": "Transatlantic law firm Womble Bond Dickinson has launched ‘Womble AI Labs&#8217;, which will build AI solutions for the firm and its clients. It is led ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/supreme&",
+        "title": "Supreme Court agrees to review federal home distilling ban",
+        "url": "https://www.abajournal.com/news/article/supreme&#45;court&#45;agrees&#45;to&#45;review&#45;federal&#45;home&#45;distilling&#45;ban/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-20T14:36:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/20/more-legal-research-moves-as-moonlit-launches-free-commentaries",
+        "title": "More Legal Research Moves as Moonlit Launches Free Commentaries",
+        "url": "https://www.artificiallawyer.com/2026/10/20/more-legal-research-moves-as-moonlit-launches-free-commentaries/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-20T13:07:30.000Z",
+        "summary": "It’s all happening at the moment with legal research&#8230;..as Dutch legal publisher, Moonlit, launches Commentaries, a free library of ‘legal commentary drafted directly from primary ...",
+        "category": "articles",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/20/webinar-the-future-of-contract-management-acm-demo",
         "title": "Webinar: The Future of Contract Management + ACM Demo",
@@ -128,16 +168,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/federal&",
-        "title": "Federal appeals court rejects qualified immunity for judge who jailed 2 kids",
-        "url": "https://www.abajournal.com/news/article/federal&#45;appeals&#45;court&#45;reject&#45;qualified&#45;immunity&#45;for&#45;judge&#45;who&#45;jailed&#45;2&#45;kids/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-19T14:52:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/10/new-mcp-makes-tax-research-from-blue-j-available-from-within-legora.html",
         "title": "New MCP Makes Tax Research from Blue J Available from within Legora",
         "url": "https://www.lawnext.com/2026/10/new-mcp-makes-tax-research-from-blue-j-available-from-within-legora.html",
@@ -218,32 +248,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/15/microsoft-launches-copilot-for-legal-brace-for-impact",
-        "title": "Microsoft Launches Copilot for Legal – Brace for Impact!",
-        "url": "https://www.artificiallawyer.com/2026/10/15/microsoft-launches-copilot-for-legal-brace-for-impact/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-15T15:00:16.000Z",
-        "summary": "Microsoft – the software company the world’s lawyers rely upon because of Word – has gone nuclear and launched Copilot for Legal, its own multi-capability ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html",
         "title": "Control Risks To Spin Off Its Discovery, Data and Forensics Businesses Into A New Company",
         "url": "https://www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html",
         "source": "LawSites",
         "publishedAt": "2026-10-15T13:00:31.000Z",
         "summary": "Control Risks, a global strategic intelligence and security firm, said today that it has entered into an agreement to spin off two of its businesses, Discovery + Data Insights and Forensics, into a new, stand-alone compa",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/15/legal-innovators-new-york-speakers-tickets-info",
-        "title": "Legal Innovators New York – Speakers + Tickets Info",
-        "url": "https://www.artificiallawyer.com/2026/10/15/legal-innovators-new-york-speakers-tickets-info/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-15T11:10:29.000Z",
-        "summary": "Legal Innovators New York, the landmark legal innovation conference on November 17 and 18 in Midtown, can now reveal some of our excellent speakers – ...",
         "category": "updates",
         "region": "na"
       },
@@ -1196,29 +1206,9 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/houf1phd3wczck3yme7m",
-        "title": "处理了 4000 万条消息后，我们总结了 Kafka 有序处理的几个关键设计",
-        "url": "https://www.infoq.cn/article/HoUf1pHD3WcZCK3YMe7m?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-20T17:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/4frecluuqb4w4axuhxo5",
         "title": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
@@ -1270,6 +1260,17 @@
         "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "The Guardian China:www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
+        "title": "US bans use of China’s DeepSeek AI tools by government agencies",
+        "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
+        "source": "The Guardian China",
+        "publishedAt": "2026-10-20T12:33:27.000Z",
+        "summary": "Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup Dee",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
