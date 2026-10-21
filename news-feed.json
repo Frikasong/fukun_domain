@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:21:35.628Z",
+  "generatedAt": "2026-10-21T21:03:47.210Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/tennessee&",
+        "title": "Tennessee high court maintains ban on nonlawyer ownership of law firms, fee splitting",
+        "url": "https://www.abajournal.com/web/article/tennessee&#45;high&#45;court&#45;maintains&#45;ban&#45;on&#45;non&#45;lawyer&#45;ownership&#45;of&#45;law&#45;firms&#45;and&#45;fee&#45;splitting/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-21T18:55:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/judge&",
+        "title": "Federal judge didn&#8217;t answer questions, instead emailed sealed court documents to over 100 people",
+        "url": "https://www.abajournal.com/web/article/judge&#45;ada&#45;brown&#45;didnt&#45;answer&#45;questions&#45;instead&#45;emailed&#45;sealed&#45;court&#45;documents&#45;to&#45;over&#45;100&#45;people/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-21T16:54:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/missouri&",
         "title": "Missouri Supreme Court disbars attorney for repeatedly failing to appear in court",
@@ -58,76 +78,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/its-a-big-moment-max-on-legoras-raise",
-        "title": "‘It’s a Big Moment’ &#8211; Max on Legora’s Raise",
-        "url": "https://www.artificiallawyer.com/2026/10/21/its-a-big-moment-max-on-legoras-raise/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T14:38:03.000Z",
-        "summary": "Legora has just raised $550m with a post-money valuation of $8.8 billion – a huge step by any reckoning. Artificial Lawyer asked CEO, Max Junestrand, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/legora-vs-harvey-the-multi-billion-ai-battle",
-        "title": "Legora vs Harvey – The Multi-Billion $$$ AI Battle",
-        "url": "https://www.artificiallawyer.com/2026/10/21/legora-vs-harvey-the-multi-billion-ai-battle/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T14:02:12.000Z",
-        "summary": "Legora has just announced its long-awaited new raise and it’s a big one: $550m – classed as a Series E, and with a post-money valuation ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/legora-raises-550m-at-8-8bn-valuation",
-        "title": "Legora Raises $550m at $8.8Bn Valuation",
-        "url": "https://www.artificiallawyer.com/2026/10/21/legora-raises-550m-at-8-8bn-valuation/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T12:53:47.000Z",
-        "summary": "Breaking News: Legora has raised a $550 million Series E at an $8.8 billion post-money valuation. The round was led by Atreides Management, with participation ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/weil-starts-special-ai-program-for-summer-associates",
-        "title": "Weil Starts Special AI Program for Summer Associates",
-        "url": "https://www.artificiallawyer.com/2026/10/21/weil-starts-special-ai-program-for-summer-associates/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T12:34:01.000Z",
-        "summary": "Weil Gotshal &#38; Manges has launched a new training program for some of its summer associates, who will spend their 1L stint working on the ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/august-applies-agents-to-law-firm-productization",
-        "title": "August Applies Agents to Law Firm Productization",
-        "url": "https://www.artificiallawyer.com/2026/10/21/august-applies-agents-to-law-firm-productization/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T12:04:08.000Z",
-        "summary": "Legal AI platform August has launched Products, a new feature that helps law firms turn their legal services into&#8230;well&#8230;.products. The idea often has been tried ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/li-ny-speaker-krychna-baker-verizon",
-        "title": "LI NY Speaker: Krychna Baker, Verizon",
-        "url": "https://www.artificiallawyer.com/2026/10/21/li-ny-speaker-krychna-baker-verizon/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T11:14:43.000Z",
-        "summary": "Ahead of the Legal Innovators New York conference on November 17 and 18, the team spoke to Krychna Baker, Senior Manager of Legal Innovation &#38; ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/ai-is-not-a-legal-entity-says-law-society",
-        "title": "‘AI Is Not A Legal Entity’ Says Law Society",
-        "url": "https://www.artificiallawyer.com/2026/10/21/ai-is-not-a-legal-entity-says-law-society/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T10:03:06.000Z",
-        "summary": "The Law Society of England &#38; Wales has sent out a practice note to remind everyone that &#8216;AI is not a legal entity&#8217; and so ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/building-chatgpt-ad-stack",
         "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
         "url": "https://openai.com/index/building-chatgpt-ad-stack",
@@ -164,56 +114,6 @@
         "source": "ABA Journal",
         "publishedAt": "2026-10-20T16:47:00.000Z",
         "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/scotus&",
-        "title": "SCOTUS allows Hastings name change to remain at University of California law school",
-        "url": "https://www.abajournal.com/news/article/scotus&#45;allows&#45;hastings&#45;college&#45;of&#45;law&#45;to&#45;keep&#45;its&#45;name/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-20T16:31:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/a&",
-        "title": "&#8216;A Killer Story&#8217;: When everyone knows who did it, nobody knows anything",
-        "url": "https://www.abajournal.com/columns/article/a&#45;killer&#45;story&#45;when&#45;everyone&#45;knows&#45;who&#45;did&#45;it&#45;nobody&#45;knows&#45;anything/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-20T15:48:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/20/womble-bond-dickinson-launches-ai-labs",
-        "title": "Womble Bond Dickinson Launches ‘AI Labs’",
-        "url": "https://www.artificiallawyer.com/2026/10/20/womble-bond-dickinson-launches-ai-labs/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-20T15:04:13.000Z",
-        "summary": "Transatlantic law firm Womble Bond Dickinson has launched ‘Womble AI Labs&#8217;, which will build AI solutions for the firm and its clients. It is led ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/20/more-legal-research-moves-as-moonlit-launches-free-commentaries",
-        "title": "More Legal Research Moves as Moonlit Launches Free Commentaries",
-        "url": "https://www.artificiallawyer.com/2026/10/20/more-legal-research-moves-as-moonlit-launches-free-commentaries/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-20T13:07:30.000Z",
-        "summary": "It’s all happening at the moment with legal research&#8230;..as Dutch legal publisher, Moonlit, launches Commentaries, a free library of ‘legal commentary drafted directly from primary ...",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/20/webinar-the-future-of-contract-management-acm-demo",
-        "title": "Webinar: The Future of Contract Management + ACM Demo",
-        "url": "https://www.artificiallawyer.com/2026/10/20/webinar-the-future-of-contract-management-acm-demo/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-20T08:21:31.000Z",
-        "summary": "On Thursday, October 29 at 12:00 PM ET, 5PM UK – Spellbook’s CEO, Scott Stevenson, and Artificial Lawyer, will be holding a special live webinar: ‘The ...",
         "category": "updates",
         "region": "na"
       },
@@ -1205,6 +1105,46 @@
         "publishedAt": "2024-06-17T04:15:00.000Z",
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
         "region": "na"
       }
     ],
