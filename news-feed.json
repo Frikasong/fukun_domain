@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T02:40:34.437Z",
+  "generatedAt": "2026-10-21T10:53:32.044Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/ai-is-not-a-legal-entity-says-law-society",
+        "title": "‘AI Is Not A Legal Entity’ Says Law Society",
+        "url": "https://www.artificiallawyer.com/2026/10/21/ai-is-not-a-legal-entity-says-law-society/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-21T10:03:06.000Z",
+        "summary": "The Law Society of England &#38; Wales has sent out a practice note to remind everyone that &#8216;AI is not a legal entity&#8217; and so ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/voice/article/when&",
         "title": "When AI training casts survivors as fabricators, survivors pay the price",
@@ -234,16 +244,6 @@
         "source": "LawSites",
         "publishedAt": "2026-10-15T17:56:34.000Z",
         "summary": "Microsoft today launched Copilot for Legal, offering more than 20 legal-specific skills in Microsoft Copilot, bringing contract review, drafting, obligations tracking and other legal workflows into Word and Cowork, its a",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/15/microsoft-copilot-for-legal-what-will-be-the-fallout",
-        "title": "Microsoft Copilot for Legal: What Will Be the Fallout?",
-        "url": "https://www.artificiallawyer.com/2026/10/15/microsoft-copilot-for-legal-what-will-be-the-fallout/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-15T15:32:13.000Z",
-        "summary": "Microsoft has fully launched itself into the legal vertical with Copilot for Legal, an AI-powered venture with over 20 skills that overlap with plenty of ...",
         "category": "tools",
         "region": "na"
       },
@@ -1210,76 +1210,67 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/2wtrouoh1o69dla8f4vm",
-        "title": "720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
-        "url": "https://www.infoq.cn/article/2wtRouOh1O69dLA8f4Vm?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ms3bmt5ocuyymhwfaxgm",
+        "title": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+        "url": "https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-21T10:24:22.000Z",
+        "publishedAt": "2026-10-21T18:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/bqjltkl1fj9ag3cmeumb",
-        "title": "美团企业级 Agent 的平台化应用实践｜QCon上海",
-        "url": "https://www.infoq.cn/article/BQJltkL1FJ9AG3cMeUmB?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/hehy8xhkyfwkuyihpyfe",
+        "title": "对象存储正在“吃掉”Kafka？Cloudflare 用 R2 重做事件流",
+        "url": "https://www.infoq.cn/article/hEHy8XHKyfwKuyIhpyFe?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-21T10:00:00.000Z",
+        "publishedAt": "2026-10-21T17:12:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/39xm9ckcb4jcz9yra6o6",
-        "title": "Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%",
-        "url": "https://www.infoq.cn/article/39xM9CkCb4jcZ9yra6o6?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/yh0dhl8nil26es43tef1",
+        "title": "17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值",
+        "url": "https://www.infoq.cn/article/yH0DHL8Nil26ES43TeF1?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-21T09:21:00.000Z",
+        "publishedAt": "2026-10-21T14:39:11.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/4frecluuqb4w4axuhxo5",
-        "title": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
-        "url": "https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/nbxp966bz3eqr6qidvaf",
+        "title": "DeepSeek开源最新推理框架：单集群日吞吐155万亿Token，KVCache可保存7天",
+        "url": "https://www.infoq.cn/article/NBXP966Bz3eqr6Qidvaf?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-20T14:55:22.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/pvgexqqbbt4tspkemmel",
-        "title": "Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
-        "url": "https://www.infoq.cn/article/pvgeXQQbbt4TsPKeMMEL?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-20T09:06:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/k5j7yb60djwkm6vuzqwq",
-        "title": "大批API账户被刷爆！OpenCode遭黑客围攻48小时，官方甩锅“蒸馏攻击”被质疑",
-        "url": "https://www.infoq.cn/article/K5J7yb60djWKM6vUZqwq?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-19T21:48:11.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/4t84hfyjyp6gq9knwe60",
-        "title": "Kubernetes多集群项目Karmada完成CNCF毕业",
-        "url": "https://www.infoq.cn/article/4t84hFyjYP6gq9KNWE60?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-19T17:23:00.000Z",
+        "publishedAt": "2026-10-21T12:06:48.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/article/3371628/apec-finance-ministers-reach-consensus-ai-digital-financing-hong-kong",
+        "title": "Apec finance ministers reach consensus on AI, digital financing in Hong Kong",
+        "url": "https://www.scmp.com/business/article/3371628/apec-finance-ministers-reach-consensus-ai-digital-financing-hong-kong",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-21T08:00:31.000Z",
+        "summary": "Asia-Pacific Economic Cooperation (Apec) finance chiefs reached a consensus on economic policy coordination and cooperation on financing technology and artificial intelligence at a landmark two-day gathering in Hong Kong",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals",
+        "title": "DeepSeek seeks ‘total victory’ over closed-source AI with new open-source tool",
+        "url": "https://www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-21T05:03:27.000Z",
+        "summary": "Chinese artificial intelligence start-up DeepSeek has fully open-sourced an internally developed framework designed to run AI models efficiently, as a senior researcher at the company described the growing divide between",
+        "category": "tools",
+        "region": "cn_en"
+      }
+    ]
   }
 }
