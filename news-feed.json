@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:02:41.078Z",
+  "generatedAt": "2026-10-21T02:40:34.437Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,36 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/2wtrouoh1o69dla8f4vm",
+        "title": "720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+        "url": "https://www.infoq.cn/article/2wtRouOh1O69dLA8f4Vm?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-21T10:24:22.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/bqjltkl1fj9ag3cmeumb",
+        "title": "美团企业级 Agent 的平台化应用实践｜QCon上海",
+        "url": "https://www.infoq.cn/article/BQJltkL1FJ9AG3cMeUmB?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-21T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/39xm9ckcb4jcz9yra6o6",
+        "title": "Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%",
+        "url": "https://www.infoq.cn/article/39xM9CkCb4jcZ9yra6o6?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-21T09:21:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/4frecluuqb4w4axuhxo5",
         "title": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
         "url": "https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5?utm_source=rss&utm_medium=article",
@@ -1248,29 +1278,8 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zbfzqbuxfmp1qripzwtg",
-        "title": "随着可观测性模式日趋成熟，OpenTelemetry 将 Kubernetes Attribute Processor 提升为稳定版本",
-        "url": "https://www.infoq.cn/article/zBfzQbuxFmP1qrIpZWTG?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-19T14:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "The Guardian China:www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
-        "title": "US bans use of China’s DeepSeek AI tools by government agencies",
-        "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
-        "source": "The Guardian China",
-        "publishedAt": "2026-10-20T12:33:27.000Z",
-        "summary": "Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup Dee",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
