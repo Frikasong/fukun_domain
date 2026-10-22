@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T10:54:00.259Z",
+  "generatedAt": "2026-10-22T16:21:13.223Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ice&",
+        "title": "ICE arrests attorney after alleged threats to federal agents",
+        "url": "https://www.abajournal.com/news/article/ice&#45;arrests&#45;attorney&#45;in&#45;mississippi&#45;after&#45;alleged&#45;threats&#45;to&#45;federal&#45;agents/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-22T15:09:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/billionaire&",
+        "title": "Billionaire received pardon after family company hired former Trump lawyer Alina Habba",
+        "url": "https://www.abajournal.com/news/article/billionaire&#45;received&#45;pardon&#45;after&#45;family&#45;company&#45;hired&#45;former&#45;trump&#45;lawyer&#45;alina&#45;habba/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-22T14:29:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/lexisnexis-protege-is-now-live-in-evenup-letting-pi-lawyers-query-case-law-using-facts-from-their-case-records.html",
+        "title": "LexisNexis Protégé Is Now Live In EvenUp, Letting PI Lawyers Query Case Law Using Facts From Their Case Records",
+        "url": "https://www.lawnext.com/2026/10/lexisnexis-protege-is-now-live-in-evenup-letting-pi-lawyers-query-case-law-using-facts-from-their-case-records.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-22T14:14:24.000Z",
+        "summary": "On Sept. 1, LexisNexis and EvenUp, an AI platform for personal injury lawyers, announced a forthcoming integration by which EvenUp’s customers could access legal insights and agentic AI in LexisNexis Protégé directly fro",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/hourly&",
+        "title": "Hourly billing remains dominant among small, midsize firms, new 8am data shows",
+        "url": "https://www.abajournal.com/news/article/hourly&#45;billing&#45;remains&#45;dominant&#45;among&#45;small&#45;and&#45;midsize&#45;firms&#45;new&#45;8am&#45;data&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-22T14:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/reports-of-the-billable-hours-demise-are-greatly-exaggerated-8am-data-finds.html",
+        "title": "Reports of the Billable Hour&#8217;s Demise Are Greatly Exaggerated, 8am Data Finds",
+        "url": "https://www.lawnext.com/2026/10/reports-of-the-billable-hours-demise-are-greatly-exaggerated-8am-data-finds.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-22T13:06:53.000Z",
+        "summary": "Reports of the demise of the billable hour have been greatly exaggerated, at least at smaller law firms. With apologies to Mark Twain, that is the central finding of a new report on billing and payment practices at small",
+        "category": "articles",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/22/li-uk-speaker-philip-cooney-white-case",
         "title": "LI UK Speaker: Philip Cooney, White &#038; Case",
@@ -164,36 +214,6 @@
         "source": "OpenAI News",
         "publishedAt": "2026-10-21T07:00:00.000Z",
         "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/voice/article/when&",
-        "title": "When AI training casts survivors as fabricators, survivors pay the price",
-        "url": "https://www.abajournal.com/voice/article/when&#45;ai&#45;training&#45;casts&#45;survivors&#45;as&#45;fabricators&#45;survivors&#45;pay&#45;the&#45;price/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-20T20:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/police&",
-        "title": "Law firm receptionist scammed people into paying her, rather than employer, police say",
-        "url": "https://www.abajournal.com/web/article/police&#45;say&#45;law&#45;firm&#45;receptionist&#45;scammed&#45;people&#45;into&#45;paying&#45;her&#45;rather&#45;than&#45;her&#45;employer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-20T17:12:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/book&",
-        "title": "Book deals leave Supreme Court without quorum in music copyright fight",
-        "url": "https://www.abajournal.com/news/article/book&#45;deals&#45;leave&#45;supreme&#45;court&#45;without&#45;a&#45;quorum&#45;in&#45;music&#45;copyright&#45;fight/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-20T16:47:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1168,26 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/07/fastcase-and-alexi-head-to-court-this-week-in-high-stakes-fight-over-legal-ai-caselaw-data-and-clios-1b-vlex-deal.html",
-        "title": "Fastcase And Alexi Head To Court This Week In High-Stakes Fight Over Legal AI, Caselaw Data And Clio’s $1B vLex Deal",
-        "url": "https://www.lawnext.com/2026/07/fastcase-and-alexi-head-to-court-this-week-in-high-stakes-fight-over-legal-ai-caselaw-data-and-clios-1b-vlex-deal.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-06T14:32:01.000Z",
-        "summary": "A federal judge in Washington, D.C., will hear arguments this week in a case that could help define the rules of the road for legal AI companies that rely on licensed caselaw data. The case, Fastcase Inc. v. Alexi Techno",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/07/universal-migrator-now-supports-migrations-from-more-than-170-applications.html",
-        "title": "Universal Migrator Now Supports Migrations From More Than 170 Applications",
-        "url": "https://www.lawnext.com/2026/07/universal-migrator-now-supports-migrations-from-more-than-170-applications.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-02T16:35:23.000Z",
-        "summary": "Universal Migrator has expanded its migration library to support more than 170 legal and business applications, giving legal technology consultants access to one of the industry&#8217;s broadest collections of reusable m",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1210,41 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/v85ey09ulxhcdh4r3rs3",
-        "title": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
-        "url": "https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-22T18:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/o9ocwnkkwgkvszmgy45d",
         "title": "面向 Qwen 系列模型线性注意力的高性能优化实践",
         "url": "https://www.infoq.cn/article/o9OcWNkkwgKvsZmgY45d?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-10-22T17:08:07.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hy9smibojwjdz4jdumzl",
-        "title": "Cloudflare 两个月两改追踪定价，开发者该如何控制成本？",
-        "url": "https://www.infoq.cn/article/hy9SMIBOjwjdZ4JduMzL?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-22T17:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ei2spcfkcomkqkpv6osn",
-        "title": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
-        "url": "https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-22T16:24:29.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1265,16 +1235,6 @@
         "url": "https://www.infoq.cn/article/w065UmVL9EsVI6IVbBd7?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-10-22T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/yh0dhl8nil26es43tef1",
-        "title": "17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值",
-        "url": "https://www.infoq.cn/article/yH0DHL8Nil26ES43TeF1?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-21T14:39:11.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
