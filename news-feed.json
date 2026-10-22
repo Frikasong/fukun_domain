@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:38:31.120Z",
+  "generatedAt": "2026-10-22T10:54:00.259Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/22/li-uk-speaker-philip-cooney-white-case",
+        "title": "LI UK Speaker: Philip Cooney, White &#038; Case",
+        "url": "https://www.artificiallawyer.com/2026/10/22/li-uk-speaker-philip-cooney-white-case/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-22T09:55:16.000Z",
+        "summary": "Ahead of Legal Innovators UK in London on November 4 and 5, the events team spoke to Philip Cooney, Director of Innovation at White &#38; ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/tennessee&",
         "title": "Tennessee high court maintains ban on nonlawyer ownership of law firms, fee splitting",
@@ -205,16 +215,6 @@
         "publishedAt": "2026-10-20T13:07:30.000Z",
         "summary": "It’s all happening at the moment with legal research&#8230;..as Dutch legal publisher, Moonlit, launches Commentaries, a free library of ‘legal commentary drafted directly from primary ...",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/20/webinar-the-future-of-contract-management-acm-demo",
-        "title": "Webinar: The Future of Contract Management + ACM Demo",
-        "url": "https://www.artificiallawyer.com/2026/10/20/webinar-the-future-of-contract-management-acm-demo/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-20T08:21:31.000Z",
-        "summary": "On Thursday, October 29 at 12:00 PM ET, 5PM UK – Spellbook’s CEO, Scott Stevenson, and Artificial Lawyer, will be holding a special live webinar: ‘The ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1210,6 +1210,56 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/v85ey09ulxhcdh4r3rs3",
+        "title": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+        "url": "https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-22T18:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/o9ocwnkkwgkvszmgy45d",
+        "title": "面向 Qwen 系列模型线性注意力的高性能优化实践",
+        "url": "https://www.infoq.cn/article/o9OcWNkkwgKvsZmgY45d?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-22T17:08:07.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hy9smibojwjdz4jdumzl",
+        "title": "Cloudflare 两个月两改追踪定价，开发者该如何控制成本？",
+        "url": "https://www.infoq.cn/article/hy9SMIBOjwjdZ4JduMzL?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-22T17:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ei2spcfkcomkqkpv6osn",
+        "title": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
+        "url": "https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-22T16:24:29.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zgqdwhf8thdtlycimajs",
+        "title": "GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust",
+        "url": "https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-22T13:17:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "tools",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/w065umvl9esvi6ivbbd7",
         "title": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
         "url": "https://www.infoq.cn/article/w065UmVL9EsVI6IVbBd7?utm_source=rss&utm_medium=article",
@@ -1220,41 +1270,11 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ox9rfbmh7v7thvwrkulb",
-        "title": "从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
-        "url": "https://www.infoq.cn/article/OX9rfbmh7V7thvWrkULb?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-22T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/0vwvmhufb66sbofwsvrz",
-        "title": "AWS Lambda推动无服务器向长时间运行的工作负载发展",
-        "url": "https://www.infoq.cn/article/0vwVMhufb66SBofWsvRz?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-22T09:11:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/yh0dhl8nil26es43tef1",
         "title": "17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值",
         "url": "https://www.infoq.cn/article/yH0DHL8Nil26ES43TeF1?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-10-21T14:39:11.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/nbxp966bz3eqr6qidvaf",
-        "title": "DeepSeek开源最新推理框架：单集群日吞吐155万亿Token，KVCache可保存7天",
-        "url": "https://www.infoq.cn/article/NBXP966Bz3eqr6Qidvaf?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-21T12:06:48.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
