@@ -888,7 +888,7 @@ function GridView({ section, entries, allEntries, onNew, onEdit, onDelete, onOpe
             <span style={styles.hubConnectDot}>·</span>
             <a href="https://instagram.com/frika_song" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.instagram}</a>
             <span style={styles.hubConnectDot}>·</span>
-            <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.rednote}</a>
+            <a href="https://www.xiaohongshu.com/user/profile/64543828000000002a00976f" target="_blank" rel="noopener noreferrer" className="hub-link" style={styles.hubConnectLink}>{T.contact.rednote}</a>
           </div>
         </div>
         </ScrollReveal>
@@ -1315,7 +1315,7 @@ function GridView({ section, entries, allEntries, onNew, onEdit, onDelete, onOpe
                 <div style={styles.contactIconCircle}><span style={styles.contactIcon}>🐙</span></div>
                 <span style={styles.contactIconLabel}>{T.contact.github}</span>
               </a>
-              <a href="https://www.xiaohongshu.com/user/profile/5d8eece70000000001009e90" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.rednote}>
+              <a href="https://www.xiaohongshu.com/user/profile/64543828000000002a00976f" target="_blank" rel="noopener noreferrer" style={styles.contactIconLink} title={T.contact.rednote}>
                 <div style={styles.contactIconCircle}><span style={styles.contactIcon}>📕</span></div>
                 <span style={styles.contactIconLabel}>{T.contact.rednote}</span>
               </a>
