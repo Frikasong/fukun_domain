@@ -4,8 +4,9 @@ This is your personal portfolio website with sections for Legal Tech, Admin Law,
 
 ## 📁 Files Included
 
-- `index.html` - Main HTML file that loads React and your app
-- `App.jsx` - Your portfolio application (React component)
+- `index.html` - The digital garden (main site): a self-contained page that stipples `assets/garden-scene.webp` into animated dots and reads `notion-posts.json`, `instagram-posts.json` and `news-feed.json`. Corners: `#/about`, `#/projects`, `#/seedbed` (writing), `#/fun`; plain list at `#/study`; old `#/post/<id>` links still open the piece.
+- `classic.html` - The previous site, still reachable; loads React and `App.jsx`
+- `App.jsx` - The classic portfolio application (React component)
 - `README.md` - This file
 
 ## 🚀 Quick Deploy Options
