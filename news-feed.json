@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T16:10:33.998Z",
+  "generatedAt": "2026-10-23T20:49:40.755Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/what&",
+        "title": "What can lawyers learn from law students?",
+        "url": "https://www.abajournal.com/columns/article/what&#45;lawyers&#45;can&#45;learn&#45;from&#45;law&#45;students/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-23T18:06:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/former&",
         "title": "Former New Orleans lawyer gets prison for staged crash scheme",
@@ -83,26 +93,6 @@
         "url": "https://www.abajournal.com/web/article/beat&#45;the&#45;rap/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-10-22T16:48:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ice&",
-        "title": "ICE arrests attorney after alleged threats to federal agents",
-        "url": "https://www.abajournal.com/news/article/ice&#45;arrests&#45;attorney&#45;in&#45;mississippi&#45;after&#45;alleged&#45;threats&#45;to&#45;federal&#45;agents/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-22T15:09:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/billionaire&",
-        "title": "Billionaire received pardon after family company hired former Trump lawyer Alina Habba",
-        "url": "https://www.abajournal.com/news/article/billionaire&#45;received&#45;pardon&#45;after&#45;family&#45;company&#45;hired&#45;former&#45;trump&#45;lawyer&#45;alina&#45;habba/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-22T14:29:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1205,6 +1195,16 @@
         "publishedAt": "2024-01-31T08:00:00.000Z",
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
         "region": "na"
       }
     ],
