@@ -214,9 +214,11 @@
   .hang:hover .frame, .hang:focus-visible .frame { transform: scale(1.18); }
   .print { background: var(--paper); padding: 4px 4px 14px; border-radius: 2px; box-shadow: 0 8px 18px rgba(6,18,9,.45); }
   .print img { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .lantern { display: flex; flex-direction: column; align-items: center; filter: drop-shadow(0 0 14px rgba(255,170,70,.55)); animation: lanternGlow 3.2s ease-in-out infinite; }
+  .lantern { display: flex; flex-direction: column; align-items: center; }
   .lantern .cap { width: 72%; height: 9px; border-radius: 4px; background: linear-gradient(#6A3820, #4A2414); flex: none; }
-  .lantern .panel { position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 10px; overflow: hidden; border: 2px solid #8A4422; flex: none; }
+  /* A static glow; the breathing light is drawn on the canvas, which is far cheaper than animating a filter. */
+  .lantern .panel { position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 10px; overflow: hidden; border: 2px solid #8A4422; flex: none;
+                    box-shadow: 0 0 18px 4px rgba(255,170,70,.45); }
   .lantern .panel img { width: 100%; height: 100%; object-fit: cover; display: block; filter: sepia(.2) saturate(1.1) brightness(1.05); }
   /* Paper ribs and a warm glow from the candle inside. */
   .lantern .panel::after { content: ''; position: absolute; inset: 0;
@@ -226,8 +228,12 @@
   .hang:hover .lantern .panel::before, .hang:focus-visible .lantern .panel::before { opacity: 1; }
   .lantern .tassel { width: 2px; height: 16px; background: #B8452A; flex: none; position: relative; }
   .lantern .tassel::after { content: ''; position: absolute; left: -3px; bottom: -6px; width: 8px; height: 9px; border-radius: 2px 2px 4px 4px; background: #C9532E; }
-  @keyframes lanternGlow { 0%, 100% { filter: drop-shadow(0 0 14px rgba(255,170,70,.55)); } 50% { filter: drop-shadow(0 0 22px rgba(255,180,80,.75)); } }
-  @media (prefers-reduced-motion: reduce) { .lantern { animation: none; } }
+  /* Phones: no blending or backdrop blur over the moving canvas, and lighter shadows. */
+  html.lite .grain { mix-blend-mode: normal; opacity: .06; }
+  html.lite .pill, html.lite .lang, html.lite .iconbtn, html.lite .journal, html.lite .lightbox, html.lite .mapview { backdrop-filter: none; -webkit-backdrop-filter: none; }
+  html.lite .pill, html.lite .lang, html.lite .iconbtn, html.lite .journal { background: rgba(11,31,16,.84); }
+  html.lite .print { box-shadow: 0 4px 8px rgba(6,18,9,.4); }
+  html.lite .lantern .panel { box-shadow: 0 0 10px 2px rgba(255,170,70,.4); }
 
   /* 苗圃: beds of writing; plants are drawn on the canvas, these are their labels and hit areas. */
   .legend { display: inline-flex; gap: 14px; margin-top: 12px; font-family: system-ui, sans-serif; font-size: 12px; letter-spacing: .06em; color: rgba(246,240,226,.8); }
@@ -552,6 +558,9 @@
 
   const cvs = document.getElementById('garden'), ctx = cvs.getContext('2d');
   const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  // Phones and tablets get a lighter garden: fewer dots, 30 frames a second, no costly CSS blending.
+  const LITE = matchMedia('(pointer: coarse)').matches;
+  if (LITE) document.documentElement.classList.add('lite');
   const rnd = (a, b) => a + Math.random() * (b - a);
   const clamp = v => v < 0 ? 0 : v > 255 ? 255 : v;
   const easeInOut = p => p < 0.5 ? 4 * p * p * p : 1 - Math.pow(-2 * p + 2, 3) / 2;
@@ -559,10 +568,24 @@
   // A slow breeze everywhere, plus an occasional gust that rolls across the whole garden from left to right.
   let gust = null, nextGust = performance.now() + 7000;
   const gustFront = now => -240 + (now - gust.t0) * 0.34;
+  // gustAt runs for tens of thousands of dots a frame, so it reads from a table rebuilt once per frame (4px columns).
+  const GUST_PAD = 400, GUST_STEP = 4;
+  let gustNow = -1, gustTable = new Float32Array(0);
+  function refreshGust(now) {
+    gustNow = now;
+    const n = Math.ceil(((W || 0) + GUST_PAD * 2) / GUST_STEP) + 1, front = gust ? gustFront(now) : 0;
+    if (gustTable.length !== n) gustTable = new Float32Array(n);
+    for (let i = 0; i < n; i++) {
+      const x = i * GUST_STEP - GUST_PAD;
+      let g = 0.55 + 0.45 * Math.sin(now * 0.0005 - x * 0.004);
+      if (gust) { const d = (x - front) / 240; g += 2.4 * Math.exp(-d * d); }
+      gustTable[i] = g;
+    }
+  }
   const gustAt = (x, now) => {
-    let g = 0.55 + 0.45 * Math.sin(now * 0.0005 - x * 0.004);
-    if (gust) { const d = (x - gustFront(now)) / 240; g += 2.4 * Math.exp(-d * d); }
-    return g;
+    if (now !== gustNow) refreshGust(now);
+    const i = ((x + GUST_PAD) / GUST_STEP) | 0;
+    return gustTable[i < 0 ? 0 : i >= gustTable.length ? gustTable.length - 1 : i];
   };
   const images = {};
   const loadImage = src => images[src] ||= new Promise(res => { const im = new Image(); im.onload = () => res(im); im.onerror = () => res(null); im.src = src; });
@@ -627,7 +650,7 @@
     W = innerWidth; H = innerHeight;
     cvs.width = W; cvs.height = H;
     imgData = ctx.createImageData(W, H); img32 = new Uint32Array(imgData.data.buffer);
-    step = Math.max(4.2, Math.sqrt(W * H / 60000));
+    step = Math.max(LITE ? 4.8 : 4.2, Math.sqrt(W * H / (LITE ? 40000 : 60000)));
     cols = Math.ceil(W / step); rows = Math.ceil(H / step); N = cols * rows;
     home = makeSet(); from = makeSet(); to = makeSet(); ctrl = { x: new Float32Array(N), y: new Float32Array(N) };
     delay = new Float32Array(N); ph = new Float32Array(N); amp = new Float32Array(N); size = new Uint8Array(N);
@@ -811,8 +834,10 @@
   }
 
   const RAD = 110, RAD2 = RAD * RAD;
-  let last = 0;
+  let last = 0, skipFrame = false;
   function frame(now) {
+    // On phones, draw every other frame: the garden moves slowly, and this halves the work.
+    if (LITE && (skipFrame = !skipFrame)) { requestAnimationFrame(frame); return; }
     const dt = Math.min(0.05, (now - (last || now)) / 1000); last = now;
     mx += (tx - mx) * 0.15; my += (ty - my) * 0.15;
     calmK += ((readerOpen || studyOpen || mapOpen ? 0.12 : 1) - calmK) * 0.05;
@@ -832,10 +857,12 @@
         const dx = x - mx, dy = y - my, q = dx * dx + dy * dy;
         if (q < RAD2) { const d = Math.sqrt(q) || 1, f = 1 - d / RAD; x += dx / d * f * f * 30; y += dy / d * f * f * 30; }
       }
-      const s = size[i], X = x | 0, Y = y | 0;
-      if (X < 0 || Y < 0 || X + s >= W || Y + s >= H) continue;
+      const X = x | 0, Y = y | 0;
+      if (X < 0 || Y < 0 || X >= W || Y >= H) continue;
+      // Dots at the right and bottom edges are clipped rather than dropped, so the edges stay as dense as the middle.
+      const sw = Math.min(size[i], W - X), sh = Math.min(size[i], H - Y);
       const c = (255 << 24) | ((b | 0) << 16) | ((g | 0) << 8) | (r | 0);
-      for (let yy = 0; yy < s; yy++) { const row = (Y + yy) * W + X; for (let xx = 0; xx < s; xx++) img32[row + xx] = c; }
+      for (let yy = 0; yy < sh; yy++) { const row = (Y + yy) * W + X; for (let xx = 0; xx < sw; xx++) img32[row + xx] = c; }
     }
     drawSoil(); drawPrints(now); drawTendrils(now); drawPlants(now); drawStones(now); drawPond(now); drawFlowers(now); drawVines(now); drawFinds(now); tickGust(now, dt); tickGoose(now);
     ctx.putImageData(imgData, 0, 0);
@@ -956,12 +983,13 @@
       for (const item of v.items) {
         const x = (((item.s + v.off) % v.L) + v.L) % v.L - 160;
         const show = x > -item.w - 40 && x < W + 40;
-        item.node.style.visibility = show ? 'visible' : 'hidden';
+        if (item.vis !== show) { item.vis = show; item.node.style.visibility = show ? 'visible' : 'hidden'; }
         if (!show) continue;
         const cx = x + item.w / 2, y = vineAt(v, cx, now) + 8;
         const rot = reduce ? 0 : Math.sin(now * 0.0014 + item.ph) * 3 * gustAt(cx, now) * calmK;
         item.x = x; item.y = y;
-        item.node.style.opacity = Math.max(0, appear);
+        const op = Math.max(0, appear);
+        if (item.op !== op) { item.op = op; item.node.style.opacity = op; }
         item.node.style.transform = `translate3d(${x}px, ${y}px, 0) rotate(${rot}deg)`;
       }
     }
@@ -973,8 +1001,8 @@
     const appear = Math.min(1, (now - funT0) / 700);
     for (const v of vines) {
       const reach = -20 + (W + 40) * appear;
-      for (const item of v.items) if (item.it.kind === 'video' && item.node.style.visibility !== 'hidden')
-        glow(item.x + item.w / 2, item.y + item.h / 2, 90, 0.2 + 0.05 * Math.sin(now * 0.002 + item.ph), [255, 196, 120]);
+      for (const item of v.items) if (item.it.kind === 'video' && item.vis)
+        glow(item.x + item.w / 2, item.y + item.h / 2, LITE ? 60 : 90, 0.2 + 0.05 * Math.sin(now * 0.002 + item.ph), [255, 196, 120]);
       for (let x = -20; x < reach; x += 2) {
         const y = vineAt(v, x, now);
         put(x | 0, y | 0, 3, 74, 56, 34);
@@ -1016,7 +1044,7 @@
     for (let y = pond.cy - pond.ry * 1.2; y < pond.cy + pond.ry * 1.2; y += 3) for (let x = pond.cx - pond.rx * 1.2; x < pond.cx + pond.rx * 1.2; x += 3) {
       const nx = (x - pond.cx) / pond.rx, ny = (y - pond.cy) / pond.ry, d = Math.hypot(nx, ny);
       const wob = 1 + 0.05 * Math.sin(Math.atan2(ny, nx) * 5);
-      if (d < 0.98 * wob) pondDots.push([x + rnd(-1, 1), y + rnd(-1, 1), d / wob, 0, Math.random()]);
+      if (d < 0.98 * wob) { const px = x + rnd(-1, 1), py = y + rnd(-1, 1); pondDots.push([px, py, d / wob, 0, Math.random(), Math.hypot(px - pond.cx, (py - pond.cy) * pond.rx / pond.ry)]); }
       else if (d < 1.1 * wob && Math.random() < 0.8) pondDots.push([x + rnd(-1, 1), y + rnd(-1, 1), d, 1, Math.random()]);
     }
     funFx.querySelectorAll('.flower-hit').forEach(n => n.remove());
@@ -1110,16 +1138,15 @@
     if (!funActive || !pond || morphStart >= 0) return;
     const grow = Math.min(1, (now - funT0) / 900), reach = 1.15 * (1 - (1 - grow) ** 3);
     const rim = [[150, 158, 150], [124, 134, 126], [176, 182, 172], [96, 120, 80]];
-    for (const [x, y, d, kind, seed] of pondDots) {
+    for (const [x, y, d, kind, seed, dist] of pondDots) {
       if (d > reach) continue;
       if (kind) { const c = rim[(seed * 4) | 0]; put(x | 0, y | 0, 3, c[0], c[1], c[2]); continue; }
-      const dist = Math.hypot(x - pond.cx, (y - pond.cy) * pond.rx / pond.ry);
       const wave = reduce ? 0 : Math.sin(dist * 0.075 - now * 0.0025);
       let r = 34 + 46 * d, g = 66 + 58 * d, b = 80 + 54 * d;
       if (wave > 0.82) { const k = (wave - 0.82) / 0.18 * 0.5; r += (200 - r) * k; g += (226 - g) * k; b += (230 - b) * k; }
       if (seed > 0.995 && Math.sin(now * 0.004 + x) > 0.85) { r = 236; g = 244; b = 240; }
       // Each splash sends two rings outward that fade as they spread.
-      for (const sp of splashes) {
+      if (splashes.length) for (const sp of splashes) {
         const age = now - sp.t0;
         if (age < 0 || age > 2400) continue;
         const d = Math.hypot(x - sp.x, (y - sp.y) * pond.rx / pond.ry), fade = 1 - age / 2400;
@@ -1133,13 +1160,25 @@
     drawPebbles(now);
   }
 
+  // Glows reuse a falloff mask per radius, so no square roots are taken per pixel per frame.
+  const glowMasks = new Map();
+  function glowMask(R) {
+    if (!glowMasks.has(R)) {
+      const dx = [], dy = [], f = [];
+      for (let y = -R; y <= R; y++) for (let x = -R; x <= R; x++) {
+        const d = Math.hypot(x, y) / R;
+        if (d < 1) { dx.push(x); dy.push(y); f.push((1 - d) * (1 - d)); }
+      }
+      glowMasks.set(R, { dx: Int16Array.from(dx), dy: Int16Array.from(dy), f: Float32Array.from(f) });
+    }
+    return glowMasks.get(R);
+  }
   function glow(cx, cy, R, k, tint) {
-    for (let y = -R; y <= R; y++) for (let x = -R; x <= R; x++) {
-      const d = Math.hypot(x, y) / R;
-      if (d >= 1) continue;
-      const X = (cx + x) | 0, Y = (cy + y) | 0;
+    const m = glowMask(R | 0), X0 = cx | 0, Y0 = cy | 0;
+    for (let i = 0; i < m.f.length; i++) {
+      const X = X0 + m.dx[i], Y = Y0 + m.dy[i];
       if (X < 0 || Y < 0 || X >= W || Y >= H) continue;
-      const idx = Y * W + X, c = img32[idx], f = k * (1 - d) * (1 - d);
+      const idx = Y * W + X, c = img32[idx], f = k * m.f[i];
       const r = (c & 255) + (tint[0] - (c & 255)) * f, g = ((c >> 8) & 255) + (tint[1] - ((c >> 8) & 255)) * f, b = ((c >> 16) & 255) + (tint[2] - ((c >> 16) & 255)) * f;
       img32[idx] = (255 << 24) | ((b | 0) << 16) | ((g | 0) << 8) | (r | 0);
     }
