@@ -40,16 +40,16 @@
   .where .pl { font-size: 15px; }
   html[lang="zh"] .where .pl { font-family: 'Long Cang', cursive; font-size: 20px; letter-spacing: .08em; line-height: 1; }
   .where .sec { font-family: system-ui, sans-serif; font-size: 11px; letter-spacing: .1em; opacity: .65; }
-  /* Signposts on either side walk to the neighbouring corner of the garden. */
-  .sign { position: fixed; top: 50%; z-index: 5; display: flex; align-items: center; gap: 6px; padding: 7px 12px; border-radius: 5px;
-          background: #7A5A36; color: #F6F0E2; border: 1px dashed rgba(246,240,226,.35); box-shadow: 0 4px 12px rgba(6,18,9,.45);
-          font-size: 14px; transform: translateY(-50%); transition: transform .25s, background .25s; }
-  .sign::after { content: ''; position: absolute; left: 50%; top: 100%; width: 4px; height: 22px; margin-left: -2px; background: #5E4428; z-index: -1; }
-  .sign .ar { font-family: system-ui, sans-serif; font-size: 12px; opacity: .85; }
-  html[lang="zh"] .sign .pl { font-family: 'Long Cang', cursive; font-size: 19px; letter-spacing: .06em; line-height: 1; }
-  .sign.prev { left: 10px; } .sign.next { right: 10px; }
-  .sign:hover { background: #8A6A44; }
-  .sign.prev:hover { transform: translate(-3px, -50%); } .sign.next:hover { transform: translate(3px, -50%); }
+  /* Signposts: a quiet line of text in each bottom corner, over a dotted path, that walks to the neighbouring corner. */
+  .sign { position: fixed; bottom: 18px; z-index: 5; display: flex; align-items: baseline; gap: 6px; padding: 6px 4px 8px; font-size: 13.5px;
+          color: rgba(246,240,226,.72); text-shadow: 0 1px 8px rgba(6,18,9,.9); transition: color .25s, transform .3s cubic-bezier(.2,.8,.2,1.2); }
+  .sign::after { content: ''; position: absolute; left: 4px; right: 4px; bottom: 2px; border-bottom: 2px dotted rgba(246,240,226,.35); transition: border-color .25s; }
+  .sign .ar { font-family: system-ui, sans-serif; font-size: 12px; }
+  html[lang="zh"] .sign .pl { font-family: 'Long Cang', cursive; font-size: 18px; letter-spacing: .06em; line-height: 1; }
+  .sign.prev { left: 16px; } .sign.next { right: 16px; }
+  .sign:hover, .sign:focus-visible { color: var(--paper); }
+  .sign:hover::after, .sign:focus-visible::after { border-color: rgba(242,177,58,.75); }
+  .sign.prev:hover { transform: translateX(-3px); } .sign.next:hover { transform: translateX(3px); }
   .lang { white-space: nowrap; font-size: 13px; padding: 9px 14px; border-radius: 99px; background: rgba(11,31,16,.55); backdrop-filter: blur(8px); border: 1px solid rgba(246,240,226,.18); }
   .lang:hover { border-color: rgba(246,240,226,.5); }
   .iconbtn { display: grid; place-items: center; width: 38px; height: 38px; border-radius: 50%; background: rgba(11,31,16,.55); backdrop-filter: blur(8px);
@@ -114,7 +114,8 @@
 
   .stage { position: fixed; inset: 0; z-index: 2; pointer-events: none; opacity: 0; visibility: hidden; transition: opacity .35s, visibility 0s .35s; }
   .stage.on { opacity: 1; visibility: visible; transition: opacity .6s; }
-  .stage .rise { opacity: 0; transform: translateY(18px); filter: blur(4px); transition: opacity .7s, transform .9s cubic-bezier(.2,.8,.2,1), filter .7s; }
+  /* Words drift in from the side you're walking towards. */
+  .stage .rise { opacity: 0; transform: translate(calc(var(--dir, 0) * 56px), 10px); filter: blur(4px); transition: opacity .7s, transform .9s cubic-bezier(.2,.8,.2,1), filter .7s; }
   .stage.on .rise { opacity: 1; transform: none; filter: none; }
   .stage.on .rise:nth-child(2) { transition-delay: .08s; } .stage.on .rise:nth-child(3) { transition-delay: .16s; } .stage.on .rise:nth-child(4) { transition-delay: .24s; }
 
@@ -315,17 +316,16 @@
   .findcard .k { display: block; font-family: system-ui, sans-serif; font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: #6B4A08; margin-bottom: 3px; }
   .findcard .ttl { font-size: 14px; line-height: 1.4; }
   .findcard button { margin-top: 8px; font-size: 13px; color: #A83A16; }
-  .journal { position: fixed; left: 16px; bottom: 16px; z-index: 6; display: flex; align-items: center; gap: 6px; padding: 8px 14px; border-radius: 99px; font-size: 13px;
-             background: rgba(11,31,16,.6); backdrop-filter: blur(8px); border: 1px solid rgba(246,240,226,.2); }
-  .journal { gap: 0; }
+  .journal { display: flex; align-items: center; padding: 9px 13px; border-radius: 99px; font-size: 13px; white-space: nowrap;
+             background: rgba(11,31,16,.55); backdrop-filter: blur(8px); border: 1px solid rgba(246,240,226,.18); }
   .journal > span:first-child { margin-right: 6px; }
   .journal b { font-weight: 600; color: var(--marigold); }
   .journal.pulse { animation: jpulse .9s ease-out; }
   @keyframes jpulse { 30% { transform: scale(1.12); border-color: var(--marigold); } }
-  .jpanel { position: fixed; left: 16px; bottom: 64px; z-index: 6; width: min(340px, calc(100vw - 32px)); max-height: 60vh; overflow-y: auto; padding: 16px 18px; border-radius: 16px;
+  .jpanel { position: fixed; left: 50%; top: 66px; z-index: 6; width: min(340px, calc(100vw - 32px)); max-height: 60vh; overflow-y: auto; padding: 16px 18px; border-radius: 16px;
             background: var(--paper); color: var(--forest); box-shadow: 0 16px 40px rgba(6,18,9,.45);
-            opacity: 0; visibility: hidden; transform: translateY(8px); transition: opacity .25s, transform .3s, visibility 0s .3s; }
-  .jpanel.on { opacity: 1; visibility: visible; transform: none; transition: opacity .25s, transform .3s; }
+            opacity: 0; visibility: hidden; transform: translate(-50%, -8px); transition: opacity .25s, transform .3s, visibility 0s .3s; }
+  .jpanel.on { opacity: 1; visibility: visible; transform: translate(-50%, 0); transition: opacity .25s, transform .3s; }
   .jpanel h4 { font-size: 16px; margin-bottom: 4px; }
   .jpanel .note { font-size: 12.5px; opacity: .7; margin-bottom: 10px; font-style: italic; }
   .jpanel li { list-style: none; display: flex; gap: 8px; align-items: baseline; padding: 6px 0; border-top: 1px solid rgba(15,46,22,.08); font-size: 13.5px; }
@@ -343,13 +343,11 @@
   html[lang="en"] .poem .line { font-style: italic; }
   .poem .by { display: block; font-family: system-ui, sans-serif; font-size: 11px; letter-spacing: .16em; opacity: .7; margin-top: 4px; }
 
-  .hint-bar { position: fixed; bottom: 12px; left: 0; right: 0; text-align: center; font-family: system-ui, sans-serif; font-size: 11px; letter-spacing: .1em;
-              color: rgba(246,240,226,.45); pointer-events: none; z-index: 1; }
 
   @media (max-width: 760px) {
-    .hint-bar { display: none; }
+    .journal > span:first-child { display: none; } .journal { padding: 8px 11px; }
     .lang { padding: 8px 11px; }
-    .sign { padding: 6px 9px; font-size: 12px; } html[lang="zh"] .sign .pl { font-size: 16px; } .sign.prev { left: 6px; } .sign.next { right: 6px; }
+    .sign { bottom: 12px; font-size: 12.5px; } html[lang="zh"] .sign .pl { font-size: 16px; } .sign.prev { left: 10px; } .sign.next { right: 10px; }
   }
   @media (max-width: 480px) {
     .topbar { gap: 5px; } .where { padding: 7px 12px; } .iconbtn { width: 34px; height: 34px; }
@@ -367,6 +365,7 @@
   <button class="where" id="whereBtn" type="button" data-i18n-label="map"><span class="pl" id="wherePlace"></span><span class="sec" id="whereSec"></span></button>
   <button class="lang" id="langBtn" type="button"></button>
   <button class="iconbtn" id="mapBtn" type="button" data-i18n-label="map"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/></svg></button>
+  <button class="journal" id="journalBtn" type="button" data-i18n-label="journalTitle" aria-expanded="false" aria-controls="jPanel"><span data-i18n="journal"></span><b id="jCount">0</b><span id="jTotal">/0</span></button>
   <button class="iconbtn" id="studyBtn" type="button" data-i18n-label="study"><svg viewBox="0 0 24 24"><path d="M3 5.5c3-1.3 6-1.3 9 .5 3-1.8 6-1.8 9-.5V19c-3-1.3-6-1.3-9 .5-3-1.8-6-1.8-9-.5z"/><path d="M12 6v13.5"/></svg></button>
 </div>
 
@@ -465,7 +464,6 @@
   <div class="box" id="lbBox"></div>
 </div>
 
-<button class="journal" id="journalBtn" type="button" aria-expanded="false" aria-controls="jPanel"><span data-i18n="journal"></span><b id="jCount">0</b><span id="jTotal">/0</span></button>
 <div class="jpanel" id="jPanel" role="dialog" aria-labelledby="jTitle">
   <h4 id="jTitle" data-i18n="journalTitle"></h4>
   <p class="note" id="jNote"></p>
@@ -477,7 +475,6 @@
 <button class="sign prev" id="signPrev" type="button"></button>
 <button class="sign next" id="signNext" type="button"></button>
 
-<p class="hint-bar" data-i18n="hint"></p>
 
 <script>
 (() => {
@@ -507,7 +504,6 @@
       a_fun: '网球、各种音乐（尤其是爵士）、摄影、阅读，还有陶艺。我的照片和歌都挂在溪畔那边。',
       a_reach: '我非常乐意认识来自不同背景的人，欢迎随时联系我。',
       goTools: '看看我做的工具 →', goWriting: '读读我的文章 →', goPond: '去溪畔看看 →', goLinkedIn: 'LinkedIn ↗', goStudy: '书房里有全部联系方式 →', bye: '回去逛逛', meLabel: '花园里的我',
-      hint: '沿着路牌走，或按 ← → · 点上方的地名打开地图 · 留意闪光的地方',
       place_about: '草坪', place_projects: '石阵', place_seedbed: '苗圃', place_fun: '溪畔',
       sec_about: '关于', sec_projects: '项目', sec_seedbed: '写作', sec_fun: '趣味', walkTo: '走到',
       study: '书房', studyTitle: '书房', studySub: '安静地看：所有内容，没有动画。', skipGarden: '跳过游园，直接看内容 →',
@@ -542,7 +538,6 @@
       a_fun: 'Tennis, all kinds of music (jazz most of all), photography, reading and pottery. My photos and songs hang down by the pond.',
       a_reach: "I'm always happy to connect with people from different backgrounds — feel free to reach out.",
       goTools: 'See the tools I built →', goWriting: 'Read my writing →', goPond: 'Go to the pond →', goLinkedIn: 'LinkedIn ↗', goStudy: 'All contacts are in the study →', bye: 'Back to wandering', meLabel: 'Me, in the garden',
-      hint: 'Follow the signposts or press ← → · tap the place name for the map · linger where something glints',
       place_about: 'The Lawn', place_projects: 'The Stones', place_seedbed: 'The Seedbed', place_fun: 'The Pond',
       sec_about: 'About', sec_projects: 'Projects', sec_seedbed: 'Writing', sec_fun: 'Fun', walkTo: 'Walk to',
       study: 'Study', studyTitle: 'The study', studySub: 'Everything, quietly — no animation.', skipGarden: 'Skip the garden — just the content →',
@@ -577,7 +572,7 @@
     { id: 'fun', src: 'assets/garden-scene.webp', crop: [0, 0.42, 0.62, 0.58], grade: { sat: 1.06, mul: [1.07, 0.99, 0.9], add: [10, 4, 0] }, veil: 'low' },
   ];
   const BG = [11, 31, 16];
-  const DURATION = 1300;
+  const DURATION = 1500;
 
   const cvs = document.getElementById('garden'), ctx = cvs.getContext('2d');
   const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -677,7 +672,7 @@
     imgData = ctx.createImageData(W, H); img32 = new Uint32Array(imgData.data.buffer);
     step = Math.max(LITE ? 4.8 : 4.2, Math.sqrt(W * H / (LITE ? 40000 : 60000))) * QUALITY_STEP[quality];
     cols = Math.ceil(W / step); rows = Math.ceil(H / step); N = cols * rows;
-    home = makeSet(); from = makeSet(); to = makeSet(); ctrl = { x: new Float32Array(N), y: new Float32Array(N) };
+    home = makeSet(); from = makeSet(); to = makeSet(); ctrl = { x: new Float32Array(N), y: new Float32Array(N), x2: new Float32Array(N), y2: new Float32Array(N) };
     delay = new Float32Array(N); ph = new Float32Array(N); amp = new Float32Array(N); size = new Uint8Array(N);
     for (let i = 0; i < N; i++) { ph[i] = rnd(0, 6.28); size[i] = Math.random() < 0.5 ? 3 : 4; }
     prints = [];
@@ -812,7 +807,7 @@
     stages[0].classList.toggle('me-near', on);
   }
 
-  let goToken = 0;
+  let goToken = 0, travel = 1;   // +1 walking on to the next corner, -1 walking back
   async function go(idx) {
     if (idx === current && morphStart < 0) return;
     const token = ++goToken;
@@ -830,10 +825,13 @@
     for (let k = 0; k < N; k++) {
       const i = a[k], j = b[k];
       to.x[i] = target.x[j]; to.y[i] = target.y[j]; to.r[i] = target.r[j]; to.g[i] = target.g[j]; to.b[i] = target.b[j]; to.me[i] = target.me[j];
-      // A gust lifts each particle up and to the right before it settles.
-      ctrl.x[i] = (from.x[i] + to.x[i]) / 2 + rnd(60, 200);
-      ctrl.y[i] = Math.min(from.y[i], to.y[i]) - rnd(40, 160);
-      delay[i] = (from.x[i] / W) * 0.28 + Math.random() * 0.1;
+      // Walking on: each dot streams out the far side and the new place flows in from the side you're heading to,
+      // like the view panning along the path. The leading edge goes first.
+      const reach = W * rnd(0.45, 0.8), lift = rnd(-70, 40);
+      ctrl.x[i] = from.x[i] - travel * reach; ctrl.y[i] = from.y[i] + lift;
+      ctrl.x2[i] = to.x[i] + travel * reach; ctrl.y2[i] = to.y[i] + lift;
+      const lead = travel > 0 ? from.x[i] / W : 1 - from.x[i] / W;
+      delay[i] = lead * 0.3 + Math.random() * 0.08;
     }
     current = idx;
     morphStart = reduce ? now - DURATION : now;
@@ -846,9 +844,9 @@
     if (morphStart >= 0) {
       const T = (now - morphStart) / DURATION;
       let p = (T - delay[i]) / 0.62; p = p < 0 ? 0 : p > 1 ? 1 : p;
-      const e = easeInOut(p), u = 1 - e;
-      x = u * u * from.x[i] + 2 * u * e * ctrl.x[i] + e * e * to.x[i];
-      y = u * u * from.y[i] + 2 * u * e * ctrl.y[i] + e * e * to.y[i];
+      const e = easeInOut(p), u = 1 - e, a = u * u * u, b1 = 3 * u * u * e, b2 = 3 * u * e * e, c = e * e * e;
+      x = a * from.x[i] + b1 * ctrl.x[i] + b2 * ctrl.x2[i] + c * to.x[i];
+      y = a * from.y[i] + b1 * ctrl.y[i] + b2 * ctrl.y2[i] + c * to.y[i];
       r = from.r[i] + (to.r[i] - from.r[i]) * e; g = from.g[i] + (to.g[i] - from.g[i]) * e; b = from.b[i] + (to.b[i] - from.b[i]) * e;
     } else { x = home.x[i]; y = home.y[i]; r = home.r[i]; g = home.g[i]; b = home.b[i]; }
     if (sway && !reduce) {
@@ -2131,6 +2129,7 @@
   let stageTimer;
   function showStage(idx, instant) {
     updateWayfinding(idx);
+    document.documentElement.style.setProperty('--dir', travel);
     stages.forEach(s => s.classList.remove('on'));
     document.getElementById('veil').className = 'veil ' + SCENES[idx].veil;
     setFunActive(false); setMeNear(false, true); setNurseryActive(false); setProjectsActive(false); closeReader(); hideFindCard();
@@ -2141,6 +2140,8 @@
   }
   const indexFromHash = () => Math.max(0, SCENES.findIndex(s => '#/' + s.id === location.hash));
   addEventListener('hashchange', () => {
+    const next = indexFromHash(), fwd = (next - current + SCENES.length) % SCENES.length;
+    if (fwd) travel = fwd <= SCENES.length / 2 ? 1 : -1;
     if (POST_LINK.test(location.hash)) return openPostLink();
     if (location.hash === '#/study') return openStudy();
     closeStudy();
