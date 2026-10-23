@@ -8,6 +8,9 @@
 <meta property="og:title" content="Fukun · 飞鸿雪泥 — welcome to my garden">
 <meta property="og:description" content="A digital garden of legal tech tools, writing on administrative law, photos and music.">
 <link rel="icon" href="logo.png">
+<!-- Start fetching the garden straight away (smaller on touch screens) rather than when the script asks for it. -->
+<link rel="preload" as="image" href="assets/garden-scene-640.webp" media="(pointer: coarse)" fetchpriority="high">
+<link rel="preload" as="image" href="assets/garden-scene.webp" media="(pointer: fine)" fetchpriority="high">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <!-- Fonts load without blocking the first paint; slow or blocked font hosts must not keep the page blank. -->
@@ -566,10 +569,10 @@
 
   // ─── Scenes: corners of the same garden, with only a gentle shift in light ──
   const SCENES = [
-    { id: 'about', src: 'assets/garden-scene.webp', crop: [0, 0, 1, 1], grade: { sat: 1, mul: [1, 1, 1], add: [0, 0, 0] }, veil: '', figure: [493, 695, 595, 815] },
-    { id: 'projects', src: 'assets/garden-scene.webp', crop: [0.4, 0, 0.6, 0.6], grade: { sat: 0.95, mul: [0.9, 0.98, 1.06], add: [0, 4, 12] }, veil: 'low' },
-    { id: 'seedbed', src: 'assets/garden-scene.webp', crop: [0.6, 0.46, 0.4, 0.34], grade: { sat: 0.98, mul: [0.98, 1.02, 0.98], add: [0, 4, 0] }, veil: 'low' },
-    { id: 'fun', src: 'assets/garden-scene.webp', crop: [0, 0.42, 0.62, 0.58], grade: { sat: 1.06, mul: [1.07, 0.99, 0.9], add: [10, 4, 0] }, veil: 'low' },
+    { id: 'about', crop: [0, 0, 1, 1], grade: { sat: 1, mul: [1, 1, 1], add: [0, 0, 0] }, veil: '', figure: [493, 695, 595, 815] },
+    { id: 'projects', crop: [0.4, 0, 0.6, 0.6], grade: { sat: 0.95, mul: [0.9, 0.98, 1.06], add: [0, 4, 12] }, veil: 'low' },
+    { id: 'seedbed', crop: [0.6, 0.46, 0.4, 0.34], grade: { sat: 0.98, mul: [0.98, 1.02, 0.98], add: [0, 4, 0] }, veil: 'low' },
+    { id: 'fun', crop: [0, 0.42, 0.62, 0.58], grade: { sat: 1.06, mul: [1.07, 0.99, 0.9], add: [10, 4, 0] }, veil: 'low' },
   ];
   const BG = [11, 31, 16];
   const DURATION = 1500;
@@ -608,6 +611,25 @@
   const images = {};
   const loadImage = src => images[src] ||= new Promise(res => { const im = new Image(); im.onload = () => res(im); im.onerror = () => res(null); im.src = src; });
 
+  // ─── The artwork: a 64px sketch inlined here draws the garden at once; the real image (smaller on phones) refines it ──
+  const SKETCH = 'data:image/webp;base64,UklGRkQEAABXRUJQVlA4IDgEAACQEgCdASpAAEAAPp0+lkmlo6IhO/gMALATiWwAnTMACA/D+apbW04Ez26XPLaa5vM1nytK+1jGgYhdnLp0yrRJ2OwwVWrO3qgruBMdJAcUeay4s+IyCS5iCHFlSXjxdMPFSEVM1huboOUSRAR/ASv+FuSpVFG5meowuojKZS76PnmX59hXzsHp6pX2psBR7+fZTwMd1NfzCwyd1CyAAP1wBsjG7GGJ1jZeR/6OuL98AUMa+/qX0/FmolBZKzAfsy8RPiXLNWjk80OrFwCmFb/4VpFwAolG103eydItgcBzDtcXpWOPX2nUJNXFRMt13uBSjQj7/olHm7eLibSJXw/jLyHRT+g5V+X24P+Yz+g4bbID+SQoSQC5BzlK7qKCXn3Ftj6Ho4DQQV/bZwAIZ4fI9Oh1sgqZMG45RDch6/D+rQN57KYL09jx7xNhtOOSCtDyO+ZFrylluAzqMvK6WUuKGCZWBEd/JNkTaLjOYRcEfuiyZtVudewc9y+t/XgtrwpE1RyN+Yf+TjP/OWnbPBg/ObIkLCQVVgq2K7aJD1aq5KCm+nsMDjqahoosUF4hcqbByPTGnJjyIsprBmbmESNmV4BIO2zDfU6JuWXPZyNu6uhe9cDpnL1P1hrmsGAXG+tOqpB/P2SWb7YG4zLvxnrIj/TMZiwk1a5zS47tBzNLOyafbtCQcaIv5rbAC3bqXUzJZojTEFklDvftZS5uB0RPVZb1AKgZ5GQJJkE1jhrym1RagK/TauLfh1PB6h/g+uqFpJo4ozFSBOAYxHGyeO6jp1Z5+FQc/a5PJcZGIexORYUJEw25PF1MHMLxgN5JsH05ZUvMw+49LjSK8AqwmoV3f4johSroZiy3nzsmWJUpweGG7Bq2I3Q55J3BNYTZzD8lWlbd/6i5LXoU+x6bYjsRue5oSQmRLiHr+eHNfhGItg31Abdq6SEXqr+xL0dm80tt1r4RbwjPL9INhaZvYz09X4xRzKjD6FCCXWhRi/pUD8J/7BW8ViM+N8lI8UpcNuawaFdt9PX+vS2nG5XKMCiDPkZC7oN6FDhxQHYmjMZj/5i4U39IlOHk69p43+z1HEKUVbykx3yHwyVjQ9Clz+wUqB3PSpBPwhpQlCJxBX32F+ZgZHOQJd/aLL5f8nldU+tWj2/B8Sgyho4ZhHpFXm9OtfiDJF6MZdyjqpYeai+XTuJtvu98Aqf2T8X8s2bPpOAJS/xe5DoVFPvnbc0+uPlnWFp283GTqYPD93rHRZKcA2xD66TRwmJ0Uv2AkjBz2/26q0AknGk06zptUwkH7OCt8JDP7oNuliINWiXNZbOtCujBT6fUur+UmJRLO5+L/rQr6M8oc0Ij+5qpWLhbVqXdm61xbwVIwBm61lMAVb26TsN/sivNcMTcyR1vV6fbL2ebfJIB/rvZnhF3oBaysOtHcOMByiIYAAA=';
+  const ARTWORK = LITE ? 'assets/garden-scene-640.webp' : 'assets/garden-scene.webp';
+  let artworkReady = false, homeSketch = false, toSketch = false;
+  // Everything works in the 1024px coordinates of the original artwork, whatever size was actually loaded.
+  function asArtwork(img) {
+    if (!img || img.naturalWidth === 1024) return img;
+    const c = document.createElement('canvas');
+    c.width = c.height = 1024;
+    const o = c.getContext('2d'); o.imageSmoothingQuality = 'high'; o.drawImage(img, 0, 0, 1024, 1024);
+    c.naturalWidth = c.naturalHeight = 1024;
+    return c;
+  }
+  let artworkP = null, sketchP = null;
+  const loadArtwork = () => artworkP ||= loadImage(ARTWORK).then(im => { artworkReady = !!im; return asArtwork(im); });
+  const loadSketch = () => sketchP ||= loadImage(SKETCH).then(asArtwork);
+  // Coordinates (figure, finds, goose) only need the shape of the artwork, so the sketch is enough for them.
+  const loadShape = () => artworkReady ? loadArtwork() : loadSketch();
+
   let W, H, N, step, cols, rows, img32, imgData;
   let home, from, to, ctrl, delay, ph, amp, size;
   let current = 0, morphStart = -1;
@@ -631,7 +653,7 @@
 
   // Sample a scene on a jittered grid. Same W/H → same grid → same particle count for every scene.
   async function sample(scene) {
-    const im = await loadImage(scene.src);
+    const sketch = !artworkReady, im = await (sketch ? loadSketch() : loadArtwork());
     if (!im) throw new Error('garden image failed to load');
     srcW = im.naturalWidth; srcH = im.naturalHeight;
     const { sx, sy, sw, sh } = cropRect(scene, im);
@@ -640,6 +662,7 @@
     const px = o.getImageData(0, 0, W, H).data, g = scene.grade;
     const out = { ...makeSet(), lum: new Float32Array(N) };
     const fig = scene.figure ? figureRect(scene, im) : null;
+    out.sketch = sketch;
     let k = 0;
     for (let gy = 0; gy < rows; gy++) for (let gx = 0; gx < cols; gx++, k++) {
       const x = Math.min(W - 1, (gx + Math.random()) * step), y = Math.min(H - 1, (gy + Math.random()) * step);
@@ -676,7 +699,7 @@
     delay = new Float32Array(N); ph = new Float32Array(N); amp = new Float32Array(N); size = new Uint8Array(N);
     for (let i = 0; i < N; i++) { ph[i] = rnd(0, 6.28); size[i] = Math.random() < 0.5 ? 3 : 4; }
     prints = [];
-    try { copy(await sample(SCENES[current]), home); } finally { rebuilding = false; }
+    try { const first = await sample(SCENES[current]); copy(first, home); homeSketch = first.sketch; } finally { rebuilding = false; }
     setAmp();
     morphStart = -1;
     placeMe();
@@ -787,7 +810,7 @@
   const meEl = document.getElementById('me');
   let meBox = null, meNear = false, meGlow = 0, bubbleHover = false;
   async function placeMe() {
-    const scene = SCENES[0], im = await loadImage(scene.src);
+    const scene = SCENES[0], im = await loadShape();
     meBox = figureRect(scene, im);
     const w = meBox.x1 - meBox.x0, h = meBox.y1 - meBox.y0, cx = meBox.x0 + w / 2;
     Object.assign(meEl.style, { left: meBox.x0 + 'px', top: meBox.y0 + 'px', width: w + 'px', height: h + 'px' });
@@ -834,6 +857,24 @@
       delay[i] = lead * 0.3 + Math.random() * 0.08;
     }
     current = idx;
+    toSketch = target.sketch;
+    morphStart = reduce ? now - DURATION : now;
+  }
+
+  // When the real artwork arrives, every dot eases into its true colour in place (both samples share one grid, index by index).
+  async function refineScene() {
+    homeSketch = false;
+    const token = ++goToken, target = await sample(SCENES[current]);
+    if (token !== goToken) return;
+    const now = performance.now();
+    for (let i = 0; i < N; i++) {
+      particle(i, now, false);
+      from.x[i] = P[0]; from.y[i] = P[1]; from.r[i] = P[2]; from.g[i] = P[3]; from.b[i] = P[4];
+      to.x[i] = target.x[i]; to.y[i] = target.y[i]; to.r[i] = target.r[i]; to.g[i] = target.g[i]; to.b[i] = target.b[i]; to.me[i] = target.me[i];
+      ctrl.x[i] = from.x[i]; ctrl.y[i] = from.y[i]; ctrl.x2[i] = to.x[i]; ctrl.y2[i] = to.y[i];
+      delay[i] = Math.random() * 0.35;
+    }
+    toSketch = false;
     morphStart = reduce ? now - DURATION : now;
   }
 
@@ -870,7 +911,8 @@
     const dt = Math.min(0.05, (now - (last || now)) / 1000); last = now;
     mx += (tx - mx) * 0.15; my += (ty - my) * 0.15;
     calmK += ((readerOpen || studyOpen || mapOpen ? 0.12 : 1) - calmK) * 0.05;
-    if (morphStart >= 0 && now - morphStart > DURATION) { copy(to, home); setAmp(); morphStart = -1; }
+    if (morphStart >= 0 && now - morphStart > DURATION) { copy(to, home); setAmp(); morphStart = -1; homeSketch = toSketch; }
+    if (homeSketch && artworkReady && morphStart < 0 && !rebuilding) refineScene();
 
     const meOn = current === 0 && morphStart < 0;
     meGlow += ((meOn && meNear ? 1 : 0) - meGlow) * 0.12;
@@ -1796,7 +1838,7 @@
       ...videos.slice(0, 1).map(p => ({ kind: 'video', key: 'video:' + p.id, item: p })),
       { kind: 'poem', key: 'poem' },
     ].slice(0, FIND_SPOTS.length);
-    const im = await loadImage(SCENES[0].src), { sx, sy, sw, sh } = cropRect(SCENES[0], im);
+    const im = await loadShape(), { sx, sy, sw, sh } = cropRect(SCENES[0], im);
     finds = list.map((f, i) => {
       let x = (FIND_SPOTS[i][0] - sx) / sw * W, y = (FIND_SPOTS[i][1] - sy) / sh * H;
       x = Math.max(28, Math.min(W - 28, x)); y = Math.max(84, Math.min(H - 70, y));
@@ -1905,7 +1947,7 @@
   const GOOSE_BODY = [[118, 108, 94], [140, 130, 114], [98, 90, 78]], GOOSE_DARK = [38, 34, 30], GOOSE_LEG = [196, 120, 58];
 
   async function startGoose(now, flock) {
-    const im = await loadImage(SCENES[0].src), { sx, sy, sw, sh } = cropRect(SCENES[0], im);
+    const im = await loadShape(), { sx, sy, sw, sh } = cropRect(SCENES[0], im);
     const S = W < 700 ? 1.6 : 2;
     if (flock) {
       geese = Array.from({ length: 7 }, (_, i) => {
@@ -2042,7 +2084,8 @@
   let mapArtSize = 0;
   async function drawMapArt(size) {
     if (size === mapArtSize) return;
-    const im = await loadImage(SCENES[0].src);
+    const im = await loadArtwork();
+    if (!im) return;
     const cv = document.getElementById('mapArt'), c = cv.getContext('2d');
     cv.width = size; cv.height = size;
     const off = document.createElement('canvas'); off.width = size; off.height = size;
@@ -2204,9 +2247,10 @@
   // Words first: the stage shows straight away and the garden fills in once its image has loaded.
   showStage(current, true);
   build().then(() => { showStage(current, true); requestAnimationFrame(frame); })
-    .catch(() => { location.hash = '/study'; });
-  loadFun();
-  loadWriting();
+    .catch(() => { location.hash = '/study'; })
+    // Posts and photos load once the garden is up, so they don't compete with it for bandwidth.
+    .finally(() => { loadFun(); loadWriting(); });
+  loadArtwork();
 })();
 </script>
 </body>
