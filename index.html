@@ -95,7 +95,8 @@
   .map-card h2 { font-weight: 400; font-size: clamp(24px, 3.4vw, 34px); }
   html[lang="zh"] .map-card h2 { font-family: 'Long Cang', cursive; letter-spacing: .1em; }
   html[lang="en"] .map-card h2 { font-style: italic; }
-  .map-card .sub { font-family: system-ui, sans-serif; font-size: 12px; letter-spacing: .08em; opacity: .7; margin: 4px 0 14px; }
+  .map-card .sub { font-family: system-ui, sans-serif; font-size: 12px; letter-spacing: .08em; opacity: .7; margin: 4px 0 4px; }
+  .map-card .moment { font-style: italic; font-size: 13px; color: var(--marigold); margin-bottom: 12px; }
   .map-card .close { position: absolute; top: -6px; right: -6px; width: 38px; height: 38px; border-radius: 50%; font-size: 18px; background: rgba(246,240,226,.14); }
   .map-frame { position: relative; width: min(78vh, calc(100vw - 32px), 640px); aspect-ratio: 1; border-radius: 20px; overflow: hidden; box-shadow: 0 20px 50px rgba(0,0,0,.45); }
   .map-frame { background: #0B1F10; }
@@ -458,6 +459,7 @@
     <button class="close" id="mapClose" type="button" data-i18n-label="close">×</button>
     <h2 id="mapTitle" data-i18n="mapTitle"></h2>
     <p class="sub" data-i18n="mapSub"></p>
+    <p class="moment" id="mapMoment"></p>
     <div class="map-frame" id="mapFrame"><canvas id="mapArt" aria-hidden="true"></canvas><canvas id="mapTrail"></canvas></div>
   </div>
 </div>
@@ -510,7 +512,9 @@
       place_about: '草坪', place_projects: '石阵', place_seedbed: '苗圃', place_fun: '溪畔',
       sec_about: '关于', sec_projects: '项目', sec_seedbed: '写作', sec_fun: '趣味', walkTo: '走到',
       study: '书房', studyTitle: '书房', studySub: '安静地看：所有内容，没有动画。', skipGarden: '跳过游园，直接看内容 →',
-      map: '地图', mapTitle: '花园地图', mapSub: '点一个地方就能飞过去 · 白色小点是你走过的鸿爪', here: '你在这里',
+      map: '地图', mapTitle: '花园地图', mapSub: '点一个地方就能飞过去 · 雾散开的地方是你走过的路',
+      momentNow: '此刻', time_dawn: '清晨', time_day: '白天', time_dusk: '黄昏', time_night: '夜晚',
+      season_spring: '春', season_summer: '夏', season_autumn: '秋', season_winter: '冬', here: '你在这里',
       contact: '联系', back: '回到花园', rednote: '小红书', classic: '旧版网站',
       journal: '拾遗 ', journalTitle: '拾遗录', journalNote: '在花园里游荡，在微光闪烁的地方停一停。', journalDone: '你已走遍整座花园。',
       journalReset: '清空记录，重新寻找', foundK: '拾得', unfound: '还藏在花园某处', open2: '打开 →',
@@ -544,7 +548,9 @@
       place_about: 'The Lawn', place_projects: 'The Stones', place_seedbed: 'The Seedbed', place_fun: 'The Pond',
       sec_about: 'About', sec_projects: 'Projects', sec_seedbed: 'Writing', sec_fun: 'Fun', walkTo: 'Walk to',
       study: 'Study', studyTitle: 'The study', studySub: 'Everything, quietly — no animation.', skipGarden: 'Skip the garden — just the content →',
-      map: 'Map', mapTitle: 'Garden map', mapSub: 'Click a place to fly there · white dots are your footprints', here: 'You are here',
+      map: 'Map', mapTitle: 'Garden map', mapSub: 'Click a place to fly there · the mist clears where you have walked',
+      momentNow: 'Now', time_dawn: 'Dawn', time_day: 'Day', time_dusk: 'Dusk', time_night: 'Night',
+      season_spring: 'Spring', season_summer: 'Summer', season_autumn: 'Autumn', season_winter: 'Winter', here: 'You are here',
       contact: 'Contact', back: 'Back to the garden', rednote: 'RedNote', classic: 'Classic site',
       journal: 'Finds ', journalTitle: 'Garden finds', journalNote: 'Wander the garden, and linger wherever something glints.', journalDone: "You've walked the whole garden.",
       journalReset: 'Clear and search again', foundK: 'Found', unfound: 'Still hidden somewhere', open2: 'Open →',
@@ -672,6 +678,7 @@
       r = clamp((l + (r - l) * g.sat) * g.mul[0] + g.add[0]);
       gg = clamp((l + (gg - l) * g.sat) * g.mul[1] + g.add[1]);
       b = clamp((l + (b - l) * g.sat) * g.mul[2] + g.add[2]);
+      atMoment(r, gg, b, x, y); r = M[0]; gg = M[1]; b = M[2];
       out.x[k] = x; out.y[k] = y; out.r[k] = r; out.g[k] = gg; out.b[k] = b; out.lum[k] = 0.3 * r + 0.59 * gg + 0.11 * b;
       // Inside the figure's box, keep the shirt, trousers and hair — not the grass or the rock.
       if (fig && x > fig.x0 && x < fig.x1 && y > fig.y0 && y < fig.y1) {
@@ -703,6 +710,7 @@
     setAmp();
     morphStart = -1;
     placeMe();
+    seedMotes();
     layoutNursery(); layoutProjects(); layoutFun();
     buildFinds();
   }
@@ -935,7 +943,7 @@
       const c = (255 << 24) | ((b | 0) << 16) | ((g | 0) << 8) | (r | 0);
       for (let yy = 0; yy < sh; yy++) { const row = (Y + yy) * W + X; for (let xx = 0; xx < sw; xx++) img32[row + xx] = c; }
     }
-    drawSoil(); drawPrints(now); drawTendrils(now); drawPlants(now); drawStones(now); drawPond(now); drawFlowers(now); drawVines(now); drawFinds(now); tickGust(now, dt); tickGoose(now);
+    drawSoil(); drawPrints(now); drawTendrils(now); drawPlants(now); drawStones(now); drawPond(now); drawFlowers(now); drawVines(now); drawFinds(now); tickGust(now, dt); tickGoose(now); tickMotes(now, dt);
     ctx.putImageData(imgData, 0, 0);
     tickVines(now, dt);
     // Judge only steady frames, never mid-transition or while hidden; step down if the budget is blown.
@@ -1792,6 +1800,74 @@
     }
   }
 
+  // ─── 昼夜与季节: the garden follows the visitor's own clock and calendar ──
+  // Preview other moments with ?time=dawn|day|dusk|night and ?season=spring|summer|autumn|winter.
+  const MOMENT = (() => {
+    const q = new URLSearchParams(location.search), d = new Date(), h = d.getHours() + d.getMinutes() / 60, m = d.getMonth();
+    const time = q.get('time') || (h >= 5 && h < 8 ? 'dawn' : h >= 8 && h < 17 ? 'day' : h >= 17 && h < 20 ? 'dusk' : 'night');
+    // Seasons as the northern hemisphere has them (the garden's home is Toronto).
+    const season = q.get('season') || (m >= 2 && m <= 4 ? 'spring' : m >= 5 && m <= 7 ? 'summer' : m >= 8 && m <= 10 ? 'autumn' : 'winter');
+    return { time, season };
+  })();
+  const TIME_TONE = { dawn: [1, 0.96, 1.04, 12, 6, 16], day: [1, 1, 1, 0, 0, 0], dusk: [1.12, 0.9, 0.76, 18, 4, -4], night: [0.42, 0.52, 0.8, 4, 10, 30] };
+  const M = new Float32Array(3);
+  // Re-colour one sampled dot for the season, then for the time of day (result in M).
+  function atMoment(r, g, b, x, y) {
+    const l = 0.3 * r + 0.59 * g + 0.11 * b;
+    if (MOMENT.season === 'autumn' && g > r && g > b) {
+      // Foliage turns in patches: some gold, some rust, some still green.
+      const patch = Math.sin(x * 0.031 + y * 0.017) * 0.5 + Math.sin(x * 0.007 - y * 0.023) * 0.5;
+      const k = Math.min(1, (g - Math.max(r, b)) / 60) * Math.max(0, patch * 0.8 + 0.45);
+      r += (g * 1.08 + 20 - r) * k; g -= g * 0.18 * k; b -= b * 0.45 * k;
+    } else if (MOMENT.season === 'winter') {
+      r = l + (r - l) * 0.5 + 14; g = l + (g - l) * 0.5 + 16; b = l + (b - l) * 0.5 + 24;
+    } else if (MOMENT.season === 'spring') {
+      r += 6; b += 4;
+    } else if (MOMENT.season === 'summer') {
+      r = l + (r - l) * 1.08; g = l + (g - l) * 1.08; b = l + (b - l) * 1.08;
+    }
+    const T = TIME_TONE[MOMENT.time] || TIME_TONE.day;
+    M[0] = clamp(r * T[0] + T[3]); M[1] = clamp(g * T[1] + T[4]); M[2] = clamp(b * T[2] + T[5]);
+  }
+
+  // Ambient life for the moment: leaves in autumn, snow in winter, petals in spring, seeds in summer; fireflies on warm nights.
+  const MOTE = { autumn: 'leaf', winter: 'snow', spring: 'petal', summer: 'seed' }[MOMENT.season] || 'seed';
+  const FIREFLIES = MOMENT.time === 'night' && MOMENT.season !== 'winter';
+  const MOTE_COLORS = { leaf: [[214, 120, 40], [176, 82, 34], [226, 170, 58], [150, 96, 44]], petal: [[244, 186, 204], [250, 214, 224]], snow: [[240, 244, 246]], seed: [[238, 236, 222]] };
+  let motes = [];
+  function newMote(kind, scatter) {
+    const cs = MOTE_COLORS[kind] || [[232, 255, 150]];
+    return { kind, x: rnd(-20, W + 20), y: scatter ? rnd(0, H) : -10, ph: rnd(0, 6.28), c: cs[(Math.random() * cs.length) | 0],
+             vy: kind === 'snow' ? rnd(18, 40) : rnd(14, 28), s: kind === 'snow' && Math.random() < 0.7 ? 2 : 3 };
+  }
+  function seedMotes() {
+    motes = [];
+    const n = Math.round({ leaf: 16, snow: 70, petal: 16, seed: 10 }[MOTE] * (LITE ? 0.6 : 1));
+    for (let i = 0; i < n; i++) motes.push(newMote(MOTE, true));
+    if (FIREFLIES) for (let i = 0; i < (LITE ? 12 : 22); i++) motes.push(newMote('firefly', true));
+  }
+  function tickMotes(now, dt) {
+    if (reduce || morphStart >= 0) return;
+    for (const p of motes) {
+      if (p.kind === 'firefly') {
+        // Fireflies wander about their spot and pulse.
+        p.x += Math.sin(now * 0.0006 + p.ph) * 0.6; p.y += Math.cos(now * 0.0005 + p.ph * 1.3) * 0.45;
+        const k = Math.max(0, Math.sin(now * 0.002 + p.ph * 3));
+        if (k > 0.05) { glow(p.x, p.y, 12, 0.55 * k, [232, 255, 150]); put(p.x | 0, p.y | 0, 2, 240, 255, 170); }
+        continue;
+      }
+      const g = gustAt(p.x, now), snow = p.kind === 'snow';
+      p.y += p.vy * dt * calmK;
+      p.x += (Math.sin(now * 0.0012 + p.ph) * (snow ? 10 : 22) + g * (snow ? 8 : 16)) * dt * calmK;
+      if (p.kind === 'leaf' || p.kind === 'petal') {
+        // A small cluster that tumbles as it falls.
+        const a = now * 0.003 + p.ph;
+        for (let j = 0; j < 4; j++) put((p.x + Math.cos(a + j * 1.6) * 2.4) | 0, (p.y + Math.sin(a + j * 1.6) * 1.2) | 0, 2, p.c[0], p.c[1], p.c[2]);
+      } else put(p.x | 0, p.y | 0, p.s, p.c[0], p.c[1], p.c[2]);
+      if (p.y > H + 10 || p.x > W + 30 || p.x < -30) Object.assign(p, newMote(p.kind, false));
+    }
+  }
+
   // ─── 风: each gust carries a handful of petals across the garden ─────────
   let petals = [];
   function tickGust(now, dt) {
@@ -2067,8 +2143,13 @@
 
   // ─── 足迹: every goose print is remembered, in source-image coordinates ──
   // All scenes are crops of one image, so one trail can span the whole garden.
-  let srcW = 1024, srcH = 1024, trail = [];
-  try { trail = JSON.parse(localStorage.getItem('garden-trail') || '[]'); } catch {}
+  let srcW = 1024, srcH = 1024, trail = [], visited = new Set();
+  try { trail = JSON.parse(localStorage.getItem('garden-trail') || '[]'); visited = new Set(JSON.parse(localStorage.getItem('garden-visited') || '[]')); } catch {}
+  function markVisited(id) {
+    if (visited.has(id)) return;
+    visited.add(id);
+    try { localStorage.setItem('garden-visited', JSON.stringify([...visited])); } catch {}
+  }
   function recordTrail(x, y) {
     const { sx, sy, sw, sh } = cropRect(SCENES[current], { naturalWidth: srcW, naturalHeight: srcH });
     trail.push([Math.round(sx + x / W * sw), Math.round(sy + y / H * sh)]);
@@ -2111,6 +2192,18 @@
     drawMapArt(size);
     const cv = document.getElementById('mapTrail'), c = cv.getContext('2d');
     cv.width = size; cv.height = size; c.clearRect(0, 0, size, size);
+    // Mist hangs over the parts of the garden you haven't walked; it clears around your footprints and the corners you've visited.
+    c.fillStyle = 'rgba(14,30,18,.62)'; c.fillRect(0, 0, size, size);
+    c.globalCompositeOperation = 'destination-out';
+    const clear = (x, y, r) => {
+      const g = c.createRadialGradient(x, y, 0, x, y, r);
+      g.addColorStop(0, 'rgba(0,0,0,1)'); g.addColorStop(0.55, 'rgba(0,0,0,.85)'); g.addColorStop(1, 'rgba(0,0,0,0)');
+      c.fillStyle = g; c.fillRect(x - r, y - r, r * 2, r * 2);
+    };
+    for (const id of visited) { const [px, py] = MAP_PINS[id]; clear(px * size, py * size, size * 0.2); }
+    for (const [ix, iy] of trail) clear(ix / srcW * size, iy / srcH * size, size * 0.07);
+    c.globalCompositeOperation = 'source-over';
+    document.getElementById('mapMoment').textContent = `${t('momentNow')}${lang === 'zh' ? '：' : ': '}${t('season_' + MOMENT.season)} · ${t('time_' + MOMENT.time)}`;
     // Footprints as small pale dots, in the same stipple as the map.
     c.fillStyle = 'rgba(250,246,236,.9)';
     for (const [ix, iy] of trail) c.fillRect((ix / srcW * size - 1.5) | 0, (iy / srcH * size - 1.5) | 0, 3, 3);
@@ -2178,7 +2271,7 @@
     setFunActive(false); setMeNear(false, true); setNurseryActive(false); setProjectsActive(false); closeReader(); hideFindCard();
     if (SCENES[idx].id !== 'about') geese = [];
     clearTimeout(stageTimer);
-    const on = () => { stages[idx].classList.add('on'); setFunActive(SCENES[idx].id === 'fun'); setNurseryActive(SCENES[idx].id === 'seedbed'); setProjectsActive(SCENES[idx].id === 'projects'); };
+    const on = () => { stages[idx].classList.add('on'); markVisited(SCENES[idx].id); setFunActive(SCENES[idx].id === 'fun'); setNurseryActive(SCENES[idx].id === 'seedbed'); setProjectsActive(SCENES[idx].id === 'projects'); };
     instant ? on() : (stageTimer = setTimeout(on, DURATION * 0.55));
   }
   const indexFromHash = () => Math.max(0, SCENES.findIndex(s => '#/' + s.id === location.hash));
