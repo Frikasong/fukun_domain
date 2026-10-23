@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:00:53.881Z",
+  "generatedAt": "2026-10-23T02:42:58.108Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -204,16 +204,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-21T10:03:06.000Z",
         "summary": "The Law Society of England &#38; Wales has sent out a practice note to remind everyone that &#8216;AI is not a legal entity&#8217; and so ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-chatgpt-ad-stack",
-        "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-        "url": "https://openai.com/index/building-chatgpt-ad-stack",
-        "source": "OpenAI News",
-        "publishedAt": "2026-10-21T07:00:00.000Z",
-        "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
         "category": "updates",
         "region": "na"
       },
@@ -1206,9 +1196,39 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/pwu4fnsksb2cbkv9bzkq",
+        "title": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+        "url": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-23T09:05:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/vioyxiosp2ihxuuyg1rd",
+        "title": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+        "url": "https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-23T08:46:30.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/o9ocwnkkwgkvszmgy45d",
         "title": "面向 Qwen 系列模型线性注意力的高性能优化实践",
@@ -1241,6 +1261,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3371853/chinas-bear-market-rout-deepens-growth-concerns-and-ai-sell-spur-caution",
+        "title": "China’s bear-market rout deepens as growth concerns and AI sell-off spur caution",
+        "url": "https://www.scmp.com/business/china-business/article/3371853/chinas-bear-market-rout-deepens-growth-concerns-and-ai-sell-spur-caution",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-23T02:41:51.000Z",
+        "summary": "Chinese stocks extended their sell-off on Friday, pushing the benchmark CSI 300 index deeper into bear-market territory, as fading hopes for fresh stimulus and a global retreat from artificial intelligence-related trades",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
         "title": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
