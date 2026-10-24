@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T20:49:40.755Z",
+  "generatedAt": "2026-10-24T02:40:22.039Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/lkefsu7sjjihl1fmk0pv",
+        "title": "何时应使用 Liquid Clustering？湖仓布局策略基准测试",
+        "url": "https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-24T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/mhdjwmmzyfedmfhkfhws",
         "title": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
         "url": "https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article",
@@ -1245,16 +1255,6 @@
         "url": "https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-10-23T08:46:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/o9ocwnkkwgkvszmgy45d",
-        "title": "面向 Qwen 系列模型线性注意力的高性能优化实践",
-        "url": "https://www.infoq.cn/article/o9OcWNkkwgKvsZmgY45d?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-22T17:08:07.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
