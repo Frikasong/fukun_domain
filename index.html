@@ -575,7 +575,7 @@
 
   // ─── Scenes: corners of the same garden, with only a gentle shift in light ──
   const SCENES = [
-    { id: 'about', crop: [0, 0, 1, 1], grade: { sat: 1, mul: [1, 1, 1], add: [0, 0, 0] }, veil: '', figure: [493, 695, 595, 815] },
+    { id: 'about', crop: [0, 0, 1, 1], grade: { sat: 1, mul: [1, 1, 1], add: [0, 0, 0] }, veil: '', figure: [493, 695, 595, 815], focusY: 0.75 },
     { id: 'projects', crop: [0.4, 0, 0.6, 0.6], grade: { sat: 0.95, mul: [0.9, 0.98, 1.06], add: [0, 4, 12] }, veil: 'low' },
     { id: 'seedbed', crop: [0.6, 0.46, 0.4, 0.34], grade: { sat: 0.98, mul: [0.98, 1.02, 0.98], add: [0, 4, 0] }, veil: 'low' },
     { id: 'fun', crop: [0, 0.42, 0.62, 0.58], grade: { sat: 1.06, mul: [1.07, 0.99, 0.9], add: [10, 4, 0] }, veil: 'low' },
@@ -645,11 +645,12 @@
   function copy(a, b) { b.x.set(a.x); b.y.set(a.y); b.r.set(a.r); b.g.set(a.g); b.b.set(a.b); b.me.set(a.me); }
 
   // The part of the source image a scene shows, cover-fitted to the viewport.
+  // `focusY` keeps that height of the crop at the same height on screen, so wide screens don't cut off the figure.
   function cropRect(scene, im) {
-    const [cx0, cy0, cw, ch] = scene.crop;
+    const [cx0, cy0, cw, ch] = scene.crop, fy = scene.focusY ?? 0.5;
     let sw = cw * im.naturalWidth, sh = ch * im.naturalHeight;
     if (sw / sh > W / H) sw = sh * W / H; else sh = sw * H / W;
-    return { sx: (cx0 + cw / 2) * im.naturalWidth - sw / 2, sy: (cy0 + ch / 2) * im.naturalHeight - sh / 2, sw, sh };
+    return { sx: (cx0 + cw / 2) * im.naturalWidth - sw / 2, sy: (cy0 + ch * fy) * im.naturalHeight - sh * fy, sw, sh };
   }
   // The sitting figure's box in screen pixels.
   function figureRect(scene, im) {
