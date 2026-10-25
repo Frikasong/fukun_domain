@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:00:48.350Z",
+  "generatedAt": "2026-10-25T02:29:17.616Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,16 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/bhwp4jjdeexzzwsifflg",
+        "title": "Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock",
+        "url": "https://www.infoq.cn/article/BHWP4JJDeExZZWsifFlg?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-25T09:06:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/jnx6eazqp34xrjqumu1n",
         "title": "React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民",
