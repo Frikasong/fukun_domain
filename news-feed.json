@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:28:49.092Z",
+  "generatedAt": "2026-10-26T11:57:00.680Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,11 +1210,31 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/y7yqmp1p42uj69h1c6uf",
-        "title": "CircleCI 正式发布 Machine Runner Orchestrator",
-        "url": "https://www.infoq.cn/article/y7YQmP1p42Uj69H1C6uf?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/2svt5bbwuohbaddo0uzo",
+        "title": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+        "url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-26T09:00:00.000Z",
+        "publishedAt": "2026-10-26T18:30:50.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/b32mw2zaprxyj6chepd5",
+        "title": "让 AI 从需求一路干到上线，软件开发组织要变了？",
+        "url": "https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-26T18:08:13.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hilbqck7qcvclfrgzbsf",
+        "title": "Backstage 1.55 新增脚手架任务恢复功能，并移除已废弃的目录 API",
+        "url": "https://www.infoq.cn/article/hilBQCk7QcvclfrgZbSf?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-26T17:17:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1248,16 +1268,6 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/md0kdmxgi6flibzxh1yg",
-        "title": "讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力",
-        "url": "https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-23T11:39:27.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
@@ -1279,16 +1289,6 @@
         "publishedAt": "2026-10-21T14:00:12.000Z",
         "summary": "The US government’s latest ban on Chinese artificial intelligence start-up DeepSeek could have a chilling effect on the wider American business community and deter companies from adopting low-cost Chinese AI models, indu",
         "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals",
-        "title": "DeepSeek seeks ‘total victory’ over closed-source AI with new open-source tool",
-        "url": "https://www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-21T05:03:27.000Z",
-        "summary": "Chinese artificial intelligence start-up DeepSeek has fully open-sourced an internally developed framework designed to run AI models efficiently, as a senior researcher at the company described the growing divide between",
-        "category": "tools",
         "region": "cn_en"
       }
     ]
