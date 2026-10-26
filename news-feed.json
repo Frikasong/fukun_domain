@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:57:00.680Z",
+  "generatedAt": "2026-10-26T18:10:27.107Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,61 +8,91 @@
   "panels": {
     "na": [
       {
-        "id": "ABA Journal:www.abajournal.com/columns/article/what&",
-        "title": "What can lawyers learn from law students?",
-        "url": "https://www.abajournal.com/columns/article/what&#45;lawyers&#45;can&#45;learn&#45;from&#45;law&#45;students/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "ABA Journal:www.abajournal.com/web/article/proposal&",
+        "title": "Proposal for California-specific bar exam draws mixed response",
+        "url": "https://www.abajournal.com/web/article/proposal&#45;for&#45;california&#45;specific&#45;bar&#45;exam&#45;draws&#45;mixed&#45;response/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-10-23T18:06:00.000Z",
+        "publishedAt": "2026-10-26T17:46:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/prominent&",
+        "title": "Attorney disbarred after mishandling over $659K in tragic toddler death",
+        "url": "https://www.abajournal.com/news/article/prominent&#45;detroit&#45;attorney&#45;disbarred&#45;after&#45;mishandling&#45;659k&#45;in&#45;tragic&#45;toddler&#45;death&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-26T16:58:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/ai&",
+        "title": "AI legal research tools offer small firms more choices",
+        "url": "https://www.abajournal.com/columns/article/ai&#45;legal&#45;research&#45;tools&#45;offer&#45;small&#45;firms&#45;more&#45;choices/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-26T16:27:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
+        "title": "ABA, immigrant rights groups offer fraud alert resources for legal service providers",
+        "url": "https://www.abajournal.com/news/article/aba&#45;immigrant&#45;rights&#45;groups&#45;offer&#45;fraud&#45;alert&#45;resources&#45;for&#45;legal&#45;service&#45;providers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-26T15:52:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/compliance&",
+        "title": "Compliance Concerns: Lawyers discuss federal bill aimed at cleaning up college sports",
+        "url": "https://www.abajournal.com/web/article/compliance&#45;concerns/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-26T15:42:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/5th&",
+        "title": "5th Circuit blasts federal judge for AI errors in rulings",
+        "url": "https://www.abajournal.com/news/article/5th&#45;circuit&#45;blasts&#45;federal&#45;judge&#45;for&#45;ai&#45;errors&#45;in&#45;rulings/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-26T15:28:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/southeastern&",
+        "title": "Athletic conference pushes back on university’s recruiting claims over ‘hallucinated’ case citations",
+        "url": "https://www.abajournal.com/news/article/southeastern&#45;conference&#45;pushes&#45;back&#45;on&#45;lousiana&#45;state&#45;universitys&#45;recruiting&#45;case&#45;claims/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-26T15:10:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former New Orleans lawyer gets prison for staged crash scheme",
-        "url": "https://www.abajournal.com/news/article/former&#45;new&#45;orleans&#45;lawyer&#45;gets&#45;32&#45;months&#45;for&#45;staged&#45;crash&#45;scheme/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "title": "Former Florida Bar president faces malpractice suit in estate case",
+        "url": "https://www.abajournal.com/news/article/former&#45;florida&#45;bar&#45;president&#45;faces&#45;malpractice&#45;suit&#45;in&#45;estate&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-10-23T15:45:00.000Z",
+        "publishedAt": "2026-10-26T14:48:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/responding&",
-        "title": "Responding to attorney discipline letter? Avoid &#8216;stray words,&#8217; ethics counsel says",
-        "url": "https://www.abajournal.com/web/article/responding&#45;to&#45;attorney&#45;discipline&#45;letter&#45;avoid&#45;stray&#45;words&#45;says&#45;ethics&#45;counsel/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "ABA Journal:www.abajournal.com/news/article/ethics&",
+        "title": "Ethics complaint filed against judge who had attorney jailed, shackled for ‘attitude’",
+        "url": "https://www.abajournal.com/news/article/ethics&#45;complaint&#45;filed&#45;against&#45;judge&#45;who&#45;had&#45;attorney&#45;jailed&#45;shackled&#45;for&#45;attitude/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-10-23T15:30:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/pace&",
-        "title": "Texas A&M School of Law dean named president of Pace University",
-        "url": "https://www.abajournal.com/news/article/pace&#45;university&#45;picks&#45;texas&#45;am&#45;school&#45;of&#45;law&#45;dean&#45;as&#45;president/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-23T14:45:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/doj&",
-        "title": "DOJ moves to remove two Minnesota judges from immigration cases",
-        "url": "https://www.abajournal.com/news/article/doj&#45;moves&#45;to&#45;remove&#45;two&#45;minnesota&#45;judges&#45;from&#45;immigration&#45;cases/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-23T14:30:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/florida&",
-        "title": "Florida appeals court refers lawyer for possible discipline over &#8216;AI slop&#8217;",
-        "url": "https://www.abajournal.com/news/article/florida&#45;appeals&#45;court&#45;refers&#45;lawyer&#45;for&#45;possible&#45;discipline&#45;over&#45;ai&#45;slop/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-23T14:00:00.000Z",
+        "publishedAt": "2026-10-26T14:34:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -74,26 +104,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-23T08:08:55.000Z",
         "summary": "We start this week’s Wrap with some surprising data about Grok’s performance on contract review. But first, a quick announcement: Artificial Lawyer is now on ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/government&",
-        "title": "Lawyer used IOLTA accounts to give Ponzi scam credibility, government alleges",
-        "url": "https://www.abajournal.com/web/article/government&#45;alleges&#45;lawyer&#45;used&#45;his&#45;iolta&#45;accounts&#45;to&#45;give&#45;ponzi&#45;scam&#45;some&#45;credibility/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-22T17:36:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/beat&",
-        "title": "Beat the Rap: Drew Findling defends rappers, and he says their cases represent a microcosm of society’s challenges",
-        "url": "https://www.abajournal.com/web/article/beat&#45;the&#45;rap/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-22T16:48:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1196,39 +1206,9 @@
         "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
         "category": "articles",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/2svt5bbwuohbaddo0uzo",
-        "title": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
-        "url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-26T18:30:50.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/b32mw2zaprxyj6chepd5",
-        "title": "让 AI 从需求一路干到上线，软件开发组织要变了？",
-        "url": "https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-26T18:08:13.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/hilbqck7qcvclfrgzbsf",
         "title": "Backstage 1.55 新增脚手架任务恢复功能，并移除已废弃的目录 API",
