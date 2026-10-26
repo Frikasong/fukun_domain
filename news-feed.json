@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:11:30.921Z",
+  "generatedAt": "2026-10-26T02:28:49.092Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/y7yqmp1p42uj69h1c6uf",
+        "title": "CircleCI 正式发布 Machine Runner Orchestrator",
+        "url": "https://www.infoq.cn/article/y7YQmP1p42Uj69H1C6uf?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-26T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/jnx6eazqp34xrjqumu1n",
         "title": "React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民",
         "url": "https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article",
@@ -1251,6 +1261,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3372060/standard-chartered-led-anchorpoint-plans-retail-stablecoin-hsbc-redcoin-launches",
+        "title": "Standard Chartered-led Anchorpoint plans retail stablecoin as HSBC RedCoin launches",
+        "url": "https://www.scmp.com/business/cryptocurrency/article/3372060/standard-chartered-led-anchorpoint-plans-retail-stablecoin-hsbc-redcoin-launches",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-25T23:00:15.000Z",
+        "summary": "After HSBC RedCoin launched on Friday, Anchorpoint – the stablecoin-issuing joint venture led by Standard Chartered – said it plans to launch a retail product on a public blockchain, even as it takes a “prudent approach”",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
         "title": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
