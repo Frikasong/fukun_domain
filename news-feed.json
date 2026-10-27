@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T17:05:51.560Z",
+  "generatedAt": "2026-10-27T21:38:23.986Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/clioday2",
+        "title": "As Clio moves forward, it remains focused on an age-old problem facing lawyers",
+        "url": "https://www.abajournal.com/web/article/clioday2/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-27T20:21:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/weil&",
+        "title": "Weil, Gotshal & Manges creates AI-centric 1L summer program",
+        "url": "https://www.abajournal.com/news/article/weil&#45;creates&#45;ai&#45;centric&#45;1l&#45;summer&#45;program/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-27T18:53:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/harvard&",
         "title": "Harvard, DePaul law school alums donate $30M each to alma maters",
@@ -93,26 +113,6 @@
         "url": "https://www.abajournal.com/web/article/lsat&#45;format&#45;tweaked&#45;starting&#45;august&#45;2027/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-10-26T19:34:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/clio&",
-        "title": "Clio announces rebrand and a host of new products and features",
-        "url": "https://www.abajournal.com/web/article/clio&#45;announces&#45;rebrand&#45;and&#45;a&#45;host&#45;of&#45;new&#45;products&#45;and&#45;features/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-26T19:25:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ex&",
-        "title": "Ex-Willkie partner, wife hit with $14.5M federal tax debt lawsuit",
-        "url": "https://www.abajournal.com/news/article/ex&#45;willkie&#45;partner&#45;wife&#45;hit&#45;with&#45;14.5&#45;million&#45;federal&#45;tax&#45;debt/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-26T19:07:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1241,16 +1241,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3372329/how-china-risk-factors-loom-over-anthropics-hotly-anticipated-ipo-filing",
-        "title": "How China ‘risk factors’ loom over Anthropic’s hotly anticipated IPO filing",
-        "url": "https://www.scmp.com/tech/big-tech/article/3372329/how-china-risk-factors-loom-over-anthropics-hotly-anticipated-ipo-filing",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-27T13:00:08.000Z",
-        "summary": "Open-weight models, China-US tensions, Taiwan – just a few of the more than dozen references to China-related risks cited in Anthropic’s much-anticipated listing prospectus, which was finally released on Monday after mon",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3372247/moonshot-apologises-after-kimi-k31-pro-roll-out-stumbles-promotional-scrutiny-widens",
         "title": "Moonshot apologises after Kimi K3.1 Pro roll-out stumbles as promotional scrutiny widens",
