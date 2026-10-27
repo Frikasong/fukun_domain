@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T18:10:27.107Z",
+  "generatedAt": "2026-10-27T03:03:53.221Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "OpenAI News:openai.com/index/greptile-code-review-codex-astra",
+        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "source": "OpenAI News",
+        "publishedAt": "2026-10-26T22:00:00.000Z",
+        "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html",
+        "title": "ClioCon 2026: A Quick Wrap-Up of Everything Clio Announced Today (And It&#8217;s A Lot)",
+        "url": "https://www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-26T19:47:25.000Z",
+        "summary": "Clio rolled out a ton of news today, as founder and CEO Jack Newton delivered the opening keynote at the annual ClioCon conference in Boston — from major new products and features, to a new acquisition, and even new bran",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/lsat&",
+        "title": "LSAT format will be tweaked starting August 2027",
+        "url": "https://www.abajournal.com/web/article/lsat&#45;format&#45;tweaked&#45;starting&#45;august&#45;2027/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-26T19:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/clio&",
+        "title": "Clio announces rebrand and a host of new products and features",
+        "url": "https://www.abajournal.com/web/article/clio&#45;announces&#45;rebrand&#45;and&#45;a&#45;host&#45;of&#45;new&#45;products&#45;and&#45;features/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-26T19:25:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ex&",
+        "title": "Ex-Willkie partner, wife hit with $14.5M federal tax debt lawsuit",
+        "url": "https://www.abajournal.com/news/article/ex&#45;willkie&#45;partner&#45;wife&#45;hit&#45;with&#45;14.5&#45;million&#45;federal&#45;tax&#45;debt/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-26T19:07:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/proposal&",
         "title": "Proposal for California-specific bar exam draws mixed response",
@@ -68,32 +118,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/southeastern&",
-        "title": "Athletic conference pushes back on university’s recruiting claims over ‘hallucinated’ case citations",
-        "url": "https://www.abajournal.com/news/article/southeastern&#45;conference&#45;pushes&#45;back&#45;on&#45;lousiana&#45;state&#45;universitys&#45;recruiting&#45;case&#45;claims/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-26T15:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former Florida Bar president faces malpractice suit in estate case",
-        "url": "https://www.abajournal.com/news/article/former&#45;florida&#45;bar&#45;president&#45;faces&#45;malpractice&#45;suit&#45;in&#45;estate&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-26T14:48:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ethics&",
-        "title": "Ethics complaint filed against judge who had attorney jailed, shackled for ‘attitude’",
-        "url": "https://www.abajournal.com/news/article/ethics&#45;complaint&#45;filed&#45;against&#45;judge&#45;who&#45;had&#45;attorney&#45;jailed&#45;shackled&#45;for&#45;attitude/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-26T14:34:00.000Z",
-        "summary": "",
+        "id": "OpenAI News:openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+        "source": "OpenAI News",
+        "publishedAt": "2026-10-26T13:45:00.000Z",
+        "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
         "category": "updates",
         "region": "na"
       },
@@ -1158,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/07/on-lawnext-inside-claude-for-legal-anthropics-mark-pike-on-ais-next-frontier-in-law.html",
-        "title": "On LawNext: Inside Claude for Legal &#8212; Anthropic&#8217;s Mark Pike on AI&#8217;s Next Frontier in Law",
-        "url": "https://www.lawnext.com/2026/07/on-lawnext-inside-claude-for-legal-anthropics-mark-pike-on-ais-next-frontier-in-law.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-07T12:30:59.000Z",
-        "summary": "When Anthropic launched Claude for Legal in May – more than 20 MCP connectors and a dozen practice-area plugins built specifically for legal work – it marked the company&#8217;s biggest and most explicit commitment yet t",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1186,29 +1206,19 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/tri8l3cyeajer9tgr5jt",
+        "title": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+        "url": "https://www.infoq.cn/article/TrI8l3CYeAJER9tgR5Jt?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-27T09:14:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/hilbqck7qcvclfrgzbsf",
         "title": "Backstage 1.55 新增脚手架任务恢复功能，并移除已废弃的目录 API",
@@ -1251,16 +1261,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3372060/standard-chartered-led-anchorpoint-plans-retail-stablecoin-hsbc-redcoin-launches",
-        "title": "Standard Chartered-led Anchorpoint plans retail stablecoin as HSBC RedCoin launches",
-        "url": "https://www.scmp.com/business/cryptocurrency/article/3372060/standard-chartered-led-anchorpoint-plans-retail-stablecoin-hsbc-redcoin-launches",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-25T23:00:15.000Z",
-        "summary": "After HSBC RedCoin launched on Friday, Anchorpoint – the stablecoin-issuing joint venture led by Standard Chartered – said it plans to launch a retail product on a public blockchain, even as it takes a “prudent approach”",
-        "category": "tools",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
         "title": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
