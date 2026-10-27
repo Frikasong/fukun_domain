@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T03:03:53.221Z",
+  "generatedAt": "2026-10-27T11:18:55.574Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -114,16 +114,6 @@
         "source": "ABA Journal",
         "publishedAt": "2026-10-26T15:28:00.000Z",
         "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-        "source": "OpenAI News",
-        "publishedAt": "2026-10-26T13:45:00.000Z",
-        "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
         "category": "updates",
         "region": "na"
       },
@@ -1206,9 +1196,49 @@
         "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ryarayc7xr5d28aandn7",
+        "title": "亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯",
+        "url": "https://www.infoq.cn/article/rYaRAYC7xR5D28AaNdN7?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-27T18:39:03.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/chonw7eyk5vuj0vf7akz",
+        "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
+        "url": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-27T17:17:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/gxkvw3g4kxhttiiajfkl",
+        "title": "Docker Cloud Sandboxes在笔记本和云端之间提供一致的沙箱抽象",
+        "url": "https://www.infoq.cn/article/gXKvW3g4KXhTTiIaJFkl?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-27T13:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/tri8l3cyeajer9tgr5jt",
         "title": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
@@ -1228,46 +1258,26 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/jnx6eazqp34xrjqumu1n",
-        "title": "React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民",
-        "url": "https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-24T13:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mhdjwmmzyfedmfhkfhws",
-        "title": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
-        "url": "https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-23T19:40:29.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/akdgwn6h72cquoj35zok",
-        "title": "AI Agent 正在改写 CPU 的价值：当 Token 变成行动，算力竞争不再只是拼 GPU",
-        "url": "https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-23T17:53:09.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
-        "title": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
-        "url": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
+        "id": "SCMP China Business:www.scmp.com/business/companies/article/3372245/depth-and-breadth-strong-liquidity-anchor-china-stock-outlook-jpmam",
+        "title": "‘Depth and breadth’, strong liquidity anchor China stock outlook: JPMAM",
+        "url": "https://www.scmp.com/business/companies/article/3372245/depth-and-breadth-strong-liquidity-anchor-china-stock-outlook-jpmam",
         "source": "SCMP China Business",
-        "publishedAt": "2026-10-21T14:00:12.000Z",
-        "summary": "The US government’s latest ban on Chinese artificial intelligence start-up DeepSeek could have a chilling effect on the wider American business community and deter companies from adopting low-cost Chinese AI models, indu",
+        "publishedAt": "2026-10-27T07:00:07.000Z",
+        "summary": "Chinese and Hong Kong stocks have lagged an artificial intelligence-driven rally across Asia, but J.P. Morgan Asset Management remained “structurally very positive” on both markets, according to a senior executive at the",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3372247/moonshot-apologises-after-kimi-k31-pro-roll-out-stumbles-promotional-scrutiny-widens",
+        "title": "Moonshot apologises after Kimi K3.1 Pro roll-out stumbles as promotional scrutiny widens",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372247/moonshot-apologises-after-kimi-k31-pro-roll-out-stumbles-promotional-scrutiny-widens",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-27T06:00:10.000Z",
+        "summary": "Chinese artificial intelligence start-up Moonshot AI, developer of the popular Kimi series, apologised on Monday for limiting customers’ use of its latest model in a botched roll-out that has also invited scrutiny over i",
         "category": "updates",
         "region": "cn_en"
       }
