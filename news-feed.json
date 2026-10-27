@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T11:18:55.574Z",
+  "generatedAt": "2026-10-27T17:05:51.560Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,12 +8,72 @@
   "panels": {
     "na": [
       {
-        "id": "OpenAI News:openai.com/index/greptile-code-review-codex-astra",
-        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "url": "https://openai.com/index/greptile-code-review-codex-astra",
-        "source": "OpenAI News",
-        "publishedAt": "2026-10-26T22:00:00.000Z",
-        "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+        "id": "ABA Journal:www.abajournal.com/web/article/harvard&",
+        "title": "Harvard, DePaul law school alums donate $30M each to alma maters",
+        "url": "https://www.abajournal.com/web/article/harvard&#45;depaul&#45;law&#45;school&#45;alums&#45;donate&#45;30&#45;million&#45;to&#45;alma&#45;maters/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-27T17:02:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/disbarred&",
+        "title": "Disbarred lawyer allegedly collected client fees, faked performing work",
+        "url": "https://www.abajournal.com/news/article/disbarred&#45;indiana&#45;lawyer&#45;collects&#45;client&#45;fees&#45;and&#45;fakes&#45;the&#45;work/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-27T16:20:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/neil&",
+        "title": "Neil Young sues Trump for $10M over unauthorized use of &#8216;Rockin&#8217; in the Free World&#8217;",
+        "url": "https://www.abajournal.com/news/article/neil&#45;young&#45;sues&#45;trump&#45;for&#45;10m&#45;over&#45;unauthorized&#45;use&#45;of&#45;rockin&#45;in&#45;the&#45;free&#45;world/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-27T14:33:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/supreme&",
+        "title": "Supreme Court tangled up in prediction markets",
+        "url": "https://www.abajournal.com/news/article/supreme&#45;court&#45;tangled&#45;up&#45;in&#45;prediction&#45;markets/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-27T14:17:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/it&",
+        "title": "It takes a lot of workouts to look this mediocre, but exercise makes lawyers better",
+        "url": "https://www.abajournal.com/voice/article/it&#45;takes&#45;a&#45;lot&#45;of&#45;workouts&#45;to&#45;look&#45;this&#45;mediocre&#45;but&#45;exercise&#45;makes&#45;lawyers&#45;better/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-27T13:46:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/abusive&",
+        "title": "Abusive Vows: Starting in 2027, California will ban underage marriage without exception",
+        "url": "https://www.abajournal.com/web/article/abusive&#45;vows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-27T13:31:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/am&",
+        "title": "Am Law 200 partners earned more in 2025, despite billing less",
+        "url": "https://www.abajournal.com/news/article/am&#45;law&#45;200&#45;partners&#45;earned&#45;more&#45;in&#45;2025&#45;despite&#45;billing&#45;less/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-27T13:01:00.000Z",
+        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -53,66 +113,6 @@
         "url": "https://www.abajournal.com/news/article/ex&#45;willkie&#45;partner&#45;wife&#45;hit&#45;with&#45;14.5&#45;million&#45;federal&#45;tax&#45;debt/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-10-26T19:07:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/proposal&",
-        "title": "Proposal for California-specific bar exam draws mixed response",
-        "url": "https://www.abajournal.com/web/article/proposal&#45;for&#45;california&#45;specific&#45;bar&#45;exam&#45;draws&#45;mixed&#45;response/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-26T17:46:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/prominent&",
-        "title": "Attorney disbarred after mishandling over $659K in tragic toddler death",
-        "url": "https://www.abajournal.com/news/article/prominent&#45;detroit&#45;attorney&#45;disbarred&#45;after&#45;mishandling&#45;659k&#45;in&#45;tragic&#45;toddler&#45;death&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-26T16:58:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/ai&",
-        "title": "AI legal research tools offer small firms more choices",
-        "url": "https://www.abajournal.com/columns/article/ai&#45;legal&#45;research&#45;tools&#45;offer&#45;small&#45;firms&#45;more&#45;choices/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-26T16:27:00.000Z",
-        "summary": "",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
-        "title": "ABA, immigrant rights groups offer fraud alert resources for legal service providers",
-        "url": "https://www.abajournal.com/news/article/aba&#45;immigrant&#45;rights&#45;groups&#45;offer&#45;fraud&#45;alert&#45;resources&#45;for&#45;legal&#45;service&#45;providers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-26T15:52:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/compliance&",
-        "title": "Compliance Concerns: Lawyers discuss federal bill aimed at cleaning up college sports",
-        "url": "https://www.abajournal.com/web/article/compliance&#45;concerns/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-26T15:42:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/5th&",
-        "title": "5th Circuit blasts federal judge for AI errors in rulings",
-        "url": "https://www.abajournal.com/news/article/5th&#45;circuit&#45;blasts&#45;federal&#45;judge&#45;for&#45;ai&#45;errors&#45;in&#45;rulings/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-26T15:28:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,26 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/ryarayc7xr5d28aandn7",
-        "title": "亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯",
-        "url": "https://www.infoq.cn/article/rYaRAYC7xR5D28AaNdN7?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-27T18:39:03.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/chonw7eyk5vuj0vf7akz",
-        "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
-        "url": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-27T17:17:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/gxkvw3g4kxhttiiajfkl",
         "title": "Docker Cloud Sandboxes在笔记本和云端之间提供一致的沙箱抽象",
         "url": "https://www.infoq.cn/article/gXKvW3g4KXhTTiIaJFkl?utm_source=rss&utm_medium=article",
@@ -1262,12 +1242,12 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/companies/article/3372245/depth-and-breadth-strong-liquidity-anchor-china-stock-outlook-jpmam",
-        "title": "‘Depth and breadth’, strong liquidity anchor China stock outlook: JPMAM",
-        "url": "https://www.scmp.com/business/companies/article/3372245/depth-and-breadth-strong-liquidity-anchor-china-stock-outlook-jpmam",
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3372329/how-china-risk-factors-loom-over-anthropics-hotly-anticipated-ipo-filing",
+        "title": "How China ‘risk factors’ loom over Anthropic’s hotly anticipated IPO filing",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372329/how-china-risk-factors-loom-over-anthropics-hotly-anticipated-ipo-filing",
         "source": "SCMP China Business",
-        "publishedAt": "2026-10-27T07:00:07.000Z",
-        "summary": "Chinese and Hong Kong stocks have lagged an artificial intelligence-driven rally across Asia, but J.P. Morgan Asset Management remained “structurally very positive” on both markets, according to a senior executive at the",
+        "publishedAt": "2026-10-27T13:00:08.000Z",
+        "summary": "Open-weight models, China-US tensions, Taiwan – just a few of the more than dozen references to China-related risks cited in Anthropic’s much-anticipated listing prospectus, which was finally released on Monday after mon",
         "category": "updates",
         "region": "cn_en"
       },
