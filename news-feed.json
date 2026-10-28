@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T11:52:51.241Z",
+  "generatedAt": "2026-10-28T17:41:53.972Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,21 +8,71 @@
   "panels": {
     "na": [
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/clioday2",
-        "title": "As Clio moves forward, it remains focused on an age-old problem facing lawyers",
-        "url": "https://www.abajournal.com/web/article/clioday2/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "ABA Journal:www.abajournal.com/columns/article/aba&",
+        "title": "ABA tracks new challenges affecting Public Service Loan Forgiveness borrowers",
+        "url": "https://www.abajournal.com/columns/article/aba&#45;tracks&#45;new&#45;challenges&#45;affecting&#45;public&#45;service&#45;loan&#45;forgiveness&#45;borrowers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-10-27T20:21:00.000Z",
+        "publishedAt": "2026-10-28T16:33:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
+        "title": "Judge who repeatedly used racist slur removed by court",
+        "url": "https://www.abajournal.com/news/article/judge&#45;who&#45;used&#45;racist&#45;slur&#45;removed&#45;by&#45;new&#45;york&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-28T15:41:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/28/anthropic-increases-legal-vertical-push-with-artifacts",
+        "title": "Anthropic Increases Legal Vertical Push With ‘Artifacts’",
+        "url": "https://www.artificiallawyer.com/2026/10/28/anthropic-increases-legal-vertical-push-with-artifacts/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-28T15:15:33.000Z",
+        "summary": "After the initial launch of Claude for Legal, and as it prepares for its IPO, Anthropic is now pushing deeper into this vertical with Artifacts ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/first&",
+        "title": "First-year attorneys average $131K at plaintiffs firms, new study finds",
+        "url": "https://www.abajournal.com/news/article/first&#45;year&#45;attorneys&#45;average&#45;131k&#45;at&#45;plaintiff&#45;law&#45;firms&#45;study&#45;finds/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-28T15:09:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/weil&",
-        "title": "Weil, Gotshal & Manges creates AI-centric 1L summer program",
-        "url": "https://www.abajournal.com/news/article/weil&#45;creates&#45;ai&#45;centric&#45;1l&#45;summer&#45;program/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "title": "Weil hires restructuring counsel after unsuccessful merger talks",
+        "url": "https://www.abajournal.com/news/article/weil&#45;hires&#45;restructuring&#45;counsel&#45;after&#45;unsuccessful&#45;merger&#45;talks/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-10-27T18:53:00.000Z",
+        "publishedAt": "2026-10-28T14:44:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/no&",
+        "title": "No right to Vegemite in prison, Australian judge rules",
+        "url": "https://www.abajournal.com/news/article/no&#45;right&#45;to&#45;vegemite&#45;in&#45;prison&#45;australian&#45;judge&#45;rules/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-28T14:33:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/clioday2",
+        "title": "As Clio moves forward, it remains focused on an age-old problem facing lawyers",
+        "url": "https://www.abajournal.com/web/article/clioday2/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-27T20:21:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -58,62 +108,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/supreme&",
-        "title": "Supreme Court tangled up in prediction markets",
-        "url": "https://www.abajournal.com/news/article/supreme&#45;court&#45;tangled&#45;up&#45;in&#45;prediction&#45;markets/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-27T14:17:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/voice/article/it&",
-        "title": "It takes a lot of workouts to look this mediocre, but exercise makes lawyers better",
-        "url": "https://www.abajournal.com/voice/article/it&#45;takes&#45;a&#45;lot&#45;of&#45;workouts&#45;to&#45;look&#45;this&#45;mediocre&#45;but&#45;exercise&#45;makes&#45;lawyers&#45;better/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-27T13:46:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/abusive&",
-        "title": "Abusive Vows: Starting in 2027, California will ban underage marriage without exception",
-        "url": "https://www.abajournal.com/web/article/abusive&#45;vows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-27T13:31:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/am&",
-        "title": "Am Law 200 partners earned more in 2025, despite billing less",
-        "url": "https://www.abajournal.com/news/article/am&#45;law&#45;200&#45;partners&#45;earned&#45;more&#45;in&#45;2025&#45;despite&#45;billing&#45;less/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-27T13:01:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html",
         "title": "ClioCon 2026: A Quick Wrap-Up of Everything Clio Announced Today (And It&#8217;s A Lot)",
         "url": "https://www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html",
         "source": "LawSites",
         "publishedAt": "2026-10-26T19:47:25.000Z",
         "summary": "Clio rolled out a ton of news today, as founder and CEO Jack Newton delivered the opening keynote at the annual ClioCon conference in Boston — from major new products and features, to a new acquisition, and even new bran",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/lsat&",
-        "title": "LSAT format will be tweaked starting August 2027",
-        "url": "https://www.abajournal.com/web/article/lsat&#45;format&#45;tweaked&#45;starting&#45;august&#45;2027/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-26T19:34:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -224,16 +224,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-21T10:03:06.000Z",
         "summary": "The Law Society of England &#38; Wales has sent out a practice note to remind everyone that &#8216;AI is not a legal entity&#8217; and so ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/20/womble-bond-dickinson-launches-ai-labs",
-        "title": "Womble Bond Dickinson Launches ‘AI Labs’",
-        "url": "https://www.artificiallawyer.com/2026/10/20/womble-bond-dickinson-launches-ai-labs/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-20T15:04:13.000Z",
-        "summary": "Transatlantic law firm Womble Bond Dickinson has launched ‘Womble AI Labs&#8217;, which will build AI solutions for the firm and its clients. It is led ...",
         "category": "updates",
         "region": "na"
       },
@@ -1206,45 +1196,25 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/r1ibrq9kmz1qfawatzjf",
-        "title": "Meta 利用私有处理技术将机密计算扩展至 AI 眼镜",
-        "url": "https://www.infoq.cn/article/r1ibrq9kmZ1qFAWAtzJf?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-28T19:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/ejtljxpixriuusgyi5xa",
         "title": "大客户直接打1折、模型四个月降价80%：大模型价格战没有退路",
         "url": "https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-10-28T18:14:48.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/3hgfvzt6tqpqjrde2x9j",
-        "title": "全网恐慌48小时，拯救互联网的却是一个“无名之辈”",
-        "url": "https://www.infoq.cn/article/3HgfVzt6tQpQjrdE2x9J?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-28T18:08:49.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/xbgiknrrame5orxxy16q",
-        "title": "可组合商品套餐：Shipt Kits 平台内部解析",
-        "url": "https://www.infoq.cn/article/xBgiKNRRaMe5ORxXy16Q?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-28T18:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1265,16 +1235,6 @@
         "url": "https://www.infoq.cn/article/lCw5JBglbgZj9BYeZChS?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-10-28T17:45:17.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/szukltgjfs7o8baz8tjh",
-        "title": "带出Transformer一作、前ACL顶会主席来华分享：人类正在把“思考”全盘外包",
-        "url": "https://www.infoq.cn/article/SZuklTgjFS7o8BaZ8TJh?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-28T17:42:38.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
