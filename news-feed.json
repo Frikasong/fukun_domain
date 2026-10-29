@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:00:15.631Z",
+  "generatedAt": "2026-10-29T18:16:40.284Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,96 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/anthropic&",
+        "title": "Anthropic raises bar with Claude for Legal artifacts&#8217; new interactive tools",
+        "url": "https://www.abajournal.com/news/article/anthropic&#45;raises&#45;the&#45;bar&#45;with&#45;claude&#45;for&#45;legal&#45;artifacts&#45;law&#45;specific&#45;interactive&#45;tools/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-29T17:04:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/government&",
+        "title": "Government admits mistake in answer to SCOTUSblog founder Tom Goldstein’s tax evasion appeal",
+        "url": "https://www.abajournal.com/web/article/government&#45;admits&#45;mistake&#45;in&#45;answer&#45;to&#45;tom&#45;goldsteins&#45;tax&#45;evasion&#45;appeal/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-29T16:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/29/harvey-buys-aida-5th-purchase-in-2026",
+        "title": "Harvey Buys Aida &#8211; 5th Purchase in 2026",
+        "url": "https://www.artificiallawyer.com/2026/10/29/harvey-buys-aida-5th-purchase-in-2026/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-29T15:46:21.000Z",
+        "summary": "Breaking News: Harvey has bought Aida, an AI-native sales execution platform founded by Glean co-founder Piyush Prahladka and Atish Das Sarma &#8211; which will help ...",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/29/as-weil-faces-the-end-a-new-mod-is-born",
+        "title": "As Weil Faces the End, A New Mod Is Born",
+        "url": "https://www.artificiallawyer.com/2026/10/29/as-weil-faces-the-end-a-new-mod-is-born/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-29T15:29:54.000Z",
+        "summary": "While one of Big Law’s most respected brand names – Weil Gotshal &#8211; collapses, a new model firm is born &#8211; Dexterity Law, led by ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/pre&",
+        "title": "Pre-K program at center of Supreme Court battle over religious freedom and government aid",
+        "url": "https://www.abajournal.com/web/article/pre&#45;k&#45;program&#45;at&#45;center&#45;of&#45;supreme&#45;court&#45;battle&#45;over&#45;religious&#45;freedom&#45;and&#45;government&#45;aid/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-29T15:28:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ohio&",
+        "title": "Ohio Supreme Court suspends law license of attorney convicted of voting multiple times",
+        "url": "https://www.abajournal.com/news/article/ohio&#45;supreme&#45;court&#45;suspends&#45;law&#45;license&#45;of&#45;attorney&#45;convicted&#45;of&#45;voting&#45;multiple&#45;times/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-29T15:05:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/new&",
+        "title": "Federal Judge Alvin Hellerstein of New York dies at 92",
+        "url": "https://www.abajournal.com/news/article/new&#45;york&#45;federal&#45;judge&#45;alvin&#45;hellerstein&#45;dies&#45;at&#45;92/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-29T14:49:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/racial&",
+        "title": "Racial comments to attorney sparked investigation of federal judge",
+        "url": "https://www.abajournal.com/news/article/racial&#45;comments&#45;to&#45;attorney&#45;sparked&#45;investigation&#45;of&#45;federal&#45;judge/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-29T14:23:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/at-cliocon-legals-ai-future-is-already-here-along-with-3000-people-eager-to-shape-it.html",
+        "title": "At ClioCon, Legal’s AI Future Is Already Here, Along with 3,000 People Eager to Shape It",
+        "url": "https://www.lawnext.com/2026/10/at-cliocon-legals-ai-future-is-already-here-along-with-3000-people-eager-to-shape-it.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-29T13:56:04.000Z",
+        "summary": "Within the span of 48 hours this week, I was an in-person witness to the legal profession’s divide on AI. Through a bit of karmic coincidence, I was in a room one day dominated by people who fear it as a threat, and then",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/29/ai-didnt-cause-the-weil-crisis",
         "title": "AI Didn’t Cause the Weil Crisis",
@@ -68,26 +158,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
-        "title": "Judge who repeatedly used racist slur removed by court",
-        "url": "https://www.abajournal.com/news/article/judge&#45;who&#45;used&#45;racist&#45;slur&#45;removed&#45;by&#45;new&#45;york&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-28T15:41:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/chasing&",
-        "title": "'Chasing Goodfellas': Former prosecutor's memoir recounts taking on the mob and playing himself in the film",
-        "url": "https://www.abajournal.com/web/article/chasing&#45;goodfellas/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-28T15:18:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/28/anthropic-increases-legal-vertical-push-with-artifacts",
         "title": "Anthropic Increases Legal Vertical Push With ‘Artifacts’",
         "url": "https://www.artificiallawyer.com/2026/10/28/anthropic-increases-legal-vertical-push-with-artifacts/",
@@ -95,46 +165,6 @@
         "publishedAt": "2026-10-28T15:15:33.000Z",
         "summary": "After the initial launch of Claude for Legal, and as it prepares for its IPO, Anthropic is now pushing deeper into this vertical with Artifacts ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/first&",
-        "title": "First-year attorneys average $131K at plaintiffs firms, new study finds",
-        "url": "https://www.abajournal.com/news/article/first&#45;year&#45;attorneys&#45;average&#45;131k&#45;at&#45;plaintiff&#45;law&#45;firms&#45;study&#45;finds/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-28T15:09:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/weil&",
-        "title": "Weil hires restructuring counsel after unsuccessful merger talks",
-        "url": "https://www.abajournal.com/news/article/weil&#45;hires&#45;restructuring&#45;counsel&#45;after&#45;unsuccessful&#45;merger&#45;talks/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-28T14:44:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/no&",
-        "title": "No right to Vegemite in prison, Australian judge rules",
-        "url": "https://www.abajournal.com/news/article/no&#45;right&#45;to&#45;vegemite&#45;in&#45;prison&#45;australian&#45;judge&#45;rules/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-28T14:33:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/clioday2",
-        "title": "As Clio moves forward, it remains focused on an age-old problem facing lawyers",
-        "url": "https://www.abajournal.com/web/article/clioday2/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-27T20:21:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -204,26 +234,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-21T14:02:12.000Z",
         "summary": "Legora has just announced its long-awaited new raise and it’s a big one: $550m – classed as a Series E, and with a post-money valuation ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/legora-raises-550m-at-8-8bn-valuation",
-        "title": "Legora Raises $550m at $8.8Bn Valuation",
-        "url": "https://www.artificiallawyer.com/2026/10/21/legora-raises-550m-at-8-8bn-valuation/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T12:53:47.000Z",
-        "summary": "Breaking News: Legora has raised a $550 million Series E at an $8.8 billion post-money valuation. The round was led by Atreides Management, with participation ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/weil-starts-special-ai-program-for-summer-associates",
-        "title": "Weil Starts Special AI Program for Summer Associates",
-        "url": "https://www.artificiallawyer.com/2026/10/21/weil-starts-special-ai-program-for-summer-associates/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T12:34:01.000Z",
-        "summary": "Weil Gotshal &#38; Manges has launched a new training program for some of its summer associates, who will spend their 1L stint working on the ...",
         "category": "updates",
         "region": "na"
       },
@@ -1158,16 +1168,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/07/norm-ai-hits-unicorn-status-with-120m-series-c-at-1-2-billion-valuation.html",
-        "title": "Norm Ai Hits Unicorn Status with $120M Series C at $1.2 Billion Valuation",
-        "url": "https://www.lawnext.com/2026/07/norm-ai-hits-unicorn-status-with-120m-series-c-at-1-2-billion-valuation.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-07T14:35:46.000Z",
-        "summary": "Norm Ai, the New York-based legal and compliance AI company, today announced a $120 million Series C round at a $1.2 billion valuation, crossing the unicorn threshold and joining a growing but still select club of legal ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-cursor",
         "title": "How Cursor uses GPT-5",
         "url": "https://openai.com/index/gpt-5-cursor",
@@ -1208,28 +1208,7 @@
         "region": "na"
       }
     ],
-    "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/5xcwur8cmgoswreunbix",
-        "title": "概率、插座与5000个爱因斯坦：专访阿里云研发副总裁周琦",
-        "url": "https://www.infoq.cn/article/5xCWuR8CMGosWrEuNbix?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-29T18:37:11.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ak6adskivwf265yc8put",
-        "title": "AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
-        "url": "https://www.infoq.cn/article/aK6ADSkIvwf265yc8PuT?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-29T18:00:23.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      }
-    ],
+    "cn": [],
     "cn_en": [
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3372247/moonshot-apologises-after-kimi-k31-pro-roll-out-stumbles-promotional-scrutiny-widens",
