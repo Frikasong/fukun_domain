@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T03:40:48.818Z",
+  "generatedAt": "2026-10-29T12:00:15.631Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,36 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/29/ai-didnt-cause-the-weil-crisis",
+        "title": "AI Didn’t Cause the Weil Crisis",
+        "url": "https://www.artificiallawyer.com/2026/10/29/ai-didnt-cause-the-weil-crisis/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-29T10:15:26.000Z",
+        "summary": "Some have suggested that Weil’s impending dissolution has been caused by AI’s impact. Artificial Lawyer has got to say: technology is the least of the ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/29/the-4-es-inhouse-ai-framework-emily-bull",
+        "title": "The 4 Es Inhouse AI Framework – Emily Bull",
+        "url": "https://www.artificiallawyer.com/2026/10/29/the-4-es-inhouse-ai-framework-emily-bull/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-29T09:02:28.000Z",
+        "summary": "For Emily Bull, Director of Legal, Property, Planning and Consenting at SSE &#8211; and a speaker at Legal Innovators UK on Inhouse Day, November 5th, ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/29/ai-governance-must-keep-pace-with-legal-practice",
+        "title": "AI Governance Must Keep Pace with Legal Practice",
+        "url": "https://www.artificiallawyer.com/2026/10/29/ai-governance-must-keep-pace-with-legal-practice/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-29T07:40:58.000Z",
+        "summary": "By Karen Waldron, LexisNexis. Two of your best associates could review the same client document and reach slightly different recommendations, each reflecting their respective experience ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/new&",
         "title": "New York follows other states with direction on using AI responsibly in court",
@@ -194,36 +224,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-21T12:34:01.000Z",
         "summary": "Weil Gotshal &#38; Manges has launched a new training program for some of its summer associates, who will spend their 1L stint working on the ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/august-applies-agents-to-law-firm-productization",
-        "title": "August Applies Agents to Law Firm Productization",
-        "url": "https://www.artificiallawyer.com/2026/10/21/august-applies-agents-to-law-firm-productization/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T12:04:08.000Z",
-        "summary": "Legal AI platform August has launched Products, a new feature that helps law firms turn their legal services into&#8230;well&#8230;.products. The idea often has been tried ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/li-ny-speaker-krychna-baker-verizon",
-        "title": "LI NY Speaker: Krychna Baker, Verizon",
-        "url": "https://www.artificiallawyer.com/2026/10/21/li-ny-speaker-krychna-baker-verizon/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T11:14:43.000Z",
-        "summary": "Ahead of the Legal Innovators New York conference on November 17 and 18, the team spoke to Krychna Baker, Senior Manager of Legal Innovation &#38; ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/ai-is-not-a-legal-entity-says-law-society",
-        "title": "‘AI Is Not A Legal Entity’ Says Law Society",
-        "url": "https://www.artificiallawyer.com/2026/10/21/ai-is-not-a-legal-entity-says-law-society/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T10:03:06.000Z",
-        "summary": "The Law Society of England &#38; Wales has sent out a practice note to remind everyone that &#8216;AI is not a legal entity&#8217; and so ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,91 +1210,21 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/yvwty6jwdu0ib84tdc9m",
-        "title": "Grafana Tempo 3.1 新增基于查询的追踪数据脱敏功能以及支持采样机制的 TraceQL 指标",
-        "url": "https://www.infoq.cn/article/YVwtY6Jwdu0IB84tDC9m?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/5xcwur8cmgoswreunbix",
+        "title": "概率、插座与5000个爱因斯坦：专访阿里云研发副总裁周琦",
+        "url": "https://www.infoq.cn/article/5xCWuR8CMGosWrEuNbix?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-29T11:00:00.000Z",
+        "publishedAt": "2026-10-29T18:37:11.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/llbrsswtyvqtpfsajs3v",
-        "title": "AI 用起来了，业务价值谁来打分？",
-        "url": "https://www.infoq.cn/article/LLbRSSwTyvqTpFsaJs3v?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/ak6adskivwf265yc8put",
+        "title": "AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
+        "url": "https://www.infoq.cn/article/aK6ADSkIvwf265yc8PuT?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-29T10:37:25.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/eoqh5gj5r6uuzgtlhl53",
-        "title": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
-        "url": "https://www.infoq.cn/article/eOqH5GJ5R6UuZGtlhL53?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-29T09:58:08.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/g7tttqzu1qyqxooxfqgn",
-        "title": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
-        "url": "https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-29T09:55:47.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ii1qfkwadfzudhsl1lim",
-        "title": "告别 Kafka 中转，让实时数据更快服务业务分析 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/ii1qFkWaDFZudHSL1lIM?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-29T09:30:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/qdqlus4ccqlqc9wlvayy",
-        "title": "优化软件工作流：探索技术带来的根本性影响",
-        "url": "https://www.infoq.cn/article/QDQLUs4cCqLqC9WlvAyY?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-29T09:11:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ejtljxpixriuusgyi5xa",
-        "title": "大客户直接打1折、模型四个月降价80%：大模型价格战没有退路",
-        "url": "https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-28T18:14:48.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/mfxr0u4z0xftugug5wm7",
-        "title": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
-        "url": "https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-28T17:54:54.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/lcw5jbglbgzj9byezchs",
-        "title": "Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”",
-        "url": "https://www.infoq.cn/article/lCw5JBglbgZj9BYeZChS?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-28T17:45:17.000Z",
+        "publishedAt": "2026-10-29T18:00:23.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
