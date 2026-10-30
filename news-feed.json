@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T03:43:37.489Z",
+  "generatedAt": "2026-10-30T11:54:24.898Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,26 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/30/legal-innovators-is-next-week-clio-harvey",
+        "title": "Legal Innovators is Next Week! Clio, Harvey +",
+        "url": "https://www.artificiallawyer.com/2026/10/30/legal-innovators-is-next-week-clio-harvey/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-30T10:32:18.000Z",
+        "summary": "It’s the Legal Innovators UK conference next week in London on Nov 4 + 5, so let’s start this Wrap with sharing with you some ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/30/what-real-ai-adoption-looks-like",
+        "title": "What Real AI Adoption Looks Like",
+        "url": "https://www.artificiallawyer.com/2026/10/30/what-real-ai-adoption-looks-like/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-10-30T08:37:44.000Z",
+        "summary": "For Brian Kennedy, Director of Innovation, Real Estate, at BCLP &#8211; and who is one of many expert speakers appearing at Legal Innovators UK next ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/education&",
         "title": "Education Department shifts accreditor requirements ahead of decision regarding ABA Legal Ed council status",
@@ -214,26 +234,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-22T09:55:16.000Z",
         "summary": "Ahead of Legal Innovators UK in London on November 4 and 5, the events team spoke to Philip Cooney, Director of Innovation at White &#38; ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/its-a-big-moment-max-on-legoras-raise",
-        "title": "‘It’s a Big Moment’ &#8211; Max on Legora’s Raise",
-        "url": "https://www.artificiallawyer.com/2026/10/21/its-a-big-moment-max-on-legoras-raise/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T14:38:03.000Z",
-        "summary": "Legora has just raised $550m with a post-money valuation of $8.8 billion – a huge step by any reckoning. Artificial Lawyer asked CEO, Max Junestrand, ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/21/legora-vs-harvey-the-multi-billion-ai-battle",
-        "title": "Legora vs Harvey – The Multi-Billion $$$ AI Battle",
-        "url": "https://www.artificiallawyer.com/2026/10/21/legora-vs-harvey-the-multi-billion-ai-battle/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-21T14:02:12.000Z",
-        "summary": "Legora has just announced its long-awaited new raise and it’s a big one: $550m – classed as a Series E, and with a post-money valuation ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,51 +1210,31 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/fjqn3mfvyn1lmqhoiegs",
-        "title": "谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
-        "url": "https://www.infoq.cn/article/FJqN3mFVyN1lMqHOiegs?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/sckczimp9lsel0rgj7vy",
+        "title": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
+        "url": "https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-30T11:22:00.000Z",
+        "publishedAt": "2026-10-30T19:27:02.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/5eaqcxcgmwazarvfbeoh",
-        "title": "4 条提示词，如何把 98 条产品评论变成工程决策依据 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/5EaQcXCgMWaZaRvFBeoh?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/f3fdedczctadhmhvbdkw",
+        "title": "AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
+        "url": "https://www.infoq.cn/article/f3FdeDczctAdHMhvBdKw?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-30T11:07:04.000Z",
+        "publishedAt": "2026-10-30T18:53:48.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/u23wuvudcfql7hlbwxuw",
-        "title": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
-        "url": "https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/zolbijdvk5icdqg6fb0x",
+        "title": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
+        "url": "https://www.infoq.cn/article/ZolBIJdvK5Icdqg6FB0X?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-10-30T10:04:10.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/pwqaxtapbhdqrn2vqfds",
-        "title": "希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕",
-        "url": "https://www.infoq.cn/article/pwQAXtApbhdQRN2vQfdS?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-30T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/unli8x0wc8xunji5etya",
-        "title": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
-        "url": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-30T09:23:00.000Z",
+        "publishedAt": "2026-10-30T15:45:06.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1262,22 +1242,32 @@
     ],
     "cn_en": [
       {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3372737/amid-brutal-sell-what-comes-next-google-amazon-and-other-big-tech-titans",
+        "title": "Amid brutal sell-off, what comes next for Google, Amazon and other Big Tech titans?",
+        "url": "https://www.scmp.com/tech/big-tech/article/3372737/amid-brutal-sell-what-comes-next-google-amazon-and-other-big-tech-titans",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-30T09:44:46.000Z",
+        "summary": "Soaring artificial intelligence revenues have failed to shield Intel, Amazon and Google’s parent company Alphabet from a brutal Wall Street sell-off, as their latest quarterly results deepened investor jitters over mount",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/presented/business/topics/enterprise-exchange/article/3372697/ai-new-tribe-professor-alan-macfarlane-what-makes-us-human",
+        "title": "AI as a New Tribe: Professor Alan Macfarlane on what makes us human",
+        "url": "https://www.scmp.com/presented/business/topics/enterprise-exchange/article/3372697/ai-new-tribe-professor-alan-macfarlane-what-makes-us-human",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-30T06:56:03.000Z",
+        "summary": "What might an anthropologist make of artificial intelligence if he approached it as an unfamiliar tribe? That question framed an SCMP Plus fireside chat with Professor Alan Macfarlane at The Center in Central, Hong Kong,",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
         "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack",
         "title": "Binance pledges to cover losses after US$6 billion crypto hack",
         "url": "https://www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack",
         "source": "SCMP China Business",
         "publishedAt": "2026-10-30T03:26:14.000Z",
         "summary": "Binance, the world’s largest cryptocurrency exchange by trading volume, has pledged to cover all losses from a hack that it said drained around US$6.3 billion from its wallet. At that scale, it would be the biggest crypt",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/markets/article/3372621/anthropic-eyes-mega-ipo-why-are-chinese-tech-valuations-so-far-behind",
-        "title": "As Anthropic eyes a mega-IPO, why are Chinese tech valuations so far behind?",
-        "url": "https://www.scmp.com/business/markets/article/3372621/anthropic-eyes-mega-ipo-why-are-chinese-tech-valuations-so-far-behind",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-29T23:00:07.000Z",
-        "summary": "The artificial intelligence boom in the United States is set to raise corporate valuations even higher as Anthropic prepares for a public listing, reinforcing the dominance of American companies among the world’s most va",
         "category": "updates",
         "region": "cn_en"
       },
