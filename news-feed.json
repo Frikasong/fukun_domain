@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T11:54:24.898Z",
+  "generatedAt": "2026-10-30T17:30:25.906Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,66 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/rivals&",
+        "title": "Rivals race to rescue Weil Gotshal lawyers as firm heads toward closure",
+        "url": "https://www.abajournal.com/news/article/rivals&#45;race&#45;to&#45;rescue&#45;weil&#45;lawyers&#45;as&#45;firm&#45;heads&#45;towards&#45;closure/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-30T15:48:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/law&",
+        "title": "Firm partners in Silicon Valley paid more than NY partners, new survey shows",
+        "url": "https://www.abajournal.com/news/article/law&#45;firm&#45;partners&#45;in&#45;silicon&#45;valley&#45;paid&#45;more&#45;than&#45;ny&#45;partners/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-30T15:03:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/today-on-legaltech-week-conference-round-up-reports-from-cliocon-everlaw-and-netdocs-plus-law360s-rachel-rippetoe-sits-in.html",
+        "title": "Today on Legaltech Week: Conference Round-Up &#8211; Reports from ClioCon, Everlaw and NetDocs &#8211; Plus Law360&#8217;s Rachel Rippetoe Sits In",
+        "url": "https://www.lawnext.com/2026/10/today-on-legaltech-week-conference-round-up-reports-from-cliocon-everlaw-and-netdocs-plus-law360s-rachel-rippetoe-sits-in.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-30T14:40:32.000Z",
+        "summary": "Got conferences? If so, then probably one or more of Legaltech Week&#8217;s regular panelists has been there in the last couple weeks — from ClioCon in Boston to the Everlaw Summit in San Francisco to NetDocuments Inspir",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/wisconsin&",
+        "title": "It’s OK to wear Milwaukee Brewers attire in court, judge says",
+        "url": "https://www.abajournal.com/news/article/wisconsin&#45;judge&#45;says&#45;its&#45;ok&#45;to&#45;wear&#45;milwaukee&#45;brewers&#45;attire&#45;in&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-30T14:35:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the-law-firms-intelligence-layer.html",
+        "title": "LawNext Podcast: NetDocs CEO Josh Baxter on Why the DMS is Becoming the Law Firm&#8217;s &#8216;Intelligence Layer&#8217;",
+        "url": "https://www.lawnext.com/2026/10/lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the-law-firms-intelligence-layer.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-30T13:21:39.000Z",
+        "summary": "NetDocuments CEO Josh Baxter believes the document management system is becoming something even greater — a law firm&#8217;s organizational intelligence layer. As lawyers increasingly do their work inside AI tools such a",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/at-its-annual-summit-everlaw-unveils-omni-its-agentic-ai-suite-but-ceo-says-customers-are-even-more-excited-about-opening-its-platform-to-other-ai-tools.html",
+        "title": "At Its Annual Summit, Everlaw Unveils Omni, Its Agentic AI Suite, But CEO Says Customers Are Even More Excited About Opening Its Platform to Other AI Tools",
+        "url": "https://www.lawnext.com/2026/10/at-its-annual-summit-everlaw-unveils-omni-its-agentic-ai-suite-but-ceo-says-customers-are-even-more-excited-about-opening-its-platform-to-other-ai-tools.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-30T12:51:29.000Z",
+        "summary": "At its annual Everlaw Summit in San Francisco this week, the e-discovery company Everlaw unveiled Omni, an agentic AI investigation suite that orchestrates the full range of the company&#8217;s tools to answer questions ",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/30/legal-innovators-is-next-week-clio-harvey",
         "title": "Legal Innovators is Next Week! Clio, Harvey +",
@@ -108,16 +168,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/racial&",
-        "title": "Racial comments to attorney sparked investigation of federal judge",
-        "url": "https://www.abajournal.com/news/article/racial&#45;comments&#45;to&#45;attorney&#45;sparked&#45;investigation&#45;of&#45;federal&#45;judge/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-29T14:23:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/10/at-cliocon-legals-ai-future-is-already-here-along-with-3000-people-eager-to-shape-it.html",
         "title": "At ClioCon, Legal’s AI Future Is Already Here, Along with 3,000 People Eager to Shape It",
         "url": "https://www.lawnext.com/2026/10/at-cliocon-legals-ai-future-is-already-here-along-with-3000-people-eager-to-shape-it.html",
@@ -154,26 +204,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-10-29T07:40:58.000Z",
         "summary": "By Karen Waldron, LexisNexis. Two of your best associates could review the same client document and reach slightly different recommendations, each reflecting their respective experience ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/new&",
-        "title": "New York follows other states with direction on using AI responsibly in court",
-        "url": "https://www.abajournal.com/web/article/new&#45;york&#45;follows&#45;other&#45;states&#45;with&#45;direction&#45;on&#45;using&#45;ai&#45;responsibly&#45;in&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-28T20:23:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/west&",
-        "title": "Court finds law protecting judges, officers&#8217; personal information unconstitutional",
-        "url": "https://www.abajournal.com/news/article/west&#45;virginia&#45;court&#45;finds&#45;law&#45;protecting&#45;judges&#45;officers&#45;personal&#45;information&#45;unconstitutional/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-28T18:59:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -1128,42 +1158,12 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/07/uchicago-law-bans-laptops-from-1l-classrooms-as-part-of-sweeping-new-ai-strategy-for-legal-education.html",
-        "title": "UChicago Law Bans Laptops from 1L Classrooms As Part of Sweeping New AI Strategy for Legal Education",
-        "url": "https://www.lawnext.com/2026/07/uchicago-law-bans-laptops-from-1l-classrooms-as-part-of-sweeping-new-ai-strategy-for-legal-education.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-10T13:06:29.000Z",
-        "summary": "The University of Chicago Law School yesterday released a comprehensive AI Strategy Statement that will reshape how it teaches first-year students, how it assesses upper-level writing, and how it integrates AI tools acro",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
         "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "source": "OpenAI News",
         "publishedAt": "2026-07-09T13:00:00.000Z",
         "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/07/two-years-after-launching-its-ai-assistant-archie-smokeball-rolls-out-the-next-generation-built-on-agentic-ai-and-embedded-in-word-and-outlook.html",
-        "title": "Two Years After Launching Its AI Assistant Archie, Smokeball Rolls Out the &#8216;Next Generation&#8217; Built on Agentic AI, and Embedded in Word and Outlook",
-        "url": "https://www.lawnext.com/2026/07/two-years-after-launching-its-ai-assistant-archie-smokeball-rolls-out-the-next-generation-built-on-agentic-ai-and-embedded-in-word-and-outlook.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-09T12:32:01.000Z",
-        "summary": "Two years ago, the law practice management company Smokeball gave me an exclusive preview of its plans for an AI ecosystem spanning the full client lifecycle, anchored by an AI matter assistant called Archie, which it fo",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/07/centari-launches-external-views-enabling-firms-to-share-deal-intelligence-dashboards-directly-with-clients.html",
-        "title": "Centari Launches External Views, Enabling Firms to Share Deal Intelligence Dashboards Directly with Clients",
-        "url": "https://www.lawnext.com/2026/07/centari-launches-external-views-enabling-firms-to-share-deal-intelligence-dashboards-directly-with-clients.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-08T13:00:55.000Z",
-        "summary": "Centari, an AI platform for managing complex transactions, today launched External Views, a capability that allows law firms to create white-labeled dashboards and share them directly with clients. The feature builds on ",
         "category": "tools",
         "region": "na"
       },
@@ -1210,26 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/sckczimp9lsel0rgj7vy",
-        "title": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
-        "url": "https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-30T19:27:02.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/f3fdedczctadhmhvbdkw",
-        "title": "AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
-        "url": "https://www.infoq.cn/article/f3FdeDczctAdHMhvBdKw?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-30T18:53:48.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/zolbijdvk5icdqg6fb0x",
         "title": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
         "url": "https://www.infoq.cn/article/ZolBIJdvK5Icdqg6FB0X?utm_source=rss&utm_medium=article",
@@ -1241,26 +1221,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3372737/amid-brutal-sell-what-comes-next-google-amazon-and-other-big-tech-titans",
-        "title": "Amid brutal sell-off, what comes next for Google, Amazon and other Big Tech titans?",
-        "url": "https://www.scmp.com/tech/big-tech/article/3372737/amid-brutal-sell-what-comes-next-google-amazon-and-other-big-tech-titans",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-30T09:44:46.000Z",
-        "summary": "Soaring artificial intelligence revenues have failed to shield Intel, Amazon and Google’s parent company Alphabet from a brutal Wall Street sell-off, as their latest quarterly results deepened investor jitters over mount",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/presented/business/topics/enterprise-exchange/article/3372697/ai-new-tribe-professor-alan-macfarlane-what-makes-us-human",
-        "title": "AI as a New Tribe: Professor Alan Macfarlane on what makes us human",
-        "url": "https://www.scmp.com/presented/business/topics/enterprise-exchange/article/3372697/ai-new-tribe-professor-alan-macfarlane-what-makes-us-human",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-30T06:56:03.000Z",
-        "summary": "What might an anthropologist make of artificial intelligence if he approached it as an unfamiliar tribe? That question framed an SCMP Plus fireside chat with Professor Alan Macfarlane at The Center in Central, Hong Kong,",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack",
         "title": "Binance pledges to cover losses after US$6 billion crypto hack",
