@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T18:16:40.284Z",
+  "generatedAt": "2026-10-30T03:43:37.489Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/education&",
+        "title": "Education Department shifts accreditor requirements ahead of decision regarding ABA Legal Ed council status",
+        "url": "https://www.abajournal.com/web/article/education&#45;department&#45;shifts&#45;accreditor&#45;requirements&#45;ahead&#45;of&#45;decision&#45;regarding&#45;legal&#45;ed&#45;council&#45;status/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-29T19:51:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/anthropic&",
         "title": "Anthropic raises bar with Claude for Legal artifacts&#8217; new interactive tools",
@@ -143,16 +153,6 @@
         "url": "https://www.abajournal.com/news/article/west&#45;virginia&#45;court&#45;finds&#45;law&#45;protecting&#45;judges&#45;officers&#45;personal&#45;information&#45;unconstitutional/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-10-28T18:59:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/columns/article/aba&",
-        "title": "ABA tracks new challenges affecting Public Service Loan Forgiveness borrowers",
-        "url": "https://www.abajournal.com/columns/article/aba&#45;tracks&#45;new&#45;challenges&#45;affecting&#45;public&#45;service&#45;loan&#45;forgiveness&#45;borrowers/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-28T16:33:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1208,8 +1208,79 @@
         "region": "na"
       }
     ],
-    "cn": [],
+    "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fjqn3mfvyn1lmqhoiegs",
+        "title": "谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+        "url": "https://www.infoq.cn/article/FJqN3mFVyN1lMqHOiegs?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-30T11:22:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/5eaqcxcgmwazarvfbeoh",
+        "title": "4 条提示词，如何把 98 条产品评论变成工程决策依据 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/5EaQcXCgMWaZaRvFBeoh?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-30T11:07:04.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/u23wuvudcfql7hlbwxuw",
+        "title": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "url": "https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-30T10:04:10.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/pwqaxtapbhdqrn2vqfds",
+        "title": "希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕",
+        "url": "https://www.infoq.cn/article/pwQAXtApbhdQRN2vQfdS?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-30T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/unli8x0wc8xunji5etya",
+        "title": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "url": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-30T09:23:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      }
+    ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack",
+        "title": "Binance pledges to cover losses after US$6 billion crypto hack",
+        "url": "https://www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-30T03:26:14.000Z",
+        "summary": "Binance, the world’s largest cryptocurrency exchange by trading volume, has pledged to cover all losses from a hack that it said drained around US$6.3 billion from its wallet. At that scale, it would be the biggest crypt",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/business/markets/article/3372621/anthropic-eyes-mega-ipo-why-are-chinese-tech-valuations-so-far-behind",
+        "title": "As Anthropic eyes a mega-IPO, why are Chinese tech valuations so far behind?",
+        "url": "https://www.scmp.com/business/markets/article/3372621/anthropic-eyes-mega-ipo-why-are-chinese-tech-valuations-so-far-behind",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-10-29T23:00:07.000Z",
+        "summary": "The artificial intelligence boom in the United States is set to raise corporate valuations even higher as Anthropic prepares for a public listing, reinforcing the dominance of American companies among the world’s most va",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3372247/moonshot-apologises-after-kimi-k31-pro-roll-out-stumbles-promotional-scrutiny-widens",
         "title": "Moonshot apologises after Kimi K3.1 Pro roll-out stumbles as promotional scrutiny widens",
