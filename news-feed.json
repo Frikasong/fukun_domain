@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T17:30:25.906Z",
+  "generatedAt": "2026-10-30T21:49:27.292Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
+        "title": "Lawyer, business partner accused of defrauding cannabis investor of $750K",
+        "url": "https://www.abajournal.com/news/article/lawyer&#45;partner&#45;accused&#45;of&#45;defrauding&#45;cannabis&#45;investor&#45;of&#45;750k/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-10-30T17:31:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/rivals&",
         "title": "Rivals race to rescue Weil Gotshal lawyers as firm heads toward closure",
@@ -153,16 +163,6 @@
         "url": "https://www.abajournal.com/news/article/ohio&#45;supreme&#45;court&#45;suspends&#45;law&#45;license&#45;of&#45;attorney&#45;convicted&#45;of&#45;voting&#45;multiple&#45;times/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-10-29T15:05:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/new&",
-        "title": "Federal Judge Alvin Hellerstein of New York dies at 92",
-        "url": "https://www.abajournal.com/news/article/new&#45;york&#45;federal&#45;judge&#45;alvin&#45;hellerstein&#45;dies&#45;at&#45;92/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-10-29T14:49:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
