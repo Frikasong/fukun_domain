@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:49:27.292Z",
+  "generatedAt": "2026-10-31T03:27:48.281Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,26 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/tnlfh02j0koqswly5oqe",
+        "title": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+        "url": "https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-31T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/fcdaad69u452t9b39rlu",
+        "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "url": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-10-31T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/zolbijdvk5icdqg6fb0x",
         "title": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
