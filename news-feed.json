@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T03:30:10.575Z",
+  "generatedAt": "2026-11-01T12:23:45.302Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,11 +1210,31 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/z8vqa2zzgylitxiz8pxh",
-        "title": "如果 AI 幻觉也有预算，超支之后该怎么办？",
-        "url": "https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/xcfdk8kzvvdy5v1r0fqm",
+        "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-11-01T10:00:00.000Z",
+        "publishedAt": "2026-11-01T19:12:53.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/adfntx7qiy7yyigemtlk",
+        "title": "从近两小时到 30 秒，SQL 查询性能优化有了新解法 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/adFNTX7Qiy7yYIGEmTlk?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-01T18:58:12.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/0ap8hb0dwk6xa1lbsnvy",
+        "title": "写好的 Skill 如何让整个团队复用？Snowflake CoCo 打通共享与治理流程 ｜ 技术实践",
+        "url": "https://www.infoq.cn/article/0ap8HB0DwK6Xa1lBSNVy?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-01T18:24:53.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1258,16 +1278,6 @@
         "source": "SCMP China Business",
         "publishedAt": "2026-10-30T03:26:14.000Z",
         "summary": "Binance, the world’s largest cryptocurrency exchange by trading volume, has pledged to cover all losses from a hack that it said drained around US$6.3 billion from its wallet. At that scale, it would be the biggest crypt",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3372247/moonshot-apologises-after-kimi-k31-pro-roll-out-stumbles-promotional-scrutiny-widens",
-        "title": "Moonshot apologises after Kimi K3.1 Pro roll-out stumbles as promotional scrutiny widens",
-        "url": "https://www.scmp.com/tech/big-tech/article/3372247/moonshot-apologises-after-kimi-k31-pro-roll-out-stumbles-promotional-scrutiny-widens",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-27T06:00:10.000Z",
-        "summary": "Chinese artificial intelligence start-up Moonshot AI, developer of the popular Kimi series, apologised on Monday for limiting customers’ use of its latest model in a botched roll-out that has also invited scrutiny over i",
         "category": "updates",
         "region": "cn_en"
       }
