@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:23:45.302Z",
+  "generatedAt": "2026-11-01T21:30:52.608Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,36 +1210,6 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/xcfdk8kzvvdy5v1r0fqm",
-        "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-01T19:12:53.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/adfntx7qiy7yyigemtlk",
-        "title": "从近两小时到 30 秒，SQL 查询性能优化有了新解法 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/adFNTX7Qiy7yYIGEmTlk?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-01T18:58:12.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/0ap8hb0dwk6xa1lbsnvy",
-        "title": "写好的 Skill 如何让整个团队复用？Snowflake CoCo 打通共享与治理流程 ｜ 技术实践",
-        "url": "https://www.infoq.cn/article/0ap8HB0DwK6Xa1lBSNVy?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-01T18:24:53.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/video/4qjammqlviozvytuqwpi",
         "title": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
         "url": "https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&utm_medium=article",
@@ -1270,17 +1240,6 @@
         "region": "cn"
       }
     ],
-    "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack",
-        "title": "Binance pledges to cover losses after US$6 billion crypto hack",
-        "url": "https://www.scmp.com/business/cryptocurrency/article/3372664/binance-pledges-cover-losses-after-us6-billion-crypto-hack",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-10-30T03:26:14.000Z",
-        "summary": "Binance, the world’s largest cryptocurrency exchange by trading volume, has pledged to cover all losses from a hack that it said drained around US$6.3 billion from its wallet. At that scale, it would be the biggest crypt",
-        "category": "updates",
-        "region": "cn_en"
-      }
-    ]
+    "cn_en": []
   }
 }
