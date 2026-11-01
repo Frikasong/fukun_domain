@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T20:49:30.951Z",
+  "generatedAt": "2026-11-01T03:30:10.575Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,16 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/z8vqa2zzgylitxiz8pxh",
+        "title": "如果 AI 幻觉也有预算，超支之后该怎么办？",
+        "url": "https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-01T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/video/4qjammqlviozvytuqwpi",
         "title": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
