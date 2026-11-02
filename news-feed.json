@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:30:52.608Z",
+  "generatedAt": "2026-11-02T03:38:47.303Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,46 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/x8cwbyo4o3ts1jttdtbq",
+        "title": "TornadoVM 7 支持 Java 应用程序运行原生 GPU 工作负载",
+        "url": "https://www.infoq.cn/article/X8cwbyO4O3tS1jTTdtBq?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-02T11:11:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wmlatgjudjwpkqhf4qgx",
+        "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
+        "url": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-02T09:20:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wptnht7guarweyejjfv6",
+        "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+        "url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-02T09:16:03.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/hjgtwfspaugnbj2juefj",
+        "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+        "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-02T09:12:15.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/video/4qjammqlviozvytuqwpi",
         "title": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
         "url": "https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&utm_medium=article",
@@ -1225,16 +1265,6 @@
         "url": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-10-31T08:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zolbijdvk5icdqg6fb0x",
-        "title": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
-        "url": "https://www.infoq.cn/article/ZolBIJdvK5Icdqg6FB0X?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-30T15:45:06.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
