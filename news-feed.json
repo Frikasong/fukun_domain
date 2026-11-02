@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T03:38:47.303Z",
+  "generatedAt": "2026-11-02T14:19:56.675Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,56 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/11/after-signing-on-with-upstart-legal-research-service-decisis-maine-bar-switches-to-clio-library.html",
+        "title": "After Signing On with Upstart Legal Research Service Decisis, Maine Bar Switches to Clio Library",
+        "url": "https://www.lawnext.com/2026/11/after-signing-on-with-upstart-legal-research-service-decisis-maine-bar-switches-to-clio-library.html",
+        "source": "LawSites",
+        "publishedAt": "2026-11-02T13:57:02.000Z",
+        "summary": "Over the past few years, there have been a few twists and turns in the competition among legal research platforms to be the preferred partner of state and local bar associations. Once, that competition was almost exclusi",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/02/will-ai-change-the-identity-of-law-firm-partners",
+        "title": "Will AI Change the Identity of Law Firm Partners?",
+        "url": "https://www.artificiallawyer.com/2026/11/02/will-ai-change-the-identity-of-law-firm-partners/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-02T12:59:14.000Z",
+        "summary": "Will law firm partners need to change their professional identity, their sense of what they are and what they really do, for this sector to ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/02/ai-native-firm-vetta-bids-for-weil-ip-lawyers",
+        "title": "AI-Native Firm Vetta Bids For Weil IP + Lawyers",
+        "url": "https://www.artificiallawyer.com/2026/11/02/ai-native-firm-vetta-bids-for-weil-ip-lawyers/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-02T08:40:54.000Z",
+        "summary": "Vetta, a new AI-native law firm started by Nic Vetta, a former Latham &#38; Watkins lawyer, is bidding to bring aboard talent and IP from ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/02/scissero-seeks-weil-gotshal-lawyers-assets",
+        "title": "Scissero Seeks Weil Gotshal Lawyers + Assets",
+        "url": "https://www.artificiallawyer.com/2026/11/02/scissero-seeks-weil-gotshal-lawyers-assets/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-02T08:07:32.000Z",
+        "summary": "Scissero, an AI-enabled law firm, has told Artificial Lawyer they are seeking to bring aboard talent and assets from Weil Gotshal as the New York ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/02/how-specialist-ai-agents-support-evidence-based-arbitrator-selection",
+        "title": "How Specialist AI Agents Support Evidence-Based Arbitrator Selection",
+        "url": "https://www.artificiallawyer.com/2026/11/02/how-specialist-ai-agents-support-evidence-based-arbitrator-selection/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-02T07:31:46.000Z",
+        "summary": "By Jean-Rémi de Maistre, CEO, Jus Mundi. Arbitrator selection: a consequential decision, a fragmented process Arbitration is a consensual dispute resolution mechanism widely used to ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
         "title": "Lawyer, business partner accused of defrauding cannabis investor of $750K",
@@ -198,42 +248,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/29/ai-governance-must-keep-pace-with-legal-practice",
-        "title": "AI Governance Must Keep Pace with Legal Practice",
-        "url": "https://www.artificiallawyer.com/2026/10/29/ai-governance-must-keep-pace-with-legal-practice/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-29T07:40:58.000Z",
-        "summary": "By Karen Waldron, LexisNexis. Two of your best associates could review the same client document and reach slightly different recommendations, each reflecting their respective experience ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/28/anthropic-increases-legal-vertical-push-with-artifacts",
-        "title": "Anthropic Increases Legal Vertical Push With ‘Artifacts’",
-        "url": "https://www.artificiallawyer.com/2026/10/28/anthropic-increases-legal-vertical-push-with-artifacts/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-28T15:15:33.000Z",
-        "summary": "After the initial launch of Claude for Legal, and as it prepares for its IPO, Anthropic is now pushing deeper into this vertical with Artifacts ...",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html",
         "title": "ClioCon 2026: A Quick Wrap-Up of Everything Clio Announced Today (And It&#8217;s A Lot)",
         "url": "https://www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html",
         "source": "LawSites",
         "publishedAt": "2026-10-26T19:47:25.000Z",
         "summary": "Clio rolled out a ton of news today, as founder and CEO Jack Newton delivered the opening keynote at the annual ClioCon conference in Boston — from major new products and features, to a new acquisition, and even new bran",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/23/grok-top-for-contracts-al-on-hols-harvey-agents",
-        "title": "Grok Top For Contracts, AL on Hols, Harvey Agents +",
-        "url": "https://www.artificiallawyer.com/2026/10/23/grok-top-for-contracts-al-on-hols-harvey-agents/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-23T08:08:55.000Z",
-        "summary": "We start this week’s Wrap with some surprising data about Grok’s performance on contract review. But first, a quick announcement: Artificial Lawyer is now on ...",
         "category": "updates",
         "region": "na"
       },
@@ -255,16 +275,6 @@
         "publishedAt": "2026-10-22T13:06:53.000Z",
         "summary": "Reports of the demise of the billable hour have been greatly exaggerated, at least at smaller law firms. With apologies to Mark Twain, that is the central finding of a new report on billing and payment practices at small",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/22/li-uk-speaker-philip-cooney-white-case",
-        "title": "LI UK Speaker: Philip Cooney, White &#038; Case",
-        "url": "https://www.artificiallawyer.com/2026/10/22/li-uk-speaker-philip-cooney-white-case/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-22T09:55:16.000Z",
-        "summary": "Ahead of Legal Innovators UK in London on November 4 and 5, the events team spoke to Philip Cooney, Director of Innovation at White &#38; ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1196,80 +1206,61 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/x8cwbyo4o3ts1jttdtbq",
-        "title": "TornadoVM 7 支持 Java 应用程序运行原生 GPU 工作负载",
-        "url": "https://www.infoq.cn/article/X8cwbyO4O3tS1jTTdtBq?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/7lnppkeuvjtmyyvmxaa6",
+        "title": "微软推出 dotnetup：多版本管理更省心，安装方式却让开发者皱眉",
+        "url": "https://www.infoq.cn/article/7lNPPkEUVjtMYYvmXaA6?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-11-02T11:11:00.000Z",
+        "publishedAt": "2026-11-02T21:46:33.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/wmlatgjudjwpkqhf4qgx",
-        "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
-        "url": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/e3waraqen7uzx8wm9tng",
+        "title": "Cilium 1.20 扩展了 Gateway API 并为 Kubernetes 开放了 eBPF 数据路径",
+        "url": "https://www.infoq.cn/article/E3wARaqEN7UZx8wM9TNg?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-11-02T09:20:00.000Z",
+        "publishedAt": "2026-11-02T20:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/wptnht7guarweyejjfv6",
-        "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
-        "url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/pxjoz3xpv5d224a9fro1",
+        "title": "AI+艺术：想让AI演得像“老戏骨”，多写提示词不如先演一遍 ｜ 奇点川越创始人 程佳伟导演分享",
+        "url": "https://www.infoq.cn/article/pXJoz3XPv5D224a9Fro1?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-11-02T09:16:03.000Z",
+        "publishedAt": "2026-11-02T20:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
         "id": "InfoQ China:www.infoq.cn/article/hjgtwfspaugnbj2juefj",
-        "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+        "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek",
         "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-11-02T09:12:15.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/video/4qjammqlviozvytuqwpi",
-        "title": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
-        "url": "https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-31T16:15:46.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fcdaad69u452t9b39rlu",
-        "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
-        "url": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-10-31T08:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3372968/how-hong-kongs-fintech-strategy-progressing-and-where-growth-still-lags",
+        "title": "How Hong Kong’s fintech strategy is progressing – and where growth still lags",
+        "url": "https://www.scmp.com/business/banking-finance/article/3372968/how-hong-kongs-fintech-strategy-progressing-and-where-growth-still-lags",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-11-02T10:00:07.000Z",
+        "summary": "Hong Kong has touted rapid progress in the first year of its five-year fintech strategy, pledging to double down on artificial intelligence and tokenisation even as many initiatives face the challenge of achieving commer",
+        "category": "updates",
+        "region": "cn_en"
+      }
+    ]
   }
 }
