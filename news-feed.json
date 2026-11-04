@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:43:33.981Z",
+  "generatedAt": "2026-11-04T04:05:47.907Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/bfkteycolydwmyi91h4q",
+        "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+        "url": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-04T11:02:35.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/bgktakb51rl6ybih4syj",
+        "title": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+        "url": "https://www.infoq.cn/article/BGkTakB51rl6ybIh4sYJ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-04T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/ywaayf1ylwb7on4p0lyc",
         "title": "构建面向 Agentic 推理的下一代 LLM 推理引擎",
         "url": "https://www.infoq.cn/article/YwAayF1ylWb7oN4P0lyC?utm_source=rss&utm_medium=article",
@@ -1258,19 +1278,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/e3waraqen7uzx8wm9tng",
-        "title": "Cilium 1.20 扩展了 Gateway API 并为 Kubernetes 开放了 eBPF 数据路径",
-        "url": "https://www.infoq.cn/article/E3wARaqEN7UZx8wM9TNg?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-02T20:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/banking-finance/article/3373193/banks-must-be-responsible-industry-races-deploy-ai-agents-state-street",
+        "title": "Banks must be ‘responsible’ as industry races to deploy AI agents: State Street",
+        "url": "https://www.scmp.com/business/banking-finance/article/3373193/banks-must-be-responsible-industry-races-deploy-ai-agents-state-street",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-11-04T01:01:04.000Z",
+        "summary": "US bank State Street expects the uses of artificial intelligence in finance to “multiply” in the coming years, but stressed that “responsible deployment” is vital as the industry confronts daunting potential security ris",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3373124/why-chinese-ai-stars-zai-minimax-struggle-match-anthropics-profit-margin",
         "title": "Why Chinese AI stars like Z.ai, MiniMax struggle to match Anthropic’s profit margin",
