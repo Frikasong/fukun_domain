@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:31:17.161Z",
+  "generatedAt": "2026-11-04T23:00:56.392Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,12 +8,92 @@
   "panels": {
     "na": [
       {
+        "id": "ABA Journal:www.abajournal.com/news/article/trial&",
+        "title": "Trial opens for suspect whose multiple email threats include &#8216;skinning&#8217; federal judge",
+        "url": "https://www.abajournal.com/news/article/trial&#45;opens&#45;for&#45;man&#45;whose&#45;multiple&#45;email&#45;threats&#45;include&#45;skinning&#45;a&#45;california&#45;federal&#45;judge/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-04T18:47:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/appellate&",
+        "title": "Lawyers’ AI use doesn’t justify slashing $115K fee award, appellate court says",
+        "url": "https://www.abajournal.com/news/article/appellate&#45;court&#45;lawyers&#45;ai&#45;use&#45;doesnt&#45;justify&#45;slashing&#45;fee&#45;award/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-04T17:48:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/judiciary&",
+        "title": "Judiciary efforts to create rules for AI stalling amid concerns",
+        "url": "https://www.abajournal.com/news/article/judiciary&#45;efforts&#45;to&#45;create&#45;rules&#45;for&#45;ai&#45;stalling&#45;amid&#45;concerns/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-04T17:29:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/biglaw&",
+        "title": "BigLaw partners with Big Tech to design and deploy custom AI tools",
+        "url": "https://www.abajournal.com/web/article/biglaw&#45;partners&#45;with&#45;big&#45;tech&#45;to&#45;design&#45;and&#45;deploy&#45;custom&#45;ai&#45;tools/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-04T16:15:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/kim&",
+        "title": "Kim Kardashian aims to retake bar exam",
+        "url": "https://www.abajournal.com/news/article/kim&#45;kardashian&#45;aims&#45;to&#45;retake&#45;the&#45;bar&#45;exam/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-04T16:03:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/former&",
+        "title": "Former judge accused of shooting gun toward unwanted trick-or-treaters",
+        "url": "https://www.abajournal.com/news/article/former&#45;judge&#45;accused&#45;of&#45;shooting&#45;gun&#45;toward&#45;unwanted&#45;trick&#45;or&#45;treaters/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-04T15:42:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/what&",
+        "title": "What listening taught me about leading growth in the AI era",
+        "url": "https://www.abajournal.com/voice/article/what&#45;listening&#45;taught&#45;me&#45;about&#45;leading&#45;growth&#45;in&#45;the&#45;ai&#45;era/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-04T15:18:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/04/a-brief-history-of-generative-legal-ai",
         "title": "A Brief History of Generative Legal AI",
         "url": "https://www.artificiallawyer.com/2026/11/04/a-brief-history-of-generative-legal-ai/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-11-04T07:40:00.000Z",
         "summary": "It’s Legal Innovators UK today and tomorrow, so here are some reference notes. As Conference Chair I’ll be referring to this chart in my comments ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/daybreak-red-aws-govcloud",
+        "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+        "source": "OpenAI News",
+        "publishedAt": "2026-11-04T07:00:00.000Z",
+        "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
         "category": "updates",
         "region": "na"
       },
@@ -58,56 +138,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/possible&",
-        "title": "Lindsay Clancy judge considers retrial at hearing to dismiss murder case",
-        "url": "https://www.abajournal.com/news/article/possible&#45;retrial&#45;for&#45;lindsay&#45;clancy&#45;as&#45;judge&#45;considers&#45;dismissing&#45;murder&#45;case/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-03T18:51:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/ohio&",
-        "title": "Rules on taking bar, allowing JDs from Education Department-accredited schools eased in this state",
-        "url": "https://www.abajournal.com/web/article/ohio&#45;eases&#45;rules&#45;on&#45;sitting&#45;for&#45;bar&#45;allowing&#45;jds&#45;from&#45;education&#45;department&#45;accredited&#45;schools/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-03T16:35:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/new&",
-        "title": "State bill allows consumers to hold AI chatbot providers liable",
-        "url": "https://www.abajournal.com/news/article/new&#45;jersey&#45;bill&#45;allows&#45;consumers&#45;to&#45;hold&#45;ai&#45;chatbots&#45;liable&#45;for&#45;harms/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-03T16:10:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/satanic&",
-        "title": "Satanic Temple can host holiday celebration at state Capitol building, judge rules",
-        "url": "https://www.abajournal.com/news/article/satanic&#45;temple&#45;can&#45;host&#45;holiday&#45;celebration&#45;at&#45;iowa&#45;capitol&#45;building&#45;judge&#45;rules/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-03T15:34:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/whats&",
-        "title": "What&#8217;s it like to be in the jury box? Lawyers share their experiences",
-        "url": "https://www.abajournal.com/web/article/whats&#45;it&#45;like&#45;to&#45;be&#45;in&#45;the&#45;jury&#45;box&#45;lawyers&#45;share&#45;their&#45;experiences/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-03T15:20:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/03/ex-legorans-bag-2-4m-for-real-estate-ai-native",
         "title": "Ex-Legorans Bag $2.4m For Real Estate AI Native",
         "url": "https://www.artificiallawyer.com/2026/11/03/ex-legorans-bag-2-4m-for-real-estate-ai-native/",
@@ -145,16 +175,6 @@
         "publishedAt": "2026-11-03T08:21:31.000Z",
         "summary": "Microsoft’s new Copilot for Legal is here for the long term and eventually will be available to potentially 100,000s of lawyers worldwide, Legal Vertical leader ...",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
-        "title": "&#8216;Judge Stone&#8217; by Viola Davis and James Patterson wins inaugural Scott Turow Prize for Legal Fiction",
-        "url": "https://www.abajournal.com/news/article/judge&#45;stone&#45;by&#45;viola&#45;davis&#45;and&#45;james&#45;patterson&#45;wins&#45;inaugural&#45;scott&#45;turow&#45;prize&#45;for&#45;legal&#45;fiction/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-02T20:00:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1186,49 +1206,9 @@
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/utks9eofsoyd2p7otx7e",
-        "title": "谷歌 Data Agent Kit 正式发布：安全防护分为 Skill 与 IAM",
-        "url": "https://www.infoq.cn/article/UtKS9EofSoyd2P7Otx7e?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-04T20:01:56.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/hdmi6fdjpysevumhpoaa",
-        "title": "Anthropic 为重要开源项目新增可选安全扫描服务",
-        "url": "https://www.infoq.cn/article/hdmi6FdjpYSEvuMhPOAa?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-04T19:53:34.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/pgmes06l2mah2tcsmhj9",
         "title": "Harbor 新增 Docker Sandboxes 支持，可在隔离的 MicroVM 中运行可重现的 AI 代理评估",
