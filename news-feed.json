@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T23:00:56.392Z",
+  "generatedAt": "2026-11-05T04:27:02.226Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,26 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/u4faoah5vzpcv4tvqaco",
+        "title": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
+        "url": "https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-05T11:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/xiegrl5pws7jg1zxkple",
+        "title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
+        "url": "https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-05T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/pgmes06l2mah2tcsmhj9",
         "title": "Harbor 新增 Docker Sandboxes 支持，可在隔离的 MicroVM 中运行可重现的 AI 代理评估",
         "url": "https://www.infoq.cn/article/pgmES06L2MAH2TCSMhJ9?utm_source=rss&utm_medium=article",
@@ -1235,16 +1255,6 @@
         "url": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-11-04T11:02:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ywaayf1ylwb7on4p0lyc",
-        "title": "构建面向 Agentic 推理的下一代 LLM 推理引擎",
-        "url": "https://www.infoq.cn/article/YwAayF1ylWb7oN4P0lyC?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-03T15:40:16.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
