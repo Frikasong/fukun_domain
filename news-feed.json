@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T04:27:02.226Z",
+  "generatedAt": "2026-11-05T13:45:47.719Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,11 +1210,21 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/u4faoah5vzpcv4tvqaco",
-        "title": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
-        "url": "https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/umlhzxnis9tffg9kadys",
+        "title": "模型之外，腾讯还在补什么？",
+        "url": "https://www.infoq.cn/article/UMlHzxNiS9tFfG9KadYs?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-11-05T11:00:00.000Z",
+        "publishedAt": "2026-11-05T19:13:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/cdercarozbrscbns5swm",
+        "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
+        "url": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-05T16:53:21.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1248,19 +1258,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/bfkteycolydwmyi91h4q",
-        "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
-        "url": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-04T11:02:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3373415/china-blocks-softbanks-us54-billion-takeover-abbs-robotics-division",
+        "title": "China blocks SoftBank’s US$5.4 billion takeover of ABB’s robotics division",
+        "url": "https://www.scmp.com/business/china-business/article/3373415/china-blocks-softbanks-us54-billion-takeover-abbs-robotics-division",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-11-05T10:23:53.000Z",
+        "summary": "China’s state planner has told Japanese investor SoftBank it will not allow the US$5.4 billion acquisition ‌of the robotics segment of engineering group ABB to go ahead, the Swiss firm said on Thursday. The case marks th",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats",
         "title": "Tencent unveils Hy4 as open-weight AI race with DeepSeek, Z.ai, Alibaba heats up",
@@ -1289,16 +1299,6 @@
         "publishedAt": "2026-11-03T02:16:10.000Z",
         "summary": "[The content of this article has been produced by our advertising partner.] Hong Kong, November 2, 2026 — HashKey Group (3887.HK), a leading Asian digital asset company, today announced that, its is among the first insti",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/presented/business/topics/cvcf-2026-helps-unlock-growth/article/3372705/cyberport-venture-capital-forum-2026-unlocking-growth-and-shaping-agentic-economy",
-        "title": "Cyberport Venture & Capital Forum 2026: unlocking growth and shaping the agentic economy",
-        "url": "https://www.scmp.com/presented/business/topics/cvcf-2026-helps-unlock-growth/article/3372705/cyberport-venture-capital-forum-2026-unlocking-growth-and-shaping-agentic-economy",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-11-02T16:00:10.000Z",
-        "summary": "[The content of this article has been produced by our advertising partner.] In 2026, venture capital is shifting rapidly as record funding flows into AI, frontier tech, robotics, and digital infrastructure. Coupled with ",
-        "category": "updates",
         "region": "cn_en"
       }
     ]
