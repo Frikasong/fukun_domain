@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:03:40.216Z",
+  "generatedAt": "2026-11-06T04:25:11.442Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -128,72 +128,12 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/04/a-brief-history-of-generative-legal-ai",
-        "title": "A Brief History of Generative Legal AI",
-        "url": "https://www.artificiallawyer.com/2026/11/04/a-brief-history-of-generative-legal-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-04T07:40:00.000Z",
-        "summary": "It’s Legal Innovators UK today and tomorrow, so here are some reference notes. As Conference Chair I’ll be referring to this chart in my comments ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/daybreak-red-aws-govcloud",
-        "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-        "source": "OpenAI News",
-        "publishedAt": "2026-11-04T07:00:00.000Z",
-        "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/11/netdocuments-cpo-dan-hauck-on-the-companys-redesigned-platform-the-legal-context-graph-and-building-an-agentic-dms.html",
         "title": "NetDocuments CPO Dan Hauck on the Company’s Redesigned Platform, the Legal Context Graph, and Building an Agentic DMS",
         "url": "https://www.lawnext.com/2026/11/netdocuments-cpo-dan-hauck-on-the-companys-redesigned-platform-the-legal-context-graph-and-building-an-agentic-dms.html",
         "source": "LawSites",
         "publishedAt": "2026-11-03T19:56:31.000Z",
         "summary": "As NetDocuments rolls out a completely redesigned user experience, a new Microsoft 365 integration, and real-time co-authoring, LawNext host Bob Ambrogi speaks with Chief Product Officer Dan Hauck in an episode recorded ",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/03/ex-legorans-bag-2-4m-for-real-estate-ai-native",
-        "title": "Ex-Legorans Bag $2.4m For Real Estate AI Native",
-        "url": "https://www.artificiallawyer.com/2026/11/03/ex-legorans-bag-2-4m-for-real-estate-ai-native/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-03T14:24:27.000Z",
-        "summary": "Ex-Legorans, Cem Ucan and Kieran John Keenan, have raised a $2.4 million pre-seed round led by a16z Speedrun for their new model, AI native law ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/03/legal-innovators-uk-starts-tomorrow-nov-4th",
-        "title": "Legal Innovators UK Starts Tomorrow – Nov 4th",
-        "url": "https://www.artificiallawyer.com/2026/11/03/legal-innovators-uk-starts-tomorrow-nov-4th/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-03T13:27:58.000Z",
-        "summary": "It’s been months in the making, but it’s finally here. Legal Innovators UK starts tomorrow, Wednesday, November 4th, and continues through Thursday November 5th. Here’s ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/03/litera-owner-hg-anthropic-invest-in-ai-transformation-venture",
-        "title": "Litera Owner Hg + Anthropic Invest in &#8216;AI Transformation&#8217; Venture",
-        "url": "https://www.artificiallawyer.com/2026/11/03/litera-owner-hg-anthropic-invest-in-ai-transformation-venture/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-03T10:32:37.000Z",
-        "summary": "Hg, the massive private equity fund that owns Litera and has $110 billion in assets under management, along with LLM giant Anthropic, plus some angel ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/03/copilot-for-legal-al-interview-carina-negreanu-microsoft",
-        "title": "Copilot for Legal – AL Interview: Carina Negreanu, Microsoft",
-        "url": "https://www.artificiallawyer.com/2026/11/03/copilot-for-legal-al-interview-carina-negreanu-microsoft/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-03T08:21:31.000Z",
-        "summary": "Microsoft’s new Copilot for Legal is here for the long term and eventually will be available to potentially 100,000s of lawyers worldwide, Legal Vertical leader ...",
         "category": "tools",
         "region": "na"
       },
@@ -215,46 +155,6 @@
         "publishedAt": "2026-11-02T13:57:02.000Z",
         "summary": "Over the past few years, there have been a few twists and turns in the competition among legal research platforms to be the preferred partner of state and local bar associations. Once, that competition was almost exclusi",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/02/will-ai-change-the-identity-of-law-firm-partners",
-        "title": "Will AI Change the Identity of Law Firm Partners?",
-        "url": "https://www.artificiallawyer.com/2026/11/02/will-ai-change-the-identity-of-law-firm-partners/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-02T12:59:14.000Z",
-        "summary": "Will law firm partners need to change their professional identity, their sense of what they are and what they really do, for this sector to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/02/ai-native-firm-vetta-bids-for-weil-ip-lawyers",
-        "title": "AI-Native Firm Vetta Bids For Weil IP + Lawyers",
-        "url": "https://www.artificiallawyer.com/2026/11/02/ai-native-firm-vetta-bids-for-weil-ip-lawyers/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-02T08:40:54.000Z",
-        "summary": "Vetta, a new AI-native law firm started by Nic Vetta, a former Latham &#38; Watkins lawyer, is bidding to bring aboard talent and IP from ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/02/scissero-seeks-weil-gotshal-lawyers-assets",
-        "title": "Scissero Seeks Weil Gotshal Lawyers + Assets",
-        "url": "https://www.artificiallawyer.com/2026/11/02/scissero-seeks-weil-gotshal-lawyers-assets/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-02T08:07:32.000Z",
-        "summary": "Scissero, an AI-enabled law firm, has told Artificial Lawyer they are seeking to bring aboard talent and assets from Weil Gotshal as the New York ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/02/how-specialist-ai-agents-support-evidence-based-arbitrator-selection",
-        "title": "How Specialist AI Agents Support Evidence-Based Arbitrator Selection",
-        "url": "https://www.artificiallawyer.com/2026/11/02/how-specialist-ai-agents-support-evidence-based-arbitrator-selection/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-02T07:31:46.000Z",
-        "summary": "By Jean-Rémi de Maistre, CEO, Jus Mundi. Arbitrator selection: a consequential decision, a fragmented process Arbitration is a consensual dispute resolution mechanism widely used to ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -285,16 +185,6 @@
         "publishedAt": "2026-10-30T12:51:29.000Z",
         "summary": "At its annual Everlaw Summit in San Francisco this week, the e-discovery company Everlaw unveiled Omni, an agentic AI investigation suite that orchestrates the full range of the company&#8217;s tools to answer questions ",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/10/30/legal-innovators-is-next-week-clio-harvey",
-        "title": "Legal Innovators is Next Week! Clio, Harvey +",
-        "url": "https://www.artificiallawyer.com/2026/10/30/legal-innovators-is-next-week-clio-harvey/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-10-30T10:32:18.000Z",
-        "summary": "It’s the Legal Innovators UK conference next week in London on Nov 4 + 5, so let’s start this Wrap with sharing with you some ...",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -1206,9 +1096,109 @@
         "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
         "category": "tools",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/gpt-5-cursor",
+        "title": "How Cursor uses GPT-5",
+        "url": "https://openai.com/index/gpt-5-cursor",
+        "source": "OpenAI News",
+        "publishedAt": "2025-08-07T00:00:00.000Z",
+        "summary": "Learn how Cursor uses GPT-5.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/color-health",
+        "title": "Using GPT-4o reasoning to transform cancer care",
+        "url": "https://openai.com/index/color-health",
+        "source": "OpenAI News",
+        "publishedAt": "2024-06-17T04:15:00.000Z",
+        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/1yeowhagkg1or6wwy23p",
+        "title": "“超脑”统一指挥，“狼族”协同作战：京东物流打造供应链 AI 机器人军团",
+        "url": "https://www.infoq.cn/article/1YeowHagkg1Or6wwy23P?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-06T11:32:10.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/5s2oa0bllgr8fplkq2uk",
+        "title": "2026 年 PyTorch 大会：谷歌和 Meta 开源 TorchTPU，在 TPU 上原生支持 PyTorch",
+        "url": "https://www.infoq.cn/article/5s2oa0BLlgR8fplkq2uK?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-06T11:17:27.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jbdvouxhewn0oe6nfklo",
+        "title": "从仓储到配送，全程由 AI“指挥”：京东物流“超脑”3.0 的工业级 AI 实践",
+        "url": "https://www.infoq.cn/article/jBdvoUXheWN0oe6NfklO?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-06T11:14:55.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/4iusd2wp28ua4jd5fhg2",
+        "title": "AI Native 企业研发工具链：架构重构与持续演进｜AICon北京",
+        "url": "https://www.infoq.cn/article/4IUSd2wP28ua4Jd5fHG2?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-06T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/cdercarozbrscbns5swm",
         "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
@@ -1228,36 +1218,16 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/pgmes06l2mah2tcsmhj9",
-        "title": "Harbor 新增 Docker Sandboxes 支持，可在隔离的 MicroVM 中运行可重现的 AI 代理评估",
-        "url": "https://www.infoq.cn/article/pgmES06L2MAH2TCSMhJ9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-04T17:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/q9iebpvfozfy4bgcyuye",
-        "title": "月烧 1.5 万亿 token，年烧 1.32 亿美元？Cursor 工程师的账单，凡人只能仰望",
-        "url": "https://www.infoq.cn/article/q9iebpvFozfy4bgCYUyE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-04T15:48:18.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/opinion/world-opinion/article/3373341/ai-sell-taste-things-come",
-        "title": "The AI sell-off is a taste of things to come",
-        "url": "https://www.scmp.com/opinion/world-opinion/article/3373341/ai-sell-taste-things-come",
+        "id": "SCMP China Business:www.scmp.com/business/money/investment-products/article/3373471/mindful-ai-exposure-wealth-managers-hong-kong-summit-urge-balance-portfolios",
+        "title": "‘Mindful’ of AI exposure: wealth managers at Hong Kong summit urge balance in portfolios",
+        "url": "https://www.scmp.com/business/money/investment-products/article/3373471/mindful-ai-exposure-wealth-managers-hong-kong-summit-urge-balance-portfolios",
         "source": "SCMP China Business",
-        "publishedAt": "2026-11-05T21:30:05.000Z",
-        "summary": "There are good reasons for investors to be bullish about artificial intelligence (AI). The earnings of technology firms in the S&P 500 are expected to increase 54 per cent this year. For the index as a whole, profits wil",
+        "publishedAt": "2026-11-06T01:46:40.000Z",
+        "summary": "Before tech stocks plummeted in the US overnight, executives at a private wealth conference in Hong Kong have highlighted AI infrastructure as a versatile “defence plus growth” investment opportunity, while cautioning in",
         "category": "updates",
         "region": "cn_en"
       },
