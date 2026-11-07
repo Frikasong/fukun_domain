@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T22:34:10.895Z",
+  "generatedAt": "2026-11-07T03:53:07.005Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -78,26 +78,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/11/litera-and-filerskeepers-bridge-the-gap-between-global-retention-requirements-and-records-governance.html",
-        "title": "Litera and filerskeepers Bridge the Gap Between Global Retention Requirements and Records Governance",
-        "url": "https://www.lawnext.com/2026/11/litera-and-filerskeepers-bridge-the-gap-between-global-retention-requirements-and-records-governance.html",
-        "source": "LawSites",
-        "publishedAt": "2026-11-06T14:00:30.000Z",
-        "summary": "FileTrail’s records management workflows complement filerskeepers’ legal retention intelligence to help organizations put retention requirements into practice CHICAGO and AMSTERDAM – Nov. 5, 2026 – Litera, the legal AI p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/11/introducing-simpledocs-360-ai-native-contract-lifecycle-management.html",
-        "title": "Introducing SimpleDocs 360: AI-Native Contract Lifecycle Management",
-        "url": "https://www.lawnext.com/2026/11/introducing-simpledocs-360-ai-native-contract-lifecycle-management.html",
-        "source": "LawSites",
-        "publishedAt": "2026-11-06T13:00:00.000Z",
-        "summary": "The promise of CLM, without the complexity. MIAMI, FL — November 2026 — SimpleDocs, an award-winning provider of AI-powered contract solutions and parent company of Law Insider, today announced the launch of SimpleDocs 3",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/06/harvey-legora-ipo-plans-ao-1-1bn-legal-innovators-ny",
         "title": "Harvey + Legora IPO Plans, A&#038;O $1.1bn, Legal Innovators NY",
         "url": "https://www.artificiallawyer.com/2026/11/06/harvey-legora-ipo-plans-ao-1-1bn-legal-innovators-ny/",
@@ -144,16 +124,6 @@
         "source": "LawSites",
         "publishedAt": "2026-11-05T16:57:01.000Z",
         "summary": "As I have reported here, the legal technology company Clio is making a big push into the judiciary. It wants to develop AI tools to make judges’ jobs easier, and it has even trademarked the phrase “judiciary-grade AI.” T",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/introducing-gpt-6-cyber",
-        "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-        "url": "https://openai.com/index/introducing-gpt-6-cyber",
-        "source": "OpenAI News",
-        "publishedAt": "2026-11-05T09:00:00.000Z",
-        "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
         "category": "updates",
         "region": "na"
       },
@@ -1188,6 +1158,26 @@
         "region": "na"
       },
       {
+        "id": "LawSites:www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html",
+        "title": "Legal Decoder Introduces Aperture, A Natural Language Interface for Querying Legal Billing Data",
+        "url": "https://www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-15T13:03:11.000Z",
+        "summary": "Legal Decoder, a legal spend analytics company whose billing-review technology has been relied on by Fortune 500 companies and Am Law 100 firms, as well as fee examiners in major federal bankruptcy cases, is today launch",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/07/litera-relaunches-its-brand-around-a-unified-vision-one-ai-agent-spanning-the-practice-and-business-of-law.html",
+        "title": "Litera Relaunches Its Brand Around a Unified Vision: One AI Agent Spanning the Practice and Business of Law",
+        "url": "https://www.lawnext.com/2026/07/litera-relaunches-its-brand-around-a-unified-vision-one-ai-agent-spanning-the-practice-and-business-of-law.html",
+        "source": "LawSites",
+        "publishedAt": "2026-07-15T12:01:14.000Z",
+        "summary": "Litera, one of the most broadly deployed technology companies in the legal industry, is today unveiling a company-wide relaunch that positions it as the legal AI platform unifying the practice and business of law through",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "OpenAI News:openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
         "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -1206,25 +1196,35 @@
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
         "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/color-health",
+        "title": "Using GPT-4o reasoning to transform cancer care",
+        "url": "https://openai.com/index/color-health",
+        "source": "OpenAI News",
+        "publishedAt": "2024-06-17T04:15:00.000Z",
+        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
+        "category": "tools",
+        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/k1bcibhxeu3wlijdusgr",
+        "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "url": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-07T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/cdercarozbrscbns5swm",
         "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
         "url": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-11-05T16:53:21.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/xiegrl5pws7jg1zxkple",
-        "title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
-        "url": "https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-05T10:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1259,16 +1259,6 @@
         "publishedAt": "2026-11-04T07:01:09.000Z",
         "summary": "Chinese tech giant Tencent Holdings has rolled out its latest flagship artificial intelligence model, Hy4, seeking to challenge top open-weight rivals with enhanced agentic capabilities built to power its enterprise soft",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3373124/why-chinese-ai-stars-zai-minimax-struggle-match-anthropics-profit-margin",
-        "title": "Why Chinese AI stars like Z.ai, MiniMax struggle to match Anthropic’s profit margin",
-        "url": "https://www.scmp.com/tech/big-tech/article/3373124/why-chinese-ai-stars-zai-minimax-struggle-match-anthropics-profit-margin",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-11-03T12:30:13.000Z",
-        "summary": "US artificial intelligence giant Anthropic’s initial public offering prospectus has exposed a vast profitability gap between it and rivals Z.ai and MiniMax, highlighting the challenges facing China’s AI model developers ",
-        "category": "updates",
         "region": "cn_en"
       }
     ]
