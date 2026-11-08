@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T21:15:06.805Z",
+  "generatedAt": "2026-11-08T03:36:59.761Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,26 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/sy9xmk3zj3jpwhbn5fqv",
+        "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "url": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-08T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/gocdmzm2mpaqhwtnb6ij",
+        "title": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "url": "https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-08T09:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/k1bcibhxeu3wlijdusgr",
         "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
