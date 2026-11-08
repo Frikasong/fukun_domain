@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T03:36:59.761Z",
+  "generatedAt": "2026-11-08T12:30:21.271Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,21 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/sy9xmk3zj3jpwhbn5fqv",
-        "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
-        "url": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/qs0pj5m43c56hdozhir0",
+        "title": "顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访",
+        "url": "https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-11-08T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/gocdmzm2mpaqhwtnb6ij",
-        "title": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
-        "url": "https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-08T09:00:00.000Z",
+        "publishedAt": "2026-11-08T15:03:06.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1235,16 +1225,6 @@
         "url": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-11-07T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/cdercarozbrscbns5swm",
-        "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
-        "url": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-05T16:53:21.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
