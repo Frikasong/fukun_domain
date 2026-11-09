@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T21:29:59.393Z",
+  "generatedAt": "2026-11-09T03:50:34.257Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,46 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/w8rtjsy44djjy97uagqr",
+        "title": "Java 近期资讯：JDK 28 发布日程、Oracle 关键补丁、eMudhra 证书、Apache POI、WildFly、Azul 与 BellSoft",
+        "url": "https://www.infoq.cn/article/w8RTJSY44DJJy97uagQr?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-09T11:27:27.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/49jgp1l7v97riblppz1q",
+        "title": "Harness 已经很准了，为什么还需要一个 Agent Native Database",
+        "url": "https://www.infoq.cn/article/49JGp1l7v97riBlPpZ1q?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-09T10:44:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/6kudzak0ifkkvigrgzir",
+        "title": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+        "url": "https://www.infoq.cn/article/6kuDZAK0IFkKviGrGzIR?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-09T10:25:36.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/wuarox9mhiaoywpgrxpp",
+        "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "url": "https://www.infoq.cn/article/wUArox9MHiAoyWPgRxpp?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-09T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/qs0pj5m43c56hdozhir0",
         "title": "顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访",
         "url": "https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article",
@@ -1249,16 +1289,6 @@
         "publishedAt": "2026-11-06T12:03:24.000Z",
         "summary": "Solana, one of the world’s largest blockchain networks, plans to expand in Hong Kong to tap the city’s growing demand for tokenisation, according to a senior executive. “I believe that the biggest opportunity for Solana ",
         "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats",
-        "title": "Tencent unveils Hy4 as open-weight AI race with DeepSeek, Z.ai, Alibaba heats up",
-        "url": "https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-11-04T07:01:09.000Z",
-        "summary": "Chinese tech giant Tencent Holdings has rolled out its latest flagship artificial intelligence model, Hy4, seeking to challenge top open-weight rivals with enhanced agentic capabilities built to power its enterprise soft",
-        "category": "tools",
         "region": "cn_en"
       }
     ]
