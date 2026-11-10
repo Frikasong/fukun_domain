@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T14:46:37.733Z",
+  "generatedAt": "2026-11-10T01:00:00.847Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,86 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/columns/article/help&",
+        "title": "Help set the ABA’s new advocacy agenda in D.C.: Take the Legislative Priorities Survey",
+        "url": "https://www.abajournal.com/columns/article/help&#45;set&#45;the&#45;abas&#45;new&#45;advocacy&#45;agenda&#45;in&#45;d.c&#45;take&#45;the&#45;legislative&#45;priorities&#45;survey/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-09T19:30:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/the&",
+        "title": "The Burton Book Review: &#8216;All We Say&#8217; by Ben Rhodes",
+        "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;all&#45;we&#45;say&#45;by&#45;ben&#45;rhodes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-09T18:35:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/lsac&",
+        "title": "LSAC president Sudha Setty reflects on dynamic landscape of law school admissions",
+        "url": "https://www.abajournal.com/web/article/lsac&#45;president&#45;sudha&#45;setty&#45;reflects&#45;on&#45;dynamic&#45;landscape&#45;of&#45;law&#45;school&#45;admissions/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-09T18:25:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/09/blackletter-bags-6m-for-transactional-new-mod",
+        "title": "Blackletter Bags $6m for Transactional New Mod",
+        "url": "https://www.artificiallawyer.com/2026/11/09/blackletter-bags-6m-for-transactional-new-mod/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-09T17:13:05.000Z",
+        "summary": "Many new model, AI native, law firms are focused on more routine commercial contracts, with a notable group handling matters for startups. Blackletter is instead ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/three&",
+        "title": "Three men charged in $130 million AI impersonation scheme",
+        "url": "https://www.abajournal.com/news/article/three&#45;men&#45;charged&#45;in&#45;130&#45;million&#45;ai&#45;impersonation&#45;scheme/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-09T16:05:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lawyer&",
+        "title": "Defense attorney in Tupac Shakur murder trial discovered dead inside his Vegas home",
+        "url": "https://www.abajournal.com/news/article/lawyer&#45;who&#45;defended&#45;tupac&#45;shakurs&#45;killer&#45;found&#45;dead&#45;inside&#45;his&#45;vegas&#45;home/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-09T15:47:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/sheppard&",
+        "title": "Sheppard mandates 4-day-per-week return to office",
+        "url": "https://www.abajournal.com/news/article/sheppard&#45;mandates&#45;four&#45;day&#45;per&#45;week&#45;return&#45;to&#45;office/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-09T15:32:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/legal&",
+        "title": "Legal sector jobs hit record high in October, new data shows",
+        "url": "https://www.abajournal.com/news/article/legal&#45;sector&#45;jobs&#45;hit&#45;record&#45;high&#45;in&#45;october&#45;new&#45;data&#45;shows/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-09T14:46:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/09/legal-innovators-new-york-is-next-week",
         "title": "Legal Innovators New York is Next Week!",
@@ -78,82 +158,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/appeals&",
-        "title": "&#8216;ER&#8217; and ‘The Pitt’ are similar enough for lawsuit to move forward, appeals court says",
-        "url": "https://www.abajournal.com/news/article/appeals&#45;court&#45;says&#45;er&#45;and&#45;the&#45;pitt&#45;are&#45;similar&#45;enough&#45;for&#45;lawsuit&#45;to&#45;move&#45;forward/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-06T16:32:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former district attorney sentenced to prison in bribery scheme",
-        "url": "https://www.abajournal.com/news/article/former&#45;district&#45;attorney&#45;sentenced&#45;to&#45;prison&#45;in&#45;bribery&#45;scheme/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-06T16:14:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/arkansas&",
-        "title": "Former state official charged with tampering bar exam results",
-        "url": "https://www.abajournal.com/news/article/arkansas&#45;official&#45;charged&#45;with&#45;tampering&#45;bar&#45;exam&#45;results/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-06T16:02:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/feedback&",
-        "title": "Feedback Needed: Project by former DOJ lawyers shows people how to participate in federal rulemaking process",
-        "url": "https://www.abajournal.com/web/article/feedback&#45;needed/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-06T15:31:00.000Z",
-        "summary": "",
-        "category": "skills",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/aba&",
-        "title": "ABA to honor 2027 Stonewall Award recipients for LGBTQ+ advancements in legal profession",
-        "url": "https://www.abajournal.com/news/article/aba&#45;to&#45;honor&#45;2027&#45;stonewall&#45;award&#45;recipients&#45;for&#45;lgbtq&#45;advancements&#45;in&#45;legal&#45;profession/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-06T15:00:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/06/harvey-legora-ipo-plans-ao-1-1bn-legal-innovators-ny",
         "title": "Harvey + Legora IPO Plans, A&#038;O $1.1bn, Legal Innovators NY",
         "url": "https://www.artificiallawyer.com/2026/11/06/harvey-legora-ipo-plans-ao-1-1bn-legal-innovators-ny/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-11-06T08:53:13.000Z",
         "summary": "Let’s start this Wrap with some thoughts on Harvey&#8217;s and also Legora’s IPO plans. News ‘leaked&#8217; 🙂 yesterday that Harvey has chatted to advisors about ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/places&",
-        "title": "Places for All: Conferences offer opportunities, but lawyers with disabilities say accommodations are often lacking",
-        "url": "https://www.abajournal.com/web/article/places&#45;for&#45;all/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-05T20:52:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/new&",
-        "title": "New Mexico Supreme Court permanently disbars prosecutor after disciplinary findings",
-        "url": "https://www.abajournal.com/news/article/new&#45;mexico&#45;supreme&#45;court&#45;permanently&#45;disbars&#45;prosecutor&#45;after&#45;disciplinary&#45;findings/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-05T17:53:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -248,16 +258,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/02/will-ai-change-the-identity-of-law-firm-partners",
-        "title": "Will AI Change the Identity of Law Firm Partners?",
-        "url": "https://www.artificiallawyer.com/2026/11/02/will-ai-change-the-identity-of-law-firm-partners/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-02T12:59:14.000Z",
-        "summary": "Will law firm partners need to change their professional identity, their sense of what they are and what they really do, for this sector to ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/10/today-on-legaltech-week-conference-round-up-reports-from-cliocon-everlaw-and-netdocs-plus-law360s-rachel-rippetoe-sits-in.html",
         "title": "Today on Legaltech Week: Conference Round-Up &#8211; Reports from ClioCon, Everlaw and NetDocs &#8211; Plus Law360&#8217;s Rachel Rippetoe Sits In",
         "url": "https://www.lawnext.com/2026/10/today-on-legaltech-week-conference-round-up-reports-from-cliocon-everlaw-and-netdocs-plus-law360s-rachel-rippetoe-sits-in.html",
@@ -295,6 +295,16 @@
         "publishedAt": "2026-10-29T13:56:04.000Z",
         "summary": "Within the span of 48 hours this week, I was an in-person witness to the legal profession’s divide on AI. Through a bit of karmic coincidence, I was in a room one day dominated by people who fear it as a threat, and then",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/10/how-it-works-a-look-inside-imanages-next-generation-platform-and-its-new-ai-capabilities.html",
+        "title": "How It Works: A Look Inside iManage&#8217;s Next-Generation Platform and Its New AI Capabilities",
+        "url": "https://www.lawnext.com/2026/10/how-it-works-a-look-inside-imanages-next-generation-platform-and-its-new-ai-capabilities.html",
+        "source": "LawSites",
+        "publishedAt": "2026-10-28T22:16:53.000Z",
+        "summary": "iManage has introduced a next-generation version of its document and email management platform, featuring a redesigned interface and new AI capabilities for meeting preparation, document analysis, and review. In this spo",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -1168,16 +1178,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html",
-        "title": "Legal Decoder Introduces Aperture, A Natural Language Interface for Querying Legal Billing Data",
-        "url": "https://www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-15T13:03:11.000Z",
-        "summary": "Legal Decoder, a legal spend analytics company whose billing-review technology has been relied on by Fortune 500 companies and Am Law 100 firms, as well as fee examiners in major federal bankruptcy cases, is today launch",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
         "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -1231,16 +1231,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/tech-war/article/3373820/nvidia-fallout-chipmaker-faces-extensive-risks-after-ceo-affair-analysts-and-lawyers-say",
-        "title": "Nvidia fallout: chipmaker faces extensive risks after CEO affair, analysts and lawyers say",
-        "url": "https://www.scmp.com/tech/tech-war/article/3373820/nvidia-fallout-chipmaker-faces-extensive-risks-after-ceo-affair-analysts-and-lawyers-say",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-11-09T12:30:08.000Z",
-        "summary": "As Nvidia launched an investigation into CEO Jensen Huang after he admitted to an extramarital affair, the repercussions threaten not only his three-decade tenure but also the future of the chip giant’s delicate semicond",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes",
         "title": "Can DeepSeek challenge OpenAI, Anthropic in AI agents as Harness adoption takes off?",
