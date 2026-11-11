@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:16:37.154Z",
+  "generatedAt": "2026-11-11T23:53:09.451Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,96 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/weil&",
+        "title": "Weil Gotshal partners vote to dissolve firm",
+        "url": "https://www.abajournal.com/news/article/weil&#45;partners&#45;vote&#45;to&#45;dissolve&#45;firm/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-11T18:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ex&",
+        "title": "Ex-Denver Nuggets player, attorney settle malpractice lawsuit",
+        "url": "https://www.abajournal.com/news/article/ex&#45;denver&#45;nuggets&#45;player&#45;chris&#45;andersen&#45;attorney&#45;settle&#45;malpractice&#45;lawsuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-11T17:15:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/elvis&",
+        "title": "Elvis Presley estate shakes up licensing, copyright lawsuit against AI music generator",
+        "url": "https://www.abajournal.com/news/article/elvis&#45;presley&#45;estate&#45;shakes&#45;up&#45;licensing&#45;copyright&#45;lawsuit&#45;against&#45;ai&#45;music&#45;generator/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-11T16:36:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/will&",
+        "title": "Will blue wave wash away financial aid changes for law students?",
+        "url": "https://www.abajournal.com/web/article/will&#45;blue&#45;wave&#45;wash&#45;away&#45;financial&#45;aid&#45;changes&#45;for&#45;law&#45;students/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-11T16:03:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/la&",
+        "title": "Judge removed for engaging in &#8216;extensive and severe misconduct&#8217;",
+        "url": "https://www.abajournal.com/news/article/la&#45;county&#45;judge&#45;removed&#45;for&#45;engaging&#45;in&#45;extensive&#45;and&#45;severe&#45;misconduct/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-11T15:50:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/judicial&",
+        "title": "Judicial Watch founder Larry Klayman disbarred by Supreme Court",
+        "url": "https://www.abajournal.com/news/article/judicial&#45;watch&#45;founder&#45;larry&#45;klayman&#45;disbarred&#45;by&#45;supreme&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-11T15:31:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/legalrebels/article/rebels&",
+        "title": "What happened at Weil Gotshal? Could tech help other firms avoid that fate?",
+        "url": "https://www.abajournal.com/legalrebels/article/rebels&#45;podcast&#45;episode&#45;130/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-11T15:17:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/aba&",
+        "title": "ABA President Barbara Howard says association will continue to prioritize the defense of democracy",
+        "url": "https://www.abajournal.com/web/article/aba&#45;president&#45;barbara&#45;howard&#45;says&#45;defending&#45;democracy&#45;will&#45;continue&#45;to&#45;be&#45;among&#45;associations&#45;priorities/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-11T15:14:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/11/claren-launches-envoys-inhouse-agents",
+        "title": "Claren Launches &#8216;Envoys&#8217; Inhouse Agents",
+        "url": "https://www.artificiallawyer.com/2026/11/11/claren-launches-envoys-inhouse-agents/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-11T15:00:20.000Z",
+        "summary": "Claren, which has bases in London and California, has launched Envoys: always-on agents that absorb inhouse tasks from email or Slack, run the matter against ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/11/legora-targets-public-sector-with-ex-minister",
         "title": "Legora Targets Public Sector With Ex-Minister",
@@ -48,52 +138,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/web/article/giving&",
-        "title": "Giving and Receiving: Adoption attorney often on road donates building to legal services group for children",
-        "url": "https://www.abajournal.com/web/article/giving&#45;and&#45;receiving/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-10T18:52:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/virginia&",
-        "title": "County wants reimbursement of $3.4M it gave Appalachian School of Law",
-        "url": "https://www.abajournal.com/web/article/virginia&#45;county&#45;wants&#45;3.4&#45;million&#45;back&#45;that&#45;it&#45;gave&#45;appalachian&#45;school&#45;of&#45;law/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-10T18:36:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/voice/article/is&",
-        "title": "Is it worth reconsidering retirement?",
-        "url": "https://www.abajournal.com/voice/article/is&#45;it&#45;worth&#45;reconsidering&#45;retirement/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-10T17:29:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/10/legal-innovators-ny-keynote-roberto-alarcon-white-case",
         "title": "Legal Innovators NY &#8211; Keynote: Roberto Alarcon, White &#038; Case",
         "url": "https://www.artificiallawyer.com/2026/11/10/legal-innovators-ny-keynote-roberto-alarcon-white-case/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-11-10T16:54:58.000Z",
         "summary": "Ahead of Legal Innovators New York, which is next week on Nov 17 and 18, at Quorum by Convene in Midtown, the events team spoke ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/top&",
-        "title": "Top Dallas County investigator arrested, charged with wife&#8217;s murder",
-        "url": "https://www.abajournal.com/news/article/top&#45;dallas&#45;county&#45;investigator&#45;arrested&#45;and&#45;charged&#45;with&#45;wifes&#45;murder/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-10T15:55:00.000Z",
-        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -105,36 +155,6 @@
         "publishedAt": "2026-11-10T15:47:03.000Z",
         "summary": "Weil&#8217;s demise happened quickly and is unfortunate. Since Bloomberg Law reported the news, many have covered the situation. David Lat also offered a detailed analysis. Symptoms and central causes As the dust settles",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/lawsuit&",
-        "title": "Sheriff allows law firm to profit from policing, lawsuit alleges",
-        "url": "https://www.abajournal.com/news/article/lawsuit&#45;alleges&#45;that&#45;miami&#45;sheriff&#45;allows&#45;law&#45;firm&#45;to&#45;profit&#45;from&#45;policing/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-10T15:38:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/russell&",
-        "title": "Russell Brand sentenced to 10 years following rape and sexual assault conviction",
-        "url": "https://www.abajournal.com/news/article/russell&#45;brand&#45;sentenced&#45;to&#45;10&#45;years&#45;following&#45;rape&#45;and&#45;sexual&#45;assault&#45;conviction/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-10T15:19:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/texas&",
-        "title": "Texas&#8217; chief justice-elect wants to bring back ABA accreditation",
-        "url": "https://www.abajournal.com/web/article/texas&#45;chief&#45;justice&#45;elect&#45;wants&#45;to&#45;bring&#45;back&#45;aba&#45;accreditation/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-10T15:10:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -198,32 +218,12 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/columns/article/help&",
-        "title": "Help set the ABA’s new advocacy agenda in D.C.: Take the Legislative Priorities Survey",
-        "url": "https://www.abajournal.com/columns/article/help&#45;set&#45;the&#45;abas&#45;new&#45;advocacy&#45;agenda&#45;in&#45;d.c&#45;take&#45;the&#45;legislative&#45;priorities&#45;survey/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-09T19:30:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/09/blackletter-bags-6m-for-transactional-new-mod",
         "title": "Blackletter Bags $6m for Transactional New Mod",
         "url": "https://www.artificiallawyer.com/2026/11/09/blackletter-bags-6m-for-transactional-new-mod/",
         "source": "Artificial Lawyer",
         "publishedAt": "2026-11-09T17:13:05.000Z",
         "summary": "Many new model, AI native, law firms are focused on more routine commercial contracts, with a notable group handling matters for startups. Blackletter is instead ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/09/legal-innovators-new-york-is-next-week",
-        "title": "Legal Innovators New York is Next Week!",
-        "url": "https://www.artificiallawyer.com/2026/11/09/legal-innovators-new-york-is-next-week/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-09T14:36:46.000Z",
-        "summary": "It&#8217;s been months in the planning and now the landmark Legal Innovators New York conference in Midtown, on November 17 and 18, is here &#8211; taking place next ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,31 +1210,11 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/yiane38yfsyitvzotab0",
-        "title": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
-        "url": "https://www.infoq.cn/article/YiANe38yfSYitvZOtab0?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-11T21:05:37.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/1pdshf8slevbgzbbzhop",
         "title": "Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做表格、生成PPT",
         "url": "https://www.infoq.cn/article/1PdshF8SLevbGZbbZHoP?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-11-11T20:52:45.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/iacubu8fwz6g6bdlq9bv",
-        "title": "上下文也是成本：Agent 效率优化的新思路 ｜ 技术趋势",
-        "url": "https://www.infoq.cn/article/iaCUbU8Fwz6G6bDlQ9BV?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-11T19:05:46.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1262,32 +1242,12 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/plus/business/banking-finance/article/3374068/alibaba-readies-t-head-chip-ipo-hong-kong-frenzy-cools",
-        "title": "Alibaba readies T-Head chip IPO as Hong Kong frenzy cools",
-        "url": "https://www.scmp.com/plus/business/banking-finance/article/3374068/alibaba-readies-t-head-chip-ipo-hong-kong-frenzy-cools",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-11-11T09:19:59.000Z",
-        "summary": "Alibaba has applied to list chip-design unit T-Head in Hong Kong, as the Chinese tech giant braves a cooling initial public offering (IPO) market to raise funds for artificial intelligence (AI) ambitions. The Hong Kong s",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes",
         "title": "Can DeepSeek challenge OpenAI, Anthropic in AI agents as Harness adoption takes off?",
         "url": "https://www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes",
         "source": "SCMP China Business",
         "publishedAt": "2026-11-09T07:00:04.000Z",
         "summary": "DeepSeek’s Harness artificial intelligence agent framework has reached 1.54 million daily active users less than three months after launch, the Chinese AI champion said on Sunday, marking rapid growth in a new battlegrou",
-        "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/cryptocurrency/article/3373747/chinese-central-banks-pledge-probe-solana-snuffs-out-hopes-crypto-crackdown-easing",
-        "title": "Chinese central bank’s pledge to probe Solana snuffs out hopes crypto crackdown is easing",
-        "url": "https://www.scmp.com/business/cryptocurrency/article/3373747/chinese-central-banks-pledge-probe-solana-snuffs-out-hopes-crypto-crackdown-easing",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-11-09T06:00:34.000Z",
-        "summary": "A pledge by China’s central bank to investigate Solana’s recent campaigns in mainland China has extinguished hopes that a crackdown on cryptocurrencies will be eased and underscored Beijing’s unyielding hostility towards",
         "category": "tools",
         "region": "cn_en"
       }
