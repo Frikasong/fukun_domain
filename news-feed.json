@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T23:00:26.474Z",
+  "generatedAt": "2026-11-13T04:19:07.924Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,6 +1209,46 @@
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/rfgvey8sswqhcmjrostb",
+        "title": "黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+        "url": "https://www.infoq.cn/article/rFGveY8SswQhcMjroStB?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-13T11:28:14.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/1pcuirtm5hywtyr4fiha",
+        "title": "Docker 呼吁通过隔离与治理保障智能体安全",
+        "url": "https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-13T11:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/dkqaal0ssdhiq1h61ekx",
+        "title": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+        "url": "https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-13T10:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/joyjctbwwfskback5lje",
+        "title": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "url": "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-13T09:17:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/1pdshf8slevbgzbbzhop",
         "title": "Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做表格、生成PPT",
