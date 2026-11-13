@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T04:19:07.924Z",
+  "generatedAt": "2026-11-13T13:41:09.087Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/13/legal-innovators-ny-starts-tuesday",
+        "title": "Legal Innovators NY Starts Tuesday +",
+        "url": "https://www.artificiallawyer.com/2026/11/13/legal-innovators-ny-starts-tuesday/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-13T10:31:33.000Z",
+        "summary": "We begin this week’s Wrap with a quick reminder that Legal Innovators New York starts on Tuesday, Nov 17 and continues with inhouse day on ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/russell&",
         "title": "Russell Brand judge lauded for dispelling rape myths during sentencing comments",
@@ -215,16 +225,6 @@
         "publishedAt": "2026-11-10T13:43:10.000Z",
         "summary": "Anthropic has finally pressed ‘Go!’ on its IPO, even if its valuation is about half – at $1 trillion – compared to previous hopes. Artificial ...",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/10/copilot-for-legal-wont-cannibalize-us-litera",
-        "title": "Copilot for Legal Won’t Cannibalize Us – Litera",
-        "url": "https://www.artificiallawyer.com/2026/11/10/copilot-for-legal-wont-cannibalize-us-litera/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-10T13:31:16.000Z",
-        "summary": "Litera has announced it will provide Litera Compare and Firm AI Search within Copilot for Legal. But, will this legal-specific Copilot with a mass of ...",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -1210,11 +1210,21 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/rfgvey8sswqhcmjrostb",
-        "title": "黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
-        "url": "https://www.infoq.cn/article/rFGveY8SswQhcMjroStB?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/video/fwboyyfoamkqpmtitmdn",
+        "title": "从快速部署到记忆共享，数据库如何支撑 Agent 应用？",
+        "url": "https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-11-13T11:28:14.000Z",
+        "publishedAt": "2026-11-13T20:54:12.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/avopihgu8bvwy12j1sq5",
+        "title": "在银行业为基于 Kubernetes 的平台打造云原生文化",
+        "url": "https://www.infoq.cn/article/AVoPIHgU8BvWY12j1sQ5?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-13T15:18:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1230,31 +1240,11 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/dkqaal0ssdhiq1h61ekx",
-        "title": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
-        "url": "https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-13T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/article/joyjctbwwfskback5lje",
         "title": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
         "url": "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-11-13T09:17:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/1pdshf8slevbgzbbzhop",
-        "title": "Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做表格、生成PPT",
-        "url": "https://www.infoq.cn/article/1PdshF8SLevbGZbbZHoP?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-11T20:52:45.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
