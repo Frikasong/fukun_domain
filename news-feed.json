@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T03:59:38.411Z",
+  "generatedAt": "2026-11-15T13:13:02.368Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1209,16 +1209,6 @@
       }
     ],
     "cn": [
-      {
-        "id": "InfoQ China:www.infoq.cn/article/fzsekdatl9xajg8pvi7g",
-        "title": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
-        "url": "https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-15T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
       {
         "id": "InfoQ China:www.infoq.cn/article/0ipe2eoypcqmftl7z4z1",
         "title": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
