@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T14:22:28.514Z",
+  "generatedAt": "2026-11-17T01:19:55.238Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,22 +8,92 @@
   "panels": {
     "na": [
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/16/hsf-kramer-hires-6-legal-engineers-from-norm-ai",
-        "title": "HSF Kramer Hires 6 Legal Engineers from Norm.AI",
-        "url": "https://www.artificiallawyer.com/2026/11/16/hsf-kramer-hires-6-legal-engineers-from-norm-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-16T13:00:08.000Z",
-        "summary": "New model, AI native law firms have been stealing headlines for months. Now Big Law has struck back. In a surprising move, HSF Kramer has ...",
+        "id": "ABA Journal:www.abajournal.com/news/article/an&",
+        "title": "Judge releases DUI suspect after reading AI-assisted police report disclosure",
+        "url": "https://www.abajournal.com/news/article/an&#45;arizona&#45;judge&#45;tosses&#45;dui&#45;case&#45;after&#45;ai&#45;assisted&#45;police&#45;report&#45;disclosure/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-16T18:52:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/legal&",
+        "title": "ABA Legal Ed council votes to loosen faculty, course requirements in accreditation standards",
+        "url": "https://www.abajournal.com/web/article/legal&#45;ed&#45;council&#45;votes&#45;to&#45;loosen&#45;faculty&#45;course&#45;requirements&#45;in&#45;accreditation&#45;standards/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-16T17:18:00.000Z",
+        "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/16/baker-mckenzie-shows-the-way-with-billable-hour-shift",
-        "title": "Baker McKenzie Shows the Way with Billable Hour Shift",
-        "url": "https://www.artificiallawyer.com/2026/11/16/baker-mckenzie-shows-the-way-with-billable-hour-shift/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-16T12:31:08.000Z",
-        "summary": "Sunny Mann, the Global Chair of Baker McKenzie, told the Wall Street Journal that the billable hour will no longer be the default method for ...",
+        "id": "LawSites:www.lawnext.com/2026/11/exclusive-minutebox-launches-ai-agent-to-turn-its-entity-management-database-into-a-system-of-work.html",
+        "title": "Exclusive: MinuteBox Launches AI Agent to Turn Its Entity Management Database Into a &#8216;System of Work&#8217;",
+        "url": "https://www.lawnext.com/2026/11/exclusive-minutebox-launches-ai-agent-to-turn-its-entity-management-database-into-a-system-of-work.html",
+        "source": "LawSites",
+        "publishedAt": "2026-11-16T16:59:10.000Z",
+        "summary": "In what its CEO says is a complete reshaping of the company and its product, entity-management company MinuteBox today launched a new AI agent that turns its corporate records database into a platform for performing lega",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/the&",
+        "title": "The rise of the legal engineer",
+        "url": "https://www.abajournal.com/web/article/the&#45;rise&#45;of&#45;the&#45;legal&#45;engineer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-16T16:17:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/harvard&",
+        "title": "Harvard Law School suspends students&#8217; access to library after &#8216;study-in&#8217;",
+        "url": "https://www.abajournal.com/news/article/harvard&#45;law&#45;school&#45;suspends&#45;students&#45;access&#45;to&#45;library&#45;after&#45;study&#45;in/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-16T15:54:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/11/aderant-says-it-milana-docketing-product-launched-in-2022-is-now-in-nearly-40-of-am-law-200-firms.html",
+        "title": "Aderant Says It Milana Docketing Product, Launched In 2022, Is Now In Nearly 40% of Am Law 200 Firms",
+        "url": "https://www.lawnext.com/2026/11/aderant-says-it-milana-docketing-product-launched-in-2022-is-now-in-nearly-40-of-am-law-200-firms.html",
+        "source": "LawSites",
+        "publishedAt": "2026-11-16T15:44:07.000Z",
+        "summary": "Aderant, a company that provides business management software for law firms, said today that Milana, its cloud-based docketing product, has now been deployed at more than 170 law firms, including nearly 40% of Am Law 200",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/scaling&",
+        "title": "Scaling New Heights: Paul Stern recalls highs, lows defending US in wake of 'unspeakable tragedies'",
+        "url": "https://www.abajournal.com/web/article/scaling&#45;new&#45;heights/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-16T15:04:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/11/on-lawnext-live-from-cliocon-jack-newton-on-clios-refounding-its-push-into-the-courts-and-why-data-is-the-only-durable-moat.html",
+        "title": "On LawNext: Live from ClioCon, Jack Newton on Clio&#8217;s &#8216;Refounding,&#8217; Its Push into the Courts, and Why Data Is the Only Durable Moat",
+        "url": "https://www.lawnext.com/2026/11/on-lawnext-live-from-cliocon-jack-newton-on-clios-refounding-its-push-into-the-courts-and-why-data-is-the-only-durable-moat.html",
+        "source": "LawSites",
+        "publishedAt": "2026-11-16T15:03:01.000Z",
+        "summary": "Clio founder and CEO Jack Newton describes the past year as nothing less than a &#8220;refounding&#8221; of the company he started 18 years ago. In this episode of LawNext, recorded live on the floor of ClioCon 2026 in B",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/need&",
+        "title": "Need and Greed: How AI, imposters, large-scale schemes reshape immigration fraud—and threaten bar",
+        "url": "https://www.abajournal.com/web/article/need&#45;greed/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-16T15:01:00.000Z",
+        "summary": "",
         "category": "updates",
         "region": "na"
       },
@@ -68,136 +138,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former Cravath employee charged with insider trading",
-        "url": "https://www.abajournal.com/news/article/former&#45;cravath&#45;employee&#45;charged&#45;with&#45;insider&#45;trading/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-13T15:20:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/13/legal-innovators-ny-starts-tuesday",
-        "title": "Legal Innovators NY Starts Tuesday +",
-        "url": "https://www.artificiallawyer.com/2026/11/13/legal-innovators-ny-starts-tuesday/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-13T10:31:33.000Z",
-        "summary": "We begin this week’s Wrap with a quick reminder that Legal Innovators New York starts on Tuesday, Nov 17 and continues with inhouse day on ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/russell&",
-        "title": "Russell Brand judge lauded for dispelling rape myths during sentencing comments",
-        "url": "https://www.abajournal.com/news/article/russell&#45;brand&#45;judge&#45;lauded&#45;for&#45;dispelling&#45;rape&#45;myths/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-12T18:12:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/12/legal-innovators-ny-darby-green-ropes-gray",
-        "title": "Legal Innovators NY – Darby Green, Ropes &#038; Gray",
-        "url": "https://www.artificiallawyer.com/2026/11/12/legal-innovators-ny-darby-green-ropes-gray/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-12T16:03:38.000Z",
-        "summary": "Ahead of Legal Innovators New York on Nov 17 and 18 next week at Quorum by Convene in Midtown, the events team spoke to Darby ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/calling&",
-        "title": "Calling judge vulgar name doesn’t amount to criminal contempt, state supreme court says",
-        "url": "https://www.abajournal.com/news/article/calling&#45;judge&#45;a&#45;vulgar&#45;name&#45;doesnt&#45;amount&#45;to&#45;criminal&#45;contempt&#45;says&#45;pennsylvania&#45;supreme&#45;court/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-12T15:59:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/justice&",
-        "title": "Justice Thomas will teach seminar on race, equality at University of Texas at Austin",
-        "url": "https://www.abajournal.com/news/article/justice&#45;thomas&#45;to&#45;teach&#45;seminar&#45;on&#45;race&#45;and&#45;equality&#45;at&#45;university&#45;of&#45;texas&#45;at&#45;austin/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-12T15:47:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/after&",
-        "title": "After public shaming scandal, former NYC principal takes on victims&#8217; rights work with her attorney",
-        "url": "https://www.abajournal.com/web/article/after&#45;public&#45;shaming&#45;scandal&#45;former&#45;nyc&#45;principal&#45;takes&#45;on&#45;victims&#45;rights&#45;work&#45;with&#45;her&#45;attorney/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-12T15:27:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/12/is-big-law-ai-gaslighting-us",
-        "title": "Is Big Law &#8216;AI Gaslighting&#8217; Us?",
-        "url": "https://www.artificiallawyer.com/2026/11/12/is-big-law-ai-gaslighting-us/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-12T08:46:39.000Z",
-        "summary": "Is the recent spate of grand gestures by some Big Law firms, sometimes involving 100s of millions of dollars or more, just &#8216;AI gaslighting&#8217;? And ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/12/keeping-legal-ai-connected-why-your-data-and-case-should-work-together",
-        "title": "Keeping Legal AI Connected: Why Your Data and Case Should Work Together",
-        "url": "https://www.artificiallawyer.com/2026/11/12/keeping-legal-ai-connected-why-your-data-and-case-should-work-together/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-12T07:47:31.000Z",
-        "summary": "By Marla Crawford, General Counsel, Cimplifi. There has never been a more exciting time to work in legal technology. There has also never been an ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/11/claren-launches-envoys-inhouse-agents",
-        "title": "Claren Launches &#8216;Envoys&#8217; Inhouse Agents",
-        "url": "https://www.artificiallawyer.com/2026/11/11/claren-launches-envoys-inhouse-agents/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-11T15:00:20.000Z",
-        "summary": "Claren, which has bases in London and California, has launched Envoys: always-on agents that absorb inhouse tasks from email or Slack, run the matter against ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/11/legora-targets-public-sector-with-ex-minister",
-        "title": "Legora Targets Public Sector With Ex-Minister",
-        "url": "https://www.artificiallawyer.com/2026/11/11/legora-targets-public-sector-with-ex-minister/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-11T09:37:15.000Z",
-        "summary": "Legora is looking to bag more revenue by targeting governments and public sector bodies &#8211; all funded by you and me. Leading the charge will ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/11/mercedes-lawyer-joins-ai-native-compound-law",
-        "title": "Mercedes Lawyer Joins AI Native Compound Law",
-        "url": "https://www.artificiallawyer.com/2026/11/11/mercedes-lawyer-joins-ai-native-compound-law/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-11T08:16:42.000Z",
-        "summary": "Compound Law, an AI‐native firm based in Berlin, and co-founded by the former General Counsel of Zenjob, has hired Marc Schuba, a White &#38; Case ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/10/legal-innovators-ny-keynote-roberto-alarcon-white-case",
-        "title": "Legal Innovators NY &#8211; Keynote: Roberto Alarcon, White &#038; Case",
-        "url": "https://www.artificiallawyer.com/2026/11/10/legal-innovators-ny-keynote-roberto-alarcon-white-case/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-10T16:54:58.000Z",
-        "summary": "Ahead of Legal Innovators New York, which is next week on Nov 17 and 18, at Quorum by Convene in Midtown, the events team spoke ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/11/ken-crutchfield-is-biglaw-too-big-to-fail-are-other-firms-vulnerable-after-the-weil-wind-down.html",
         "title": "Ken Crutchfield: Is BigLaw Too Big To Fail? Are Other Firms Vulnerable After the Weil Wind-Down?",
         "url": "https://www.lawnext.com/2026/11/ken-crutchfield-is-biglaw-too-big-to-fail-are-other-firms-vulnerable-after-the-weil-wind-down.html",
@@ -218,6 +158,26 @@
         "region": "na"
       },
       {
+        "id": "Clio Blog:www.clio.com/blog/clio-integration-award-winners-2026",
+        "title": "Meet the 2026 Clio Integration Award Winners: RedactifyAI, AltFee, and Querious",
+        "url": "https://www.clio.com/blog/clio-integration-award-winners-2026/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-11-10T00:00:00.000Z",
+        "summary": "From AI redaction to smarter pricing and real-time meeting support, 2026 Clio Integration Award winners show legal tech working together.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/visualizations-in-vincent",
+        "title": "Introducing Visualizations in Vincent",
+        "url": "https://www.clio.com/blog/visualizations-in-vincent/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-11-10T00:00:00.000Z",
+        "summary": "Turn litigation data, contract information and corporate structures into clear, useful visuals all within Vincent.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/11/founder-nikki-shaver-to-leave-legaltech-hub-investor-jeroen-plink-to-step-in-announces-strategic-partnership-with-baretzbrunelle.html",
         "title": "Founder Nikki Shaver to Leave Legaltech Hub, Investor Jeroen Plink to Step In, Announces Strategic Partnership with Baretz+Brunelle",
         "url": "https://www.lawnext.com/2026/11/founder-nikki-shaver-to-leave-legaltech-hub-investor-jeroen-plink-to-step-in-announces-strategic-partnership-with-baretzbrunelle.html",
@@ -235,6 +195,16 @@
         "publishedAt": "2026-11-05T16:57:01.000Z",
         "summary": "As I have reported here, the legal technology company Clio is making a big push into the judiciary. It wants to develop AI tools to make judges’ jobs easier, and it has even trademarked the phrase “judiciary-grade AI.” T",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/the-release-report-october-2026",
+        "title": "The Release Report: October 2026",
+        "url": "https://www.clio.com/blog/the-release-report-october-2026/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-11-04T00:00:00.000Z",
+        "summary": "From a shared workspace for your matter to a draft in the right voice, Vincent supports your work at every stage.",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -305,6 +275,26 @@
         "publishedAt": "2026-10-29T13:56:04.000Z",
         "summary": "Within the span of 48 hours this week, I was an in-person witness to the legal profession’s divide on AI. Through a bit of karmic coincidence, I was in a room one day dominated by people who fear it as a threat, and then",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/introducing-collaboration-in-vincent",
+        "title": "Introducing collaboration in Vincent",
+        "url": "https://www.clio.com/blog/introducing-collaboration-in-vincent/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-10-29T00:00:00.000Z",
+        "summary": "With Projects, legal teams can now share documents and build on colleagues’ work in one place.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/cliocon-2026-highlights",
+        "title": "ClioCon 2026: Going Beyond Limits in Boston",
+        "url": "https://www.clio.com/blog/cliocon-2026-highlights/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-10-28T00:00:00.000Z",
+        "summary": "ClioCon 2026 recap: Jack Newton’s keynote, drafting in Clio Work, Clio Phones, Legal Trends Report findings, award winners, and ClioCon 2027 in Seattle.",
+        "category": "articles",
         "region": "na"
       },
       {
@@ -658,6 +648,16 @@
         "region": "na"
       },
       {
+        "id": "Clio Blog:www.clio.com/blog/clio-vincent-codex-plugin-law",
+        "title": "Introducing Clio for Codex",
+        "url": "https://www.clio.com/blog/clio-vincent-codex-plugin-law/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-09-17T00:00:00.000Z",
+        "summary": "Today we’re making Vincent available in Codex as a plugin. The premise is simple: when you’re doing legal work on Codex, you should be able to call on Vincent as a legal agent. Through MCP, you can now invoke Vincent dir",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/09/on-lawnext-alex-su-newly-named-president-of-latitude-legal-on-why-ai-is-driving-demand-for-flex-talent.html",
         "title": "On LawNext: Alex Su, Newly Named President of Latitude Legal, On Why AI Is Driving Demand for Flex Talent",
         "url": "https://www.lawnext.com/2026/09/on-lawnext-alex-su-newly-named-president-of-latitude-legal-on-why-ai-is-driving-demand-for-flex-talent.html",
@@ -688,6 +688,26 @@
         "region": "na"
       },
       {
+        "id": "Clio Blog:www.clio.com/blog/bridget-mary-mccormack-gm-judiciary",
+        "title": "Clio recruits former Chief Justice Bridget Mary McCormack to help build the future of court technology",
+        "url": "https://www.clio.com/blog/bridget-mary-mccormack-gm-judiciary/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-09-16T00:00:00.000Z",
+        "summary": "Former Michigan Supreme Court Chief Justice joins Clio to lead the company’s growth in the judiciary. Clio, the global leader in legal AI, today announced that former Michigan Supreme Court Chief Justice Bridget Mary McC",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/ai-is-making-lawyers-faster-is-it-making-firms-better",
+        "title": "AI is making lawyers faster. Is it making firms better?",
+        "url": "https://www.clio.com/blog/ai-is-making-lawyers-faster-is-it-making-firms-better/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-09-16T00:00:00.000Z",
+        "summary": "AI is speeding up legal work in increasingly visible and practical ways. Drafting cycles are compressing. Legal research that once took hours now takes minutes. And, law firms and in-house teams are incrementally realizi",
+        "category": "articles",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/09/which-ai-product-is-most-popular-among-law-firms-findings-of-iltas-tech-survey-may-surprise-you.html",
         "title": "Which AI Product Is Most Popular Among Law Firms? Findings of ILTA&#8217;s Tech Survey May Surprise You",
         "url": "https://www.lawnext.com/2026/09/which-ai-product-is-most-popular-among-law-firms-findings-of-iltas-tech-survey-may-surprise-you.html",
@@ -695,6 +715,16 @@
         "publishedAt": "2026-09-14T16:45:18.000Z",
         "summary": "At the recent conference of the International Legal Technology Association, the big legal AI vendors CoCounsel, Harvey and Legora had outsized presences, with ginormous booths in the exhibit hall, major-name performers a",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/clios-case-for-context-in-legal-ai",
+        "title": "Three stages, one message: Clio’s case for context in legal AI",
+        "url": "https://www.clio.com/blog/clios-case-for-context-in-legal-ai/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "summary": "Across three of legal tech’s biggest stages this year, Clio’s message held steady: the firms getting a return on AI are the ones connecting it to the work itself, rather than bolting another interface onto an already cro",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -735,6 +765,16 @@
         "publishedAt": "2026-09-09T13:15:03.000Z",
         "summary": "Calling it the “intelligence foundation” of its platform, Casepoint today launched Casepoint IQ, a suite of tools within a single AI framework that spans the company’s products for e-discovery, legal holds, FOIA and inve",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/the-false-finish-line-driving-tech-transformation-in-large-law",
+        "title": "The false finish line: Driving tech transformation in large law",
+        "url": "https://www.clio.com/blog/the-false-finish-line-driving-tech-transformation-in-large-law/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-09-09T00:00:00.000Z",
+        "summary": "The legal industry has become very good at launching technology. It has a much harder time making it stick. Clio Operate’s Chief Customer Officer, Jennie Strickland, breaks down the distance between going live and transf",
+        "category": "updates",
         "region": "na"
       },
       {
@@ -1148,26 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/07/whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-ai.html",
-        "title": "What’s In A Wrapper? Comparing A Hershey Bar To LegalTech AI",
-        "url": "https://www.lawnext.com/2026/07/whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-ai.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-17T12:56:30.000Z",
-        "summary": "Anyone can make sweets, but not everyone can make a Hershey bar. The debate over legaltech startups offering nothing more than a “thin wrapper” around an LLM begs a deeper analysis of the value of a wrapper, particularly",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/07/relativity-president-chris-brown-on-the-gavel-acquisition-opening-up-to-claude-and-the-gangbusters-growth-of-air.html",
-        "title": "Relativity President Chris Brown on the Gavel Acquisition, Opening Up to Claude, and the ‘Gangbusters’ Growth of aiR",
-        "url": "https://www.lawnext.com/2026/07/relativity-president-chris-brown-on-the-gavel-acquisition-opening-up-to-claude-and-the-gangbusters-growth-of-air.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-16T12:31:07.000Z",
-        "summary": "Last week, Relativity announced that Chris Brown, its chief product officer since 2018, had been named the company’s president, effective July 13. In the new role, Brown continues to lead Relativity’s product organizatio",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
         "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -1185,26 +1205,6 @@
         "publishedAt": "2025-08-07T00:00:00.000Z",
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
         "region": "na"
       }
     ],
@@ -1259,16 +1259,6 @@
         "publishedAt": "2026-11-16T12:00:10.000Z",
         "summary": "As Beijing pushes for artificial intelligence cooperation with Washington ahead of this week’s Apec summit in Shenzhen, Deloitte’s Asia-Pacific CEO Robert Hillard is urging regional governments to agree on common AI rule",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3374604/baidu-quarterly-profit-plunges-46-ad-slump-overshadows-ai-growth",
-        "title": "Baidu quarterly profit plunges 46% as ad slump overshadows AI growth",
-        "url": "https://www.scmp.com/tech/big-tech/article/3374604/baidu-quarterly-profit-plunges-46-ad-slump-overshadows-ai-growth",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-11-16T10:10:31.000Z",
-        "summary": "Baidu’s push into artificial intelligence failed to offset a downturn in its traditional search advertising business, dragging the Chinese tech giant’s third-quarter net profit down 46 per cent. Net profit came in at 1.4",
-        "category": "updates",
         "region": "cn_en"
       }
     ]
