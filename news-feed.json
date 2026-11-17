@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T01:19:55.238Z",
+  "generatedAt": "2026-11-17T15:14:37.108Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/11/aaa-expands-its-ai-arbitrator-to-handle-a-variety-of-business-to-business-disputes.html",
+        "title": "AAA Expands Its AI Arbitrator to Handle A Variety of Business-to-Business Disputes",
+        "url": "https://www.lawnext.com/2026/11/aaa-expands-its-ai-arbitrator-to-handle-a-variety-of-business-to-business-disputes.html",
+        "source": "LawSites",
+        "publishedAt": "2026-11-17T14:08:43.000Z",
+        "summary": "A year after launching its AI Arbitrator as a tool to help resolve documents-only construction cases, the American Arbitration Association has now expanded its availability for use in a range of documents-only, business-",
+        "category": "tools",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/an&",
         "title": "Judge releases DUI suspect after reading AI-assisted police report disclosure",
@@ -1178,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/07/law-democratized-renee-knake-jefferson-on-her-blueprint-for-solving-the-justice-crisis.html",
-        "title": "Law Democratized: Renee Knake Jefferson on Her Blueprint for Solving the Justice Crisis",
-        "url": "https://www.lawnext.com/2026/07/law-democratized-renee-knake-jefferson-on-her-blueprint-for-solving-the-justice-crisis.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-20T20:17:50.000Z",
-        "summary": "Martin Luther King famously said, &#8220;The arc of the moral universe is long, but it bends toward justice.&#8221; My guest today quoted his words in her 2024 book, Law Democratized: A Blueprint for Solving the Justice ",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
         "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -1210,41 +1210,21 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/yv89l6imcqsldhesolxo",
-        "title": "Docker Sandbox Kit规范：将AI智能体权限打包为OCI镜像",
-        "url": "https://www.infoq.cn/article/yV89L6iMCqSLDHeSoLxo?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/x8xujm6xovp7z2yzwbpm",
+        "title": "面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
+        "url": "https://www.infoq.cn/article/X8xujm6xovp7z2YzWbpM?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-11-16T16:22:11.000Z",
+        "publishedAt": "2026-11-17T18:53:07.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/8tysw9wzqf0l90kejunf",
-        "title": "Codex、Claude Code 都卷完了，居然还能跑出黑马？整个产品，现在都可以是一个提示词",
-        "url": "https://www.infoq.cn/article/8TySw9wzqf0l90keJUNf?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/x2wrcqi4norjvevpgx5b",
+        "title": "Google Cloud API Gateway 推出面向实时 AI 应用的流式处理",
+        "url": "https://www.infoq.cn/article/X2WRCQI4NorJVEvpgX5B?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-11-16T14:44:28.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/nwmk4epbl0jpautpkskb",
-        "title": "DeepSeek又来掀桌子了！官方App全套能力开放API，联网搜索价格不到OpenAI、Claude的8%",
-        "url": "https://www.infoq.cn/article/NWmk4epBL0jPAUtpKSKb?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-16T14:38:24.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/0ipe2eoypcqmftl7z4z1",
-        "title": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
-        "url": "https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-15T09:00:00.000Z",
+        "publishedAt": "2026-11-17T14:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1252,13 +1232,13 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3374612/apec-ceos-seek-common-ai-safeguards-adoption-accelerates-deloitte",
-        "title": "Apec CEOs seek common AI safeguards as adoption accelerates: Deloitte",
-        "url": "https://www.scmp.com/tech/big-tech/article/3374612/apec-ceos-seek-common-ai-safeguards-adoption-accelerates-deloitte",
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+        "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+        "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
         "source": "SCMP China Business",
-        "publishedAt": "2026-11-16T12:00:10.000Z",
-        "summary": "As Beijing pushes for artificial intelligence cooperation with Washington ahead of this week’s Apec summit in Shenzhen, Deloitte’s Asia-Pacific CEO Robert Hillard is urging regional governments to agree on common AI rule",
-        "category": "tools",
+        "publishedAt": "2026-11-17T12:30:09.000Z",
+        "summary": "Amid mounting concerns of an artificial intelligence bubble and fresh market jitters following the resignation of Nvidia CEO Jensen Huang, the leaders of two of China’s biggest tech giants have urged the industry to focu",
+        "category": "updates",
         "region": "cn_en"
       }
     ]
