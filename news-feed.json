@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:51:24.722Z",
+  "generatedAt": "2026-11-18T23:43:47.622Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,12 +8,122 @@
   "panels": {
     "na": [
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/18/how-a-matter-is-staffed-decides-ais-commercial-value",
-        "title": "How a Matter Is Staffed Decides AI’s Commercial Value",
-        "url": "https://www.artificiallawyer.com/2026/11/18/how-a-matter-is-staffed-decides-ais-commercial-value/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-18T11:54:35.000Z",
-        "summary": "By Alex Tring, BigHand. Law firms are investing heavily in AI, paying more for their lawyers, and being asked by the companies that hire them ...",
+        "id": "ABA Journal:www.abajournal.com/web/article/lawyers&",
+        "title": "Lawyers connect with clients over addiction, mental health challenges",
+        "url": "https://www.abajournal.com/web/article/lawyers&#45;connect&#45;with&#45;clients&#45;over&#45;addiction&#45;mental&#45;health&#45;challenges/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-18T20:17:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/the&",
+        "title": "EEOC sues for documents from law firm internship program",
+        "url": "https://www.abajournal.com/web/article/the&#45;eeoc&#45;sues&#45;for&#45;documents&#45;from&#45;law&#45;firm&#45;internship&#45;program/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-18T20:10:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/michigan&",
+        "title": "Judge found guilty of drunk driving but without certainty of elevated blood alcohol level",
+        "url": "https://www.abajournal.com/news/article/michigan&#45;judge&#45;faces&#45;drunk&#45;driving&#45;conviction&#45;but&#45;not&#45;an&#45;elevated&#45;blood&#45;alcohol&#45;level/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-18T18:42:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/11/openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-releases-new-benchmark-results.html",
+        "title": "OpenAI Opens Astra for Law to All ChatGPT Enterprise Customers and Releases New Benchmark Results",
+        "url": "https://www.lawnext.com/2026/11/openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-releases-new-benchmark-results.html",
+        "source": "LawSites",
+        "publishedAt": "2026-11-18T18:00:12.000Z",
+        "summary": "In September, OpenAI joined other frontier models that have been moving into the legal field, including Anthropic and Google, and launched Astra for Law, a version of its latest GPT-6 Astra model configured specifically ",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/11/how-ai-is-changing-case-research-for-corporate-restructuring.html",
+        "title": "How AI is Changing Case Research for Corporate Restructuring",
+        "url": "https://www.lawnext.com/2026/11/how-ai-is-changing-case-research-for-corporate-restructuring.html",
+        "source": "LawSites",
+        "publishedAt": "2026-11-18T17:44:44.000Z",
+        "summary": "As the pace of corporate restructuring continues to accelerate, getting up to speed quickly is a necessity for providing effective representation. Chapter 11 cases increasingly involve multiple jurisdictions, cross-borde",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/german&",
+        "title": "Beauty company asks court to dismiss David Beckham fragrance lawsuit",
+        "url": "https://www.abajournal.com/news/article/german&#45;fragrance&#45;company&#45;asks&#45;ny&#45;court&#45;to&#45;dismiss&#45;david&#45;beckham&#45;lawsuit/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-18T17:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/former&",
+        "title": "Lawyer sentenced to 87 months in prison for defrauding Motley Rice",
+        "url": "https://www.abajournal.com/news/article/former&#45;motley&#45;rice&#45;lawyer&#45;sentenced&#45;to&#45;87&#45;months&#45;in&#45;prison&#45;for&#45;defrauding&#45;firm/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-18T16:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/client&",
+        "title": "Client insists on lying in loan application? Do &#8216;noisy withdrawal,&#8217; new ABA ethics opinion says",
+        "url": "https://www.abajournal.com/web/article/client&#45;insists&#45;on&#45;lying&#45;in&#45;loan&#45;application&#45;do&#45;a&#45;noisy&#45;withdrawal&#45;says&#45;aba&#45;ethics&#45;opinion/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-18T16:02:00.000Z",
+        "summary": "",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/voice/article/the&",
+        "title": "The Pink Suit Problem: Preparation can help head off problems that are ultimately peripheral",
+        "url": "https://www.abajournal.com/voice/article/the&#45;pink&#45;suit&#45;problem/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-18T15:55:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/penn&",
+        "title": "Penn Law professor&#8217;s lawsuit is free speech case, not employment discrimination, 3rd Circuit says",
+        "url": "https://www.abajournal.com/news/article/penn&#45;law&#45;professors&#45;suit&#45;is&#45;a&#45;free&#45;speech&#45;case&#45;3rd&#45;circuit&#45;says/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-18T15:44:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/lebron&",
+        "title": "LeBron James sues sports betting startup over unauthorized use of &#8216;Bron&#8217; nickname",
+        "url": "https://www.abajournal.com/news/article/lebron&#45;james&#45;sues&#45;sports&#45;betting&#45;startup&#45;over&#45;use&#45;of&#45;bron&#45;nickname/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-18T15:20:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/11/on-lawnext-netdocuments-heath-harris-on-why-your-taxonomy-is-your-ai-strategy-and-why-in-the-end-the-data-wins.html",
+        "title": "On LawNext: NetDocuments’ Heath Harris on Why Your Taxonomy Is Your AI Strategy and Why, in the End, the Data Wins",
+        "url": "https://www.lawnext.com/2026/11/on-lawnext-netdocuments-heath-harris-on-why-your-taxonomy-is-your-ai-strategy-and-why-in-the-end-the-data-wins.html",
+        "source": "LawSites",
+        "publishedAt": "2026-11-18T14:53:20.000Z",
+        "summary": "Law firms are moving past the “buy everything” phase of AI adoption and starting to ask how the technology maps to their strategy and brand, says Heath Harris, vice president of applied AI and enterprise transformation a",
         "category": "updates",
         "region": "na"
       },
@@ -23,16 +133,6 @@
         "url": "https://www.abajournal.com/web/article/aba&#45;notices/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-11-17T21:42:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/prosecutors&",
-        "title": "Tech company Huawei built its business on repeated crimes, prosecutors tell jurors",
-        "url": "https://www.abajournal.com/news/article/prosecutors&#45;tell&#45;huawei&#45;jurors&#45;company&#45;built&#45;its&#45;business&#45;on&#45;repeated&#45;crimes/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-17T18:39:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -58,16 +158,6 @@
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/california&",
-        "title": "California coalitions sue to block Gov. Newsom’s commutation of over 500 death row sentences",
-        "url": "https://www.abajournal.com/news/article/california&#45;coalitions&#45;sue&#45;to&#45;block&#45;newsoms&#45;commutation&#45;of&#45;549&#45;death&#45;row&#45;sentences/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-17T17:01:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/11/mediation-fails-to-resolve-fastcase-alexi-lawsuit-over-alleged-data-misuse.html",
         "title": "Mediation Fails to Resolve Fastcase-Alexi Lawsuit Over Alleged Data Misuse",
         "url": "https://www.lawnext.com/2026/11/mediation-fails-to-resolve-fastcase-alexi-lawsuit-over-alleged-data-misuse.html",
@@ -75,36 +165,6 @@
         "publishedAt": "2026-11-17T16:16:40.000Z",
         "summary": "As the federal court lawsuit between legal research companies Fastcase, which is now owned by Clio, and Alexi nears it first anniversary, an attempt to resolve the dispute through court-ordered mediation has failed to ac",
         "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/former&",
-        "title": "Former Cravath employee considers plea deal after insider trading charges",
-        "url": "https://www.abajournal.com/news/article/former&#45;cravath&#45;employee&#45;considers&#45;a&#45;plea&#45;deal&#45;after&#45;insider&#45;trading&#45;charges/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-17T16:03:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/judge&",
-        "title": "Immigration agents&#8217; seizure of lawyer&#8217;s phone at airport appears retaliatory, judge finds",
-        "url": "https://www.abajournal.com/news/article/judge&#45;finds&#45;that&#45;agents&#45;seizure&#45;of&#45;lawyers&#45;phone&#45;at&#45;airport&#45;appears&#45;retaliatory/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-17T15:41:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/ucsf&",
-        "title": "University of California law school offers intensive course on AI legal tool building",
-        "url": "https://www.abajournal.com/news/article/ucsf&#45;law&#45;offers&#45;intensive&#45;course&#45;on&#45;ai&#45;legal&#45;tool&#45;building/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-17T15:27:00.000Z",
-        "summary": "",
-        "category": "tools",
         "region": "na"
       },
       {
@@ -128,36 +188,6 @@
         "region": "na"
       },
       {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/17/building-legal-ai-for-public-service-across-borders",
-        "title": "Building Legal AI for Public Service Across Borders",
-        "url": "https://www.artificiallawyer.com/2026/11/17/building-legal-ai-for-public-service-across-borders/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-17T11:57:18.000Z",
-        "summary": "By Joshua McKibben, Head of Trust, Harvey. Harvey is investing in public sector legal teams across jurisdictions. Our recent FedRAMP Class D (High) certification in ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/an&",
-        "title": "Judge releases DUI suspect after reading AI-assisted police report disclosure",
-        "url": "https://www.abajournal.com/news/article/an&#45;arizona&#45;judge&#45;tosses&#45;dui&#45;case&#45;after&#45;ai&#45;assisted&#45;police&#45;report&#45;disclosure/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-16T18:52:00.000Z",
-        "summary": "",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/legal&",
-        "title": "ABA Legal Ed council votes to loosen faculty, course requirements in accreditation standards",
-        "url": "https://www.abajournal.com/web/article/legal&#45;ed&#45;council&#45;votes&#45;to&#45;loosen&#45;faculty&#45;course&#45;requirements&#45;in&#45;accreditation&#45;standards/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-16T17:18:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
         "id": "LawSites:www.lawnext.com/2026/11/exclusive-minutebox-launches-ai-agent-to-turn-its-entity-management-database-into-a-system-of-work.html",
         "title": "Exclusive: MinuteBox Launches AI Agent to Turn Its Entity Management Database Into a &#8216;System of Work&#8217;",
         "url": "https://www.lawnext.com/2026/11/exclusive-minutebox-launches-ai-agent-to-turn-its-entity-management-database-into-a-system-of-work.html",
@@ -165,26 +195,6 @@
         "publishedAt": "2026-11-16T16:59:10.000Z",
         "summary": "In what its CEO says is a complete reshaping of the company and its product, entity-management company MinuteBox today launched a new AI agent that turns its corporate records database into a platform for performing lega",
         "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/the&",
-        "title": "The rise of the legal engineer",
-        "url": "https://www.abajournal.com/web/article/the&#45;rise&#45;of&#45;the&#45;legal&#45;engineer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-16T16:17:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/harvard&",
-        "title": "Harvard Law School suspends students&#8217; access to library after &#8216;study-in&#8217;",
-        "url": "https://www.abajournal.com/news/article/harvard&#45;law&#45;school&#45;suspends&#45;students&#45;access&#45;to&#45;library&#45;after&#45;study&#45;in/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-16T15:54:00.000Z",
-        "summary": "",
-        "category": "updates",
         "region": "na"
       },
       {
@@ -204,86 +214,6 @@
         "source": "LawSites",
         "publishedAt": "2026-11-16T15:03:01.000Z",
         "summary": "Clio founder and CEO Jack Newton describes the past year as nothing less than a &#8220;refounding&#8221; of the company he started 18 years ago. In this episode of LawNext, recorded live on the floor of ClioCon 2026 in B",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/16/hsf-kramer-hires-6-legal-engineers-from-norm-ai",
-        "title": "HSF Kramer Hires 6 Legal Engineers from Norm.AI",
-        "url": "https://www.artificiallawyer.com/2026/11/16/hsf-kramer-hires-6-legal-engineers-from-norm-ai/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-16T13:00:08.000Z",
-        "summary": "New model, AI native law firms have been stealing headlines for months. Now Big Law has struck back. In a surprising move, HSF Kramer has ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/16/baker-mckenzie-shows-the-way-with-billable-hour-shift",
-        "title": "Baker McKenzie Shows the Way with Billable Hour Shift",
-        "url": "https://www.artificiallawyer.com/2026/11/16/baker-mckenzie-shows-the-way-with-billable-hour-shift/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-16T12:31:08.000Z",
-        "summary": "Sunny Mann, the Global Chair of Baker McKenzie, told the Wall Street Journal that the billable hour will no longer be the default method for ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/13/legal-innovators-ny-starts-tuesday",
-        "title": "Legal Innovators NY Starts Tuesday +",
-        "url": "https://www.artificiallawyer.com/2026/11/13/legal-innovators-ny-starts-tuesday/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-13T10:31:33.000Z",
-        "summary": "We begin this week’s Wrap with a quick reminder that Legal Innovators New York starts on Tuesday, Nov 17 and continues with inhouse day on ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/12/legal-innovators-ny-darby-green-ropes-gray",
-        "title": "Legal Innovators NY – Darby Green, Ropes &#038; Gray",
-        "url": "https://www.artificiallawyer.com/2026/11/12/legal-innovators-ny-darby-green-ropes-gray/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-12T16:03:38.000Z",
-        "summary": "Ahead of Legal Innovators New York on Nov 17 and 18 next week at Quorum by Convene in Midtown, the events team spoke to Darby ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/12/is-big-law-ai-gaslighting-us",
-        "title": "Is Big Law &#8216;AI Gaslighting&#8217; Us?",
-        "url": "https://www.artificiallawyer.com/2026/11/12/is-big-law-ai-gaslighting-us/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-12T08:46:39.000Z",
-        "summary": "Is the recent spate of grand gestures by some Big Law firms, sometimes involving 100s of millions of dollars or more, just &#8216;AI gaslighting&#8217;? And ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/12/keeping-legal-ai-connected-why-your-data-and-case-should-work-together",
-        "title": "Keeping Legal AI Connected: Why Your Data and Case Should Work Together",
-        "url": "https://www.artificiallawyer.com/2026/11/12/keeping-legal-ai-connected-why-your-data-and-case-should-work-together/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-12T07:47:31.000Z",
-        "summary": "By Marla Crawford, General Counsel, Cimplifi. There has never been a more exciting time to work in legal technology. There has also never been an ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/11/claren-launches-envoys-inhouse-agents",
-        "title": "Claren Launches &#8216;Envoys&#8217; Inhouse Agents",
-        "url": "https://www.artificiallawyer.com/2026/11/11/claren-launches-envoys-inhouse-agents/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-11T15:00:20.000Z",
-        "summary": "Claren, which has bases in London and California, has launched Envoys: always-on agents that absorb inhouse tasks from email or Slack, run the matter against ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/11/legora-targets-public-sector-with-ex-minister",
-        "title": "Legora Targets Public Sector With Ex-Minister",
-        "url": "https://www.artificiallawyer.com/2026/11/11/legora-targets-public-sector-with-ex-minister/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-11T09:37:15.000Z",
-        "summary": "Legora is looking to bag more revenue by targeting governments and public sector bodies &#8211; all funded by you and me. Leading the charge will ...",
         "category": "updates",
         "region": "na"
       },
@@ -1168,36 +1098,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/07/lawnext-from-product-to-practice-why-casetexts-former-cto-founded-general-legal-an-ai-native-law-firm.html",
-        "title": "LawNext: From Product to Practice &#8211; Why Casetext’s Former CTO Founded General Legal, An AI Native Law Firm",
-        "url": "https://www.lawnext.com/2026/07/lawnext-from-product-to-practice-why-casetexts-former-cto-founded-general-legal-an-ai-native-law-firm.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-27T18:31:09.000Z",
-        "summary": "As chief technology officer at Casetext, Ryan Walker helped build CoCounsel, one of the first and most consequential generative AI legal assistants — a product so significant it led to the company&#8217;s $650 million ac",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/07/bringing-home-the-bacon-clio-launches-clio-work-ai-in-its-home-country-of-canada.html",
-        "title": "Bringing Home The Bacon: Clio Launches &#8216;Clio Work&#8217; AI In Its Home Country Of Canada",
-        "url": "https://www.lawnext.com/2026/07/bringing-home-the-bacon-clio-launches-clio-work-ai-in-its-home-country-of-canada.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-27T16:17:21.000Z",
-        "summary": "Since launching its Clio Work AI product in October 2025, Clio says it has been the fastest-adopted product in the company&#8217;s 18-year history. But there was one place where Clio Work was not available — Canada, the ",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "LawSites:www.lawnext.com/2026/07/legal-research-startup-midpage-crosses-another-threshold-of-coverage-adding-federal-and-state-statutes-regulations-and-agency-guidance.html",
-        "title": "Legal Research Startup Midpage Crosses Another Threshold Of Coverage, Adding Federal and State Statutes, Regulations and Agency Guidance",
-        "url": "https://www.lawnext.com/2026/07/legal-research-startup-midpage-crosses-another-threshold-of-coverage-adding-federal-and-state-statutes-regulations-and-agency-guidance.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-23T17:00:06.000Z",
-        "summary": "It was just 18 months ago that I wrote about the legal research startup Midpage passing what its founder considered a critical threshold in its development, achieving full data coverage of key U.S. case law. Now the comp",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
         "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -1205,6 +1105,66 @@
         "publishedAt": "2026-07-09T13:00:00.000Z",
         "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
         "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/gpt-5-cursor",
+        "title": "How Cursor uses GPT-5",
+        "url": "https://openai.com/index/gpt-5-cursor",
+        "source": "OpenAI News",
+        "publishedAt": "2025-08-07T00:00:00.000Z",
+        "summary": "Learn how Cursor uses GPT-5.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/color-health",
+        "title": "Using GPT-4o reasoning to transform cancer care",
+        "url": "https://openai.com/index/color-health",
+        "source": "OpenAI News",
+        "publishedAt": "2024-06-17T04:15:00.000Z",
+        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
+        "title": "API Partnership with Stack Overflow",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+        "source": "OpenAI News",
+        "publishedAt": "2024-05-06T00:00:00.000Z",
+        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
+        "category": "tools",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "title": "Building an early warning system for LLM-aided biological threat creation",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-31T08:00:00.000Z",
+        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
+        "category": "articles",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/whoop",
+        "title": "Delivering LLM-powered health solutions",
+        "url": "https://openai.com/index/whoop",
+        "source": "OpenAI News",
+        "publishedAt": "2024-01-04T08:00:00.000Z",
+        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "title": "Scaling Kubernetes to 7,500 nodes",
+        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+        "source": "OpenAI News",
+        "publishedAt": "2021-01-25T08:00:00.000Z",
+        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
+        "category": "articles",
         "region": "na"
       }
     ],
@@ -1251,16 +1211,6 @@
       }
     ],
     "cn_en": [
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3374902/tencent-profit-dips-sixfold-increase-ai-infrastructure-spending-sacrifices-margin",
-        "title": "Tencent profit dips as sixfold increase in AI infrastructure spending sacrifices margin",
-        "url": "https://www.scmp.com/tech/big-tech/article/3374902/tencent-profit-dips-sixfold-increase-ai-infrastructure-spending-sacrifices-margin",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-11-18T09:49:49.000Z",
-        "summary": "Tencent Holdings ramped up capital spending more than sixfold in the third quarter to above US$12 billion, weighing on profit and free cash flow as the Chinese tech giant poured money into computing power to catch up in ",
-        "category": "updates",
-        "region": "cn_en"
-      },
       {
         "id": "Sixth Tone:www.sixthtone.com/news/1019284/bot,%20interrupted:%20deepseek%20users%20report%20new%20limits%20on%20free%20chats",
         "title": "Bot, Interrupted: DeepSeek Users Report New Limits on Free Chats",
