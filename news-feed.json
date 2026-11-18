@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T00:16:33.833Z",
+  "generatedAt": "2026-11-18T14:51:24.722Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/18/how-a-matter-is-staffed-decides-ais-commercial-value",
+        "title": "How a Matter Is Staffed Decides AI’s Commercial Value",
+        "url": "https://www.artificiallawyer.com/2026/11/18/how-a-matter-is-staffed-decides-ais-commercial-value/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-18T11:54:35.000Z",
+        "summary": "By Alex Tring, BigHand. Law firms are investing heavily in AI, paying more for their lawyers, and being asked by the companies that hire them ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/aba&",
         "title": "ABA Notices",
@@ -274,16 +284,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-11-11T09:37:15.000Z",
         "summary": "Legora is looking to bag more revenue by targeting governments and public sector bodies &#8211; all funded by you and me. Leading the charge will ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/11/mercedes-lawyer-joins-ai-native-compound-law",
-        "title": "Mercedes Lawyer Joins AI Native Compound Law",
-        "url": "https://www.artificiallawyer.com/2026/11/11/mercedes-lawyer-joins-ai-native-compound-law/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-11T08:16:42.000Z",
-        "summary": "Compound Law, an AI‐native firm based in Berlin, and co-founded by the former General Counsel of Zenjob, has hired Marc Schuba, a White &#38; Case ...",
         "category": "updates",
         "region": "na"
       },
@@ -1210,11 +1210,31 @@
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/lms1bm1muspglujmr1l3",
-        "title": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
-        "url": "https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/nbshaftzqrssfrsvu6aj",
+        "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+        "url": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-11-18T08:00:00.000Z",
+        "publishedAt": "2026-11-18T14:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zuc0vhq9xm3bfhsqqlw3",
+        "title": "纳德拉回应微软首次给工程师发“离场费”：Claude Code 让微软措手不及，二十年 IDE 优势半年动摇",
+        "url": "https://www.infoq.cn/article/zUC0vHq9xm3BFHSqQlw3?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-18T13:55:35.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/4pebu8clhkgz0ouf3ete",
+        "title": "Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+        "url": "https://www.infoq.cn/article/4PEbu8cLHkgz0oUF3etE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-18T12:00:00.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1228,18 +1248,29 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/x2wrcqi4norjvevpgx5b",
-        "title": "Google Cloud API Gateway 推出面向实时 AI 应用的流式处理",
-        "url": "https://www.infoq.cn/article/X2WRCQI4NorJVEvpgX5B?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-17T14:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
-    "cn_en": []
+    "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3374902/tencent-profit-dips-sixfold-increase-ai-infrastructure-spending-sacrifices-margin",
+        "title": "Tencent profit dips as sixfold increase in AI infrastructure spending sacrifices margin",
+        "url": "https://www.scmp.com/tech/big-tech/article/3374902/tencent-profit-dips-sixfold-increase-ai-infrastructure-spending-sacrifices-margin",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-11-18T09:49:49.000Z",
+        "summary": "Tencent Holdings ramped up capital spending more than sixfold in the third quarter to above US$12 billion, weighing on profit and free cash flow as the Chinese tech giant poured money into computing power to catch up in ",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "Sixth Tone:www.sixthtone.com/news/1019284/bot,%20interrupted:%20deepseek%20users%20report%20new%20limits%20on%20free%20chats",
+        "title": "Bot, Interrupted: DeepSeek Users Report New Limits on Free Chats",
+        "url": "https://www.sixthtone.com/news/1019284/Bot,%20Interrupted:%20DeepSeek%20Users%20Report%20New%20Limits%20on%20Free%20Chats",
+        "source": "Sixth Tone",
+        "publishedAt": "2026-11-18T00:00:00.000Z",
+        "summary": "Users are widely reporting that the model now caps input in a given chat — the first time the company has restricted use of its free AI model.",
+        "category": "articles",
+        "region": "cn_en"
+      }
+    ]
   }
 }
