@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:43:47.622Z",
+  "generatedAt": "2026-11-19T05:13:43.793Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1170,6 +1170,46 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/sbd3mamohpciexv3uuh0",
+        "title": "开源项目 pg_vectorsearch 为 PostgreSQL 带来了更具可扩展性的向量搜索功能",
+        "url": "https://www.infoq.cn/article/sbD3maMohpCIExV3UUH0?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-19T13:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/r9bxsitbpwgcdwfs22ac",
+        "title": "从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+        "url": "https://www.infoq.cn/article/R9BxSitBpwGcDwfS22ac?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-19T12:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/ayop1hzw5bbdhsmzsuap",
+        "title": "老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功",
+        "url": "https://www.infoq.cn/article/aYOP1HZW5bbdhSmzSuaP?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-19T11:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/eo0w7sdagclvppfqwt5j",
+        "title": "Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
+        "url": "https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-19T11:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/nbshaftzqrssfrsvu6aj",
         "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
         "url": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&utm_medium=article",
@@ -1195,16 +1235,6 @@
         "url": "https://www.infoq.cn/article/4PEbu8cLHkgz0oUF3etE?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-11-18T12:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/x8xujm6xovp7z2yzwbpm",
-        "title": "面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
-        "url": "https://www.infoq.cn/article/X8xujm6xovp7z2YzWbpM?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-17T18:53:07.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
