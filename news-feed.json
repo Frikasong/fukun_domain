@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:13:43.793Z",
+  "generatedAt": "2026-11-19T14:57:34.698Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,16 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "LawSites:www.lawnext.com/2026/11/in-naming-its-new-ai-head-litera-turns-to-a-proven-insider-and-shares-the-metrics-to-back-it-up.html",
+        "title": "In Naming Its New AI Head, Litera Turns To A Proven Insider &#8212; and Shares the Metrics to Back It Up",
+        "url": "https://www.lawnext.com/2026/11/in-naming-its-new-ai-head-litera-turns-to-a-proven-insider-and-shares-the-metrics-to-back-it-up.html",
+        "source": "LawSites",
+        "publishedAt": "2026-11-19T13:24:24.000Z",
+        "summary": "While some legal technology companies in recent years have been turning to outsiders to lead their AI development, Litera has tapped a proven insider, naming Greg Ingino, its chief technology officer since 2023, to the p",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/web/article/lawyers&",
         "title": "Lawyers connect with clients over addiction, mental health challenges",
@@ -128,6 +138,16 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/18/how-a-matter-is-staffed-decides-ais-commercial-value",
+        "title": "How a Matter Is Staffed Decides AI’s Commercial Value",
+        "url": "https://www.artificiallawyer.com/2026/11/18/how-a-matter-is-staffed-decides-ais-commercial-value/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-18T11:54:35.000Z",
+        "summary": "By Alex Tring, BigHand. Law firms are investing heavily in AI, paying more for their lawyers, and being asked by the companies that hire them ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "ABA Journal:www.abajournal.com/web/article/aba&",
         "title": "ABA Notices",
         "url": "https://www.abajournal.com/web/article/aba&#45;notices/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
@@ -144,16 +164,6 @@
         "source": "LawSites",
         "publishedAt": "2026-11-17T18:25:47.000Z",
         "summary": "A study released today found ChatGPT&#8217;s link-tracking tag in 298 federal court cases across 71 courts, 133 filings with the U.S. Securities and Exchange Commission, and a host of peer-reviewed papers, government doc",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/introducing-gpt-6-2-astra-sol",
-        "title": "Introducing GPT-6.2 Astra and Sol",
-        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-        "source": "OpenAI News",
-        "publishedAt": "2026-11-17T17:45:00.000Z",
-        "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
         "category": "updates",
         "region": "na"
       },
@@ -188,6 +198,16 @@
         "region": "na"
       },
       {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/17/building-legal-ai-for-public-service-across-borders",
+        "title": "Building Legal AI for Public Service Across Borders",
+        "url": "https://www.artificiallawyer.com/2026/11/17/building-legal-ai-for-public-service-across-borders/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-17T11:57:18.000Z",
+        "summary": "By Joshua McKibben, Head of Trust, Harvey. Harvey is investing in public sector legal teams across jurisdictions. Our recent FedRAMP Class D (High) certification in ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/11/exclusive-minutebox-launches-ai-agent-to-turn-its-entity-management-database-into-a-system-of-work.html",
         "title": "Exclusive: MinuteBox Launches AI Agent to Turn Its Entity Management Database Into a &#8216;System of Work&#8217;",
         "url": "https://www.lawnext.com/2026/11/exclusive-minutebox-launches-ai-agent-to-turn-its-entity-management-database-into-a-system-of-work.html",
@@ -214,6 +234,86 @@
         "source": "LawSites",
         "publishedAt": "2026-11-16T15:03:01.000Z",
         "summary": "Clio founder and CEO Jack Newton describes the past year as nothing less than a &#8220;refounding&#8221; of the company he started 18 years ago. In this episode of LawNext, recorded live on the floor of ClioCon 2026 in B",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/16/hsf-kramer-hires-6-legal-engineers-from-norm-ai",
+        "title": "HSF Kramer Hires 6 Legal Engineers from Norm.AI",
+        "url": "https://www.artificiallawyer.com/2026/11/16/hsf-kramer-hires-6-legal-engineers-from-norm-ai/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-16T13:00:08.000Z",
+        "summary": "New model, AI native law firms have been stealing headlines for months. Now Big Law has struck back. In a surprising move, HSF Kramer has ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/16/baker-mckenzie-shows-the-way-with-billable-hour-shift",
+        "title": "Baker McKenzie Shows the Way with Billable Hour Shift",
+        "url": "https://www.artificiallawyer.com/2026/11/16/baker-mckenzie-shows-the-way-with-billable-hour-shift/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-16T12:31:08.000Z",
+        "summary": "Sunny Mann, the Global Chair of Baker McKenzie, told the Wall Street Journal that the billable hour will no longer be the default method for ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/13/legal-innovators-ny-starts-tuesday",
+        "title": "Legal Innovators NY Starts Tuesday +",
+        "url": "https://www.artificiallawyer.com/2026/11/13/legal-innovators-ny-starts-tuesday/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-13T10:31:33.000Z",
+        "summary": "We begin this week’s Wrap with a quick reminder that Legal Innovators New York starts on Tuesday, Nov 17 and continues with inhouse day on ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/12/legal-innovators-ny-darby-green-ropes-gray",
+        "title": "Legal Innovators NY – Darby Green, Ropes &#038; Gray",
+        "url": "https://www.artificiallawyer.com/2026/11/12/legal-innovators-ny-darby-green-ropes-gray/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-12T16:03:38.000Z",
+        "summary": "Ahead of Legal Innovators New York on Nov 17 and 18 next week at Quorum by Convene in Midtown, the events team spoke to Darby ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/12/is-big-law-ai-gaslighting-us",
+        "title": "Is Big Law &#8216;AI Gaslighting&#8217; Us?",
+        "url": "https://www.artificiallawyer.com/2026/11/12/is-big-law-ai-gaslighting-us/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-12T08:46:39.000Z",
+        "summary": "Is the recent spate of grand gestures by some Big Law firms, sometimes involving 100s of millions of dollars or more, just &#8216;AI gaslighting&#8217;? And ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/12/keeping-legal-ai-connected-why-your-data-and-case-should-work-together",
+        "title": "Keeping Legal AI Connected: Why Your Data and Case Should Work Together",
+        "url": "https://www.artificiallawyer.com/2026/11/12/keeping-legal-ai-connected-why-your-data-and-case-should-work-together/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-12T07:47:31.000Z",
+        "summary": "By Marla Crawford, General Counsel, Cimplifi. There has never been a more exciting time to work in legal technology. There has also never been an ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/11/claren-launches-envoys-inhouse-agents",
+        "title": "Claren Launches &#8216;Envoys&#8217; Inhouse Agents",
+        "url": "https://www.artificiallawyer.com/2026/11/11/claren-launches-envoys-inhouse-agents/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-11T15:00:20.000Z",
+        "summary": "Claren, which has bases in London and California, has launched Envoys: always-on agents that absorb inhouse tasks from email or Slack, run the matter against ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/11/legora-targets-public-sector-with-ex-minister",
+        "title": "Legora Targets Public Sector With Ex-Minister",
+        "url": "https://www.artificiallawyer.com/2026/11/11/legora-targets-public-sector-with-ex-minister/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-11T09:37:15.000Z",
+        "summary": "Legora is looking to bag more revenue by targeting governments and public sector bodies &#8211; all funded by you and me. Leading the charge will ...",
         "category": "updates",
         "region": "na"
       },
@@ -1088,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/07/q2-report-on-legal-tech-advertising-finds-q1s-buying-surge-was-largely-seasonal-but-reveals-where-demand-is-now-concentrated.html",
-        "title": "Q2 Report On Legal Tech Advertising Finds Q1’s Buying Surge Was Largely Seasonal, But Reveals Where Demand Is Now Concentrated",
-        "url": "https://www.lawnext.com/2026/07/q2-report-on-legal-tech-advertising-finds-q1s-buying-surge-was-largely-seasonal-but-reveals-where-demand-is-now-concentrated.html",
-        "source": "LawSites",
-        "publishedAt": "2026-07-28T17:04:51.000Z",
-        "summary": "In April, I reported here on a dramatic first-quarter 2026 increase in the numbers of legal tech demos law firms were scheduling, with the numbers going up across nearly every major practice area by as much as 40% to 50%",
-        "category": "articles",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
         "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -1116,65 +1206,15 @@
         "summary": "Learn how Cursor uses GPT-5.",
         "category": "updates",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/color-health",
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "url": "https://openai.com/index/color-health",
-        "source": "OpenAI News",
-        "publishedAt": "2024-06-17T04:15:00.000Z",
-        "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and create tailored workup p",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/api-partnership-with-stack-overflow",
-        "title": "API Partnership with Stack Overflow",
-        "url": "https://openai.com/index/api-partnership-with-stack-overflow",
-        "source": "OpenAI News",
-        "publishedAt": "2024-05-06T00:00:00.000Z",
-        "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
-        "category": "tools",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
       {
-        "id": "InfoQ China:www.infoq.cn/article/sbd3mamohpciexv3uuh0",
-        "title": "开源项目 pg_vectorsearch 为 PostgreSQL 带来了更具可扩展性的向量搜索功能",
-        "url": "https://www.infoq.cn/article/sbD3maMohpCIExV3UUH0?utm_source=rss&utm_medium=article",
+        "id": "InfoQ China:www.infoq.cn/article/dqlimzdy7bqiz3mc5vvq",
+        "title": "快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同",
+        "url": "https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
-        "publishedAt": "2026-11-19T13:00:00.000Z",
+        "publishedAt": "2026-11-19T16:08:30.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
@@ -1188,59 +1228,29 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ayop1hzw5bbdhsmzsuap",
-        "title": "老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功",
-        "url": "https://www.infoq.cn/article/aYOP1HZW5bbdhSmzSuaP?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-19T11:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/eo0w7sdagclvppfqwt5j",
-        "title": "Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
-        "url": "https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-19T11:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/nbshaftzqrssfrsvu6aj",
-        "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
-        "url": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-18T14:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/zuc0vhq9xm3bfhsqqlw3",
-        "title": "纳德拉回应微软首次给工程师发“离场费”：Claude Code 让微软措手不及，二十年 IDE 优势半年动摇",
-        "url": "https://www.infoq.cn/article/zUC0vHq9xm3BFHSqQlw3?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-18T13:55:35.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/4pebu8clhkgz0ouf3ete",
-        "title": "Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
-        "url": "https://www.infoq.cn/article/4PEbu8cLHkgz0oUF3etE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-18T12:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3375076/too-high-id-still-buy-anthropic-ipo-entices-chinese-investors-despite-barriers",
+        "title": "‘Too high, but I’d still buy’: Anthropic IPO entices Chinese investors despite barriers",
+        "url": "https://www.scmp.com/tech/big-tech/article/3375076/too-high-id-still-buy-anthropic-ipo-entices-chinese-investors-despite-barriers",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-11-19T14:00:06.000Z",
+        "summary": "For Cecilia Yang, a 28-year-old consultant in the eastern Chinese city of Hangzhou, Claude has become an indispensable daily colleague. So when the AI chatbot’s creator, Anthropic, priced its blockbuster initial public o",
+        "category": "updates",
+        "region": "cn_en"
+      },
+      {
+        "id": "SCMP China Business:www.scmp.com/opinion/china-opinion/article/3374771/chinas-abundant-electricity-not-yet-decisive-ai-edge",
+        "title": "China’s abundant electricity is not yet a decisive AI edge",
+        "url": "https://www.scmp.com/opinion/china-opinion/article/3374771/chinas-abundant-electricity-not-yet-decisive-ai-edge",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-11-19T12:30:07.000Z",
+        "summary": "As Washington continues to tighten controls over advanced chip exports, China faces greater obstacles to accessing high-performance processors. The fall of Nvidia CEO Jensen Huang, a prominent advocate for selling chips ",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "Sixth Tone:www.sixthtone.com/news/1019284/bot,%20interrupted:%20deepseek%20users%20report%20new%20limits%20on%20free%20chats",
         "title": "Bot, Interrupted: DeepSeek Users Report New Limits on Free Chats",
