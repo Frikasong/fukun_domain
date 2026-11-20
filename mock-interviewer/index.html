@@ -1,0 +1,1140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mock Interviewer</title>
+<style>
+/* Ratio style: white page, ink text, one ultramarine accent, Spectral headings, Inter text.
+   No web fonts are loaded: the tool makes no network requests. Spectral and Inter are used
+   if installed, with close system fallbacks otherwise. */
+:root{
+  color-scheme:light dark;
+  --bg:light-dark(#ffffff,#0d0e18);
+  --ink:light-dark(#14110f,#ecebf3);
+  --muted:light-dark(#5d5f6b,#a3a5b6);
+  --faint:light-dark(#7c7f8c,#7d8096);
+  --line:light-dark(#dfe1e8,#262838);
+  --field:light-dark(#9aa0ae,#4a4e66);
+  --blue:light-dark(#1d2bd8,#8d96ff);
+  --on-blue:light-dark(#ffffff,#0d0e18);
+  --soft:light-dark(#eef0ff,#161a3a);
+  --panel:light-dark(#f6f7fa,#14162a);
+  --ok:var(--blue);
+  --amber:light-dark(#b86e00,#e0a54a);
+  --alarm:light-dark(#c0362c,#ff7a6b);
+  --serif:"Spectral",Georgia,"Iowan Old Style","Songti SC","Noto Serif CJK SC","Noto Serif SC",serif;
+  --sans:"Inter",ui-sans-serif,-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sans-serif;
+  --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+}
+:root[data-theme=light]{color-scheme:light}
+:root[data-theme=dark]{color-scheme:dark}
+*{box-sizing:border-box;min-width:0}
+html,body{margin:0;min-height:100%}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.55;-webkit-font-smoothing:antialiased;overflow-x:clip}
+a{color:var(--blue)}
+code{font-family:var(--mono);font-size:.88em;background:var(--soft);padding:1px 5px;border-radius:3px}
+button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
+textarea,input,select{font:inherit;font-size:16px;color:var(--ink);background:var(--bg);border:1px solid var(--field);border-radius:4px;padding:10px 12px;width:100%;min-height:44px}
+textarea{font-family:var(--mono);font-size:14px;line-height:1.55;resize:vertical}
+input::placeholder,textarea::placeholder{color:var(--faint)}
+:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+.lbl{font-size:14px;font-weight:600;color:var(--ink)}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;border:1px solid var(--blue);color:var(--blue);border-radius:4px;padding:0 20px;font-weight:600;background:var(--bg);transition:background .15s,color .15s}
+.btn:hover{background:var(--soft)}
+.btn.primary{background:var(--blue);color:var(--on-blue)}
+.btn.primary:hover{filter:brightness(1.1);background:var(--blue)}
+.btn.stop{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.btn.ghost{border-color:transparent;background:none;color:var(--blue);padding:0 10px}
+.btn.ghost:hover{text-decoration:underline;background:none}
+.btn[disabled]{opacity:.35;cursor:not-allowed}
+
+/* ---- shell ---- */
+.masthead{display:flex;align-items:center;gap:10px 24px;padding:14px max(5vw,16px);border-bottom:1px solid var(--line);flex-wrap:wrap}
+.wordmark{font-family:var(--serif);font-weight:700;font-size:26px;letter-spacing:-.02em;line-height:1;margin-right:auto}
+.wordmark b{color:var(--blue)}
+.priv{font-size:14px;color:var(--muted)}
+.lang{display:flex;gap:4px}
+.lang button{min-height:36px;padding:0 10px;font-size:15px;font-weight:500;color:var(--muted);border-bottom:2px solid transparent}
+.lang button[aria-pressed=true]{color:var(--blue);border-bottom-color:var(--blue)}
+.wrap{max-width:1240px;margin:0 auto;padding:clamp(28px,4vw,56px) max(5vw,16px) 80px}
+
+/* ---- setup ---- */
+.lede{font-family:var(--serif);font-weight:700;font-size:clamp(32px,4.6vw,52px);line-height:1.05;letter-spacing:-.02em;margin:0 0 14px;max-width:20ch;text-wrap:balance}
+.sub{color:var(--muted);max-width:62ch;margin:0 0 clamp(28px,4vw,48px);font-size:17px}
+.field{margin-bottom:34px;border-top:3px solid var(--ink);padding-top:12px;max-width:900px}
+.field.row{display:grid;grid-template-columns:repeat(auto-fit,minmax(16em,1fr));gap:12px 24px}
+.field>.lbl,.field.row .lbl{display:block;margin-bottom:8px}
+.hint{font-size:14px;color:var(--muted);margin-top:8px}
+.row{display:flex;gap:12px;flex-wrap:wrap}
+.row>*{flex:1 1 200px}
+.scripts{display:grid;grid-template-columns:repeat(auto-fill,minmax(14em,1fr));gap:12px 20px;margin:4px 0 12px}
+.script{border-top:3px solid var(--line);padding:12px 0 10px;text-align:left;min-height:44px}
+.script:hover b{color:var(--blue)}
+.script[aria-pressed=true]{border-top-color:var(--blue)}
+.script[aria-pressed=true] b{color:var(--blue)}
+.script b{display:block;font-family:var(--serif);font-weight:700;font-size:20px;line-height:1.2;margin-bottom:4px}
+.script span{font-size:14px;color:var(--muted)}
+.toggles{display:flex;gap:10px 28px;flex-wrap:wrap}
+.tg{display:flex;gap:10px;align-items:center;font-size:16px;color:var(--ink);min-height:44px}
+.tg input{width:20px;height:20px;min-height:0;accent-color:var(--blue);margin:0}
+.err{color:var(--alarm);font-size:15px;margin-top:10px;font-weight:600}
+.notice{background:var(--soft);border-radius:6px;padding:16px 20px;color:var(--ink);font-size:15px;margin:32px 0;max-width:900px}
+
+/* ---- session ---- */
+.stage{display:grid;grid-template-columns:200px minmax(0,1fr) 280px;gap:clamp(20px,3vw,40px);align-items:start}
+.rail{border-top:3px solid var(--ink);padding-top:6px}
+.qitem{display:flex;gap:12px;padding:10px 0;font-size:15px;color:var(--muted);text-align:left;width:100%;border-bottom:1px solid var(--line);min-height:44px;align-items:baseline}
+.qitem b{flex:none;min-width:1.6em;font-variant-numeric:tabular-nums;font-size:14px;font-weight:600;color:var(--faint)}
+.qitem.done{color:var(--muted)}
+.qitem.now{color:var(--ink);font-weight:600}
+.qitem.now b{color:var(--blue)}
+.qitem span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+.cardwrap{position:relative}
+.cue{height:24px;font-size:15px;font-weight:600;color:var(--blue);opacity:0;transition:opacity .5s;margin-bottom:8px}
+.cue.on{opacity:1}
+.card{background:var(--soft);color:var(--ink);border-radius:6px;padding:clamp(24px,3vw,40px) clamp(22px,3vw,40px) clamp(28px,3vw,44px);position:relative;overflow:hidden}
+.card .kicker{font-size:14px;font-weight:600;color:var(--blue);margin-bottom:16px;display:flex;gap:10px;flex-wrap:wrap}
+.card .kicker span+span::before{content:"·";margin-right:10px;color:var(--muted)}
+.card .q{font-family:var(--serif);font-weight:700;font-size:clamp(26px,3vw,36px);line-height:1.2;letter-spacing:-.01em;margin:0;text-wrap:balance}
+.card .fact{font-family:var(--serif);font-size:18px;line-height:1.6;margin-top:22px;white-space:pre-wrap;border-top:1px solid color-mix(in srgb,var(--blue) 25%,transparent);padding-top:18px}
+.bar{position:absolute;left:0;bottom:0;height:6px;width:0%;background:var(--blue);transition:width .12s linear,background .3s}
+.bar.warn{background:var(--amber)}
+.bar.over{background:var(--alarm)}
+
+.deck{display:flex;align-items:center;gap:14px;margin-top:22px;flex-wrap:wrap}
+.clock{font-family:var(--serif);font-weight:700;font-size:clamp(40px,4.4vw,52px);line-height:1;letter-spacing:-.02em;font-variant-numeric:tabular-nums;min-width:3.4ch;margin-right:12px}
+.clock.warn{color:var(--amber)}
+.clock.over{color:var(--alarm)}
+.budget{font-size:15px;color:var(--muted);font-variant-numeric:tabular-nums}
+.deck .spacer{flex:1}
+
+.panel{margin-top:30px;border-top:3px solid var(--ink);padding-top:12px}
+.checks{display:flex;gap:4px 24px;flex-wrap:wrap;margin-bottom:16px}
+.prepbox{margin-top:30px;border-top:3px solid var(--ink);padding-top:12px;font-size:16px}
+.prepbox .lbl{margin-bottom:10px;display:block}
+.prepbox p{margin:0 0 8px;max-width:64ch}
+.prepbox em{color:var(--blue);font-style:normal;font-weight:600}
+
+.aside{font-size:15px}
+.cam{width:100%;aspect-ratio:4/3;background:var(--panel);border:1px solid var(--line);border-radius:6px;object-fit:cover}
+video.cam{transform:scaleX(-1)}
+.rec{display:flex;align-items:center;gap:8px;margin-top:10px;font-size:14px;font-weight:600;color:var(--muted)}
+.dot{width:9px;height:9px;border-radius:50%;background:var(--field)}
+.dot.live{background:var(--alarm);animation:pulse 1.6s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){.dot.live{animation:none}.bar{transition:none}}
+.tx{margin-top:22px;border-top:3px solid var(--ink);padding-top:12px}
+.tx textarea{min-height:220px}
+.interim{color:var(--faint)}
+
+/* ---- debrief ---- */
+.tblwrap{overflow-x:auto}
+.score{width:100%;border-collapse:collapse;font-size:15px;margin:24px 0}
+.score th,.score td{border-bottom:1px solid var(--line);padding:12px 12px 12px 0;text-align:left;vertical-align:top}
+.score th{font-size:14px;font-weight:600;color:var(--muted);border-bottom:2px solid var(--ink)}
+.score td.num{font-variant-numeric:tabular-nums;white-space:nowrap;text-align:right}
+.score th:nth-child(n+2){text-align:right}
+.score .over{color:var(--alarm);font-weight:600}
+.dl{display:flex;gap:12px;flex-wrap:wrap;margin-top:24px}
+.vid{margin-top:12px;display:flex;gap:10px;align-items:center;font-size:15px;color:var(--muted)}
+
+/* ---- interviewer figure ---- */
+.ivrow{display:flex;align-items:center;gap:16px;margin-bottom:14px}
+.iv{flex:none;width:96px;height:96px;border-radius:50%;overflow:hidden;background:var(--soft)}
+.iv svg{width:100%;height:100%;display:block}
+.iv-bg{fill:var(--soft)}
+.iv-coat{fill:light-dark(#1b2470,#2a3590)}
+.iv-lapel{fill:light-dark(#141b57,#222c7a)}
+.iv-shirt{fill:#fff}
+.iv-tie{fill:var(--blue)}
+.iv-skin{fill:#e8c3a3}
+.iv-skin-shade{fill:#d7aa86}
+.iv-hair{fill:#2a2420}
+.iv-ink{fill:#1a1614}
+.iv-glasses{stroke:#1a1614;stroke-width:2}
+.iv-brow{stroke:#2a2420;stroke-width:2.4;stroke-linecap:round}
+.iv-nose{stroke:#c08f6c;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.iv-lips{stroke:#8c4b3c;stroke-width:2;stroke-linecap:round}
+.iv-open{fill:#8c4b3c;opacity:0}
+.iv-head,.iv-eyes,.iv-mouth{transform-box:fill-box;transform-origin:center}
+.iv-eyes{animation:blink 5s infinite}
+@keyframes blink{0%,96%,100%{transform:scaleY(1)}98%{transform:scaleY(.1)}}
+.iv[data-state=asking] .iv-open{animation:talk .32s infinite alternate}
+.iv[data-state=asking] .iv-lips{opacity:0}
+@keyframes talk{from{opacity:1;transform:scaleY(.35)}to{opacity:1;transform:scaleY(1)}}
+.iv[data-state=listening] .iv-head{animation:nod 3.2s ease-in-out infinite}
+@keyframes nod{0%,100%{transform:rotate(0) translateY(0)}50%{transform:rotate(-3deg) translateY(1px)}}
+.iv[data-state=thinking] .iv-eyes{transform:translate(2px,-2px);animation:none}
+.iv[data-state=thinking] .iv-brow{transform:translateY(-1.5px)}
+.ivtext{display:flex;flex-direction:column;line-height:1.35}
+.ivtext b{font-weight:600}
+.ivtext span{color:var(--muted);font-size:15px}
+.ivtext em{font-style:normal;font-size:13px;color:var(--blue);font-weight:600}
+@media (prefers-reduced-motion:reduce){.iv *{animation:none!important}}
+/* ---- follow-up and coach ---- */
+.fu{margin-top:30px;border-top:3px solid var(--blue);padding-top:12px}
+.fu-q{font-family:var(--serif);font-weight:700;font-size:clamp(22px,2.4vw,28px);line-height:1.25;margin:8px 0 0;text-wrap:balance}
+.fu-wait{display:flex;gap:6px;margin:14px 0 0}
+.fu-wait i{width:9px;height:9px;border-radius:50%;background:var(--blue);animation:pulse 1.2s infinite}
+.fu-wait i:nth-child(2){animation-delay:.2s}.fu-wait i:nth-child(3){animation-delay:.4s}
+.aibox summary{cursor:pointer;min-height:44px;display:flex;align-items:center;list-style-position:inside}
+.aigrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(16em,1fr));gap:14px 24px;margin-top:10px}
+.aigrid[hidden]{display:none}
+.aigrid .wide{grid-column:1/-1}
+.aigrid .lbl{display:block;margin-bottom:8px}
+.aistat{font-size:15px;margin-left:10px}
+.aistat.ok{color:var(--blue);font-weight:600}
+.aistat.bad{color:var(--alarm)}
+.coach{margin-top:30px;border-top:3px solid var(--ink);padding-top:12px;max-width:900px}
+.coachtext{margin-top:10px;font-size:16px}
+.coachtext h3{font-family:var(--serif);font-size:22px;margin:22px 0 6px}
+.coachtext p,.coachtext li{max-width:70ch}
+
+@media (max-width:980px){
+  .stage{grid-template-columns:minmax(0,1fr) 260px}
+  .rail{grid-column:1/-1;display:flex;gap:0 20px;overflow-x:auto;border-top:3px solid var(--ink)}
+  .qitem{width:auto;flex:none;max-width:15em;border-bottom:0}
+}
+@media (max-width:700px){
+  .stage{grid-template-columns:minmax(0,1fr)}
+  .priv{order:3;flex-basis:100%}
+  .qitem{max-width:11em}
+  .score{font-size:14px}
+}
+</style>
+</head>
+<body>
+<header class="masthead">
+  <span class="wordmark">Mock Interviewer<b>.</b></span>
+  <span class="priv" id="mh-priv"></span>
+  <div class="lang">
+    <button id="lang-en" aria-pressed="true">EN</button>
+    <button id="lang-zh" aria-pressed="false">中文</button>
+  </div>
+</header>
+<main class="wrap" id="app"></main>
+
+<script>
+/* ============================ i18n ============================ */
+const T = {
+en:{
+ priv:"Runs locally · nothing leaves this machine",
+ lede:"Practise the interview you're actually going to have.",
+ sub:"Load your question bank, answer one question at a time against a real clock, and walk out with a debrief your AI coach can mark up. Camera and transcript stay in this browser tab — there is no server and no upload.",
+ setup:"Session", org:"Employer", role:"Role",
+ orgPh:"e.g. Ontario Securities Commission", rolePh:"e.g. Articling student",
+ script:"Question script", scriptHint:"Pick a starting script, or paste your own question bank below. The format is the one produced by the interview-prep skill: <code>### question</code> followed by <code>- type:</code>, <code>- budget:</code>, <code>- best story:</code>, <code>- opener:</code>, <code>- watch:</code>.",
+ bank:"Question bank (markdown)", bankPh:"### Tell me about a time you disagreed with a supervisor.\n- type: behavioural\n- budget: 120s\n- best story: S03\n- opener: I raised it early, in writing…",
+ upload:"Load .md file",
+ prep:"What you prepared (optional)", prepPh:"Paste your story bank, selling-point matrix, opening lines…",
+ prepHint:"This is the part that makes the debrief useful: knowing what you prepared is the only way anything can tell you what you dropped under pressure.",
+ opts:"Options", cam:"Record video", mic:"Live transcript", speak:"Read questions aloud",
+ begin:"Begin session", noq:"Add at least one question first.",
+ privacy:"Video, audio and transcript are held in this tab only. Nothing is uploaded, no key is needed, and closing the tab discards the recordings unless you download them.",
+ chrome:"Live transcript uses the browser's speech recognition, which today only works in Chrome and Edge. Everything else works anywhere.",
+ qof:"Question {a} of {b}", budget:"budget", noBudget:"untimed",
+ lead:"Lead with your answer",
+ startAns:"Start answering", done:"Done", skip:"Skip", next:"Next question", finish:"Finish & debrief",
+ replay:"Read again",
+ reading:"Reading time", startCase:"Start writing",
+ transcript:"Transcript", txHint:"Editable — fix what the recogniser got wrong.",
+ checks:"Quick self-marks", c1:"Gave a conclusion in the first 15 seconds", c2:"STAR complete (result included)", c3:"Used the story I prepared",
+ note:"Note to self", notePh:"What went wrong, what I'd do differently…",
+ prepared:"What you prepared for this one",
+ pOpener:"Opener", pStory:"Best story", pWatch:"Watch", pNone:"Nothing prepared for this question — that's a gap worth filling.",
+ rec:"Recording", idle:"Standby", off:"Camera off",
+ debrief:"Debrief", dsub:"Everything below is in the exported file too. Take it to your AI coach with the prompt at the top, then fold the results back into your question bank.",
+ tq:"Question", tt:"Time", tb:"Budget", tf:"Self-marks", ttx:"Words",
+ exportMd:"Download debrief (.md)", exportAll:"Download recordings", again:"New session",
+ total:"Total answering time", over:"over",
+ vidFor:"Recording",
+ coachTitle:"Prompt for your AI coach",
+ aiTitle:"AI interviewer (optional)",
+ aiOn:"Connect an AI to ask follow-ups and mark the debrief",
+ aiProv:"Provider", aiBase:"API address", aiModel:"Model", aiKey:"API key", aiKeyPh:"Paste your key", aiNoKey:"Not needed for a local model",
+ aiFu:"Ask one follow-up after each answer", aiCoach:"Offer to mark the debrief",
+ aiRemember:"Remember on this computer (the key is saved in this browser)",
+ aiTest:"Test connection", aiTesting:"Testing…", aiOk:"Connected. {m} replied.",
+ aiSends:"While connected, each question, your transcript and the material you prepared are sent to {p}. Video and audio never are. Without a connection nothing leaves this machine.",
+ aiOllama:"For Ollama, start it with OLLAMA_ORIGINS=* so a page opened from a file can reach it.",
+ aiModelPh:"e.g. {m}",
+ privAi:"Runs locally · answers go to {p} for follow-ups",
+ ivName:"Interviewer", ivAsking:"Asking", ivListening:"Listening", ivThinking:"Thinking of a follow-up", ivReady:"Ready when you are", ivDone:"Next question when you are ready", ivFollowed:"Asked you a follow-up",
+ fuTitle:"Follow-up from the interviewer", fuAnswer:"Answer the follow-up", fuSkip:"Skip it", fuFail:"No follow-up: {e}", fuTag:"follow-up",
+ coachAsk:"Ask {p} to mark this", coachWait:"{p} is marking your answers…", coachHead:"Marking from {p}", coachFail:"Could not get the marking: {e}",
+ errNet:"couldn't reach {b}. The address may be wrong, or the provider doesn't accept requests from a web page. OpenRouter or a local model (Ollama) do.",
+ errAuth:"the key was refused ({s}).", errModel:"the model or address wasn't found ({s}). Check the model name.", errHttp:"the provider returned {s}.", errTime:"no reply after 60 seconds.", errEmpty:"the reply was empty.", errSetup:"fill in the address and model first."
+},
+zh:{
+ priv:"本地运行 · 数据不离开这台机器",
+ lede:"练你真正要面的那场面试。",
+ sub:"导入你的题库，一次一题、对着真实计时作答，结束后拿到一份可以直接交给 AI 教练批改的复盘。摄像头和转录只留在这个浏览器标签页里——没有服务器，不上传。",
+ setup:"本场设置", org:"雇主", role:"岗位",
+ orgPh:"例：安大略证券委员会 OSC", rolePh:"例：Articling student",
+ script:"题目脚本", scriptHint:"选一个起步脚本，或在下面粘贴你自己的题库。格式就是 interview-prep skill 产出的那种：<code>### 题目</code> 下面跟 <code>- type:</code>、<code>- budget:</code>、<code>- best story:</code>、<code>- opener:</code>、<code>- watch:</code>。",
+ bank:"题库（markdown）", bankPh:"### Tell me about a time you disagreed with a supervisor.\n- type: 行为\n- budget: 120s\n- best story: S03\n- opener: I raised it early, in writing…",
+ upload:"载入 .md 文件",
+ prep:"你准备了什么（可选）", prepPh:"粘贴你的故事银行、卖点矩阵、开场句……",
+ prepHint:"这一栏才是复盘有用的关键：只有知道你准备过什么，才能指出你临场丢了什么。",
+ opts:"选项", cam:"录像", mic:"实时转录", speak:"朗读题目",
+ begin:"开始这一场", noq:"先至少加一道题。",
+ privacy:"录像、音频和转录只存在这个标签页里。不上传、不需要任何 key；关掉页面录像就没了，除非你先下载。",
+ chrome:"实时转录用的是浏览器自带的语音识别，目前只有 Chrome 和 Edge 支持。其余功能哪里都能用。",
+ qof:"第 {a} 题 / 共 {b} 题", budget:"预算", noBudget:"不计时",
+ lead:"先给结论",
+ startAns:"开始作答", done:"答完", skip:"跳过", next:"下一题", finish:"结束并复盘",
+ replay:"再读一遍",
+ reading:"阅读时间", startCase:"开始作答",
+ transcript:"转录", txHint:"可以直接改——识别错的地方顺手改掉。",
+ checks:"自评", c1:"前 15 秒给了结论", c2:"STAR 完整（讲了 Result）", c3:"用上了准备好的故事",
+ note:"给自己的笔记", notePh:"哪里答砸了、下次怎么改……",
+ prepared:"这题你准备了什么",
+ pOpener:"开场句", pStory:"最优素材", pWatch:"注意", pNone:"这题没有准备过——这就是一个值得补的缺口。",
+ rec:"录制中", idle:"待机", off:"摄像头已关",
+ debrief:"复盘", dsub:"下面的内容导出文件里都有。带着文件顶部那段 prompt 去找你的 AI 教练批改，然后把结果回填进题库。",
+ tq:"题目", tt:"用时", tb:"预算", tf:"自评", ttx:"字数",
+ exportMd:"下载复盘（.md）", exportAll:"下载录像", again:"新开一场",
+ total:"总作答时间", over:"超时",
+ vidFor:"录像",
+ coachTitle:"给 AI 教练的 prompt",
+ aiTitle:"AI 面试官（可选）",
+ aiOn:"接入一个 AI，让它现场追问、帮你批改复盘",
+ aiProv:"服务商", aiBase:"接口地址", aiModel:"模型", aiKey:"API key", aiKeyPh:"粘贴你的 key", aiNoKey:"本机模型不需要",
+ aiFu:"每答完一题追问一句", aiCoach:"结束后提供一键批改",
+ aiRemember:"在这台电脑上记住（key 会保存在这个浏览器里）",
+ aiTest:"测试连接", aiTesting:"测试中……", aiOk:"连上了，{m} 有回应。",
+ aiSends:"接入后，每道题、你的转录和你准备的材料会发送给 {p}；录像和音频永远不发送。不接入时，什么都不离开这台电脑。",
+ aiOllama:"用 Ollama 的话，启动时加上 OLLAMA_ORIGINS=*，从文件打开的网页才能连上它。",
+ aiModelPh:"例如 {m}",
+ privAi:"本地运行 · 回答会发给 {p} 用于追问",
+ ivName:"面试官", ivAsking:"提问中", ivListening:"在听", ivThinking:"在想追问", ivReady:"准备好就开始", ivDone:"准备好就下一题", ivFollowed:"追问了你一句",
+ fuTitle:"面试官追问", fuAnswer:"回答追问", fuSkip:"跳过", fuFail:"这次没有追问：{e}", fuTag:"追问",
+ coachAsk:"让 {p} 批改", coachWait:"{p} 正在批改……", coachHead:"{p} 的批改", coachFail:"没拿到批改：{e}",
+ errNet:"连不上 {b}。可能是地址填错了，也可能是这家服务商不接受网页直接发来的请求；OpenRouter 和本机模型（Ollama）可以。",
+ errAuth:"key 被拒绝了（{s}）。", errModel:"找不到这个模型或地址（{s}），检查一下模型名。", errHttp:"服务商返回了 {s}。", errTime:"60 秒没有回应。", errEmpty:"回复是空的。", errSetup:"先填好接口地址和模型。"
+}};
+let LANG = (navigator.language||"en").toLowerCase().startsWith("zh") ? "zh" : "en";
+const t = k => T[LANG][k] ?? k;
+
+/* ======================= built-in scripts ======================= */
+const SCRIPTS = {
+ screen:{en:["HR screen","Motivation, fit, logistics · 6 questions"],zh:["HR 初面","动机、匹配、基本情况 · 6 题"],md:`
+### Tell me about yourself.
+- type: motivation
+- budget: 90s
+- watch: end on them, not on you
+
+### Why this role?
+- type: motivation
+- budget: 90s
+
+### Why us specifically?
+- type: motivation
+- budget: 90s
+- watch: cover their name — could this go to a competitor unchanged?
+
+### Walk me through your résumé.
+- type: motivation
+- budget: 120s
+
+### What are you looking for in your next role?
+- type: motivation
+- budget: 90s
+
+### What questions do you have for us?
+- type: motivation
+- budget: 90s
+- watch: at least one question should show you read their annual report or strategy document
+`},
+ panel:{en:["Competency panel","Structured, scored, public-sector style · 7 questions"],zh:["结构化能力面","政府/监管机构常见的打分式 · 7 题"],md:`
+### Tell me about a time you had to interpret an unfamiliar rule or policy under time pressure.
+- type: behavioural
+- budget: 150s
+- watch: name the source you went to first
+
+### Describe a situation where you disagreed with a supervisor or senior colleague.
+- type: behavioural
+- budget: 150s
+- watch: no more than two sentences of background
+
+### Give an example of managing competing deadlines.
+- type: behavioural
+- budget: 150s
+- watch: say what you deprioritised, not just what you finished
+
+### Tell me about a mistake you made and what happened next.
+- type: behavioural
+- budget: 150s
+
+### Describe a time you had to explain something technical to a non-specialist audience.
+- type: behavioural
+- budget: 150s
+
+### You discover an error in work that has already gone out. What do you do?
+- type: situational
+- budget: 150s
+- framework: criteria first, then the call, then the fallback
+
+### What do you understand this organisation's mandate to be, and where do you see it under pressure?
+- type: employer-specific
+- budget: 150s
+`},
+ firm:{en:["Firm / in-firm interview","Conversational, motivation-heavy · 6 questions"],zh:["律所 in-firm","对话式，动机题占比高 · 6 题"],md:`
+### Why this firm rather than the others you're seeing?
+- type: motivation
+- budget: 120s
+
+### What kind of work do you want to be doing in five years?
+- type: motivation
+- budget: 90s
+
+### Tell me about something you've worked on that you're proud of.
+- type: behavioural
+- budget: 150s
+
+### Tell me about a time you worked with someone difficult.
+- type: behavioural
+- budget: 150s
+
+### What's the last thing you read that changed your mind about something?
+- type: motivation
+- budget: 90s
+
+### Anything you'd like to ask me?
+- type: motivation
+- budget: 90s
+`},
+ product:{en:["Product / business","Behavioural plus a judgment question · 6 questions"],zh:["业务/产品岗","行为题加一道判断题 · 6 题"],md:`
+### Walk me through a project you owned end to end.
+- type: behavioural
+- budget: 150s
+
+### Tell me about a decision you made with incomplete information.
+- type: behavioural
+- budget: 150s
+
+### Describe a time you had to say no to a stakeholder.
+- type: behavioural
+- budget: 150s
+
+### How would you decide whether to sunset an underperforming feature?
+- type: situational
+- budget: 180s
+- framework: what would have to be true, then the call, then how you'd de-risk it
+
+### Tell me about a time you were wrong about a user or a market.
+- type: behavioural
+- budget: 150s
+
+### What would you want to understand in your first month here?
+- type: motivation
+- budget: 90s
+`},
+ case:{en:["Case / fact pattern","Timed reading, then timed answer · 1 exercise"],zh:["Case / 事实题","限时阅读 + 限时作答 · 1 道"],md:`
+### Fact pattern: advise the client.
+- type: case
+- reading: 10m
+- budget: 10m
+- fact:
+  A regulated entity has been filing quarterly reports late for three consecutive
+  quarters. Each filing was eventually made, and no investor complaint has been
+  received. Internal counsel says the delays are caused by a system migration that
+  finishes next month. The regulator's enforcement staff have asked for a meeting.
+  You act for the entity. What do you advise, and in what order?
+- key:
+  Strong answers lead with the recommendation before the reasoning; separate the
+  immediate step (respond to the meeting request, preserve records) from the
+  remediation story (migration timeline, controls); name the risk of characterising
+  a repeated breach as a technical issue; and say explicitly what they would need to
+  know before advising further.
+`},
+ realq:{en:["Blank","Paste your own bank below"],zh:["空白","在下面粘贴你自己的题库"],md:``}
+};
+
+/* ======================= question parsing ======================= */
+function parseBudget(v){
+  if(!v) return null;
+  const s=String(v).trim().toLowerCase();
+  let m=s.match(/^(\d+(?:\.\d+)?)\s*m/); if(m) return Math.round(parseFloat(m[1])*60);
+  m=s.match(/^(\d+)\s*s?$/); if(m) return parseInt(m[1],10);
+  return null;
+}
+const FIELDMAP={type:"type",budget:"budget",reading:"reading",mode:"type","类型":"type","题型":"type","预算":"budget","时间":"budget","时长":"budget","阅读":"reading","阅读时间":"reading",
+  "best story":"best","beststory":"best","最优素材":"best","素材":"best",
+  backup:"backup","次优":"backup",opener:"opener","开场句":"opener","开头一句":"opener",
+  watch:"watch","注意":"watch",framework:"watch","框架":"watch",
+  fact:"fact","factpattern":"fact","fact pattern":"fact","题面":"fact",
+  key:"key","answer key":"key","answerkey":"key","参考答案":"key",
+  source:"source","来源":"source"};
+function parseBank(md){
+  const out=[]; let cur=null, lastField=null;
+  for(const raw of (md||"").split(/\r?\n/)){
+    const h=raw.match(/^###\s*(.*?)\s*$/);
+    if(h){
+      if(cur) out.push(cur);
+      cur = h[1] ? {text:h[1],fields:{}} : null;   // an empty "###" is a blank template slot: close, don't collect
+      lastField=null; continue;
+    }
+    if(!cur) continue;
+    const f=raw.match(/^\s*[-*]\s*([^:：]{1,24})[:：]\s*(.*)$/);
+    if(f){
+      const key=FIELDMAP[f[1].trim().toLowerCase()]||null;
+      lastField=key;
+      if(key) cur.fields[key]=(f[2]||"").trim();
+      continue;
+    }
+    if(lastField && /^\s{2,}\S/.test(raw)){
+      cur.fields[lastField]=((cur.fields[lastField]||"")+"\n"+raw.trim()).trim();
+    }
+  }
+  if(cur) out.push(cur);
+  return out.map((q,i)=>({
+    n:i+1, text:q.text,
+    type:q.fields.type||"",
+    isCase:/case|fact|笔试|案例/i.test(q.fields.type||"")||!!q.fields.fact,
+    budget:parseBudget(q.fields.budget)|| (q.fields.fact?600:120),
+    reading:parseBudget(q.fields.reading)||(q.fields.fact?600:0),
+    best:q.fields.best||"", backup:q.fields.backup||"",
+    opener:q.fields.opener||"", watch:q.fields.watch||"",
+    fact:q.fields.fact||"", key:q.fields.key||"", source:q.fields.source||""
+  }));
+}
+
+/* ============================ state ============================ */
+const S={
+  org:"",role:"",bankMd:"",prep:"",script:"panel",
+  opts:{cam:true,mic:true,speak:true},
+  qs:[],i:0,answers:{},
+  phase:"setup", // setup | reading | answering | marking | debrief
+  t0:0,elapsed:0,tick:null,cueOn:false,
+  stream:null,rec:null,chunks:[],clips:{},recog:null,interim:"",
+  camReady:false,
+  ai:{on:false,preset:"openrouter",base:"",model:"",key:"",remember:false,followups:true,coach:true},
+  aiStatus:"", fu:null, coach:null, iv:"idle"
+};
+const $=s=>document.querySelector(s);
+const app=$("#app");
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const qid=n=>String(n).replace(/^\d+/,d=>d.padStart(2,"0"));
+const mmss=s=>{const m=Math.floor(Math.abs(s)/60),x=Math.floor(Math.abs(s)%60);return (s<0?"-":"")+m+":"+String(x).padStart(2,"0")};
+
+function save(){
+  try{ localStorage.setItem("mis.draft",JSON.stringify({org:S.org,role:S.role,bankMd:S.bankMd,prep:S.prep,answers:S.answers})); }catch(e){}
+}
+function loadDraft(){
+  try{ const d=JSON.parse(localStorage.getItem("mis.draft")||"null"); if(d){S.org=d.org||"";S.role=d.role||"";S.bankMd=d.bankMd||"";S.prep=d.prep||"";} }catch(e){}
+}
+
+/* ============================ setup ============================ */
+function renderSetup(){
+  const cards=Object.entries(SCRIPTS).map(([k,v])=>{
+    const[n,d]=v[LANG];
+    return `<button class="script" data-script="${k}" aria-pressed="${S.script===k}"><b>${esc(n)}</b><span>${esc(d)}</span></button>`;
+  }).join("");
+  app.innerHTML=`
+   <h1 class="lede">${esc(t("lede"))}</h1>
+   <p class="sub">${esc(t("sub"))}</p>
+
+   <div class="field row">
+     <div><span class="lbl">${esc(t("org"))}</span>
+       <input id="f-org" value="${esc(S.org)}" placeholder="${esc(t("orgPh"))}"></div>
+     <div><span class="lbl">${esc(t("role"))}</span>
+       <input id="f-role" value="${esc(S.role)}" placeholder="${esc(t("rolePh"))}"></div>
+   </div>
+
+   <div class="field">
+     <span class="lbl">${esc(t("script"))}</span>
+     <div class="scripts">${cards}</div>
+     <div class="hint">${t("scriptHint")}</div>
+   </div>
+
+   <div class="field">
+     <span class="lbl">${esc(t("bank"))}</span>
+     <textarea id="f-bank" rows="9" placeholder="${esc(t("bankPh"))}">${esc(S.bankMd)}</textarea>
+     <div class="hint"><label class="btn ghost" style="display:inline-block">${esc(t("upload"))}
+       <input type="file" id="f-file" accept=".md,.txt,.markdown" style="display:none"></label>
+       <span id="qcount"></span></div>
+   </div>
+
+   <div class="field">
+     <span class="lbl">${esc(t("prep"))}</span>
+     <textarea id="f-prep" rows="5" placeholder="${esc(t("prepPh"))}">${esc(S.prep)}</textarea>
+     <div class="hint">${esc(t("prepHint"))}</div>
+   </div>
+
+   <div class="field">
+     <span class="lbl">${esc(t("opts"))}</span>
+     <div class="toggles">
+       <label class="tg"><input type="checkbox" id="o-cam" ${S.opts.cam?"checked":""}> ${esc(t("cam"))}</label>
+       <label class="tg"><input type="checkbox" id="o-mic" ${S.opts.mic?"checked":""}> ${esc(t("mic"))}</label>
+       <label class="tg"><input type="checkbox" id="o-speak" ${S.opts.speak?"checked":""}> ${esc(t("speak"))}</label>
+     </div>
+   </div>
+
+   <details class="field aibox" ${S.ai.on?"open":""}>
+     <summary class="lbl">${esc(t("aiTitle"))}</summary>
+     <label class="tg"><input type="checkbox" id="ai-on" ${S.ai.on?"checked":""}> ${esc(t("aiOn"))}</label>
+     <div class="aigrid" ${S.ai.on?"":"hidden"}>
+       <div><span class="lbl">${esc(t("aiProv"))}</span>
+         <select id="ai-preset">${Object.entries(PRESETS).map(([k,v])=>`<option value="${k}" ${S.ai.preset===k?"selected":""}>${esc(v.name)}</option>`).join("")}</select></div>
+       <div><span class="lbl">${esc(t("aiModel"))}</span>
+         <input id="ai-model" value="${esc(S.ai.model)}" placeholder="${esc(t("aiModelPh").replace("{m}",PRESETS[S.ai.preset].model))}" autocomplete="off" spellcheck="false"></div>
+       <div class="wide"><span class="lbl">${esc(t("aiBase"))}</span>
+         <input id="ai-base" value="${esc(S.ai.base)}" placeholder="https://…/v1" autocomplete="off" spellcheck="false"></div>
+       <div class="wide"><span class="lbl">${esc(t("aiKey"))}</span>
+         <input id="ai-key" type="password" value="${esc(S.ai.key)}" placeholder="${esc(PRESETS[S.ai.preset].nokey?t("aiNoKey"):t("aiKeyPh"))}" autocomplete="off"></div>
+       <div class="wide toggles">
+         <label class="tg"><input type="checkbox" id="ai-fu" ${S.ai.followups?"checked":""}> ${esc(t("aiFu"))}</label>
+         <label class="tg"><input type="checkbox" id="ai-coach" ${S.ai.coach?"checked":""}> ${esc(t("aiCoach"))}</label>
+         <label class="tg"><input type="checkbox" id="ai-rem" ${S.ai.remember?"checked":""}> ${esc(t("aiRemember"))}</label>
+       </div>
+       <div class="wide"><button class="btn" id="ai-test" type="button">${esc(t("aiTest"))}</button> <span class="aistat" id="ai-stat">${esc(S.aiStatus)}</span></div>
+       <p class="hint wide"><span id="ai-sends">${esc(t("aiSends").replace("{p}",aiName()))}</span>${S.ai.preset==="ollama"?" "+esc(t("aiOllama")):""}</p>
+     </div>
+   </details>
+
+   <button class="btn primary" id="go">${esc(t("begin"))}</button>
+   <div class="err" id="err"></div>
+
+   <div class="notice"><span id="priv-note">${esc(aiReady()?t("aiSends").replace("{p}",aiName()):t("privacy"))}</span><br>${esc(t("chrome"))}</div>`;
+
+  const sync=()=>{S.org=$("#f-org").value;S.role=$("#f-role").value;S.bankMd=$("#f-bank").value;S.prep=$("#f-prep").value;
+    const n=parseBank(S.bankMd).length; $("#qcount").textContent = n? "  · "+n+(LANG==="zh"?" 题":" questions") : ""; save();};
+  ["f-org","f-role","f-bank","f-prep"].forEach(id=>$("#"+id).addEventListener("input",sync));
+  document.querySelectorAll("[data-script]").forEach(b=>b.addEventListener("click",()=>{
+    S.script=b.dataset.script;
+    const md=SCRIPTS[S.script].md.trim();
+    if(md) S.bankMd=md;
+    renderSetup();
+  }));
+  $("#f-file").addEventListener("change",e=>{
+    const f=e.target.files[0]; if(!f) return;
+    const r=new FileReader(); r.onload=()=>{S.bankMd=r.result;renderSetup();}; r.readAsText(f);
+  });
+  ["cam","mic","speak"].forEach(k=>$("#o-"+k).addEventListener("change",e=>S.opts[k]=e.target.checked));
+  const aiSync=()=>{
+    $("#mh-priv").textContent=privLine(); aiSave();
+    const s=$("#ai-sends"); if(s) s.textContent=t("aiSends").replace("{p}",aiName());
+    const n=$("#priv-note"); if(n) n.textContent=aiReady()?t("aiSends").replace("{p}",aiName()):t("privacy");
+  };
+  $("#ai-on").addEventListener("change",e=>{S.ai.on=e.target.checked; S.aiStatus=""; aiSave(); renderSetup(); $("#mh-priv").textContent=privLine();});
+  $("#ai-preset").addEventListener("change",e=>{S.ai.preset=e.target.value; const p=PRESETS[S.ai.preset]; S.ai.base=p.base; S.ai.model=""; S.aiStatus=""; aiSave(); renderSetup(); $("#mh-priv").textContent=privLine();});
+  [["ai-model","model"],["ai-base","base"],["ai-key","key"]].forEach(([id,k])=>$("#"+id).addEventListener("input",e=>{S.ai[k]=e.target.value; aiSync();}));
+  [["ai-fu","followups"],["ai-coach","coach"],["ai-rem","remember"]].forEach(([id,k])=>$("#"+id).addEventListener("change",e=>{S.ai[k]=e.target.checked; aiSync();}));
+  $("#ai-test").addEventListener("click",async()=>{
+    const st=$("#ai-stat"); st.textContent=t("aiTesting"); st.className="aistat";
+    try{ await aiChat([{role:"user",content:"Reply with the single word: ready"}],8); S.aiStatus=t("aiOk").replace("{m}",S.ai.model||aiName()); st.className="aistat ok"; }
+    catch(e){ S.aiStatus=e.message; st.className="aistat bad"; }
+    st.textContent=S.aiStatus;
+  });
+  $("#go").addEventListener("click",start);
+  sync();
+}
+
+/* ========================= media plumbing ========================= */
+async function initMedia(){
+  if(!S.opts.cam && !S.opts.mic) return;
+  try{
+    S.stream=await navigator.mediaDevices.getUserMedia({video:S.opts.cam,audio:true});
+    S.camReady=true;
+  }catch(e){ S.camReady=false; }
+}
+function startClip(){
+  if(!S.stream) return;
+  try{
+    S.chunks=[];
+    S.rec=new MediaRecorder(S.stream);
+    S.rec.ondataavailable=e=>{ if(e.data&&e.data.size) S.chunks.push(e.data); };
+    S.rec.onstop=()=>{
+      if(!S.chunks.length) return;
+      const b=new Blob(S.chunks,{type:S.chunks[0].type||"video/webm"});
+      S.clips[S.qs[S.i].n]={url:URL.createObjectURL(b),size:b.size};
+      render();
+    };
+    S.rec.start();
+  }catch(e){}
+}
+function stopClip(){ try{ if(S.rec&&S.rec.state!=="inactive") S.rec.stop(); }catch(e){} S.rec=null; }
+
+function startRecog(){
+  const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+  if(!SR||!S.opts.mic) return;
+  try{
+    const r=new SR();
+    r.continuous=true; r.interimResults=true;
+    r.lang=/[\u4e00-\u9fa5]/.test(S.qs[S.i].text)?"zh-CN":"en-US";
+    r.onresult=e=>{
+      let fin="",itr="";
+      for(let k=e.resultIndex;k<e.results.length;k++){
+        const r0=e.results[k];
+        if(r0.isFinal) fin+=r0[0].transcript; else itr+=r0[0].transcript;
+      }
+      if(fin){ const a=ans(); a.transcript=(a.transcript?a.transcript+" ":"")+fin.trim(); }
+      S.interim=itr;
+      const ta=$("#tx"); if(ta&&document.activeElement!==ta) ta.value=ans().transcript+(itr?" "+itr:"");
+    };
+    r.onerror=()=>{};
+    r.onend=()=>{ if(S.phase==="answering"){ try{r.start()}catch(e){} } };
+    r.start(); S.recog=r;
+  }catch(e){}
+}
+function stopRecog(){ try{ if(S.recog){S.recog.onend=null;S.recog.stop();} }catch(e){} S.recog=null; S.interim=""; }
+
+function speak(text){
+  if(!S.opts.speak||!window.speechSynthesis) return;
+  try{
+    speechSynthesis.cancel();
+    const u=new SpeechSynthesisUtterance(text);
+    u.lang=/[\u4e00-\u9fa5]/.test(text)?"zh-CN":"en-US";
+    u.rate=.98;
+    u.onstart=()=>setIv("asking");
+    u.onend=()=>setIv(S.phase==="answering"?"listening":S.phase==="marking"?"done":"idle");
+    speechSynthesis.speak(u);
+  }catch(e){}
+}
+
+
+/* ===================== optional AI interviewer ===================== */
+// Any service with an OpenAI-style /chat/completions endpoint. Nothing here runs
+// unless the user connects one; without it the tool makes no network requests.
+const PRESETS={
+  openai:{name:"OpenAI",base:"https://api.openai.com/v1",model:"gpt-4.1-mini"},
+  anthropic:{name:"Claude (Anthropic)",base:"https://api.anthropic.com/v1",model:"claude-sonnet-4-5"},
+  gemini:{name:"Gemini (Google)",base:"https://generativelanguage.googleapis.com/v1beta/openai",model:"gemini-2.5-flash"},
+  deepseek:{name:"DeepSeek",base:"https://api.deepseek.com/v1",model:"deepseek-chat"},
+  kimi:{name:"Kimi (Moonshot)",base:"https://api.moonshot.cn/v1",model:"kimi-k2-turbo-preview"},
+  qwen:{name:"通义千问 Qwen",base:"https://dashscope.aliyuncs.com/compatible-mode/v1",model:"qwen-plus"},
+  doubao:{name:"豆包 Doubao (Volcengine)",base:"https://ark.cn-beijing.volces.com/api/v3",model:"your endpoint id"},
+  openrouter:{name:"OpenRouter",base:"https://openrouter.ai/api/v1",model:"openai/gpt-4.1-mini"},
+  ollama:{name:"Ollama (this computer)",base:"http://localhost:11434/v1",model:"qwen2.5:7b",nokey:true},
+  custom:{name:"Other (OpenAI-compatible)",base:"",model:"model-name"}
+};
+const aiName=()=>S.ai.preset==="custom"? (S.ai.base.replace(/^https?:\/\//,"").split("/")[0]||"AI") : PRESETS[S.ai.preset].name;
+const aiReady=()=>S.ai.on && S.ai.base.trim() && S.ai.model.trim() && (S.ai.key.trim()||PRESETS[S.ai.preset]?.nokey||S.ai.preset==="custom");
+function aiSave(){
+  try{
+    if(S.ai.remember) localStorage.setItem("mis.ai",JSON.stringify(S.ai));
+    else localStorage.setItem("mis.ai",JSON.stringify({...S.ai,key:"",remember:false}));
+  }catch(e){}
+  try{ sessionStorage.setItem("mis.aikey",S.ai.key); }catch(e){}
+}
+function aiLoad(){
+  try{ const d=JSON.parse(localStorage.getItem("mis.ai")||"null"); if(d) Object.assign(S.ai,d); }catch(e){}
+  try{ if(!S.ai.key) S.ai.key=sessionStorage.getItem("mis.aikey")||""; }catch(e){}
+  if(!PRESETS[S.ai.preset]) S.ai.preset="custom";
+  if(!S.ai.base && S.ai.preset!=="custom") S.ai.base=PRESETS[S.ai.preset].base;
+}
+async function aiChat(messages,maxTokens){
+  const base=S.ai.base.trim().replace(/\/+$/,""), model=S.ai.model.trim();
+  if(!base||!model) throw new Error(t("errSetup"));
+  const headers={"Content-Type":"application/json"};
+  if(S.ai.key.trim()) headers.Authorization="Bearer "+S.ai.key.trim();
+  if(/anthropic\.com/.test(base)) headers["anthropic-dangerous-direct-browser-access"]="true";
+  if(/openrouter\.ai/.test(base)){ headers["X-Title"]="Mock Interviewer"; }
+  const ctl=new AbortController(), timer=setTimeout(()=>ctl.abort(),60000);
+  let r;
+  try{
+    r=await fetch(base+"/chat/completions",{method:"POST",headers,signal:ctl.signal,
+      body:JSON.stringify({model,messages,max_tokens:maxTokens||400,temperature:0.6})});
+  }catch(e){
+    clearTimeout(timer);
+    throw new Error(e.name==="AbortError"? t("errTime") : t("errNet").replace("{b}",base));
+  }
+  clearTimeout(timer);
+  if(!r.ok){
+    let detail=String(r.status);
+    try{ const j=await r.json(); const m=j.error?.message||j.message||j.error; if(m) detail+=" · "+String(typeof m==="string"?m:JSON.stringify(m)).slice(0,160); }catch(e){}
+    throw new Error((r.status===401||r.status===403? t("errAuth") : r.status===404? t("errModel") : t("errHttp")).replace("{s}",detail));
+  }
+  const j=await r.json();
+  const txt=(j.choices?.[0]?.message?.content||"").toString().trim();
+  if(!txt) throw new Error(t("errEmpty"));
+  return txt;
+}
+function setIv(state){
+  S.iv=state;
+  const w=$(".iv"); if(w) w.dataset.state=state;
+  const l=$("#iv-state"); if(l) l.textContent=ivLabel();
+}
+function ivLabel(){
+  if(S.phase==="marking"&&S.fu?.state==="ready"&&S.iv!=="asking") return t("ivFollowed");
+  return {asking:t("ivAsking"),listening:t("ivListening"),thinking:t("ivThinking"),done:t("ivDone")}[S.iv]||t("ivReady");
+}
+// A plain illustrated interviewer: drawn in the page, no network, no AI.
+const IV_SVG=`<svg viewBox="16 18 88 88" aria-hidden="true" focusable="false">
+  <defs><clipPath id="ivc"><circle cx="60" cy="60" r="58"/></clipPath></defs>
+  <g clip-path="url(#ivc)">
+    <rect width="120" height="120" class="iv-bg"/>
+    <path d="M14 124 C16 96 34 84 60 84 C86 84 104 96 106 124 Z" class="iv-coat"/>
+    <path d="M60 84 L49 86 L60 112 L71 86 Z" class="iv-shirt"/>
+    <path d="M60 92 L56 98 L60 113 L64 98 Z" class="iv-tie"/>
+    <path d="M30 124 C31 104 40 94 52 89 L60 112 Z" class="iv-lapel"/>
+    <rect x="52" y="68" width="16" height="18" rx="6" class="iv-skin-shade"/>
+    <g class="iv-head">
+      <ellipse cx="60" cy="52" rx="21" ry="24" class="iv-skin"/>
+      <path d="M60 28 C46 28 38 36 38 50 C38 52 39 55 40 56 C41 46 46 40 56 39 C64 38 74 40 80 47 C81 50 82 53 81 56 C83 52 83 48 82 44 C79 33 71 28 60 28 Z" class="iv-hair"/>
+      <path d="M40 56 C39 60 40 63 42 64 L41 54 Z M80 56 C81 60 80 63 78 64 L79 54 Z" class="iv-skin-shade"/>
+      <g class="iv-eyes"><circle cx="52" cy="54" r="2.2" class="iv-ink"/><circle cx="68" cy="54" r="2.2" class="iv-ink"/></g>
+      <g class="iv-glasses" fill="none"><rect x="44" y="48" width="15" height="12" rx="4"/><rect x="61" y="48" width="15" height="12" rx="4"/><path d="M59 53 L61 53"/></g>
+      <path d="M48 45 L56 44 M64 44 L72 45" class="iv-brow"/>
+      <path d="M60 58 L58 64 L61 64" fill="none" class="iv-nose"/>
+      <g class="iv-mouth"><path d="M54 69 Q60 72 66 69" class="iv-lips" fill="none"/><ellipse cx="60" cy="70" rx="4" ry="2.6" class="iv-open"/></g>
+    </g>
+  </g>
+</svg>`;
+async function askFollowUp(){
+  const q=S.qs[S.i], a=ans();
+  S.fu={state:"loading"}; setIv("thinking"); render();
+  const L=/[一-龥]/.test(q.text);
+  const prepared=[q.opener&&`Opener: ${q.opener}`,q.best&&`Best story: ${q.best}`,q.watch&&`Watch: ${q.watch}`].filter(Boolean).join("\n");
+  const sys=`You are the interviewer${S.org?` at ${S.org}`:""}${S.role?` for the ${S.role} role`:""}, in a practice interview. After the candidate answers, you ask exactly one follow-up, the one a real panel would ask: what they personally did, a number, who disagreed, what they would do differently, or the point they skipped. Under 35 words. No praise, no feedback, no preamble. Reply with the question only, in ${L?"Chinese":"the language of the question"}.`;
+  const user=`Question: ${q.text}\n\nWhat the candidate prepared for it:\n${prepared||"(nothing)"}\n\nMaterial they prepared overall (for context):\n${(S.prep||"(none)").slice(0,4000)}\n\nWhat they said (speech-to-text, may contain errors):\n${a.transcript.trim()||"(no transcript; ask a follow-up a panel would ask on this question anyway)"}`;
+  try{
+    let txt=await aiChat([{role:"system",content:sys},{role:"user",content:user}],160);
+    txt=txt.replace(/^["“'「]+|["”'」]+$/g,"").trim();
+    if(S.phase!=="marking"||S.qs[S.i]!==q) return;
+    S.fu={state:"ready",text:txt}; S.iv=S.opts.speak?"asking":"done"; render(); speak(txt);
+  }catch(e){
+    if(S.phase!=="marking"||S.qs[S.i]!==q) return;
+    S.fu={state:"error",msg:e.message}; setIv("done"); render();
+  }
+}
+function answerFollowUp(){
+  const q=S.qs[S.i], txt=S.fu?.text; if(!txt) return;
+  let n=q.n+"a"; while(S.qs.some(x=>x.n===n)) n=n.replace(/([a-z])$/,(c)=>String.fromCharCode(c.charCodeAt(0)+1));
+  S.qs.splice(S.i+1,0,{n,text:txt,type:t("fuTag"),isFollow:true,isCase:false,budget:60,reading:0,best:"",backup:"",opener:"",watch:"",fact:"",key:"",source:"AI follow-up"});
+  S.fu=null; S.i++; enterQuestion();
+}
+async function askCoach(){
+  S.coach={state:"loading"}; renderDebrief();
+  const md=buildMarkdown();
+  const L=LANG==="zh";
+  try{
+    const txt=await aiChat([{role:"system",content:`You are an exacting interview coach. Follow the coaching prompt at the top of the record exactly. Reply in ${L?"Chinese":"English"}, in markdown.`},{role:"user",content:md}],2000);
+    S.coach={state:"ready",text:txt,by:`${aiName()} · ${S.ai.model}`};
+  }catch(e){ S.coach={state:"error",msg:e.message}; }
+  if(S.phase==="debrief") renderDebrief();
+}
+function mdLite(s){
+  // Tiny, safe markdown: escape everything, then headings, bold, lists, paragraphs.
+  const out=[]; let list=null;
+  const inline=x=>esc(x).replace(/\*\*(.+?)\*\*/g,"<b>$1</b>").replace(/`([^`]+)`/g,"<code>$1</code>");
+  const close=()=>{ if(list){ out.push(`</${list}>`); list=null; } };
+  for(const line of String(s).split(/\r?\n/)){
+    let m;
+    if(!line.trim()){ close(); continue; }
+    if((m=line.match(/^#{1,4}\s+(.*)/))){ close(); out.push(`<h3>${inline(m[1])}</h3>`); continue; }
+    if((m=line.match(/^\s*[-*•]\s+(.*)/))){ if(list!=="ul"){ close(); out.push("<ul>"); list="ul"; } out.push(`<li>${inline(m[1])}</li>`); continue; }
+    if((m=line.match(/^\s*\d+[.)、]\s*(.*)/))){ if(list!=="ol"){ close(); out.push("<ol>"); list="ol"; } out.push(`<li>${inline(m[1])}</li>`); continue; }
+    close(); out.push(`<p>${inline(line)}</p>`);
+  }
+  close(); return out.join("");
+}
+function privLine(){ return aiReady()? t("privAi").replace("{p}",aiName()) : t("priv"); }
+
+/* ========================== session flow ========================== */
+function ans(){
+  const n=S.qs[S.i].n;
+  if(!S.answers[n]) S.answers[n]={elapsed:0,transcript:"",c1:false,c2:false,c3:false,note:"",skipped:false};
+  return S.answers[n];
+}
+async function start(){
+  S.qs=parseBank(S.bankMd);
+  if(!S.qs.length){ $("#err").textContent=t("noq"); return; }
+  S.i=0; S.answers={}; S.clips={}; S.coach=null; S.fu=null;
+  window.scrollTo(0,0);
+  await initMedia();
+  enterQuestion();
+}
+function enterQuestion(){
+  const q=S.qs[S.i];
+  S.elapsed=0; S.cueOn=false; S.fu=null; S.iv=S.opts.speak?"asking":"idle";
+  S.phase = q.isCase ? "reading" : "reading";
+  render();
+  speak(q.text);
+  if(!S.opts.speak||!window.speechSynthesis) S.iv="idle";
+  if(q.isCase && q.reading) beginTimer(q.reading,true);
+}
+function beginTimer(){
+  clearInterval(S.tick);
+  S.t0=Date.now();
+  S.tick=setInterval(()=>{
+    S.elapsed=(Date.now()-S.t0)/1000;
+    if(S.phase==="answering"){
+      const on=S.elapsed<15;
+      if(on!==S.cueOn){ S.cueOn=on; const c=$(".cue"); if(c) c.classList.toggle("on",on); }
+    }
+    paintClock();
+  },100);
+}
+function beginAnswer(){
+  S.phase="answering"; S.elapsed=0; S.cueOn=true; S.iv="listening";
+  try{speechSynthesis.cancel()}catch(e){}
+  render(); beginTimer(); startClip(); startRecog();
+}
+function endAnswer(skipped){
+  clearInterval(S.tick); stopClip(); stopRecog();
+  try{speechSynthesis.cancel()}catch(e){}
+  const a=ans(); a.elapsed=Math.round(S.elapsed); a.skipped=!!skipped;
+  S.phase="marking"; S.iv="done"; S.fu=null; render(); save();
+  const q=S.qs[S.i];
+  if(!skipped && aiReady() && S.ai.followups && !q.isFollow && !q.isCase) askFollowUp();
+}
+function nextQuestion(){
+  if(S.i>=S.qs.length-1){ finish(); return; }
+  S.i++; enterQuestion();
+}
+function finish(){
+  clearInterval(S.tick); stopClip(); stopRecog();
+  if(S.stream){ S.stream.getTracks().forEach(x=>x.stop()); S.stream=null; }
+  S.phase="debrief"; render(); save();
+}
+function paintClock(){
+  const q=S.qs[S.i]; const el=$(".clock"), bar=$(".bar");
+  if(!el||!q) return;
+  const budget = S.phase==="reading"&&q.isCase ? q.reading : q.budget;
+  const left = budget - S.elapsed;
+  el.textContent = budget? mmss(Math.ceil(left)) : mmss(Math.floor(S.elapsed));
+  const pct = budget? Math.min(100,(S.elapsed/budget)*100) : 0;
+  const warn = budget && S.elapsed>budget*.75 && S.elapsed<=budget;
+  const over = budget && S.elapsed>budget;
+  el.classList.toggle("warn",!!warn); el.classList.toggle("over",!!over);
+  if(bar){ bar.style.width=pct+"%"; bar.classList.toggle("warn",!!warn); bar.classList.toggle("over",!!over); }
+}
+
+/* ============================ render ============================ */
+function render(){
+  if(S.phase==="setup") return renderSetup();
+  if(S.phase==="debrief") return renderDebrief();
+  const q=S.qs[S.i], a=ans();
+  const rail=S.qs.map((x,k)=>`<button class="qitem ${k<S.i?"done":""} ${k===S.i?"now":""}" data-jump="${k}">
+      <b>${qid(x.n)}</b><span>${esc(x.text)}</span></button>`).join("");
+
+  const budget = (S.phase==="reading"&&q.isCase)? q.reading : q.budget;
+  const prepared = (q.opener||q.best||q.watch)
+    ? `${q.opener?`<p><em>${esc(t("pOpener"))}:</em> ${esc(q.opener)}</p>`:""}
+       ${q.best?`<p><em>${esc(t("pStory"))}:</em> ${esc(q.best)}${q.backup?" / "+esc(q.backup):""}</p>`:""}
+       ${q.watch?`<p><em>${esc(t("pWatch"))}:</em> ${esc(q.watch)}</p>`:""}`
+    : `<p><em>${esc(t("pNone"))}</em></p>`;
+
+  let deck="";
+  if(S.phase==="reading"){
+    deck=`<button class="btn primary" id="b-start">${esc(q.isCase?t("startCase"):t("startAns"))}</button>
+          <button class="btn ghost" id="b-replay">${esc(t("replay"))}</button>`;
+  }else if(S.phase==="answering"){
+    deck=`<button class="btn stop" id="b-done">${esc(t("done"))}</button>
+          <button class="btn ghost" id="b-skip">${esc(t("skip"))}</button>`;
+  }else{
+    deck=`<button class="btn ${S.fu?.state==="ready"?"":"primary"}" id="b-next">${esc(S.i>=S.qs.length-1?t("finish"):t("next"))}</button>`;
+  }
+
+  app.innerHTML=`<div class="stage">
+    <nav class="rail">${rail}</nav>
+    <section class="cardwrap">
+      <div class="ivrow">
+        <div class="iv" data-state="${S.iv}">${IV_SVG}</div>
+        <div class="ivtext"><b>${esc(t("ivName"))}${S.org?" · "+esc(S.org):""}</b><span id="iv-state">${esc(ivLabel())}</span>${aiReady()?`<em>${esc(aiName())}</em>`:""}</div>
+      </div>
+      <div class="cue ${S.cueOn&&S.phase==="answering"?"on":""}">${esc(t("lead"))}</div>
+      <article class="card">
+        <div class="kicker"><span>${esc(t("qof").replace("{a}",q.n).replace("{b}",S.qs.length))}</span>
+          ${q.type?`<span>${esc(q.type)}</span>`:""}
+          <span>${budget?esc(t(S.phase==="reading"&&q.isCase?"reading":"budget"))+" "+mmss(budget):esc(t("noBudget"))}</span></div>
+        <p class="q">${esc(q.text)}</p>
+        ${q.fact&&(S.phase==="reading"||q.isCase)?`<div class="fact">${esc(q.fact)}</div>`:""}
+        <div class="bar"></div>
+      </article>
+      <div class="deck">
+        <span class="clock">${budget?mmss(budget):"0:00"}</span>
+        ${deck}
+      </div>
+
+      ${S.phase==="marking"&&S.fu?`<div class="fu ${S.fu.state}">
+        <span class="lbl">${esc(t("fuTitle"))}</span>
+        ${S.fu.state==="loading"?`<p class="fu-wait"><i></i><i></i><i></i></p>`:""}
+        ${S.fu.state==="ready"?`<p class="fu-q">${esc(S.fu.text)}</p><div class="dl" style="margin-top:12px"><button class="btn primary" id="b-fu">${esc(t("fuAnswer"))}</button><button class="btn ghost" id="b-fu-skip">${esc(t("fuSkip"))}</button></div>`:""}
+        ${S.fu.state==="error"?`<p class="hint">${esc(t("fuFail").replace("{e}",S.fu.msg))}</p>`:""}
+      </div>`:""}
+      ${S.phase==="marking"?`<div class="panel">
+        <span class="lbl">${esc(t("checks"))}</span>
+        <div class="checks" style="margin-top:8px">
+          <label class="tg"><input type="checkbox" id="c1" ${a.c1?"checked":""}> ${esc(t("c1"))}</label>
+          <label class="tg"><input type="checkbox" id="c2" ${a.c2?"checked":""}> ${esc(t("c2"))}</label>
+          <label class="tg"><input type="checkbox" id="c3" ${a.c3?"checked":""}> ${esc(t("c3"))}</label>
+        </div>
+        <span class="lbl">${esc(t("note"))}</span>
+        <textarea id="note" rows="3" placeholder="${esc(t("notePh"))}" style="margin-top:6px">${esc(a.note)}</textarea>
+        ${S.clips[q.n]?`<div class="vid">${esc(t("vidFor"))} · <a href="${S.clips[q.n].url}" download="Q${qid(q.n)}.webm" style="color:var(--ok)">${(S.clips[q.n].size/1e6).toFixed(1)} MB</a></div>`:""}
+      </div>`:`<div class="prepbox"><span class="lbl">${esc(t("prepared"))}</span>${prepared}</div>`}
+    </section>
+
+    <aside class="aside">
+      ${S.opts.cam?`<video class="cam" id="cam" autoplay muted playsinline></video>`:`<div class="cam" style="display:grid;place-items:center;color:var(--muted);font-size:15px">${esc(t("off"))}</div>`}
+      <div class="rec"><span class="dot ${S.phase==="answering"?"live":""}"></span>${esc(S.phase==="answering"?t("rec"):t("idle"))}</div>
+      <div class="tx">
+        <span class="lbl">${esc(t("transcript"))}</span>
+        <textarea id="tx" rows="9" style="margin-top:6px">${esc(a.transcript)}</textarea>
+        <div class="hint">${esc(t("txHint"))}</div>
+      </div>
+    </aside>
+  </div>`;
+
+  if(S.opts.cam&&S.stream){ const v=$("#cam"); if(v) v.srcObject=S.stream; }
+  document.querySelectorAll("[data-jump]").forEach(b=>b.addEventListener("click",()=>{
+    if(S.phase==="answering") return;
+    try{speechSynthesis.cancel()}catch(e){}
+    S.i=+b.dataset.jump; enterQuestion();
+  }));
+  const on=(id,ev,fn)=>{const e=$("#"+id); if(e) e.addEventListener(ev,fn);};
+  on("b-start","click",beginAnswer);
+  on("b-replay","click",()=>speak(q.text));
+  on("b-done","click",()=>endAnswer(false));
+  on("b-skip","click",()=>endAnswer(true));
+  on("b-next","click",nextQuestion);
+  on("b-fu","click",answerFollowUp);
+  on("b-fu-skip","click",()=>{S.fu=null;render();});
+  on("tx","input",e=>{ans().transcript=e.target.value;save();});
+  on("note","input",e=>{ans().note=e.target.value;save();});
+  ["c1","c2","c3"].forEach(c=>on(c,"change",e=>{ans()[c]=e.target.checked;save();}));
+  paintClock();
+}
+
+/* =========================== debrief =========================== */
+function wc(s){ const z=(s||"").trim(); if(!z) return 0;
+  return /[\u4e00-\u9fa5]/.test(z) ? z.replace(/\s/g,"").length : z.split(/\s+/).length; }
+
+function buildMarkdown(){
+  const L=LANG==="zh";
+  const head=[];
+  head.push(`# ${L?"模拟面试复盘":"Mock interview debrief"} — ${S.org||"—"}${S.role?" · "+S.role:""}`);
+  head.push(`${L?"日期":"Date"}: ${new Date().toISOString().slice(0,10)}`);
+  head.push("");
+  head.push(`## ${t("coachTitle")}`);
+  head.push("```");
+  head.push(L
+   ? `你是我的面试教练。下面是一场模拟面试的完整记录：每题的题面、我准备好的素材、我实际说的话、用时对预算、以及我的自评。请逐题给我：
+1) 开头 15 秒有没有给结论；
+2) STAR 完整度，最常丢的 Result 有没有丢；
+3) 用时对预算——超了该砍哪一段，不足该补什么；
+4) 我准备的素材和我实际说出口的差在哪（这一条最重要，请具体指出我丢了哪个准备好的点）。
+每题给 1-5 分和一句可以直接照念的更好开头。最后列出最该重练的 3 题，以及需要新写或修订的故事卡。不要泛泛鼓励，要具体到可执行。`
+   : `You are my interview coach. Below is a full record of one mock interview: each question, the material I had prepared, what I actually said, time against budget, and my own marks. For each question tell me:
+1) whether I gave a conclusion in the first 15 seconds;
+2) STAR completeness, especially whether the Result went missing;
+3) time against budget — what to cut if I ran over, what to add if I ran short;
+4) the gap between what I prepared and what I actually said (this one matters most — name the prepared point I dropped).
+Score each answer 1-5 and give one better opening line I could say verbatim. Finish with the three questions to re-run first and any story cards to write or revise. Be specific and actionable rather than encouraging.`);
+  head.push("```");
+  head.push("");
+
+  if(S.prep.trim()){
+    head.push(`## ${L?"我准备的材料":"Material I prepared"}`);
+    head.push(S.prep.trim());
+    head.push("");
+  }
+
+  const rows=[];
+  let total=0;
+  S.qs.forEach(q=>{
+    const a=S.answers[q.n]; if(!a) return;
+    total+=a.elapsed||0;
+    rows.push(`### Q${qid(q.n)} — ${q.text}`);
+    rows.push(`- ${L?"类型":"type"}: ${q.type||"—"}${q.isFollow?` (${L?"AI 面试官现场追问":"asked live by the AI interviewer"})`:""}`);
+    rows.push(`- ${L?"用时/预算":"time / budget"}: ${mmss(a.elapsed)} / ${mmss(q.budget)}${a.elapsed>q.budget?` (${t("over")} ${mmss(a.elapsed-q.budget)})`:""}`);
+    rows.push(`- ${L?"自评":"self-marks"}: ${t("c1")}=${a.c1?"Y":"N"} · ${t("c2")}=${a.c2?"Y":"N"} · ${t("c3")}=${a.c3?"Y":"N"}${a.skipped?" · SKIPPED":""}`);
+    if(q.opener||q.best||q.watch){
+      rows.push(`- ${L?"我准备的":"what I prepared"}: ${[q.opener&&`${t("pOpener")}: ${q.opener}`,q.best&&`${t("pStory")}: ${q.best}`,q.watch&&`${t("pWatch")}: ${q.watch}`].filter(Boolean).join(" | ")}`);
+    } else {
+      rows.push(`- ${L?"我准备的":"what I prepared"}: —`);
+    }
+    if(q.key) rows.push(`- ${L?"参考答案":"answer key"}: ${q.key.replace(/\n/g," ")}`);
+    rows.push("");
+    rows.push(`**${L?"我实际说的":"What I actually said"}**`);
+    rows.push("");
+    rows.push(a.transcript.trim()||`_(${L?"无转录":"no transcript"})_`);
+    rows.push("");
+    if(a.note.trim()){ rows.push(`**${t("note")}**: ${a.note.trim()}`); rows.push(""); }
+  });
+
+  const coach = S.coach?.state==="ready"
+    ? `\n## ${t("coachHead").replace("{p}",S.coach.by)}\n\n${S.coach.text.trim()}\n` : "";
+  return head.join("\n")+`## ${L?"逐题记录":"Question by question"}\n\n`+rows.join("\n")
+    +`\n---\n${t("total")}: ${mmss(total)}\n`+coach;
+}
+
+function renderDebrief(){
+  const L=LANG==="zh";
+  let total=0;
+  const rows=S.qs.map(q=>{
+    const a=S.answers[q.n]; if(!a) return "";
+    total+=a.elapsed||0;
+    const over=a.elapsed>q.budget;
+    return `<tr>
+      <td>${esc(q.text)}</td>
+      <td class="num ${over?"over":""}">${mmss(a.elapsed)}</td>
+      <td class="num">${mmss(q.budget)}</td>
+      <td class="num">${a.c1?"✓":"·"} ${a.c2?"✓":"·"} ${a.c3?"✓":"·"}</td>
+      <td class="num">${wc(a.transcript)}</td></tr>`;
+  }).join("");
+  const clips=Object.entries(S.clips).map(([n,c])=>
+    `<a class="btn" href="${c.url}" download="Q${qid(n)}.webm">Q${qid(n)} · ${(c.size/1e6).toFixed(1)} MB</a>`).join("");
+
+  app.innerHTML=`
+    <h1 class="lede">${esc(t("debrief"))}${S.org?" — "+esc(S.org):""}</h1>
+    <p class="sub">${esc(t("dsub"))}</p>
+    <div class="tblwrap"><table class="score">
+      <thead><tr><th>${esc(t("tq"))}</th><th>${esc(t("tt"))}</th><th>${esc(t("tb"))}</th><th>${esc(t("tf"))}</th><th>${esc(t("ttx"))}</th></tr></thead>
+      <tbody>${rows}</tbody>
+    </table></div>
+    <p class="budget">${esc(t("total"))}: ${mmss(total)}</p>
+    <div class="dl">
+      <button class="btn primary" id="dl-md">${esc(t("exportMd"))}</button>
+      <button class="btn" id="again">${esc(t("again"))}</button>
+    </div>
+    ${aiReady()&&S.ai.coach?`<section class="coach">
+      ${!S.coach?`<button class="btn" id="coach-go">${esc(t("coachAsk").replace("{p}",aiName()))}</button>`:""}
+      ${S.coach?.state==="loading"?`<p class="hint">${esc(t("coachWait").replace("{p}",aiName()))}</p>`:""}
+      ${S.coach?.state==="error"?`<p class="err">${esc(t("coachFail").replace("{e}",S.coach.msg))}</p><button class="btn" id="coach-go">${esc(t("coachAsk").replace("{p}",aiName()))}</button>`:""}
+      ${S.coach?.state==="ready"?`<span class="lbl">${esc(t("coachHead").replace("{p}",S.coach.by))}</span><div class="coachtext">${mdLite(S.coach.text)}</div>`:""}
+    </section>`:""}
+    ${clips?`<div class="field" style="margin-top:26px"><span class="lbl">${esc(t("exportAll"))}</span><div class="dl">${clips}</div></div>`:""}
+    <div class="notice">${esc(aiReady()?t("aiSends").replace("{p}",aiName()):t("privacy"))}</div>`;
+
+  $("#dl-md").addEventListener("click",()=>{
+    const blob=new Blob([buildMarkdown()],{type:"text/markdown"});
+    const a=document.createElement("a");
+    a.href=URL.createObjectURL(blob);
+    a.download=`debrief-${(S.org||"session").replace(/[^\w\u4e00-\u9fa5-]+/g,"-").toLowerCase()}-${new Date().toISOString().slice(0,10)}.md`;
+    a.click();
+  });
+  $("#again").addEventListener("click",()=>{ S.phase="setup"; S.answers={}; S.clips={}; S.coach=null; render(); });
+  const cg=$("#coach-go"); if(cg) cg.addEventListener("click",askCoach);
+}
+
+/* ============================ boot ============================ */
+function setLang(l){
+  LANG=l; document.documentElement.lang=l==="zh"?"zh":"en";
+  $("#lang-en").setAttribute("aria-pressed",String(l==="en"));
+  $("#lang-zh").setAttribute("aria-pressed",String(l==="zh"));
+  $("#mh-priv").textContent=privLine();
+  render();
+}
+$("#lang-en").addEventListener("click",()=>setLang("en"));
+$("#lang-zh").addEventListener("click",()=>setLang("zh"));
+window.addEventListener("beforeunload",e=>{ if(S.phase!=="setup"){e.preventDefault();e.returnValue="";} });
+document.addEventListener("keydown",e=>{
+  if(e.target.tagName==="TEXTAREA"||e.target.tagName==="INPUT") return;
+  if(e.code==="Space"){ e.preventDefault();
+    if(S.phase==="reading") beginAnswer();
+    else if(S.phase==="answering") endAnswer(false);
+    else if(S.phase==="marking") nextQuestion(); }
+});
+loadDraft();
+aiLoad();
+if(!S.bankMd) S.bankMd=SCRIPTS.panel.md.trim();
+setLang(LANG);
+</script>
+</body>
+</html>

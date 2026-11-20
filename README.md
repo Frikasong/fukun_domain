@@ -117,6 +117,14 @@ Either edit `DEFAULT_FEED_URL` at the top of `scripts/fetch-instagram.mjs`, or a
 ### Trigger manually (optional)
 GitHub repo → **Actions** → **Sync Instagram Photos** → **Run workflow**.
 
+## 🎙 Mock Interviewer (The Stones)
+
+The practice room from [Frikasong/mock-interviewer](https://github.com/Frikasong/mock-interviewer) is hosted at `/mock-interviewer/` and listed as the third stone in the projects corner (`TOOLS` in `index.html`).
+
+- `mock-interviewer/index.html` is a copy of the `index.html` asset from the tool's **latest GitHub release** — don't edit it here; change it in the tool's repo and cut a release.
+- Workflow `.github/workflows/mock-interviewer-sync.yml` runs daily, downloads that asset, checks it is the interviewer page, and commits it only if it changed.
+- Trigger manually: GitHub repo → **Actions** → **Sync Mock Interviewer** → **Run workflow**.
+
 ## 💾 Data Storage
 
 Your portfolio uses **localStorage** to save:

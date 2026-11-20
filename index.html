@@ -356,6 +356,7 @@
   @media (max-width: 480px) {
     .topbar { gap: 5px; } .where { padding: 7px 12px; } .iconbtn { width: 34px; height: 34px; }
     .stele h3 { font-size: 19px; } .stele .ds { -webkit-line-clamp: 3; }
+    #steles[data-compact] .stele h3 { margin-top: 4px; } #steles[data-compact] .stele .ds { -webkit-line-clamp: 2; }
     .center-title { top: 12vh; }
   }
 </style>
@@ -491,6 +492,7 @@
       bio: 'Osgoode Hall Law School J.D. 在读，关注法律与科技的交叉领域。毕业于清华大学心理学与法律硕士，喜欢网球、爵士乐、摄影和陶艺。',
       projTitle: '创造是人类的本性', projSub: '刻在花园石头上的工具',
       demoNews: '看看今天的新闻', demoClose: '合上', newsLoading: '正在读取最新的新闻…', newsUpdated: '更新于', newsEmpty: '暂时没有新闻', openRadar: '打开完整雷达 →',
+      miTag: 'AI 模拟面试官', miDesc: '面试准备三步法的练习室：对着计时一题一题答，录像、实时转录，面试官会读题，接入你自己的 AI 还能现场追问。录像不上传。',
       st_checking: '敲门中…', st_live: '上线中', st_sleep: '休眠中 · 点击唤醒',
       tagTool: '工具', open: '打开工具 →',
       hkTag: '证据摘要生成器', hkDesc: '自动将上传的证据图片整理为格式化 PDF 摘要——含分栏标签、缩略图与页码。专为安大略省 LTB 庭审设计。',
@@ -527,6 +529,7 @@
       bio: 'J.D. student at Osgoode Hall Law School, working where law meets technology. Tsinghua alum in psychology and law; into tennis, jazz, photography and pottery.',
       projTitle: 'Creating is human nature.', projSub: 'Tools carved into the garden stones',
       demoNews: "Today's headlines", demoClose: 'Close', newsLoading: 'Reading the latest news…', newsUpdated: 'Updated', newsEmpty: 'No news right now', openRadar: 'Open the full radar →',
+      miTag: 'AI mock interviewer', miDesc: 'The practice room for a three-step prep method: one question at a time against a clock, with video and a live transcript. Connect your own AI for live follow-ups. Recordings never leave your browser.',
       st_checking: 'Knocking…', st_live: 'Live', st_sleep: 'Asleep · click to wake',
       tagTool: 'Tool', open: 'Open tool →',
       hkTag: 'Evidence brief generator', hkDesc: 'Turns uploaded evidence images into a formatted PDF brief — tab dividers, thumbnails and page numbers. Built for Ontario LTB hearings.',
@@ -1641,6 +1644,7 @@
   const TOOLS = [
     { href: 'https://housekeeper-2kp7.onrender.com/', external: true, name: 'Housekeeper', tag: 'hkTag', desc: 'hkDesc', state: 'checking' },
     { href: 'news-radar.html', external: false, nameKey: 'radarName', tag: 'radarTag', desc: 'radarDesc', state: 'checking', demo: 'news' },
+    { href: 'mock-interviewer/', external: false, name: 'Mock Interviewer', tag: 'miTag', desc: 'miDesc', state: 'checking' },
   ];
   const stelesEl = document.getElementById('steles');
   let stones = [], projectsOn = false, projectsT0 = 0, pinged = false;
@@ -1651,11 +1655,13 @@
     if (!W) return;
     stones = []; stelesEl.replaceChildren();
     const title = document.querySelector('[data-id="projects"] .center-title').getBoundingClientRect();
-    const wide = W >= 760, gap = 28;
-    const sw = wide ? Math.min(380, (W - 64 - gap) / 2) : Math.min(440, W - 32);
-    const sh = wide ? Math.min(300, H - title.bottom - 100) : Math.min(240, (H - title.bottom - 48 - gap) / 2);
+    // Stones stand in a row on wide screens and stack on narrow ones, however many tools there are.
+    const n = TOOLS.length, wide = W >= (n > 2 ? 980 : 760), gap = wide || n < 3 ? 28 : 14;
+    const sw = wide ? Math.min(n > 2 ? 340 : 380, (W - 64 - gap * (n - 1)) / n) : Math.min(440, W - 32);
+    const sh = wide ? Math.min(300, H - title.bottom - 100) : Math.min(240, (H - title.bottom - 48 - gap * (n - 1)) / n);
+    stelesEl.toggleAttribute('data-compact', !wide && sh < 215);
     TOOLS.forEach((tool, i) => {
-      const x = wide ? W / 2 + (i - 0.5) * (sw + gap) - sw / 2 : (W - sw) / 2;
+      const x = wide ? W / 2 + (i - (n - 1) / 2) * (sw + gap) - sw / 2 : (W - sw) / 2;
       const y = wide ? H - 52 - sh : title.bottom + 32 + i * (sh + gap);
       const dots = [], waist = sh * 0.6;
       // A rounded garden boulder: domed top, flatter base, lumpy outline; lit from the top left, mossy at the foot.
