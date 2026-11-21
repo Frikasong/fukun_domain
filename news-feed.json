@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:30:42.345Z",
+  "generatedAt": "2026-11-21T04:56:29.534Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/trwuo2vezrl2xb2xxznx",
+        "title": "智能体 AI 架构：当前挑战与未来机遇",
+        "url": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-21T11:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/tdxnggersjneb53zkyef",
         "title": "“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多",
         "url": "https://www.infoq.cn/article/tDxNggErsJNeb53ZkYeF?utm_source=rss&utm_medium=article",
@@ -1218,19 +1228,19 @@
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/dqlimzdy7bqiz3mc5vvq",
-        "title": "范式首秀！国产算力训练的Phai系列模型，究竟有什么不同",
-        "url": "https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-19T16:08:30.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3375253/ai-agents-are-getting-wallets-hong-kong-ready-them",
+        "title": "AI agents are getting wallets. Is Hong Kong ready for them?",
+        "url": "https://www.scmp.com/tech/big-tech/article/3375253/ai-agents-are-getting-wallets-hong-kong-ready-them",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-11-21T02:30:05.000Z",
+        "summary": "Minds by Animoca Brands, an agentic artificial intelligence platform created by the Web3 firm, is riding on Hong Kong’s push to turn automated agents into everyday shopping tools, piloting live transactions on Visa’s net",
+        "category": "tools",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/presented/business/topics/apec-2026-meets-tencent-cloud/article/3374893/apec-2026-meets-tencent-cloud-new-era-global-media-centres",
         "title": "APEC 2026 Meets Tencent Cloud: A New Era for Global Media Centres",
