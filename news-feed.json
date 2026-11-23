@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T23:00:39.088Z",
+  "generatedAt": "2026-11-23T04:55:43.556Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,56 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/uefn9kdgsimgkogidvg7",
+        "title": "「AI 圈有局」第 01 期｜5 场活动、12 个社区找到你的同路人",
+        "url": "https://www.infoq.cn/article/uEfN9kdGsIMGkOgidVG7?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-23T11:42:34.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/8yt8bjelvyouk0fvkg4o",
+        "title": "广告风控为何越审越强？轻量基座与审核 Agent 的协同进化实践｜AICon北京",
+        "url": "https://www.infoq.cn/article/8YT8bJElVYOuK0FvKG4o?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-23T11:31:44.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/jsf8dl9laevqlb7dcroq",
+        "title": "JDK 24之后的虚拟线程：生产环境的Java发生了哪些变化",
+        "url": "https://www.infoq.cn/article/JSf8dl9laEVQLb7dCROQ?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-23T11:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/a22y9gdy1yhuajkoif8z",
+        "title": "具身智能进入大浪淘沙阶段，企业需要怎样的人才？",
+        "url": "https://www.infoq.cn/article/a22y9GDY1yHuAJkOIF8z?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-23T10:48:34.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
+        "id": "InfoQ China:www.infoq.cn/article/opbzht0ohl4ibzz8exva",
+        "title": "Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了",
+        "url": "https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-23T09:20:56.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/tdxnggersjneb53zkyef",
         "title": "“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多",
         "url": "https://www.infoq.cn/article/tDxNggErsJNeb53ZkYeF?utm_source=rss&utm_medium=article",
@@ -1221,6 +1271,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/markets/article/3375424/new-19-month-low-hong-kong-stocks-plunge-ai-sell-spreads-asia",
+        "title": "New 19-month low: Hong Kong stocks plunge as AI sell-off spreads to Asia",
+        "url": "https://www.scmp.com/business/markets/article/3375424/new-19-month-low-hong-kong-stocks-plunge-ai-sell-spreads-asia",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-11-23T04:20:57.000Z",
+        "summary": "Hong Kong stocks slid to their lowest level in 19 months on Monday, with technology shares hit the hardest, as a rout in US artificial intelligence stocks continued to spill over into Asia. The Hang Seng Tech Index, whic",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3375253/ai-agents-are-getting-wallets-hong-kong-ready-them",
         "title": "AI agents are getting wallets. Is Hong Kong ready for them?",
