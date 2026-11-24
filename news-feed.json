@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:39:17.108Z",
+  "generatedAt": "2026-11-24T16:45:14.420Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -7,6 +7,86 @@
   },
   "panels": {
     "na": [
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/ethics&",
+        "title": "Ethics case against judge dismissed after he retires",
+        "url": "https://www.abajournal.com/news/article/ethics&#45;case&#45;against&#45;florida&#45;judge&#45;dismissed&#45;after&#45;he&#45;retires/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-24T16:16:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/web/article/supreme&",
+        "title": "Supreme Court considers whether bans on semiautomatic rifles violate Second Amendment",
+        "url": "https://www.abajournal.com/web/article/supreme&#45;court&#45;considers&#45;whether&#45;bans&#45;on&#45;semiautomatic&#45;rifles&#45;violate&#45;2nd&#45;amendment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-24T16:08:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/washington&",
+        "title": "Washington and Lee University law students demand resignation of dean",
+        "url": "https://www.abajournal.com/news/article/washington&#45;lee&#45;law&#45;students&#45;demand&#45;resignation&#45;of&#45;dean/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-24T15:34:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/more&",
+        "title": "More lawyers tackle client AI use before beginning work",
+        "url": "https://www.abajournal.com/news/article/more&#45;lawyers&#45;tackle&#45;client&#45;ai&#45;use&#45;before&#45;beginning&#45;work/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-24T15:17:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "LawSites:www.lawnext.com/2026/11/startup-alley-gets-a-shake-up-for-2027-as-applications-open-for-aba-techshows-annual-pitch-competition.html",
+        "title": "Startup Alley Gets A Shake-Up for 2027, As Applications Open for ABA TECHSHOW&#8217;s Annual Pitch Competition",
+        "url": "https://www.lawnext.com/2026/11/startup-alley-gets-a-shake-up-for-2027-as-applications-open-for-aba-techshows-annual-pitch-competition.html",
+        "source": "LawSites",
+        "publishedAt": "2026-11-24T14:36:11.000Z",
+        "summary": "Applications are now open for a spot in the 11th annual Startup Alley at ABA TECHSHOW, a competition that has helped catapult the success of a long list of legal technology startups and that is the featured opening event",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/24/openai-held-talks-with-ai-native-law-firm",
+        "title": "OpenAI Held Talks With AI Native Law Firm",
+        "url": "https://www.artificiallawyer.com/2026/11/24/openai-held-talks-with-ai-native-law-firm/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-24T10:21:15.000Z",
+        "summary": "Artificial Lawyer can reveal that OpenAI has been in talks with an AI native, new model law firm, with the intention of acquiring at least ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/24/catherine-bamford-joins-document-drafter-as-evangelist",
+        "title": "Catherine Bamford Joins Document Drafter as Evangelist",
+        "url": "https://www.artificiallawyer.com/2026/11/24/catherine-bamford-joins-document-drafter-as-evangelist/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-24T08:12:23.000Z",
+        "summary": "Document Drafter has hired document automation guru, Catherine Bamford, as an Evangelist to help law firms in their transition into the world of decentralised AI ...",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/24/a-more-measured-approach-to-ai-fluency",
+        "title": "A More Measured Approach to AI Fluency",
+        "url": "https://www.artificiallawyer.com/2026/11/24/a-more-measured-approach-to-ai-fluency/",
+        "source": "Artificial Lawyer",
+        "publishedAt": "2026-11-24T07:42:08.000Z",
+        "summary": "By Peter Duffy, CEO, TITANS. For years, legal tech adoption was measured in licences and logins. GenAI added prompts and tokens. This data shows who ...",
+        "category": "updates",
+        "region": "na"
+      },
       {
         "id": "ABA Journal:www.abajournal.com/news/article/2026&",
         "title": "2026 Gifts for Lawyers Guide (photo gallery)",
@@ -65,46 +145,6 @@
         "publishedAt": "2026-11-23T16:03:00.000Z",
         "summary": "",
         "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/plastic&",
-        "title": "Plastic surgeon sentenced to death for killing ‘beloved’ lawyer",
-        "url": "https://www.abajournal.com/news/article/plastic&#45;surgeon&#45;sentenced&#45;to&#45;death&#45;for&#45;killing&#45;beloved&#45;lawyer/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-23T15:53:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/safety&",
-        "title": "Safety First: If judges carry guns for protection, security experts urge them to get appropriate training",
-        "url": "https://www.abajournal.com/web/article/safety&#45;first/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-23T15:29:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/voice/article/learning&",
-        "title": "Learning the law by experiencing it",
-        "url": "https://www.abajournal.com/voice/article/learning&#45;the&#45;law&#45;by&#45;experiencing&#45;it/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-23T15:17:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/read&",
-        "title": "Read this year's Ross Essay Contest winner: 'The Pour'",
-        "url": "https://www.abajournal.com/web/article/read&#45;this&#45;years&#45;ross&#45;essay&#45;contest&#45;winner&#45;the&#45;pour/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-23T15:14:00.000Z",
-        "summary": "",
-        "category": "articles",
         "region": "na"
       },
       {
@@ -294,36 +334,6 @@
         "source": "Artificial Lawyer",
         "publishedAt": "2026-11-13T10:31:33.000Z",
         "summary": "We begin this week’s Wrap with a quick reminder that Legal Innovators New York starts on Tuesday, Nov 17 and continues with inhouse day on ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/12/legal-innovators-ny-darby-green-ropes-gray",
-        "title": "Legal Innovators NY – Darby Green, Ropes &#038; Gray",
-        "url": "https://www.artificiallawyer.com/2026/11/12/legal-innovators-ny-darby-green-ropes-gray/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-12T16:03:38.000Z",
-        "summary": "Ahead of Legal Innovators New York on Nov 17 and 18 next week at Quorum by Convene in Midtown, the events team spoke to Darby ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/12/is-big-law-ai-gaslighting-us",
-        "title": "Is Big Law &#8216;AI Gaslighting&#8217; Us?",
-        "url": "https://www.artificiallawyer.com/2026/11/12/is-big-law-ai-gaslighting-us/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-12T08:46:39.000Z",
-        "summary": "Is the recent spate of grand gestures by some Big Law firms, sometimes involving 100s of millions of dollars or more, just &#8216;AI gaslighting&#8217;? And ...",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "Artificial Lawyer:www.artificiallawyer.com/2026/11/12/keeping-legal-ai-connected-why-your-data-and-case-should-work-together",
-        "title": "Keeping Legal AI Connected: Why Your Data and Case Should Work Together",
-        "url": "https://www.artificiallawyer.com/2026/11/12/keeping-legal-ai-connected-why-your-data-and-case-should-work-together/",
-        "source": "Artificial Lawyer",
-        "publishedAt": "2026-11-12T07:47:31.000Z",
-        "summary": "By Marla Crawford, General Counsel, Cimplifi. There has never been a more exciting time to work in legal technology. There has also never been an ...",
         "category": "updates",
         "region": "na"
       },
@@ -1178,16 +1188,6 @@
         "region": "na"
       },
       {
-        "id": "LawSites:www.lawnext.com/2026/08/as-ai-legal-research-tools-race-to-give-answers-this-new-product-gives-only-cases-and-thats-the-point.html",
-        "title": "As AI Legal Research Tools Race to Give Answers, This New Product Gives Only Cases — And That&#8217;s the Point",
-        "url": "https://www.lawnext.com/2026/08/as-ai-legal-research-tools-race-to-give-answers-this-new-product-gives-only-cases-and-thats-the-point.html",
-        "source": "LawSites",
-        "publishedAt": "2026-08-03T16:08:49.000Z",
-        "summary": "At a time when virtually every major AI legal research product is moving toward delivering a single, synthesized answer to your research question, a new product launching today is based on the premise that many litigator",
-        "category": "tools",
-        "region": "na"
-      },
-      {
         "id": "OpenAI News:openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
         "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -1220,26 +1220,6 @@
         "region": "cn"
       },
       {
-        "id": "InfoQ China:www.infoq.cn/article/ex1yfm98p3mvryqbbo0x",
-        "title": "基于紫光展锐UIS7885的首个5G开源派诞生！",
-        "url": "https://www.infoq.cn/article/eX1YFM98P3MvrYqBbo0x?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-24T10:46:46.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/ymyl4dvnr1prkd8itfaw",
-        "title": "从批量生成到业务可用：电商 AI 剪辑的工程取舍与实践复盘｜AICon北京",
-        "url": "https://www.infoq.cn/article/YMYl4DVNr1pRKD8ITfaW?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-24T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
         "id": "InfoQ China:www.infoq.cn/video/its3v5ofmruikl5sewuu",
         "title": "企业 AI 发展新趋势：推动 AI Agent 迈向规模化应用的新阶段",
         "url": "https://www.infoq.cn/video/its3v5OfmRuikL5SeWUu?utm_source=rss&utm_medium=article",
@@ -1262,26 +1242,6 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3375538/hong-kong-stocks-surge-jensen-huangs-surprising-comeback-revives-ai-trade",
-        "title": "Hong Kong stocks advance as Jensen Huang’s surprising comeback revives AI trade",
-        "url": "https://www.scmp.com/business/china-business/article/3375538/hong-kong-stocks-surge-jensen-huangs-surprising-comeback-revives-ai-trade",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-11-24T01:45:16.000Z",
-        "summary": "Hong Kong stocks advanced on Tuesday, as the return of Jensen Huang to Nvidia sparked buying interest and reignited the artificial intelligence (AI) trade. The Hang Seng Index gained 0.3 per cent to 22,450.82 as of 10.33",
-        "category": "updates",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/business/companies/article/3375512/can-hong-kong-turn-university-research-unicorns-through-venture-capital-funds",
-        "title": "Can Hong Kong turn university research into unicorns through venture capital funds?",
-        "url": "https://www.scmp.com/business/companies/article/3375512/can-hong-kong-turn-university-research-unicorns-through-venture-capital-funds",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-11-23T23:00:07.000Z",
-        "summary": "Hong Kong Baptist University (HKBU) has two funds worth a combined HK$100 million (US$12.75 million) to invest in start-ups, joining a wave of partnerships between the city’s universities and venture capital firms seekin",
-        "category": "tools",
-        "region": "cn_en"
-      },
-      {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3375253/ai-agents-are-getting-wallets-hong-kong-ready-them",
         "title": "AI agents are getting wallets. Is Hong Kong ready for them?",
         "url": "https://www.scmp.com/tech/big-tech/article/3375253/ai-agents-are-getting-wallets-hong-kong-ready-them",
@@ -1289,16 +1249,6 @@
         "publishedAt": "2026-11-21T02:30:05.000Z",
         "summary": "Minds by Animoca Brands, an agentic artificial intelligence platform created by the Web3 firm, is riding on Hong Kong’s push to turn automated agents into everyday shopping tools, piloting live transactions on Visa’s net",
         "category": "tools",
-        "region": "cn_en"
-      },
-      {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3375076/too-high-id-still-buy-anthropic-ipo-entices-chinese-investors-despite-barriers",
-        "title": "‘Too high, but I’d still buy’: Anthropic IPO entices Chinese investors despite barriers",
-        "url": "https://www.scmp.com/tech/big-tech/article/3375076/too-high-id-still-buy-anthropic-ipo-entices-chinese-investors-despite-barriers",
-        "source": "SCMP China Business",
-        "publishedAt": "2026-11-19T14:00:06.000Z",
-        "summary": "For Cecilia Yang, a 28-year-old consultant in the eastern Chinese city of Hangzhou, Claude has become an indispensable daily colleague. So when the AI chatbot’s creator, Anthropic, priced its blockbuster initial public o",
-        "category": "updates",
         "region": "cn_en"
       }
     ]
