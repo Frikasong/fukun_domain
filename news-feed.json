@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T16:45:14.420Z",
+  "generatedAt": "2026-11-25T01:46:13.792Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -8,11 +8,31 @@
   "panels": {
     "na": [
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/ethics&",
-        "title": "Ethics case against judge dismissed after he retires",
-        "url": "https://www.abajournal.com/news/article/ethics&#45;case&#45;against&#45;florida&#45;judge&#45;dismissed&#45;after&#45;he&#45;retires/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "ABA Journal:www.abajournal.com/columns/article/two&",
+        "title": "2 Montgomery County magnet stories raise 1 question about access",
+        "url": "https://www.abajournal.com/columns/article/two&#45;montgomery&#45;county&#45;magnet&#45;stories&#45;raise&#45;one&#45;question&#45;about&#45;access/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-11-24T16:16:00.000Z",
+        "publishedAt": "2026-11-24T19:04:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/the&",
+        "title": "The Burton Book Review: &#8216;Department of Fate&#8217; by Rachel Maddow",
+        "url": "https://www.abajournal.com/news/article/the&#45;burton&#45;book&#45;review&#45;department&#45;of&#45;fate&#45;by&#45;rachel&#45;maddow/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-24T18:51:00.000Z",
+        "summary": "",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "ABA Journal:www.abajournal.com/news/article/washington&",
+        "title": "Judge receives admonishment for offensive comment about Native Americans",
+        "url": "https://www.abajournal.com/news/article/washington&#45;judge&#45;receives&#45;admonishment&#45;for&#45;offensive&#45;native&#45;american&#45;comments/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "source": "ABA Journal",
+        "publishedAt": "2026-11-24T17:32:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -22,17 +42,17 @@
         "title": "Supreme Court considers whether bans on semiautomatic rifles violate Second Amendment",
         "url": "https://www.abajournal.com/web/article/supreme&#45;court&#45;considers&#45;whether&#45;bans&#45;on&#45;semiautomatic&#45;rifles&#45;violate&#45;2nd&#45;amendment/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-11-24T16:08:00.000Z",
+        "publishedAt": "2026-11-24T17:12:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
       },
       {
-        "id": "ABA Journal:www.abajournal.com/news/article/washington&",
-        "title": "Washington and Lee University law students demand resignation of dean",
-        "url": "https://www.abajournal.com/news/article/washington&#45;lee&#45;law&#45;students&#45;demand&#45;resignation&#45;of&#45;dean/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
+        "id": "ABA Journal:www.abajournal.com/news/article/ethics&",
+        "title": "Ethics case against judge dismissed after he retires",
+        "url": "https://www.abajournal.com/news/article/ethics&#45;case&#45;against&#45;florida&#45;judge&#45;dismissed&#45;after&#45;he&#45;retires/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
-        "publishedAt": "2026-11-24T15:34:00.000Z",
+        "publishedAt": "2026-11-24T16:16:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -54,6 +74,16 @@
         "source": "LawSites",
         "publishedAt": "2026-11-24T14:36:11.000Z",
         "summary": "Applications are now open for a spot in the 11th annual Startup Alley at ABA TECHSHOW, a competition that has helped catapult the success of a long list of legal technology startups and that is the featured opening event",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "OpenAI News:openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "source": "OpenAI News",
+        "publishedAt": "2026-11-24T13:00:00.000Z",
+        "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
         "category": "updates",
         "region": "na"
       },
@@ -113,36 +143,6 @@
         "url": "https://www.abajournal.com/news/article/ny&#45;lawyer&#45;publicly&#45;censured&#45;over&#45;antisemitic&#45;slurs&#45;physical&#45;aggression&#45;during&#45;courthouse&#45;demonstration/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
         "source": "ABA Journal",
         "publishedAt": "2026-11-23T17:03:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/zacharia&",
-        "title": "Former White House press secretary Zacharia investigated by California bar over lawyer claims",
-        "url": "https://www.abajournal.com/news/article/zacharia&#45;investigated&#45;by&#45;california&#45;bar&#45;over&#45;lawyer&#45;claims/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-23T16:36:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/web/article/meet&",
-        "title": "Meet the researcher tracking hallucinations in legal filings",
-        "url": "https://www.abajournal.com/web/article/meet&#45;legal&#45;ai&#45;researcher&#45;damien&#45;charlotin/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-23T16:11:00.000Z",
-        "summary": "",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "ABA Journal:www.abajournal.com/news/article/senators&",
-        "title": "Senators renew bill to increase number of federal judges",
-        "url": "https://www.abajournal.com/news/article/senators&#45;renewing&#45;bill&#45;to&#45;increase&#45;number&#45;of&#45;federal&#45;judges/?utm_source=feeds&utm_medium=rss&utm_campaign=site_rss_feeds",
-        "source": "ABA Journal",
-        "publishedAt": "2026-11-23T16:03:00.000Z",
         "summary": "",
         "category": "updates",
         "region": "na"
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/f1gd1zomyb76foytyesg",
+        "title": "性能提升 6.4 倍、依赖归零，Effect 4.0 值得立即升级吗？",
+        "url": "https://www.infoq.cn/article/f1gd1zOMyb76FoYtYEsG?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-25T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/vaeuvvwd9aiafxzhzsmh",
         "title": "Pinterest 让大模型取代多阶段聚类，但最大的提速来自“少推理”",
         "url": "https://www.infoq.cn/article/vaEUVvWD9AIaFXZhzSMH?utm_source=rss&utm_medium=article",
@@ -1241,6 +1251,16 @@
       }
     ],
     "cn_en": [
+      {
+        "id": "SCMP China Business:www.scmp.com/business/markets/article/3375601/why-asias-ai-rally-faces-tougher-road-even-after-jensen-huangs-comeback",
+        "title": "Why Asia’s AI rally faces a tougher road even after Jensen Huang’s comeback",
+        "url": "https://www.scmp.com/business/markets/article/3375601/why-asias-ai-rally-faces-tougher-road-even-after-jensen-huangs-comeback",
+        "source": "SCMP China Business",
+        "publishedAt": "2026-11-24T22:00:15.000Z",
+        "summary": "While Jensen Huang’s return to Nvidia has soothed market sentiment, analysts have warned that the artificial intelligence boom that propelled Asian chip stocks this year is unlikely to regain its first-half momentum – an",
+        "category": "updates",
+        "region": "cn_en"
+      },
       {
         "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3375253/ai-agents-are-getting-wallets-hong-kong-ready-them",
         "title": "AI agents are getting wallets. Is Hong Kong ready for them?",
