@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:31:56.881Z",
+  "generatedAt": "2026-11-26T01:21:29.426Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -1210,6 +1210,16 @@
     ],
     "cn": [
       {
+        "id": "InfoQ China:www.infoq.cn/article/7qfcplgfvmpscsxyx2ff",
+        "title": "TypeScript 改用 Go，Angular 被迫拥抱 Rust：前端编译链越来越“多语言”",
+        "url": "https://www.infoq.cn/article/7qFCpLgFvMpScsxyX2fF?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-26T08:00:00.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
+      {
         "id": "InfoQ China:www.infoq.cn/article/v7voefveplrhan2efmua",
         "title": "阿福学会“望闻问切”背后，真实医疗需求正在重塑百灵大模型",
         "url": "https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa?utm_source=rss&utm_medium=article",
@@ -1242,13 +1252,13 @@
     ],
     "cn_en": [
       {
-        "id": "SCMP China Business:www.scmp.com/tech/big-tech/article/3375253/ai-agents-are-getting-wallets-hong-kong-ready-them",
-        "title": "AI agents are getting wallets. Is Hong Kong ready for them?",
-        "url": "https://www.scmp.com/tech/big-tech/article/3375253/ai-agents-are-getting-wallets-hong-kong-ready-them",
+        "id": "SCMP China Business:www.scmp.com/business/china-business/article/3375721/ai-turmoil-spurs-risk-mode-china-government-bond-yield-slides-record-low",
+        "title": "AI turmoil spurs risk-off mode as China government bond yield slides to record low",
+        "url": "https://www.scmp.com/business/china-business/article/3375721/ai-turmoil-spurs-risk-mode-china-government-bond-yield-slides-record-low",
         "source": "SCMP China Business",
-        "publishedAt": "2026-11-21T02:30:05.000Z",
-        "summary": "Minds by Animoca Brands, an agentic artificial intelligence platform created by the Web3 firm, is riding on Hong Kong’s push to turn automated agents into everyday shopping tools, piloting live transactions on Visa’s net",
-        "category": "tools",
+        "publishedAt": "2026-11-26T00:00:13.000Z",
+        "summary": "Investors are hunkering down for defensive positions, driving down the yield on the benchmark longer-dated Chinese government bond to a record low and loading up on dividend stocks, as the volatility of the artificial in",
+        "category": "updates",
         "region": "cn_en"
       }
     ]
