@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T01:20:10.183Z",
+  "generatedAt": "2026-11-27T15:53:08.869Z",
   "highlights": {
     "na": [],
     "cn": [],
@@ -104,6 +104,16 @@
         "source": "LawSites",
         "publishedAt": "2026-11-24T14:36:11.000Z",
         "summary": "Applications are now open for a spot in the 11th annual Startup Alley at ABA TECHSHOW, a competition that has helped catapult the success of a long list of legal technology startups and that is the featured opening event",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/ai-value-based-pricing-small-law-firm",
+        "title": "Value-Based Legal Pricing: How One Small Firm Earns More Without Billing More Hours",
+        "url": "https://www.clio.com/blog/ai-value-based-pricing-small-law-firm/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-11-24T00:00:00.000Z",
+        "summary": "See how Marlowe Law paired Clio Work and AltFee to turn AI efficiency into more profitable pricing and higher revenue.",
         "category": "updates",
         "region": "na"
       },
@@ -248,6 +258,26 @@
         "region": "na"
       },
       {
+        "id": "Clio Blog:www.clio.com/blog/clio-integration-award-winners-2026",
+        "title": "Meet the 2026 Clio Integration Award Winners: RedactifyAI, AltFee, and Querious",
+        "url": "https://www.clio.com/blog/clio-integration-award-winners-2026/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-11-10T00:00:00.000Z",
+        "summary": "From AI redaction to smarter pricing and real-time meeting support, 2026 Clio Integration Award winners show legal tech working together.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/visualizations-in-vincent",
+        "title": "Introducing Visualizations in Vincent",
+        "url": "https://www.clio.com/blog/visualizations-in-vincent/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-11-10T00:00:00.000Z",
+        "summary": "Turn litigation data, contract information and corporate structures into clear, useful visuals all within Vincent.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/11/founder-nikki-shaver-to-leave-legaltech-hub-investor-jeroen-plink-to-step-in-announces-strategic-partnership-with-baretzbrunelle.html",
         "title": "Founder Nikki Shaver to Leave Legaltech Hub, Investor Jeroen Plink to Step In, Announces Strategic Partnership with Baretz+Brunelle",
         "url": "https://www.lawnext.com/2026/11/founder-nikki-shaver-to-leave-legaltech-hub-investor-jeroen-plink-to-step-in-announces-strategic-partnership-with-baretzbrunelle.html",
@@ -265,6 +295,16 @@
         "publishedAt": "2026-11-05T16:57:01.000Z",
         "summary": "As I have reported here, the legal technology company Clio is making a big push into the judiciary. It wants to develop AI tools to make judges’ jobs easier, and it has even trademarked the phrase “judiciary-grade AI.” T",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/the-release-report-october-2026",
+        "title": "The Release Report: October 2026",
+        "url": "https://www.clio.com/blog/the-release-report-october-2026/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-11-04T00:00:00.000Z",
+        "summary": "From a shared workspace for your matter to a draft in the right voice, Vincent supports your work at every stage.",
+        "category": "tools",
         "region": "na"
       },
       {
@@ -335,6 +375,26 @@
         "publishedAt": "2026-10-29T13:56:04.000Z",
         "summary": "Within the span of 48 hours this week, I was an in-person witness to the legal profession’s divide on AI. Through a bit of karmic coincidence, I was in a room one day dominated by people who fear it as a threat, and then",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/introducing-collaboration-in-vincent",
+        "title": "Introducing collaboration in Vincent",
+        "url": "https://www.clio.com/blog/introducing-collaboration-in-vincent/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-10-29T00:00:00.000Z",
+        "summary": "With Projects, legal teams can now share documents and build on colleagues’ work in one place.",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/cliocon-2026-highlights",
+        "title": "ClioCon 2026: Going Beyond Limits in Boston",
+        "url": "https://www.clio.com/blog/cliocon-2026-highlights/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-10-28T00:00:00.000Z",
+        "summary": "ClioCon 2026 recap: Jack Newton’s keynote, drafting in Clio Work, Clio Phones, Legal Trends Report findings, award winners, and ClioCon 2027 in Seattle.",
+        "category": "articles",
         "region": "na"
       },
       {
@@ -688,6 +748,16 @@
         "region": "na"
       },
       {
+        "id": "Clio Blog:www.clio.com/blog/clio-vincent-codex-plugin-law",
+        "title": "Introducing Clio for Codex",
+        "url": "https://www.clio.com/blog/clio-vincent-codex-plugin-law/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-09-17T00:00:00.000Z",
+        "summary": "Today we’re making Vincent available in Codex as a plugin. The premise is simple: when you’re doing legal work on Codex, you should be able to call on Vincent as a legal agent. Through MCP, you can now invoke Vincent dir",
+        "category": "tools",
+        "region": "na"
+      },
+      {
         "id": "LawSites:www.lawnext.com/2026/09/on-lawnext-alex-su-newly-named-president-of-latitude-legal-on-why-ai-is-driving-demand-for-flex-talent.html",
         "title": "On LawNext: Alex Su, Newly Named President of Latitude Legal, On Why AI Is Driving Demand for Flex Talent",
         "url": "https://www.lawnext.com/2026/09/on-lawnext-alex-su-newly-named-president-of-latitude-legal-on-why-ai-is-driving-demand-for-flex-talent.html",
@@ -715,6 +785,26 @@
         "publishedAt": "2026-09-16T13:00:10.000Z",
         "summary": "The mystery of Bridget M. McCormack&#8217;s destination has been solved. Last week, I reported that McCormack, current president and CEO of the American Arbitration Association and former chief justice of the Michigan Su",
         "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/bridget-mary-mccormack-gm-judiciary",
+        "title": "Clio recruits former Chief Justice Bridget Mary McCormack to help build the future of court technology",
+        "url": "https://www.clio.com/blog/bridget-mary-mccormack-gm-judiciary/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-09-16T00:00:00.000Z",
+        "summary": "Former Michigan Supreme Court Chief Justice joins Clio to lead the company’s growth in the judiciary. Clio, the global leader in legal AI, today announced that former Michigan Supreme Court Chief Justice Bridget Mary McC",
+        "category": "updates",
+        "region": "na"
+      },
+      {
+        "id": "Clio Blog:www.clio.com/blog/ai-is-making-lawyers-faster-is-it-making-firms-better",
+        "title": "AI is making lawyers faster. Is it making firms better?",
+        "url": "https://www.clio.com/blog/ai-is-making-lawyers-faster-is-it-making-firms-better/",
+        "source": "Clio Blog",
+        "publishedAt": "2026-09-16T00:00:00.000Z",
+        "summary": "AI is speeding up legal work in increasingly visible and practical ways. Drafting cycles are compressing. Legal research that once took hours now takes minutes. And, law firms and in-house teams are incrementally realizi",
+        "category": "articles",
         "region": "na"
       },
       {
@@ -1116,85 +1206,25 @@
         "summary": "API Partnership with Stack Overflow Stack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platform for highly technica",
         "category": "tools",
         "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "title": "Building an early warning system for LLM-aided biological threat creation",
-        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-31T08:00:00.000Z",
-        "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, we found that GPT-4 ",
-        "category": "articles",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/whoop",
-        "title": "Delivering LLM-powered health solutions",
-        "url": "https://openai.com/index/whoop",
-        "source": "OpenAI News",
-        "publishedAt": "2024-01-04T08:00:00.000Z",
-        "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
-        "category": "updates",
-        "region": "na"
-      },
-      {
-        "id": "OpenAI News:openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "title": "Scaling Kubernetes to 7,500 nodes",
-        "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
-        "source": "OpenAI News",
-        "publishedAt": "2021-01-25T08:00:00.000Z",
-        "summary": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling Laws for Neural Langua",
-        "category": "articles",
-        "region": "na"
       }
     ],
     "cn": [
+      {
+        "id": "InfoQ China:www.infoq.cn/article/zrubhycrbmtrovzjlpqn",
+        "title": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+        "url": "https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&utm_medium=article",
+        "source": "InfoQ China",
+        "publishedAt": "2026-11-27T16:15:06.000Z",
+        "summary": "点击查看原文>",
+        "category": "updates",
+        "region": "cn"
+      },
       {
         "id": "InfoQ China:www.infoq.cn/article/z9iwzay8hp15oda2vki6",
         "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
         "url": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
         "source": "InfoQ China",
         "publishedAt": "2026-11-26T15:35:51.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/minibook/h1blhgotkyelgs0kmahe",
-        "title": "从语音基座到语音应用：讯飞语音大模型能力全解",
-        "url": "https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-26T10:29:57.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/xzqgjew18ecxhga7ffbx",
-        "title": "清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
-        "url": "https://www.infoq.cn/article/xzQgJEw18ECxHGA7FFBx?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-26T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/htamkofm9ol5c0htycsk",
-        "title": "谷歌云 Compute Engine API 改用不可变更的日期格式版本",
-        "url": "https://www.infoq.cn/article/htamKOFm9ol5c0htycSK?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-26T10:00:00.000Z",
-        "summary": "点击查看原文>",
-        "category": "updates",
-        "region": "cn"
-      },
-      {
-        "id": "InfoQ China:www.infoq.cn/article/v7voefveplrhan2efmua",
-        "title": "阿福学会“望闻问切”背后，真实医疗需求正在重塑百灵大模型",
-        "url": "https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa?utm_source=rss&utm_medium=article",
-        "source": "InfoQ China",
-        "publishedAt": "2026-11-25T18:22:30.000Z",
         "summary": "点击查看原文>",
         "category": "updates",
         "region": "cn"
